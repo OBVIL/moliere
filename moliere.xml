@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE cat [
+  <!ELEMENT cat ( head, ( file+ | cat+ ) )>
+  <!ATTLIST cat
+    xml:id ID #REQUIRED 
+   >
+  <!-- 
+<book> : un livre dans un corpus
+
+  -->
+  <!ELEMENT file ( subject* )>
+  <!ATTLIST file
+    href CDATA #REQUIRED 
+   >
+  <!ELEMENT subject EMPTY>
+  <!ATTLIST subject
+    field CDATA #REQUIRED 
+   >
+  <!ELEMENT head ( #PCDATA | i | sc | sup )*>
+  <!ELEMENT i ( #PCDATA | sup )*>
+  <!ELEMENT sup ( #PCDATA )*>
+  <!ELEMENT sc ( #PCDATA | sup )*>
+]>
+<cat xml:id="moliere">
+  <head>Œuvres de Molière</head>
+  <file href="documents/moliere_amantsmagnifiques.xml"/>
+  <file href="documents/moliere_amantsmagnifiques_livret.xml"/>
+  <file href="documents/moliere_amphitryon.xml"/>
+  <file href="documents/moliere_amourmedecin.xml"/>
+  <file href="documents/moliere_avare.xml"/>
+  <file href="documents/moliere_critiqueecoledesfemmes.xml"/>
+  <file href="documents/moliere_princesseelide.xml"/>
+  <file href="documents/moliere_ecoledesmaris.xml"/>
+  <file href="documents/moliere_ecoledesfemmes.xml"/>
+  <file href="documents/moliere_etourdi.xml"/>
+  <file href="documents/moliere_facheux.xml"/>
+  <file href="documents/moliere_sganarelle.xml"/>
+</cat>

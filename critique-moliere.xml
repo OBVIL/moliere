@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE cat [
+  <!ELEMENT cat ( head, ( file+ | cat+ ) )>
+  <!ATTLIST cat
+    xml:id ID #REQUIRED 
+    formats CDATA #IMPLIED
+  >
+  <!ELEMENT file ( subject* )>
+  <!ATTLIST file
+    href CDATA #REQUIRED 
+    formats CDATA #IMPLIED
+  >
+  <!ELEMENT subject EMPTY>
+  <!ATTLIST subject
+    field CDATA #REQUIRED 
+  >
+  <!ELEMENT head ( #PCDATA | i | sc | sup )*>
+  <!ELEMENT i ( #PCDATA | sup )*>
+  <!ELEMENT sup ( #PCDATA )*>
+  <!ELEMENT sc ( #PCDATA | sup )*>
+]>
+<cat xml:id="moliere" formats="none">
+  <!-- formats="" : pas de formats détachables genre epub dans cette base, pour ça, renvoyer à la base critique -->
+  <head>Ouvrages critiques sur Molière</head>
+  <file href="../critique/bergson/bergson_rire.xml"/>
+</cat>
