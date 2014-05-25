@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE html>
-<h1>Mise à jour du site Molière</h1>
+<h1>Mise Ã  jour du site MoliÃ¨re</h1>
 <?php
 ini_set('max_execution_time', -1);
 if(isset($_POST['update'])) {
@@ -12,4 +12,4 @@ if(isset($_POST['update'])) {
 <form method="post">
 <button name="update" type="submit">Update</button>
 </form>
-<p>L’opération peut prendre plusieurs minutes</p>
+<p>Lâ€™opÃ©ration peut prendre plusieurs minutes</p>
