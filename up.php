@@ -5,7 +5,7 @@
 ini_set('max_execution_time', -1);
 if(isset($_POST['update'])) {
   echo '<pre>';
-  system(dirname(__FILE__).'/up.sh');
+  system(dirname(__FILE__).'/build.sh');
   echo '</pre>';
 }
 ?>
