@@ -22,5 +22,6 @@
 <cat xml:id="moliere" formats="none">
   <!-- formats="" : pas de formats détachables genre epub dans cette base, pour ça, renvoyer à la base critique -->
   <head>Ouvrages critiques sur Molière</head>
+  <file href="../critique/la-grange/la-grange_preface.xml"/>
   <file href="../critique/bergson/bergson_rire.xml"/>
 </cat>
