@@ -61,6 +61,7 @@ else echo '
     ?>
     <link rel="stylesheet" type="text/css" href="<?php echo $teipot; ?>html.css" />
     <link rel="stylesheet" type="text/css" href="<?php echo $teipot; ?>teipot.css" />
+    <link rel="stylesheet" type="text/css" href="<?php echo Web::$basehref ?>moliere.css" />
     <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700,900,700italic,600italic' rel='stylesheet' type='text/css' />
     <link rel="stylesheet" type="text/css" href="<?php echo $theme; ?>obvil.css" />
     <style type="text/css">
