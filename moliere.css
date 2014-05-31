@@ -22,3 +22,7 @@ h3.head {
 .l + .stage {
 	margin-top: 1.5em;
 }
+
+.couleur2 {
+	background-color: purple;
+}
