@@ -82,11 +82,13 @@ div.snip a.bookmark { display: none; }
       <div id="contenu">
         <div id="main">
           <nav id="toolbar">
+            <nav class="breadcrumb">
             <?php 
             echo '<a href="' . Web::$basehref . '">Molière</a> » ';
             // nous avons un livre, glisser aussi les liens de téléchargement
             if (isset($doc['breadcrumb'])) echo $doc['breadcrumb']; 
             ?>
+            </nav>
           </nav>
           <div id="article">
       <?php
@@ -114,6 +116,7 @@ else if($pot) {
           <?php
 // livre
 if (isset($doc['bookid'])) {
+  if(isset($doc['download'])) echo "\n".'<nav id="download">' . $doc['download'] . '</nav>';
   echo "\n<nav>";
   // auteur, titre, date
   if ($doc['byline']) $doc['byline']=$doc['byline'].'<br/>';
@@ -128,10 +131,6 @@ if (isset($doc['bookid'])) {
   // table des matières
   echo '
           <div id="toolpan" class="toc">
-            <ul class="tabs">
-              <li id="toc" onclick="this.parentNode.parentNode.className=this.id"><span>Table des<br/> matières</span></li>
-              <li id="download" onclick="this.parentNode.parentNode.className=this.id"><span>Télécharger</span></li>
-            </ul>
             <div class="download">
                '.((isset($doc['download']))?$doc['download']:'').'
             </div>
