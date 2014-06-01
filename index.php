@@ -158,6 +158,7 @@ else {
 }
 ?>
       </aside>
+      <span id="ruler"></span>
     </div>
     <script type="text/javascript" src="<?php echo $teipot; ?>Tree.js">//</script>
     <script type="text/javascript" src="<?php echo $teipot; ?>Sortable.js">//</script>
