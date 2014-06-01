@@ -30,3 +30,8 @@ h3.head {
 .couleur2:hover {
 	background-color: #8a6e5a;
 }
+
+#ruler {
+	visibility: hidden;
+	white-space: nowrap;
+}
