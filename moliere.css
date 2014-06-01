@@ -26,3 +26,7 @@ h3.head {
 .couleur2 {
 	background-color: #ac9382;
 }
+
+.couleur2:hover {
+	background-color: #8a6e5a;
+}
