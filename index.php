@@ -7,6 +7,7 @@
 include (dirname(__FILE__).'/../teipot/Teipot.php');
 $path = Web::pathinfo(); // path demandé
 $pot = false;
+$q = ""; // requête en cours
 // aiguillage de l’adressage
 
 // les pièces commencent par moliere…
@@ -14,6 +15,8 @@ if (strpos($path, 'moliere') === 0) {
   $pot = new Teipot(dirname(__FILE__).'/moliere.sqlite', 'fr', $path);
   $pot->file(); // fichiers statiques comme xml, epub, etc… sort tout seul en cas de fichier
   $doc=$pot->doc(); // sinon, attraper un doc
+  $q = $pot->q;
+  $moliere = true;
 }
 // ou alors on charge de la critique sous critique/…, 
 else if (strpos($path, 'critique/') === 0) {
@@ -22,6 +25,8 @@ else if (strpos($path, 'critique/') === 0) {
   $pot->file(); // fichiers statiques, notamment images
   $doc=$pot->doc();
   // ici rajouter des metas pour les moteurs de recherche, noindex, renvoi à la version canonique du document
+  $q = $pot->q;
+  $critique = true;
 }
 // aller chercher un doc statique écrit en html
 else if (strpos($path, 'doc/')===0) {
@@ -56,7 +61,7 @@ $theme = Web::basehref().'../theme/'; // autres ressources spécifiques
     <?php 
 if(isset($doc['head'])) echo $doc['head']; 
 else echo '
-<title>OBVIL, corpus Critique</title>
+<title>OBVIL, Molière</title>
 ';
     ?>
     <link rel="stylesheet" type="text/css" href="<?php echo $teipot; ?>html.css" />
@@ -88,8 +93,8 @@ div.snip a.bookmark { display: none; }
           <nav id="toolbar">
             <nav class="breadcrumb">
             <?php 
-            echo '<a href="' . Web::$basehref . '">Molière</a> » ';
-            // nous avons un livre, glisser aussi les liens de téléchargement
+            if (isset($moliere)) echo '<a href="' . Web::$basehref . 'moliere' . $pot->qsa(null, null, '?') . '">Théâtre de Molière</a> » ';
+            else if (isset($critique)) echo '<a href="' . Web::$basehref . 'critique/' . $pot->qsa(null, null, '?') . '">Critique moliéresque</a> » ';
             if (isset($doc['breadcrumb'])) echo $doc['breadcrumb']; 
             ?>
             </nav>
@@ -128,16 +133,13 @@ if (isset($doc['bookid'])) {
   // rechercher dans ce livre
   echo '
   <form action=".#conc" name="searchbook" id="searchbook">
-    <input name="q" id="q" onclick="this.select()" class="search" size="20" placeholder="Rechercher dans ce livre" title="Rechercher dans ce livre" value="'. str_replace('"', '&quot;', $pot->q) .'"/>
+    <input name="q" id="q" class="search" size="20" onclick="this.select()"  placeholder="Rechercher dans ce livre" title="Rechercher dans ce livre" value="'. str_replace('"', '&quot;', $q) .'"/>
     <input type="image" id="go" alt="&gt;" value="&gt;" name="go" src="'. $theme . 'img/loupe.png"/>
   </form>
   ';
   // table des matières
   echo '
           <div id="toolpan" class="toc">
-            <div class="download">
-               '.((isset($doc['download']))?$doc['download']:'').'
-            </div>
             <div class="toc">
               '.$doc['toc'].'
             </div>
@@ -146,15 +148,13 @@ if (isset($doc['bookid'])) {
   echo "\n</nav>";
 }
 // accueil ? formulaire de recherche général
-else {
-/*
+else if(isset($moliere) || isset($critique)) {
   echo'
     <form action="" style="text-align:center">
-      <input name="q" placeholder="Rechercher" class="text" value="'.str_replace('"', '&quot;', $pot->q).'"/>
-      <button type="submit">Rechercher</button>
+      <input name="q" id="q" class="search" size="20" onclick="this.select()" placeholder="Rechercher" class="text" value="'.str_replace('"', '&quot;', $q).'"/>
+      <input type="image" id="go" alt="&gt;" value="&gt;" name="go" src="'. $theme . 'img/loupe.png"/>
     </form>
   ';
-*/
 }
 ?>
       </aside>
