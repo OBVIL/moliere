@@ -64,6 +64,10 @@ else echo '
     <link rel="stylesheet" type="text/css" href="<?php echo Web::$basehref ?>moliere.css" />
     <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700,900,700italic,600italic' rel='stylesheet' type='text/css' />
     <link rel="stylesheet" type="text/css" href="<?php echo $theme; ?>obvil.css" />
+    
+    <script type="text/javascript" src="<?php echo Web::$basehref ?>js/jquery-1.11.1.min.js"></script>
+    
+    
     <style type="text/css">
 div.snip a.bookmark { display: none; }
     </style>
@@ -157,5 +161,40 @@ else {
     </div>
     <script type="text/javascript" src="<?php echo $teipot; ?>Tree.js">//</script>
     <script type="text/javascript" src="<?php echo $teipot; ?>Sortable.js">//</script>
+    
+    <!-- Pour l'alignement des vers -->
+    <script type="text/javascript">
+    
+    function getStringWidth(theString) {
+    	var ruler = document.getElementById('ruler');
+    	ruler.innerHTML=theString;
+    	return ruler.offsetWidth;
+    }
+    
+    
+    (function() {
+    // Cool! il y a juste des IE un peu paumés, mais tant pis , c’est trop simple http://quirksmode.org/dom/core/#t11
+    var theVerses = document.getElementsByClassName('part-Y');
+    var tempText;
+    var theGoodPrevious;
+    var idVerse;
+    
+    $(".part-Y").each(function() {
+    	var coucou = $(this).prev(".l");
+    	var sizeOf = getStringWidth(coucou.html());
+    	//var sizeOf = getStringWidth(test.prev(".l").html());
+    	var tempText = "<span class=\"space\" style=\"width:" + sizeOf + "px\"></span>" + $(this).html();
+    	$(this).html(tempText); })
+    	
+    	//for (var i = 0; i < theVerses.length; i++) {	
+    	//	var theGoodPrevious = theVerses[i].prev(".l");
+    	//	var sizeOf = getStringWidth(theGoodPrevious);
+    	//	var tempText = "<span class=\"space\" style=\"width:" + sizeOf + "px\"></span>" + theVerses[i].innerHTML;
+    	//	theVerses[i].innerHTML=tempText;
+    	//}
+    })();
+    
+    </script>
+    <!-- Fin -->
   </body>
 </html>
