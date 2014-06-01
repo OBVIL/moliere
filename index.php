@@ -66,11 +66,11 @@ else echo '
     ?>
     <link rel="stylesheet" type="text/css" href="<?php echo $teipot; ?>html.css" />
     <link rel="stylesheet" type="text/css" href="<?php echo $teipot; ?>teipot.css" />
-    <link rel="stylesheet" type="text/css" href="<?php echo Web::$basehref ?>moliere.css" />
+    <link rel="stylesheet" type="text/css" href="<?php echo Web::basehref() ?>moliere.css" />
     <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700,900,700italic,600italic' rel='stylesheet' type='text/css' />
     <link rel="stylesheet" type="text/css" href="<?php echo $theme; ?>obvil.css" />
     
-    <script type="text/javascript" src="<?php echo Web::$basehref ?>js/jquery-1.11.1.min.js"></script>
+    <script type="text/javascript" src="<?php echo Web::basehref() ?>js/jquery-1.11.1.min.js"></script>
     
     
     <style type="text/css">
@@ -93,8 +93,8 @@ div.snip a.bookmark { display: none; }
           <nav id="toolbar">
             <nav class="breadcrumb">
             <?php 
-            if (isset($moliere)) echo '<a href="' . Web::$basehref . 'moliere' . $pot->qsa(null, null, '?') . '">Théâtre de Molière</a> » ';
-            else if (isset($critique)) echo '<a href="' . Web::$basehref . 'critique/' . $pot->qsa(null, null, '?') . '">Critique moliéresque</a> » ';
+            if (isset($moliere)) echo '<a href="' . Web::basehref() . 'moliere' . $pot->qsa(null, null, '?') . '">Théâtre de Molière</a> » ';
+            else if (isset($critique)) echo '<a href="' . Web::basehref() . 'critique/' . $pot->qsa(null, null, '?') . '">Critique moliéresque</a> » ';
             if (isset($doc['breadcrumb'])) echo $doc['breadcrumb']; 
             ?>
             </nav>
