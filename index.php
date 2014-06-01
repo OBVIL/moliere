@@ -181,8 +181,8 @@ else {
     var idVerse;
     
     $(".part-Y").each(function() {
-    	var coucou = $(this).prev(".l");
-    	var sizeOf = getStringWidth(coucou.html());
+    	var coucou = 
+    	var sizeOf = getStringWidth($(this).prev(".l").html());
     	//var sizeOf = getStringWidth(test.prev(".l").html());
     	var tempText = "<span class=\"space\" style=\"width:" + sizeOf + "px\"></span>" + $(this).html();
     	$(this).html(tempText); })
