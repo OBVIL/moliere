@@ -157,45 +157,48 @@ else if(isset($moliere) || isset($critique)) {
   ';
 }
 ?>
+<span id="ruler"></span>
       </aside>
-      <span id="ruler"></span>
+
     </div>
     <script type="text/javascript" src="<?php echo $teipot; ?>Tree.js">//</script>
     <script type="text/javascript" src="<?php echo $teipot; ?>Sortable.js">//</script>
     
     <!-- Pour l'alignement des vers -->
     <script type="text/javascript">
-    
-    function getStringWidth(theString) {
-    	var ruler = document.getElementById('ruler');
-    	ruler.innerHTML=theString;
-    	return ruler.offsetWidth;
-    }
-    
-    
-    (function() {
-    // Cool! il y a juste des IE un peu paumés, mais tant pis , c’est trop simple http://quirksmode.org/dom/core/#t11
-    var theVerses = document.getElementsByClassName('part-Y');
-    var tempText;
-    var theGoodPrevious;
-    var idVerse;
-    
-    $(".part-Y").each(function() {
-    	var coucou = $(this).prevAll(".l:first");
-    	var sizeOf = getStringWidth(coucou.html());
-    	//var sizeOf = getStringWidth(test.prev(".l").html());
-    	var tempText = "<span class=\"space\" style=\"width:" + sizeOf + "px\"></span>" + $(this).html();
-    	$(this).html(tempText); })
-    	
-    	//for (var i = 0; i < theVerses.length; i++) {	
-    	//	var theGoodPrevious = theVerses[i].prev(".l");
-    	//	var sizeOf = getStringWidth(theGoodPrevious);
-    	//	var tempText = "<span class=\"space\" style=\"width:" + sizeOf + "px\"></span>" + theVerses[i].innerHTML;
-    	//	theVerses[i].innerHTML=tempText;
-    	//}
+        
+        function getStringWidth(theString) {
+        	$("#ruler").html(theString);
+        	return $("#ruler").width();
+      	}
+        
+        
+        (function() {
+        // Cool! il y a juste des IE un peu paumés, mais tant pis , c’est trop simple http://quirksmode.org/dom/core/#t11
+        var tempText;
+        var theGoodPrevious;
+        var verse;
+        var op;
+        
+        $(".part-Y").each(function() {
+        	theGoodPrevious = $(this).parent().prev(".sp").find(".l").last();
+        	//theGoodPrevious = theGoodPrevious.remove(".l-n");
+       
+        	var sizeOf = getStringWidth(theGoodPrevious.html());
+        	//var sizeOf = getStringWidth(test.prev(".l").html());¨
+        	
+        	if ($(this).find(".l-n").length) {
+        		verse = $(this).find(".l-n")[0].outerHTML;
+        		$(this).find(".l-n").empty();
+        		tempText = verse + "<span class=\"space\" style=\"width:" + sizeOf + "px\"></span>" + $(this).html();
+        	}
+        	else {
+        		tempText = "<span class=\"space\" style=\"width:" + sizeOf + "px\"></span>" + $(this).html();
+        	}
+       
+        	$(this).html(tempText); 
+        })
     })();
-    
-    </script>
     <!-- Fin -->
   </body>
 </html>
