@@ -157,7 +157,7 @@ else if(isset($moliere) || isset($critique)) {
   ';
 }
 ?>
-<span id="ruler"></span>
+	<span id="ruler"></span>
       </aside>
 
     </div>
@@ -179,6 +179,7 @@ else if(isset($moliere) || isset($critique)) {
         var theGoodPrevious;
         var verse;
         var op;
+      
         
         $(".part-Y").each(function() {
         	theGoodPrevious = $(this).parent().prev(".sp").find(".l").last();
@@ -200,5 +201,6 @@ else if(isset($moliere) || isset($critique)) {
         })
     })();
     <!-- Fin -->
+    </script>
   </body>
 </html>
