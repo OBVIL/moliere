@@ -50,7 +50,7 @@ if ($pot && !isset($doc['body'])) {
   $pot->search();
 }
 
-$teipot = Web::basehref().'../teipot/'; // chemin css, js ; baseHref est le nombre de '../' utile pour revenir en racine du site
+$teipot = Web::basehref().'../teipot/'; // chemin css, js ; basehref est le nombre de '../' utile pour revenir en racine du site
 $theme = Web::basehref().'../theme/'; // autres ressources spécifiques
 
 
@@ -129,7 +129,7 @@ if (isset($doc['bookid'])) {
   echo "\n<nav>";
   // auteur, titre, date
   if ($doc['byline']) $doc['byline']=$doc['byline'].'<br/>';
-  echo "\n".'<header><a href="' . web::$basehref . $doc['bookname'].'/">'.$doc['byline'].$doc['title'].' ('.$doc['end'].')</a></header>';
+  echo "\n".'<header><a href="' . $pot->basehref() . $doc['bookname'].'/">'.$doc['byline'].$doc['title'].' ('.$doc['end'].')</a></header>';
   // rechercher dans ce livre
   echo '
   <form action=".#conc" name="searchbook" id="searchbook">
