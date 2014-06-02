@@ -113,7 +113,8 @@ else if($pot) {
   // nombre de résultats
   echo $pot->report();
   // présentation bibliographique des résultats
-  echo $pot->biblio(array('author','title','date'));
+  if (isset($critique)) echo $pot->biblio(array('byline','title','date'));
+  else echo $pot->biblio(array('date', 'title'));
   // concordance s’il y a recherche plein texte
   echo $pot->concByBook();
 }
