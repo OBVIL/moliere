@@ -41,3 +41,14 @@ h3.head {
 	visibility: hidden;
 	white-space: nowrap;
 }
+
+.indent {
+	text-align: center;
+	padding-right: 200px;
+}
+
+.lg.i.indent {
+	margin-left: 40px;
+	text-align: center;
+	padding-right: 200px;
+}
