@@ -168,6 +168,7 @@ else if(isset($moliere) || isset($critique)) {
     <script type="text/javascript">
         
         function getStringWidth(theString) {
+        	$("#ruler").addClass("l");
         	$("#ruler").html(theString);
         	return $("#ruler").width();
       	}
