@@ -8,6 +8,12 @@ ul { list-style-type: none; }
 }
 .stage .sc { font-size: 12pt; font-variant: small-caps; }
 div.stage.i {font-style: italic;}
+h1.head {
+	padding-right: 100px;
+}
+h2.head {
+	padding-right: 100px;
+}
 h3.head {
 	font-weight: normal;
 }
