@@ -9,7 +9,10 @@ $path = Web::pathinfo(); // path demandé
 $pot = false;
 $q = ""; // requête en cours
 // aiguillage de l’adressage
-
+if ($path == 'sitemaptei.xml') {
+  $pot = new Teipot(dirname(__FILE__).'/moliere.sqlite', 'fr', $path);
+  $pot->sitemaptei();
+}
 // les pièces commencent par moliere…
 if (strpos($path, 'moliere') === 0) {
   $pot = new Teipot(dirname(__FILE__).'/moliere.sqlite', 'fr', $path);
