@@ -108,7 +108,7 @@ if (isset($doc['body'])) {
   echo $doc['body'];
   // page d’accueil d’un livre avec recherche plein texte, afficher une concordance
   if ($pot && $pot->q && (!$doc['artname'] || $doc['artname']=='index')) {
-    echo $pot->concBook($doc['bookid']);
+    echo $pot->concBook($doc['bookrowid']);
   }
 }
 // pas de livre demandé, montrer un rapport général
@@ -128,7 +128,7 @@ else if($pot) {
         <p> </p>
           <?php
 // livre
-if (isset($doc['bookid'])) {
+if (isset($doc['bookrowid'])) {
   if(isset($doc['download'])) echo "\n".'<nav id="download">' . $doc['download'] . '</nav>';
   echo "\n<nav>";
   // auteur, titre, date
