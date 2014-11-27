@@ -32,17 +32,17 @@ Fichiers en cours de travail
 -->
 <cat xml:id="moliere">
   <head>Œuvres de Molière</head>
-  <file href="documents/moliere_amantsmagnifiques_livret.xml"/>
+  <file href="documents/moliere_amants-magnifiques-livret.xml"/>
   <file href="documents/moliere_amphitryon.xml"/>
   <file href="documents/moliere_amourmedecin.xml"/>
   <file href="documents/moliere_avare.xml"/>
   <file href="documents/moliere_sganarelle.xml"/>
   <file href="documents/moliere_misanthrope.xml"/>
-  <file href="documents/moliere_critiqueecoledesfemmes.xml"/>
-  <file href="documents/moliere_princesseelide.xml"/>
-  <file href="documents/moliere_amantsmagnifiques.xml"/>
-  <file href="documents/moliere_ecoledesmaris.xml"/>
-  <file href="documents/moliere_ecoledesfemmes.xml"/>
+  <file href="documents/moliere_critique-ecole-des-femmes.xml"/>
+  <file href="documents/moliere_princesse-elide.xml"/>
+  <file href="documents/moliere_amants-magnifiques.xml"/>
+  <file href="documents/moliere_ecole-des-maris.xml"/>
+  <file href="documents/moliere_ecole-des-femmes.xml"/>
   <file href="documents/moliere_etourdi.xml"/>
   <file href="documents/moliere_facheux.xml"/>
 </cat>
