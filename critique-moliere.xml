@@ -19,11 +19,20 @@
   <!ELEMENT sup ( #PCDATA )*>
   <!ELEMENT sc ( #PCDATA | sup )*>
 ]>
+<!-- Ordre, chronologique ? -->
 <cat xml:id="moliere" formats="none">
   <!-- formats="" : pas de formats détachables genre epub dans cette base, pour ça, renvoyer à la base critique -->
   <head>Ouvrages critiques sur Molière</head>
+  <!-- 1682 -->
   <file href="../critique/la-grange/la-grange_preface.xml"/>
-  <file href="../critique/bergson/bergson_rire.xml"/>
+  <!-- 1739 -->
   <file href="../critique/voltaire/voltaire_vie-moliere.xml"/>
+  <!-- 1765 -->
+  <file href="critique/encyclopedie_moliere.xml"/>
+  <!-- 1775 -->
+  <file href="critique/clement-laporte_anecdotes-dramatiques_moliere.xml"/>
+  <!-- 1910 -->
   <file href="../critique/faguet/faguet_rousseau-contre-moliere.xml"/>
+  <!-- 1900 -->
+  <file href="../critique/bergson/bergson_rire.xml"/>
 </cat>
