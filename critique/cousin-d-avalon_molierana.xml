@@ -203,7 +203,7 @@
           <p>Charles-Yves Cousin, surnommé d’Avalon, est un écrivain, un compilateur et un historien français. Il est connu particulièrement pour la publication d’ana sur des personnages littéraires et historiques. Il est né en 1769 à Avallon dans l’Yonne, d’un père procureur au bailliage et notaire apostolique. À la fin de ses études, en 1789, il se rendit à Paris où il travailla chez un procureur au Châtelet puis chez un banquier. Il participa à la rédaction du <hi rend="i">Postillon des Armées</hi>, mais le 10 août 1792 (jour de la prise des Tuileries), la publication en fut suspendue. À partir de ce moment, Cousin d’Avalon se consacra à la littérature. Il publia divers recueils (tel que <hi rend="i">La Guirlande de fleurs</hi>, recueil lyrique, 1794-1797), des romans (dont <hi rend="i">La Belle Catherine, ou la Blanchisseuse de Neuilly</hi>, 1803) et un grand nombre d’ana, dont plusieurs eurent un grand succès, tel que le <hi rend="i">Pironiana</hi> publié en 1801<note place="bottom"><hi rend="i">Pironiana, ou Recueil des aventures plaisantes, bons mots, saillies ingénieuses d’Alexis Piron publié en 1801.</hi> Ce recueil d’anecdotes eut onze éditions.</note>. Il participa également à la rédaction de divers dictionnaires dont <hi rend="i">Le Dictionnaire universel de la France</hi>, en cinq volumes, publié par Prud’homme en 1804. Malgré de nombreux écrits et publications, Cousin d’Avalon vécut la fin de sa vie dans l’adversité et la pauvreté. M. Salvandry, ministre de l’Instruction publique, lui attribua une pension, grâce aux sollicitations de la Société des gens de Lettres, il mourut à Paris en 1840.</p>
           <p>1.2.2. Les Ana publiés</p>
           <p>Cousin d’Avalon a publié et participé à la réaction de plusieurs ouvrages notamment d’un grand nombre de recueils d’anecdotes. En voici la liste, classée par date de publication :</p>
-          <lisBibl>
+          <listBibl>
             <bibl>Voltairiana, ou Recueil des bons mots, plaisanteries, pensées ingénieuses et saillies spirituelles de Voltaire suivi des Anecdotes peu connues relatives à ce philosophe et poète célèbre, à Paris, chez Pillot, libraire, sur le pont-neuf, n°5, 1799.</bibl>
             <bibl>Pironiana, ou Recueil des aventures plaisantes, bons mots, saillies ingénieuses, etc., d’Axel Piron, 1801.</bibl>
             <bibl>Moliérana, ou Recueil d’aventures, anecdotes, bons mots et traits plaisants de Pocquelin de Molière, à Paris, chez marchand, libraire du Palais du tribunat, galerie neuve, n°10, 1801.</bibl>
@@ -236,7 +236,7 @@
             <bibl>Staëlliana, ou Recueil d’anecdotes, bons mots, pensées et réflexions de Mme la *Bonne de Staël-Holstein, à Paris, chez Plancher, libraire, quai Saint-Michel, Maison des cinq arcades, 1820.</bibl>
             <bibl>Gregoireana, ou Résumé général de la conduite, des actions et des écrits de M. le Cte Henri Grégoire, précédé d’une notice sur sa vie politique, littéraire et religieuse, contenant quelques anecdotes propres à faire connaître ce prélat, à Paris, chez Plancher, libraire, quai Saint Michel, maison des cinq arcades, 1821.</bibl>
             <bibl>Merciériana ou Recueil d’anecdotes sur Mercier : ses paradoxes, ses bizarreries, ses sarcasmes, ses plaisanteries, etc., 1834.</bibl>
-          </lisBibl>
+          </listBibl>
         </div>
         <div>
           <head>2.3. La Réception du <hi rend="i">Moliérana</hi></head>
