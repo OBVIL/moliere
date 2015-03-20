@@ -52,12 +52,12 @@
         <head>Note sur la présente édition</head>
         <p>Nous avons modernisé l’orthographe et délié les esperluettes pour permettre une meilleure compréhension des récits anecdotiques. Cependant, nous avons gardé l’orthographe des mots qui ne sont plus usités aujourd’hui et des termes qui se trouvent à la rime pour ne pas l’anéantir. À chaque fois que nous avons rencontré une coquille ou une difficulté de lexique, nous l’avons annotée par une note de bas de page. Nous avons également indiqué par des notes, des informations contextuelles relatives à chaque anecdote. Enfin, nous avons créé un lexique de noms propres dans lequel figurent des notices sur les personnages récurrents des anecdotes.</p>
         <p>Nous avons décidé utiliser une abréviation pour les dictionnaires suivants :</p>
-        <quote>
+        <listBibl>
           <bibl>Michel CORVIN, <title>Dictionnaire encyclopédique du Théâtre</title>,  in extenso, Larousse, 2003 : DET</bibl>
           <bibl><title>Dictionnaire des Lettres Françaises, Le XVIe siècle</title>, La Pochothéque, Livre de Poche, 2001 : DLF XVI</bibl>
           <bibl><title>Dictionnaire des Lettres Françaises, Le XVIIe siècle</title>, La Pochothéque, Livre de Poche, 1996 : DLF XVII</bibl>
           <bibl><title>Dictionnaire des Lettres Françaises, Le XVIIIe siècle</title>, La Pochothéque, Livre de Poche, 1996 : DLF XVIII.</bibl>
-        </quote>
+        </listBibl>
         <div>
           <head>1-Les différentes éditions du <hi rend="i">Moliérana</hi> :</head>
           <p>Nous avons trouvé deux éditions du <hi rend="i">Moliérana</hi> : une de 1801 et une de 1855. Nous travaillerons sur le texte de 1801 tout en se référant parfois, en note de bas de page, à celui de 1805.</p>
@@ -84,7 +84,7 @@
         </div>
         <div>
           <head>2-Description de l’édition de 1801 :</head>
-          <p>[I] : <hi rend="b">MOLIÉRANA</hi>, / <hi rend="sc">ou</hi> / RECUEIL /D’AVENTURES, Anecdotes, Bons / Mots et Traits plaisans de /POCQUELIN, DE MOLIÈRE. / PAR C.....… D’AVAL. / [Filet] / A PARIS, / CHEZ MARCHAND, LIBRAIRE PALAIS DU / TRIBUNAT, GALERIE NEUVE, N°. 10. / AN IX. --- 1801.</p>
+          <p>[I] : MOLIÉRANA, / <hi rend="sc">ou</hi> / RECUEIL /D’AVENTURES, Anecdotes, Bons / Mots et Traits plaisans de /POCQUELIN, DE MOLIÈRE. / PAR C.....… D’AVAL. / [Filet] / A PARIS, / CHEZ MARCHAND, LIBRAIRE PALAIS DU / TRIBUNAT, GALERIE NEUVE, N°. 10. / AN IX. --- 1801.</p>
           <p>[II] : [verso blanc]</p>
           <p>[III-V] : PRÉFACE</p>
           <p>[VI] : [verso blanc]</p>
@@ -110,19 +110,7 @@
           <p>Il y a dans les ouvrages de Mrs. de Molière un admirable tour d’esprit, une adresse qui se trouve en peu d’Auteurs, un raffinement pour la Comédie, dont les plus grands Maîtres ne s’étaient point encore aperçus, un assaisonnement qu’on n’avait pas su donner avant lui ; et qui s’accommode au goût de tout le monde ; c’est pourquoi il arrive que les ignorants, aussi bien que les gens d’esprit, courent également après ses Comédiens. Mais les premiers n’y sont pas attirés par ce qui y charme les yeux savants et les oreilles délicates. Ceux-là n’y trouvent que le plaisant, et ne sont amoureux que du burlesque ; mais ceux-ci remarquent jusques où il a pénétré dans les mœurs des hommes, et reconnaissent les traits d’une belle Philosophie. <note place="bottom"><hi rend="i">Ibid</hi>., p. 170-171.</note>(Sorbierana, 1694, p. 170-171).</p>
         </quote>
         <p>Avant de nous lancer dans notre étude, nous proposons de donner une définition du terme « anecdote » et son histoire.</p>
-        <p>
-          <hi rend="b">
-            <hi rend="i">L</hi>
-          </hi>
-          <hi rend="b">
-          ’
-</hi>
-          <hi rend="b">
-            <hi rend="i">Anecdote</hi>
-          </hi>
-          <hi rend="b">
-           :
-</hi>
+        <p>ANECDOTE
           <note place="bottom"><space/>Pour cette sous partie nous nous sommes inspiré du premier chapitre « Le mot ou la chose » (p. 59-143) de la thèse de Karine ABIVEN, <hi rend="i">L’Anecdote ou la fabrique du petit fait vrai, un genre miniature de Tallemant de Réaux à voltaire (1650-1756)</hi>, Thèse Université Paris IV,  2012.</note>
         </p>
         <quote>
@@ -215,7 +203,7 @@
           <p>Charles-Yves Cousin, surnommé d’Avalon, est un écrivain, un compilateur et un historien français. Il est connu particulièrement pour la publication d’ana sur des personnages littéraires et historiques. Il est né en 1769 à Avallon dans l’Yonne, d’un père procureur au bailliage et notaire apostolique. À la fin de ses études, en 1789, il se rendit à Paris où il travailla chez un procureur au Châtelet puis chez un banquier. Il participa à la rédaction du <hi rend="i">Postillon des Armées</hi>, mais le 10 août 1792 (jour de la prise des Tuileries), la publication en fut suspendue. À partir de ce moment, Cousin d’Avalon se consacra à la littérature. Il publia divers recueils (tel que <hi rend="i">La Guirlande de fleurs</hi>, recueil lyrique, 1794-1797), des romans (dont <hi rend="i">La Belle Catherine, ou la Blanchisseuse de Neuilly</hi>, 1803) et un grand nombre d’ana, dont plusieurs eurent un grand succès, tel que le <hi rend="i">Pironiana</hi> publié en 1801<note place="bottom"><hi rend="i">Pironiana, ou Recueil des aventures plaisantes, bons mots, saillies ingénieuses d’Alexis Piron publié en 1801.</hi> Ce recueil d’anecdotes eut onze éditions.</note>. Il participa également à la rédaction de divers dictionnaires dont <hi rend="i">Le Dictionnaire universel de la France</hi>, en cinq volumes, publié par Prud’homme en 1804. Malgré de nombreux écrits et publications, Cousin d’Avalon vécut la fin de sa vie dans l’adversité et la pauvreté. M. Salvandry, ministre de l’Instruction publique, lui attribua une pension, grâce aux sollicitations de la Société des gens de Lettres, il mourut à Paris en 1840.</p>
           <p>1.2.2. Les Ana publiés</p>
           <p>Cousin d’Avalon a publié et participé à la réaction de plusieurs ouvrages notamment d’un grand nombre de recueils d’anecdotes. En voici la liste, classée par date de publication :</p>
-          <quote>
+          <lisBibl>
             <bibl>Voltairiana, ou Recueil des bons mots, plaisanteries, pensées ingénieuses et saillies spirituelles de Voltaire suivi des Anecdotes peu connues relatives à ce philosophe et poète célèbre, à Paris, chez Pillot, libraire, sur le pont-neuf, n°5, 1799.</bibl>
             <bibl>Pironiana, ou Recueil des aventures plaisantes, bons mots, saillies ingénieuses, etc., d’Axel Piron, 1801.</bibl>
             <bibl>Moliérana, ou Recueil d’aventures, anecdotes, bons mots et traits plaisants de Pocquelin de Molière, à Paris, chez marchand, libraire du Palais du tribunat, galerie neuve, n°10, 1801.</bibl>
@@ -248,7 +236,7 @@
             <bibl>Staëlliana, ou Recueil d’anecdotes, bons mots, pensées et réflexions de Mme la *Bonne de Staël-Holstein, à Paris, chez Plancher, libraire, quai Saint-Michel, Maison des cinq arcades, 1820.</bibl>
             <bibl>Gregoireana, ou Résumé général de la conduite, des actions et des écrits de M. le Cte Henri Grégoire, précédé d’une notice sur sa vie politique, littéraire et religieuse, contenant quelques anecdotes propres à faire connaître ce prélat, à Paris, chez Plancher, libraire, quai Saint Michel, maison des cinq arcades, 1821.</bibl>
             <bibl>Merciériana ou Recueil d’anecdotes sur Mercier : ses paradoxes, ses bizarreries, ses sarcasmes, ses plaisanteries, etc., 1834.</bibl>
-          </quote>
+          </lisBibl>
         </div>
         <div>
           <head>2.3. La Réception du <hi rend="i">Moliérana</hi></head>
@@ -331,7 +319,7 @@
           <p>L’anecdote débute par un terme temporel « un jour » ou par des termes similaires. C’est l’un des indices de son ouverture. L’anecdote de Molière et Chapelle ne déroge pas à cette règle. Comme le souligne Karine Abiven, le rôle de ce terme est d’être un « cadratif »<note place="bottom"> Karine Abiven, op. cit., p. 401.</note>. En effet, il n’apporte pas réellement d’information temporelle, il délimite le cadre et la structure de l’anecdote en amont. Ce « cadratif » ouvre le récit mais suggère aussi sa fermeture et nous dirige vers sa fin et sa chute. Karine Abiven suppute que l’anecdote serait construite à rebours comme la comédie. La construction commencerait ainsi par la fin de l’anecdote jusqu’à remonter vers la situation initiale. Elle argue que <quote>« l’anecdote était un petit système conçu pour sa chute, vers laquelle elle converge et qui la structure en retour »</quote><note place="bottom"> Ibid, p. 405.</note>.</p>
           <p>L’ouverture de l’anecdote peut être renforcée par une phrase introductive, comme dans la célèbre anecdote sur le dîner d’Auteuil.</p>
           <quote>
-            <p><hi rend="b">Sur la fin de ses jours, <hi rend="i">Molière</hi> ne vivait que de lait ; mais lorsqu’il allait à sa maison d’Auteuil, il engageait Chapelle à faire les honneurs de sa table, et lui laissait le choix des convives.</hi><hi rend="i">Molière</hi> s’étant couché un jour de bonne heure, laissa ses amis à table. La conversation tomba insensiblement, vers les trois heures du matin. Que notre vie est peu de chose, dit Chapelle ! Qu’elle est remplie de traverses ! Nous sommes à l’affût pendant trente ou quarante ans, pour jouir d’un moment de plaisir que nous ne trouvons jamais. Notre jeunesse est harcelée par de maudits parents qui veulent que nous nous mettions un tas de fariboles dans la tête. Je me soucie morbleu bien que la terre ou le soleil tourne ! Que ce fou de Descartes ait raison, ou cet extravagant Aristote ! J’avais pourtant un enragé précepteur qui me rebattait toujours de ces fadaises là, et qui me faisait retomber sans cesse sur son Épicure ; encore passe pour ce philosophe là, c’était lui qui avait le plus de raison. Nous ne sommes pas débarrassés de ces fous-là, qu’on nous étourdit les oreilles d’un établissement. Toutes les femmes sont des animaux, ennemis jurés de notre repos. Oui, morbleu ! Chagrins, injustices, malheurs de tous côtés dans cette vie-ci. Tu as parbleu raison ! Mon cher ami, répondit J… en l’embrassant ; la vie est un pauvre partage : quittons-la, pour ne point séparer d’aussi bons amis que nous le sommes ; allons nous noyer de compagnie ; la rivière est à notre portée. Cela est vrai, dit N*** nous ne pouvons mieux prendre notre temps pour mourir bons amis et dans la joie : notre mort fera du bruit. Ainsi ce glorieux dessein fut approuvé tout d’une voix. Ces ivrognes se lèvent et vont gaîment à la rivière. Baron courut avertir du monde et éveiller <hi rend="i">Molière</hi>, qui fut effrayé de cet extravagant projet, parce qu’il connaissait le vin de ses amis. Pendant qu’il se levait, la troupe avait gagné le rivière, et ils s’étaient déjà saisis d’un bateau pour prendre le large, et se noyer en plus grande eau. Des domestiques et des gens du lieu furent promptement à ces débauchés, qui étaient déjà dans l’eau, et les repêchèrent. Indignés du secours qu’on venait de leur donner, ils mettent  l’épée à la main, courent sur leurs ennemis, les poursuivent jusques dans  Auteuil, et les voulaient tuer. Ces pauvres gens se sauvent la plupart chez <hi rend="i">Molière</hi>, qui, voyant ce vacarme, dit à ces furieux : <hi rend="i">Qu’est-ce donc que ces coquins-là vous ont fait, messieurs</hi> ? Comment ! Ventrebleu, dit J… qui était le plus opiniâtre à se noyer, ces malheureux nous empêchent de nous noyer ! Écoute, mon cher <hi rend="i">Molière</hi>, tu as de l’esprit ; vois si nous avons tort : fatigués des peines de ce monde-ci, nous avons résolu de passer en l’autre : la rivière nous a paru le plus court chemin pour nous y rendre, ces marauds nous l’ont fermé. Pouvons-nous faire moins que de les punir ? <hi rend="i">Comment ! Vous avez raison</hi>, répondit <hi rend="i">Molière. Sortez d’ici, coquins ! Que je ne vous assomme</hi>, dit-il à ces pauvres gens, paraissant en colère ; <hi rend="i">je vous trouve bien hardis de vous opposer à de si belles actions</hi>. Ils se retirèrent marqués de quelques coups d’épée. <hi rend="i">Comment, messieurs</hi>, poursuit <hi rend="i">Molière, que vous ai-je fait pour former un si beau projet sans m’en faire part ? Je vous croyais plus de mes amis</hi>. Il a parbleu raison, dit Chapelle ; c’est une injustice que nous lui faisons. Viens donc te noyer avec nous. <hi rend="i">Oh ! Doucement</hi>, répondit <hi rend="sc">Molière</hi> : <hi rend="i">ce n’est point ici une affaire à entreprendre mal-à-propos ; c’est la dernière action de la vie, il n’en faut pas manquer le mérite. On serait assez malin pour lui donner un mauvais jour : si nous nous noyons à l’heure qu’il est, on dirait, à coup sûr, que nous l’aurions fait la nuit comme des désespérés, ou comme des gens ivres. Saisissons le moment qui nous fasse le plus d’honneur ; sur les huit à neuf heures du matin, bien à jeun, et devant tout le monde, nous irons nous jeter dans la rivière, la tête la première</hi>. J’approuve ses raisons, dit N… il n’y a pas le mot à dire. Morbleu ? J’enrage, dit L... ; <hi rend="i">Molière</hi> a toujours cent fois plus d’esprit que nous. Voilà qui est fait, remettons la partie à demain, et allons nous coucher, car je m’endors. La présence d’esprit de <hi rend="i">Molière</hi> prévint quelques malheurs : tous ces messieurs étaient ivres, et animés contre ceux qui les avaient empêchés de se noyer.<note place="bottom"><hi rend="i">Moliérana</hi>, Cousin d’Avalon, p. 54-59, 1801.</note></p>
+            <p>Sur la fin de ses jours, <hi rend="i">Molière</hi> ne vivait que de lait ; mais lorsqu’il allait à sa maison d’Auteuil, il engageait Chapelle à faire les honneurs de sa table, et lui laissait le choix des convives. <hi rend="i">Molière</hi> s’étant couché un jour de bonne heure, laissa ses amis à table. La conversation tomba insensiblement, vers les trois heures du matin. Que notre vie est peu de chose, dit Chapelle ! Qu’elle est remplie de traverses ! Nous sommes à l’affût pendant trente ou quarante ans, pour jouir d’un moment de plaisir que nous ne trouvons jamais. Notre jeunesse est harcelée par de maudits parents qui veulent que nous nous mettions un tas de fariboles dans la tête. Je me soucie morbleu bien que la terre ou le soleil tourne ! Que ce fou de Descartes ait raison, ou cet extravagant Aristote ! J’avais pourtant un enragé précepteur qui me rebattait toujours de ces fadaises là, et qui me faisait retomber sans cesse sur son Épicure ; encore passe pour ce philosophe là, c’était lui qui avait le plus de raison. Nous ne sommes pas débarrassés de ces fous-là, qu’on nous étourdit les oreilles d’un établissement. Toutes les femmes sont des animaux, ennemis jurés de notre repos. Oui, morbleu ! Chagrins, injustices, malheurs de tous côtés dans cette vie-ci. Tu as parbleu raison ! Mon cher ami, répondit J… en l’embrassant ; la vie est un pauvre partage : quittons-la, pour ne point séparer d’aussi bons amis que nous le sommes ; allons nous noyer de compagnie ; la rivière est à notre portée. Cela est vrai, dit N*** nous ne pouvons mieux prendre notre temps pour mourir bons amis et dans la joie : notre mort fera du bruit. Ainsi ce glorieux dessein fut approuvé tout d’une voix. Ces ivrognes se lèvent et vont gaîment à la rivière. Baron courut avertir du monde et éveiller <hi rend="i">Molière</hi>, qui fut effrayé de cet extravagant projet, parce qu’il connaissait le vin de ses amis. Pendant qu’il se levait, la troupe avait gagné le rivière, et ils s’étaient déjà saisis d’un bateau pour prendre le large, et se noyer en plus grande eau. Des domestiques et des gens du lieu furent promptement à ces débauchés, qui étaient déjà dans l’eau, et les repêchèrent. Indignés du secours qu’on venait de leur donner, ils mettent  l’épée à la main, courent sur leurs ennemis, les poursuivent jusques dans  Auteuil, et les voulaient tuer. Ces pauvres gens se sauvent la plupart chez <hi rend="i">Molière</hi>, qui, voyant ce vacarme, dit à ces furieux : <hi rend="i">Qu’est-ce donc que ces coquins-là vous ont fait, messieurs</hi> ? Comment ! Ventrebleu, dit J… qui était le plus opiniâtre à se noyer, ces malheureux nous empêchent de nous noyer ! Écoute, mon cher <hi rend="i">Molière</hi>, tu as de l’esprit ; vois si nous avons tort : fatigués des peines de ce monde-ci, nous avons résolu de passer en l’autre : la rivière nous a paru le plus court chemin pour nous y rendre, ces marauds nous l’ont fermé. Pouvons-nous faire moins que de les punir ? <hi rend="i">Comment ! Vous avez raison</hi>, répondit <hi rend="i">Molière. Sortez d’ici, coquins ! Que je ne vous assomme</hi>, dit-il à ces pauvres gens, paraissant en colère ; <hi rend="i">je vous trouve bien hardis de vous opposer à de si belles actions</hi>. Ils se retirèrent marqués de quelques coups d’épée. <hi rend="i">Comment, messieurs</hi>, poursuit <hi rend="i">Molière, que vous ai-je fait pour former un si beau projet sans m’en faire part ? Je vous croyais plus de mes amis</hi>. Il a parbleu raison, dit Chapelle ; c’est une injustice que nous lui faisons. Viens donc te noyer avec nous. <hi rend="i">Oh ! Doucement</hi>, répondit <hi rend="sc">Molière</hi> : <hi rend="i">ce n’est point ici une affaire à entreprendre mal-à-propos ; c’est la dernière action de la vie, il n’en faut pas manquer le mérite. On serait assez malin pour lui donner un mauvais jour : si nous nous noyons à l’heure qu’il est, on dirait, à coup sûr, que nous l’aurions fait la nuit comme des désespérés, ou comme des gens ivres. Saisissons le moment qui nous fasse le plus d’honneur ; sur les huit à neuf heures du matin, bien à jeun, et devant tout le monde, nous irons nous jeter dans la rivière, la tête la première</hi>. J’approuve ses raisons, dit N… il n’y a pas le mot à dire. Morbleu ? J’enrage, dit L... ; <hi rend="i">Molière</hi> a toujours cent fois plus d’esprit que nous. Voilà qui est fait, remettons la partie à demain, et allons nous coucher, car je m’endors. La présence d’esprit de <hi rend="i">Molière</hi> prévint quelques malheurs : tous ces messieurs étaient ivres, et animés contre ceux qui les avaient empêchés de se noyer.<note place="bottom"><hi rend="i">Moliérana</hi>, Cousin d’Avalon, p. 54-59, 1801.</note></p>
           </quote>
           <p>La proposition que nous avons mise en gras introduit l’anecdote et dirige le lecteur vers un « horizon d’attente générique »<note place="bottom"> Karine ABIVEN, <hi rend="i">L’anecdote ou la fabrique du petit fait vrai, un genre miniature de Tallemant des Réaux à Voltaire (1650-1756)</hi>, Thèse Université Paris IV,  2012, p. 414.</note>. Karine Abiven signale que cette phrase d’exorde apparente l’anecdote à une de ces formes antiques qu’est <hi rend="i">l’exemplum</hi>. Elle permet, en outre, d’extraire l’anecdote d’une narration plus complexe.</p>
           <p>Le début de l’anecdote peut être également accentué par les pronoms « je » et « on ». Ils seront le plus souvent suivis des verbes « dire », « ouïr », « entendre », etc. Ils peuvent aussi ouvrir et introduire l’anecdote.</p>
@@ -683,42 +671,32 @@
         <head>[Anecdotes]</head>
         <div xml:id="ana1">
           <head>1, p. 33<note place="bottom"> Selon Pierre Bonvallet, dans son ouvrage <hi rend="i">Molière de tous les jours</hi>, elle serait apparu dans <hi rend="i">La lettre sur la vie et les ouvrages de Molière, et sur les comédiens de son temps</hi> en 1740, dans la revue du <hi rend="i">Mercure galant</hi>. Elle a été réutilisée par Taschereau en 1844. (Pierre Bonvallet, <hi rend="i">Molière de tous les jours</hi>, p. 234-237.)</note><term rend="index" type="Vie" key="Molière, portrait"/></head>
-          <quote>
-            <bibl>1742, <title>Bolaeana</title>, p. 35</bibl>
-            <bibl>1775, <title>Anecdotes Dramatiques</title>, tome III, p. 347, 344-345</bibl>
-          </quote>
+          <bibl>1742, <title>Bolaeana</title>, p. 35</bibl>
+          <bibl>1775, <title>Anecdotes Dramatiques</title>, tome III, p. 347, 344-345</bibl>
           <p><hi rend="sc">Mademoiselle</hi> Poisson, fille du Ducroisy, comédien de la troupe de <hi rend="i">Molière</hi>, fait ainsi le portrait de l’auteur du Misanthrope et du Tartuffe.</p>
           <p>« Il n’était (<hi rend="i">Molière</hi>) ni trop gras, ni trop maigre ; il avait la taille plus grande que petite, le port noble, la jambe belle ; il marchait gravement, avait l’air très-sérieux, le nez gros, la bouche grande, les lèvres épaisses, le teint brun, les sourcils noirs et forts, et les divers mouvements qu’il leur donnait lui rendaient la physionomie extrêmement comique. A l’égard de son caractère, il était doux, complaisant, généreux. Il aimait fort à haranguer ; et quand il lisait ses pièces aux comédiens, il voulait<note place="bottom"> Coquille : vou ait → voulait.</note> qu’ils y amenassent leurs enfants, pour tirer des conjectures de leurs mouvements naturels. »</p>
         </div>
         <div xml:id="ana2">
           <head>2, p. 34-35<term rend="index" type="Vie" key="Molière, jeunesse"/></head>
-          <quote>
-            <bibl>1705, Grimarest, p. 12-15</bibl>
-            <bibl>1775, <title>Anecdotes Dramatiques</title>, tome I, p. 326-327</bibl>
-          </quote>
+          <bibl>1705, Grimarest, p. 12-15</bibl>
+          <bibl>1775, <title>Anecdotes Dramatiques</title>, tome I, p. 326-327</bibl>
           <p>On prétend que le Prince de Conti* voulut prendre le jeune <hi rend="i">Molière</hi> pour son secrétaire, et que heureusement pour la gloire du théâtre français, <hi rend="i">Molière</hi> eut le courage de préférer son talent à un poste honorable. <hi rend="i">Je suis</hi>, dit-il, <hi rend="i">un acteur passable, et je serais peut-être un fort mauvais secrétaire</hi>. Si ce fait est vrai, il fait également honneur au prince et au comédien.</p>
         </div>
         <div xml:id="ana3">
           <head>3, p. 35<term rend="index" type="Œuvre" key="Molière, 1664, Le Mariage forcé"/></head>
-          <quote>
-            <bibl>1730, ****<title>Ana</title>, p. 18</bibl>
-            <bibl>1775, <title>Anecdotes Dramatiques</title>, tome I, p. 518</bibl>
-          </quote>
+          <bibl>1730, ****<title>Ana</title>, p. 18</bibl>
+          <bibl>1775, <title>Anecdotes Dramatiques</title>, tome I, p. 518</bibl>
           <p>Le fameux comte de Grammont<note place="bottom"><hi rend="sc">Grammont</hi>, Philibert de (1621 – 1707), illustré par les Mémoires d’Ant. Hamilton (v. tome XVIIIe siècle), son beau-frère. Personnage plus représentatif que scrupuleux ; on connaît de lui des mots et quelques poèmes. (DLF XVII, p. 558).</note> a fourni à <hi rend="i">Molière</hi> l’idée de son <hi rend="i">Mariage forcé</hi>. Ce seigneur, pendant son séjour à la cour d’Angleterre, avait aimé mademoiselle Hamilton. Leurs amours avaient même fait du bruit ; il repassait en France sans avoir rien conclu avec elle. Les deux frères de la demoiselle le joignirent à Douvres, dans le dessein de faire avec lui le coup de pistolet. Du plus loin qu’ils l’aperçurent, ils lui<note place="bottom"> Coquille : lui lui → lui.</note> crièrent : Comte de Grammont, n’avez-vous rien oublié à Londres ? Pardonnez-moi, répondit le comte, qui devinait leur intention, j’ai oublié d’épouser votre sœur, et j’y retourne avec vous pour finir cette affaire.<note place="bottom"> Cette anecdote figure à la trente cinq place dans l’édition de 1855.</note></p>
         </div>
         <div xml:id="ana4">
           <head>4, p. 36</head>
-          <quote>
-            <bibl>1705, Grimarest, p. 71-75</bibl>
-            <bibl>1775, <title>Anecdotes Dramatiques</title>, tome I, p. 509-511</bibl>
-          </quote>
+          <bibl>1705, Grimarest, p. 71-75</bibl>
+          <bibl>1775, <title>Anecdotes Dramatiques</title>, tome I, p. 509-511</bibl>
           <p>Les mousquetaires, les gardes du corps, les gendarmes, les chevau-légers<note place="bottom"> CHEVAU-LÉGER : Est un cavalier ordinaire et légèrement armé, qu’on appelle autrement <hi rend="i">Maître</hi>, et qui est dans un corps de régiment. On l’appelle ainsi, par opposition aux Gens d’armes, qui étaient autrefois des gens pesamment armez et de toutes pièces. Il y a pourtant quatre compagnies d’ordonnances qu’on appelle particulièrement <hi rend="i">Chevaux-légers</hi>, qui n’entrent jamais en corps de régiment, qui sont les <hi rend="i">Chevaux-légers</hi> de la Garde du Roi, de la Reine, de Monseigneur le Dauphin, et de Monsieur ; et on dit au singulier un <hi rend="i">Chevaux-léger</hi>, et au pluriel vint-et-un <hi rend="i">chevaux</hi>. (<hi rend="i">Furetière</hi>, 1690).</note> entraient à la comédie sans payer, et le parterre en était toujours rempli ; de sorte que <hi rend="i">Molière</hi>, pressé par les comédiens, obtint un ordre du roi pour qu’aucune personne de sa maison n’entrât sans pays. Ces messieurs, indignés, forcèrent la porte de la comédie, tuèrent les portiers, et cherchèrent la troupe entière pour lui faire éprouver le même traitement : mais Béjart, qui était habillé en vieillard pour la pièce qu’on allait jouer, se présenta sur le théâtre : <hi rend="i">Eh, messieurs, leur dit-il, épargnez un pauvre vieillard de soixante-quinze ans, qui n’a plus que quelques jours à vivre</hi>. Les paroles de ce jeune comédien, qui avait profité de son habillement pour parler à ces mutins, calmèrent leur fureur. Molière tint ferme, et l’ordre du roi fut depuis respecté.<note place="bottom"> Cette anecdote, dans l’édition de 1855, est placée à la trente sixième position.</note></p>
         </div>
         <div xml:id="ana5">
           <head>5<note place="bottom"> C’est la troisième anecdote dans l’édition de 1855.</note>, p. 37</head>
-          <quote>
-            <bibl>1775, <title>Anecdotes Dramatiques</title>, tome III, p. 349</bibl>
-          </quote>
+          <bibl>1775, <title>Anecdotes Dramatiques</title>, tome III, p. 349</bibl>
           <p><hi rend="i">Molière</hi> était désigné pour remplir la première place vacante à l’académie française. La compagnie s’était arrangée au sujet de sa profession. <hi rend="i">Molière</hi> n’aurait plus joué que dans les rôles de haut comique : mais sa mort inattendue le priva d’une place bien méritée, et l’académie d’un sujet si propre à la bien remplir.</p>
         </div>
         <div>
@@ -727,17 +705,13 @@
         </div>
         <div>
           <head>7<note place="bottom"> Cette anecdote figure, dans l’édition de 1855, à la quatorzième place.</note>, p. 38<term rend="index" type="Œuvre" key="Molière, 1665, L’Amour médecin"/></head>
-          <quote>
-            <bibl>1705, Grimarest, p. 40-42</bibl>
-            <bibl>1775, <title>Anecdotes dramatiques</title>, tome I, p. 62-63</bibl>
-          </quote>
+          <bibl>1705, Grimarest, p. 40-42</bibl>
+          <bibl>1775, <title>Anecdotes dramatiques</title>, tome I, p. 62-63</bibl>
           <p><hi rend="i">L’Amour médecin</hi> est le premier ouvrage où <hi rend="i">Molière</hi> ait attaqué les médecins. Il logeait chez un médecin, dont la femme extrêmement avare, dit à madame de <hi rend="i">Molière</hi> qu’elle voulait augmenter le loyer de la portion de maison qu’elle occupait. Celle-ci ne daigna pas seulement l’écouter, et son appartement fut loué à un autre. <hi rend="i">Molière</hi> épousa, en cette occasion, la passion de sa femme y attaqua le médecin. Depuis ce temps-là il n’a cessé de verser le ridicule sur la médecine. Il définissait un médecin, <hi rend="i">un homme que l’on paye pour conter des fariboles dans la chambre d’un malade, jusqu’à ce que la nature l’ait guéri, ou que les remèdes l’aient tué.</hi></p>
         </div>
         <div>
           <head>8<note place="bottom"> Elle est à la trente huitième place dans l’édition de 1855.</note>, p. 39-40<term rend="index" type="Œuvre" key="Molière, 1666, Le Médecin malgré lui"/></head>
-          <quote>
-            <bibl>1775, <title>Anecdotes dramatiques</title>, tome I, p. 533</bibl>
-          </quote>
+          <bibl>1775, <title>Anecdotes dramatiques</title>, tome I, p. 533</bibl>
           <p>Il y a une anecdote assez plaisante au sujet de la chanson</p>
           <quote>
             <l>Qu’ils sont doux,</l>
@@ -757,10 +731,8 @@
         </div>
         <div>
           <head>9, p. 41<term rend="index" type="Œuvre" key="Molière, 1668, Georges Dandin"/></head>
-          <quote>
-            <bibl>1705, Grimarest, p. 104-106</bibl>
-            <bibl>1775, <title>Anecdotes dramatiques</title>, tome I, p. 408</bibl>
-          </quote>
+          <bibl>1705, Grimarest, p. 104-106</bibl>
+          <bibl>1775, <title>Anecdotes dramatiques</title>, tome I, p. 408</bibl>
           <p>Lorsque <hi rend="i">Molière</hi> se préparait à donner son <hi rend="i">Georges Dandin</hi>, un des ses amis lui fit entendre qu’il y avait dans le monde un Dandin qui pourrait se reconnaître dans la pièce, et qui était en état, par sa famille, non seulement de le décrier, mais encore de le desservir dans le monde. Vous avez raison, dit <hi rend="i">Molière</hi> à son ami ; mais je sais un moyen sûr de me concilier l’homme dont vous me parlez ; j’irai lui dire ma pièce. Au spectacle où il était assidu, <hi rend="i">Molière</hi> lui demanda une de ses heures perdues pour lui faire la lecture. L’homme en question se trouva si honoré de ce compliment, que, toutes affaires cessantes, il donna parole pour le lendemain ; et il courut tout Paris pour tirer vanité de la lecture de cette pièce. <hi rend="i">Molière</hi>, disait-il à tout le monde, me lit ce soir une comédie ; voulez-vous en être ? <hi rend="i">Molière</hi> trouva de nombreuse assemblée, et mon homme qui présidait. La pièce fut jouée, personne ne la faisait mieux valoir que celui qui aurait pu s’en fâcher, une partie des scènes que <hi rend="i">Molière</hi> avait traitées dans sa pièce, lui étant arrivées. Ce secret de faire passer sur le théâtre des traits un peu hardis, a été trouvé si bon que plusieurs acteurs l’ont mis en usage depuis avec succès.<note place="bottom"> Cette anecdote figure à la quinzième place dans le <hi rend="i">Moliérana</hi> de 1855.</note></p>
         </div>
         <div>
@@ -769,9 +741,7 @@
         </div>
         <div>
           <head>11, p. 42<term rend="index" type="Œuvre" key="Molière, 1662, L’École des femmes"/></head>
-          <quote>
-            <bibl>1775, <title>Anecdotes dramatiques</title>, tome I, p. 284</bibl>
-          </quote>
+          <bibl>1775, <title>Anecdotes dramatiques</title>, tome I, p. 284</bibl>
           <p>Lorsque <hi rend="i">Molière</hi> fait dire à Chrisalde, dans <hi rend="i">L’École des femmes</hi>, acte premier, scène première :</p>
           <quote>
             <l>Je suis un paysan qu’on appelle gros Pierre,</l>
@@ -783,27 +753,21 @@
         </div>
         <div>
           <head>12, p. 43-44<term rend="index" type="Œuvre" key="Molière, 1670, Le Bourgeois gentilhomme"/></head>
-          <quote>
-            <bibl>1705, Grimarest, p. 141-144</bibl>
-            <bibl>1775, <title>Anecdotes dramatiques</title>, tome I, p. 155</bibl>
-          </quote>
+          <bibl>1705, Grimarest, p. 141-144</bibl>
+          <bibl>1775, <title>Anecdotes dramatiques</title>, tome I, p. 155</bibl>
           <p><hi rend="i">Le Bourgeois gentilhomme</hi> fut joué la première fois à Chambord. Le roi n’en dit pas un mot, et tous les courtisans en parlèrent avec le dernier mépris. Le déchaînement était si grand, que <hi rend="i">Molière</hi> n’osait se montrer. Il envoyait Baron à la découverte, qui lui rapportait toujours de mauvaises nouvelles. Au bout de cinq à six jours, on joua cette pièce pour la seconde fois. Après la représentation, le roi, qui n’avait pas encore porté son jugement, dit à <hi rend="i">Molière</hi> : « Je ne vous ai point parlé de votre pièce à la première représentation parce que j’ai appréhendé d’être séduit par la manière dont elle a été représentée ; mais, en vérité, <hi rend="i">Molière</hi>, vous n’avez encore rien fait qui m’ait mieux diverti ; et votre pièce est excellente. » Aussitôt l’auteur fut accablé de louanges par les courtisans, qui répétaient, tant bien que mal, ce que le roi venait de dire à l’avantage de cette pièce.<note place="bottom"> Cette anecdote est à la dix-huitième place dans l’édition de 1855.</note></p>
         </div>
         <div>
           <head>13, p. 44<term rend="index" type="Œuvre" key="Molière, 1659, Les Précieuses ridicules"/></head>
-          <quote>
-            <bibl>1693, <title>Ménagiana</title>, p. 278 (reprise en 1715 : tome I, p. 251-252 ; tome II, p. 65)</bibl>
-            <bibl>1705, Grimarest, p. 19-20</bibl>
-            <bibl>1775, <title>Anecdotes dramatiques</title>, tome II, p. 95</bibl>
-          </quote>
+          <bibl>1693, <title>Ménagiana</title>, p. 278 (reprise en 1715 : tome I, p. 251-252 ; tome II, p. 65)</bibl>
+          <bibl>1705, Grimarest, p. 19-20</bibl>
+          <bibl>1775, <title>Anecdotes dramatiques</title>, tome II, p. 95</bibl>
           <p>J’étais à la première représentation des <hi rend="i">Précieuses Ridicules</hi> de <hi rend="i">Molière</hi>, dit Ménage, et tout l’hôtel de Rambouillet s’y trouva. La pièce fut jouée avec un applaudissement général. Au sortir de la comédie, prenant M. Chapelain par la main : monsieur, lui dis-je, nous approuvions, vous et moi, toutes les sottises qui viennent d’être jouées si finement, et avec tant de bon sens ; mais, croyez-moi, pour me servir de ce que Saint Remi dit à Clovis : <hi rend="i">Il nous faudra brûler ce que nous avons adoré, et adorer ce que nous avons brûlé.</hi></p>
         </div>
         <div>
           <head>14, p. 44-45<term rend="index" type="Œuvre" key="Molière, 1659, Les Précieuses ridicules"/></head>
-          <quote>
-            <bibl>1705, Grimarest, p. 20</bibl>
-            <bibl>1775, <title>Anecdotes dramatiques</title>, tome II, p. 95</bibl>
-          </quote>
+          <bibl>1705, Grimarest, p. 20</bibl>
+          <bibl>1775, <title>Anecdotes dramatiques</title>, tome II, p. 95</bibl>
           <p>Un jour que l’on représentait cette pièce, un vieillard s’écria du milieu du parterre : <hi rend="i">Courage, courage, Molière ! Voilà la bonne comédie</hi> (I).<note place="bottom"> (1) indique une note de bas de page dans le <hi rend="i">Moliérana</hi>. Nous avons retranscrit cette note à la suite de l’anecdote.</note></p>
           <p>(I) On n’aura pas la satisfaction aujourd’hui d’adresser à nos comiques le même éloge. Depuis le fameux drame de Pinto<note place="bottom"><bibl><title>Pinto ou la journée d’une conspiration</title>, comédie en 5 actes et en prose de Népomucène Lemercier, 1800.<hi rend="sc">Lemercier</hi>, Népomucène Louis (1771 – 1840) : dramaturge français.</bibl></note>, jusqu’à <hi rend="i">l’Abbé de l’Epée</hi>, la comédie n’est plus qu’une suite de scènes décousues, sans intérêt, et sans situations comiques. Le citoyen Bouilli, dans son <hi rend="i">Abbé de l’Epée</hi><note place="bottom"><p><hi rend="sc">Bouilly</hi>, <hi rend="i">L’Abbé de l’Épée</hi>, 1799 : comédie-historique en 5 actes et en prose.</p><p><hi rend="sc">Bouilly</hi>, Jean-Nicolas (1763 – 1842) : dramaturge français.</p></note> ! Qui a fait courir tout Paris, semble avoir pris à tâche d’outrager le bon sens, et les premières règles de la comédie. Cette pasquinade<note place="bottom"> PASQUINADE : Placard satyrique qu’on attache à cette statue de Pasquin. On le dit par extension de toute satire, raillerie ou bon mot qu’on dit contre le public et contre les Puissances, quoi qu’on ne les ait point attachées au Pasquin, et qu’on les ait seulement fait courir dans le monde. Et on le dit aussi bien à Paris qu’à Rome. (<hi rend="i">Furetière</hi>, 1690).</note> faite pour révolter les bons esprits, n’est qu’un tissu d’invraisemblances, et d’invocations à l’éternel et à la providence ; le citoyen Bouilly a oublié une invocation, c’est celle au sens commun.</p>
           <p>Quant au drame de Pinto, on peut lui appliquer ce vers de Virgile.</p>
@@ -816,59 +780,43 @@
         </div>
         <div>
           <head>15, p. 45-46<term rend="index" type="Vie " key="Molière, jeunesse"/></head>
-          <quote>
-            <bibl>1705, Grimarest, p. 168-169</bibl>
-          </quote>
+          <bibl>1705, Grimarest, p. 168-169</bibl>
           <p><hi rend="i">Molière</hi> avait commencé à traduire Lucrèce dans sa jeunesse, et il aurait achevé cet ouvrage sans un malheur qui lui arriva. Un de ses domestiques prit un cahier de cette traduction pour faire des papillotes : <hi rend="i">Molière</hi> qui était facile à irriter, fut si fâché de ce contre-temps, que dans sa colère il jeta le reste au feu. Pour mettre plus d’agrément dans cette traduction, il avait rendu en prose tous les raisonnements philosophiques, et avait mis en vers les belles descriptions qui se trouvent dans le poème de Lucrèce.</p>
         </div>
         <div>
           <head>16, p. 46-47</head>
-          <quote>
-            <bibl>1724, <title>Carpenteriana</title>, p. 223-224</bibl>
-          </quote>
+          <bibl>1724, <title>Carpenteriana</title>, p. 223-224</bibl>
           <p><hi rend="i">Molière</hi> lisait ses comédies à une vieille servante nommée <hi rend="i">Laforest</hi> ; et lorsque les endroits plaisants ne l’avaient point frappée, il les corrigeait, parce qu’il avait éprouvé plusieurs fois que ces endroits ne réussissaient point. Un jour <hi rend="i">Molière</hi>, pour éprouver le goût de cette servante, lui lut quelques scènes d’une comédie de Brécour*, comédie qu’il disait être de lui : la servante ne prit point le change ; et après avoir entendu quelques pages, elle soutint que son maître n’avait pas fait cette pièce.<note place="bottom"> Cette anecdote est placée à la dix-neuvième place dans l’édition de 1855.</note></p>
         </div>
         <div>
           <head>17, p. 47-48<note place="bottom"> Voici la version de Perrault : Son Père bon bourgeois de Paris et Tapissier du Roi, fâché du parti que son fils avait pris, le fit solliciter par tout ce qu’il avait d’Amis de quitter cette pensée, promettant s’il voulait revenir chez lui, de lui acheter une Charge telle qu’il la souhaiterait ; pourvu qu’elle n’exerçât pas ses forces. Ni les prières, ni les remontrances de ses Amis soutenues de ces promesses ne purent rien sur son Esprit. Ce bon Père lui envoya ensuite le Maître chez qui il l’avait mis en pension pendant les premières années de ses Études, espérant que par l’autorité que ce Maître avait eue sur lui pendant ces temps-là, il pourrait le ramener à son devoir ; mais bien loin que le Maître lui persuadât de quitter la profession de Comédien, le jeune Molière lui persuada d’embrasser le même Profession, et d’être le Docteur de leur Comédie, lui ayant représenté que le peu de Latin qu’il savait le rendrait capable d’en bien faire le Personnage, et que la vie qu’ils mèneraient, serait bien plus agréable que celle d’un Homme qui tient des Pensionnaires. (<hi rend="sc">Perrault</hi>, <hi rend="i">Les Hommes illustres</hi>, 1698, p. 218-219).</note><term rend="index" type="Vie " key="Molière, jeunesse"/></head>
-          <quote>
-            <bibl>1775, <title>Anecdotes Dramatiques</title>, tome III, p. 347</bibl>
-          </quote>
+          <bibl>1775, <title>Anecdotes Dramatiques</title>, tome III, p. 347</bibl>
           <p>Perrault dit, dans ses <hi rend="i">hommes illustres</hi><note place="bottom"><hi rend="sc">Perrault</hi>, <hi rend="i">Les Hommes Illustres</hi>, 1696 – 1700.</note>, que le père de <hi rend="i">Molière</hi>, fâché du parti que son fils avait pris d’aller dans les provinces jouer la comédie, le fit solliciter inutilement par tout ce qu’il avait d’amis, de quitter cette pensée. Enfin, il lui envoya le maître chez qui il l’avait mis en pension pendant les premières années de ses études, espérant que par l’autorité que son maître avait eue sur lui pendant ce temps là, il pourrait le ramener à son devoir ; mais bien loin que ce bonhomme lui persuadât de quitter sa profession, le jeune <hi rend="i">Molière</hi> lui persuada de l’embrasser lui-même, et d’être le docteur de la comédie ; lui ayant représenté que le peu de latin qu’il savait le rendrait capable d’en bien faire le personnage, et que la vie qu’ils mèneraient serait bien plus agréable que celle d’un homme qui tient des pensionnaires.<note place="bottom"> C’est la première anecdote dans l’édition de 1855.</note></p>
         </div>
         <div>
           <head>18, p. 48<note place="bottom"> Selon Pierre Bonvallet, La Grange évoque de cet incident dans son Registre. On peut rencontre cette anecdote dans <hi rend="i">la Correspondance entre Brossette et Boileau-Despréaux.</hi> Elle fut reprise par Voltaire dans la deuxième édition du <hi rend="i">Tartuffe</hi>, 1764. Puis, plus tard dans Le T<hi rend="i">ableau historique</hi> de Taillefer. Pierre Bonvallet argue que cette anecdote est invraisemblable. On peut également remarquer que celle-ci ressemble beaucoup à l’anecdote sur <hi rend="i">L’Alcade</hi> qui se trouve juste au-dessus. (Pierre Bonvallet, <hi rend="i">Molière de tous les jours</hi>, p. 178-183)</note><term rend="index" type="Œuvre" key="Molière, 1664, Tartuffe"/></head>
-          <quote>
-            <bibl>1715, <title>Ménagiana</title>, tome IV, p. 173-174</bibl>
-            <bibl>1775, <title>Anecdotes Dramatiques</title>, tome III, p. 347</bibl>
-          </quote>
+          <bibl>1715, <title>Ménagiana</title>, tome IV, p. 173-174</bibl>
+          <bibl>1775, <title>Anecdotes Dramatiques</title>, tome III, p. 347</bibl>
           <p>La première représentation du <hi rend="i">Tartuffe</hi> fit un bruit étonnant dans Paris. Les dévotes jetèrent les hauts cris, et le parlement défendit de jouer cette comédie. On était assemblé pour la seconde représentation, lorsque la défense arriva. « Messieurs, dit <hi rend="i">Molière</hi>, en s’adressant à l’assemblée, nous comptions aujourd’hui avoir l’honneur de vous donner le <hi rend="i">Tartuffe</hi>,  mais M. le Président ne veut pas qu’on le joue ».<note place="bottom"> Cette anecdote est placée à la vingtième place dans le <hi rend="i">Moliérana</hi> de 1855.</note></p>
         </div>
         <div>
           <head>19, p. 49<term rend="index" type="Œuvre" key="Molière, 1664, Tartuffe"/></head>
-          <quote>
-            <bibl>1775, <title>Anecdotes dramatiques</title>, tome II, p. 209</bibl>
-          </quote>
+          <bibl>1775, <title>Anecdotes dramatiques</title>, tome II, p. 209</bibl>
           <p>Ce même mot fut tourné d’une manière un peu différente, mais non moins satirique, par des comédiens de province. Ils étaient dans une ville dont l’évêque était mort depuis peu : le successeur, moins favorable au spectacle, donna ordre que les comédiens partissent avant son arrivée. Ils jouèrent la veille ; et comme s’ils eussent dû jouer le lendemain, celui qui annonça dit : <hi rend="i">Messieurs, vous aurez demain le Tartuffe.</hi></p>
         </div>
         <div>
           <head>20, p. 49-50<term rend="index" type="Œuvre" key="Molière, 1664, Tartuffe"/></head>
-          <quote>
-            <bibl>1775, <title>Anecdotes dramatiques</title>, tome II, p. 208</bibl>
-          </quote>
+          <bibl>1775, <title>Anecdotes dramatiques</title>, tome II, p. 208</bibl>
           <p>Huit jours après que le <hi rend="i">Tartuffe</hi> eut été défendu, on représenta à la cour une pièce intitulée <hi rend="i">Scaramouche hermite</hi><note place="bottom"><hi rend="i">Scaramouche Hermite</hi>, comédie de mai 1667.</note>. Le Roi, en sortant, dit au grand Condé : Je voudrais bien savoir pourquoi les gens qui se scandalisent si fort de la comédie de <hi rend="i">Molière</hi>, ne disent rien de Scaramouche ? À quoi le prince répondit : la raison de cela est, que la comédie de <hi rend="i">Scaramouche</hi> joue le ciel et la religion, dont ces messieurs-là ne se soucient point ; mais celle de <hi rend="i">Molière</hi> les joue eux-mêmes, ce qu’ils ne peuvent souffrir.</p>
         </div>
         <div>
           <head>21, p. 50<term rend="index" type="Œuvre" key="Molière, 1664, Tartuffe"/></head>
-          <quote>
-            <bibl>1775, <title>Anecdotes dramatiques</title>, tome II, p. 202</bibl>
-          </quote>
+          <bibl>1775, <title>Anecdotes dramatiques</title>, tome II, p. 202</bibl>
           <p>Lorsque Molière fit jouer son Tartuffe, on lui demanda de quoi il s’avisait de faire des sermons. Pourquoi sera-t-il permis au Père Maimbourg<note place="bottom"><hi rend="sc">Maimbourg</hi>, Louis (1610-1686) : historien. Entré chez les jésuites en 1626, il devint prédicateur, controversiste, historien. Il eut d’abord de fortes polémiques avec les jansénistes et attaqua leur traduction du Nouveau-testament, dite de Mons (1667). Puis il travailla au retour des protestants. Il fut un historien fécond, trop vanté d’abord, trop négligé ensuite au jugement de Voltaire. (DLF XVII, p. 790)</note>, répondit-il, de faire des comédies en chaire, et qu’il me sera défendu de faire des sermons sur le théâtre ?</p>
         </div>
         <div>
           <head>22, p. 50-51<term rend="index" type="Œuvre" key="Molière, 1664, Tartuffe"/></head>
-          <quote>
-            <bibl>1705, Grimarest, p. 109-110</bibl>
-          </quote>
+          <bibl>1705, Grimarest, p. 109-110</bibl>
           <p>Un jour qu’on représentait le <hi rend="i">Tartuffe</hi>, Champ-mêlé<note place="bottom"><hi rend="sc">Chevillet</hi>, Charles dit Champmêlé : comédien qui épousa en janvier 1666 Marie Desmares, Mademoiselle de Champmêlé, illustre tragédienne. (DLF  XVII, p. 259).</note> qui n’était point alors dans la troupe, alla voir <hi rend="i">Molière</hi> dans sa loge qui était près du théâtre. Comme ils en étaient aux compliments, <hi rend="i">Molière</hi> s’écriait : <hi rend="i">ah, chien ! ah, bourreau</hi> ! et se frappait la tête comme possédé. Champmêlé crut qu’il tombait de quelque mal, et il était fort embarrassé. Mais <hi rend="i">Molière</hi> qui s’aperçut de son étonnement, lui dit : <hi rend="i">ne soyez pas surpris de mon emportement ; je viens d’entendre un acteur déclamer faussement et pitoyablement quatre vers de ma pièce ; et je ne saurais voir maltraiter mes enfants de cette force-là, sans souffrir comme un damné.</hi><note place="bottom"> Elle figure dans l’édition de 1855, à la cinquième place.</note></p>
         </div>
         <div>
@@ -881,10 +829,8 @@
         </div>
         <div>
           <head>25<note place="bottom"> Elle figure à la vingt-troisième place dans l’édition de 1855 du <hi rend="i">Moliérana</hi>.</note>, p. 52-53<note place="bottom"> Cette anecdote fut reprise chez Bruzen de La Martinière dans <hi rend="i">Les Œuvres de M. de Molière</hi>, 1725 et également dans <hi rend="i">Les Mélanges historiques</hi> d’un auteur inconnu, 1718 (Pierre Bonvallet, <hi rend="i">Molière de tous les jours</hi>, p. 242-244).</note><term rend="index" type="Œuvre" key="Molière, 1672, Les Femmes savantes"/></head>
-          <quote>
-            <bibl>1715, <title>Ménagiana</title>, tome III, p. 23-24</bibl>
-            <bibl>1775, Anecdotes dramatiques, tome I, p. 356</bibl>
-          </quote>
+          <bibl>1715, <title>Ménagiana</title>, tome III, p. 23-24</bibl>
+          <bibl>1775, Anecdotes dramatiques, tome I, p. 356</bibl>
           <p><hi rend="i">Molière</hi> joua d’abord <hi rend="i">Cotin</hi>, sous le nom de <hi rend="i">Tricotin</hi>, que plus malicieusement, sous prétexte de mieux déguiser, il changea depuis en <hi rend="i">Trissotin</hi>, équivalant à trois fois sot. Jamais homme, excepté <hi rend="i">Montmaur*</hi>, n’a été tant turlupiné que le pauvre <hi rend="i">Cotin</hi> ; on fit en 1682, peu de temps après sa mort, ces quatre vers :</p>
           <quote>
             <l>Savez-vous en quoi Cotin</l>
@@ -895,9 +841,7 @@
         </div>
         <div>
           <head>26<note place="bottom"> Cette anecdote figure à la trente septième place dans l’édition de 1855.</note>, p. 53</head>
-          <quote>
-            <bibl>1724, Carpentariana, p. 46</bibl>
-          </quote>
+          <bibl>1724, Carpentariana, p. 46</bibl>
           <p><hi rend="i">Molière</hi> disait que « le mépris était une pilule qu’on pouvait bien avaler ; mais qu’on ne pouvait guère la mâcher, sans faire la grimace ».</p>
         </div>
         <div>
@@ -906,17 +850,13 @@
         </div>
         <div>
           <head>28, p. 53-54<note place="bottom"> On peut la rencontre chez Cizeron-Rival dans les Récréations littéraires en 1765 et également dans <hi rend="i">Les Œuvres de Molière</hi> de Bret, dans le « Supplément à la vie de Molière », 1773. Plus tard, elle sera utilisé dans <hi rend="i">L’Histoire de la vie et des ouvrages de Molière</hi> de Taschereau, 1825. (Pierre Bonvallet, <hi rend="i">Molière de tous les jours</hi>, p. 159-160).</note></head>
-          <quote>
-            <bibl>1742, Bolaeana, p. 60</bibl>
-          </quote>
+          <bibl>1742, Bolaeana, p. 60</bibl>
           <p><hi rend="i">Molière</hi> était fort ami du célèbre avocat Fourcroy,<note place="bottom"><hi rend="sc">Fourcroy</hi>, Bonaventure de (v. 1610 – 1691) : avocat et poète, ami de Lamoignon, Molière, Boileau, Patru. Il collabore peut-être avec Madeleine Béjart pour adapter des pièces de théâtre. (DLF XVII, p. 505).</note> homme redoutable par la capacité et par la grande étendue de ses poumons. Ils curent une dispute à table, en présence de Despréaux. Molière se tourna du côté du satyrique, et dit : <hi rend="i">Quest-ce</hi><note place="bottom"> Coquille : Quest-ce → Qu’est-ce. Cette coquille a été corrigée dans l’édition de 1855. </note>
             <hi rend="i">que la raison, avec un filet de voix, contre une gueule comme celle-là.</hi><note place="bottom"> Cette anecdote figure à la vingt-quatrième place dans l’édition de 1855. </note></p>
         </div>
         <div>
           <head>29<note place="bottom"> Figure dans l’édition de 1855, à la septième place.</note>, p. 54-59<note place="bottom"> Cette anecdote est extrêmement connue. Elle apparaît pour la première fois chez Grimarest. Nous pouvons également la retrouver dans le <hi rend="i">Recueil de bons mots</hi> de l’abbé de Choisy selon Pierre Bonvallet. Ensuite, chez Pierre Louis dans ses <hi rend="i">Mémoire</hi> en 1747. Pour Bonvallet, cette anecdote est authentique. (Pierre Bonvallet, <hi rend="i">Molière de tous les jours</hi>, p. 184-191.)</note></head>
-          <quote>
-            <bibl>1705, Grimarest, p. 82-89</bibl>
-          </quote>
+          <bibl>1705, Grimarest, p. 82-89</bibl>
           <p>Sur la fin de ses jours, <hi rend="i">Molière</hi> ne vivait que de lait ; mais lorsqu’il allait à sa maison d’Auteuil, il engageait Chapelle à faire les honneurs de sa table, et lui laissait le choix des convives. <hi rend="i">Molière</hi> s’étant couché un jour de bonne heure, laissa ses amis à table. La conversation tomba insensiblement, vers les trois heures du matin. Que notre vie est peu de chose, dit Chapelle ! qu’elle est remplie de traverses ! nous sommes à l’affût pendant trente ou quarante ans, pour jouir d’un moment de plaisir que nous ne trouvons jamais. Notre jeunesse est harcelée par de maudits parents qui veulent que nous nous mettions un tas de fariboles dans la tête. Je me soucie morbleu bien que la terre ou le soleil tourne ! que ce fou de Descartes ait raison, ou cet extravagant Aristote ! J’avais pourtant un enragé précepteur qui me rebattait toujours de ces fadaises là, et qui me faisait retomber sans cesse sur son Épicure ; encore passe pour ce philosophe là, c’était lui qui avait le plus de raison. Nous ne sommes pas débarrassés de ces fous-là, qu’on nous étourdit les oreilles d’un établissement. Toutes les femmes sont des animaux, ennemis jurés de notre repos. Oui, morbleu ! chagrins, injustices, malheurs de tous côtés dans cette vie-ci. Tu as parbleu raison ! Mon cher ami, répondit J… en l’embrassant ; la vie est un pauvre partage : quittons-la, pour ne point séparer d’aussi bons amis que nous le sommes ; allons nous noyer de compagnie ; la rivière est à notre portée. Cela est vrai, dit N*** nous ne pouvons mieux prendre notre temps pour mourir bons amis et dans la joie : notre mort fera du bruit. Ainsi ce glorieux dessein fut approuvé tout d’une voix. Ces ivrognes se lèvent et vont gaîment à la rivière. Baron courut avertir du monde et éveiller <hi rend="i">Molière</hi>, qui fut effrayé de cet extravagant projet, parce qu’il connaissait le vin de ses amis. Pendant qu’il se levait, la troupe avait gagné le rivière, et ils s’étaient déjà saisis d’un bateau pour prendre le large, et se noyer en plus grande eau. Des domestiques et des gens du lieu furent promptement à ces débauchés, qui étaient déjà dans l’eau, et les repêchèrent. Indignés du secours qu’on venait de leur donner, ils mettent  l’épée à la main, courent sur leurs ennemis, les poursuivent jusques dans  Auteuil, et les voulaient tuer. Ces pauvres gens se sauvent la plupart chez <hi rend="i">Molière</hi>, qui, voyant ce vacarme, dit à ces furieux : <hi rend="i">Qu’est-ce</hi><note place="bottom">Coquille : Quest-ce → Qu’est-ce.</note>
             <hi rend="i">donc que ces coquins-là vous ont fait, messieurs</hi> ? Comment ! Ventrebleu, dit J… qui était le plus opiniâtre à se noyer, ces malheureux nous empêchent de nous noyer ! Écoute, mon cher <hi rend="i">Molière</hi>, tu as de l’esprit ; vois si nous avons tort : fatigués des peines de ce monde-ci, nous avons résolu de passer en l’autre : la rivière nous a paru le plus court chemin pour nous y rendre, ces marauds<note place="bottom">MARAUD : terme injurieux qui se dit des gueux, des coquins qui n’ont ni bien ni honneur, qui sont capables de faire toutes sortes de lâchetés.  (<hi rend="i">Furetière</hi>, 1690).</note> nous l’ont fermé. Pouvons-nous faire moins que de les punir ? <hi rend="i">Comment ! Vous avez raison</hi>, répondit <hi rend="i">Molière. Sortez d’ici, coquins ! que je ne vous assomme</hi>, dit-il à ces pauvres gens, paraissant en colère ; <hi rend="i">je vous trouve bien hardis de vous opposer à de si belles actions</hi>. Ils se retirèrent marqués de quelques coups d’épée. <hi rend="i">Comment, messieurs</hi>, poursuit <hi rend="i">Molière</hi>, que v<hi rend="i">ous ai-je fait pour former un si beau projet sans m’en faire part ? Je vous croyais plus de mes amis</hi>. Il a parbleu raison, dit Chapelle ; c’est une injustice que nous lui faisons. Viens donc te noyer avec nous. <hi rend="i">Oh ! doucement</hi>, répondit <hi rend="sc">Moliere</hi> : <hi rend="i">ce n’est point ici une affaire à entreprendre mal-à-propos ; c’est la dernière action de la vie, il n’en faut pas manquer le mérite. On serait assez malin pour lui donner un mauvais jour : si nous nous noyons à l’heure qu’il est, on dirait, à coup sûr, que nous l’aurions fait la nuit comme des désespérés, ou comme des gens ivres. Saisissons le moment qui nous fasse le plus d’honneur ; sur les huit à neuf heures du matin, bien à jeun, et devant tout le monde, nous irons nous jeter dans la rivière, la tête la première</hi>. J’approuve ses raisons, dit N… il n’y a pas le mot à dire. Morbleu ! j’enrage, dit L… ; <hi rend="i">Molière</hi> a toujours cent fois plus d’esprit que nous. Voilà qui est fait, remettons la partie à demain, et allons nous coucher, car je m’endors. La présence d’esprit de <hi rend="i">Molière</hi> prévint quelques malheurs : tous ces messieurs étaient ivres, et animés contre ceux qui les avaient empêchés de se noyer.</p>
         </div>
@@ -926,9 +866,7 @@
         </div>
         <div>
           <head>31, p. 59-61<term rend="index" type="Œuvre" key="Molière, 1666, Le Misanthrope"/></head>
-          <quote>
-            <bibl>1775, <title>Anecdotes Dramatiques</title>, tome I, p. 559</bibl>
-          </quote>
+          <bibl>1775, <title>Anecdotes Dramatiques</title>, tome I, p. 559</bibl>
           <p>Tout le monde sait que le <hi rend="i">Misanthrope</hi> fut d’abord mal reçu, et qu’il ne se soutint au théâtre qu’à la faveur du <hi rend="i">Médecin malgré lui</hi>. On rapporte un fait singulier, qui peut avoir contribué à la disgrâce de la meilleure comédie qui ait jamais été faite. À la première représentation, après la lecture du sonnet d’Oronte, ainsi conçu :</p>
           <quote>
             <l>L’espoir, il est vrai, nous soulage,</l>
@@ -957,24 +895,18 @@
         </div>
         <div>
           <head>32<note place="bottom"> Cette anecdote figure à la vingt-sixième place dans l’édition de 1855.</note>, p. 61-62<term rend="index" type="Œuvre" key="Molière, 1666, Le Misanthrope"/></head>
-          <quote>
-            <bibl>1775, <title>Anecdotes Dramatiques</title>, tome I, p. 560</bibl>
-          </quote>
+          <bibl>1775, <title>Anecdotes Dramatiques</title>, tome I, p. 560</bibl>
           <p>Lorsque <hi rend="i">Molière</hi> donna son <hi rend="i">Misanthrope</hi>, il était brouillé avec Racine. Un flatteur crut faire plaisir au dernier, après la première représentation, en lui disant : la pièce est tombée ; rien n’est si froid : vous pouvez m’en croire. Vous y étiez, reprit Racine, et moi je n’y étais pas ; cependant je n’en croirai rien, parce qu’il est impossible que <hi rend="i">Molière</hi> ait fait une mauvaise pièce ; retournez-y : et examinez-la mieux.</p>
         </div>
         <div>
           <head>33<note place="bottom"> Figure à la huitième place dans le <hi rend="i">Moliérana</hi> de 1855.</note>, p. 62<term rend="index" type="Œuvre" key="Molière, 1666, Le Misanthrope"/></head>
-          <quote>
-            <bibl>1775, <title>Anecdotes Dramatiques</title>, tome I, p. 559</bibl>
-          </quote>
+          <bibl>1775, <title>Anecdotes Dramatiques</title>, tome I, p. 559</bibl>
           <p>On sait que les ennemis de <hi rend="i">Molière</hi> voulurent persuader au duc de Montausier*, renommé pas ses mœurs austères, et sa vertu sauvage, que c’était lui que <hi rend="i">Molière</hi> jouait dans le <hi rend="i">Misanthrope</hi>. Le duc de Montausier* alla voir la pièce, et dit en sortant, <hi rend="i">qu’il voudrait bien ressembler au Misanthrope de Molière.</hi></p>
         </div>
         <div>
           <head>34<note place="bottom"> Seconde anecdotes dans l’édition de 1855.</note>, p. 62-63 <term rend="index" type="Œuvre" key="Molière, 1666, Le Misanthrope"/></head>
-          <quote>
-            <bibl>1742, <title>Bolaeana</title>, p. 151</bibl>
-            <bibl>1775, <title>Anecdotes Dramatiques</title>, tome I, p. 560-561</bibl>
-          </quote>
+          <bibl>1742, <title>Bolaeana</title>, p. 151</bibl>
+          <bibl>1775, <title>Anecdotes Dramatiques</title>, tome I, p. 560-561</bibl>
           <p><hi rend="i">Molière</hi> voulait détourner Despréaux de l’acharnement qu’il faisait paraître dans ses satyres contre Chapelain ; disant que Chapelain était en grande considération dans le monde ; qu’il était particulièrement aimé de M. Colbert ; et que ces railleries outrées pourraient lui faire des affaires auprès de ce ministre, et du roi même. Ces réflexions trop sérieuses ayant mis le poète de mauvaise humeur : « Ho ! le roi et M. Colbert feront ce qu’il leur plaira, dit-il brusquement : mais à moins que le roi ne m’ordonne expressément de trouver bons les vers de Chapelain, je soutiendrai toujours qu’un homme, après avoir fait la Pucelle,<note place="bottom"><hi rend="sc">Chapelain</hi>, <hi rend="i">La Pucelle ou la France délivrée</hi>, 1656 : poème héroïque.</note> mérite d’être pendu ». <hi rend="i">Molière</hi> se mit à rire de cette saillie, et l’employa ensuite fort à propos. (<hi rend="i">Misanthrope</hi>, acte 2, scène dernière.)</p>
           <quote>
             <l>Hors qu’un commandement exprès du roi ne vienne,</l>
@@ -985,16 +917,12 @@
         </div>
         <div>
           <head>35, p. 64</head>
-          <quote>
-            <bibl>1705, Grimarest, p. 116-120</bibl>
-          </quote>
+          <bibl>1705, Grimarest, p. 116-120</bibl>
           <p>Un jour <hi rend="i">Molière</hi> et Chapelle, revenant d’Auteuil à Paris par la rivière, disputaient sur une question philosophique ; un religieux, assis à côté d’eux, paraissent prendre beaucoup d’intérêt à leur dispute ; tantôt il les encourageait par un air d’applaudissement, tantôt il les enflammait par un air de doute et d’objection. Arrivé devant Chaillot, il prend congé d’eux et reprend sa besace ; c’était le frère quêteur des Minimes de Chaillot. <hi rend="i">Son silence</hi>, dit en riant <hi rend="i">Molière</hi> à Chapelle, <hi rend="i">avait plus d’esprit que ton éloquence et que ma philosophie ; il nous a pris pour dupes.</hi><note place="bottom"> Cette anecdote figure dans l’édition de 1855, à la neuvième place.</note></p>
         </div>
         <div>
           <head>36, p. 64-67<term rend="index" type="Œuvre" key="Molière, 1672, Les Femmes savantes"/></head>
-          <quote>
-            <bibl>1775, <title>Anecdotes Dramatiques</title>, tome I, p. 213</bibl>
-          </quote>
+          <bibl>1775, <title>Anecdotes Dramatiques</title>, tome I, p. 213</bibl>
           <p><hi rend="i">Molière</hi> n’aimait pas Cotin ; et le ressentiment qu’il avait contre lui, provenait de ce que cet abbé avait cherché à le desservir auprès du duc de Montausier*, en insinuant à celui-ci que c’était lui que <hi rend="i">Molière</hi> avait voulu jouer dans le <hi rend="i">Misanthrope</hi>. Aussi l’abbé <hi rend="i">Cotin</hi>, décrié par Boileau comme prédicateur et comme poète, fut joué sur le théâtre, par <hi rend="i">Molière</hi>, comme un mauvais poète, comme un pédant, et ce qui ne peut être jamais permis, à moins que la personne ne soit infâme, comme un mal honnête homme, du moins comme un homme sans délicatesse, et même sans principes.</p>
           <quote>
             <l>…. Ce sonnet qui chez une princesse.</l>
@@ -1026,57 +954,43 @@
         </div>
         <div>
           <head>37<note place="bottom"> Dans l’édition de 1855, cette anecdote figure à la trente neuvième place.</note>, p. 67-68<term rend="index" type="Œuvre" key="Molière, 1660, Le Cocu imaginaire"/></head>
-          <quote>
-            <bibl>1705, Grimarest, p. 21-23</bibl>
-            <bibl>1775, <title>Anecdotes Dramatiques</title>, tome I, p. 213</bibl>
-          </quote>
+          <bibl>1705, Grimarest, p. 21-23</bibl>
+          <bibl>1775, <title>Anecdotes Dramatiques</title>, tome I, p. 213</bibl>
           <p>Un bon bourgeois de Paris, vivant bien noblement, s’imagina que <hi rend="i">Molière</hi> l’avait pris pour l’original de son <hi rend="i">Cocu imaginaire</hi>. Il crut devoir en être offensé, et en marqua son ressentiment à un de ses amis. Comment, lui dit-il, un petit comédien aura l’audace de mettre impunément sur le théâtre un homme de ma sorte ! je me plaindrai, ajouta-t-il ; en bonne police, on doit réprimer l’insolence de ces gens-là : ce sont les pestes d’une ville ; ils observent tout pour le tourner en ridicule. L’ami, qui était homme de bons sens, lui dit : Eh ! Monsieur, si <hi rend="i">Molière</hi> a eu intention sur vous en faisant son <hi rend="i">Cocu imaginaire</hi>, de quoi vous plaignez vous ? Il vous a pris du bon côté, et vous seriez bien heureux d’en être quitte pour l’imaginaire. Le bourgeois, quoique peu satisfait de la réponse de son ami, ne laissa pas d’y faire quelques réflexions, et ne retourna plus au <hi rend="i">Cocu imaginaire</hi>.</p>
         </div>
         <div>
           <head>38<note place="bottom"> Cette anecdote figure à la vingt-septième place dans l’édition de 1855.</note>, p. 68-69<term rend="index" type="Œuvre" key="Molière, 1661, Les Fâcheux"/></head>
-          <quote>
-            <bibl>[1693] 1715, <title>Ménagiana</title>, tome III, p. 24</bibl>
-            <bibl>1705, Grimarest, p. 26-27</bibl>
-            <bibl>1775, <title>Anecdotes Dramatiques</title>, tome I, p. 336-337</bibl>
-          </quote>
+          <bibl>[1693] 1715, <title>Ménagiana</title>, tome III, p. 24</bibl>
+          <bibl>1705, Grimarest, p. 26-27</bibl>
+          <bibl>1775, <title>Anecdotes Dramatiques</title>, tome I, p. 336-337</bibl>
           <p>Le roi, en sortant de la première représentation des <hi rend="i">Fâcheux</hi>, dit à <hi rend="i">Molière</hi>, en voyant passer le comte de Soyecourt, insupportable chasseur : voilà un grand original que tu n’a pas encore copié. C’en fut assez ; la scène du fâcheux chasseur fut faite et apprise en moins de vingt-quatre heures ; et, comme <hi rend="i">Molière</hi> n’entendait rien au jargon de la chasse, il pria le comte de Soyecourt lui-même de lui indiquer les termes dont il devait se servir.</p>
         </div>
         <div>
           <head>39, p. 69<term rend="index" type="Œuvre" key="Molière, 1668, Amphitryon"/></head>
-          <quote>
-            <bibl>1705, Grimarest, p. 103-104</bibl>
-            <bibl>1775, <title>Anecdotes Dramatiques</title>, tome I, p. 71</bibl>
-          </quote>
+          <bibl>1705, Grimarest, p. 103-104</bibl>
+          <bibl>1775, <title>Anecdotes Dramatiques</title>, tome I, p. 71</bibl>
           <p>Madame <hi rend="i">Dacier</hi><note place="bottom"><hi rend="sc">Dacier</hi>, Anne Lefebvre, Mme (1647 – 1720) : érudite française, épouse d’André Dacier, elle traduisit les auteurs grecs et latins et fut à l’origine de la seconde querelle des Anciens et des Modernes. Traductrice de <hi rend="i">L’Iliade</hi> (1699) et de <hi rend="i">L’Odyssée</hi> (1708) d’Homère, elle s’opposa aux libres adaptations de Houdar de la Motte et prit vivement position pour les Anciens dans son traité des Causes de la corruption du goût (1714). (Le Petit Robert des noms propres 2007).</note>, qui a fait honneur à son sexe par son érudition, et qui lui en eut fait davantage, si, avec la science des commentateurs, elle n’en eut pas eu l’esprit, fit une dissertation pour prouver que <hi rend="i">l’Amphitrion</hi> de Plaute était fort au-dessus du moderne ; mais ayant entendu dire que <hi rend="i">Molière</hi> voulait faire une comédie des <hi rend="i">Femmes savantes</hi>, elle supprima sa dissertation.</p>
         </div>
         <div>
           <head>40, p. 69-70 <note place="bottom"> Cette anecdote est très célèbre. Elle apparaît pour la première fois dans la comédie <hi rend="i">Zélinde, ou la véritable critique de l’école des femmes</hi> et dans <hi rend="i">La Critique de la critique</hi> de Donneau de Visé en 1663. On la retrouve dans <hi rend="i">Élomire Hypocondre</hi> de Boulanger de Chalussay en 1670. Puis chez Boileau dans son Épître III en 1683. Selon Pierre Bonvallet, elle est également dans une note manuscrite écrite par Brossette en 1702. Cette anecdote est énoncé dans <hi rend="i">Les Œuvres de Molière</hi> par Bruzen de la Matinière en 1725. Ensuite chez Taschereau en 1844 et enfin chez M. Georges Bordonove en 1967 dans <hi rend="i">Molière génial et familier</hi>. (Pierre Bonvallet, <hi rend="i">Molière de tous les jours</hi>, p. 88-96).</note><term rend="index" type="Œuvre" key="Molière, 1662, L’École des femmes"/></head>
-          <quote>
-            <bibl>1705, Grimarest, p. 27-29</bibl>
-            <bibl>1775, <title>Anecdotes Dramatiques</title>, tome I, p. 282-283</bibl>
-          </quote>
+          <bibl>1705, Grimarest, p. 27-29</bibl>
+          <bibl>1775, <title>Anecdotes Dramatiques</title>, tome I, p. 282-283</bibl>
           <p><hi rend="i">L’École des femmes</hi> éprouva, dans sa naissance, de grandes contradictions. <hi rend="i">Plapisson</hi>, qui passait pour un grand philosophe, était sur le théâtre pendant la représentation ; et à tous les éclats de rire que faisait le parterre, il haussait les épaules et regardait le parterre en pitié, et disait quelquefois tout haut : Ris donc, parterre ! ris donc ! le duc de *** ne fut pas un des moins zélés censeurs de cette pièce. Qu’y trouvez-vous à redire d’essentiel, lui dit un connaisseur ? Ah, parbleu ! ce que j’y trouve à redire est plaisant, s’écria le duc : <hi rend="i">Tarte à la crème</hi><note place="bottom"> Cette expression se trouve dans l’Acte I scène 1, vers 99.</note> ! Mais <hi rend="i">tarte à la crème</hi> n’est point un défaut, répondit le bel esprit, pour la décrier comme vous faites. <hi rend="i">Tarte à la crème</hi> est exécrable, répliqua le courtisan : <hi rend="i">tarte à la crème</hi> ! bon dieu ! avec du sens commun peut-on soutenir une pièce où l’on ait mis <hi rend="i">tarte à la crème</hi>. Cette expression fut bientôt répétée partout le monde. <hi rend="i">Molière</hi> fit jouer quelque temps après <hi rend="i">la Critique de l’École des femmes</hi> : la <hi rend="i">tarte à la crème</hi> n’y fut pas oubliée ; et quoique ce mot fut déjà devenu proverbe, la raillerie que <hi rend="i">Molière</hi> en fit fut partagée entre ceux qui l’avaient employée. Le seigneur qui en était l’original, fut si vivement piqué d’être mis sur le théâtre, qu’il s’avisa d’une vengeance aussi indigne de sa qualité, qu’elle était imprudente. Un jour qu’il vit <hi rend="i">Molière</hi> passer par un appartement où il était, il l’aborda avec les démonstrations d’un homme qui voulait lui faire caresse. <hi rend="i">Molière</hi> s’étant incliné, il lui prit la tête en lui disant : <hi rend="i">Tarte à la crème, Molière, tarte à la crème</hi> ! Il lui frotta le visage contre ses boutons qui, étant fort durs et tranchants, le mirent en sang. Le roi qui vit <hi rend="i">Molière</hi> le même jour, apprit la chose avec indignation, et la marqua au duc d’une manière assez vive.<note place="bottom"> Cette anecdote est à la quarantième place dans l’édition de 1855.</note></p>
         </div>
         <div>
           <head>41, p. 71-72<term rend="index" type="Œuvre" key="Molière, 1666, Le Misanthrope"/></head>
-          <quote>
-            <bibl>1775, <title>Anecdotes Dramatiques</title>, tome I, p. 560</bibl>
-          </quote>
+          <bibl>1775, <title>Anecdotes Dramatiques</title>, tome I, p. 560</bibl>
           <p>Boileau racontait que <hi rend="i">Molière</hi>, après lui avoir lu le <hi rend="i">Misanthrope</hi>, lui avait dit : <hi rend="i">Vous verrez bien autre chose</hi>. Qu’aurait-il donc fait si la mort ne l’avait surpris, cet homme qui voyait quelque chose au-delà du <hi rend="i">Misanthrope</hi> ? Ce problème qui confondait Boileau, devrait être pour les auteurs comiques un objet continuel d’émulation et de recherches : et ne fut-ce pour eux que la pierre philosophale, ils feraient du moins en la cherchant inutilement, mille autres découvertes utiles.</p>
         </div>
         <div>
           <head>42, p. 72-73</head>
-          <quote>
-            <bibl>1705, Grimarest, p. 166</bibl>
-          </quote>
+          <bibl>1705, Grimarest, p. 166</bibl>
           <p><hi rend="i">Molière</hi> est au-dessus de tous ceux qui l’ont précédé ou suivi. Voici la parallèle qu’en a fait avec Térence l’auteur du siècle de Louis XIV, le plus digne d’en juger, La Bruyère :</p>
           <p>« Il m’a manqué à <hi rend="i">Térence</hi> que d’être moins froid : quelle pureté ! quelle exactitude ! quelle politesse ! quelle élégance ! quels caractères ! Il n’a manqué à <hi rend="i">Molière</hi> que d’éviter le jargon, et d’écrire purement : quel feu ! quelle naïveté ! quelle source de la bonne plaisanterie ! quelle imitation des mœurs ! et quel fléau du ridicule ! mais quel homme on aurait pu faire de ces deux comiques ! »<note place="bottom"> Elle est placée à la vingt-huitième position dans l’édition de 1855.</note></p>
         </div>
         <div>
           <head>43, p. 73-77</head>
-          <quote>
-            <bibl>1705, Grimarest, p. 89-92</bibl>
-          </quote>
+          <bibl>1705, Grimarest, p. 89-92</bibl>
           <p><hi rend="i">Molière</hi>, dans la société, possédait l’art si peu connu de ménager la délicatesse de ses amis, et qui plus est de leur donner d’excellents conseils. Parmi plusieurs, nous rapporterons l’avis si sage qu’il donna à Chapelle* et à son valet, avis qui fit rentrer le valet en grâce auprès de son maître, et ménagea l’amour-propre du maître qui se serait révolté de revenir sur ses pas.</p>
           <p>Chapelle* revenant de chez <hi rend="i">Molière</hi> à Auteuil, après avoir bu largement à son ordinaire, eut querelle au milieu de la petite prairie d’Auteuil, avec un valet nommé Godemer<note place="bottom"> ? ??</note>, qui le servait depuis plus de trente ans. Ce vieux domestique avait l’honneur d’être toujours dans le carrosse de son maître. Il prit fantaisie à Chapelle*, en descendant d’Auteuil, de lui faire perdre cette prérogative, et de le faire monter derrière son carrosse. Godemer, accoutumé aux caprices que le vin causait à son maître, ne se mit pas beaucoup en peine d’exécuter ses ordres. Celui-ci se met en colère, l’autre se moque de lui ; ils se prennent dans le carrosse. Le cocher descend de son siège pour aller les séparer. <hi rend="i">Molière</hi>, qui était à sa fenêtre, aperçut les combattants. Il crut que les domestiques de Chapelle* l’assommaient, et il accourut au plus vite : ah ! <hi rend="i">Molière</hi>, lui dit Chapelle*, puisque vous voilà, jugez si j’ai tort : ce coquin de Godemer s’est lancé dans mon carrosse, comme si c’était à un valet de figurer avec moi. Vous ne savez ce que vous dites, répondit Godemer. Monsieur sait que je suis en possession du devant de votre carrosse depuis plus de trente ans : pourquoi voulez-vous me l’ôter aujourd’hui sans raison ? Vous êtes un insolent, qui perdez le respect, reprit Chapelle* ; si j’ai voulu vous permettre de monter dans mon carrosse, je ne le veux plus ; je suis le maître, et vous iriez derrière ou à pied. Y a t-il de la justice à cela, répliqua Godemer ? Me faire aller à pied présentement que je suis vieux, et que je vous ai si bien servi pendant si longtemps ! Il fallait m’y faire aller pendant que j’étais jeune, j’avais des jambes alors ; mais à présent je ne puis plus marcher ; en un mot comme en cent, vous m’avez accoutumé au carrosse, je ne puis plus m’en passer ; et je serais déshonoré aujourd’hui si l’on me voyait derrière. Jugez-nous, <hi rend="i">Molière</hi>, je vous prie, ajouta Chapelle* ; j’en passerai par tout ce que vous voudrez. Eh bien ! Puisque vous vous en rapportez à moi, dit <hi rend="i">Molière</hi>, je vais tâcher de mettre d’accord deux si honnêtes gens. Vous avez tort, dit-il à Godemer, de perdre le respect envers votre maître, qui peut vous faire aller comme il voudra ; il ne faut pas abuser de sa bonté. Ainsi je vous condamne à monter derrière son carrosse jusqu’au bout de la prairie ; et là vous lui demanderez fort honnêtement la permission d’y rentrer : je suis sûr qu’il vous le donnera. Parbleu, s’écria Chapelle*, voilà un jugement qui vous fera honneur dans le monde : tenez, <hi rend="i">Molière</hi>, vous n’avez jamais donné une marque d’esprit si brillante. Oh bien ! ajouta-t-il, je fais grâce entière à ce maraud, en faveur de l’équité avec laquelle vous venez de nous juger. Ma foi, <hi rend="i">Molière</hi>, je vous suis obligé ; car cette affaire là m’embarrassait, elle avait sa difficulté. Adieu, mon cher ami, tu juges mieux qu’homme de France.<note place="bottom"> Cette anecdote figure dans l’édition de 1855 du <hi rend="i">Moliérana</hi>, à la dixième place.</note></p>
         </div>
@@ -1086,10 +1000,8 @@
         </div>
         <div>
           <head>45<note place="bottom"> Cette anecdote figure à la trentième position dans l’édition de 1855.</note>, p. 77-78</head>
-          <quote>
-            <bibl>1705, Grimarest, p. 85-87</bibl>
-            <bibl>1775, <title>Anecdotes Dramatiques</title>, tome III, p. 348</bibl>
-          </quote>
+          <bibl>1705, Grimarest, p. 85-87</bibl>
+          <bibl>1775, <title>Anecdotes Dramatiques</title>, tome III, p. 348</bibl>
           <p><hi rend="i">Molière</hi> avait un cœur excellent. Baron* lui annonça un jour à Auteuil, un homme que l’extrême misère empêchait de paraître ; il se nomme Mondorge<note place="bottom"><p>Coquille : Moudorge → Mondorge.</p><p rend="noindent"><hi rend="sc">Mignot</hi>, Jean dit Mondorge (16..–1678) : comédien français. On sait peu de chose sur sa vie. Sa mère se nomme Jeanne Imbert et son père Étienne Mignot.  Le 28 février 1666, il se marie avec Angélique Messa. Il meurt en 1678. (César.org).</p></note>, ajouta-t-il. Je le connais, dit <hi rend="i">Molière</hi> ; il a été mon camarade en Languedoc ; c’est un homme honnête homme. Que jugez-vous qu’il faille lui donner ? Quatre pistoles, dit Baron*, après avoir hésité quelque temps. <hi rend="i">Eh bien</hi> ! répliqua <hi rend="i">Molière, je vais les lui donner pour moi ; donnez-lui pour vous ces vingt autres que voilà</hi>. Mondorge parut : <hi rend="i">Molière</hi> l’embrassa, le consola, et joignit au présent qu’il lui faisait, un magnifique habit de théâtre, pour jouer les rôles tragiques.</p>
         </div>
         <div>
@@ -1114,17 +1026,13 @@
         </div>
         <div>
           <head>48, p. 80-81</head>
-          <quote>
-            <bibl>1705, Grimarest, p. 135-136</bibl>
-          </quote>
+          <bibl>1705, Grimarest, p. 135-136</bibl>
           <p><hi rend="i">Molière</hi> n’aimait point le jeu ; mais il avait assez de penchant pour le sexe ; la de ***<note place="bottom"> La personne citée ici serait la comédienne De Brie.</note> l’amusait quand il ne travaillait pas. Un de ses amis, qui était surpris qu’un homme aussi délicat que <hi rend="i">Molière</hi> eût si mal placé son inclination, voulut le dégoûter de cette comédienne. Est-ce la vertu, la beauté ou l’esprit, lui dit-il, qui vous font aimer cette femme là ? Vous savez que Labarre<note place="bottom"> On ne sait rien sur La Barre à part qu’il était musicien selon <hi rend="i">Les Œuvres de Molière</hi>, 1838, p. LIII.</note> et Florimont<note place="bottom"><hi rend="sc">Florimond</hi>, Claude Pelissier dit (16.. – 1665) : comédien français. Il fait partie de la troupe du Marais de 1660 à 1665. Il se maria avec Marie Boldville ou Belleville. Selon Grimarest, il a été l’un des amants de Mlle de Brie. (César.org).</note> sont des de ses amis ; qu’elle n’est point belle, que c’est un vrai squelette, et qu’elle n’a pas le sens commun. <hi rend="i">Je sais tout cela, monsieur</hi>, lui répondit <hi rend="i">Molière</hi> ; <hi rend="i">mais je suis accoutumé à ses défauts ; et il faudrait que je prisse trop sur moi pour m’accommoder aux imperfections d’une autre ; je n’en ai ni le temps, ni la patience</hi>.</p>
         </div>
         <div>
           <head>49, p. 81-82<term rend="index" type="Œuvre" key="Molière, 1664, Tartuffe"/><term rend="index" type="Œuvre" key="Molière, 1666, Le Misanthrope"/></head>
-          <quote>
-            <bibl>1705, Grimarest, p. 101</bibl>
-            <bibl>1775, <title>Anecdotes Dramatiques</title>, tome I, p. 559-560</bibl>
-          </quote>
+          <bibl>1705, Grimarest, p. 101</bibl>
+          <bibl>1775, <title>Anecdotes Dramatiques</title>, tome I, p. 559-560</bibl>
           <p>Les hypocrites avaient été tellement irrités par le <hi rend="i">Tartuffe</hi>, que l’on fit courir dans Paris un livre abominable, que l’on mit sur le compte de <hi rend="i">Molière</hi> pour le perdre.</p>
           <quote>
             <l>« Tant de fiel entre-t-il dans l’âme des dévots ? »<note place="bottom"> Vers qui figure dans le Chant premier du recueil de Boileau intitulé le <hi rend="i">Lutrin</hi>.</note></l>
@@ -1143,9 +1051,7 @@
         </div>
         <div>
           <head>50, p. 83-85<term rend="index" type="Vie " key="Molière, mort"/></head>
-          <quote>
-            <bibl>1775, <title>Anecdotes Dramatiques</title>, tome III, p. 347, 344-345</bibl>
-          </quote>
+          <bibl>1775, <title>Anecdotes Dramatiques</title>, tome III, p. 347, 344-345</bibl>
           <p>Les comédiens avaient résolu de faire à <hi rend="i">Molière</hi> un convoi magnifique. Mais M. du Harlay<note place="bottom"><space/><hi rend="sc">Harlay</hi>, François de (1625–1695) : archevêque de Paris, duc et pair de France, proviseur de Sorbonne et de Navarre, l’un des quarante de l’académie française, fils d’Achille, marquis de Champvalon. (<hi rend="i">Moreri</hi>, 1759).</note>, archevêque de Paris, ne voulut pas permettre qu’on l’inhumât. La femme de <hi rend="i">Molière</hi> alla sur-le-champ à Versailles, se jeter aux pieds du roi, pour se plaindre de l’injure que l’on faisait à la mémoire de son mari, en lui refusant la sépulture. Le roi la renvoya en lui disant que cette affaire dépendait du ministère de l’archevêque, et que c’était à lui qu’il fallait s’adresser. Cependant sa majesté fit dire à ce prélat, qu’il fit en sorte d’éviter l’éclat et le scandale. L’archevêque révoqua donc sa défense, à condition que l’enterrement serait fait sans pompe et sans bruit. Il fut fait pas deux prêtes, qui accompagnèrent le corps sans chanter, et on l’enterra dans le cimetière qui est derrière la chapelle Saint-Joseph, rue Montmartre. Tous ses amis y assistèrent, ayant chacun un flambeau à la main. Mademoiselle de <hi rend="i">Molière*</hi> s’écriait partout : <hi rend="i">Quoi ! L’on refuse la sépulture à un homme qui mérite des autels</hi>. Boileau déplora alors la perte de ce célèbre comique dans son épître septième qu’il adresse à Racine.</p>
           <quote>
             <l>Avant qu’un peu de terre, obtenu par prière,</l>
@@ -1172,18 +1078,14 @@
         </div>
         <div>
           <head>51, p. 85-86<term rend="index" type="Vie " key="Molière, mort"/></head>
-          <quote>
-            <bibl>1705, Grimarest, p. 161</bibl>
-            <bibl>1715, <title>Ménagiana</title>, tome I, p. 78</bibl>
-            <bibl>1775, <title>Anecdotes Dramatiques</title>, tome I, p. 506</bibl>
-          </quote>
+          <bibl>1705, Grimarest, p. 161</bibl>
+          <bibl>1715, <title>Ménagiana</title>, tome I, p. 78</bibl>
+          <bibl>1775, <title>Anecdotes Dramatiques</title>, tome I, p. 506</bibl>
           <p>Un abbé crut faire sa cour au grand Condé*, en lui présentant l’épitaphe qu’il avait faite pour <hi rend="i">Molière</hi>. « Ah ! Lui dit ce prince, que celui dont tu me présentes l’épitaphe, n’est-il en état de faire la tienne ! »</p>
         </div>
         <div>
           <head>52, p. 86<term rend="index" type="Vie " key="Molière, mort"/></head>
-          <quote>
-            <bibl>1775, <title>Anecdotes Dramatiques</title>, tome III, p. 345-346</bibl>
-          </quote>
+          <bibl>1775, <title>Anecdotes Dramatiques</title>, tome III, p. 345-346</bibl>
           <p>La difficulté qu’on fit de donner la sépulture à<hi rend="i">Molière</hi>, et les injustices qu’il avait essuyées pendant sa vie, engagèrent le père Bouhours<note place="bottom"><hi rend="sc">Bouhours</hi>, Dominique (1628–1702). Ses études terminées au collège de Clermont, il entra dans la Compagnie de Jésus, le 11 septembre 1644. Un des premiers emplois que lui confièrent ses supérieurs fut l’éducation des deux jeunes princes de Longueville. Un peu plus tard, en 1662, on le trouve aumônier de la garnison de Dunkerque. Un mémoire qu’il rédigea sur l’état de la ville attira sur lui l’attention de Colbert qui le choisit comme précepteur de son fils aîné, le marquis de Seignelay. Le P. Bouhours devint surtout célèbre lorsqu’il se fixa à Paris, au collège de Clermont (1666). Ce bel esprit, un des plus fins connaisseurs de la langue française, passait pour l’héritier et l’émule de Vaugelas. C’était un homme aimable et brillant en société. Il était fidèle au lundi du président de Lamoignon et au samedi de Mlle de Scudéry. Il jouit d’une grande autorité littéraire en son temps. Racine lui soumet les quatre premiers actes d’une de ses tragédies […]. Même estime de la part de Bossuet, de la Fontaine, de Boileau. […]. Le P. Bouhours mourut à Paris, le 27 mai 1702. […] (DLF XVII, p. 193-195).</note> à composer l’épitaphe suivante :</p>
           <quote>
             <l>Tu réformas et la ville et la cour ;</l>
@@ -1199,16 +1101,12 @@
         </div>
         <div>
           <head>53<note place="bottom"> Cette anecdote, dans l’édition de 1855, est à la quarante et unième place.</note>, p. 87<note place="bottom"> Cette anecdote apparaît pour la première fois dans <hi rend="i">Les Lettres nouvelles</hi> de Edme Boursault en 1697. On la retrouve également chef Antoine Taillefer dans son <hi rend="i">Tableau Historique</hi> en 1785. L’anecdote fut reprise par Taschereau dans son ouvrage <hi rend="i">Histoire de la vie et des ouvrages de Molière</hi>, 1825.  (Pierre Bonvallet, <hi rend="i">Molière de tous les jours</hi>, p. 275-277).</note><term rend="index" type="Œuvre" key="Molière, 1675, Le Malade imaginaire"/></head>
-          <quote>
-            <bibl>1775, <title>Anecdotes Dramatiques</title>, tome I, p. 508-509</bibl>
-          </quote>
+          <bibl>1775, <title>Anecdotes Dramatiques</title>, tome I, p. 508-509</bibl>
           <p>Dans le <hi rend="i">Malade imaginaire</hi>, la dernière pièce que <hi rend="i">Molière</hi> ait mise au théâtre, il y a un M. Fleurant, apothicaire, brusque jusqu’à l’insolence, qui vient, une seringue à la main, pour donner un lavement au malade. Un honnête homme, frère de ce prétendu malade, qui se trouve là dans le moment, le détourne de le prendre ; ce qui irrite l’apothicaire, qui lui dit toutes les impertinences dont les gens de cette sorte sont capables. La première fois que cette pièce fut jouée, l’honnête homme répondit à l’apothicaire : <hi rend="i">Allez, monsieur, on voit bien que vous n’avez coutume de parler qu’à des culs</hi>. Tous les spectateurs furent révoltés de cette grossièreté ; au lieu qu’à la seconde représentation, on entendit, avec plaisir, <hi rend="i">allez, monsieur, on voit bien que vous n’avez pas accoutumé de parler à des visages</hi>.</p>
         </div>
         <div>
           <head>54<note place="bottom"> Elle figure à la quarante-deuxième place dans l’édition de 1855.</note>, p. 88</head>
-          <quote>
-            <bibl>1742, <title>Bolaeana</title>, p. 150</bibl>
-          </quote>
+          <bibl>1742, <title>Bolaeana</title>, p. 150</bibl>
           <p>Despréaux* n’approuvait pas le jargon que <hi rend="i">Molière</hi> mettait dans la bouche de ses paysans et de quelques autres de ses personnages. « Vous ne voyez pas, disait-il, que Plaute*, ni ses confères, aient estropié la langue en faisant parler des villageois ; ils leur font tenir des discours proportionnés à leur état, sans qu’il en coûte rien à la pureté du langage. Ôtez cela à <hi rend="i">Molière</hi>, continuait-il, je ne lui connais point de supérieur pour l’esprit et le naturel ; ce grand homme l’emporte de beaucoup sur Corneille, sur Racine et sur moi ; car, ajoutait-il en riant, il faut bien que je me mette de la partie ».</p>
         </div>
         <div>
@@ -1227,10 +1125,8 @@
         </div>
         <div>
           <head>57, p. 94</head>
-          <quote>
-            <bibl>1705, Grimarest, p. 165</bibl>
-            <bibl>1775, <title>Anecdotes Dramatiques</title>, tome I, p. 394-395</bibl>
-          </quote>
+          <bibl>1705, Grimarest, p. 165</bibl>
+          <bibl>1775, <title>Anecdotes Dramatiques</title>, tome I, p. 394-395</bibl>
           <p>Boileau a beaucoup loué <hi rend="i">Molière</hi>, et vivant et mort ; mais dans l’<hi rend="i">Art Poétique</hi>, où il paraît plus particulièrement le juger, il dit que <hi rend="i">Molière</hi> :</p>
           <quote>
             <l>Peut-être de son art eut remporté le prix,</l>
@@ -1243,9 +1139,7 @@
         </div>
         <div>
           <head>58, p. 95-96<term rend="index" type="Œuvre" key="Molière, 1662, L’École des femmes"/></head>
-          <quote>
-            <bibl>1775, <title>Anecdotes Dramatiques</title>, tome I, p. 285</bibl>
-          </quote>
+          <bibl>1775, <title>Anecdotes Dramatiques</title>, tome I, p. 285</bibl>
           <p>La comédie de <hi rend="i">l’École des femmes</hi> attira à <hi rend="i">Molière</hi> une nuée de critiques toutes plus mauvaises les unes que les autres ; plusieurs personnes même la frondèrent<note place="bottom"> FRONDER : Se dit fort communément depuis le parti de la Fronde, pour signifier, Contredire, combattre, réfuter. (<hi rend="i">Furetière</hi>, 1690).</note> ouvertement. Pour venger <hi rend="i">Molière</hi> de tous ses détracteurs, Boileau fit les stances suivantes qu’il envoya à son ami :</p>
           <quote>
             <l><space rend="tab"> </space>En vain mille jaloux esprits,</l>
@@ -1291,29 +1185,23 @@
         </div>
         <div>
           <head>60, p. 98<term rend="index" type="Œuvre" key="Molière, 1675, Le Malade imaginaire"/></head>
-          <quote>
-            <bibl>1705, Grimarest, p. 153-155</bibl>
-            <bibl>1775, <title>Anecdotes Dramatiques</title>, tome I, p. 506</bibl>
-          </quote>
+          <bibl>1705, Grimarest, p. 153-155</bibl>
+          <bibl>1775, <title>Anecdotes Dramatiques</title>, tome I, p. 506</bibl>
           <p>Molière était incommodé lorsqu’on représenta le <hi rend="i">Malade imaginaire</hi>. Sa femme et Baron* le pressèrent de prendre du repos, et de ne point jouer. <hi rend="i">Oh ! Que feront</hi>, leur répondit-il, <hi rend="i">tant de pauvres ouvriers ? Je me reprocherais d’avoir négligé un seul jour de leur donner du pain</hi>.<note place="bottom"> Cette anecdote figure dans l’édition de 1855, à la douzième place.</note></p>
         </div>
         <div>
           <head>61, p. 99</head>
-          <quote>
-            <bibl>1704, <title>Furetiriana</title>, p. 103-105</bibl>
-            <bibl>1742, <title>Bolaeana</title>, p. 104-105</bibl>
-            <bibl>1775, <title>Anecdotes Dramatiques</title>, tome I, p. 33-34</bibl>
-            <bibl>1775, <title>Anecdotes Dramatiques</title>, tome I, p. 128</bibl>
-          </quote>
+          <bibl>1704, <title>Furetiriana</title>, p. 103-105</bibl>
+          <bibl>1742, <title>Bolaeana</title>, p. 104-105</bibl>
+          <bibl>1775, <title>Anecdotes Dramatiques</title>, tome I, p. 33-34</bibl>
+          <bibl>1775, <title>Anecdotes Dramatiques</title>, tome I, p. 128</bibl>
           <p>Racine, après avoir donné son <hi rend="i">Alexandre</hi><note place="bottom"><hi rend="sc">Racine</hi>, <hi rend="i">Alexandre le grand</hi>, 1665 : tragédie en 5 actes et en vers.</note> à la troupe de Molière, pour le jouer, le retira pour le donner aux comédiens de l’hôtel de Bourgogne. Il eut chez eux tout le succès possible, ce qui déplut fort à Molière ; outre que Racine lui avait débauché la Duparc*, qui était la plus fameuse de ses actrices. De là vint la brouillerie de Racine et de Molière, qui s’étudiaient tous deux à soutenir leur théâtre avec une pareille émulation.</p>
           <p>Peu de temps après la désertion du poète tragique, Molière donna son <hi rend="i">Avare</hi>, où Despréaux fut des plus assidus. « Je vous vis dernièrement, dit Racine à Boileau, à la pièce de Molière, et vous riez tout seul sur le théâtre. Je vous estime trop, lui répondit le satirique, pour croire que vous n’y ayez pas ri, du moins intérieurement ».</p>
         </div>
         <div>
           <head>62, p. 100</head>
-          <quote>
-            <bibl>1742, <title>Bolaeana</title>, p. 31-32</bibl>
-            <bibl>1775, <title>Anecdotes Dramatiques</title>, tome I, p. 271</bibl>
-          </quote>
+          <bibl>1742, <title>Bolaeana</title>, p. 31-32</bibl>
+          <bibl>1775, <title>Anecdotes Dramatiques</title>, tome I, p. 271</bibl>
           <p>Despréaux* ne se lassait point d’admirer <hi rend="i">Molière</hi>, qu’il appelait toujours le contemplateur. Il disait que la nature semblait lui avait révélé tous ses secrets, du moins pour ce qui regarde les mœurs et les caractères des hommes. Il regrettait fort qu’on eût perdu sa petite comédie du <hi rend="i">Docteur amoureux</hi>, parce qu’il y a toujours quelque chose de saillant et d’instructif dans ses moindres ouvrages.</p>
         </div>
         <div>
@@ -1323,18 +1211,14 @@
         </div>
         <div>
           <head>64<note place="bottom"> Cette anecdote est placée à la trente deuxième position dans l’édition de 1855.</note>, p. 100-101<term rend="index" type="Œuvre" key="Molière, 1659, Les Précieuses ridicules"/></head>
-          <quote>
-            <bibl>1721, <title>Segraisiana</title>, p. 212-214</bibl>
-            <bibl>1775, <title>Anecdotes Dramatiques</title>, tome I, p. 271</bibl>
-          </quote>
+          <bibl>1721, <title>Segraisiana</title>, p. 212-214</bibl>
+          <bibl>1775, <title>Anecdotes Dramatiques</title>, tome I, p. 271</bibl>
           <p><hi rend="i">Les Précieuses ridicules</hi> mirent <hi rend="i">Molière</hi> en réputation. La pièce ayant eu l’approbation de tout Paris, on l’envoya à la cour, qui était alors au voyage des Pyrénées, où elle fut très-bien reçue. Cela enfla le courage de l’auteur. « Je n’ai plus que faire, dit-il, d’étudier Plaute* et Térence*, ni d’éplucher les fragments de Ménandre* ; je n’ai qu’à étudier le monde ».</p>
         </div>
         <div>
           <head>65, p. 101-102<term rend="index" type="Œuvre" key="Molière, 1672, Les Femmes savantes"/></head>
-          <quote>
-            <bibl>1724, <title>Carpentariana</title>, p. 55-56</bibl>
-            <bibl>1775, <title>Anecdotes Dramatiques</title>, tome I, p. 354</bibl>
-          </quote>
+          <bibl>1724, <title>Carpentariana</title>, p. 55-56</bibl>
+          <bibl>1775, <title>Anecdotes Dramatiques</title>, tome I, p. 354</bibl>
           <p><hi rend="i">Molière</hi> a joué, dans les <hi rend="i">Femmes savantes</hi>, à l’hôtel de Rambouillet*, qui était le rendez-vous de tous les beaux esprits. <hi rend="i">Molière</hi> y eut un grand succès, et y était fort bien venu ; mais lui ayant été dit quelques railleries piquantes, il joua ses railleries, Cotin* et Ménage* : le premier sous le nom de Trissotin ; et le second sous celui de Vadius, qui eurent la querelle si plaisamment dépeinte dans les <hi rend="i">Femmes savantes</hi>. Cotin* avait introduit Ménage* chez madame Rambouillet. Ce dernier allant voir cette dame, après la première représentation des <hi rend="i">Femmes savantes</hi>, où elle s’était trouvée, elle ne put s’empêcher de lui dire : Quoi, monsieur, vous souffrirez que cet impertinent de <hi rend="i">Molière</hi> nous joue de la sorte ? Ménage* lui répondit : <hi rend="i">madame, j’ai vu la pièce, elle est parfaitement belle : on n’y peut rien trouver à redire ni à critiquer.</hi></p>
         </div>
         <div>
@@ -1364,9 +1248,7 @@
         </div>
         <div>
           <head>68, p. 104<term rend="index" type="Œuvre" key="Molière, 1664, Tartuffe"/></head>
-          <quote>
-            <bibl>1775, <title>Anecdotes Dramatiques</title>, tome II, p. 209</bibl>
-          </quote>
+          <bibl>1775, <title>Anecdotes Dramatiques</title>, tome II, p. 209</bibl>
           <p>La première comédie que vit à Paris le célèbre Piron*, ce fut le <hi rend="i">Tartuffe</hi> de <hi rend="i">Molière</hi> ; son admiration alla jusqu’à l’extase. À la fin de la pièce, ses transports de joie augmentant encore, ses voisins lui en demandèrent les motifs : <hi rend="i">Ah ! Messieurs</hi>, s’écria-t-il, s<hi rend="i">i cet ouvrage sublime n’était pas fait, il ne se ferait jamais.</hi></p>
         </div>
         <div>
@@ -1375,26 +1257,20 @@
         </div>
         <div>
           <head>70<note place="bottom"> Elle est à la trente troisième place dans l’édition de 1855.</note>, p. 105<note place="bottom"> Cette anecdote, selon Bonvallet, apparaît en 1694 dans la deuxième édition du <hi rend="i">Ménagiana</hi> (que nous n’avons pas consultée) : Mauvillain était médecin de Molière. C’est celui pour lequel ce poète a fait le troisième Placet qui se voit à la tête de son Tartuffe. Étant tous deux à Versailles au dîner du roi, Sa Majesté dit à Molière : « Voilà donc votre médecin. Que fait-il ? ― Nous raisonnons ensemble, répondit Molière, il m’ordonne des remèdes, je ne les fais point, et je guéris. ». Elle sera reprise dans la <hi rend="i">Vie de Molière</hi> par Voltaire en 1739. (Pierre Bonvallet, <hi rend="i">Molière de tous les jours</hi>, p. 150-151).</note></head>
-          <quote>
-            <bibl>1704, <title>Furetiriana</title>, p. 323</bibl>
-            <bibl>1705, Grimarest, p. 42-43</bibl>
-            <bibl>1715, <title>Ménagiana</title>, tome IV, p. 7</bibl>
-          </quote>
+          <bibl>1704, <title>Furetiriana</title>, p. 323</bibl>
+          <bibl>1705, Grimarest, p. 42-43</bibl>
+          <bibl>1715, <title>Ménagiana</title>, tome IV, p. 7</bibl>
           <p>M. de Mauvilain<note place="bottom"><hi rend="sc">Mauvillain</hi>, Jean-Armand de : docteur en médecine, doyen de la faculté de Paris en 1666, ami intime de Molière. C’est à lui et à Liénard que l’auteur comique est redevable de presque toutes les plaisanteries qui se trouvent dans ses pièces contre les médecins et les apothicaires. Non content d’avoir fourni à Molière les termes de l’art, ils lui tracèrent encore l’originalité de quelques-uns de leurs confrères, qui se singularisaient dans leur profession, ou la déshonoraient. [...] (Dictionnaire universel, historique, critique et bibliographique, Chaudon-Mayeul, Tome I8).</note>, médecin, était ami de <hi rend="i">Molière</hi>. Ils se trouvèrent un jour l’un et l’autre à Versailles au dîner du roi. Sa majesté dit à <hi rend="i">Molière</hi> : « Voilà donc votre médecin ? Que vous fait-il ? » <hi rend="i">Sire</hi>, répondit <hi rend="i">Molière, nous raisonnons ensemble ; il m’ordonne des remèdes ; je ne les fais point, et je guéris.</hi></p>
         </div>
         <div>
           <head>71, p. 105-106<term rend="index" type="Œuvre" key="Molière, 1668, L’Avare"/></head>
-          <quote>
-            <bibl>1705, Grimarest, p. 58</bibl>
-          </quote>
+          <bibl>1705, Grimarest, p. 58</bibl>
           <p><hi rend="i">L’Avare</hi> de <hi rend="i">Molière</hi> eut à peine sept représentations lorsqu’il parut. La prose dérouta le public. Comment ! Disait-on, Molière est-il fou, et nous prend-il pour des sots, de nous faire essuyer cinq actes de prose ? A-t-on jamais vu plus d’extravagance ? Le moyen d’être diverti par de la prose ! <hi rend="i">Molière</hi> fut vengé de ce jugement du public, lorsqu’il donna cette pièce pour la seconde, le 9 septembre 1668. On y courut en foule, et il fut joué presque une année entière.</p>
         </div>
         <div>
           <head>72, p. 106-108</head>
-          <quote>
-            <bibl>1705, Grimarest, p. 76-77</bibl>
-            <bibl>1775, <title>Anecdotes dramatiques</title>, tome I, p. 274</bibl>
-          </quote>
+          <bibl>1705, Grimarest, p. 76-77</bibl>
+          <bibl>1775, <title>Anecdotes dramatiques</title>, tome I, p. 274</bibl>
           <p>On jouait sur le théâtre de <hi rend="i">Molière</hi> une pièce intitulée <hi rend="i">Dom Quichotte</hi><note place="bottom"><hi rend="i">Don Quichotte de la Mancha</hi>, comédie en 5 actes et en vers, 1638, de Guérin de Bouscal.</note>. Elle commençait à l’instant que Dom-Quichotte installait Sancho Pansa dans son gouvernement. <hi rend="i">Molière</hi> faisait Sancho ; et comme il devait paraître sur le théâtre monté sur un âne, il se mit dans la coulisse pour être prêt à entrer dans le moment que la scène le demanderait. Mais l’âne qui ne savait point le rôle par cœur, n’observa point ce moment ; et dès qu’il fut dans la coulisse, il voulut entrer, quelques efforts que <hi rend="i">Molière</hi> employât pour qu’il n’en fit rien. Sancho tirait le licou<note place="bottom"> LICOU, LICOL : Une têtière montée d’une longe de cuir pour attacher les chevaux, mulets, ou autres bêtes au râtelier, quand on les a débridées. (<hi rend="i">Furetière</hi>, 1690).</note> de toute sa force ; l’âne n’obéissait point ; il voulait absolument paraître. <hi rend="i">Molière</hi> appelait, <hi rend="i">Baron* ; Laforest</hi>, à moi ; ce maudit l’âne veut entrer. Cette Laforest était sa servante ; elle était dans la coulisse opposée, d’où elle ne pouvait passer à travers le théâtre pour arrêter l’âne ; et elle riait de tout son cœur de voir son maître renversé sur le derrière de cet animal, tant il mettait de force à tirer son licou pour le retenir. Enfin destitué de tout secours, et désespérant de pouvoir vaincre l’opiniâtreté de son âne, il prit le parti de se retenir aux ailes du théâtre, et de laisser glisser l’animal entre ses jambes, pour aller faire telle scène qu’il jugerait à-propos.<note place="bottom"> Cette anecdote figure dans l’édition de 1855 du <hi rend="i">Moliérana</hi>, à la treizième place.</note></p>
         </div>
         <div>
@@ -1403,9 +1279,7 @@
         </div>
         <div>
           <head>74, p. 108-114</head>
-          <quote>
-            <bibl>1705, Grimarest, p. 126-130</bibl>
-          </quote>
+          <bibl>1705, Grimarest, p. 126-130</bibl>
           <p>Un jeune homme de vingt-deux ans, d’une belle figure et bien fait, vint un jour trouver <hi rend="i">Molière</hi> ; après les compliments ordinaires, il lui découvrit qu’étant né avec toutes les dispositions nécessaires pour le théâtre, il n’avait point d’autre passion plus forte que de s’y attacher ; qu’il venait le prier de lui en procurer les moyens, et lui faire connaître que ce qu’il avançait était véritable. Il déclama quelques scènes détachées, sérieuses et comiques, devant <hi rend="i">Molière</hi>, qui fut surpris de l’art avec lequel ce jeune homme faisait sentir les endroits touchants. Il semblait qu’il eût travaillé vingt années, tant il était assuré dans ses tons ; ses gestes étaient ménagés avec esprit, de sorte que <hi rend="i">Molière</hi> vit bien que ce jeune homme avait reçu une excellente éducation. Il lui demanda comment il avait appris la déclamation. Après avoir satisfait à cette question et à plusieurs autres qui lui furent faites, <hi rend="i">Molière</hi> lui demanda : avez-vous du bien ? ― Mon père est un avocat qui possède une fortune assez honnête. ― « Eh bien ! lui répliqua l’auteur du <hi rend="i">Misanthrope</hi>, je vous conseille de prendre sa profession. La nôtre ne vous convient point : c’est la dernière ressource de ceux qui ne sauraient mieux faire, ou des jeunes gens déréglés, qui veulent se soustraire au travail. D’ailleurs c’est enfoncer le poignard dans le cœur de vos parents, que de monter sur le théâtre ; vous en avez les raisons : je me suis toujours reproché d’avoir donné ce déplaisir à ma famille ; et, je vous avoue que si c’était à recommencer, je ne choisirais jamais cette profession. Vous croyez peut-être qu’elle a ses agréments ; vous vous trompez. Il est vrai que nous sommes en apparence recherchés des grands seigneurs, mais ils nous assujettissent à leurs plaisirs, et c’est la plus triste de toutes les situations que d’être l’esclave de leurs fantaisies. Le reste du monde nous regarde comme des gens perdus, et nous méprise. Ainsi, monsieur, quittez un dessein si contraire à votre honneur et à votre repos. Si vous étiez dans le besoin, je pourrais vous rendre mes services, mais je ne vous le cache point ; je vous serais plutôt un obstacle ».</p>
           <p>Le jeune homme donnait quelques raisons pour persister dans sa résolution, quand <hi rend="i">Chapelle</hi>* entra, un peu pris de vin. <hi rend="i">Molière</hi> fit déclamer ce jeune homme devant lui. <hi rend="i">Chapelle</hi>* en fut aussi étonné que son ami. Ce serait, lui dit-il, un excellent comédien ! On ne vous consulte pas sur cela, répondit <hi rend="i">Molière</hi> à <hi rend="i">Chapelle</hi>*. « Représentez-vous, ajouta-t-il, en s’adressant au jeune homme, la peine que nous avons ; incommodés ou non, il faut être prêts à marcher au premier ordre, et à donner du plaisir quand nous sommes souvent accablés de chagrin ; à souffrir les grossièretés de la plupart des gens avec qui nous avons à vivre, et à captiver les bonnes grâces d’un public qui est en droit de nous gourmander<note place="bottom"> GOURMANDER : Traiter quelqu’un de hauteur, le reprendre avec aigreur et orgueil. (<hi rend="i">Furetière</hi>, 1690).</note> pour son argent. Non, monsieur, croyez-moi encore une fois, ne vous abandonnez point au dessein que vous avez formé ; faites-vous avocat, je vous réponds du succès ».</p>
           <p>Avocat ! dit <hi rend="i">Chapelle</hi>*, et fi ! Il a trop de mérite pour brailler à un barreau ; et c’est un vol qu’il fait au public, s’il ne se fait prédicateur ou comédien. En vérité, lui répondit <hi rend="i">Molière</hi>, il faut que vous soyez bien ivre pour parler de la sorte, et vous avez mauvaise grâce de plaisanter sur une affaire aussi sérieuse que celle-ci, où il est question de l’honneur et de l’établissement de monsieur. Ah ! Puisque nous sommes sur le sérieux, répliqua <hi rend="i">Chapelle</hi>*, je vais le prendre tout de bon. Aimez-vous le plaisir, dit-il au jeune homme ? ― Je ne serai pas fâché de goûter celui qui peut m’être permis, répondit le fils de l’avocat. ― Eh bien donc, répliqua <hi rend="i">Chapelle</hi>*, mettez-vous dans la tête que malgré tout ce que <hi rend="i">Molière</hi> vous a dit, vous en aurez plus en six moins de théâtre qu’en six années de barreau. Molière qui n’avait en vue que de détourner ce jeune homme de la profession de comédien, redoubla ses raisons pour le faire ; et enfin il lui fit perdre la pensée de paraître sur les planches. Oh ! Voilà mon harangueur qui triomphe, s’écria <hi rend="i">Chapelle</hi>* ; mais morbleu vous répondrez du peu de succès que monsieur fera dans le parti que vous lui faites embrasser.(I)<note place="bottom"> le (I) indique une note de bas de page dans le <hi rend="i">Moliérana</hi>. Nous avons mis cette note à la suite de l’anecdote.</note></p>
@@ -1453,16 +1327,12 @@
         </div>
         <div>
           <head>77, p. 118-119<term rend="index" type="Vie " key="Molière, portrait"/></head>
-          <quote>
-            <bibl>1705, Grimarest, p. 137-138</bibl>
-          </quote>
+          <bibl>1705, Grimarest, p. 137-138</bibl>
           <p><hi rend="i">Molière</hi> était l’homme du monde qui se faisait le plus servir. Il fallait l’habiller comme un grand seigneur, et il n’aurait pas arrangé les plis de sa cravate. Il avait un valet, espèce de lourdant qui était chargé de ce soin. Un matin qu’il chassait à Chambord, il mit un de ses bas à l’envers. Un tel, dit gravement Molière, ce bas est à l’envers. Aussitôt ce valet le prend par le haut, et en dépouillant la jambe de son maître, met ce bas à l’endroit : mais comptant ce changement pour rien, il enfonce son bras dedans, le retourne pour chercher l’endroit, et l’envers revenu dessus, il rechausse Molière. Un tel, lui dit-il encore froidement, ce bas est à l’envers. Le stupide domestique qui le vit avec surprise, reprend le bas, et fait le même exercice que la première fois ; et s’imaginant avoir réparé son peu d’intelligence, et avoir donné sûrement à ce bas le sens où il devait être, le sens où il devait être, il chausse son maître avec confiance : mais ce maudit envers se trouvant toujours dessus, la patience échappe à Molière. Oh, parbleu ! C’en est trop, dit-il, en lui donnant un coup de pied qui le fit tomber à la renverse : ce maraud-là me chaussera éternellement à l’envers ; ce ne sera jamais qu’un sot quelque métier qu’il fasse. Vous êtes philosophe ! Vous êtes plutôt le diable, lui répondit ce pauvre garçon qui fut plus de vingt-quatre heures à comprendre comment ce malheureux bas se trouvait toujours à l’envers.<note place="bottom"> Cette anecdote, dans l’édition de 1855, est placée à la trente quatrième place.</note></p>
         </div>
         <div>
           <head>78, p. 118-119<term rend="index" type="Œuvre" key="Molière, 1664, Tartuffe"/></head>
-          <quote>
-            <bibl>1775, <title>Anecdotes dramatiques</title>, tome II, p. 203</bibl>
-          </quote>
+          <bibl>1775, <title>Anecdotes dramatiques</title>, tome II, p. 203</bibl>
           <p>On a longtemps ignoré où Molière avait puisé le nom de <hi rend="i">Tartuffe</hi>, qui a fait un synonyme de plus dans notre langue, aux mots <hi rend="i">hypocrite, faux dévot, etc</hi>.</p>
           <quote>
             <l>« Et ton nom paraîtra dans la race future,</l>
@@ -1603,17 +1473,13 @@
         </div>
         <div>
           <head>88, p. 132<term rend="index" type="Œuvre" key="Molière, 1669, Monsieur de Pourceaugnac"/></head>
-          <quote>
-            <bibl>1775, <title>Anecdotes Dramatiques</title>, tome II, p. 93-94</bibl>
-          </quote>
+          <bibl>1775, <title>Anecdotes Dramatiques</title>, tome II, p. 93-94</bibl>
           <p><hi rend="i">Molière</hi> eut, comme les premiers farceurs, l’objet d’amuser et de faire rire ; mais par des moyens moins libres, et moins éloignés de la vraie comédie. « Je suis comédien aussi bien qu’auteur, disait-il, il faut réjouir la cour et attirer le peuple, et je suis quelquefois réduit à consulter l’intérêt de mes acteurs aussi bien que ma propre gloire. »</p>
         </div>
         <div>
           <head>89, p. 133<term rend="index" type="Œuvre" key="Molière, 1669, Monsieur de Pourceaugnac"/></head>
-          <quote>
-            <bibl>1705, Grimarest, p. 138-139</bibl>
-            <bibl>1775, <title>Anecdotes Dramatiques</title>, tome II, p. 393</bibl>
-          </quote>
+          <bibl>1705, Grimarest, p. 138-139</bibl>
+          <bibl>1775, <title>Anecdotes Dramatiques</title>, tome II, p. 393</bibl>
           <p><hi rend="i">Pourceaugnac</hi> fut fait à l’occasion d’un gentilhomme limousin, qui, dans une querelle qu’il eut sur le théâtre avec quelques comédiens, développa tout le ridicule du plus épais provincial. Le contemplateur <hi rend="i">Molière</hi>, qui avait été témoin de la scène, en conçut l’idée de cette ingénieuse farce, qui eut le plus grand succès, et qu’on voit encore tous les jours avec le plaisir le plus vif.</p>
           <p>Robinet<note place="bottom"><hi rend="sc">Robinet</hi>, Charles de Saint-Jean (1608–1698) : gazetier dès 1642, fonde <hi rend="i">La Muse héroïque</hi>, 1654, et succède à] Loret, de 1665 à 1678 ( ?). [Lors de la querelle de l’<hi rend="i">École des femmes</hi> il écrit un Panégyrique contre Molière, en 1663.] (DLF XVII p. 1104).</note>, dans sa lettre en vers du 23 novembre 1669, paraît appuyer cette anecdote lorsqu’il dit :</p>
           <quote>
@@ -1650,9 +1516,7 @@
         </div>
         <div>
           <head>93, p. 136-138<term rend="index" type="Œuvre" key="Molière, 1665, Le Festin de pierre"/></head>
-          <quote>
-            <bibl>1775, <title>Anecdotes Dramatiques</title>, tome I, p. 361</bibl>
-          </quote>
+          <bibl>1775, <title>Anecdotes Dramatiques</title>, tome I, p. 361</bibl>
           <p>Le <hi rend="i">Festin de Pierre</hi> eut peu de succès. La véritable raison fut qu’on ne permit pas à <hi rend="i">Molière</hi>, qui avait purgé le théâtre de tant de folies, d’y reporter lui-même un tissu d’extravagances.</p>
           <p>Ce n’est pas qu’il ne plaisante quelque fois agréablement dans les rôles de <hi rend="i">Sganarelle</hi> et de monsieur <hi rend="i">Dimanche</hi> ; mais le tout ensemble n’était pas digne de passer sous la plume de notre auteur, et l’on ne peut qu’applaudir au mot ingénieux de cette femme qui dit à <hi rend="i">Molière</hi>,</p>
           <quote>
@@ -1690,9 +1554,7 @@
         </div>
         <div>
           <head>96<note place="bottom"> Cette anecdote, dans l’édition de 1855, est à la cinquième place.</note>, p. 140-141<term rend="index" type="Vie " key="Molière, mort"/></head>
-          <quote>
-            <bibl>1775, <title>Anecdotes Dramatiques</title>, tome III, p. 346</bibl>
-          </quote>
+          <bibl>1775, <title>Anecdotes Dramatiques</title>, tome III, p. 346</bibl>
           <p>Parmi les épitaphes qu’on fit pour <hi rend="i">Molière</hi>, il y en a de plaisantes, et quelques-unes de sérieuses. Nous rapportons ici les deux suivantes qui font allusion à l’accident mortel qui lui arriva à la représentation de son <hi rend="i">Cocu imaginaire</hi><note place="bottom"> Il y a ici une erreur ce n’est pas <hi rend="i">Le Cocu imaginaire</hi> mais <hi rend="i">Le Malade Imaginaire</hi>.</note> :</p>
           <quote>
             <l><space rend="tab"> </space>Ci gît, sans nulle pompe vaine,</l>
@@ -1728,9 +1590,7 @@
         </div>
         <div>
           <head>98, p. 142<term rend="index" type="Vie " key="Molière, mort"/></head>
-          <quote>
-            <bibl>1775, <title>Anecdotes Dramatiques</title>, tome III, p. 346</bibl>
-          </quote>
+          <bibl>1775, <title>Anecdotes Dramatiques</title>, tome III, p. 346</bibl>
           <p>La seule épitaphe digne d’être mise sur le tombeau de cet incomparable comique est celle qui fut faite par La Fontaine. La voici :</p>
           <quote>
             <l>Sous ce tombeau gisent Plaute* et Térence*,</l>
@@ -1759,292 +1619,180 @@
         <p>Aristophanês, auteur comique grec (Athènes v.-450 - -386). Apparaissant un demi-siècle après la tragédie, la comédie grecque a trouvé en Aristophane son véritable fondateur. Polémiste vigoureux, dédaigneux des convenances sociales, ennemi de la démagogie, de la violence et de la dictature, il célébra avec une verve jusqu’alors inégalée des valeurs toujours sûres : la sagesse, la nature, la paix. Un mélange permanent de grossièreté et poésie a fait le succès populaire de ce théâtre, adapté au goût et à la pensée d’un public méfiant, égoïste et irréligieux. Les guerres du Péloponnèse et la défaite athénienne le disposaient à apprécier le pragmatisme et le non-conformisme du poète. Des 44 comédies qui sont attribuées à Aristophane, 11 seulement nous sont parvenues : <hi rend="i">Les Acharniens</hi> (-425), <hi rend="i">Les Cavaliers</hi> (-424), <hi rend="i">Les Nuées</hi> (-423), <hi rend="i">Les Guêpes</hi> (-422), <hi rend="i">La Paix</hi> (-421), <hi rend="i">Les Oiseaux</hi> (-414), <hi rend="i">Lysistrata</hi> (-411), <hi rend="i">Les Thesmophories</hi> (-411), <hi rend="i">Les Grenouilles</hi> (-405), <hi rend="i">L’Assemblée des femmes</hi> (-392), <hi rend="i">Plutus</hi> (-388). (Le petit Robert des noms propres 2007)</p>
         <p>Arnauld Antoine :</p>
         <p>Dit le grand Arnauld, Théologien français (Paris 1612 – Bruxelles 1694). Sous l’influence de Saint-Cyran, il adopta, sur la grâce, les thèses les plus rigoureuses de l’augustinisme et devint le chef du parti janséniste. Exclu de la Sorbonne en 1656, il passa quelque temps dans la clandestinité, documentant Pascal pour les Provinciales, puis se retira à Port-Royal. À la reprise de la persécution antijanséniste (1679), il s’exila en Flandre puis aux Pays-Bas. Œuvres principales : <hi rend="i">De la fréquente communion</hi> (1643), <hi rend="i">Apologie pour les Saints-Pères</hi> (1651), <hi rend="i">Lettre d’un docteur de Sorbonne à une personne de condition</hi> et <hi rend="i">Seconde Lettre à un duc et pair</hi> (1655), où il formule sa position sur les cinq propositions attribuées à Jansénius ; <hi rend="i">Grammaire générale et raisonnée</hi> ou <hi rend="i">Grammaire de Port-Royal</hi> (1660, avec Lancelot), <hi rend="i">Logique de Port-Royal</hi> (1662, avec Nicole) et des ouvrages contre le protestantisme. Outre son rôle éminent dans l’histoire du christianisme, Antoine Arnauld est une figure majeure de la logique et de la philosophie du langage ; […].</p>
-        <quote>
-          <bibl>(Le petit Robert des noms propres 2007).</bibl>
-        </quote>
+        <bibl>(Le petit Robert des noms propres 2007).</bibl>
         <p>Baron :</p>
         <p>Baron (Michel Boyron, dit), célèbre acteur et auteur de plusieurs comédies estimables. Né en 1653, il était fils d’André Boyron, dit Baron le père (1600-1655), et de Mlle Baron, née Jeanne Auzoult (1625-1662), tous deux comédiens de l’hôtel de Bourgogne. Orphelin de bonne heure, il débute dans la troupe des Petits Comédiens du Dauphin vers 1665. […] Baron joue en province, dans la troupe du duc de Savoie, dès 1667, et qu’à Pâques 1670, il entre dans la troupe de Molière. Il représente l’Amour dans <hi rend="i">Psyché</hi>, et probablement Ariste dans <hi rend="i">Les Femmes savantes</hi>. À la mort du grand comique, il passe à l’hôtel de Bourgogne, où il crée vraisemblablement le rôle d’Achille dans Iphigénie et celui d’Hippolyte dans Phèdre. Après la fusion de 1680, il est toujours extrêmement apprécié du public pour la beauté de ses traits, la noblesse de sa voix, la justesse étudiée de son jeu. En même temps, il fait jouer plusieurs comédies en prose de sa composition, amusante par la peinture qu’elles nous offrent de la belle société parisienne ; l’une de ces pièces, <hi rend="i">L’Homme à bonne fortune</hi>, peut même rivaliser avec les comédies correspondantes de Dancourt. Brusquement, en octobre 1691, Baron quitte le théâtre, avec une pension de 1000 livres par an. Il borne désormais son activité de comédien à conseiller ou à seconder de jeunes princes, comme le duc d’Orléans ou la duchesse de Bourgogne, dans les représentations privées qu’ils organisent pour distraire le roi ; d’autre part il fait jouer deux adaptations de Térence : en 1703, l’<hi rend="i">Adrienne</hi>, et, en 1705, <hi rend="i">Les Adelphes</hi>. […]. Il meurt chrétiennement le 22 décembre 1729.</p>
-        <quote>
-          <bibl>(Dictionnaire des lettres françaises XVII, p. 112.)</bibl>
-        </quote>
+        <bibl>(Dictionnaire des lettres françaises XVII, p. 112.)</bibl>
         <p>Beauval :</p>
         <p>Jean Ptiel dit Beauval (1635 – 29 décembre 1709), comédien français. Il se marie avec Jeanne Olivier Bourguignon (1648 – 21 mars 1720), actrice française. Ils ont ensemble deux enfants : François né en 1667 et Jean-Baptiste Monchaingre.</p>
-        <quote>
-          <bibl>(César.org)</bibl>
-        </quote>
+        <bibl>(César.org)</bibl>
         <p>Béjart Armande :</p>
         <p>Armande Béjart, Mademoiselle Molière. Elle naquit fin 1642 [...]. Armande épousa Molière le 20 février 1662 ; piquante et gracieuse sans être vraiment belle, elle créa maints premiers rôles dans les pièces écrites par son mari : elle fut sûrement Élise dans <hi rend="i">La Critique de l’École des femmes</hi>, Elmire dans <hi rend="i">Tartuffe</hi>, Angélique dans <hi rend="i">Le Malade imaginaire</hi>, et, très probablement, Célimène dans Le <hi rend="i">Misanthrope</hi>, Lucile dans <hi rend="i">Le Bourgeois gentilhomme</hi>, Psyché dans la tragédie-ballet du même nom, Henriette dans <hi rend="i">Les Femmes savantes</hi>. Une tradition veut qu’elle n’ait pas fait bon ménage avec Molière, et que celui-ci ait laissé passer son œuvre quelque écho de ses infortunes domestiques : il est difficile de rien préciser là-dessus, à moins d’accorder une valeur de document à un pamphlet aussi venimeux que <hi rend="i">La Fameuse Comédienne</hi>. Ce qui est certain, c’est que Mlle Molière eut trois enfants de son mariage avec le poète, et que, devenue veuve, elle n’offrit aucune prise à la médisance, tout en continuant son métier d’actrice. Le 31 mai 1677, elle épousa en secondes noces Isaac François Guérin d’Estriché*, ancien comédien du Marais, passé, depuis la fusion en 1673, au théâtre de la rue Guénégaud. Elle prit sa retraite en 1694, et mourut le 30 novembre 1700.</p>
-        <quote>
-          <bibl>(Dictionnaire des lettres françaises XVII, p. 129).</bibl>
-        </quote>
+        <bibl>(Dictionnaire des lettres françaises XVII, p. 129).</bibl>
         <p>Benserade ou Bensserade :</p>
         <p>Isaac de (Paris 1613 – Gentilly 1691). Poète et dramaturge français qui, pendant sa longue carrière, s’est fait admettre par les cours de Louis XIII et de Louis XIV. Protégé de Richelieu, il fait partie de la Brigade, groupe d’écrivains où l’on rencontre notamment Chapelain et d’Aubignac. Dans la première partie de sa vie, il écrit surtout des tragédies, dont <hi rend="i">Cléopâtre</hi> (1636) et <hi rend="i">Méléagre</hi> (1641). Mais c’est <hi rend="i">Iphis et Iante</hi>, sa première pièce jouée à l’Hôtel de Bourgogne en 1634, qui est la plus connue. Cette comédie, tirée des <hi rend="i">Métamorphoses</hi> d’Ovide, raconte l’histoire d’une jeune fille obligée de se faire passer pour un garçon pour échapper au meurtre. Benserade a également écrit des vers pour les arguments de ballets présentés devant le roi, en association avec Lully. Il entre à l’Académie française en 1674.</p>
-        <quote>
-          <bibl>(Dico encyclopédique du théâtre, J.-P. Ryngaert, p199)</bibl>
-        </quote>
-        <p>-<hi rend="b">Bernier</hi> :</p>
+        <bibl>(Dico encyclopédique du théâtre, J.-P. Ryngaert, p199)</bibl>
+        <p>Bernier :</p>
         <p>(François), né le 25 septembre 1625, à Toué-Étiau, en Anjou, mort à Paris en 1688, s’est fait connaître comme philosophe et lettré, mais surtout comme voyageur. Venu de sa province à Paris, il fut condisciple de Molière au collège de Clermont ; puis, associé, on ne sait par quel concours de circonstances, à l’éducation de Chapelle, il eut comme maître de philosophie Gassendi dont il devait toujours rester le disciple enthousiaste. En 1674, il publiera un <hi rend="i">Abrégé de la philosophie de Gassendi</hi> (Lyon, 1678, 8 vol. in-12). C’est par Molière et Chapelle qu’il connut aussi Boileau, Racine, La Fontaine, Mme de La Sablière, et le cercle de Ninon de Lenclos. Très lié avec les illustres du XVIIe siècle, il fut plus d’une fois leur collaborateur. Docteur de la faculté de Montpellier, il a, dit-on, fourni à l’auteur du <hi rend="i">Malade imaginaire</hi> plusieurs traits contre les médecins et à La Fontaine les détails techniques de son poème sur le <hi rend="i">Quinquina</hi>. Avec Racine il eut sa part dans la rédaction du fameux Arrêt burlesque de Boileau. Pourtant, sans ses voyages, le « joli philosophe », comme l’appelait Saint-Évremond à cause de son caractère enjoué et aimable et de l’agrément de ses manières, n’eût peut-être laissé que la réputation ordinaire d’un homme d’esprit ; mais, d’humeur aventureuse, il avait parcouru la Palestine, l’Égypte et l’Abyssinie et séjourné douze ans aux Indes, où il fut médecin d’Aureng Zeb. À son retour, dans ses Mémoires (Paris, 1670-1671, 4 vol. in-12), il fit connaître à ses compatriotes une contrée inconnue jusque-là en Europe. Les descriptions qu’il donna de l’Inde, de son administration, de ses mœurs, de sa religion, du pays, fixèrent sur lui l’attention du public et lui valurent le surnom de « Mogol » ; mais elles sont encore aujourd’hui appréciées et estimées et le jugement de Voltaire reste vrai : « Les qualités pittoresques et dramatiques de son récit, en même temps que la grande exactitude de son savoir font de Bernier le premier des voyageurs. »</p>
-        <quote>
-          <bibl>(Dico des LFR XVII, p. 139)</bibl>
-        </quote>
+        <bibl>(Dico des LFR XVII, p. 139)</bibl>
         <p>Boccace :</p>
         <p>Giovanni Boccaccio, écrivain italien (Florence 1313 – Certaldo Toscane 1375). [...]. Il participa à la vie fastueuse et raffinée de la cour de Robert d’Anjou et découvrit les lettres avec délices, favorisé en cela par la présence d’esprits tels que Cino de Pistoia. Pourtant ses vers de l’époque ne sont guère plus que des exercices littéraires, et c’est sous la forme d’un roman que son expérience amoureuse lui dicta sa seule œuvre napolitaine notable, le <hi rend="i">Filocolo</hi> (1336-1338), [...]. De retour vers 1340 à Florence, Boccace mûrit son art dans l’allégorie pastorale du <hi rend="i">Ninfale d’Ameto</hi> (1341-1342) et surtout dans l’<hi rend="i">Elegia di Madonna Fiammetta</hi> (1344-1345), […]. La dernière œuvre remarquable de cette période est le <hi rend="i">Ninfale fiesolano</hi> (1344-1346), […]. C’est très certainement entre 1349 et 1353, au lendemain de la peste qui ravagea Florence, que Boccace rédigea <hi rend="i">Le Décameron</hi>, dont on présume que le titre est forgé sur l’exemple de l’<hi rend="i">Hexaméron</hi> de saint Ambroise. Sa dernière œuvre d’imagination est le <hi rend="i">Corbaccio</hi> (entre 1365 et 1366), sorte de violente satire misogyne qui étonne après les prises de position « féministes » du <hi rend="i">Décameron</hi>. Après une profonde crise morale, Boccace n’écrivit plus que des œuvres en latin. En 1350, il avait fait la connaissance de Pétrarque, avec lequel il ne cessa de correspondre. En 1373, Florence le chargea de commenter en public <hi rend="i">La Divine Comédie</hi>, activité qu’il poursuivit jusqu’à sa mort.</p>
-        <quote>
-          <bibl>(Le petit robert des noms propres 2007).</bibl>
-        </quote>
+        <bibl>(Le petit robert des noms propres 2007).</bibl>
         <p>Boursault :</p>
         <p>Boursault Edme (Mussy-l’Évéque, Champagne, 1638 – Paris 1701). Auteur dramatique et poète français, nommé en 1660 secrétaire des commandements de la duchesse d’Angoulême. Auteur de quelques comédies, Boursault se fait surtout remarquer par ses interventions risquées dans les polémiques qui agitent les milieux littéraires. Dans le <hi rend="i">Portrait du peintre</hi> (1663) il s’attaque à Molière dans la querelle de l’<hi rend="i">École des femmes</hi>, en prenant le contrepied de la <hi rend="i">Critique</hi>. En 1669, il compose une farce contre Boileau, la <hi rend="i">Satire des satires</hi>, interdite à la représentation. Plus tard, il critique le <hi rend="i">Britannicus</hi> de Racine. Malgré des réconciliations ultérieures, la réputation de Boursault vient davantage des polémiques que de ses œuvres dramatiques, en dépit du succès de comédies comme le <hi rend="i">Mercure galant</hi> (1663).</p>
-        <quote>
-          <bibl>(Dico encyclopédique du théâtre, J.-P. Ryngaert, p. 238</bibl>
-        </quote>
+        <bibl>(Dico encyclopédique du théâtre, J.-P. Ryngaert, p. 238</bibl>
         <p>Brécourt :</p>
         <p>Brécourt (Guillaume Marcoureau, sieur de), Paris, 1639 – Paris, 1685. Auteur-acteur qui se fit connaître d’abord sur la scène du Marais avant de passer dans la troupe de Molière, en juin 1622 ; il s’y illustra en tenant un rôle dans <hi rend="i">L’impromptu de Versailles</hi>. Mais, dès 1664, il entra à l’hôtel de Bourgogne. Il mourut, dit-on, après s’être rompu une veine en jouant sa comédie Timon. <hi rend="i">L’Ombre de Molière</hi>, une comédie en un acte qu’il écrivit juste après la mort de celui-ci, contribua à populariser l’idée d’un Molière défenseur de la morale des honnêtes gens et ennemi des outrances.</p>
-        <quote>
-          <bibl>(Dictionnaire des lettres françaises XVII, p. 212).</bibl>
-        </quote>
+        <bibl>(Dictionnaire des lettres françaises XVII, p. 212).</bibl>
         <p>Chapelain :</p>
         <p>Chapelain Jean (Paris 1595-1674). Poète et esthéticien français. […], Chapelain s’applique dès 1623 à promouvoir la tradition esthétique aristotélicienne en France. Jusqu’en 1665, il exerce un magistère incontesté et tacitement garanti par l’autorité royale, […]. Avec l’appui de Richelieu, il entreprend de doter le nouvel âge dramatique d’un modèle théorique en développant celui qui avait été ébauché par Aristote et formalisé par ses meilleurs exégètes, Scaliger, Castelvetro ou Heinsius. Dans la préface critique à l’<hi rend="i">Adone</hi> de Marino (1623), la <hi rend="i">Lettre sur les vingt-quatre heures</hi> (1630) et <hi rend="i">Les Sentiments de l’Académie Française sur la tragi-comédie du Cid</hi> (1638), Chapelain énonce les principes appelés à régir le champ dramatique après la querelle du Cid. Il établit que la création dramatique obéit à des règles garantissant la qualité de ses productions et permettant d’évaluer celle-ci à leur régularité. Il prescrit surtout de représenter la « belle nature » en tirant par abstraction des paradigmes de la réalité sensible. [...]. Il fonde en particulier les unités de temps et de lieu en démontrant que le théâtre de la fiction dramatique doit se limiter à une aire unique et sa duré rester proportionnée à celle de la représentation et ne jamais excéder vingt-quatre heures. L’esthétique théâtrale classique reçoit ainsi les canons qui lui permettront de perdurer jusqu’à la Restauration. Trop absorbé par la rédaction de la <hi rend="i">Pucelle</hi>, son grand œuvre épique, Chapelain laisse le soin de développer ce modèle dramatique à La Mesnadière (<hi rend="i">Poétique</hi>, 1639) et à l’abbé d’Aubignac (la <hi rend="i">Pratique du théâtre</hi>, 1657).</p>
-        <quote>
-          <bibl>(Dictionnaire encyclopédique du théâtre, p. 316-317, P. Pasquier)</bibl>
-        </quote>
+        <bibl>(Dictionnaire encyclopédique du théâtre, p. 316-317, P. Pasquier)</bibl>
         <p>Chapelle :</p>
         <p><space/>Claude Emmanuel Lhuillier, dit Chapelle ou La Chapelle, né en 1626 à La Chapelle Saint-Denis. Il était fils naturel de François Luillier et de Marie Chanut. Son père, homme riche, cultivé, lui fit donner une excellente éducation. Quand il sortit du collège des Jésuites, il lui donna pour maître le philosophe Gassendi qu’il admirait fort et qu’il avait « retiré » chez lui. Gassendi avait en même temps pour élève le philosophe et voyageur Bernier*. Il est fort douteux que Molière se soit joint à eux. [...]. Il fut très vite l’un des plus aimables représentants de ces « libertins » et « débauchés » (nous dirions bons vivants) qui continuent la tradition des poètes bohèmes et « crottés » tels que Saint-Amant et Colletet. Il est probable que des tantes austères, pendant une absence de Lhuillier, prirent prétexte de quelque frasque pour faire enfermer le jeune homme quelques mois à la prison de Saint-Lazare. À sa mort son père lui laissa des rentes largement suffisantes pour lui permettre de continuer à mener la vie qui lui plaisait [...]. Il mourut en 1686.</p>
-        <quote>
-          <bibl>(<title>Dictionnaire des Lettres Françaises</title>, Le XVIIe siècle, édition revue et mise à jour sous la direction de Patrick Dandrey, fayard, 1996, Entrée : « Chapelle », p. 270).</bibl>
-        </quote>
+        <bibl>(<title>Dictionnaire des Lettres Françaises</title>, Le XVIIe siècle, édition revue et mise à jour sous la direction de Patrick Dandrey, fayard, 1996, Entrée : « Chapelle », p. 270).</bibl>
         <p>Colbert :</p>
         <p>Colbert (Jean-Baptiste), mécène, 1619-1683, grand ministre de Louis XIV […]. C’est comme employé de banque qu’il s’était fait connaître de Mazarin, à Fouquet et au roi. Celui-ci l’utilisa d’abord comme intendant à son service, [...]. Il attendit 1661 pour lui donner entrée officielle au conseil comme intendant des finances. Colbert poussa aussitôt le roi à se défaire du surintendant Nicolas Fouquet et, quand celui-ci fut arrêté, poursuivit avec la dernière âpreté la perte de son ancien patron. […]. Le roi appréciait ses qualités de travail, et bien qu’il ait supprimé cette charge de surintendant à laquelle Colbert semble bien avoir quelque temps aspiré, il en fit un contrôleur général des finances le 12 septembre 1665. Dès 1664, les flatteurs lui donnaient le titre de ministre d’État ; mais ce n’est que le 16 février 1669 qu’il devint véritablement secrétaire d’État, ayant succédé à Guénégaud au ministre de la Marine. Cependant l’année même où il eut le contrôle général des finances, il acheta pour 200 000 lb. la charge de surintendant général des bâtiments du roi, arts et manufactures de France. […]. Il était devenu l’homme à tout faire de Louis XIV, jusqu’au jour où la faveur grandissante de Louvois commença d’éclipser la sienne. les dépenses exigées par la guerre de Hollande furent les avant-coureurs de son déclin. On a dramatisé les dernières années de Colbert et particulièrement ses derniers mois. Les document publiés montrent que Louis XIV lui rendit toujours justice et que la mort du ministre survenue le 6 septembre 1683, est due davantage à son excès de travail qu’aux reproches immérités que lui aurait fait le roi quelques jours auparavant.</p>
-        <quote>
-          <bibl>(Dictionnaire des lettres françaises XVII, p. 291-292).</bibl>
-        </quote>
+        <bibl>(Dictionnaire des lettres françaises XVII, p. 291-292).</bibl>
         <p>Condé :</p>
         <p><space/>Condé (Louis de Bourdon, duc d’Enghien, puis, à la mort de son père, prince de [, dit Monsieur le Prince]) naquit à Paris le 8 septembre 1621. Son père était Henri de Bourdon, prince de Condé, sa mère Charlotte de Montmorency. […] Ce fut dans « son apothéose de Chantilly » que la mort vint le prendre le 11 décembre 1686.</p>
-        <quote>
-          <bibl>(<title>Dictionnaire des Lettres Françaises</title>, Le XVIIe siècle, édition revue et mise à jour sous la direction de Patrick Dandrey, fayard, 1996, Entrée : « Condé », p. 310-311).</bibl>
-        </quote>
+        <bibl>(<title>Dictionnaire des Lettres Françaises</title>, Le XVIIe siècle, édition revue et mise à jour sous la direction de Patrick Dandrey, fayard, 1996, Entrée : « Condé », p. 310-311).</bibl>
         <p>Conti :</p>
         <p>Conti (Armand de Bourbon, prince de,) naquit à Paris le 11 octobre 1629. Son père était Henri de Bourbon prince de Condé, sa mère Charlotte de Montmorency. Il fut d’abord destiné à l’Église ; élevé au collège de Clermont par les jésuites. Il étudia la théologie sous le P. de Champs. [...] Conti ne tarda guère à quitter le petit collet pour l’épée. On sait le rôle fâcheux qu’il joua pendant la Fronde, aux côtés du prince de Condé, son frère. Ce qui ne l’empêcha pas d’épouser Anne-Marie Martinozzi, nièce de Mazarin. Le cardinal mit son neveu par alliance à la tête des armées de Catalogne (1655), en Piémont (1637). […]. Gouverneur du Languedoc, il encouragea Molière à Pézenas. Mais converti par l’évêque d’Alet, Pavillon, il retira à la troupe du poète le titre de comédiens ordinaires du prince de Conti. […]. Il composa un traité sur les devoirs des grands et un ouvrage contre la comédie et les spectacles, qui prend à partie les pièces de Corneille et condamne même <hi rend="i">Polyeucte</hi>. [...]. Ce prince théologien mourut au château de la Grange des Prés non loin de Pézenas le 21 février 1666.</p>
-        <quote>
-          <bibl>(Dictionnaire des lettres françaises XVII, p. 314-315)</bibl>
-        </quote>
+        <bibl>(Dictionnaire des lettres françaises XVII, p. 314-315)</bibl>
         <p>Corneille Thomas :</p>
         <p>Corneille Thomas (Rouen 1625 – Les Andelys 1709). Auteur dramatique français. Frère cadet de Pierre Corneille, il cultiva avec un succès tous les genres dramatiques (une quarantaine d’œuvres), comédies, tragédies, pièces à machines, et obtint avec sa tragédie <hi rend="i">Timocrate</hi> (1656) le plus grand succès théâtral du XVII<hi rend="sup">e</hi> siècle. Avocat de formation, il commence sa carrière (1649) en adaptant des <hi rend="i">comedias</hi>, comme il était alors de mode, oscillant entre le versant romanesque (<hi rend="i">les Engagements du hasard, l’Amour à la mode</hi>) et le versant burlesque, sur lequel il rivalise avec Scarron (<hi rend="i">Le Geôlier de soi-même, Dom Bertrand de Cigarral</hi>). Lorsque, quelques années après la Fronde, le genre tragique retrouve la faveur du public, il donne <hi rend="i">Timocrate</hi>, tragédie qui, avec notamment  les thèmes de l’amante ennemie  et du prince déguisé en mercenaire ainsi que par sa fin heureuse, prolonge le genre défunt de la tragi-comédie. Pendant plus de vingt ans les tragédies se succèdent, qu’on classe volontiers en cycles et où l’on se plaît à repérer des influences : tragédies de l’identité (<hi rend="i">Darius, Pyrrhus, Laodice</hi> qui s’inscrivent dans la lignée de l’<hi rend="i">Héraclius</hi> de Pierre Corneille), tragédies de violence politique (<hi rend="i">Camma, Stilicon</hi>), tragédies de sentiments (<hi rend="i">Ariane</hi>, 1672, considérée comme son chef-d’œuvre, et le <hi rend="i">Comte d’Essex</hi>, 1678, qui sont dites « raciniennes »). En même temps sans renoncer à la comédie, il se lance dans les comédies et tragédies à machines et en musique qui font pièce à l’opéra naissant (<hi rend="i">l’Inconnu, Circé</hi>). Talent multiforme, à l’affût des nouveaux courants esthétiques, il fut considéré de son vivant comme l’un des tout meilleurs dramaturges du XVIIe siècle ; il reste en tout cas le plus représentatif de la variété des formules théâtrales qu’à connues le théâtre classique à son apogée.</p>
-        <quote>
-          <bibl>(Dictionnaire encyclopédie du théâtre, p. 408-409, G. Forestier)</bibl>
-        </quote>
+        <bibl>(Dictionnaire encyclopédie du théâtre, p. 408-409, G. Forestier)</bibl>
         <p>L’Abbé Cotin :</p>
         <p>Cotin (Charles), prédicateur, conseiller et aumônier du roi (Paris 1604, déc. 1681) connu comme auteur d’œuvres galantes et précieuses sous le nom d’abbé Cotin, membre de l’Académie françaises (1655) ; il attaqua Molière qui, en retour, le peignit sous le personnage de Trissotin dans les <hi rend="i">Femmes Savantes</hi>. Il fut en butte aux critiques de Boileau, qui lui reprochait de l’avoir accusé de copier Juvénal.</p>
-        <quote>
-          <bibl>(Dictionnaire des lettres françaises XVII, p. 339)</bibl>
-        </quote>
+        <bibl>(Dictionnaire des lettres françaises XVII, p. 339)</bibl>
         <p>Cyrano :</p>
         <p>Cyrano de Bergerac Savinien de (Paris 1619-1655) [...] issu de la bourgeoisie de robe, et il passe par la carrière militaire, la politique, et enfin la littérature où il est proche des libertins érudits et des burlesques comme Scarron. <hi rend="i">La Mort d’Agrippine</hi> (1653) est une tragédie qui repose sur le mensonge et sur le désir individuel que masque l’intention politique. <hi rend="i">Le Pédant joué</hi> (comédie, 1654) se caractérise par des personnages saisis par le délire verbal.</p>
-        <quote>
-          <bibl>(Dico encyclopédique du théâtre, J.-P. Ryngaert, p454).</bibl>
-        </quote>
+        <bibl>(Dico encyclopédique du théâtre, J.-P. Ryngaert, p454).</bibl>
         <p>Debrie :</p>
         <p>Brie, pseudonyme de Catherine Leclerc du Rosé (vers 1630-1706). Comédienne française. Remarquée par Molière à Lyon, elle entre dans sa troupe avec son mari, Edme Villequin, dès 1650. Célèbre pour sa beauté et ses qualités d’actrice, elle triomphe dans les rôles d’ingénue et notamment dans celui d’Agnès de l’École des femmes. Elle passa pour avoir été la maîtresse de Molière avant le mariage de celui-ci avec Armande Béjart. Après la mort de Molière, elle rejoint avec ses camarades la troupe de l’hôtel Guénégaud puis la Comédie Française. Elle déplaît à la Dauphine en 1684 et se retire en 1685 avec une pension.</p>
-        <quote>
-          <bibl>(Dictionnaire encyclopédique du théâtre, p. 253, C. Scherer)</bibl>
-        </quote>
+        <bibl>(Dictionnaire encyclopédique du théâtre, p. 253, C. Scherer)</bibl>
         <p>Desmarets</p>
         <p>Desmarets ou Desmaretz de Saint-Sorlin, Jean (Paris 1595-1676). « Esprit universel et plein d’invention », selon Tallemant des Réaux, et dramaturge forcé sous la protection dominatrice de Richelieu de 1636 à 1642, puisque son activité théâtrale cesse avec la mort de son maître, qui participe sans doute aux projets de pièces. Un des premiers académiciens, Desmarets contribue à la rédaction des <hi rend="i">Sentiments de l’Académie sur le Cid</hi>. Parmi ses sept pièces, on en retient surtout <hi rend="i">Mirame</hi> (1641) commandé par Richelieu pour l’inauguration du Palais-Cardinal et représenté fastueusement avec des machines. <hi rend="i">Les Visionnaires</hi> (1637) est une étonnante comédie qui dresse une série de portraits de personnages « bizarres » réunis par une intrigue-prétexte, prenant pour modèle des individus réels reconnus par les contemporains.</p>
-        <quote>
-          <bibl>(Dictionnaire encyclopédique du théâtre, A-K, p. 487-488 J-P. Ryngaert.)</bibl>
-        </quote>
+        <bibl>(Dictionnaire encyclopédique du théâtre, A-K, p. 487-488 J-P. Ryngaert.)</bibl>
         <p>Donneau de visé :</p>
         <p>Donneau de Visé Jean, (Paris 1638 – 1710). Auteur français de nouvelles, de pièces de théâtres, et surtout fondateur et directeur du <hi rend="i">Mercure galant</hi> jusqu’à sa mort. Il débuta au théâtre en 1663 en attaquant <hi rend="i">l’École des femmes</hi> au Tome III de ses <hi rend="i">Nouvelles Nouvelles</hi> et en publiant des ripostes en un acte aux pièces défensives de Molière : <hi rend="i">Zélinde ou la Véritable critique de l’ École des femmes</hi> et <hi rend="i">Réponse à l’Impromptu de Versailles</hi>. C’est pourtant Molière qui monta de 1665 à 1669 plusieurs de ses comédies de mœurs en un acte, notamment <hi rend="i">la Mère coquette</hi> (1665) et l<hi rend="i">a Veuve à la mode</hi> (1667). il donna ensuite plusieurs pièces au Marais tout en publiant de nouveaux recueils de nouvelles, puis collabora avec Thomas Corneille, qui devint son associé en 1677 lorsque le Mercure eut une périodicité mensuelle. Ensemble, ils obtinrent deux des grands succès de la période, grâce à la tragédie à machines de <hi rend="i">Circé</hi> (1675) et à une comédie qui faisait écho à l’affaire des Poisons, la <hi rend="i">Devineresse</hi> (1679).</p>
-        <quote>
-          <bibl>(Dictionnaire encyclopédique du théâtre, G. Forestier, p. 514)</bibl>
-        </quote>
+        <bibl>(Dictionnaire encyclopédique du théâtre, G. Forestier, p. 514)</bibl>
         <p>Du Croisy :</p>
         <p>Du Croisy, pseudonyme de Philibert Gassot (Conflans-sainte-Honorine 1626-1695). Comédien français. D’abord acteur et chef de troupe en province, il se marie en 1652 et entre dans la troupe de Molière en 1659. Grand et bel homme, il interprète des rôles divers dont Tartuffe qui fut le plus grand. À la mort de Molière, il suit ses camarades à l’Hôtel Guénégaud, puis à la Comédie-Française. Il se retire en 1689 dans son village natal.</p>
-        <quote>
-          <bibl>(Dictionnaire encyclopédique du théâtre XVII, C.Scherer, p. 537)</bibl>
-        </quote>
+        <bibl>(Dictionnaire encyclopédique du théâtre XVII, C.Scherer, p. 537)</bibl>
         <p>Du Parc :</p>
         <p>Du Parc (Marquise-Thérèse de Gorla, Mlle), célèbre actrice. Elle épouse le 23 février 1653, René Berthelot, dit Du Parc, acteur de la troupe de Molière (le Gros-René du <hi rend="i">Dépit amoureux</hi> et d’un certain nombre de farces dont La Grange nous a transmis les titres). Elle entre donc dans la troupe de Molière, et s’y fait remarquer par sa beauté ; la tradition veut que l’auteur de l’<hi rend="i">Étourdi</hi> se soit épris de ses charmes ; […]. Rentrés à Paris avec Molière, la Du Parc et son mari jouent une saison au théâtre du Marais (Pâques 1659 – Pâques 1660), puis réintègrent la troupe de Monsieur. Mlle Du Parc y représente Climène dans la <hi rend="i">Critique de l’École des femmes</hi>, Dorimène dans <hi rend="i">Le Mariage forcé</hi>, probablement Éiante dans <hi rend="i">Le Misanthrope</hi>, et Molière rend hommage à son talent de comédienne dans L<hi rend="i">’Impromptu de Versailles</hi>. Mais elle brille davantage encore par son « port d’impératrice » et ses dispositions pour la tragédie (dès 1663, Racine pense à lui confier le premier rôle féminin de sa <hi rend="i">Thébaïde</hi>), et par ses dons de ballerine (elle figure au premier plan dans <hi rend="i">Les Plaisirs de l’isle enchantée</hi>, en mai 1664). Devenue veuve (octobre 1664), la Du Parc continue son métier d’actrice ; le 4 décembre 1665, elle crée le rôle d’Axiane dans l’<hi rend="i">Alexandre</hi> de Racine, qui se brouille peu après avec Molière en donnant sa pièce aux comédiens de l’hôtel de Bourgogne. C’est vraisemblablement sur les instances de Racine que Mlle Du Parc passe à l’hôtel de Bourgogne, à Pâques 1667 : le 17 novembre de cette même année, elle représente le personnage d’Andromaque dans la nouvelle tragédie de Racine. Mais cette carrière qui s’annonçait triomphale se clôt prématurément : le 11 décembre 1668, Mlle Du Parc meurt, à l’âge de trente-cinq ans, et Racine suit son convoi en grand deuil, « à demi trépassé » de douleur, s’il faut en croire Robinet.</p>
-        <quote>
-          <bibl>(Dictionnaire des lettres françaises XVII, p. 415)</bibl>
-        </quote>
+        <bibl>(Dictionnaire des lettres françaises XVII, p. 415)</bibl>
         <p>Épicure :</p>
         <p>Philosophe grec fondateur de l’épicurisme (Samos ou Athènes -341 – Athènes -270). Il passa sa jeunesse à Samos avant de suivre les leçons de Xénocrate à Athènes (-323), puis celles de Nausiphanès près de Colophon. Il ouvrit une première école philosophique à Mytilène (Lesbos) en -311, puis à Lampsaque en -310 avant de fonder à Athènes en -306 l’école du Jardin. Épicure écrivit beaucoup d’ouvrages où il expose ses théories, mais la plupart ont disparu. Nous ne possédons de ses œuvres que trois lettres : <hi rend="i">Lettre à Hérodote sur la physique</hi> (outre les principes de sa physique, il chercha à montrer l’intérêt psychologique et éthique de l’étude des faits naturels : procurer la paix de l’âme en la débarrassant des superstitions), <hi rend="i">Lettre à Pythoclès sur les météores</hi> (son authenticité est contestée), <hi rend="i">Lettre à Ménécée sur la morale</hi> (à la critique des idées fausses que se font les hommes sur les dieux et la mort, succède l’exposé des principes de la morale épicurienne : identité du souverain bien et du plaisir ; l’hédonisme y apparaît comme une recherche de la paix de l’âme : « se suffire à soi-même et se contenter de peu »).</p>
-        <quote>
-          <bibl>(Le petit Robert des noms propres 2007).</bibl>
-        </quote>
+        <bibl>(Le petit Robert des noms propres 2007).</bibl>
         <p>-Fouquet :</p>
         <p>Homme d’état français (Paris 1615 - Pignerol 1680). Lié à Mazarin, il succéda à Servien à la surintendance des Finances (1653). Son crédit personnel lui permit de regagner la confiance des traitants et de faire face aux dépenses de l’état après la Fronde. Cependant, il profita de sa situation pour acquérir une fortune prodigieuse, entretenir toute une clientèle et même établir une force militaire personnelle. Il s’entoura au château de Vaux, qu’il avait fait construire, d’un groupe d’écrivains et d’artistes choisis avec discernement (La fontaine, Molière, Le Vau, Poussin, Le Brun). Colbert, qui convoitait sa succession, dénonça ses malversations à Louis XIV. Une fête trop somptueuse à Vaux, où il invita le roi, acheva sa perte. Arrêté à Nantes (1661), il fut jugé avec partialité et irrégularité au cours d’un procès qui dura trois ans et à l’issue duquel il fut enfermé à Pignerol. La fidélité dont ses amis firent alors preuve (La Fontaine, Mme de Sévigné, Mlle de Scudéry) témoigne en sa faveur. Les circonstances de sa mort sont restées obscures.</p>
-        <quote>
-          <bibl>(Le petit robert des noms propres 2007).</bibl>
-        </quote>
+        <bibl>(Le petit robert des noms propres 2007).</bibl>
         <p>Gassendi : (1592-1655)</p>
         <p>Gassendi (Pierre), 22 janvier 1592 – Paris, 24 octobre 1655. Fils de cultivateurs, il fit ses études à Digne, Aix, Avignon, reçut les ordres et devint prévôt de l’évêque et chanoine de Digne, après avoir quelque temps professé la philosophie. Il s’était rendu à Paris, en Hollande, puis de nouveau à Paris, revint en Provence où il vivait tantôt à Digne, tantôt à Aix. Au début de 1641, il regagna Paris et fut en 1645 nommé à la chaire de mathématiques du Collège royal. Protégé de Peiresc dès sa jeunesse, il s’était lié ou avait correspondu avec tous les savants de son temps. Son amitié avec Diodati, La Mothe Le Vayer et Naudé avait fait nommer leur groupe la <hi rend="i">Tétrade</hi>. Toute l’œuvre de Gassendi est écrite en latin. Elle concerne surtout l’astronomie et la philosophie, mais aussi l’histoire, la musique, diverses sciences, etc. Sa correspondance est fort intéressante. [...] Adversaire d’Aristote, il reprend à son compte un certain nombre des critiques de Ramus. Adversaire de Descartes, il tente d’opposer à la philosophie cartésienne une sorte d’épicurisme chrétien, un sensualisme atomiste auquel il superpose une théorie spiritualiste, fondée sur la création du monde par Dieu. […] Les libertins, qui tentent de compter parmi eux ce séduisant esprit, si ingénieux et si cultivé, ne lisent qu’une partie de son œuvre et ne peuvent être tenus ni pour ses maîtres ni pour ses disciples. Le souvenir de Gassendi s’attache surtout au fait qu’on a tenté […] de le poser en rival de Descartes. Les travaux récents ont cependant contribué à dépasser cette opposition trop simple, en situant Gassendi par rapport à d’autres auteurs, mais aussi en considérant sa personnalité et sa pensée en elles-mêmes, avec les hésitations et les ambiguïtés qui traversent cette œuvre énorme et fort hétérogène.</p>
-        <quote>
-          <bibl>(Dictionnaire des lettres françaises XVII, p. 524).</bibl>
-        </quote>
-        <p>-Guérin :</p>
+        <bibl>(Dictionnaire des lettres françaises XVII, p. 524).</bibl>
+        <p>Guérin :</p>
         <p>Eustache-François Guérin d’Étriché (1636 – 28 janvier 1728), comédien français. Il débuta sa carrière en 1672 dans la troupe du Marais. Il épousa en 1677 Armande Béjart. Il mourut en 1728.</p>
         <p>Hôtel de Bourgogne :</p>
         <p>Salle de théâtre du quartier des Halles à Paris, construite en 1548 par les Confrères de la Passion, sur l’emplacement de l’ancienne demeure des ducs de Bourgogne. Ils ont le monopole des spectacles à Paris. La salle est louée ponctuellement avant 1629 lorsque le roi y installe la troupe de Gros-Guillaume et de Bellerose pour un bail de trois ans qui sera renouvelé sans interruption par les Comédiens du roi jusqu’en 1680. De forme rectangulaire, comme tous les théâtres du XVIIe siècle, l’Hôtel de Bourgogne a un plateau exigu de cinq à six mètres de largeur sur une profondeur qui sera au plus de treize mètres après les travaux de 1645. Scène officielle, l’Hôtel de Bourgogne doit lutter contre le succès du théâtre du Marais auquel il enlève à plusieurs reprises des comédiens pour renforcer sa troupe vers 1630 son répertoire comporte des valeurs sûres traditionnelles de la farce avec Gros-Guillaume, Gauthier-Garguille et Turlupin ainsi que les pièces de Hardy et de Rotrou attachés successivement à la troupe de Bellerose. Sa période de gloire viendra plus tard, pour la tragédie surtout, après 1647, quand le grand comédien Floridor et Pierre Corneille quittent le Marais pour rejoindre la troupe royale. Après 1658, en butte à la dure concurrence de Molière pour la comédie, l’Hôtel de Bourgogne aura cependant le privilège de créer les grandes tragédies de Racine. En 1680 après la fusion des troupes de Guénégaud et de l’Hôtel de Bourgogne, le théâtre sera occupé par les Italiens jusqu’en 1697.</p>
-        <quote>
-          <bibl>(Dico encyclopédie du T,  C. Scherer, p. 812-813)</bibl>
-        </quote>
+        <bibl>(Dico encyclopédie du T,  C. Scherer, p. 812-813)</bibl>
         <p>Hôtel de Rambouillet :</p>
         <p>Ancien hôtel construit rue Saint-Thomas-du-Louvre (Paris) par Catherine de Vivonne (l’ « incomparable Arthénice »), marquise de Rambouillet (1588- 1655), qui en dessina l’ordonnance (la « Chambre Bleue ») et y reçut des gens du monde et des lettres, de 1620 à sa mort. On s’y livrait, avec bienséance et pédantisme, à des divertissements littéraires et des débats de casuistique amoureuse menés en une langue nuancée et pure. Ce cercle était composé de Chapelain, Cotin, Saint-Amant, Sarasin, Voiture, la Marquise de Sablé etc.</p>
-        <quote>
-          <bibl>(Le petit robert des noms propres 2007).</bibl>
-        </quote>
+        <bibl>(Le petit robert des noms propres 2007).</bibl>
         <p>Hubert :</p>
         <p>André Hubert (16… - 19 novembre 1700), comédien français. Il épousa Catherine Morant. Après la mort de Molière, Hubert passa dans la troupe de Guénégaud. Il se retira du métier le 14 avril 1685, par permission du roi du 24 février précédent, avec une pension de 1000 livres, et mourut le vendredi 19 novembre 1700.</p>
-        <quote>
-          <bibl>(César.org)</bibl>
-        </quote>
+        <bibl>(César.org)</bibl>
         <p>Lamoignon :</p>
-        <p><hi rend="b">Guillaume de Lamoignon</hi>, marquis de Baville, comte de Launai-Courson, baron de S. Yon, premier président au parlement de Paris, fut reçu  avocat au parlement le 19 avril 1635, conseiller au même parlement le 14 décembre suivant, maître des requêtes le 15 décembre 1644, et pourvu de l’office de premier président le 2 octobre 1658, dont il prêta serment de fidélité entre les mains du roi le 4 du même mois, et fut reçu le 16 novembre suivant. […]. Il mourut le 10 décembre 1677, et fut inhumé le lendemain dans la cave de sa famille en l’église des Cordeliers.</p>
-        <quote>
-          <bibl>(<title>Moreri</title>, 1759)</bibl>
-        </quote>
+        <p><hi rend="sc">Guillaume de Lamoignon</hi>, marquis de Baville, comte de Launai-Courson, baron de S. Yon, premier président au parlement de Paris, fut reçu  avocat au parlement le 19 avril 1635, conseiller au même parlement le 14 décembre suivant, maître des requêtes le 15 décembre 1644, et pourvu de l’office de premier président le 2 octobre 1658, dont il prêta serment de fidélité entre les mains du roi le 4 du même mois, et fut reçu le 16 novembre suivant. […]. Il mourut le 10 décembre 1677, et fut inhumé le lendemain dans la cave de sa famille en l’église des Cordeliers.</p>
+        <bibl>(<title>Moreri</title>, 1759)</bibl>
         <p>Lekain :</p>
         <p>(Henri Louis Cain, dit), comédien français, sociétaire de la Comédie-Française (Paris 1729 – id. 1778). Soucieux de naturel dans la déclamation et de vérité dans la mise en scène, il obtint en 1759 la suppression des banquettes qui, depuis le XVIIe siècle, encombraient la scène.</p>
-        <quote>
-          <bibl>(Le Petit Robert des noms propres 2007).</bibl>
-        </quote>
+        <bibl>(Le Petit Robert des noms propres 2007).</bibl>
         <p>Lenclos :</p>
         <p>(Anne dite Ninon de), Paris 1620-1705. Sa vie et ses aventures galantes sont célèbres comme sa beauté et son esprit. Elle a laissé des lettres agréables et parmi ses correspondants l’on trouve Mme de Maintenon, Saint-Évremond, le chevalier de Méré, etc. Par son testament (1704), elle demandait au notaire Arouet « de permettre de laisser à son fils qui est aux Jésuites mil francs pour luy avoir des livres ». Le futur Voltaire avait alors dix ans.</p>
-        <quote>
-          <bibl>(Dictionnaire des lettres françaises XVII, p. 746-747).</bibl>
-        </quote>
+        <bibl>(Dictionnaire des lettres françaises XVII, p. 746-747).</bibl>
         <p>Lucain :</p>
         <p>Marcus Annaeus Lucanus, poète latin (Cordoue 39 – Rome 65). Neveu du philosophe Sénèque et compagnon de Néron, il fut compromis dans la conjuration de Pison et contraint par Néron de se donner la mort. Il est l’auteur d’une œuvre considérable dont il ne nous reste que la <hi rend="i">Pharsale</hi>, récit de la guerre civile entre César et Pompée, œuvre qui exprime l’âme d’une société où le drame était une expérience de chaque jour.</p>
-        <quote>
-          <bibl>(Le petit Robert des noms propres 2007).</bibl>
-        </quote>
+        <bibl>(Le petit Robert des noms propres 2007).</bibl>
         <p>Lucrèce :</p>
         <p>Titus Lucretius Carus, poète latin (Rome v. -98 - -55). Auteur du <hi rend="i">De rerum natura</hi> (« De la nature »), épopée en 6 livres qui expose avec une intention morale la physique épicurienne. Il se propose d’éliminer la crainte des dieux, poison mortel pour l’esprit humain, en fournissant de l’univers physique une explication matérialiste : […]. Par le réalisme de son imagination, par son enthousiasme persuasif, Lucrèce prépare Virgile ; l’intensité poétique de son œuvre est inséparable de la cohérence philosophique de son discours, qui constitue l’un des sommets de la pensée romaine.</p>
-        <quote>
-          <bibl>(Dictionnaire : Le petit Robert des noms propres 2007).</bibl>
-        </quote>
+        <bibl>(Dictionnaire : Le petit Robert des noms propres 2007).</bibl>
         <p>Lulli / Lully : (1633-1687)</p>
         <p>Lulli (Jean-Baptiste), surintendant de la musique du roi Louis XIV, natif de Florence en Italie, était fort jeune lorsqu’une personne de qualité l’amena en France. Peu de temps après il entra chez mademoiselle de Montpensier, puis chez le roi, où sa réputation s’augmenta de jour en jour. Jamais personne n’avait porté si haut l’art de jouer du violon : instrument qui paraissait plus agréable entre ses mains, qu’aucun autre de ceux qui plaisent le plus. L’usage des <hi rend="i">Opéra</hi> n’ayant pas encore été introduit en France, le roi faisait faire tous les ans de grands spectacles, qu’on nommait <hi rend="i">Ballets</hi>, où il y avait un corps de sujet représenté par un grand nombre d’entrée mêlées de récits. Lulli en composa les airs, les entrées et les ballets ; ce qui lui fit donner la charge de surintendant de la musique du roi. Pendant que les plaisirs de sa majesté l’occupaient entièrement, Perrin, introducteur des ambassadeurs auprès de Philippe de France duc d’Orléans, frère du roi, ayant jugé que les <hi rend="i">Opéra</hi> pouvaient être introduits en France, en demanda le privilège et l’obtint. Il fit ensuite une société avec le sieur Cambert, maître de la musique de la reine-mère Anne d’Autriche, et avec le marquis de Sourdeac, pour l’exécution de ce dessein. Cette nouveauté plut au public, et eut assez de succès ; mais ces intéressés s’étant brouillés, Perrin crut avoir un juste sujet de se plaindre, et transporta son droit de privilège à Lulli, qui l’avait déjà obtenu du roi. L’Opéra parut entre ses mains avec de nouvelles beautés : de sorte qu’il donna tous les ans jusqu’à sa mort, une pièce de sa composition, avec des applaudissements continuels. Il mourut à Paris au mois de mars 1687, âgé de 54 ans.</p>
-        <quote>
-          <bibl>(<title>Moreri</title>, 1759)</bibl>
-        </quote>
+        <bibl>(<title>Moreri</title>, 1759)</bibl>
         <p>Malherbe :</p>
         <p>(François de), poète français (Caen 1555- Paris 1628). Inspiré d’abord par la Pléiade (<hi rend="i">Les larmes de saint Pierre</hi>, 1587), il évolua vers une poésie oratoire et devint poète officiel (1605) sous Henri IV, puis Louis XIII. Ses œuvres de circonstance où l’éloquence soutient le lyrisme illustrent sa théorie littéraire (<hi rend="i">Remarques sur Desportes</hi>, 1606), selon laquelle un bon « artisan » du vers doit exprimer des thèmes éternels dans une forme rigoureuse et pure où des rythmes et des rimes réglés soutiennent les images (<hi rend="i">Imitation du psaume Lauda anima mea Dominum</hi>, 1627). Cette exigence d’harmonie et de clarté, cette foi en les vertus de la discipline s’écartent de celles de la Pléiade et préparent le lyrisme impersonnel des classiques. Ses poèmes, publiés pour la plupart dans des recueils collectifs, n’ont été réunis en volume qu’après sa mort sous le titre <hi rend="i">Les Ouvres de François Malherbe</hi> (1630).</p>
-        <quote>
-          <bibl>(Le Petit Robert des noms propres 2007).</bibl>
-        </quote>
+        <bibl>(Le Petit Robert des noms propres 2007).</bibl>
         <p>Martial :</p>
         <p>Marcus Valerius Martialis, Poète latin (Bilbilis Espagne, v. 40 – id v. 104). Auteur de 15 livres d’Épigrammes, il suivit dans certains la tradition alexandrine qui faisait de l’épigramme une courte pièce commémorative (Sur les spectacles et Xenia et Apophoreta), mais transforma la plupart des poèmes en satires mordantes visant un individu, donnant ainsi au nom du genre le sens nouveau de raillerie satirique. Il fut l’ami de Pline le Jeune et de Juvénal.</p>
-        <quote>
-          <bibl>(Le Petit Robert des noms propres 2007).</bibl>
-        </quote>
-        <p>-<hi rend="b">Ménage</hi> : (1613-1692)</p>
+        <bibl>(Le Petit Robert des noms propres 2007).</bibl>
+        <p>Ménage : (1613-1692)</p>
         <p>Ménage (Gilles), né le 15 août 1613, à Angers : il vint à Paris en 1632, s’inscrivit au barreau, mais délaissa bientôt le Palais pour les cercles des doctes et les ruelles des précieuses. Il existait alors à Paris un certain nombre <hi rend="i">d’académies</hi>, que l’on appelait aussi <hi rend="i">réduits</hi> ou <hi rend="i">cabinets</hi> : des hommes cultivés s’y réunissaient pour parler librement, pour discuter sur des problèmes posés à l’avance, pour écouter des dissertations. Moins connus que les Salons des dames, ces cercles n’en ont pas moins leur importance et méritaient d’être étudiés. Avec La Mothe Le Vayer, Ménage fréquentait le cercle célèbre des frères Du Puy. En 1652, il s’installa rue du Cloître-Notre-Dame, et il y réunit sa propre académie. Ses Mercuriales (réceptions du mercredi) étaient célèbres : devenu infirme, et ne pouvant quitter la chambre, il leur donna le nom de <hi rend="i">Cathémérines</hi> ― assez caractéristiques du mélange d’érudition et d’esprit qui est le propre de Ménage. Il mourut en juillet 1692.</p>
-        <quote>
-          <bibl>(Dictionnaire des lettres françaises XVII, p. 841-842)</bibl>
-        </quote>
+        <bibl>(Dictionnaire des lettres françaises XVII, p. 841-842)</bibl>
         <p>Ménandre :</p>
         <p>(Athènes 342-292 av. J.-C.), poète comique athénien de la comédie nouvelle. […] on possède quelques fragments de plusieurs comédies, en particulier <hi rend="i">l’Arbitrage</hi>, la <hi rend="i">Samiennne</hi>, le <hi rend="i">Héros</hi>, le <hi rend="i">Flatteur</hi>, et une pièce entière, le <hi rend="i">Misanthrope</hi>. Les comédies de Ménandre, composées de plusieurs actes séparés par des intermèdes musicaux, sont des comédies bourgeoises. Elles allient à une intrigue assez conventionnelle où l’amour contrarié finit toujours par triompher une peinture subtile des caractères et une défense et illustration des vertus qui permettent la vie en société.</p>
-        <quote>
-          <bibl>(Dictionnaire encyclopédique du théâtre,  article : « Ménandre », S. Saïd, p. 1082)</bibl>
-        </quote>
+        <bibl>(Dictionnaire encyclopédique du théâtre,  article : « Ménandre », S. Saïd, p. 1082)</bibl>
         <p>Mignard Pierre :</p>
         <p>Peintre et décorateur français (1612 – 1695). Portraitiste à la mode, peintre du roi à la mort de Le Brun.</p>
-        <quote>
-          <bibl>(Le Robert)</bibl>
-        </quote>
-        <p>-Mondory :</p>
+        <bibl>(Le Robert)</bibl>
+        <p>Mondory :</p>
         <p>pseudonyme de Guillaume des Gilberts (Thiers 1594 – Paris 1653). Acteur français, directeur de troupe, fondateur du théâtre du Marais en 1634. il a eu le privilège de créer la première pièce de Pierre Corneille, <hi rend="i">Mélite</hi>, dans le jeu de paume de Berthault, et, plus tard, <hi rend="i">le Cid</hi>. Directeur de troupe avisé et tragédien apprécié par le public, il est soutenu par le pouvoir et obtient de grands succès. Il doit quitter la scène en août 1637 après une crise d’apoplexie. Il a frappé ses contemporains par sa déclamation passionnée en interprétant Hérode, le héros de l<hi rend="i">a Marianne</hi> de Tristan l’Hermite, son dernier rôle.</p>
-        <quote>
-          <bibl>(Dico encyclopédie du T, C. Scherer, p. 1134).</bibl>
-        </quote>
+        <bibl>(Dico encyclopédie du T, C. Scherer, p. 1134).</bibl>
         <p>Montausier :</p>
         <p>Montausier (Charles de Sainte-Maure marquis puis duc de), 1610-1690, est un homme d’épée et de pouvoir, mondain raffiné, grand lecteur, fin connaisseur des langues anciennes, ami des savants et des écrivains, auteur réservé mais apprécié, et qui marque de sa présence le monde littéraire, les salons et la cour pendant plus de soixante ans. […]. Louis XIV récompense la valeur et les qualités de ce grand serviteur du royaume en élevant considérablement sa famille […]. Mais ce n’est pas d’un courtisan ordinaire qu’il s’agit. Depuis longtemps, Montausier offre le visage d’un homme au courage opiniâtre « qui fait sérieuse profession de probité et d’honneur » (Blazac), et que  la cour n’a pu corrompre. Aussi lorsque le public parisien voit paraître sur scène Alceste dans le <hi rend="i">Misanthrope</hi>, il est frappé de la ressemblance. Loin de s’en irriter, comme l’auraient voulu certains, Montausier en est flatté, reconnaissant un honnête homme dans le héros amer et sincère de Molière. Boileau, au moment des premières <hi rend="i">Satires</hi> (1666), n’eut pas la chance du dramaturge et dut craindre le fort ressentiment, heureusement passager, du duc, heurté dans son amitié fidèle pour Chapelain.</p>
-        <quote>
-          <bibl>(Dictionnaire des lettres françaises XVII, p. 895-897).</bibl>
-        </quote>
-        <p>-<hi rend="b">Montmort</hi> (Mommor, Montmaur) :</p>
+        <bibl>(Dictionnaire des lettres françaises XVII, p. 895-897).</bibl>
+        <p>Montmort (Mommor, Montmaur) :</p>
         <p>Henri-Louis Habert de Montmort (1600 – 21 janvier 1679). Conseiller du roi et maître requêtes de son hôtel. Il est élu le 4 décembre 1634 à l’Académie Française. Il a soutenu la candidature de Gilles Boilles. Il était ami de Gassendi. Il meurt le 21 janvier 1679.</p>
-        <quote>
-          <bibl>(Site de l’Académie française)</bibl>
-        </quote>
-        <p>-Pélisson :</p>
+        <bibl>(Site de l’Académie française)</bibl>
+        <p>Pélisson :</p>
         <p>Avocat, puis écrivain français (Bézier 1624 -Paris 1693). Ami de Conrart, il écrivit une <hi rend="i">Histoire de l’Académie française</hi> (1653), avant de défendre son bienfaiteur Fouquet dans ses <hi rend="i">Trois discours</hi>, restés célèbres, qui lui valurent l’incarcération. Amnistié, il devint historiographe de Louis XIV (1670) et rédigea des ouvrages d’érudition théologique.</p>
-        <quote>
-          <bibl>(Le petit Robert des noms propres 2007).</bibl>
-        </quote>
+        <bibl>(Le petit Robert des noms propres 2007).</bibl>
         <p>Petit-Bourbon :</p>
         <p>Petit-Bourbon (théâtre du). À l’origine grande salle de l’Hôtel de Bourbon à Paris où furent dansés les grands ballets de cour et où siégèrent les États généraux de 1614. Il est réaménagé par Torelli qui équipé le plateau et construit un cadre de scène pour les machines de la <hi rend="i">Finta Pazza</hi> en 1645. Avec soixante-dix mètres sur seize, c’est un bel espace, plus vaste que la grande salle du Louvre, l’Hôtel de Bourgogne et le théâtre du Marais. Sur son plateau de 250 mètres carrés évoluent les figures du Ballet de la nuit (italique) auquel Louis XIV lui-même participe en 1653. Les comédiens-italiens y représentent en 1654 <hi rend="i">Les Noces de Pélée et de Thétis</hi> avec musique et ballets. Ils vont installer dans le théâtre à demeure, bientôt rejoints par Molière en 1658. Les deux troupes joueront en alternance pendant deux ans. En 1660 le théâtre sera démoli lors des travaux d’agrandissement du Louvre.</p>
-        <quote>
-          <bibl>(Dictionnaire encyclopédique du théâtre, C. Scherer, p. 1272)</bibl>
-        </quote>
+        <bibl>(Dictionnaire encyclopédique du théâtre, C. Scherer, p. 1272)</bibl>
         <p>Plaute :</p>
-        <p>(Sarsina, Ombrie, v. 254 – Rome 184 av. J.-C.). Poète comique latin. <hi rend="b">Titus Maccus Plautus</hi> est le plus illustre des comiques romains et une partie de son œuvre a été conservée. Son écriture vise à l’efficacité scénique, faisant une grande part à la danse et à la musique. La vie de Plaute est très mal connue et sa biographie est un tissu de conjectures. [...]. Il commence à quarante ans une carrière d’auteur comique, où il obtiendra toujours le succès. Le genre comique vient d’être créé par Luvius Andronicus. Plaute innove dans les parties chantées, en introduisant des séquences musicales et chorégraphiques, <hi rend="i">canticum</hi>, empruntées aux mimes, pour lesquelles il utilise des vers lyriques complexes. Le succès de Plaute à Rome s’explique par la part très importante qu’il donne aux cantica, en particulier aux « entrées de rôle » ; [...]. La plupart des comédies sont organisées autour d’un rôle, joué par l’acteur principal de la troupe : [...]. Plaute use d’une écriture très sophistiquée, [...], jouant sans cesse à exhiber le code comique. Sa création se fait dans le cadre d’une stricte codification ; le poète prouve sa maîtrise du code et sa capacité à l’actualiser toujours différemment mais sans innover et sans décevoir ainsi l’attente du public. [...]. Comme le genre l’impose il traduit et adapte des comédies grecques, mais nous avons perdu ces œuvres et il est impossible de voir la distance prise par rapport aux modèles. Les Anciens attribuent à Plaute cent trente pièces, nous en avons conservé vingt : <hi rend="i">Amphitryon (Amphitryo)</hi> dont le sujet est emprunté à la mythologie grecque, sans doute repris d’une hylaro-tragédie sicilienne, la <hi rend="i">Comédie des ânes (Asinaria), la Marmite (Aulularia)</hi> qui a été imité par Molière dans l’<hi rend="i">Avare</hi>, les <hi rend="i">Bacchis (Bacchides), les Prisonniers (Captivi), Casina, la Corbeille (Cisellaria), le Charançon (Curculio), Epidicus, les Ménechmes (Menaechmi), le Marchand (Mercator), le soldat fanfaron (Miles gloriosus), le fantôme (Mostelaria), le Persan(Persa), le Carthaginois (Poenulus), l’Imposteur (Pseudolus), le Cordage (Rudens), Stichus, les Trois écus (Trinummus), le Brutal (Truculentus).</hi></p>
+        <p>(Sarsina, Ombrie, v. 254 – Rome 184 av. J.-C.). Poète comique latin. <hi rend="sc">Titus Maccus Plautus</hi> est le plus illustre des comiques romains et une partie de son œuvre a été conservée. Son écriture vise à l’efficacité scénique, faisant une grande part à la danse et à la musique. La vie de Plaute est très mal connue et sa biographie est un tissu de conjectures. [...]. Il commence à quarante ans une carrière d’auteur comique, où il obtiendra toujours le succès. Le genre comique vient d’être créé par Luvius Andronicus. Plaute innove dans les parties chantées, en introduisant des séquences musicales et chorégraphiques, <hi rend="i">canticum</hi>, empruntées aux mimes, pour lesquelles il utilise des vers lyriques complexes. Le succès de Plaute à Rome s’explique par la part très importante qu’il donne aux cantica, en particulier aux « entrées de rôle » ; [...]. La plupart des comédies sont organisées autour d’un rôle, joué par l’acteur principal de la troupe : [...]. Plaute use d’une écriture très sophistiquée, [...], jouant sans cesse à exhiber le code comique. Sa création se fait dans le cadre d’une stricte codification ; le poète prouve sa maîtrise du code et sa capacité à l’actualiser toujours différemment mais sans innover et sans décevoir ainsi l’attente du public. [...]. Comme le genre l’impose il traduit et adapte des comédies grecques, mais nous avons perdu ces œuvres et il est impossible de voir la distance prise par rapport aux modèles. Les Anciens attribuent à Plaute cent trente pièces, nous en avons conservé vingt : <hi rend="i">Amphitryon (Amphitryo)</hi> dont le sujet est emprunté à la mythologie grecque, sans doute repris d’une hylaro-tragédie sicilienne, la <hi rend="i">Comédie des ânes (Asinaria), la Marmite (Aulularia)</hi> qui a été imité par Molière dans l’<hi rend="i">Avare</hi>, les <hi rend="i">Bacchis (Bacchides), les Prisonniers (Captivi), Casina, la Corbeille (Cisellaria), le Charançon (Curculio), Epidicus, les Ménechmes (Menaechmi), le Marchand (Mercator), le soldat fanfaron (Miles gloriosus), le fantôme (Mostelaria), le Persan(Persa), le Carthaginois (Poenulus), l’Imposteur (Pseudolus), le Cordage (Rudens), Stichus, les Trois écus (Trinummus), le Brutal (Truculentus).</hi></p>
         <p>Piron :</p>
         <p>(Alexis), poète et auteur dramatique français, né à Dijon le 9 juillet 1689, mort à Paris le 21 janvier 1773. [...]. Alexis Piron, d’abord destiné au barreau, fit son droit à Besançon et y fut reçu avocat. Sa famille ruinée, il revint à Dijon et s’y fit connaître par ses satires contre les gens de Beaune et par son <hi rend="i">Ode à Priape</hi>, dont on voulut faire un chef-d’œuvre alors, mais qui, par son immoralité, déchaîna un scandale, étouffé par l’intervention d’un magistrat dijonnais. Piron vint alors à Paris (1719), et y vécut misérablement, […]. Il se tourna vers le théâtre de Foire, dont il fut dix ans un des pourvoyeurs attitrés. Il y a donné son <hi rend="i">Arlequin-Deucalion</hi>, des « opéras-comiques », [...], et des parodies d’opéra, toutes pièces qui ne furent pas imprimées et le firent baptiser « Gilles Piron » par Voltaire. Dès cette époque, ce provincial accueilli dans la société parisienne se rendit fameux par ses bons mots et ses traits satiriques. Chez la marquise de Mimeure, il connut Voltaire et s’éprit de la lectrice de la marquise, Thérèse Quenaudon, dite Mlle de Bar (1688-1751), qui fut vingt ans sa maîtresse avant d’être épousé par lui. [...]. Poussé par Crébillon son compatriote et par Mlle Quinault, Piron se mit à écrire pour le Théâtre-Français, tantôt des tragédies, dont une seule, <hi rend="i">Gustave Wasa</hi>, eut quelque succès, tantôt des comédie dont <hi rend="i">La Métromanie</hi>, son œuvre principale. En dehors de ses pièces, la carrière de Piron fut surtout marquée par ses aventures académiques et ses polémiques avec les écrivains de son temps. S’il fut bien vu de Montesquieu et de Crébillon, la plupart des littérateurs de l’époque furent ses ennemis : [...]. Piron les cribla d’épigramme. Néanmoins, sa notoriété littéraire était telle que l’Académie Française, en juin 1753, le « désigna » au roi pour occuper le siège de Languet de Gergy, prélat fort discuté. C’est alors que ses ennemis, [...], exhumèrent <hi rend="i">l’Ode à Priape</hi>, vieille de 40 ans, et amenèrent Louis XV à refuser son approbation, [...]. Un autre bourguignon, Buffon, fut élu à sa place, et l’on sait que cet épisode nous valut le <hi rend="i">Discours sur le style</hi>. [...]. Piron se vengea en redoublant d’épigramme contre la Compagine : […]. Il fit, du moins, partie de l’académie de Dijon, sa ville natale. Il ne fut jamais riche et vécut quelque peu en gai aventurier ; il fut l’hôte assidu du Caveau. Toutefois, [...], il eut des amis qui vinrent à son aide et auxquels il fait allusion dans la préface de <hi rend="i">La Métromanie</hi>, [...]. Piron oublié, presque aveugle, composa à la fin de sa vie, comme La Fontaine, des poésies religieuses ; il mourut à plus de 83 ans.</p>
-        <quote>
-          <bibl>(Dictionnaire des lettres françaises XVIIIe p. 1036-1037.)</bibl>
-        </quote>
+        <bibl>(Dictionnaire des lettres françaises XVIIIe p. 1036-1037.)</bibl>
         <p>Quinault :</p>
         <p>Quinault Philippe (Paris 1635 – 1688). Auteur dramatique français. D’humble origine, formé et introduit par Tristan l’Hermite, il rencontra le succès dès ses premiers essais dramatiques et termina sa vie couvert d’argent, de gloire et d’honneurs. La première partie de sa carrière (1653-1662) est dominée par la comédie et la tragi-comédie. On en retiendra, outre une intéressante Comédie sans comédie qui mettait les procédé du théâtre dans le théâtre au service d’une parade des principaux genres dramatiques de l’époque, son choix du genre tragi-comique, à une époque où, discipliné et dépossédé de la plupart de ses caractéristiques par la tragédie romanesque, le genre paraissait mort : coup d’audace qui lui réussit, puisque quatre de ses huit tragi-comédies, <hi rend="i">Amalasonte</hi> (1657) tout particulièrement, mais aussi <hi rend="i">le Feint Alcibiade</hi> (1658), <hi rend="i">Stratonice</hi> (1660) et <hi rend="i">Agrippa</hi> (1662, drame de sosie royal inspiré du très bel <hi rend="i">Oropaste</hi> de Boyer, représenté concurremment par Molière), furent de très grands succès. Ensuite, sans renoncer complètement à la comédie (<hi rend="i">la Mère coquette</hi>, 1665, inspirée de la comédie du même titre de Donneau de Visé jouée concurremment par Molière), il passe à la tragédie. Il n’en composa que trois, dont la première seulement eut un succès exceptionnel, <hi rend="i">Astrate</hi> (1665). […]. Le talent de Quinault ne s’est pas seulement déployé dans la dernière partie de sa carrière, tout entière au service de la tragédie lyrique (1673-1686). Inventeur aux côtés de Lully de l’opéra à la française, dont l’association s’était amorcée à l’occasion de Psyché (Molière, Corneille, Quinault, Lully), dernière grande tragédie à machines, Quinault écrivit pour le musicien une dizaine de « tragédies en musique ». De <hi rend="i">Cadmus et Hermione</hi> (1673) à <hi rend="i">Armide</hi> (1686, « l’opéra des dames »), en passant par <hi rend="i">Alceste</hi> (1674), Thésée (1675), <hi rend="i">Atys</hi> (1676), <hi rend="i">Isis</hi> (1677), <hi rend="i">Proserpine</hi> (1680), <hi rend="i">Persée</hi> (1682), <hi rend="i">Phaéton</hi> (1683 « l’opéra du peuple »), <hi rend="i">Amadis de Gaule</hi> (1684), <hi rend="i">Roland</hi> (1684), Quinault a réussi parfaitement le mariage de la passion pathétique et de la mythologie (mythologie moderne dans ses trois dernières œuvres), de la violence sublimée et de l’héroïsme poétisé, et a remarquablement su s’adapter à cette nouveauté qu’était, pour un Français, le récitatif. […].</p>
-        <quote>
-          <bibl>(Dico encyclopédie du théâtre, G. Forestier p. 1350-1351)</bibl>
-        </quote>
-        <p>-Raisin :</p>
+        <bibl>(Dico encyclopédie du théâtre, G. Forestier p. 1350-1351)</bibl>
+        <p>Raisin :</p>
         <p>Maguerite Siret (4 novembre 1630 - ?) Comédienne française. Elle se marie en 1645 avec Edme Raisin ( ? - 1664), acteur et musicien français. Ensemble, ils auront sept enfants (né entre 1649 et 1658). Vers 1660, ils s’installent à Paris et fondent une troupe de jeunes comédiens. À la mort de son mari, Maguerite reprendra l’affaire. (César.org).</p>
         <p>Regnard :</p>
         <p>Jean-François (Paris 1655 – Dourdan 1709). Écrivain français. De famille aisée, sa jeunesse est consacrée à des voyages aventureux, [...]. À Paris à partir de 1682, [...], il s’amuse à écrire, surtout pour le théâtre. Ses premières pièces sont destinées aux comédiens-italiens ; à partir de 1694 il se tourne davantage vers les comédiens-français, seule troupe officielle dès 1697 [...]. Après un nombre de petites pièces charmantes et qui resteront plus de cent ans au répertoire (comme <hi rend="i">la Sérénade</hi> et <hi rend="i">Attendez-moi sous l’orme</hi>, 1694, <hi rend="i">le Bal</hi>, 1696), il se lance dans la grande comédie en cinq actes et en vers avec le <hi rend="i">Joueur</hi> (Comédie-Française, 1696), qui suivent plusieurs autres grands succès. Il apparaît comme le successeur de Molière. Son <hi rend="i">Légataire universel</hi> (1708), qui précède d’un an <hi rend="i">Turcaret</hi>, [...].</p>
-        <quote>
-          <bibl>(Dico encyclopédique du théâtre M. de Rougemont p. 1375).</bibl>
-        </quote>
+        <bibl>(Dico encyclopédique du théâtre M. de Rougemont p. 1375).</bibl>
         <p>Rohault :</p>
         <p>Rohault (Jacques), [c. 1617-1672] physicien et philosophe cartésien, épousa la fille de Clerselier. Il avait donné à Paris des conférences sur la physique pour substituer les nouveautés cartésiennes aux commentaires des traités d’Aristote que les universités enseignaient. La malveillance l’accusa de nier le dogme de la transsubstantiation. Il répondit par un exposé général très lucide des théories cartésiennes sous le titre d’<hi rend="i">Entretiens sur la philosophie</hi>. Son frère Claude, prête en Picardie, a composé un <hi rend="i">Recueil de poésies pieuses et morales</hi>, 1674.</p>
         <p>Le grand Rousseau :</p>
         <p>Rousseau (Jean Baptiste), poète lyrique, né à Paris en 1669 ou 1670, mort à Bruxelles en 1741. [...]. Il connut Boileau, qui apprécia ses premiers essais et lui donna des conseils. De grands seigneurs le protégèrent. Tallard même le prit avec lui dans une ambassade en Angleterre : [...]. À son retour, la société du Temple l’accueillit, [...]. On attendait beaucoup de lui : il pensa trouver sa voie au théâtre. En 1694, il avait composé un acte en prose, <hi rend="i">Le Café</hi>. En 1696 et 1700, il fit jouer deux comédies en vers : <hi rend="i">Le Flatteur</hi> et <hi rend="i">Le Capricieux</hi> qui n’obtinrent pas le succès qu’il en espérait. Ses comédies avaient un grand défaut pour des comédies : [...]. La force comique lui faisait défaut. Ce défaut suffisait pour expliquer leur échec. Rousseau préféra attribuer celui-ci à la cabale et à la jalousie de ses confrères. Pour se venger, il se mit à faire des couplets contre ceux qu’il estimait avoir contribué à la chute de ses pièces. Ces couplets se multiplièrent, et, comme il arrive fatalement, devinrent de plus en plus vifs, ― et même scandaleux et calomniateurs. Ils le devinrent au point qu’une poursuite en diffamation et en calomnie le conduisit devant le Parlement. Il se défendit d’avoir composé les vers qu’on lui reprochait, et, chose plus grave, il en attribua la paternité à Saurin, qui n’eut pas de peine à se justifier. […]. Ce qu’il chercha toujours, ce fut sa réhabilitation. Il ne l’obtint pas, et passa ainsi trente années de sa vie en exil. Cet exil, il le passa en Belgique, en Suisse, à Vienne, et pendant ces trente années, tout en demeurant en correspondance suivie avec Brossette, Louis Racine et Rollin, il trouva, à l’étranger de hauts et puissants protecteurs, parmi lesquels le comte de Luc, le prince Eugène, le duc d’Aremberg, le prince de Tout-et-Taxis. Plus d’une fois il dut à leur protection d’échapper à la misère. [...]. Pendant longtemps, Jean-Baptiste Rousseau fut regardé comme le plus grand poète lyrique d’un siècle, qui, à vrai dire, n’en comptait guère. [...].</p>
-        <quote>
-          <bibl>(Dico LFR XVIII p1142).</bibl>
-        </quote>
-        <p>-Sarazin :</p>
-        <p><hi rend="b">Sarazin</hi> (Jean-François), poète et historien, né à Caen (25 déc. 1614), mort à Pézenas (Hérault) le 5 décembre 1654. fils d’un trésorier de Caen qui était aussi conseiller à la Cour des aides de Rouen, Sarazin, après avoir fait ses études auprès de l’université de sa ville normande, s’en fut à Paris ou Mlle Paulet l’introduisit à l’hôtel de Rambouillet*. […]. Il voyagea en Allemagne mais manqua une mission en Italie, retenu qu’il était à Paris par les beaux yeux et les menus manèges d’une gourgandine. Il perdit, de ce fait, la protection de Chavigny et, comme un malheur ne vient jamais seul, il épousa, à quelque temps de là, pour le charme de la dot, une veuve aussi laide qu’acariâtre. Pour réparer ces affronts de la fortune, le poète intéressa à son sort Mme de Longueville qui l’attira à Chantilly, dans la société de la princesse de Condé, du duc d’Enghien et du prince de Conti. Il devint le secrétaire de ce dernier. Ce fut au cours d’un voyage fait dans le Languedoc en compagnie du prince qu’il succomba, empoisonné, dit-on, par un mari jaloux.</p>
-        <quote>
-          <bibl>(Dictionnaire des lettres françaises XVII, p. 1153-1154).</bibl>
-        </quote>
+        <bibl>(Dico LFR XVIII p1142).</bibl>
+        <p>Sarazin :</p>
+        <p><hi rend="sc">Sarazin</hi> (Jean-François), poète et historien, né à Caen (25 déc. 1614), mort à Pézenas (Hérault) le 5 décembre 1654. fils d’un trésorier de Caen qui était aussi conseiller à la Cour des aides de Rouen, Sarazin, après avoir fait ses études auprès de l’université de sa ville normande, s’en fut à Paris ou Mlle Paulet l’introduisit à l’hôtel de Rambouillet*. […]. Il voyagea en Allemagne mais manqua une mission en Italie, retenu qu’il était à Paris par les beaux yeux et les menus manèges d’une gourgandine. Il perdit, de ce fait, la protection de Chavigny et, comme un malheur ne vient jamais seul, il épousa, à quelque temps de là, pour le charme de la dot, une veuve aussi laide qu’acariâtre. Pour réparer ces affronts de la fortune, le poète intéressa à son sort Mme de Longueville qui l’attira à Chantilly, dans la société de la princesse de Condé, du duc d’Enghien et du prince de Conti. Il devint le secrétaire de ce dernier. Ce fut au cours d’un voyage fait dans le Languedoc en compagnie du prince qu’il succomba, empoisonné, dit-on, par un mari jaloux.</p>
+        <bibl>(Dictionnaire des lettres françaises XVII, p. 1153-1154).</bibl>
         <p>Scaramouche :</p>
         <p>L’un des plus anciens personnage de la commedia dell’arte. Subtil et hâbleur, tout de noir vêtu, il s’incarne en Tiberio Fiorilli (Comédien italien de la commedia dell’arte (Naples 1608 – Paris 1694). Il popularisa le personnage de  qui se caractérise par son costume sombre, l’absence de masque et la cithare à la place de l’épée. Invité par Mazarin en France, il eut beaucoup de succès auprès de Louis XIII. Il travailla avec Molière au Petit-Bourbon et au Palais-Royal.) qui, devenu à Paris « le prince des comédiens et le comédien des princes », devait exercer par son exemple, par son exemple, une influence certaine sur Molière.</p>
-        <quote>
-          <bibl>(Le Petit Robert des noms propres 2007)</bibl>
-        </quote>
+        <bibl>(Le Petit Robert des noms propres 2007)</bibl>
         <p>Scarron :</p>
         <p>Paul (Paris 1610-1660). Écrivain français. Auteur du célèbre <hi rend="i">Roman comique</hi>, poète burlesque applaudi par ses contemporains, son théâtre comique rencontra aussi beaucoup de succès. Fils d’un officier au Parlement, Scarron devient abbé puis chanoine pour s’assurer des revenus. Il épouse en 1652, Françoise d’Aubigné qui sera plus tard Mme de Maintenon. [...]. Il écrit pour le théâtre à partir de 1643 avec une verve qui mêle le romanesque espagnol (l’histoire des amours de jeunes couples) au burlesque et fait de ses dix comédies les œuvres les plus gaies de son temps. Il sait utiliser la satire, la mode du moment, et le succès des acteurs Filipin et surtout Jodelet, pour lesquels il écrit plusieurs comédies. <hi rend="i">Jodelet ou le Maître valet</hi>, les <hi rend="i">Trois Dorothées</hi> ou <hi rend="i">Jodelet souffleté, l’Héritier ridicule, Dom Japhet d’Arménie</hi>, le <hi rend="i">Marquis ridicule</hi> sont parmi les plus connues et les plus drôles.</p>
-        <quote>
-          <bibl>(Dico encyclopédie du t, C. Scherer, p. 1471)</bibl>
-        </quote>
+        <bibl>(Dico encyclopédie du t, C. Scherer, p. 1471)</bibl>
         <p>Somaize (seconde moitié du XVIIe siècle) :</p>
         <p>(Badeau de). Auteur médiocre, [...], et qui fit beaucoup parler de lui, à propos de la préciosité, en 1660. Il avait publié en 1657 un pamphlet contre la tragédie de <hi rend="i">Thédore</hi>, de Boisrobert. [...]. Au moment de la grande vogue des <hi rend="i">Précieuses ridicules</hi> (1659) de Molière, Somaize s’aboucha avec un libraire indélicat, Jean Ribou, qui avait dérobé le texte de la comédie de Molière et l’avait publié sans son consentement. Molière protesta et intenta un procès à Ribou. Somaize, mettant à profit la vogue de la préciosité due à la comédie de Molière, lui donna une pâle réplique avec <hi rend="i">Les Véritables précieuses</hi> (1660), qui eurent quelques succès, puisqu’on en connaît deux éditions et deux contrefaçons sous la même date. La comédie était dédiée à Louis Habert de Montmor. Dans sa pièce, Somaize accusait Molière d’avoir plagié une comédie de l’abbé de Pure, jouée aux Italiens, ce qui ne l’empêchait pas de s’inspirer de son illustre devancier. La même année, exploitant la mode de la préciosité, Somaize publiait une adaptation en vers des <hi rend="i">Précieuses ridicules</hi> de Molière ; reprenant ses accusations de plagiat, il était forcé de reconnaître le succès de son rival. Puis il lançait le G<hi rend="i">rand Dictionnaire des précieuses</hi>, ou la clef de la langue des ruelles, répertoire utile des mots mis à la mode par les précieuses, et une nouvelle comédie, Le Procès des précieuses, sa meilleure œuvre théâtrale. Enfin, en juin 1661, Somaize éditait son <hi rend="i">Grand Dictionnaire historique des précieuses</hi> ; [...]. Là s’arrête la production littéraire de Somaize. Il est probable qu’il suivit Marie Mancini, devenue la connétable Colonna, en Italie. Dès lors, on perd sa trace et l’on ignore tout de sa fin. […], Somaize ne doit sa notoriété qu’au fait d’avoir été mêlé à la cabale contre Molière débutant à Paris ; mais, du point de vue documentaire, ses ouvrages restent une des sources essentielles pour l’étude de la langue et de la société précieuses.</p>
-        <quote>
-          <bibl>(Dico des LFR, XVII p1186)</bibl>
-        </quote>
+        <bibl>(Dico des LFR, XVII p1186)</bibl>
         <p>Subligny :</p>
         <p>(Adrien Thomas Perdou), 1636-1696, ami de Molière, et rédacteur d’un journal peu célèbre, surtout connu par sa critique d’<hi rend="i">Andromaque</hi> [et par son roman <hi rend="i">La Fausse Clélie</hi>]. Outre les œuvres dont la liste suit, on lui a attribué [à tort] les <hi rend="i">Mémoires de la vie de Henriette Sylvie de Molière</hi>.</p>
-        <quote>
-          <bibl>(Dictionnaire des lettres françaises XVII, p. 1202).</bibl>
-        </quote>
+        <bibl>(Dictionnaire des lettres françaises XVII, p. 1202).</bibl>
         <p>Térence :</p>
-        <p>(Carthage, vers 184 – Grèce 159 av. J.-C.). Poète comique latin. Comme son nom l’indique, <hi rend="b">Publius Terentius Afer</hi> est un affranchi d’origine africaine, c’est-à-dire punique ou berbère. Vendu dans son enfance à un sénateur romain, il dut être formé par son maître à la danse, à la musique et à la comédie, comme tous les esclaves de luxe. Affranchi vers sa seizième année, il commence une carrière de poète comique et écrit l<hi rend="i">’Andrienne</hi>, présentée en 167.Il est accueilli dans le cercle d’intellectuels hellénisants qui entoure le jeune Scipion Émilien. En 165 il écrit l’<hi rend="i">Hécyre</hi>. C’est un échec, le public s’ennuie et quitte le théâtre. Soutenu par le metteur en scène Ambivius Turpio, il présente l’<hi rend="i">Eunuque</hi> et le <hi rend="i">Phormion.</hi> Présentée de nouveau avec les <hi rend="i">Adelphes</hi>, en 160, l’Hécyre obtient enfin le succès. Puis Térence disparaît au cour d’un voyage en Grèce.</p>
-        <quote>
-          <bibl>(Dictionnaire encyclopédique du Théâtre, Michel Corvin, in extenso, Larousse, 2003, Article : « Térence », F. Dupont, p. 1611).</bibl>
-        </quote>
+        <p>(Carthage, vers 184 – Grèce 159 av. J.-C.). Poète comique latin. Comme son nom l’indique, <hi rend="i">Publius Terentius Afer</hi> est un affranchi d’origine africaine, c’est-à-dire punique ou berbère. Vendu dans son enfance à un sénateur romain, il dut être formé par son maître à la danse, à la musique et à la comédie, comme tous les esclaves de luxe. Affranchi vers sa seizième année, il commence une carrière de poète comique et écrit l<hi rend="i">’Andrienne</hi>, présentée en 167.Il est accueilli dans le cercle d’intellectuels hellénisants qui entoure le jeune Scipion Émilien. En 165 il écrit l’<hi rend="i">Hécyre</hi>. C’est un échec, le public s’ennuie et quitte le théâtre. Soutenu par le metteur en scène Ambivius Turpio, il présente l’<hi rend="i">Eunuque</hi> et le <hi rend="i">Phormion.</hi> Présentée de nouveau avec les <hi rend="i">Adelphes</hi>, en 160, l’Hécyre obtient enfin le succès. Puis Térence disparaît au cour d’un voyage en Grèce.</p>
+        <bibl>(Dictionnaire encyclopédique du Théâtre, Michel Corvin, in extenso, Larousse, 2003, Article : « Térence », F. Dupont, p. 1611).</bibl>
         <p>Virgile :</p>
         <p>Publius Vergilius Maro, poète latin (Andes, auj., Pietole, près de Mantoue, v. -70 – Brindes -19). Issu de la petite bourgeoisie, Virgile fit, à Crémone puis à Rome, les études qui devaient le mener à une carrière politique et suivit l’enseignement du philosophe épicurien Siron. Mais, introduit dans le cercle d’Asinius Pollion, il renonça à l’éloquence et à la philosophie pour se consacrer à la poésie. [...]. En -39, il publia les <hi rend="i">Bucoliques</hi>, œuvre d’inspiration alexandrine d’une grande sérénité. Dès le début de -38, la situation politique s’assombrit et Virgile traversa une crise de pessimisme. C’est à cette époque qu’il commença les <hi rend="i">Géorgiques</hi>, épopée philosophique qui mettait l’homme face à la nature, le milieu le plus susceptible de le conduire à un bonheur assez proche de celui des épicuriens, et soulignait la valeur édifiante du travail (le « durus labor »). Après avoir achevé les <hi rend="i">Géorgiques</hi> en -29, le poète conçut l’idée d’une épopée nationale qui serait pour les Romains l’équivalent de <hi rend="i">L’Iliade</hi>. Ce fut <hi rend="i">L’Énéide</hi>, qui préfigurait la victoire d’Auguste, fils d’Énée, fin vers laquelle avait tendu toute l’histoire de Rome depuis la chute de Troie jusqu’à la bataille d’Actium. L’œuvre n’était pas achevée à la mort du poète (-19), qui demanda qu’on la brûlat. Mais Auguste s’y refusa et la publication en fut assurée par les poète Varrius et Tucca, amis de Virgile. L’évolution religieuse du poète l’a conduit de son épicurisme primitif à un platonisme mystique qui admet l’existence d’âmes survivant aux corps (<hi rend="i">L’Énéide</hi>). […]. Son influence fut très grande sur toutes les littératures occidentales et tout un cycle de légendes se groupa autour de sa mémoire.</p>
-        <quote>
-          <bibl>(Dictionnaire : Le Petit Robert des noms propres 2007).</bibl>
-        </quote>
+        <bibl>(Dictionnaire : Le Petit Robert des noms propres 2007).</bibl>
         <p>Voiture :</p>
         <p>(Vincent), poète et épistolier français (Amiens 1597 – Paris 1648). Habitué de l’hôtel de Rambouillet, il fut, malgré sa roture, l’ « âme du rond » par son enjouement spirituel et son art du badinage. Son esprit précieux, à la fois ingénieux et affecté, apparaît dans ses Poésies (posth. 1650), célébrées dans la société mondaine et soulevant de véritables débats littéraires (querelle des sonnets avec Malleville, puis avec Benserade). Ses Lettres, également publiées en 1650, manifestent sa verve et son imagination et furent admirées de La fontaine comme de Voltaire. [Académie française, 1634]</p>
-        <quote>
-          <bibl> (Le petit robert des noms propres 2007).</bibl>
-        </quote>
+        <bibl> (Le petit robert des noms propres 2007).</bibl>
       </div>
       <div>
         <head>Bibliographie</head>
