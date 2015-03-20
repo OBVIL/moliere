@@ -14,11 +14,11 @@
         <edition>OBVIL</edition>
         <respStmt>
           <name>Oriane Morvan</name>
-          <resp>Corrections et stylage</resp>
+          <resp>corrections et stylage</resp>
         </respStmt>
         <respStmt>
           <name ref="frederic.glorieux@algone.net">Frédéric Glorieux</name>
-          <resp>Structuration et encodage TEI</resp>
+          <resp>structuration et encodage TEI</resp>
         </respStmt>
       </editionStmt>
       <publicationStmt>
