@@ -125,7 +125,6 @@ else if($pot) {
          </div>
       </div>
       <aside id="aside">
-        <p> </p>
           <?php
 // livre
 if (isset($doc['bookrowid'])) {
@@ -167,6 +166,7 @@ else if(isset($moliere) || isset($critique)) {
     </div>
     <script type="text/javascript" src="<?php echo $teipot; ?>Tree.js">//</script>
     <script type="text/javascript" src="<?php echo $teipot; ?>Sortable.js">//</script>
+    <script type="text/javascript" src="<?php echo $teipot; ?>Teipot.js">/* persistance du scroll de toc */</script>
     
     <!-- Pour l'alignement des vers -->
     <script type="text/javascript">
