@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://svn.code.sf.net/p/algone/code/teibook/teibook.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-stylesheet type="text/xsl" href="../../xml/teipub/xsl/tei2html.xsl"?>
+<?xml-stylesheet type="text/xsl" href="../../teipub/xsl/tei2html.xsl"?>
+<?xml-stylesheet type="text/css" href="../../teibook/teibook.css"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
@@ -10,6 +11,7 @@
         <editor>Floria Benamer</editor>
       </titleStmt>
       <editionStmt>
+        <edition>OBVIL</edition>
         <respStmt>
           <name>Floria Benamer </name>
           <resp>Stylage sémantique </resp>
@@ -17,9 +19,19 @@
       </editionStmt>
       <publicationStmt>
         <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
-        <date>2015</date>
-        <idno>http://obvil.paris-sorbonne.fr/corpus/apollinaire/couleur-du-temps/</idno>
-        <availability status="restricted"/>
+        <date when="2015">2015</date>
+        <!--
+        <idno>http://obvil.paris-sorbonne.fr/corpus/</idno>
+        -->
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+          </licence>
+        </availability>
       </publicationStmt>
       <sourceDesc>
         <bibl>Charles-Julien Jeannel, <hi rend="i">La Morale de Molière</hi>, Paris, Ernest Thorin, 1867.</bibl>
@@ -35,14 +47,17 @@
     </profileDesc>
   </teiHeader>
   <text>
+    <front>
+      <div type="dedication">
+       <salute>Mon cher père,</salute>
+       <p>Véritablement ce livre vous appartient. A défaut d’autres qualités, j’espère que vous y trouverez votre <hi rend="i">esprit</hi> ; et je serai heureux si vous ne jugez pas indigne de vous ce premier essai de votre fils aîné</p>
+       <p rend="right">C.-J. JEANNEL.</p>
+       <p rend="right">Castelnau-lès-Lez, 7 octobre 1867.</p>
+       
+      </div>
+    </front>
     <body>
-      <p/>
-      <salute>Mon cher père,</salute>
-      <salute>Véritablement ce livre vous appartient. A défaut d’autres qualités, j’espère que vous y trouverez votre <hi rend="i">esprit</hi> ; et je serai heureux si vous ne jugez pas indigne de vous ce premier essai de votre fils aîné</salute>
-      <salute rend="right">C.-J. JEANNEL.</salute>
-      <salute rend="right">Castelnau-lès-Lez, 7 octobre 1867.</salute>
-      <p/>
-      <p rend="titre20">LA MORALE DE MOLIÈRE.</p>
+      <head>La morale de Molière.</head>
       <div type="chapter">
         <head>CHAPITRE PREMIER.
         <lb/>Part de la Morale dans la Comédie de Molière.</head>
@@ -170,7 +185,7 @@
         </quote>
         <p><pb n="48" xml:id="p48"/> Il est admirable dans sa loyauté en amour<note place="bottom"><hi rend="i">Le Misanthrope</hi>, act. I, sc. I ; act. II, sc. I.</note>, dans son indignation contre les mensonges du cœur<note place="bottom"><hi rend="i">Id</hi>., act. IV, sc. II, III.</note>, dans sa bonté à pardonner une tromperie d’autant plus indigne qu’elle s’adresse à un homme comme lui<note place="bottom"><hi rend="i">Id</hi>., act. V, sc. VII.</note> ; mais il exprime ridiculement un amour mal fait pour une âme comme la sienne, et mal placé sur une femme incapable de le comprendre<note place="bottom"><hi rend="i">Id</hi>., act. IV, sc. III.•</note>.</p>
         <p>Enfin, surtout, il a tort, et ses travers, jusqu’ici excusables, <hi rend="i">nobles, héroïques</hi> même<note place="bottom"><hi rend="i">Id</hi>., act. IV, sc. I.</note>, deviennent une faute véritable quand, pour tous les ridicules, tous les vices qu’il voit autour de lui, il conçoit contre l’humanité cette <hi rend="i">haine</hi> violente qu’il ne cesse d’exprimer depuis la première scène jusqu’à la dernière :</p>
-        <quote rend="border">
+        <quote>
           <l>Tous les hommes me sont à tel point <hi rend="i">odieux</hi></l>
           <l>Que je serois fâché d’être sage à leurs yeux.</l>
           <label>PHILINTE.</label>
@@ -285,7 +300,7 @@
         <p>Hali, dans <hi rend="i">l’Amour peintre</hi><note place="bottom">1667.</note>, est encore un vrai <hi rend="i">Mascarille</hi> ; et <hi rend="i">Mercure</hi>, dans <hi rend="i">Amphitryon</hi><note place="bottom">1669.</note>, est le <hi rend="i">Mascarille</hi> divinisé, qui ne procure plus des <hi rend="i">esclaves</hi> aux fils de famille<note place="bottom"><hi rend="i">Célie</hi> de l’<hi rend="i">Etourdi ; Isidore</hi> de <hi rend="i">l’Amour peintre ; Zerbinette</hi> des <hi rend="i">Fourberies de Scapin.</hi></note>, mais des reines aux dieux. <pb n="73" xml:id="p73"/> Qui n’a ri à plein cœur en voyant <hi rend="i">Sosie</hi> battu et <hi rend="i">Amphitryon</hi> à la porte<note place="bottom"><hi rend="i">Amphytrion</hi>, act. I, sc. II ; act. III, sc. II. Voir plus loin, chap. IX.</note> ? Mais, pendant tout ce rire, où donc était la morale ?</p>
         <p/>
         <p>Et qu’on ne dise pas que Molière s’est laissé aller à cette indulgence dans les débuts de sa carrière, aveuglé par l’exemple de ses prédécesseurs et de ses contemporains, entraîné par la nécessité de nourrir sa troupe et de faire rire à tout prix : c’est en 1669, quand il a donné <hi rend="i">le Misanthrope, le Tartuffe, l’Avare</hi>, après <hi rend="i">Amphitryon</hi>, que l’imitation antique peut excuser un peu ; c’est enfin quand il est maître et roi de la scène, qu’il joue devant le roi la désopilante farce de <hi rend="i">M. de Pourceaugnac</hi>, chef-d’œuvre comique où, par malheur, les deux personnages intéressants, spirituels, actifs, les deux chevilles ouvrières de la pièce, sont la <hi rend="i">Nérine</hi> et le <hi rend="i">Sbrigani</hi>, qui se font réciproquement sur la scène cette apologie digne des cours d’assises :</p>
-        <quote rend="border">
+        <quote>
           <label>NÉRINE</label>
           <p>Voilà un illustre. C’est le héros de notre siècle pour les exploits dont il s’agit : un homme qui, vingt fois en sa vie, pour sauver ses amis, a généreusement affronté les galères ; qui, au péril de ses bras et de ses épaules, sait mettre noblement à fin les entreprises les plus difficiles ; et qui, tel que vous le voyez, est exilé de son pays pour je ne sais combien d’actions honorables qu’il a généreusement entreprises.</p>
           <label><pb n="74" xml:id="p74"/> SBRIGANI</label>
@@ -406,11 +421,11 @@
         <quote>
           <l>Elle a quelque raison en ce qu’elle veut dire.</l>
           <l>Leur sexe aime à jouir d’un peu de liberté ;</l>
-          <l><seg rend="lienhypertexte">On le retient fort mal par tan</seg><seg rend="lienhypertexte">t d’austérité,</seg> </l>
-          <l rend="lienhypertexte">Et les soins défiants, les verrous et les grilles </l>
+          <l>On le retient fort mal par tant d’austérité,</l>
+          <l>Et les soins défiants, les verrous et les grilles</l>
           <l>Ne font pas la vertu des femmes ni des filles.</l>
-          <l rend="lienhypertexte">C’est l’honneur qui les doit tenir dans le devoir, </l>
-          <l rend="lienhypertexte">Non la sévérité que nous leur faisons voir. </l>
+          <l>C’est l’honneur qui les doit tenir dans le devoir,</l>
+          <l>Non la sévérité que nous leur faisons voir.</l>
           <l>C’est une étrange chose, à vous parler sans feinte,</l>
           <l>Qu’une femme qui n’est sage que par contrainte.</l>
           <l>En vain sur tous ses pas nous prétendons régner :</l>
@@ -659,7 +674,7 @@
         </quote>
         <p>à l’époque où Boileau lui-même, fléchissant sous la poussée du siècle, mettait, dans la glorieuse péroraison de son <hi rend="i">Art poétique</hi>, le Benserade des <hi rend="i">ruelles</hi> à côté du Corneille <hi rend="i">du Cid et d’Horace</hi><note place="bottom"><hi rend="i">Art poétique</hi>, ch. IV, v. 195-200. - Voir plus haut, chap. III, p. 57.</note>.</p>
         <p><pb n="141" xml:id="p141"/> Molière ne se contenta pas de critiquer avec une verve toujours nouvelle le faux style amoureux partout où l’occasion s’en offrit<note place="bottom"><hi rend="i">Les Précieuses ridicules</hi>, sc. V, X ; XII ; <hi rend="i">Les Fâcheux</hi>, act. II, sc. IV ; <hi rend="i">le Misanthrope</hi>, act. I, sc. II : <hi rend="i">le Bourgeois gentilhomme</hi>, act. II, sc. VI ; <hi rend="i">les Femmes savantes</hi>, act. III, sc. II, <hi rend="i">la Comtesse d’Escabargnas</hi>, sc. I, XV, XVI ; <hi rend="i">le Malade imaginaire</hi>, act. II, sc. VI.</note>. Après avoir rappelé les amants à un langage naturel comme l’amour, il donna, mieux que tous les autres auteurs du siècle, l’exemple de cette langue douce et touchante qui va droit au cœur parce qu’elle en exprime les vrais sentiments. Est-il besoin de rappeler les charmantes causeries d’amour qui remplissent tant de comédies<note place="bottom"><hi rend="i">Le Dépit amoureux</hi>, act. I, sc. II ; act. IV, sc. III, IV ; <hi rend="i">le Prince jaloux</hi>, act. I, sc. III ; act. II, sc. V, VI ; act. IV, sc. VIII ; act. V, sc. III, VI ; <hi rend="i">l’Ecole des Maris</hi>, act. II, sc. XIV ; <hi rend="i">les Fâcheux</hi>, act. I, sc. VIII ; <hi rend="i">le Festin de Pierre</hi>, act : I, sc. III ; act. II, sc. I, II ; act. IV, sc. IX ; <hi rend="i">l’Amour médecin</hi>, act. III, sc. VI ; <hi rend="i">le Misanthrope</hi>, act. II, sc. I ; act. IV, sc. I, III, VII ; <hi rend="i">Mélicerte</hi>, act. II, sc. III ; <hi rend="i">l’Amour peintre</hi>, sc. XIII ; <hi rend="i">le Tartuffe</hi>, act. II, sc. IV ; <hi rend="i">Amphitryon</hi>, act. I, sc. III ; act. II, sc. VI ; <hi rend="i">l’Avare</hi>, act. I, sc. I ; act. III, sc. XI ; act. IV, sc. I ; <hi rend="i">M. de Pourceaugnac</hi>, act. I, sc. III, IV ; <hi rend="i">les Amants magnifiques</hi>, act. II, sc IV ; act. IV, sc. VII ; <hi rend="i">le Bourgeois gentilhomme</hi>, act. III, sc. VIII-X, XVIII ; act. V, sc. II ; <hi rend="i">Psyché</hi>, act. III, sc. III, IV ; act. IV, sc. III ; act. V, sc. IV ; l<hi rend="i">es Fourberies de Scapin</hi>, act. I, sc. III ; <hi rend="i">la Comtesse d’Escarbagnas</hi>, sc. I : <hi rend="i">Les Femmes savantes</hi>, act. I, sc. II, III ; act. IV, sc. VII, VIII ; <hi rend="i">le Malade imaginaire</hi>, act. II, sc. IV-VI, XI ; act. III, sc. XXI, XXII.</note> ? Le spectateur, fatigué de rire, s’y repose avec une émotion délicieuse ; et l’auteur sait quelquefois, par la simplicité du style et la vérité de la passion, faire parler à l’amour un langage digne de Corneille :</p>
-        <quote rend="border">
+        <quote>
           <label>CLITANDRE.</label>
           <l>Quelque secours puissant qu’on promette à ma flamme,</l>
           <l>Mon plus solide espoir c’est votre cœur, madame. ‘</l>
@@ -861,9 +876,9 @@
           <label>XIII.</label>
           <p>Mais on doit songer que <quote>« rien n’use tant l’ardeur de ce nœud</quote></p>
           <quote>
-            <l><seg rend="lienhypertexte">Que les fâcheux besoins des choses d</seg><seg rend="lienhypertexte">e la vie ;</seg> </l>
-            <l rend="lienhypertexte">Et l’on en vient souvent à s’accuser tous deux </l>
-            <l><seg rend="lienhypertexte">De tous les noirs chagrins qui suivent de tels feux</seg><note place="bottom"><hi rend="i">Les Femmes savantes</hi>, act. V, sc. V.</note><seg rend="lienhypertexte">.</seg> </l>
+            <l>Que les fâcheux besoins des choses de la vie ;</l>
+            <l>Et l’on en vient souvent à s’accuser tous deux</l>
+            <l>De tous les noirs chagrins qui suivent de tels feux<note place="bottom"><hi rend="i">Les Femmes savantes</hi>, act. V, sc. V.</note>.</l>
           </quote>
           <label>XIV</label>
           <p>Les époux doivent <quote>« trouver tout »</quote> l’un en l’autre :</p>
@@ -878,15 +893,15 @@
           </quote>
           <p>les époux doivent donc éviter <quote>« cette étrange frénésie<note place="bottom"><hi rend="i">Le Prince jaloux</hi>, act. I, sc. I.</note> »</quote></p>
           <quote>
-            <l><seg rend="lienhypertexte">« Et mutuellement se croire gens de bien</seg><note place="bottom"><hi rend="i">Le Cocu imaginaire</hi>, sc. XXII.</note><seg rend="lienhypertexte">. ».</seg> </l>
+            <l>« Et mutuellement se croire gens de bien<note place="bottom"><hi rend="i">Le Cocu imaginaire</hi>, sc. XXII.</note>. ».</l>
           </quote>
           <label>XVII.</label>
           <p>Le mari est <quote>« le chef, le seigneur et le maître,<note place="bottom"><hi rend="i">L’Ecole des Femmes</hi>, act. III, sc. II.</note> ; »</quote></p>
           <quote>
             <l>« Ce n’est point à la femme à prescrire… ;</l>
-            <l><seg rend="lienhypertexte">La poule ne doit point chanter devant le coq</seg><note place="bottom"><hi rend="i">Les Femmes savantes</hi>, act. V, sc. III.</note><seg rend="lienhypertexte"> ; »</seg> </l>
+            <l>La poule ne doit point chanter devant le coq<note place="bottom"><hi rend="i">Les Femmes savantes</hi>, act. V, sc. III.</note> ; »</l>
             <l>« Et se peut-il qu’un homme ait assez de foiblesse</l>
-            <l><seg rend="lienhypertexte">Pour laisser à sa femme un pouvoir absolu</seg><note place="bottom"><hi rend="i">Id</hi>., act. II, sc. IX.</note><seg rend="lienhypertexte"> ? »</seg> </l>
+            <l>Pour laisser à sa femme un pouvoir absolu<note place="bottom"><hi rend="i">Id</hi>., act. II, sc. IX.</note> ? »</l>
           </quote>
           <label>XVIII.</label>
           <p>Il doit <quote>« s’abandonner à la foi de sa femme<note place="bottom"><hi rend="i">L’Ecole des Maris</hi>, act. I, sc. III.</note>, »</quote></p>
@@ -1112,7 +1127,7 @@
           <l>Il vient un temps où l’on en prend assez<note place="bottom"><hi rend="i">Pastorale comique</hi>, sixième entrée de ballet.</note>.</l>
         </quote>
         <p>Sur le même ton, sinon sur le même air, les <hi rend="i">bergères</hi> de <hi rend="i">la Fêle de Versailles</hi><note place="bottom">1668.</note> chantent à leurs <hi rend="i">bergers</hi> :</p>
-        <quote rend="border">
+        <quote>
           <label>CHLORIS.</label>
           <l>Le zéphyr entre ces eaux</l>
           <l>Fait mille courses secrètes,</l>
@@ -1146,7 +1161,7 @@
           <l>Et le plus grand des dieux.</l>
         </quote>
         <p><quote>« A ces mots, dit Félibien</quote><note place="bottom"><hi rend="i">Relation de la Fête de Versailles du 18 juillet 1668.</hi></note><quote>, l’on vit s’approcher du fond du théâtre un grand rocher couvert d’arbres, sur lequel étoit assise toute la troupe de Bacchus, composée de quarante satyres. L’un d’eux, s’avançant à la tête, chanta fièrement ces paroles : »</quote> </p>
-        <quote rend="border">
+        <quote>
           <l>Arrêtez, c’est trop entreprendre :</l>
           <l>Un autre dieu, dont nous suivons les lois,</l>
           <l>S’oppose à cet honneur qu’à l’Amour osent rendre</l>
@@ -1420,17 +1435,19 @@
         <head>CHAPITRE XI.
         <lb/>De la Religion. Principe et Sanction de la Morale de Molière.</head>
         <p><pb n="217" xml:id="p217"/> Enfin, pour couronner toute cette morale, ce comédien a su parler de Dieu. Lui, l’homme du rire et du plaisir, il a su, dans quelques scènes étonnantes d’une pièce pleine de farces comme <hi rend="i">le Festin de Pierre</hi>, peindre la croyance en Dieu, l’amour de Dieu, la dignité, la nécessité de cette croyance et de cet amour. Ces scènes ne sont point d’origine espagnole : elles ont un autre caractère que celles du <hi rend="i">don Juan</hi> original, parce qu’au lieu d’être là par convenance pour satisfaire un public dévot, elles y sont par intention pour émouvoir un public hypocrite ou sceptique. L’obligation de <hi rend="i">croire</hi> est mieux prouvée dans les ridicules paroles de <hi rend="i">Sganarelle</hi> que dans plus d’un sermon :</p>
-        <quote rend="border">
+        <quote>
           <label>DON JUAN</label>
           <p>Je crois que deux et deux sont quatre, Sganarelle, et que quatre et quatre sont huit.</p>
           <label>SGANARELLE</label>
           <p>La belle croyance et les beaux articles de foi que voilà ! Votre religion, à ce que je vois, est donc l’arithmétique ? Il faut avouer qu’il se met d’étranges folies dans la tête des hommes, et que, <pb n="218" xml:id="p218"/> pour avoir bien étudié, on est bien moins sage le plus souvent. Pour moi, monsieur, je n’ai point étudié comme vous, Dieu merci, et personne ne sauroit se vanter de m’avoir jamais rien appris ; mais avec mon petit sens mon petit jugement, je vois les choses mieux que tous les livres, et je comprends fort bien que ce monde que nous voyons n’est pas un champignon qui soit venu tout seul en une nuit. Je voudrois bien vous demander qui a fait ces arbres-là, ces rochers, cette terre, et ce ciel que voilà là-haut ; et si tout cela s’est bâti de lui-même. Vous voilà, vous, par exemple, vous êtes là : est-ce que vous vous êtes fait tout seul, et n’a-t-il pas fallu que votre père ait engrossé votre mère pour vous faire ? Pouvez-vous voir toutes les inventions dont la machine de l’homme est composée, sans admirer de quelle façon cela est agencé l’un dans l’autre ? Ces nerfs, ces os, ces veines, ces artères, ce poumon, ce cœur, ce foie, et tous ces autres ingrédients qui sont là et qui… »</p>
         </quote>
-        <p>La tirade est interrompue comiquement par nécessité de comédie ; puis le sérieux reparaît, quand <hi rend="i">Sganarelle</hi> conclut : <quote>« Mon raisonnement est qu’il y a quelque chose d’admirable dans l’homme, quoi que vous puissiez dire, que tous les savants ne sauraient expliquer. Cela n’est-il pas merveilleux que me voilà ici et que j’aie quelque chose dans la tête qui pense cent choses différentes en un moment, et fait de mon corps tout ce qu’elle veut ? Je veux frapper des mains, hausser le bras, lever les yeux eu ciel, baisser la tête, remuer les pieds, aller à <pb n="219" xml:id="p219"/> droit, à gauche, en avant, en arrière, tourner…<note place="bottom"><hi rend="i">Le Festin de Pierre</hi>, act. III, sc. I.</note>. »</quote> Le comique reprend encore le dessus ; mais Fénelon a-t-il mieux dit<note place="bottom"><p><space rend="tab">    </space> Fénelon, <hi rend="i">Démonstration de l’Existence de Dieu</hi>, partie I, §§ IV, XXX-L. — On ne peut s’empêcher de rire du prétendu <hi rend="i">épicurisme</hi> de Molière fondé sur l’<hi rend="i">épicurisme</hi> de son maître Gassendi, quand on voit que ces preuves de l’existence de Dieu tirées de l’existence des êtres contingents, de l’ordre de l’univers, et de la nature de l’homme, sont traduites du <hi rend="i">Syntagma philosophicum</hi> : <quote>« Quid memorem tam mirabilem fabricam contexturamque corporis, tam eminenteis facultates quas observamus in anima ? »</quote> (Gassendi, <hi rend="i">Syntagma philosophicum, Physicœ</hi> sectio 1, lib. IV, cap. 7. Ed. Florence, tome I, p. 288, col. 2). <quote>« Intueris hominis corpus, in quo pedes, oculi, manus, in quo cor, pulmo, cerebrum, jecur, in quo ossa, musculi, venæ, in quo renes, vesica, alvus, in quo cætera omnia neque exquisitius formari, neque congruentius collocari, neque utilius destinari, neque speciosius exornari, quacumque tandem arte potuissent, causam illius reputas cæcam expertemque consilii ? »</quote> (<hi rend="i">Syntagma philosophicum, Physicœ</hi> sectio III, membrum II, lib. II, cap. 3, <hi rend="i">De usu partium in animalibus.</hi> Ed. Florence, tome II, p. 203, col. 2). La première édition des <hi rend="i">Œuvres</hi> de Gassendi est de 1658, et <hi rend="i">le Festin de Pierre</hi> de 1665. Voir d’ailleurs plus haut, chap. I, page 17, note 2 ; et plus loin, page 235.</p><p rend="notedefin"><hi rend="i">N. B.</hi> Il est regrettable de ne trouver dans le <hi rend="i">Lexique comparé de la langue de Molière</hi> de F. Génin, ni<quote> « <hi rend="i">quelque chose</hi> qui fait de mon corps tout ce qu’elle veut, »</quote> ni <quote>« à <hi rend="i">droit.</hi> » </quote>L’expression de <hi rend="i">quelque chose</hi> ne devenait alors neutre que <quote>« selon la signification. »</quote> (Vaugelas, <hi rend="i">Remarques sur la langue françoise</hi> (Lyon, 1677), art. <hi rend="i">Quelque chose.)</hi></p></note> ?</p>
+        <p>La tirade est interrompue comiquement par nécessité de comédie ; puis le sérieux reparaît, quand <hi rend="i">Sganarelle</hi> conclut : <quote>« Mon raisonnement est qu’il y a quelque chose d’admirable dans l’homme, quoi que vous puissiez dire, que tous les savants ne sauraient expliquer. Cela n’est-il pas merveilleux que me voilà ici et que j’aie quelque chose dans la tête qui pense cent choses différentes en un moment, et fait de mon corps tout ce qu’elle veut ? Je veux frapper des mains, hausser le bras, lever les yeux eu ciel, baisser la tête, remuer les pieds, aller à <pb n="219" xml:id="p219"/> droit, à gauche, en avant, en arrière, tourner…<note place="bottom"><hi rend="i">Le Festin de Pierre</hi>, act. III, sc. I.</note>. »</quote> Le comique reprend encore le dessus ; mais Fénelon a-t-il mieux dit<note place="bottom"><p><space rend="tab">    </space> Fénelon, <hi rend="i">Démonstration de l’Existence de Dieu</hi>, partie I, §§ IV, XXX-L. — On ne peut s’empêcher de rire du prétendu <hi rend="i">épicurisme</hi> de Molière fondé sur l’<hi rend="i">épicurisme</hi> de son maître Gassendi, quand on voit que ces preuves de l’existence de Dieu tirées de l’existence des êtres contingents, de l’ordre de l’univers, et de la nature de l’homme, sont traduites du <hi rend="i">Syntagma philosophicum</hi> : <quote>« Quid memorem tam mirabilem fabricam contexturamque corporis, tam eminenteis facultates quas observamus in anima ? »</quote> (Gassendi, <hi rend="i">Syntagma philosophicum, Physicœ</hi> sectio 1, lib. IV, cap. 7. Ed. Florence, tome I, p. 288, col. 2). <quote>« Intueris hominis corpus, in quo pedes, oculi, manus, in quo cor, pulmo, cerebrum, jecur, in quo ossa, musculi, venæ, in quo renes, vesica, alvus, in quo cætera omnia neque exquisitius formari, neque congruentius collocari, neque utilius destinari, neque speciosius exornari, quacumque tandem arte potuissent, causam illius reputas cæcam expertemque consilii ? »</quote> (<hi rend="i">Syntagma philosophicum, Physicœ</hi> sectio III, membrum II, lib. II, cap. 3, <hi rend="i">De usu partium in animalibus.</hi> Ed. Florence, tome II, p. 203, col. 2). La première édition des <hi rend="i">Œuvres</hi> de Gassendi est de 1658, et <hi rend="i">le Festin de Pierre</hi> de 1665. Voir d’ailleurs plus haut, chap. I, page 17, note 2 ; et plus loin, page 235.</p>
+          <note><hi rend="i">N. B.</hi> Il est regrettable de ne trouver dans le <hi rend="i">Lexique comparé de la langue de Molière</hi> de F. Génin, ni<quote> « <hi rend="i">quelque chose</hi> qui fait de mon corps tout ce qu’elle veut, »</quote> ni <quote>« à <hi rend="i">droit.</hi> » </quote>L’expression de <hi rend="i">quelque chose</hi> ne devenait alors neutre que <quote>« selon la signification. »</quote> (Vaugelas, <hi rend="i">Remarques sur la langue françoise</hi> (Lyon, 1677), art. <hi rend="i">Quelque chose.)</hi></note>
+        </note> ?</p>
         <p>Le désintéressement de l’amour de Dieu, qu’il faut aimer par-dessus toute chose<note place="bottom"><hi rend="i">Deut.</hi>, cap. VI, v. 5 : « Diliges Dominum Deum tuum ex toto corde tuo, et ex tota anima tua, et ex tota fortitudine tua. (Conf. Mattb., cap. XXII, v. 37 ; Marc., cap. XII, v. 30).</note>, est exprimé eu action par le <hi rend="i">Pauvre</hi> qui <quote>« prie le ciel tout le jour, et qui est bien mal reconnu de ses soins, dit <hi rend="i">don Juan</hi>, puisqu’il est dans la plus grande nécessité du monde, et que, le plus souvent, il n’a pas un morceau depain à mettre sous les dents. »</quote> Pourtant, <pb n="220" xml:id="p220"/> entre un <hi rend="i">louis d’or</hi> et un <hi rend="i">péché</hi>, il n’hésite pas ; et malgré le diable qui le tente et <hi rend="i">Sganarelle</hi> qui l’encourage,<quote> « il aime mieux mourir de faim<note place="bottom"><hi rend="i">Le Festin de Pierre</hi>, act. III, sc. II.</note>. »</quote></p>
         <p>L’amour du prochain, qu’il faut aimer comme soi-même pour l’amour de Dieu<note place="bottom"><quote>« Diliges proximum tuum sicut te ipsum. »</quote> Matth., cap. XXII, v. 39. (Conf. <hi rend="i">Lev.</hi>, cap. XIX, v. 18 ; Marc., cap. XII, v. 31.)</note>, quand a-t-il été pratiqué d’une manière plus touchante que par <hi rend="i">done Elvire</hi>, qui, trahie de la façon la plus injurieuse par un amant aimé, revient trouver ce <hi rend="i">scélérat</hi>, ce per<hi rend="i">fide</hi>, qu’elle a menacé de <quote>« la colère d’une femme offensée<note place="bottom"><hi rend="i">Le Festin de Pierre</hi>, act. I, sc. III.</note>, »</quote> pour adresser à ce <hi rend="i">cœur de tigre</hi> les paroles qui tirent des larmes à <hi rend="i">Sganarelle</hi> : « <quote> Je ne viens point ici pleine de ce courroux que j’ai tantôt fait éclater ; et vous me voyez bien changée de ce que j’étois ce matin. Ce n’est plus cette done Elvire qui faisoit des vœux contre vous, et dont l’âme irritée ne jetoit que menaces et ne respiroit que vengeance. Le ciel a banni de mon âme toutes ces indignes ardeurs que je sentois pour vous, tous ces transports tumultueux d’un attachement criminel..., et il n’a laissé dans mon cœur pour vous qu’une flamme épurée de tout le commerce des sens, une tendresse toute sainte, un amour détaché de tout, qui n’agit point pour soi, et ne se met en peine que de votre intérêt… Je vous ai aimé avec une tendresse extrême ; rien au monde ne m’a été aussi cher que vous ; j’ai oublié mon devoir pour vous, j’ai fait <pb n="221" xml:id="p221"/> toutes choses pour vous ; et toute la récompense que je vous en demande, c’est de corriger votre vie et de prévenir votre perte. Sauvez-vous, je vous prie, ou pour l’amour de vous, ou pour l’amour de moi. Encore une fois, je vous le demande avec larmes ; et si ce n’est assez des larmes d’une personne que vous avez aimée, je vous en conjure par tout ce qui est le plus capable de vous toucher<note place="bottom"><hi rend="i">Le Festin de Pierre</hi>, act. IV, sc. IX.</note>. »</quote></p>
         <p>Quelle abnégation, dans la bouche d’une amante insultée et remplacée ! Voilà la <hi rend="i">charité chrétienne</hi>, bien différente de cette philanthropie ou de cette <hi rend="i">humanité</hi> au nom de laquelle <hi rend="i">don Juan</hi> fait l’aumône d’une pièce d’or, mais qui est entachée d’un vice irrémédiable, l’orgueil<note place="bottom"><quote>« A propos de ce mot <hi rend="i">humanité</hi>, qui n’était point d‘un usage populaire du temps où fut jouée cette pièce, Aimé Martin remarque justement que Molière, en l’employant, semble pressentir et critiquer à l’avance l’abus qu’en feront au commencement du siècle suivant les esprits forts, et à la fin de ce même siècle les scélérats qui ont fait de la guillotine l’instrument de leur politique. »</quote><hi rend="i">Œuvres complètes de Molière, édition variorum</hi> de Ch. Louandre, Paris, 1864, tome II, p. 98.</note>. Voilà le pardon des injures, le pardon <hi rend="i">chrétien</hi>, qui inspire <hi rend="i">Cléante</hi> quand <hi rend="i">Orgon</hi> s’élance sur <hi rend="i">Tartuffe</hi> vaincu, en criant :</p>
-        <quote rend="border">
+        <quote>
           <l>Hé bien ! te voilà, traître...</l>
           <label>CLÉANTE.</label>
           <l>Ah ! mon frère, arrêtez,</l>
@@ -1453,7 +1470,7 @@
         <p>Le philosophe regarde les tartuffes comme des monstres qui insultent à la fois la dignité humaine et la grandeur de Dieu ; à leur vue, le chrétien ne peut s’empêcher de penser à la parole divine : <quote>« Prenez garde de faire vos bonnes œuvres devant les homme</quote>s <pb n="227" xml:id="p227"/> p<quote>our être vus d’eux ; autrement vous n’aurez point de récompense chez votre Père qui est dans les deux. Quand donc vous faites l’aumône, ne faites pas sonner la trompette devant vous, comme les hypocrites font dans les synagogues et dans les places, pour être honorés des hommes : je vous dis en vérité qu’ils ont reçu leur récompense. Et quand vous priez, ne soyez point comme les hypocrites, qui aiment à se tenir dans les synagogues et dans les coins des places pour être vus des hommes : car je vous dis en vérité qu’ils ont reçu leur récompense. Et quand vous jeûnez, ne faites pas comme les hypocrites à l’air triste, qui s’abîment le visage pour que, les hommes voient qu’ils jeûnent ; car je vous dis en vérité, ils ont reçu leur récompense<note place="bottom">Matth., cap. VI, v. 1, 2, 5, 16.</note>. »</quote></p>
         <p/>
         <p>L’idée haute que Molière avait de la religion, le respect qu’elle lui inspirait<note place="bottom">Il résulte de la <hi rend="i">Requête</hi> à <hi rend="i">l’Archevêque de Paris</hi>, faite par sa veuve pour obtenir la sépulture chrétienne, que Molière avait des habitudes religieuses (voir J. Taschereau, <hi rend="i">Histoire de la vie et des ouvrages de Molière</hi>, liv. IV, note 1) :<quote> « … Attendu que ledit défunct a demandé auparavant que de mourir un prestre pour estre confessé, qu’il est mort dans le sentiment d’un bon chrestien..., et que M. Bernard, prestre habitué en l’église Sainct-Germain, lui a administré les sacrements à Pasque dernier… »</quote></note>, expliquent cette vigueur d’indignation contre les hypocrites et les prudes<note place="bottom">Voir plus haut, chap. VI ; p. 115.</note>. Les mêmes sentiments expliquent ses railleries contre les superstitions dont le mélange fâcheux déshonore la religion, railleries qui ne <pb n="228" xml:id="p228"/> furent point comprises d’abord et le firent accuser d’irréligion, si bien qu’il fut obligé de supprimer ce curieux passage du <hi rend="i">Festin de Pierre</hi> :</p>
-        <quote rend="border">
+        <quote>
           <label>SGANARELLE</label>
           <p>Voilà un homme que j’aurai bien de la peine à convertir. Et dites-moi un peu, <hi rend="i">le moine-bourru, qu’en croyez-vous, eh</hi> ?</p>
           <label>DON JUAN</label>
