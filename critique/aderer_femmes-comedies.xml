@@ -1,64 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://svn.code.sf.net/p/algone/code/teibook/teibook.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
-<!-- ? type="text/xsl" href="../teipub/xsl/tei2html.xsl" ? -->
-<!--odt2tei: 2015-04-10T13:44:39+02:00-->
+<?xml-model href="../../teibook/teibook.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../teipub/xsl/tei2html.xsl"?>
+<!--odt2tei: 2015-03-17T11:09:17+01:00-->
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="">
   <teiHeader>
     <fileDesc>
-      <titleStmt/>
-      <editionStmt/>
+      <titleStmt>
+      <title>Conférences de l'hôtel de ville de versailles 1864-1865 Les Femmes dans la comédie de Molière Deux conférences</title>
+        <author key="Aderer, Adolphe (1832-1886)">Adolphe Aderer</author>
+      </titleStmt>
+     <editionStmt>
+        <edition>OBVIL</edition>
+       <respStmt>
+         <name>Céline Grihard</name>
+         <resp>OCR et stylage</resp>
+       </respStmt>
+       <respStmt>
+         <name>Oriane Morvan</name>
+         <resp>Structuration et encodage TEI</resp>
+       </respStmt>
+     </editionStmt>
       <publicationStmt>
-        <availability status="restricted"/>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <!--
+            <idno>http://obvil.paris-sorbonne.fr</idno>
+            -->
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+          </licence>
+        </availability>
       </publicationStmt>
-      <sourceDesc/>
+      <sourceDesc>
+        <bibl>
+          <author>Par M. A. Aderer, Professeur de rhétorique au lycée impérial de Versailles, </author>
+          <title>Conférences de l'hôtel de ville de versailles 1864-1865, Les Femmes dans la comédie de Molière, Deux conférences, </title>
+          <pubPlace>Saint-Cloud, </pubPlace>
+          <publisher>Imprimerie de Madame veuve BELIN, </publisher>
+          <date>1865</date>
+        </bibl>
+      </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <creation/>
+      <creation>
+        <date when="1865"/>
+      </creation>
       <langUsage>
-        <language ident=""/>
+        <language ident="fr"/>
       </langUsage>
     </profileDesc>
   </teiHeader>
   <text>
     <body>
-      <div type="textbody">
-        <head>CONFÉRENCES</head>
-        <label rend="center">DE</label>
-        <label rend="center">L’HÔTEL DE VILLE DE VERSAILLES</label>
-        <label rend="center">1864-1865</label>
-        <label rend="center">LES FEMMES DANS LES COMÉDIES DE MOLIÈRE</label>
-      </div>
-      <div type="textbody">
-        <head>DEUX CONFÉRENCES</head>
-      </div>
-      <div type="textbody">
-        <head>PAR M. A. ADERER</head>
-      </div>
-      <div type="textbody">
-        <head>Professeur de rhétorique au lycée impérial de Versailles.</head>
-        <label rend="center"/>
-        <label rend="center"/>
-        <label rend="center"/>
-        <label rend="center"/>
-        <label rend="center"/>
-        <label rend="center"/>
-        <label rend="center"/>
-        <label rend="center"/>
-        <label rend="center"/>
-        <label rend="center"/>
-        <label rend="center"/>
-        <label rend="center"/>
-        <label rend="center"/>
-        <label rend="center"/>
-        <label rend="center"/>
-        <label rend="center"/>
-        <label rend="center"/>
-      </div>
-      <div type="textbody">
-        <head>SAINT-CLOUD</head>
-        <label rend="center">IMPRIMERIE DE MADAME VEUVE BELIN </label>
-        <label rend="center">1865</label>
-      </div>
+      <head>Les Femmes dans la comédie de Molière</head>
       <div>
         <head>Première conférence
 <lb/>La femme niaise, la femme savante, la femme coquette.<pb n="5" xml:id="p5"/></head>
@@ -276,7 +275,7 @@
         <p>L’amour d’Alceste ne saurait lui suffire. Sans doute il est difficile pour une femme accoutumée aux douceurs élégantes de la société, d’y renoncer tout à coup. M<hi rend="sup">me</hi> de Staël, sur les bords du lac de Genève, regrettait son ruisseau de la rue du Bac, et écrivait cette phrase caractéristique : <quote>« Nous sommes avides d’anecdotes, même en présence du mont Blanc. »<note place="bottom">Lettre de madame de Staël publiée pour la première fois par M. le baron de Gérando, <hi rend="i">Mémoires de l’Académie impériale de Metz</hi>, année 1864.</note></quote> Mais ce qui explique surtout le refus de Célimène, c’est le manque de cœur. Une femme honnête cherche une âme qui la comprenne, un mari qu’elle aime et auquel elle s’attache toute. Une coquette n’est guidée que par la vanité. <pb n="32" xml:id="p32"/></p>
         <p>Si elle éprouvait un sentiment vrai, elle ne serait plus coquette, car l’amour est exclusif. Elle n’aurait plus assez de présence d’esprit pour diriger et tenir en harmonie cette foule de rivaux intéressés à se supplanter. Ils fuiraient bientôt, avertis par un geste, par un sourire, par une rougeur, par un rien, de la préférence qu’elle accorde à l’un d’eux. Il ne faut donc pas espérer d’elle un sentiment qui la corrigerait, si elle pouvait l’éprouver. Ainsi de la beauté, de l’éclat, de l’esprit, de la ruse, tout ce qu’il y a de plus séduisant au dehors ; et au dedans, un cœur sec ; voilà la coquette, voilà Célimène. On dirait de ces fruits que certains voyageurs prétendent avoir rencontrés dans le désert, qui se parent des plus brillantes couleurs, et ne laissent dans la bouche que cendre et amertume. Je ne suis pas sûr que de tels fruits existent, mais ce qui est certainement moins rare, ce sont les coquettes. Que Dieu donc nous préserve des Célimènes ! <pb n="33" xml:id="p33"/></p>
       </div>
-      <div xml:id="_GoBack">
+      <div>
         <head>Deuxième conférence.
 <lb/>La femme parfaite.</head>
         <p>Mesdames, Messieurs,</p>
@@ -304,7 +303,7 @@
         <p>Nous associerons-nous à ces désespoirs comiques ? Hélas ! Il n’est rien de parfait ici-bas, pas même la <pb n="35" xml:id="p35"/> femme ; c’est beaucoup lorsqu’un être créé fait luire à nos yeux quelques rayons affaiblis de la vraie perfection et de l’éternelle beauté. Nous-mêmes que le désir et l’amour de la perfection anime et transporte, nous l’entendons de cent façons différentes. Les nègres ne trouvent-ils pas leurs femmes fort belles ? Au jugement du Fagotier que le bâton vient de transformer en médecin, l’idéal de la femme, c’est d’être muette. <quote>« Qui est, s’écrie-t-il, ce sot-là qui ne veut pas que sa femme soit muette<note place="bottom"><hi rend="i">Médecin malgré lui</hi>, II, 6.</note>. »</quote> Sganarelle s’en fait une autre idée ; « j’entends », dit-il,</p>
         <quote>
           <l>... J’entends que la mienne</l>
-          <l><hi rend="sup">Vive à ma fantaisie et non pas à la sienn</hi>e ;</l>
+          <l>Vive à ma fantaisie et non pas à la sienne ;</l>
           <l>Que d’une serge honnête elle ait son vêtement,</l>
           <l>Et ne porte le noir qu’aux bons jours seulement ;</l>
           <l>Qu’enfermée au logis en personne bien sage</l>
@@ -482,131 +481,6 @@
         <p>Toutefois, dans ces conditions même, que notre jeune homme n’espère pas trouver dans le mariage un bonheur parfait. Les romans leurrent dangereusement les imaginations inexpérimentées, lorsqu’ils représentent le mariage comme l’état qui réalise tout ce que l’amour a rêvé. C’est un état où le sérieux des devoirs à remplir est tempéré par de douces jouissances ; mais le plaisir ni même le bonheur ne sont ici le principal, ce n’est que l’assaisonnement. Il en est du mariage, comme de toutes les conditions humaines, comme de la vie prise dans son ensemble. <quote>« La vie, a dit M. de Tocqueville, la vie n’est ni un plaisir ni un supplice, c’est une affaire grave dont nous sommes chargés, et qu’il faut terminer à notre honneur. »</quote> Dieu, en nous imposant des devoirs, y attache certains plaisirs qui en rendent l’accomplissement plus facile ; et le bonheur qu’il nous accorde <pb n="58" xml:id="p58"/> en échange n’est destiné qu’à nous en faire souhaiter un plus complet.</p>
         <p>Voilà ce qu’il est permis de chercher dans le mariage ; promettre ou espérer davantage, c’est préparer à soi-même ou aux autres de dangereuses déceptions.</p>
         <p>Je vous demande pardon, Messieurs, de terminer cette étude par des paroles si austères, quand je ne devrais songer qu’à vous remercier de votre sympathique attention. J’en reporte tout l’honneur à Molière dont le nom vous a attirés ici ; j’étais sûr de trouver un écho dans vos cœurs en parlant de ce grand homme. La vérité partage avec le génie le privilège de ne vieillir jamais : aussi sa gloire populaire se rajeunit-elle avec les années. Permettez-moi d’espérer que notre commune admiration pour ce rare et sublime esprit a établi entre nous un lien solide. J’étais étranger dans cette ville ; votre bienveillance m’a fait en quelque sorte votre concitoyen.</p>
-        <p/>
-        <table>
-          <row>
-            <cell/>
-            <cell/>
-          </row>
-          <row>
-            <cell/>
-            <cell/>
-          </row>
-          <row>
-            <cell/>
-            <cell/>
-          </row>
-          <row>
-            <cell/>
-            <cell/>
-          </row>
-          <row>
-            <cell/>
-            <cell/>
-          </row>
-          <row>
-            <cell/>
-            <cell/>
-          </row>
-          <row>
-            <cell/>
-            <cell/>
-          </row>
-          <row>
-            <cell/>
-            <cell/>
-          </row>
-          <row>
-            <cell/>
-            <cell/>
-          </row>
-          <row>
-            <cell/>
-            <cell/>
-          </row>
-          <row>
-            <cell/>
-            <cell/>
-          </row>
-          <row>
-            <cell/>
-            <cell/>
-          </row>
-          <row>
-            <cell/>
-            <cell/>
-          </row>
-          <row>
-            <cell/>
-            <cell/>
-          </row>
-          <row>
-            <cell/>
-            <cell/>
-          </row>
-          <row>
-            <cell/>
-            <cell/>
-          </row>
-          <row>
-            <cell/>
-            <cell/>
-          </row>
-          <row>
-            <cell/>
-            <cell/>
-          </row>
-          <row>
-            <cell/>
-            <cell/>
-          </row>
-          <row>
-            <cell/>
-            <cell/>
-          </row>
-          <row>
-            <cell/>
-            <cell/>
-          </row>
-          <row>
-            <cell/>
-            <cell/>
-          </row>
-          <row>
-            <cell/>
-            <cell/>
-          </row>
-          <row>
-            <cell/>
-            <cell/>
-          </row>
-          <row>
-            <cell/>
-            <cell/>
-          </row>
-          <row>
-            <cell/>
-            <cell/>
-          </row>
-          <row>
-            <cell/>
-            <cell/>
-          </row>
-          <row>
-            <cell/>
-            <cell/>
-          </row>
-          <row>
-            <cell/>
-            <cell/>
-          </row>
-          <row>
-            <cell/>
-            <cell/>
-          </row>
-        </table>
-        <p/>
-        <p/>
       </div>
     </body>
   </text>
