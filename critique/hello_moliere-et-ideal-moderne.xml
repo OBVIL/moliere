@@ -48,6 +48,8 @@
   </teiHeader>
   <text>
     <body>
+      <div>
+        <head>Molière et l'idéal moderne</head>
       <p><pb n="230" xml:id="p230"/><pb/>J’assistais, il y a quelque temps, au Théâtre-Français, à une représentation du <hi rend="i">Dépit amoureux</hi>. Cette comédie, me disais-je, est bien tragique. Quels sanglots sous ce rire ! Dans la grande scène de rupture et de réconciliation, vous vous demandez si c’est votre propre secret que Molière a surpris, s’il vous aurait un jour écouté derrière une porte et regardé par le trou d’une serrure. En face de ce portrait impitoyable, le spectateur se trouve eu cause ; il croit que les regards de tous vont se fixer sur lui, comme si l’auteur le dénonçait. Et cependant, si je reconnaissais là un côté de moi-même, je ne me reconnaissais pas tout entier, je n’étais pas enveloppé dans l’œuvre de Molière.</p>
       <p>Voici à peu près ce que je me disais au fond de ma loge :</p>
       <p>Nous avons fait des progrès. Écoutez Alceste, George Dandin, Arnolphe, tous ces représentants de l’amour au dix-septième siècle, qu’aiment-ils dans Célimène, Agnès, etc., etc. ? une femme. — Écoutez maintenant Faust, Lara, qu’aiment-ils dans celle qu’ils aiment ? un ange.</p>
@@ -127,6 +129,7 @@
       </quote>
       <p>De grands coupables ont égaré nos aspirations. Notre siècle a de l’idéal, il a deviné que l’homme a quelque chose en lui de plus profond que les passions : c’est la passion. Cette soif de bonheur qui nous dévore, nous révèle, avec la profondeur de nos besoins, la hauteur de notre origine. Le bonheur, voilà la passion de l’homme. Son devoir est de s’estimer trop grand pour se contenter de ce qui n’est pas infini ; son devoir est d’être heureux. Mais si le bonheur est une passion, il est aussi et surtout une action. L’âme humaine est une substance et une force ; cette force est active, et les passions en sont les défaillances. Jusqu’ici la littérature s’est attachée à l’étude des accidents, sans regarder le fonds commun qui les supporte, — au détail des maladies, sans étudier le malade lui-même, l’homme. N’ayant pas pénétré dans l’intime de nos souffrances, elle n’aperçoit pas le remède dont le secret est toujours caché dans la cause du mal. Sa médecine est une médecine de symptômes, c’est celle de Dorine qui réconcilie les deux amants, sans soupçonner le motif de leur querelle, aussi profond en réalité qu’il est vain en apparence. L’art ne s’est pas placé assez haut pour embrasser l’horizon d’un coup d’œil, et, quand il a essayé de gravir la montagne, le vertige l’a pris, parce que le point d’appui lui manquait. Il trouvera à la fois l’immense et le vrai, le grandiose et le simple, le jour où il s’adressera à la vérité absolue qui lève et qui résout toute contradiction, — à la solution universelle de tous les problèmes, le jour où il touchera le centre de perspective d’où toute chose est vue à sa vraie place, le cœur de la science et le cœur de la vie. L’art, comme l’homme, étouffe si l’espace lui est interdit. Comme l’homme, il s’égare si l’espace lui est ouvert sans guide.</p>
       <signed><hi rend="sc">Ernest Hello</hi>.</signed>
+      </div>
     </body>
   </text>
 </TEI>
