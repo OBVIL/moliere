@@ -7,7 +7,7 @@
     <fileDesc>
       <titleStmt>
         <title>Introduction aux œuvres de Molière</title>
-        <author key="Auger, Louis-Simon (1772-1829)">Louis Simon Auger</author>
+        <author key="Auger, Louis-Simon (1772-1829)">Louis-Simon Auger</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
@@ -37,7 +37,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><author>Louis Simon Auger</author>, <title>« Avertissement, Discours préliminaire et Vie de Molière »</title>, in <hi rend="i">Œuvres de Molière</hi>, tome I, <pubPlace>Paris</pubPlace>, <publisher>Th. Desoer</publisher>, <date>1819</date>, p. V-CLXIX.</bibl>
+        <bibl><author>Louis-Simon Auger</author>, <title>« Avertissement, Discours préliminaire et Vie de Molière »</title>, in <hi rend="i">Œuvres de Molière</hi>, tome I, <pubPlace>Paris</pubPlace>, <publisher>Th. Desoer</publisher>, <date>1819</date>, p. V-CLXIX.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
