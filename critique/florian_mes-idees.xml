@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://svn.code.sf.net/p/algone/code/teibook/teibook.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!-- <?xml-stylesheet type="text/xsl" href="../../teipub/xsl/tei2html.xsl"?> -->
+<!--odt2tei: 2015-06-23T14:14:25+02:00-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Nouveaux mélanges de poésie et de littérature</title>
+        <author>Florian</author>
+        <editor>Claire Bégards (moi)</editor>
+      </titleStmt>
+      <editionStmt>
+        <respStmt>
+          <name>Claire Bégards </name>
+          <resp>Stylage sémantique </resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date>2014</date>
+        <idno>
+          <hi rend="color_FF0000">http ://obvil.paris-sorbonne.fr/corpus/moliere/critique/florian_mes-idees/</hi>
+        </idno>
+        <availability status="restricted"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Florian, <hi rend="i">Nouveaux mélanges de poésie et de littérature</hi>, 1820, p. 134 - 160.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1920"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p/>
+      <head>MES IDÉES SUR NOS AUTEURS COMIQUES<note place="bottom">Un premier titre, écrit aussi de la main de Florian, est ainsi conçu : <hi rend="i">Idées sur nos meilleurs comiques.</hi></note>.</head>
+      <div>
+        <head>MOLIÈRE.</head>
+        <div>
+          <head>L’ÉTOURDI.</head>
+          <p>Modèle de ruses, de contre-ruses, d’intrigue, de comique. Imitez Mascarille, si vous voulez faire un de ces valets rusés qui mènent tout.</p>
+        </div>
+        <div>
+          <head>LE DÉPIT AMOUREUX.</head>
+          <p>Métaphraste et Albert ont une scène, la septième du second acte, de bavardage de la part de l’un, d’impatience de la part de l’autre, qui est très comique. Polidore et Albert, craignant de s’annoncer tous deux une mauvaise nouvelle, et se demandant réciproquement pardon, dans la scène quatre du troisième acte ; Eraste et Lucile se brouillant et se raccommodant, scène sublime, la troisième du <pb n="135" xml:id="p135"/>quatrième acte ; parodie charmante par le valet et la soubrette.</p>
+        </div>
+        <div>
+          <head>LES PRÉCIEUSES.</head>
+          <p>La scène de Mascarille et celle de Jodelet sont les modèles de toutes les scènes où les valets sont déguisés en maîtres et font les ridicules.</p>
+        </div>
+        <div>
+          <head>LE COCU IMAGINAIRE.</head>
+          <p>Pièce peu digne de Molière. La scène dixième du deuxième acte, où Cécile se plaint de son propre malheur, tandis que Sganarelle croit que c’est au sien qu’elle s’intéresse, est plaisante.</p>
+        </div>
+        <div>
+          <head>DON GARCIE DE NAVARRE.</head>
+          <p>Le caractère de don Garcie, ou du jaloux, est le seul digne d’être étudié. La scène de la lettre, la cinquième du premier acte ; celle du billet déchiré, la cinquième du deuxième acte ; la huitième du quatrième acte, superbe depuis le commencement jusqu’à la fin, et modèle des scènes de jalousie : voilà les seules beautés de la pièce.</p>
+        </div>
+        <div>
+          <head>L’ÉCOLE DES MARIS.</head>
+          <p>Chef-d’œuvre de conduite comique, de morale et de diction ; tout en est à étudier. <pb n="136" xml:id="p136"/>La première scène du premier acte, où les deux caractères, principaux s’exposent : la cinquième du premier acte, où Valère veut faire parler Sganarelle et se lier avec lui malgré lui. L’acte deux est tout entier sublime. Sganarelle, qui va porter à Valère la déclaration d’amour, ensuite le billet, ensuite le conseil d’enlever Isabelle ; la scène quatorzième de ce deuxième acte, dans laquelle Sganarelle mène Valère devant Isabelle qui s’explique en sa présence sur ses véritables sentiments, et le trompe sous ses propres jeux ; l’acte qui finit par le dessein d ‘épouser le lendemain Isabelle, ce qui rompt tout ce qu’elle a fait, et oblige de recommencer la pièce au troisième acte, où le jaloux va lui-même chercher le notaire pour les unir ; la scène sixième où il sermonne Artiste ; enfin le dénouement qui est superbe, qui se tait par les soins du jaloux, qui satisfait tout le monde. Il faut lire cent fois cette pièce et l’admirer chaque fois davantage.</p>
+        </div>
+        <div>
+          <head>LES FÂCHEUX.</head>
+          <p>Pièce à tiroir. Son valet est le premier fâcheux. La scène cinquième du premier acte du seigneur qui a fait une courante ; la deuxième du deuxième acte du joueur, la septième du deuxième acte du chasseur, la deuxième du <pb n="137" xml:id="p137"/> troisième acte du savant grec, la troisième du troisième acte de l’homme qui veut mettra la France en ports de mer : voilà les beautés de cet ouvrage.</p>
+        </div>
+        <div>
+          <head>L’ÉCOLE DES FEMMES.</head>
+          <p>Chef-d’œuvre de comique. Les trois premiers actes me semblent infiniment supérieurs aux deux autres. La première scène du premier acte, modèle d’exposition morale ; la sixième entre Horace et Arnolphe, modèle de récit et de comique. La scène sixième du deuxième acte, entre Arnolphe et Agnès, admirable pour la vérité, le plaisant et le contraste d’un vieillard jaloux et fin, et d’une jeune sotte qui lui dit tout ; la deuxième scène du troisième acte, entre Arnolphe et Agnès, où il lui explique les devoirs du mariage ; la quatrième du deuxième acte, où Horace lui confie la manière dont Agnès lui a fait parvenir sa lettre, sont des modèles de comique. La scène huit du quatrième acte,  d’Arnolphe et de Chrisalde, sur le cocuage, est d’une philosophie admirable ; la scène quatrième du cinquième acte, où Arnolphe cherche ridiculement à plaire à cette Agnès, contre laquelle il est furieux ; enfin toute la pièce, hors le <pb n="138" xml:id="p138"/> dénoument et quelques expressions basses, est sublime.</p>
+        </div>
+        <div>
+          <head>LA CRITIQUE DE L’ÉCOLE DES FEMMES.</head>
+          <p>Petite pièce qui n’est intéressante que pour les adorateurs de Molière. La scène septième, où le poète, le marquis et la prude font leurs remarques sur l’École des femmes, est pleine de vérité et de comique.</p>
+        </div>
+        <div>
+          <head>L’IMPROMPTU DE VERSAILLES.</head>
+          <p>Ce n’est point une comédie, mais une satire peu piquante, à présent que personne ne sait les noms des détracteurs de Molière.</p>
+        </div>
+        <div>
+          <head>LA PRINCESSE D’ÉLIDE.</head>
+          <p>Le prologue de Lysiscas endormi, que l’on réveille, et qui se rendort toujours en parlant, me paraît la scène la plus plaisante de là pièce ; la première scène du quatrième acte, dans laquelle Euriale et la princesse se trompent tous les deux par amour, et veulent se persuader qu’ils sont insensibles, est la seule jolie de la pièce.</p>
+        </div>
+        <div>
+          <head>LE MARIAGE FORCÉ.</head>
+          <p>Farce charmante et morale ; la première scène de Sganarelle et de Géronimo, où le premier demande conseil pour se marier, est pleine de comique et de raison. La scène <pb n="139" xml:id="p139"/> sixième du bavard Pancrace et de Sganarelle est charmante ; la huitième avec le pyrrhonien Marphurius est aussi jolie ; la seizième, où Alcidas veut que Sganarelle se batte ou se marie, est un modèle de bon comique. Voilà tout ce qu’il y a à remarquer dans cette pièce.</p>
+        </div>
+        <div>
+          <head>LE FESTIN DE PIERRE.</head>
+          <p>Cette pièce, dont le titre n’a pas de sens, étincelle de bon comique. Quoique Thomas Corneille l’ait mise en vers, et ait ajouté plusieurs bonnes plaisanteries dans la première scène de Charlotte et de Pierrot au deuxième acte ; malgré la scène de Léonor et de sa tante avec don Juan au troisième, et celle de la même Léonor et de sa nourrice au cinquième, qui prépare le dénouement, ajoutées par Corneille, je préfère encore la pièce en prose, telle que Molière l’a faite ; l’exposition en est charmante. La deuxième scène, où don Juan développe son caractère, est un modèle ; la première scène du deuxième acte entre Pierrot et Charlotte ; la cinquième du même acte, où don Juan trompe à la fois les deux paysannes, sont des chefs-d’œuvre de comique. Le troisième acte est tout espagnol. La scène troisième du quatrième acte, entre M. Dimanche et don Juan, est un modèle de vérité et <pb n="140" xml:id="p140"/> d’excellent comique. La scène deuxième du cinquième acte, où don Juan parle de l’hypocrisie, et la troisième, où il refuse à don Carlos d’épouser sa sœur, par scrupule (scène que Corneille n’aurait pas dû mettre de côte), achèvent de rendre don Juan odieux, et rendent le dénouement moins inconcevable en le faisant souhaiter davantage.</p>
+        </div>
+        <div>
+          <head>L’AMOUR MÉDECIN.</head>
+          <p>Jolie farce. La première scène du premier acte, dans laquelle Sganarelle demande des conseils à trois personnes, qui chacune lui en donnent un intéressé, est un modèle de, vérité ; la troisième du même acte, où Lucinde, sollicitée par son père de lui dire son chagrin, le lui apprend, Sganarelle ne l’écoutant plus, est un modèle de comique. La scène troisième du deuxième acte, dans laquelle les médecins, assemblés pour consulter, parlent de leur mule et de leurs chevaux ; la sixième du troisième acte, dans laquelle Clitandre joue le rôle de médecin, et épouse Lucinde, sont des scènes charmantes et à consulter.</p>
+        </div>
+        <div>
+          <head>LE MISANTHROPE.</head>
+          <p>Ce chef-d’œuvre du monde mérite d’être appris par cœur avant que d’être examiné. La première scène du premier acte, où Alceste <pb n="141" xml:id="p141"/> développe son caractère avec son ami, qui en a un totalement opposé ; la deuxième, où Oronte lui vient lire un sonnet, sont d’un excellent comique et d’une vérité sublime. La première scène du deuxième acte, où Alceste est en opposition avec la coquette Célimène ; la cinquième, où tous ces marquis,et Célimène surtout, médisent de toute la terre devant le misanthrope, sont superbes. La scène cinquième du troisième acte, dans laquelle la prude Arsinoé vient donner des avis à la coquette Célimène, qui les lui rend avec tout l’esprit imaginable ; la septième, dans laquelle Arsinoé allume la jalousie d’Alceste, après l’avoir loué malgré lui ; là scène troisième du quatrième acte, de fureur et de rage de la part d’Alceste, de finesse et de coquetterie de la part de Célimène, qui s’apaise tant qu’Alceste est en colère, qui se fâche dès qu’Alceste s’apaise ; la première scène du cinquième acte., où Alceste, après avoir perdu son procès, veut renoncer à la nature entière et s’enfuir dans les bois ; le dénouement enfin : voilà les beautés principales d’un ouvrage dans lequel il n’y a pas un vers qui n’ait rapport au caractère principal.</p>
+        </div>
+        <div>
+          <head>LE MÉDECIN MALGRÉ LUI.</head>
+          <p>Jolie farce, pleine de vérité. La première et<pb n="142" xml:id="p142"/> la deuxième scène du premier acte, dans lesquelles Sganarelle bat sa femme, le voisin Robert voulant l’en empêcher, et celui-ci étant battu par la femme et par le mari ; la scène sixième, où l’on fait dire à Sganarelle, à force de coups de bâton, qu’il est médecin ; la scène troisième du deuxième acte, dans laquelle Sganarelle fait le médecin ; la sixième, où il interroge la malade : voilà les plus jolies scènes de ce petit ouvrage, qui soutint le Misanthrope.</p>
+        </div>
+        <div>
+          <head>MÉLICERTE, PASTORALE.</head>
+          <p>Molière ne l’a pas achevée. La scène troisième du deuxième acte est jolie, et Mélicerte et Myrtil y parlent comme des bergers bien amoureux et bien naïfs.</p>
+        </div>
+        <div>
+          <head>L’AMOUR PEINTRE.</head>
+          <p>Petite pièce pleine de grâce et de galanterie : la scène onzième du portrait est charmante, et la suivante est d’un comique admirable : don Pèdre est un jaloux parfait ; Adraste un amant très aimable, et Hali un fourbe très comique.</p>
+        </div>
+        <div>
+          <head>LE TARTUFFE.</head>
+          <p>Tout est sublime dans ce chef-d’œuvre ; et le dénouement, que plusieurs personnes <pb n="143" xml:id="p143"/> n’approuvent pas, ne peut choquer, après cinq actes de beautés continues.</p>
+          <p>La première scène du premier acte, où la vieille mère Pernelle, en grondant toute sa famille, expose si plaisamment et la pièce et le caractère de chacun ; la cinquième, où Orgon s’informe de la santé de Tartufe, et oublie sa femme et ses enfants, malgré les railleries de Dorine ; la sixième sur les faux dévots entre Orgon et Cléante, scène admirablement écrite ; la quatrième du deuxième acte, où les amants se brouillent par un malentendu, et se raccommodent par les soins de Dorine ; la deuxième du troisième acte, où Tartufe s’annonce ; la troisième, où il fait sa déclaration à Elmire ; la sixième, où Orgon lui demande pardon à genoux pour son fils qui l’a accusé ; la cinquième du quatrième acte, où Orgon est sous la table, scène si singulière, si belle et si hardie : voilà les principales beautés d’un ouvrage que l’Europe admire avec raison.</p>
+        </div>
+        <div>
+          <head>AMPHITRYON.</head>
+          <p>Une des plus comiques pièces de Molière. Le premier monologue de Sosie, quoique très long ; la scène avec Mercure qui lui persuade qu’il est Sosie ; la scène première du deuxième acte entre Amphitryon et Sosie ; la deuxième<pb n="144" xml:id="p144"/> entre Alcmène et Amphitryon ; la troisième entre Cléanthis et Sosie, où il s’informe à son tour de ce qui s’est passé ; la deuxième du troisième acte, où Mercure se moque d’Amphitryon : voilà les scènes à étudier dans ce chef-d’œuvre de comique.</p>
+        </div>
+        <div>
+          <head>L’AVARE.</head>
+          <p>Encore un chef-d’œuvre. Le dénouement, que l’on blâme, était impossible autrement. Cette pièce vaut peut-être <hi rend="i">Le Tartuffe</hi> et <hi rend="i">Le Misanthrope</hi>. La scène troisième du premier acte entre l’avare et le valet qu’il fouille ; la cinquième entre l’avare, son fils et sa fille, quand ils veulent lui parler de leur mariage ; la septième, où l’avare prend l’amant de sa fille pour juge de son refus de se marier ; la scène sixième du deuxième acte, dans laquelle Frosine flatte l’avare ; la scène troisième du quatrième acte, où l’avare trompe son fils par une fausse confidence, la quatrième, où maître Jacques les raccommode si comiquement ; la deuxième du cinquième acte dans laquelle maître Jacques accuse l’intendant du vol de la cassette ; la troisième où Valère croit qu’on l’accuse d’avoir enlevé Elise, et le quiproquo de la cassette : voilà les beautés à étudier dans cette pièce.</p>
+        </div>
+        <div>
+          <head><pb n="145" xml:id="p145"/>GEORGE DANDIN.</head>
+          <p>Pièce très morale et très comique. La scène deuxième du premier acte, où Lubin fait confidence à George Dandin de son message pour sa femme ; la quatrième, où monsieur et madame de Sotenville font enrager leur gendre qui se plaint de leur fille ; la huitième, où George Dandin est obligé de demander pardon au galant de sa femme ; la scène septième du deuxième acte, où Lubin raconte de nouveau à George Dandin le rendez-vous de sa femme, et la dernière scène de la pièce, dans laquelle le malheureux mari est encore obligé de demander pardon à sa coquine de femme : voilà les scènes à étudier.</p>
+        </div>
+        <div>
+          <head>POURCEAUGNAC.</head>
+          <p>[Dans cette farce, comme dans toutes celles de Molière, il y a des scènes excellentes. La cinquième du premier acte, où Sbrigani prend le parti de Pourceaugnac ; la suivante, ou Éraste lui persuade qu’il connaît Limoges et toute sa famille ; la onzième, où Pourceaugnac est entre les deux médecins et ne sait ce qu’ils lui veulent : voilà, ce me semble, les seules beautés de cette pièce.</p>
+        </div>
+        <div>
+          <head><pb n="146" xml:id="p146"/> LES AMANTS MAGNIFIQUES.</head>
+          <p>Pièce de commande. La scène septième de la pastorale du troisième intermède est charmante : c’est une traduction d’Horace.</p>
+        </div>
+        <div>
+          <head>LE BOURGEOIS GENTILHOMME.</head>
+          <p>Chef-d’œuvre encore. La scène de M. Jourdain avec ses maîtres ; celle avec son maître de philosophie ; la troisième du troisième acte, où madame Jourdain et Nicole font la leçon à M. Jourdain ; la suivante, où Dorante vient lui emprunter de l’argent ; la dixième, où Lucile et Nicole courent après leurs amants et s’en font suivre à leur tour ; la douzième, où Cléonte demande Lucile, et est refusé parce qu’il n’est pas gentilhomme ; la dix-neuvième, où M. Jourdain reçoit Dorimène, et fait de l’esprit avec elle : voilà les beautés de cet ouvrage, dont le cinquième acte ne vaut pas les autres.</p>
+        </div>
+        <div>
+          <head>LES FOURBERIES DE SCAPIN.</head>
+          <p>Sans le troisième acte, cette farce charmante serait une excellente comédie. La première scène du premier acte est un modèle d’exposition ; la scène quatrième, où Scapin donne des conseils à Octave ; la sixième, où Scapin raconte à Argante l’histoire du mariage de son<pb n="147" xml:id="p147"/>fils ; dans le deuxième acte, la scène cinquième, où Scapin fait cette confession si plaisante ; la scène septième, où son maître a besoin de lui, et le supplie de lui pardonnes ; la huitième, où Scapin tire de l’argent d’Argante pour rompre le mariage de son fils, et où il lui détaille tout ce qu’il lui en coûtera pour plaider ; la onzième, où Scapin tire de l’argent de Géronte par le comité de la galère, sont à remarquer. Dans le troisième, la scène du sac me semble peu digne des autres, mais la suivante, la troisième, où Zerbinette raconte à Géronte sa propre histoire, et celles que j’ai indiquées : voilà les scènes que je trouve admirables dans cette pièce, dont le dénouement est à l’antique.</p>
+        </div>
+        <div>
+          <head>PSYCHÉ.</head>
+          <p>Cette pièce est du grand Corneille, de Molière, de Quinault et de Lulli. Jamais si faible enfant n’a eu des pères si forts. La scène troisième du troisième acte est charmante ; le style en est doux et pur : c’est le grand Corneille qui l’a faite. Psyché fait sa déclaration d’amour à l’Amour : c’est un modèle. Voilà tout ce qu’il y a dans la pièce.</p>
+        </div>
+        <div>
+          <head>LES FEMMES SAVANTES.</head>
+          <p>Chef-d’œuvre encore. La première scène du premier acte, où Armande et Henriette <pb n="148" xml:id="p148"/> exposent leurs différents caractères ; la deuxième, où Clitandre avoue à Armande qu’il ne l’aime plus ; la quatrième, où Bélise veut toujours voir une déclaration d’amour dans tout ce que lui dit Clitandre ; au deuxième acte, les scènes cinquième et sixième, où Martine est chassée, parce qu’elle a manqué à la grammaire ; la septième, où Chrisale se plaint aux femmes savantes et leur parle raison ; au troisième acte, les scènes 1, 2, 3, 4, 5, où Trissotin lit ses vers, où il se prend de querelle avec Vadius ; au cinquième acte, la scène première, où Henriette témoigne à Trissotin sa répugnance, et où celui-ci persiste ; la scène troisième, où le notaire ne sait auquel entendre, le père disant que le gendre est Clitandre, la mère disant que c’est Trissotin, Martine philosophant mieux que personne : voilà les scènes de cet ouvrage admirable qui doivent servir de modèles.</p>
+        </div>
+        <div>
+          <head>LA COMTESSE D’ESCARBAGNAS.</head>
+          <p>Jolie farce. Les ridicules de la province y sont bien peints. Les scènes quatrième et sixième, où la comtesse gronde et instruit ses gens ; la scène quinzième, où on lit la jolie lettre de M. Thibaudier ; la seizième, où il vient lire lui-même les vers qu’il a faits ; les <pb n="149" xml:id="p149"/> deux suivantes, où M. Bobinet amène son jeune élève : voilà ce qu’il y a de plus comique dans cette pièce.</p>
+        </div>
+        <div>
+          <head>LE MALADE IMAGINAIRE.</head>
+          <p>Excellente comédie. La première scène du premier acte,où Argan compte ses mémoires ; la cinquième, où il propose à sa fille de se marier, Angélique croyant qu’il parle de son amant ; sa colère avec Toinette ; la scène neuvième avec sa femme et le notaire : au deuxième acte, la scène sixième, dans laquelle Diafoirus fait ses compliments, et l’amant déguisé en maître à chanter chantant un duo avec sa maîtresse ; la scène onzième d’Argan et de sa petite-fille, à qui il fait raconter tout ce qu elle a vu ; au troisième acte, la scène troisième, où Béralde parle raison à Argan sur la médecine ; la sixième, où M. Purgon vient le menacer de mille espèces de maux ; la quatorzième, où Toinette joue le médecin, et devine toutes ses maladies : voilà les traits les plus comiques de cette pièce, qui fut la dernière de l’inimitable Molière.</p>
+        </div>
+      </div>
+      <div>
+        <head><pb n="150" xml:id="p150"/> REGNARD.</head>
+        <div>
+          <head>LA SÉRÉNADE.</head>
+          <p>Farce très plaisante. La scène troisième, où Marine parle pour prouver à Scapin qu’elle n’est pas bavarde ; la vingt-deuxième, où Champagne, ivre, veut parler raison à M. Griffon : voilà les deux plus jolies scènes de la pièce. La scène huitième, où Léonor prend Valère pour le mari qui lui est destiné, tandis que sa mère entend parler de Géronte, est pillée de la cinquième scène du premier acte du Malade imaginaire.</p>
+        </div>
+        <div>
+          <head>LE BAL.</head>
+          <p>La plus mauvaise des comédies de Regnard : rien à imiter, que le rôle de Mathieu Crochet pour un rôle de basse charge.</p>
+        </div>
+        <div>
+          <head>LE JOUEUR.</head>
+          <p>La meilleure des comédies de Regnard. Au premier acte, la deuxième scène expose à merveille et très comiquement la pièce ; la dixième de M. Tout-à-Bas : au deuxième acte, la scène neuvième, où Angélique, malgré Nérine, pardonne à Valère : au troisième acte, la troisième, où Hector présente son mémoire à Géronte ; la sixième des créanciers (imitée du Festin de Pierre, bien au-dessous de cette <pb n="151" xml:id="p151"/>dernière ; la neuvième, où le marquis insulte Valère, qu’il croit un poltron : au quatrième acte, la scène douzième, où Hector lit Sénèque à son maître qui a perdu tout son argent : au cinquième acte, la scène quatrième, où madame La Ressource dit que le marquis est son cousin, ressemble beaucoup à celle de M<hi rend="sup">e</hi> Jacob dans Turcaret ; j’ignore quelle est l’aînée : voilà les meilleures scènes de cette pièce, qui a mérité sa réputation, et où je ne voudrais ni marquis ni comtesse.</p>
+        </div>
+        <div>
+          <head>LE DISTRAIT.</head>
+          <p>Le rôle du Distrait est bien fait d’un bout à l’autre. La scène troisième du troisième acte, où le chevalier donné sa leçon d’italien, est jolie ; la scène huitième du quatrième acte, où le Distrait donne à son valet des raisons de sa distraction, est pleine d’esprit et de philosophie. Dam cette pièce, comme dans toutes eelles de Regnard, il y a un comique de mots que personne n’a atteint comme lui ; la scène sixième du quatrième acte, où le Distrait et le chevalier se disent poliment leurs vérités, ressemble à la scène de Célimène et Arsinoé dans le Misanthrope.</p>
+        </div>
+        <div>
+          <head><pb n="152" xml:id="p152"/>ATTENDEZ-MOI SOUS L’ORME.</head>
+          <p>Cette jolie petite pièce est sûrement de Dufresny, du moins je crois l’y reconnaître. La première scène, où Pasquin demande son congé à son maître ; la quatrième, où Pasquin et Lisette ont peine à retenir l’amoureux Colin ; la dixième, où Lisette, déguisée en veuve, attrape l’officier, et le dénouement : voilà ce qu’il y a de plus joli.</p>
+        </div>
+        <div>
+          <head>DÉMOCRITE.</head>
+          <p>Le rôle de Démocrite a de temps en temps. de la philosophie. La scène septième du deuxième acte, où Strabon et Cléanthis se plaisent, sans se reconnaître pour mari et femme, est très comique, mais nullement vraisemblable ; la scène septième du quatrième acte, où Strabon et Cléanthis se reconnaissent et s’abhorrent, est très plaisante et d’un vrai comique.</p>
+        </div>
+        <div>
+          <head>LE RETOUR IMPRÉVU.</head>
+          <p>Plein de comique. La scène quatrième, où Merlin prêche son maître, et finit par être de son avis ; la treizième, où Merlin reçoit Géronte, et lui conte mille histoires pour l’empêcher d’entrer ; la seizième, où Géronte et M<hi rend="sup">e</hi> Bertrand se parlent, en se croyant tous les deux fous, sont.des scènes d’un comique admirable.</p>
+        </div>
+        <div>
+          <head><pb n="153" xml:id="p153"/> LES FOLIES AMOUREUSES.</head>
+          <p>La scène où Agathe, contrefaisant la folle, donne une lettre à son amant dans un papier de musique, et celle où elle escamote de l’argent à Albert pour gagner son procès, sont les plus jolies de la pièce.</p>
+        </div>
+        <div>
+          <head>LES MÉNECHMES.</head>
+          <p>La scène cinquième du deuxième acte, où Ménechme envoie au diable Araminte et Finette qui le prennent pour son frère ; la scène de M. Coquelet, qui est la même que dans le Retour imprévu, sont les plus comiques de la pièce.</p>
+        </div>
+        <div>
+          <head>LE LÉGATAIRE.</head>
+          <p>La scène deuxième du troisième acte, où Crispin contrefait le gentilhomme campagnard, et la sixième, où il se déguise en veuve du Maine ; la sixième du quatrième acte, où il dicte le testament ; et la sixième du cinquième acte, où l’on fait accroire à Géronte que c’est lui qui a fait le testament, sont d’un comique admirable, mais par trop contre les mœurs.</p>
+        </div>
+        <div>
+          <head>LA CRITIQUE DU LÉGATAIRE.</head>
+          <p>Rien à dire ni à profiter.</p>
+        </div>
+        <div>
+          <head>LES SOUHAITS.</head>
+          <p>Rien à profiter.</p>
+        </div>
+        <div>
+          <head><pb n="154" xml:id="p154"/> LES VENDANGES.</head>
+          <p>La scène neuvième, où Léandre raconte à Trigaudin le tour qu’il veut lui jouer, et lui demande son avis par écrit, est très comique.</p>
+        </div>
+      </div>
+      <div>
+        <head>DUFRESNY.</head>
+        <div>
+          <head>LE NÉGLIGENT.</head>
+          <p>La scène troisième du deuxième acte, entre le marquis et le poète sur Homère et Virgile ; la sixième du troisième acte, entre le marquis et Dorante, est la même que celle du Joueur de Regnard, où le Joueur se laisse mal mener et veut ensuite le faire dégainer. La pièce est mauvaise. Le rôle du marquis est un rôle de fat bien soutenu.</p>
+        </div>
+        <div>
+          <head>LE CHEVALIER JOUEUR.</head>
+          <p><anchor xml:id="__DdeLink__970_204163621"/>À peu près la même que celle de Regnard, excepté que je la trouve meilleure<note place="bottom">Il y a de l’ambiguïté dans cette phrase, ou plutôt on pourrait croire que c’est la pièce de Dufresny que Florian préfère à celle de Regnard, si l’on n’avait vu à l’article de cette dernière qu’il la regarde comme la meilleure de son auteur ; il faut donc pardonner cette négligence de style à un écrivain qui était assez modeste pour être persuadé que ses notes ne seraient jamais imprimées, et lire la dernière phrase comme s’il y avait : <hi rend="i">Excepté que je trouve celle de Regnard meilleure.</hi> (Note de l’éditeur). </note>.</p>
+        </div>
+        <div>
+          <head><pb n="155" xml:id="p155"/> LA NOCE INTERROMPUE.</head>
+          <p>Au-dessous de Dufresny.</p>
+        </div>
+        <div>
+          <head>LE MALADE SANS MALADIE.</head>
+          <p>Le rôle de la malade, celui de la fausse et <hi rend="i">caresseuse</hi> Lucinde, celui du traître Faussinville, sont très bien faits ; tous les détails sont charmants.</p>
+        </div>
+        <div>
+          <head>L’ESPRIT DE CONTRADICTION.</head>
+          <p>Chef-d’œuvre. Le rôle de la femme qui contredit, du benêt de mari, du jardinier Lucas, sont faits à merveille.</p>
+        </div>
+        <div>
+          <head>LE DOUBLE VEUVAGE.</head>
+          <p>Il faudrait, je crois, le réduire.</p>
+        </div>
+        <div>
+          <head>LE FAUX HONNÊTE HOMME.</head>
+          <p>Mauvaise pièce.</p>
+        </div>
+        <div>
+          <head>LE FAUX INSTINCT.</head>
+          <p>Mauvaise pièce, mais pleine d’esprit et d’intrigue.</p>
+        </div>
+        <div>
+          <head><pb n="156" xml:id="p156"/> LE JALOUX HONTEUX.</head>
+          <p>Comédie excellente. Le rôle du Jaloux est admirable ; l’intrigue n’est pas aussi bonne : il y a une naïve Hortense qui rapporte tout ce qu’elle a vu, qui est bien plaisante.</p>
+        </div>
+        <div>
+          <head>LA JOUEUSE.</head>
+          <p>Répétition de son Joueur, moins bonne que le Chevalier joueur.</p>
+        </div>
+        <div>
+          <head>LA COQUETTE DR VILLAGE.</head>
+          <p>Jolie pièce : le rôle de la Coquette charmant.</p>
+        </div>
+        <div>
+          <head>LA RÉCONCILIATION NORMANDE.</head>
+          <p>Pièce singulière, et peu agréable.</p>
+        </div>
+        <div>
+          <head>LE DÉDIT.</head>
+          <p>Charmante petite pièce : le rôle de valet est excellent.</p>
+        </div>
+        <div>
+          <head>LE MARIAGE FAIT ET ROMPU.</head>
+          <p>Chef-d’œuvre qu’il faut lire et connaître comme lés pièces de Molière.</p>
+        </div>
+        <div>
+          <head>LE FAUX SINCÈRE.</head>
+          <p>Mauvaise pièce.</p>
+        </div>
+      </div>
+      <div>
+        <head><pb n="157" xml:id="p157"/><pb/>DANCOURT.</head>
+        <div>
+          <head>LE CHEVALIER À LA MODE.</head>
+          <p>Pièce morale et comique : le caractère de madame Patin est le mieux soutenu et le mieux peint.</p>
+        </div>
+        <div>
+          <head>LA MAISON DE CAMPAGNE.</head>
+          <p>Très comique et bien mauvaise pièce.</p>
+        </div>
+        <div>
+          <head>LES BOURGEOISES À LA MODE.</head>
+          <p>Bonne comédie, très comique et morale.</p>
+        </div>
+        <div>
+          <head>LES VENDANGES DE SURÈNE.</head>
+          <p>L’imbécile Vivien est ce qu’il y a de plus comique.</p>
+        </div>
+        <div>
+          <head>LES VACANCES.</head>
+          <p>Le rôle de M. Grimaudin est vraiment comique.</p>
+        </div>
+        <div>
+          <head>LE MARI RETROUVÉ.</head>
+          <p>La meilleure des farces de Dancourt. M. Julien et sa femme sont infiniment plaisants.</p>
+        </div>
+        <div>
+          <head>LES TROIS COUSINES.</head>
+          <p>La scène où la meunière demande conseil au bailli est comique.</p>
+        </div>
+        <div>
+          <head><pb n="158" xml:id="p158"/> LE GALANT JARDINIER.</head>
+          <p>Le rôle de Lucas est celui d’un paysan bien fripon et bien comique : les autres pièces de Dancourt me semblent à peine lisibles.</p>
+        </div>
+      </div>
+      <div>
+        <head>PIRON.</head>
+        <div>
+          <head>L’ÉCOLE DES PÈRES.</head>
+          <p>Pièce morale et point comique. La scène où Pasquin imite ses maîtres en reniant son père est plaisante.</p>
+        </div>
+        <div>
+          <head>L’AMANT MYSTÉRIEUX.</head>
+          <p>Pièce faible ; mais le rôle et le caractère de l’amant sont très comiques.</p>
+        </div>
+        <div>
+          <head>LA MÉTROMANIE.</head>
+          <p>Chef-d’œuvre ; tout en est presque à remarquer. Au premier acte, la scène sixième entre Damis et son valet, dans laquelle ils partagent les prix ; au deuxième acte, la scène huitième entre Damis et son valet, quand il lui confie sa passion pour l’inconnue du Mercure ; au troisième acte, la scène sixième, où Baliveau et Damis se rencontrent en répétant leurs rôles, et se reconnaissent, tandis que Francaleu crie bravo ; la scène suivante est superbe ; enfin le <pb n="159" xml:id="p159"/> monologue qui commence le cinquième acte : tout doit être étudié dans cet ouvrage.</p>
+        </div>
+        <div>
+          <head>LA ROSE.</head>
+          <p>Joli opéra comique.</p>
+        </div>
+        <div>
+          <head>LE FAUX PRODIGUE.</head>
+          <p>Opéra comique très plaisant, et digne de la comédie.</p>
+        </div>
+      </div>
+      <div>
+        <head>BOISSI.</head>
+        <div>
+          <head>L’AMANT DE SA FEMME.</head>
+          <p>Joli sujet, mal traité.</p>
+        </div>
+        <div>
+          <head>L’IMPATIENT.</head>
+          <p>Mauvaise pièce, où le rôle de l’impatient est très bien fait.</p>
+        </div>
+        <div>
+          <head>LE BABILLARD,</head>
+          <p>Charmante pièce. Le rôle du Babillard est fait à merveille, et doit servir de modèle.</p>
+        </div>
+        <div>
+          <head>LE FRANÇAIS À LONDRES.</head>
+          <p>Jolie petite pièce ; le rôle du marquis est bien soutenu et bien fait.</p>
+        </div>
+        <div>
+          <head>LES DEUX PIÈCES.</head>
+          <p>La scène première du quatrième acte, où Lucile -demande au chevalier des vers pour répondre à son amant, tandis que le chevalier <pb n="160" xml:id="p160"/>croit que c’est pour répondre à lui-même, est la seule jolie de la pièce.</p>
+        </div>
+        <div>
+          <head>LES DEHORS TROMPEURS.</head>
+          <p>La meilleure de Boissi.</p>
+        </div>
+        <div>
+          <head>LA SURPRISE DE LA HAINE.</head>
+          <p>Mauvaise pièce. La sixième scène du second acte, où Arlequin, pour avoir de l’argent, dit le diable de son maître, et est payé de chaque défaut, est charmante.</p>
+        </div>
+        <div>
+          <head>LE BILLET DOUX.</head>
+          <p>La première scène est très jolie.</p>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

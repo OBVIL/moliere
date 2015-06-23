@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://svn.code.sf.net/p/algone/code/teibook/teibook.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!-- <?xml-stylesheet type="text/xsl" href="../../teipub/xsl/tei2html.xsl"?> -->
+<!--odt2tei: 2015-06-23T14:11:58+02:00-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Pourquoi Molière n’a pas joué les avocats</title>
+        <author>Truinet Charles (1828-1899)</author>
+      </titleStmt>
+      <editionStmt>
+        <respStmt>
+          <name>Camille  Frejaville</name>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <availability status="restricted"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Truinet Charles, <hi rend="i">Pourquoi Molière n’a pas joué les avocats</hi>, dans la Revue historique de droit français et étranger  Paris, 1855</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1855"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term type="subject">Molière (1622-1673). Le Malade imaginaire. L’Amour médecin. M. de Pourceaugnac. Critique de l’Ecole des femmes. L’Etourdi. Le Malade imaginaire. L’impromptu de Versailles.</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p/>
+      <p>POURQUOI MOLIÈRE N’A PAS JOUE LES AVOCATS.</p>
+      <p>Extrait de la Revue historique de droit français et étranger.</p>
+      <p>POURQUOI MOLIERE N’A PAS JOUÉ LES AVOCATS.</p>
+      <p>PAR M. CH. TRUINET,</p>
+      <p>AVOCAT-</p>
+      <p>PARIS</p>
+      <p>AUGUSTE DURAND, LIBRAIRE, RUE DES GRÈS, 7.</p>
+      <p>1855</p>
+      <div>
+        <head>Pourquoi Molière n’a pas joué les avocats.</head>
+        <p><pb><pb n="5"/></pb> C’est surtout dans la peinture des caractères que Molière a excellé ; l’intrigue tient peu de place dans la plupart de ses pièces, mais tour à tour les conditions et les professions les plus diverses y viennent étaler leurs ridicules et leurs vices. D'où vient donc qu’il en est une—la profession d’avocat — qu’il a laissée de côté ? A peine trois ou quatre fois le mot est-il prononcé<note place="bottom"><hi rend="i">L’Etourdi</hi>, acte V, scène IV. Il n’y a qu’au mot. — <hi rend="i">Les Fourberies de Scapin</hi>, acte II, scène VIII. La critique embrasse ici <quote>« les greffiers, sergents, avocats, substituts, rapporteurs, juges, »</quote> pléiade juridique que le chancelier Du Vair comparait aux sept cordes de la lyre. — <hi rend="i">La Comtesse d’Escarbagnas</hi>, scène XVI. Le mot <hi rend="i">avocat</hi> est pris au figuré. — <hi rend="i">Le Malade imaginaire</hi>, acte I, scène IX. C’est un éloge de la profession.</note>, et dans le seul passage où Molière met deux avocats en scène, c’est pour les faire parler l’un fort vite, l’autre fort lentement<note place="bottom"><hi rend="i">M. de Pourceaugnac</hi>, acte II, scène XIII. — M. de Pourceaugnac est avocat <quote>: « Votre père se moque-t-il, dit Nérine, de vouloir vous anger de son avocat de Limoges ? »</quote> (Acte I, scène III.) Mais rien dans toute la pièce n’a rapport à la profession, si ce n’est la scène où Pourceaugnac prodigue des termes de procédure (acte II, scène XII) ; et encore prétend-il que ces mots-là lui viennent sans qu’il les sache, ou qu’il les a retenus en lisant les romans; et quand Sbrigani lui dit : <quote>« On voit bien que vous êtes du métier. - Moi ! repart-il, point du tout! Je suis gentilhomme ! »</quote> — On le voit, il n’y a rien dans tout cela qui ait trait à la profession d’avocat, et nous avons pu dire avec exactitude que Molière ne l’avait pas jouée.</note>. Il y a là un intermède bouffon, mais rien assurément qui ressemblé à la peinture d’un caractère.</p>
+        <p>Et pourtant, à cette époque, la profession d’avocat, naguère illustrée par Lemaistre, jetait assez d’éclat pour attirer les regards; c’était le temps où brillait Patru, l’ami de Boileau, de <pb><pb n="6"/></pb> Racine, de la Fontaine; le temps où la foule se pressait aux plaidoyers de Gaultier, oublié aujourd’hui, mais alors célèbre. D’autre part, et cela pouvait tenter le poëte comique, malgré les efforts de Patru, de ceux qui, comme Gilet et Erard, prenaient à tâche de marcher sur ses traces, le barreau, trop fidèle à de vieilles habitudes, n’avait pas encore renoncé à ces formes surannées de style, à ce flot d’inutiles citations, à ces figures de mauvais goût, dont l’éloquence judiciaire du temps ne nous offre que trop d’exemples. Si Molière avait pu ne pas s’en apercevoir, <hi rend="i">Les Plaideurs</hi> de Racine étaient bien propres à l’y faire penser<note place="bottom"><quote>« La plupart des avocats du temps sont joués dans Les Plaideurs ; et les différents tons sur lesquels l’intimé déclame sont autant de copies des différents tons des avocats. » </quote><hi rend="i">Anecdotes dramatiques</hi>, Paris, Duchesnes, 1775, t. II, p. 79 ; par Clément et l’abbé de La Porte. — Barbier, <hi rend="i">Dict. des Anonymes.</hi></note>; mais ce silence était volontaire, et nous croyons qu’il est possible de l’expliquer à l’honneur de la profession d’avocat.</p>
+        <p>Molière, nous l’avons dit, cherchait à tracer des caractères, et se souciait peu de peindre des individus ; il savait qu’un type isolé peut amuser, intéresser même, mais que le caractère seul .s’élève par sa généralité à la hauteur d’un enseignement. Il l’a dit quelque part en parlant de lui-même : <quote>« Ce ne sont point les médecins qu’il joue, mais le ridicule de la médecine <note place="bottom"><hi rend="i">Le Malade imaginaire</hi>, acte III, scène III.</note>. »</quote> Or, il aurait bien pu faire rire aux dépens de tel ou tel avocat, mais jouer le ridicule de la profession elle-même, cela était impossible; il le comprit et n’en parla point.</p>
+        <p>C’est qu’en effet la profession d’avocat ne ressemble point aux autres ; elle laisse à celui qui l’exerce toute sa liberté <hi rend="i">;</hi> elle ne l’enferme pas dans un système, ne lui impose aucune méthode; elle lui permet de rester lui-même. Le culte de l’honneur, le respect de la justice, voilà ses seules règles, et ce sont là choses qu’il n’est pas aisé de railler. En un mot, un avocat peut avoir des ridicules, pire encore peut-être, mais tout cela lui appartient en propre et nullement à sa profession.</p>
+        <p>En est-il de même ailleurs ? La médecine, par exemple, n’offre-t-elle pas des travers professionnels ? Qu’est-ce qu’ériger en système tel ou tel traitement, et tantôt l’un, tantôt l’autre ? Qu’est-ce, comme nous le voyons jusque de nos jours, qu’entretenir <pb/><pb n="7" xml:id="p7"/> des sectes rivales qui se prodiguent l’injure et le mépris et renouvellent à chaque instant la scène de M. Desfonandrès et de M. Tomès <note place="bottom"><hi rend="i">L’Amour médecin</hi>, acte II, scène IV.</note> ? Tout cela ne vient pas des individus, mais bien de la profession elle même, et c’est de là que naît le comique, c’est là ce qui fait rire même de l’idée de la mort, à chaque instant brutalement répétée ; car autrement, un homme qui de lui-même se jouerait de la vie d’un autre serait odieux, tandis que le médecin, entêté de ses règles, <quote>« vous expédiera de la meilleure foi du </quote><anchor xml:id="footnote1"/><quote>monde<note place="bottom"><hi rend="i">Le Malade imaginaire</hi>, acte III, scène III.</note>. »</quote> Mais, en conservant cette même idée, ne faisons que changer de robe; nous voici en Cour d’assises : cet avocat qui est là plaide pour sauver un accusé de la mort ; l’intérêt est le même, c’est de même aussi l’exercice d’une profession, seulement ici le sourire ne saurait trouver place. C’est que le défenseur n’obéit à aucun système, ne suit d’autre règle que l’inspiration de sa conscience ; il est là, seul, luttant pour la vie d’un homme, et, quel qu’il soit, illustre ou stagiaire, on l’écoute, on le respecte, on se tait, on est ému.</p>
+        <p>Et maintenant passons à la littérature. L’élévation des idées, la variété des conceptions devraient la protéger contre cette uniformité de défauts ; et cependant ici nous la retrouvons encore : c’est l’amour-propre; c’est l’affection exagérée pour ses œuvres, la tiédeur ou la malveillance pour celles d’autrui. <quote>« L’on m’a engagé, dit Ariste, à lire mes ouvrages à Zoïle, je l’ai fait. Ils l’ont saisi d’abord et avant qu’il ait eu le loisir de les trouver mauvais; il les a loués modestement en ma présence, et il ne les a pas loués depuis devant personne : je l’excuse et je n’en demande pas davantage à un auteur; je le plains même d’avoir écouté de belles choses qu’il n’a point faites</quote><anchor xml:id="footnote2"/><note place="bottom">La Bruyère, <hi rend="i">Des Ouvrages de l’esprit</hi>. — Puisque nous avons cité la Bruyère, nous ne pouvons nous empêcher de faire remarquer que lui qui traçait aussi des caractères, loin de critiquer la profession d’avocat, n’en a parlé qu’avec éloge (<hi rend="i">De la ville</hi>. —<hi rend="i"> De quelques usages</hi>. — <hi rend="i">De la chaire</hi>).</note><quote>. »</quote> Et, de vrai, cela se comprend dans une carrière où l’imagination est continuellement surexcitée, où il faut créer sans cesse et avec le plus d’esprit possible, où il est nécessaire de plaire à un public. Mais rien de tout cela ne se retrouve au barreau. L’avocat n’a pas à créer; il prend les faits dans son dossier; il les explique non pas, <pb><pb n="8"/></pb> avec son imagination, mais avec sa raison et son expérience des affaires <hi rend="i">;</hi> et quant au public, ignore-t-on que les portes de l’audience ne sont pas ouvertes pour que des esprits oisifs ou blasés viennent chercher le plaisir dans le scandale, l’intérêt dans l’aspect d’un malheureux ? Non ; le public aussi joue son rôle dans l’administration de la justice, qui ne saurait être ténébreusement rendue, et qui veut que chacun puisse écouter ses arrêts. Mais le public n’existe pas pour l’avocat ; il n’a devant lui qu’un adversaire et des juges : combattre l’un, convaincre les autres, voilà sa tâche; et ceux qui, au fond de l’audience, viendraient l’entendre comme orateur, ne seront jamais un public, car ils n’ont le droit ni d’applaudir ni d’improuver.</p>
+        <p>Nous pourrions étendre ce parallèle à d’autres que le médecin et l’homme de lettres ; mais tout ce que nous avons tenté de démontrer, c’est que la profession d’avocat n’imprime aucun caractère particulier à ceux qui l’exercent, et laisse à chacun son individualité. Que lui importe donc ce que fait l’homme ! Honnête, elle le relève ; indigne, elle se retire de lui sans avoir reçu atteinte de sa conduite, et reste inaccessible comme les règles immuables de la justice sur lesquelles elle est fondée. Dès lors, rappelez des fautes commises, imaginez-en si vous voulez de nouvelles ; celui-ci se charge de plus d’affaires qu’il n’en peut étudier ; cet autre exige des honoraires ruineux; en voici un qui plaide indifféremment toutes causes<anchor xml:id="footnote3"/><note place="bottom"><p>Ces critiques, et d’autres encore, sont exprimées avec assez d’étendue et de vivacité dans un petit volume <hi rend="i">Découverte des mistères du Palais</hi>. Paris, M. Guérourt. MDCLXXXX. In-12. — C’est un anonyme omis par Barbier</p></note>. Eh ! Qu’importe ! Ne sont-ce pas là des reproches tout personnels, des torts qui varient selon chaque individu ? En quoi cela touche-t-il la profession ? Qu’y a-t-il là qui vienne d’elle ? Sont-ce des caractères communs à tout le barreau ? Non, l’on n’en saurait trouver de tels ; il n’en existe pas, et voilà pourquoi Molière n’a pas joué la profession d’avocat.</p>
+      </div>
+      <div>
+        <head>Citations</head>
+        <p><pb><pb n="11"/></pb> (Note 1, page 5. )</p>
+        <label><hi rend="i">L’Étourdi</hi>, acte V, scène IV</label>
+        <l>La procès il faut rien, il coûter tant t’archant</l>
+        <l>La procurair larron, l’afocat pien méchant.<space rend="tab">    </space></l>
+        <l/>
+        <label><hi rend="i">Les Fourberies de Scapin</hi>, acte II, scène VIII</label>
+        <p>Jetez les yeux sur les détours de la justice. Voyez combien d’appels et de degrés de juridiction ; combien de procédures embarrassantes ; combien d’animaux ravissants par les griffes desquels il vous faudra passer : sergents, procureurs, avocats, greffiers, substituts, juges et leurs clercs. Il n’y a pas un de tous ces gens-là, qui, pour la moindre chose, ne soit capable de donner un soufflet <pb><pb n="12"/></pb> au meilleur droit du monde. Un sergent baillera de faux exploits sur quoi vous serez condamné sans que vous le sachiez. Votre procureur s’entendra avec votre partie et vous vendra à beaux deniers comptants. Votre avocat, gagné de même, ne se trouvera pas lorsqu’on plaidera votre cause, ou dira des raisons qui ne feront que battre la campagne et n’iront point au fait. Le greffier délivrera par contumace des sentences et arrêts contre vous. Le clerc du rapporteur soustraira des pièces, ou le rapporteur même ne dira pas ce qu’il a vu ; et quand, par les plus grandes précautions du monde, vous aurez paré tout cela, vous serez ébahi que vos juges auront été sollicités contre vous ou par des gens dévots ou par des femmes qu’ils aimeront.</p>
+        <p>(<hi rend="i">Voir la suite de la scène.</hi>)</p>
+        <label><hi rend="i">Le Malade imaginaire</hi>, acte I, scène IX.</label>
+        <p>Ce n’est point à des avocats qu’il faut aller, car ils sont d’ordinaire sévères là-dessus, et s’imaginent que c’est un grand crime que de disposer en fraude de la loi : ce sont gens de difficultés et qui sont ignorants des détours de la conscience.</p>
+        <p>(Note 2, page 5)</p>
+        <label><hi rend="i">M. de Pourceaugnac</hi>, acte II, sc. XII.</label>
+        <p>- Oui, mais quand il aurait information, ajournement, décret et jugement obtenu par surprise, défaut et contumace, j’ai la voie et conflit de juridiction pour temporiser, et venir aux moyens de nullité qui seront dans les procédures.</p>
+        <p><pb/><pb><pb n="13"/></pb><pb/>- Voilà parler dans tous les termes, et l’on voit bien, monsieur, que vous êtes du métier.</p>
+        <p>- Moi ! Point du tout ! Je suis gentilhomme.</p>
+        <p>- Il faut bien, pour parler ainsi, que vous ayez étudié la pratique.</p>
+        <p>- Point. Ce n’est que le sens commun qui me fait juger que je serai toujours reçu à mes faits justificatifs, et qu’on ne me saurait condamner sur une simple accusation, sans un récolement de confrontation avec mes parties.</p>
+        <label>Acte II, scène XIII.</label>
+        <label>Premier avocat<seg rend="speakerc">,</seg> <stage>traînant ses paroles en chantant.</stage></label>
+        <l>La polygamie est un cas</l>
+        <l>Est un cas pendable.</l>
+        <label>Deuxième avocat, <stage>chantant fort vite en bredouillant.</stage></label>
+        <l>Votre fait</l>
+        <l>Est clair et net ;</l>
+        <l>Et tout le droit</l>
+        <l>Sur cet endroit,</l>
+        <l>Conclut tout droit.</l>
+        <l>Si vous consultez nos auteurs,</l>
+        <l>Législateurs et glossateurs,</l>
+        <l>Justinian, Papinian,</l>
+        <l>Ulpian et Tribonian, '</l>
+        <l>Fernand, Rebuffe, Jean Imole,</l>
+        <l>Paul Castre, Julian, Barthole,</l>
+        <l>Josan, Alciat et Cujas,</l>
+        <l>Ce grand homme si capable,</l>
+        <l>La polygamie est un cas</l>
+        <l>Est un cas pendable.</l>
+        <l>Etc.</l>
+        <p><pb n="14" xml:id="p14"/><pb/>(Note 2, page 6.)</p>
+        <label><hi rend="i">Le Malade imaginaire</hi>, acte III, scène III.</label>
+        <p>- C'est un bon impertinent que votre Molière, avec ses comédies ! Et je le trouve bien plaisant d’aller jouer d’honnêtes gens comme les médecins.</p>
+        <p>- Ce ne sont point les médecins qu’il joue, mais le ridicule de la médecine.</p>
+        <p><hi rend="i">Molière revient souvent sur cette idée, qui fait le fond de notre article</hi> :</p>
+        <label><hi rend="i">Critique de l’École des femmes</hi>, scène VII.</label>
+        <p>Ces sortes de satires tombent directement sur les mœurs, et ne frappent les personnes que par réflexion.</p>
+        <label><hi rend="i">Impromptu de Versailles</hi>, scène III.</label>
+        <p>...Que son dessein est de peindre les mœurs, sans vouloir toucher aux personnes.</p>
+        <p><pb/><pb><pb n="15"/></pb> (Note 1, page 7.)</p>
+        <label><hi rend="i">L’Amour médecin</hi>, acte II, scène IV</label>
+        <p>- Je soutiens que l’émétique la tuera.</p>
+        <p>- Et moi, que la saignée la fera mourir.</p>
+        <p>- C'est bien à vous de faire l’habile homme !</p>
+        <p>- Oui, c’est à moi ; et je vous prêterai le collet en tout genre d’érudition.</p>
+        <p>- Souvenez-vous de l’homme que vous fîtes crever ces jours passés.</p>
+        <p>- Souvenez-vous de la dame que vous avez envoyée en l’autre monde il y a trois jours.</p>
+      </div>
+    </body>
+  </text>
+</TEI>
