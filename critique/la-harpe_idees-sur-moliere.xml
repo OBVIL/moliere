@@ -7,18 +7,37 @@
     <fileDesc>
       <titleStmt>
         <title>Idées sur Molière</title>
-        <author>de La Harpe Jean-François (1739-1803)</author>
+        <author key="de La Harpe, Jean-François (1739-1803)">Jean-François de La Harpe</author>
       </titleStmt>
       <editionStmt>
+        <edition>OBVIL</edition>
         <respStmt>
-          <name>Camille  Frejaville</name>
+          <name>Camille Frejaville</name>
+          <resp>OCR et stylage</resp>
+        </respStmt>
+        <respStmt>
+          <name>Chayma Soltani</name>
+          <resp>Structuration et encodage TEI</resp>
         </respStmt>
       </editionStmt>
       <publicationStmt>
-        <availability status="restricted"/>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <!--
+            <idno>http://obvil.paris-sorbonne.fr</idno>
+            -->
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+          </licence>
+        </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>de La Harpe Jean-François, <hi rend="i">Idées sur Molière</hi>, dans Œuvres de La Harpe,  Paris, 1820</bibl>
+        <bibl><author>Jean-François de La Harpe</author>, <title>Idées sur Molière</title>, in <hi rend="i">Œuvres de La Harpe</hi>, <pubPlace>Paris</pubPlace>, <date>1820</date>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -28,15 +47,11 @@
       <langUsage>
         <language ident="fr"/>
       </langUsage>
-      <textClass>
-        <keywords>
-          <term type="subject">Molière (1622-1673).</term>
-        </keywords>
-      </textClass>
     </profileDesc>
   </teiHeader>
   <text>
     <body>
+      <div>
       <p><pb n="57" xml:id="p57"/> L’éloge d’un écrivain est dans ses ouvrages. Celui de Molière est dans les ouvragés de ses successeurs, autant que dans les siens. Des hommes de beaucoup d’esprit et de talent ont travaillé après lui, sans pouvoir ni lui ressembler ni l’atteindre. Quelques-uns ont eu de la gaieté ; d’autres ont fait de beaux vers; plusieurs même ont peint des mœurs. Mais la peinture du cœur humain a été l’art de Molière. C’est la carrière qu’il a ouverte et qu’il a fermée. Il n’y a rien en ce genre ni avant lui ni après.</p>
       <p>Molière est certainement le premier des philosophes moralistes. Je ne sais pas pourquoi Horace, qui avait tant de goût, veut aussi donner ce titre à Homère. Avec tout le respect que j’ai pour Horace, en quoi donc Homère est-il si philosophe ? Je le crois grand poète, parce que j’apprends qu’on récitait ses vers après sa mort, et qu’on l’avait laissé mourir de faim pendant sa vie. Mais je crois aussi qu’en fait de vérités il y <pb><pb n="58"/></pb> a peu à gagner avec lui. Horace conclut de son poème de <hi rend="i">l’Iliade</hi>, que les peuples paient toujours les sottises des rois : c’est la conclusion de la plupart des histoires.</p>
       <p>Mais Molière est de tous ceux qui ont jamais écrit, celui qui a le mieux observé l’homme sans annoncer qu’il l’observait; et même il a plus l’air de le savoir par cœur, que de l’avoir étudié. Quand on lit ses pièces avec réflexion, ce n’est pas de l’auteur qu’on est étonné, c’est de soi-même.</p>
@@ -64,7 +79,8 @@
       <p>Il était d’un caractère doux et de mœurs pures. On raconte de lui des traits de bonté. Il était adoré de ses camarades, quoiqu’il leur fit du bien; et il mourut presque sur le théâtre, pour <pb><pb n="67"/></pb> n’avoir pas voulu leur faire perdre le profit d’une représentation. Il écoutait volontiers les avis, quoique probablement il ne fît pas grand cas de ceux de sa servante. Il encourageait les talents naissants. Le grand Racine, alors à son aurore, lui lut une tragédie. Molière ne la trouva pas bonne, et elle ne l’était pas; mais il l’exhorta à en faire une autre, et lui fit un présent. C'était voir mieux que Corneille, qui exhorta Racine à faire des comédies et à quitter le tragique.</p>
       <p>Molière n’était point envieux. De grands hommes l’ont été. Ce fut lui qui ramena la cour et la ville aux <hi rend="i">Plaideurs</hi> qui étaient tombés. Il était alors brouillé avec Racine, avec qui on se brouillait facilement. Ce moment dut être bien doux à Molière.</p>
       <p>Cet homme, qui fut un grand poëte, un grand philosophe, et le premier des comiques de tous les siècles, mourut avant le temps, et obtint à peine la sépulture. Il ne fut point membre de la compagnie littéraire qui lui décerne aujourd’hui un éloge, et son nom ne mourra jamais.</p>
-      <p>S’il s’élevait parmi nous dans la suite un auteur comique qu’on pût lui opposer, c’est que nos mœurs seraient devenues plus fortes, et que cet auteur aurait encore plus de génie que lui.</p>
+        <p>S’il s’élevait parmi nous dans la suite un auteur comique qu’on pût lui opposer, c’est que nos mœurs seraient devenues plus fortes, et que cet auteur aurait encore plus de génie que lui.</p>
+      </div>
     </body>
   </text>
 </TEI>
