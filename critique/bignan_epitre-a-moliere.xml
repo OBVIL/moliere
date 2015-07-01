@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--odt2tei: 2015-07-01T14:21:05+02:00-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Épitre à Molière: qui a obtenu au jugement de l’académie française une médaille d’or dans le concours de la poésie de 1843</title>
+        <author>A. Bignan</author>
+        <editor>Claire Bégards</editor>
+      </titleStmt>
+      <editionStmt>
+        <respStmt>
+          <name>Claire Bégards </name>
+          <resp>Stylage sémantique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date>2014</date>
+        <idno>
+          <hi rend="color_FF0000">http://obvil.paris-sorbonne.fr/corpus/moliere/critique/bignan_epitre-moliere/</hi>
+        </idno>
+        <availability status="restricted"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>A. Bignan, <hi rend="i">Épitre à Molière : Qui a obtenu au jugement de l’académie française une médaille d’or dans le concours de la poésie de 1843</hi>, Saint-Jorre libraire, Paris, 1843.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1843"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <epigraph>
+        <p>Rien ne manque à sa gloire.</p>
+      </epigraph>
+      <l>De la nature humaine immortel interprète,</l>
+      <l>Comédien, penseur, philosophe, poète,</l>
+      <l>Qui, planant de si haut sur l’univers moral,</l>
+      <l>Gai comme Rabelais, profond comme Pascal,</l>
+      <l>Des mœurs que châtiait ta verve satirique,</l>
+      <l>Traças pour tous les temps la peinture historique,</l>
+      <l><hi rend="color_FF0000">[p.4]</hi> Ô Molière ! Vrai sage et hardi novateur,</l>
+      <l>Qui, même en imitant, demeuras créateur,</l>
+      <l>Tu parus sur la scène où ton astre domine,</l>
+      <l>Entre le vieux Corneille et le jeune Racine.</l>
+      <l/>
+      <l>Glorieux ornement du siècle des grandeurs,</l>
+      <l>Tu brillas dans ces jours de royales splendeurs.</l>
+      <l>Où, Louis, rassemblant la France dans Versailles,</l>
+      <l>Régnait, maître absolu des arts et des batailles.</l>
+      <l>Son trône à l’univers commandait le respect.</l>
+      <l>Tout n’offrait pas pourtant un sérieux aspect.</l>
+      <l>La Fronde, dans ses jeux parodiant la Ligue,</l>
+      <l>Jusques au dénouement de sa bizarre intrigue</l>
+      <l>Déroula devant toi son long imbroglio,</l>
+      <l>Spectacle pour Thalie apprêté par Clio,</l>
+      <l>Et de ton <hi rend="i">Étourdi</hi> dans ce drame frivole</l>
+      <l>Tu vis plus d’un acteur anticiper le rôle.</l>
+      <l>En contrastes fécond, le siècle où tu naquis,</l>
+      <l>S’il eut ses grands héros, eut ses petits marquis,</l>
+      <l>Ses faux savants gonflés de leurs minces mérites,</l>
+      <l>Ses méchants écrivains, ses dévots hypocrites.</l>
+      <l><hi rend="color_FF0000">[p.5]</hi>Gloire à toi qui, de front attaquant ces travers,</l>
+      <l>Les atteignis des coups d’un implacable vers !</l>
+      <l>De Scapin ou d’Alceste empruntant le visage,</l>
+      <l>Tu divertis la foule et fis penser le sage.</l>
+      <l>Modèle inimitable, es-tu mort tout entier,</l>
+      <l>Laissant mille bâtards et pas un héritier ?</l>
+      <l>Parmi nous des fâcheux, des sots et des avares</l>
+      <l>Les types sont communs, mais leurs peintres sont rares.</l>
+      <l>Dans l’art de juger l’homme et de le définir</l>
+      <l>D’avance ton génie a vaincu l’avenir.</l>
+      <l>Mais je songe à quel prix tu conquis cette gloire</l>
+      <l>Dont les tardifs rayons couronnent ta mémoire.</l>
+      <l>Méconnu de son siècle, un grand homme souvent</l>
+      <l>N’expia que trop cher le tort d’être vivant.</l>
+      <l>Tu vécus sérieux, toi qui nous fais tant rire.</l>
+      <l>Austère philosophe armé de la satire,</l>
+      <l>Des secrets dont les yeux creusaient la profondeur,</l>
+      <l>Tu ne pus sans tristesse observer la laideur,</l>
+      <l>Et puis, le sort cruel, pour tourmenter ta vie,</l>
+      <l>Déchaîna deux démons, la Béjart et l’envie.</l>
+      <l>De l’hôtel Rambouillet le héros favori,</l>
+      <l>Cotin, le grand Cotin, Boursault et Montfleuri</l>
+      <l><hi rend="color_FF0000">[p.6]</hi>Lançaient contre tes mœurs d’injurieux libelles,</l>
+      <l>Ou même décriaient tes œuvres les plus belles.</l>
+      <l>Père désespéré, sous leurs coups triomphants</l>
+      <l>Tu faillis au berceau voir mourir tes enfants.</l>
+      <l>Paris demeura froid aux vers du Misanthrope.</l>
+      <l>En vain, pour te venger, l’arbitre de l’Europe,</l>
+      <l>Louis devant sa cour t’admirait hautement,</l>
+      <l>D’un public égaré cassait le jugement,</l>
+      <l>Vainqueur, se reposait du bruit de ses conquêtes</l>
+      <l>Aux accents de ta muse invitée à ses fêtes,</l>
+      <l>Et faisait, glorieux de s’égaler à toi,</l>
+      <l>Du fils d’un tapissier le commensal d’un roi.</l>
+      <l>En vain tu rencontrais pour auguste patronne</l>
+      <l>La faveur de Condé, l’amitié de Vivonne ;</l>
+      <l>En vain, quand du faux goût hardi persécuteur,</l>
+      <l>Ton bon sens le livrait aux ris du spectateur,</l>
+      <l>De la postérité devançant le suffrage,</l>
+      <l>Un vieillard t’applaudit et te cria : Courage !</l>
+      <l>Portant avec terreur un douloureux regard</l>
+      <l>Sur tes chefs-d’œuvre ; exemple et désespoir de l’art,</l>
+      <l>Victime de la haine et de la calomnie,</l>
+      <l>Peut-être as-tu douté de ton propre génie.</l>
+      <l><hi rend="color_FF0000">[p.7]</hi>Rassure-toi ! Le temps dont tu subis l’essai,</l>
+      <l>Le temps vieillit le faux et rajeunit le vrai ;</l>
+      <l>Tu vivras donc toujours, et ton riche domaine</l>
+      <l>N’est pas moins éternel que la pensée humaine.</l>
+      <l/>
+      <l>Le monde saluera l’autel monumental</l>
+      <l>Où ton culte renaît dans ton séjour natal.</l>
+      <l>Que ce tribut vengeur réjouisse tes mânes !</l>
+      <l>Jadis tes ennemis, dévotement profanes,</l>
+      <l>Te repoussant loin d’eux comme un de ces maudits</l>
+      <l>Qu’une austère consigne exclut du Paradis,</l>
+      <l>D’une tombe à regret t’accordèrent l’aumône,</l>
+      <l>Tandis que le Seigneur, qui juge et qui pardonne,</l>
+      <l>Tel qu’un père indulgent t’accueillait dans ses bras,</l>
+      <l>Et réparait là-haut tes affronts d’ici-bas.</l>
+      <l>Mais la raison triomphe et, n’en déplaise à Rome,</l>
+      <l>Un acteur aujourd’hui peut rester honnête homme,</l>
+      <l>À ses devoirs chrétiens consacrer ses loisirs</l>
+      <l>Et faire son salut en faisant nos plaisirs.</l>
+      <l>La scène ne craint plus les foudres de l’Église ;</l>
+      <l>Paris qui te damnait, Paris t’immortalise.</l>
+      <l><hi rend="color_FF0000">[p.8]</hi>Si tu voyais les Arts, courtisans de Louis,</l>
+      <l>Du faste de son règne esclaves éblouis,</l>
+      <l>Demander leur salaire à son royal caprice,</l>
+      <l>C’est le peuple à présent dont la main protectrice,</l>
+      <l>De ses dignes élus sanctifiant les droits,</l>
+      <l>Couronne les héros, les poètes, les rois.</l>
+      <l>L’or semble une faveur lorsqu’un seul le dispense ;</l>
+      <l>Donné par tous, est-il plus juste récompense ?</l>
+      <l>Qui donc te décerna ta grande ovation ?</l>
+      <l>Est-ce un prince ?… C’est plus, c’est une nation</l>
+      <l>Jalouse de payer dans sa reconnaissance</l>
+      <l>Deux siècles de plaisirs dont tu dotas la France.</l>
+      <l>Combien à ces tributs d’un vœu concitoyen</l>
+      <l>L’Académie ajoute en y joignant le sien !</l>
+      <l>Vois les quarante dieux réunis dans son temple</l>
+      <l>D’un fraternel respect donner l’auguste exemple ;</l>
+      <l>Si devant ton génie elle ferma le seuil</l>
+      <l>Qui conduit au repos du bienheureux fauteuil,</l>
+      <l>Pardonne ! sa justice, offrant à ta mémoire</l>
+      <l>D’un bronze mérité l’hommage expiatoire,</l>
+      <l>Veut d’un laurier posthume au moins te décorer,</l>
+      <l>Et s’honore elle-même en sachant t’honorer.</l>
+      <l><hi rend="color_FF0000">[p.9]</hi>Dans la Ferté Racine, et dans Rouen Corneille</l>
+      <l>Renaissent, et Paris, ô comble de merveille !</l>
+      <l>Dresse ton monument près du funèbre lieu</l>
+      <l>Où deux modestes sœurs, deux servantes de Dieu,</l>
+      <l>Seules, la nuit, témoins de ton heure dernière,</l>
+      <l>À ta voix expirante unirent leur prière,</l>
+      <l>Quand des jeux de la scène au drame du trépas</l>
+      <l>Tu passais tout d’un coup, et devais faire, hélas !</l>
+      <l>En la déshéritant de ta gaîté hardie,</l>
+      <l>Pour la première fois pleurer la Comédie !</l>
+      <l>Tout un peuple ameuté, t’outrageant par ses cris,</l>
+      <l>D’un cortège bruyant d’insulte et de mépris</l>
+      <l>Poursuivit ton convoi ; maintenant, ô contraste !</l>
+      <l>La foule que transporte un zèle enthousiaste,</l>
+      <l>Avec des chants de fête, aux rayons d’un soleil</l>
+      <l>Orgueilleux d’éclairer ce pompeux appareil,</l>
+      <l>Inaugure le temple où ta gloire repose</l>
+      <l>Dans la solennité de son apothéose.</l>
+      <l>Ô d’un vaste chef-d’œuvre aspect harmonieux !</l>
+      <l>Là ce Génie ailé semble, du haut des cieux,</l>
+      <l>Déposant sur ta tête une double couronne,</l>
+      <l>Sacrer la royauté que l’univers le donne ;</l>
+      <l><hi rend="color_FF0000">[p.10]</hi> Ici, cette fontaine, en jets toujours nouveaux</l>
+      <l>Épanchant le bienfait de ses limpides eaux,</l>
+      <l>Figure ta pensée abondante et profonde.</l>
+      <l>Source d’enseignements ouverte à tout le monde,</l>
+      <l>Où tant d’imitateurs, sans tarir son trésor,</l>
+      <l>Vinrent déjà puiser et puiseront encor.</l>
+      <l>Au centre ta statue apparaît sur un trône.</l>
+      <l>D’un poétique éclair ton visage rayonne ;</l>
+      <l>Voilà ton large front, ton œil contemplateur,</l>
+      <l>Des replis de notre âme intime scrutateur,</l>
+      <l>Tes deux épais sourcils que ta sage malice</l>
+      <l>Semblait froncer exprès pour effrayer le vice,</l>
+      <l>Tes lèvres d’où jaillit ce langage nerveux,</l>
+      <l>Qui, sans prudes détours disant ce que tu veux,</l>
+      <l>Fort comme ta raison, vrai comme la nature,</l>
+      <l>Reste du monde entier l’éternelle lecture.</l>
+      <l>Assis sur tes lauriers, du geste et du regard</l>
+      <l>Tu fécondes au loin le domaine de l’art,</l>
+      <l>Et tu vois à tes pieds deux Muses que rassemble</l>
+      <l>Ce bas-relief surpris de les trouver ensemble.</l>
+      <l>Habiles à parler et la prose et les vers,</l>
+      <l>Quoique sœurs, elles ont des visages divers :</l>
+      <l><hi rend="color_FF0000">[p.11]</hi>L’une a l’air plus pensif sans être sérieuse ;</l>
+      <l>Égayant les salons de son humeur rieuse,</l>
+      <l>Sur les amis de cour, le fat et le pédant</l>
+      <l>Elle aime à décocher le sarcasme mordant,</l>
+      <l>Attache un misanthrope au char d’une coquette.</l>
+      <l>Des mains d’un riche avare enlève sa cassette,</l>
+      <l>Ou, vengeant les saints droits de la société,</l>
+      <l>Écrase Don Juan sous son impiété,</l>
+      <l>Et démasque cet homme au regard faux et louche,</l>
+      <l>Qui, l’enfer dans le cœur et le ciel dans la bouche,</l>
+      <l>Cachant ses noirs projets sous un manteau chrétien,</l>
+      <l>Trompait tous les regards, tous, excepté le tien.</l>
+      <l>L’autre, dans son allure et libre et familière,</l>
+      <l>Du vieil esprit français pétulante écolière,</l>
+      <l>L’œil ardent, le pied leste, et l’air toujours dispos,</l>
+      <l>Amuse les passants de ses joyeux propos,</l>
+      <l>Transforme chaque scène en plaisante querelle,</l>
+      <l>Confond George Dandin, tourmente Sganarelle,</l>
+      <l>Enveloppe en riant Géronte dans un sac,</l>
+      <l>Lance la pharmacie au dos de Pourceaugnac,</l>
+      <l>Et, se moquant d’Argan sous sa robe d’hermine,</l>
+      <l>Dans un patois latin berne la Médecine.</l>
+      <l><hi rend="color_FF0000">[p.12]</hi>Par quel secret, Molière ! As-tu su constamment</l>
+      <l>Offrir tant de sagesse avec tant d’enjouement !</l>
+      <l>Dans tes jeux les plus fous quelle raison t’anime !</l>
+      <l>Grâce à toi le bouffon est presque le sublime,</l>
+      <l>Et l’homme entier respire en ces cadres légers,</l>
+      <l>De ton malin pinceau caprices passagers,</l>
+      <l>Comme en ces grands tableaux pleins d’images si vives,</l>
+      <l>Des mœurs de ton époque admirables archives.</l>
+      <l>Tes ouvrages, voilà ton plus beau monument,</l>
+      <l>Et celui-là, scellé d’un éternel ciment,</l>
+      <l>Debout, environné d’universels hommages,</l>
+      <l>Aura pour piédestal l’appui de tous les âges.</l>
+      <l>L’autre qui maintenant, chef-d’œuvre somptueux,</l>
+      <l>Élève vers le ciel son front majestueux,</l>
+      <l>Par l’injure des ans dépouillé de son lustre,</l>
+      <l>Un jour ne sera plus qu’une poussière illustre.</l>
+      <l>Puisse-t-il, consacrant ta popularité,</l>
+      <l>Prouver longtemps du moins à la postérité,</l>
+      <l>Qu’aussi bien que la Grèce et l’antique Ausonie,</l>
+      <l>La France honore, excite, enfante le génie !</l>
+      <l>Eh ! qui ne sentirait à ton grand souvenir</l>
+      <l>Fermenter dans son âme un fécond avenir,</l>
+      <l><hi rend="color_FF0000">[p.13]</hi>Et d’un divin transport sa lyre réchauffée</l>
+      <l>Frémir d’enthousiasme en touchant ton trophée ?</l>
+      <l>Ô prodige ! le bronze a paru tressaillir ;</l>
+      <l>J’ai vu de tes regards le feu sacré jaillir ;</l>
+      <l>Ta bouche s’est ouverte, et la sagesse même</l>
+      <l>Proclame par ta voix son oracle suprême :</l>
+      <l/>
+      <l>« Ô poètes ! Dis-tu, sans crainte ni pitié</l>
+      <l>Que le vice insolent soit par vous châtié !</l>
+      <l>Vertueux délateurs, poursuivez le coupable,</l>
+      <l>Et que d’un coup mortel votre haine l’accable !</l>
+      <l>Mais qu’à son tribunal citant le genre humain,</l>
+      <l>Toujours votre justice ait la marotte en main.</l>
+      <l>Le monde, vieil enfant que notre fouet corrige,</l>
+      <l>Demande un précepteur qui gaîment le fustige.</l>
+      <l>Imitez-moi ; j’ai su divertir tour à tour</l>
+      <l>L’une aux dépens de l’autre et la ville et la cour.</l>
+      <l>La source du comique est loin d’être tarie ;</l>
+      <l>Le fonds n’en change pas, l’aspect seul en varie.</l>
+      <l>Ne pourrais-je aisément retrouver parmi vous</l>
+      <l>Et mes maris trompés et mes amans jaloux ?</l>
+      <l><hi rend="color_FF0000">[p.14]</hi>Des Josse, des Agnès l’espèce est-elle éteinte ?</l>
+      <l>Trissotin n’est-il plus loué par Philaminte ?</l>
+      <l>Sous des noms différents n’est-il plus d’Harpagon,</l>
+      <l>N’est-il plus de Cathos au précieux jargon,</l>
+      <l>Et de monsieur Jourdain la race qui fourmille</l>
+      <l>N’a-t-elle pas toujours le même air de famille ?</l>
+      <l>Les fils à leurs aïeux ne ressemblent-ils point ?</l>
+      <l>Le frac a seulement remplacé le pourpoint.</l>
+      <l>S’il est quelques travers, que ma muse peut-être</l>
+      <l>Railleuse inexorable, empêcha de renaître,</l>
+      <l>J’en vois d’autres qui, pleins de force et de santé,</l>
+      <l>Menacent l’avenir de leur longévité.</l>
+      <l>Poètes ! Démasquez au nom de la morale</l>
+      <l>Tant de sots parvenus, couronnés de scandale,</l>
+      <l>Et des grandes vertus, source des grands talents,</l>
+      <l>Que mon exemple en vous excite les élans !</l>
+      <l>L’âme est l’ardent foyer où la verve s’enflamme ;</l>
+      <l>Un vers est toujours beau s’il vient d’une belle âme.</l>
+      <l>Travaillez, dût l’envie insulter vos travaux.</l>
+      <l>Le génie est en proie à de lâches rivaux ;</l>
+      <l>Tant qu’il respire encor, la haine le déchire,</l>
+      <l>Mais l’avenir le venge et l’univers l’admire.</l>
+      <l><hi rend="color_FF0000">[p.15]</hi>Si des défauts puissants que je frappais au cœur,</l>
+      <l>Votre art désespérait de se rendre vainqueur,</l>
+      <l>Pour voir par la raison l’imposture abattue,</l>
+      <l>Relisez mon <hi rend="i">Tartufe</hi> au pied de ma statue.</l>
+      <l>L’un vous dira comment, suppléant à la loi,</l>
+      <l>La Comédie au vice inspire un juste effroi ;</l>
+      <l>L’autre comment les Arts, pour glorieux salaire,</l>
+      <l>Décernent au génie un culte populaire,</l>
+      <l>Et, fiers de partager l’encens de ses autels,</l>
+      <l>En l’immortalisant deviennent immortels. »</l>
+      <l/>
+      <label>fin.</label>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--odt2tei: 2015-07-01T14:42:31+02:00-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Salut à Molière</title>
+        <author>Gustave Geffroy</author>
+        <editor>Didier Alexandre</editor>
+      </titleStmt>
+      <editionStmt>
+        <respStmt>
+          <name>Chayma Soltani</name>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date>2014</date>
+        <idno/>
+        <availability status="restricted"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Gustave Geffroy,<hi rend="i"> Salut à Molière</hi>, 1899.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1899"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <argument>
+        <p>Dit par Coquelin cadet, le soir du 15 janvier, pour le 277e anniversaire de la naissance de Molière, sur la scène de la Comédie-Française.</p>
+      </argument>
+      <salute>À Coquelin cadet, acteur de Molière.</salute>
+      <p>Salut à Molière</p>
+      <p><pb n="p. 3"/> Ce soir, pour l’anniversaire du maître du logis, vous ne verrez pas de personnages allégoriques et vous n’entendrez pas la musique des vers. Ce n’est, comme le dit Molière, qu’un homme de maintenant qui traverse la foule héroïque et pittoresque du drame et de la comédie, et qui vient célébrer pour la première fois, sous la forme <pb n="p. 4"/> directe de la prose, celui qui fut un grand poète de la prose et des vers.</p>
+      <p>Mais ne croyez pas que cet homme d’aujourd’hui veuille se séparer de ce qui l’a précédé. Il veut, au contraire, honorer ce qui fut au nom de ce qui est, affirmer sa tradition et reconnaître son ancêtre.</p>
+      <p>Cette tradition vivante, cet ancêtre présent, les voici en Molière.</p>
+      <p>Salut à Molière, comédien qui fait rire, écrivain qui fait penser.</p>
+      <p>Il entre dans la vie avec la surprise et la curiosité du jeune homme, avide de sensations, soulevé d’espoir. Il musarde aux rues <pb n="p. 5"/> de Paris, court les routes de provinces, portant légèrement son génie. Il passe de l’école de la philosophie aux tréteaux de la farce, et, rapide, il comprend que l’immense humanité est à lui pour en faire la joie et la leçon. Il voit aux prises la nature et la société, il devine l’éternel drame des passions mêlé aux passagères comédies de son temps. Dès lors et sans cesse, il est l’observateur et le méditatif. Comme il a écouté Gassendi et comme il écoute ses libres amis d’Auteuil, il prête aussi l’oreille aux propos du barbier de Pézenas et de la servante Laforêt. Le spectacle lui apparaît en son entier, depuis les manifestations instinctives <pb n="p. 6"/> jusqu’aux conceptions abstraites, et il donne la forme théâtrale à cette intelligence du monde qui est en lui.</p>
+      <p>Nul ne la surpassé ici. Son vers souple et aéré, sa forte prose, dont le temps n’a pas défait une maille, mettent en mouvement les humbles et les puissants, les seigneurs et les bourgeois, les amants et les amoureuses. Tout ce monde sort du tumulte bigarré de comédie italienne et de foire du Pont-Neuf où s’ébat sa fantaisie. Peu à peu, sa science aux allures faciles établit la moyenne de la France et le bilan humain. Son amère satire, sans cesser de sourire et de rire, se jette dans la mêlée, <pb n="p. 7"/> s’attaque aux charlatans, aux parvenus, aux vaniteux du jour, aux vices fonciers de l’homme et de la femme. Il met la raison au service de la bonté. Il amuse toujours, mais toujours il avertit et il détruit. Il parvient ainsi aux plus hautes conceptions de son œuvre, il lance par le monde le douloureux Arnolphe, l’austère Alceste, le révolté don Juan, le noir Tartuffe.</p>
+      <p>Il n’a jamais cessé, même lorsqu’il a parlé le plus haut langage, de réjouir la foule qu’il convoque et qui grossit sans cesse. Le grand homme donne son art à tous, même aux simples et aux enfants.</p>
+      <p>Le comédien finit sur son champ <pb n="p. 8"/> de bataille, le chef se sacrifie pour sa troupe. Il traîne son agonie sur la scène, offre sa mort en spectacle pour ne pas faire manquer la représentation du soir.</p>
+      <p>Il meurt à cinquante ans, n’ayant dit que le vrai, n’ayant fait que le bien. Salut à Molière !</p>
+    </body>
+  </text>
+</TEI>
