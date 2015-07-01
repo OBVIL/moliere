@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--odt2tei: 2015-07-01T15:47:05+02:00-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Épître à Molière</title>
+        <author>M. A. Naudet</author>
+        <editor>Claire Bégards</editor>
+      </titleStmt>
+      <editionStmt>
+        <respStmt>
+          <name>Claire Bégards </name>
+          <resp>Stylage sémantique  </resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date>2014</date>
+        <idno>
+          <hi rend="color_FF0000">http://obvil.paris-sorbonne.fr/corpus/moliere/critique/naudet_epitre-moliere/</hi>
+        </idno>
+        <availability status="restricted"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>M.A. Naudet, <hi rend="i">Épître à Molière</hi>, Libraire Chaumerot, Paris,1818.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date>1917 (pas celle de l’ed)</date>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p/>
+      <l>PHILOSOPHE profond, dont l’esprit courageux</l>
+      <l>Sondant du cœur humain les replis tortueux</l>
+      <l>Des fripons et des sots prépara les supplices,</l>
+      <l>Osa dans tous les rangs attaquer tous les vices ;</l>
+      <l>Le plus bel ornement du siècle de Louis,</l>
+      <l>Gloire, gloire Molière, à tes divins écrits !</l>
+      <l>Dans cet art difficile où tu n’eus point de maître,</l>
+      <l>Tu régnas deux cents ans sans rival, et peut-être</l>
+      <l>Ta gloire doit toujours rester sans héritiers.</l>
+      <l>Si malgré tes efforts, tes succès, tes lauriers,</l>
+      <l>Des vices dont gémit notre humaine faiblesse</l>
+      <l>Tu ne corrigeas pas l’incorrigible espèce,</l>
+      <l>Laissant sur nos défauts tomber tes traits railleurs,</l>
+      <l>Dans l’emploi périlleux de nous rendre meilleurs</l>
+      <l>Prêtant ton éloquence à la plus noble cause,</l>
+      <l>J’aime que ton courage à le tenter s’expose :</l>
+      <l>Mais de la vérité les dangereux accents</l>
+      <l>Ont armé contre toi la horde des méchants.</l>
+      <l>Quel prix te réservait cette ligue ennemie ?</l>
+      <l>Tu mourus couronné des palmes du génie :</l>
+      <l><hi rend="color_FF0000">[p.6]</hi>Quel Panthéon pour toi, dans ce siècle vanté,</l>
+      <l>Devança les honneurs de l’immortalité ?</l>
+      <l>Consulté par son Roi, Boileau, sur le Parnasse,</l>
+      <l>Au-dessus de Racine avait marqué ta place,</l>
+      <l>Et le temps a, depuis, confirmé cet arrêt ;</l>
+      <l>Mais, en vain, à tes jeux ton siècle s’instruisait,</l>
+      <l>Des préjugés encor la voix était sacrée,</l>
+      <l>Et de l’Académie ils t’ont fermé l’entrée.</l>
+      <l>Aimant à s’égayer par d’utiles loisirs,</l>
+      <l>Louis, qui te devait ses plus nobles plaisirs,</l>
+      <l>Dont l’appui protecteur faisant taire l’envie,</l>
+      <l>Contre elle, tant de fois, a défendu ta vie ;</l>
+      <l>Cet esprit éclairé, ce brillant potentat</l>
+      <l>Qui de l’éclat des arts a reçu tant d’éclat <note place="bottom"><p>Chénier avait dit de Louis XIV dans sa belle épître à Voltaire :</p><quote><p>Cet heureux potentat</p><p>Qui de l’éclat des arts empruntait son éclat.</p></quote><p>Je déclare que je n’ai point prétendu refaire les deux vers de Chénier, et que, s’ils avaient rendu mon idée, je les aurais substitués aux miens quand on m’asignalé cette réminiscence ; mais je suis loin d’admettre que Louis XIV, placé à la tête du grand siècle auquel il a donné une si belle direction pendant les trente premières années de son règne, ait emprunté son éclat de l’éclat des arts, et je me suis décidé à laisser mes deux vers tels qu’ils sont.</p></note>;</l>
+      <l>Qui soutint si longtemps le Tartuffe et Molière ;</l>
+      <l>De son siècle, avec peine, obtint qu’un peu de terre</l>
+      <l>Couvrirait par pitié l’honneur du nom français.</l>
+      <l>Du fanatisme, enfin, abjurant les excès,</l>
+      <l>La France, te vengeant de tant de barbarie,</l>
+      <l>T’a rendu, mais trop tard, ton ingrate patrie.</l>
+      <l/>
+      <l>Pour mieux corriger l’homme, adroit réformateur,</l>
+      <l>Tu l’observas longtemps, et tu le sais par cœur.</l>
+      <l>Tu servais à la fois nos plaisirs et ta gloire</l>
+      <l>Quand des mœurs de ton temps tu nous traçais l’histoire ;</l>
+      <l>Quand tes vers, devenus proverbes en naissant,</l>
+      <l>Marquaient le front des sots d’un stigmate cuisant.</l>
+      <l>À venger le bon goût tu travaillas sans cesse ;</l>
+      <l>Ta muse à tous les tons se plie avec souplesse ;</l>
+      <l><hi rend="color_FF0000">[p.7]</hi>Dans chacun de tes vers nous donne une leçon,</l>
+      <l>Et, toujours en riant, fait parler la raison.</l>
+      <l/>
+      <l>Quelquefois, il est vrai, ton austère férule</l>
+      <l>En passant près de lui frappa le ridicule,</l>
+      <l>Dont la vie éphémère, en son obscurité,</l>
+      <l>Eût échappé, sans elle, à la postérité :</l>
+      <l>Mais plus souvent, aussi, ta généreuse audace</l>
+      <l>Brave le vice altier, l’attaque et le terrasse,</l>
+      <l>Et, marchant droit au but, sans le laisser en paix,</l>
+      <l>Torture le méchant qui ne change jamais.</l>
+      <l>Nous cherchons ton secret, ô sublime Molière !</l>
+      <l>Mais ton génie ouvrit et ferma la carrière.</l>
+      <l>Peintre habile des mœurs, quel brillant coloris</l>
+      <l>Anime tes tableaux, embellit tes écrits !</l>
+      <l>Quelle force, et, surtout, quel charme dans ton style !</l>
+      <l>Souvent pur, et toujours éloquent et facile,</l>
+      <l>Dans tes scènes jamais le stérile clinquant</l>
+      <l>Ne brillante tes vers de son faux ornement.</l>
+      <l>Laissant le madrigal au froid épithalame,</l>
+      <l>Jamais, hors de propos, la mordante épigramme</l>
+      <l>Ne vient, dans l’action que rien ne refroidit,</l>
+      <l>Aux dépens du bon sens faire briller l’esprit.</l>
+      <l>Tu conserves toujours à chaque personnage</l>
+      <l>Son état et ses mœurs, ses traits et son langage ;</l>
+      <l>Et, par l’illusion complétant notre erreur,</l>
+      <l>Derrière lui jamais l’on n’aperçoit l’auteur.</l>
+      <l>L’ignorance te blâme et la raison t’approuve</l>
+      <l>Lorsque, cherchant ton bien où tu sais qu’il se trouve,</l>
+      <l><hi rend="color_FF0000">[p.8]</hi>De ta propre richesse augmentant le trésor,</l>
+      <l>Le cuivre à ton creuset vient se changer en or.</l>
+      <l>Tout semble se créer sous ta plume hardie,</l>
+      <l>Et l’imitation est chez toi du génie.</l>
+      <l/>
+      <l>De l’avare Euclion Plaute esquissant les traits<note place="bottom">Je pense que l’on ne me reprochera pas d’avoir interverti l’ordre des chefs d’œuvres de Molière, en plaçant l’Avare avant le Misanthrope et le Tartuffe qui l’ont précédé.</note>,</l>
+      <l>D’Harpagon avant toi commença le procès :</l>
+      <l>De ce maître, il est vrai, la peinture est fidèle,</l>
+      <l>Mais que l’imitateur surpasse le modèle !</l>
+      <l>Plus courageux que lui, dans le cœur du méchant</l>
+      <l>Tu descendis sans crainte, et creusas plus avant ;</l>
+      <l>Et fouillant les replis de ce nouveau Protée,</l>
+      <l>Rien n’échappe, Molière, à ta loupe enchantée.</l>
+      <l>Quand des imitateurs dédaignant le sentier</l>
+      <l>Tu voulus nous montrer Molière tout entier ;</l>
+      <l>Quand, dans le Misanthrope, on vit ton éloquence</l>
+      <l>En corrigeant Alceste, essayer sa défense,</l>
+      <l>Et, sans désespérer de sa conversion,</l>
+      <l>Blâmer de la vertu l’exagération ;</l>
+      <l>Quand ta brillante verve exposa sur la scène</l>
+      <l>La prude Arsinoé, la folle Célimène ;</l>
+      <l>Pour la première fois quand tu mis au grand jour</l>
+      <l>La sottise et l’orgueil des beaux esprits de cour,</l>
+      <l>Que tu fus grand ! que j’aime à voir le ridicule</l>
+      <l>Expirer à tes pieds sous les flèches d’Hercule !</l>
+      <l>De la raison chez toi voilà donc le pouvoir !</l>
+      <l>Mais ce n’est rien encore, et nous allons te voir</l>
+      <l>De ta carrière, enfin, mesurer l’étendue,</l>
+      <l>Et d’Hercule vengeur ressaisir la massue.</l>
+      <l><hi rend="color_FF0000">[p.9]</hi>Ne va pas succomber, moraliste imprudent !</l>
+      <l>Toi seul, tu veux lutter contre un vice puissant</l>
+      <l>Qui jamais ne pardonne !… ah ! crains la calomnie,</l>
+      <l>Et rassemble du moins les efforts du génie !</l>
+      <l>Des méchants contre toi les rangs se sont serrés...</l>
+      <l>Le Tartuffe a paru nous voilà rassurés !</l>
+      <l>C’en est fait ! au génie appartient la victoire ;</l>
+      <l>Jamais de plus d’éclat n’avait brillé sa gloire ;</l>
+      <l>Et l’envie à ses pas veut en vain s’attacher,</l>
+      <l>C’est l’onde qui mugit en frappant le rocher.</l>
+      <l>De la dévotion nous marquant la limite,</l>
+      <l>Tu ne prétendis pas corriger l’hypocrite :</l>
+      <l>Mais, en le démasquant, ton vers accusateur</l>
+      <l>À la crédulité signala l’imposteur.</l>
+      <l/>
+      <l>Je ne te suivrai pas dans ta pénible tâche,</l>
+      <l>Lorsque tu la remplis sans pitié, sans relâche ;</l>
+      <l>Implacable ennemi de tous les charlatans,</l>
+      <l>Je te laisse écraser sous le poids du bon sens</l>
+      <l>Du bel esprit du jour la risible manie ;</l>
+      <l>Chez Dandin nous montrer la vanité punie ;</l>
+      <l>T’égayer aux dépens du bon monsieur Jourdain ;</l>
+      <l>Rire de Vadius, et fouetter Trissotin.</l>
+      <l>Déployant la rigueur d’un si beau ministère,</l>
+      <l>Suis leurs pas ! glace-les d’un effroi salutaire !</l>
+      <l>Et puisse enfin, sortant de la nuit des tombeaux,</l>
+      <l>Ton ombre épouvanter tous nos vices nouveaux !</l>
+      <l>Aussi bien, après toi, tes indulgents élèves</l>
+      <l>Semblent les protéger par d’éternelles trêves.</l>
+      <l><hi rend="color_FF0000">[p.10]</hi>Dans leurs sermons rimés nos modernes auteurs</l>
+      <l>Prêchent, prêchent sans cesse, et ces réformateurs,</l>
+      <l>Retirant sa marotte à l’aimable folie,</l>
+      <l>De ses joyeux grelots ont dépouillé Thalie.</l>
+      <l>Aujourd’hui, sur la scène, et leur prose et leurs vers</l>
+      <l>Des vivants et des morts respectent les travers :</l>
+      <l>Si jamais le Léthé les jetant sur ses rives</l>
+      <l>Te porte les tributs de leurs rimes craintives,</l>
+      <l>Quand tu reconnaîtras dans leurs tristes tableaux</l>
+      <l>Que la timidité, dirigeant leurs pinceaux,</l>
+      <l>Ose à peine, aujourd’hui, rire d’un ridicule,</l>
+      <l>Peut-être, cette fois, Molière trop crédule</l>
+      <l>Nous croira corrigés : cependant, ici bas,</l>
+      <l>Sans heurter quelque vice on ne peut faire un pas :</l>
+      <l>Tu l’attaquas en vain, chez nous toujours nouvelle,</l>
+      <l>Comme le monde, hélas, sottise est éternelle !</l>
+      <l/>
+      <l>Le temps n’a pas vieilli les Français, et Paris</l>
+      <l>Est encore aujourd’hui ce qu’il était jadis :</l>
+      <l>Chez ce peuple léger, d’une humeur si commode,</l>
+      <l>L’inconstance toujours est le vice à la mode ;</l>
+      <l>Au moindre vent qui souffle aussitôt nous tournons ;</l>
+      <l>Nous savons à propos, adroits caméléons,</l>
+      <l>Prendre forme nouvelle, et changer de visage,</l>
+      <l>De goûts, d’opinion, d’esprit et de langage ;</l>
+      <l>Libres ou dans les fers, sans nous plaindre de rien,</l>
+      <l>Optimistes prudents nous disons : tout est bien.</l>
+      <l>Ô sainte humanité ! vertu des belles âmes !</l>
+      <l>On ne te trouve plus, chez nous, que dans les drames ;</l>
+      <l><hi rend="color_FF0000">[p.11]</hi>L’égoïsme, insensible à la voix du malheur,</l>
+      <l>Aux pleurs de la pitié ferme toujours son cœur ;</l>
+      <l>Et la philosophie et sa douce influence</l>
+      <l>N’ont pu, de son exil, tirer la bienfaisance :</l>
+      <l>Le cri de l’infortune est à peine écouté ;</l>
+      <l>L’homme d’esprit sourit au mot d’humanité ;</l>
+      <l>Le mérite caché languit dans la misère,</l>
+      <l>Et l’intrigant, hélas ! comme autrefois prospère !</l>
+      <l>Dépourvu de talents, de vertus et d’honneur,</l>
+      <l>Et ne sachant que faire, il s’est fait délateur :</l>
+      <l>Métier noble, du reste, et, bien que l’on en glose,</l>
+      <l>Facile, et sûr du moins pour être quelque chose.</l>
+      <l>Du courage ! frappons ! Molière de son temps,</l>
+      <l>N’épargna même pas les pauvres courtisans ;</l>
+      <l>Et, montrant la sottise en robe de comtesse,</l>
+      <l>Sous ses vieux parchemins il tança la noblesse.</l>
+      <l>Autres temps, autres mœurs ! dans mon heureux pays</l>
+      <l>On ne sait déjà plus ce que c’est qu’un marquis :</l>
+      <l>Mais, des marquis en vain l’on a perdu la trace,</l>
+      <l>Hélas ! des sots d’alors d’autres ont pris la place !</l>
+      <l>Nous avons beau changer, sous des noms différents</l>
+      <l>Les hommes sont toujours des fous ou des méchants :</l>
+      <l>Du nouveau parvenu l’orgueilleuse impudence</l>
+      <l>Brille sous les lambris de la fière opulence ;</l>
+      <l>Pour mieux se déguiser parlant toujours d’honneur,</l>
+      <l>Mondor avec succès tranche du grand seigneur ;</l>
+      <l>Et sous les noms pompeux d’Excellence ou d’Altesse,</l>
+      <l>De sa grandeur d’hier il cache la bassesse.</l>
+      <l><hi rend="color_FF0000">[p.12]</hi>Près de lui Dorval, fier de ses douze quartiers,</l>
+      <l>Méprisant de Mondor les vices roturiers,</l>
+      <l>Se rit des parvenus ; mais, grâce à sa naissance,</l>
+      <l>De vertus, comme lui, Monseigneur se dispense.</l>
+      <l/>
+      <l>Vétérans de l’orgueil, des anciens préjugés</l>
+      <l>Les défenseurs encor ne sont pas corrigés<note place="bottom"><p>On croira difficilement, un jour, à la ressemblance de pareils portraits ; et, cependant, on ne peut faire un pas dans le monde sans rencontrer de ces incorrigibles dont il n’y a rien à espérer, mais dont il n’y a, dieu merci, rien à craindre.</p><p>Dans leur sainte horreur pour tout ce qui tient à nos trente dernières années de malheurs et de prodiges, ces messieurs calomnient sans pitié la philosophie et la gloire, les paratonnerres et la vaccine ; et ils ne passent sur les ponts d’Austerlitz et d’Iéna que depuis qu’ils ont changé de noms. Ils ont beau se refuser à l’évidence ; nier nos progrès dans les sciences et dans les arts ; exhumer les crimes de la Révolution, en repoussant ses bienfaits, et dater de Fontenoi la dernière époque de notre gloire militaire, la sagesse et la prévoyance qui ne font qu’un nous ont donné la Charte ; c’est sur elle que s’appuie le dix-neuvième siècle ; c’est elle qui l’empêchera de reculer.</p></note> :</l>
+      <l>Leurs faibles yeux du jour redoutent la lumière ;</l>
+      <l>Ils n’ont plus d’avenir, et, toujours en arrière,</l>
+      <l>Reportent leurs regards dans la nuit du vieux temps.</l>
+      <l>Pour redresser nos torts ces Chevaliers errants,</l>
+      <l>Émules valeureux du héros de Gamache,</l>
+      <l>Pleins d’une noble ardeur ont repris la rondache :</l>
+      <l>Ils ne frappent point l’air d’un belliqueux signal,</l>
+      <l>Mais, laissant échapper un soupir féodal,</l>
+      <l>De ces gothiques preux l’espérance insensée</l>
+      <l>Rêve encor le retour de leur grandeur passée.</l>
+      <l>Au bruit de nos exploits ils se sont endormis,</l>
+      <l>Et n’ont rien oublié, comme ils n’ont rien appris :</l>
+      <l>Ils ne peuvent encore, en lisant notre histoire,</l>
+      <l>Nous pardonner trente ans de travaux et de gloire,</l>
+      <l>Et se bercent toujours de regrets superflus,</l>
+      <l>Oubliant que le temps passe, et ne revient plus.</l>
+      <l>De quelques écrivains la féale éloquence</l>
+      <l>Dans de fervents sermons nous prêche l’ignorance,</l>
+      <l>Et, pour mieux convertir les mécréants français,</l>
+      <l>Elle invoque sur eux ses ténébreux bienfaits.</l>
+      <l>Ah ! si tu les tenais tous ces dévots de places,</l>
+      <l>Singes défigurés par leurs viles grimaces,</l>
+      <l><hi rend="color_FF0000">[p.13]</hi>De leurs fronts dégradés nous montrant la laideur,</l>
+      <l>Tu les dépouillerais de leur masque imposteur.</l>
+      <l>Comme toi, sans pitié pour les cerveaux malades,</l>
+      <l>Nous saurons dissiper ces nouvelles croisades :</l>
+      <l>Le bataillon fallot semble en vain se grossir,</l>
+      <l>Quelque jour sur la scène on pourra le flétrir.</l>
+      <l/>
+      <l>Des lettres, cependant, la triste République,</l>
+      <l>Qui reposait aussi d’un sommeil léthargique,</l>
+      <l>Vient de se réveiller : Bardes et Troubadours</l>
+      <l>De toutes parts, ici, renaissent tous les jours :</l>
+      <l>Le ciel bénit, je crois, leur nombreuse famille,</l>
+      <l>Car de petits auteurs le Parnasse fourmille.</l>
+      <l>Donnant un libre cours à leur docte travers</l>
+      <l>Ils riment par milliers, et chacun deux, en vers,</l>
+      <l>Croit de déraisonner avoir le privilège :</l>
+      <l>Un jeune imberbe, à peine au sortir du collège,</l>
+      <l>Accouche d’un poème, et s’excuse, en disant</l>
+      <l>Que l’homme de génie est poète en naissant ;</l>
+      <l>On voit de bonne foi leur innocente muse</l>
+      <l>S’accorder à l’envi l’encens qu’on leur refuse ;</l>
+      <l>De son public toujours chacun est satisfait,</l>
+      <l>Et de gloire, lui-même, il se donne un brevet.</l>
+      <l/>
+      <l>Ainsi donc la sottise en liberté circule</l>
+      <l>Sans redouter, chez nous, le fouet du ridicule,</l>
+      <l>Et les méchants en paix, sûrs de l’impunité,</l>
+      <l>Échappent au carcan de l’immortalité.</l>
+      <l>Molière ! je le sens, je n’ai que ton courage ;</l>
+      <l>Mais si du feu divin qui t’échut en partage</l>
+      <l><hi rend="color_FF0000">[p.14]</hi>Quelque étincelle un jour électrisait mes vers,</l>
+      <l>Sous mes coups redoublés immolant nos travers,</l>
+      <l>Je n’écouterais plus que la haine du vice ;</l>
+      <l>Et la sottise, en tout sa fidèle complice,</l>
+      <l>Par sa grotesque allure égayant mes portraits,</l>
+      <l>Viendrait à ses dépens divertir les Français.</l>
+      <l>Mais où me conduirait cette ardeur querelleuse ?</l>
+      <l>La carrière, dit-on, redevient périlleuse :</l>
+      <l>Il est, comme autrefois, quelques vices puissants,</l>
+      <l>Qui savent du courage étouffer les accents ;</l>
+      <l>Et si l’on veut, surtout, braver l’intolérance,</l>
+      <l>Au dix-neuvième siècle il faut de la prudence<note place="bottom">Loin de moi l’intention de révoquer en doute la sincérité des principes de tolérance proclamés par le Gouvernement ; mais que l’on se rappelle les clameurs que la réimpression des œuvres de Voltaire et de Rousseau a excitées il y a quelques mois ; les outrages prodigués aux deux plus beaux génies du dix-huitième siècle, à ces immortels apôtres de la raison et dé l’humanité, et l’on jugera s’il y aurait aujourd’hui de la prudence à publier pour la première fois l’<hi rend="i">Essai sur les mœurs et l’esprit des Nations, ou la profession de foi du Vicaire savoyard.</hi></note>.</l>
+      <l>Tu n’as pas écrasé l’Hydre des faux dévots :</l>
+      <l>Elle grandit dans l’ombre où ces phénix nouveaux</l>
+      <l>De leurs cendres encor menacent de renaître,</l>
+      <l>Et deux cents ans plus tard ils triomphaient peut-être :</l>
+      <l>Aujourd’hui le Tartuffe apparaîtrait en vain,</l>
+      <l>Nous verrions repousser ce chef-d’œuvre divin<note place="bottom">Oui, la censure est destructive de toute liberté. Nous en appelons aux plus libéraux ou aux moins timorés de nos censeurs : quel est celui d’entre eux qui aurait osé autoriser la représentation du Tartuffe, qui fait autant d’honneur à Louis XIV qu’à Molière ?</note>,</l>
+      <l>Qui subirait, crois-moi, l’exil expiatoire,</l>
+      <l>S’il n’était défendu par deux siècles de gloire.</l>
+      <l>Ah ! s’il est des méchants qu’on ne peut châtier,</l>
+      <l>Ton art, jadis si beau, n’est plus qu’un vil métier !</l>
+      <l>Quel bon temps pour messieurs les sots du haut parage !</l>
+      <l>Le droit d’impertinence est dans leur apanage ;</l>
+      <l>Ils en usent, Dieu sait ! et les vices titrés</l>
+      <l>Pour les auteurs du jour sont des objets sacrés.</l>
+      <l/>
+      <l>La censure, il est vrai, de son poids nous écrase<note place="bottom"><p>Il est inutile de faire observer que ce vers et les suivants n’ont trait qu’à la censure exercée sur les ouvrages dramatiques.</p><p>Nous nous plaisons à reconnaître la modération du ministère actuel,, mais les ministres se succèdent ; ils dévient toujours plus ou moins de la route tracée par leurs prédécesseurs ; les abusse perpétuent, et c’est en fait de liberté, surtout, qu’il faut placer un mur d’airain devant l’arbitaire.</p><p>Les tribunes des deux Chambres ont retenti des accents généreux des défenseurs de nos franchises ; de ces hommes qui préfèrent l’honneur aux honneurs,1a patrie à leur fortune, la liberté à tout : ils ont disputé pied à pied, au pouvoir, la plus sacrée de nos propriétés, le domaine de la pensée ; et la liberté de la presse, sans laquelle la pensée n’a qu’une vie éphémère. Ne doit-on pas s’étonner que de ces tribunes tutélaires il ne se soit pas élevé une seule voix en faveur de l’indépendance légale de l’art dramatique ; de cet art vraiment national, qui a tant d’influence sur l’opinion et sur les mœurs ; qui plus que tout autre a besoin de liberté, etauquel on n’a pas même daigné accorder le bienfait d’une loi d’exception, qui pût au moins lui laisser entrevoir dans l’avenir un temps plus heureux.</p><p>Je le répète : l’homme d’état qui a honoré en France, dans des temps difficiles, le plus rigoureux des ministères, nous offre sans doute des garanties personnelles, mais de pareilles garanties ne sont que provisoires : d’ailleurs, la multiplicité et l’importance des travaux d’un ministre ne le condamnent pas à l’examen des ouvrages soumis à l’approbation de la Police, et les fonctions de la censure sont confiées à des agents souvent craintifs, et sujets à l’erreur, même quand ils sont de bonne foi. Nous ne demandons pas la licence du Théâtre, plus dangereuse encore dans des ouvrages dramatiques que dans des écrits destinés à moins de publicité, mais il nous paraît absurde que des agents de la Police jugent sans appel les productions du génie.</p><p>Que tous les ouvrages reçus au Théâtre soient soumis à la censure, mais, en cas de refus d’autorisation de la Police pour les représenter, qu’ils soient déférés à un Tribunal supérieur, à l’Académie, par exemple, où tant de connaissances diverses peuvent éclairer le patriotisme et la prudence.</p></note>,</l>
+      <l>Commente chaque mot, mesure chaque phrase ;</l>
+      <l><hi rend="color_FF0000">[p.15]</hi>Ce vers, nous dira-t-on, ne passera jamais :</l>
+      <l>Il sent l’indépendance, il n’est donc pas français.</l>
+      <l>Ce tour est trop hardi pour le temps où nous sommes :</l>
+      <l>À la lisière, encore, il faut mener les hommes.</l>
+      <l>Grâce aux modérateurs de notre liberté,</l>
+      <l>La prudence toujours tempère la gaîté ;</l>
+      <l>Et l’ennui, sur la scène étendant son empire,</l>
+      <l>Sans leur permission l’on nous défend de rire<note place="bottom">J’ai tort : le vaudeville du <hi rend="i">Combat des Montagnes</hi> nous prouve que l’on peut attaquer hardiment certains ridicules, et je fais amende honorable à messieurs les censeurs, car c’est toujours à eux que s’adressent mes humbles remontrances. Cependant, à une des représentations du Solliciteur, l’expression de <hi rend="i">figure féodale</hi>, d’autant plus comique dans la bouche de M. l’Espérance qu’elle était en situation, eut le malheur de déplaire à quelques oreilles, bien chatouilleuses on l’avouera, et cette plaisanterie fut supprimée à la représentation suivante. N’a-t-on pas lieu de s’étonner de cette excessive docilité aux ordres de quelques défenseurs de ce mot sacré, quand on voit, peu de jours après, au même théâtre, les baïonnettes de la gendarmerie employées à maintenir l’ordre aux représentations orageuses du <hi rend="i">Combat des Montagnes</hi>, où les mécontents, malgré leur nombre, ont été forcés à une retraite si précipitée !</note>.</l>
+      <l>Le plus petit écart inquiète un censeur,</l>
+      <l>Et la moindre équivoque augmente sa frayeur :</l>
+      <l>Telle on voit sous nos doigts, dans sa pudeur craintive,</l>
+      <l>Fuir au simple toucher la tendre Sensitive.</l>
+      <l/>
+      <l>Espérons que bientôt l’union des Français</l>
+      <l>De leur pacte sur <hi rend="i">eux</hi> répandra les bienfaits,</l>
+      <l>Et nous délivrera de ces chaînes serviles,</l>
+      <l>Vestiges odieux des discordes civiles.</l>
+      <l>L’auguste liberté, le plus noble des biens,</l>
+      <l>Peut seule des Français resserrer les liens,</l>
+      <l>Et, soutenant la voix des fils de l’harmonie,</l>
+      <l>Rendre enfin le courage et l’essor au génie.</l>
+      <l>Protégeons les essais de nos jeunes auteurs ;</l>
+      <l>De leur siècle, à leur tour, généreux bienfaiteurs,</l>
+      <l>Ils pourront l’éclairer : leur âme noble et fière</l>
+      <l>De la philosophie a reçu la lumière.</l>
+      <l>Le sort les prive eu vain des faveurs de Plutus,</l>
+      <l>Sa rigueur les poursuit, mais on ne les voit plus</l>
+      <l>À la table des grands, affamés parasites,</l>
+      <l>Partager bassement avec de vils Thersites</l>
+      <l><hi rend="color_FF0000">[p.16]</hi>Le ridicule emploi d’amuser monseigneur ;</l>
+      <l>Ou, plus lâches encor, caresser sa Grandeur</l>
+      <l>Dans de serviles vers que l’honneur désavoue.</l>
+      <l>Ô Fortune ! insensible au branle de ta roue,</l>
+      <l>Le mérite naissant, loin du monde caché,</l>
+      <l>Fier d’être utile un jour, à l’étude attaché,</l>
+      <l>Mûrit dans le travail et sa jeune éloquence,</l>
+      <l>Et son besoin de gloire, et son indépendance :</l>
+      <l>Protégé par lui seul il se doit ses progrès,</l>
+      <l>Et sans remords, au moins, jouit de ses succès.</l>
+      <l>Des vices de nos jours loin d’être le complice,</l>
+      <l>S’il dédaigne des grands la hauteur protectrice,</l>
+      <l>Soutenons son courage ! et que l’adversité</l>
+      <l>Ne le punisse pas de sa noble fierté !</l>
+      <l>Que l’État, lui prêtant un appui tutélaire<note place="bottom"><p>On ne saurait trop appeler la sollicitude du Gouvernement sur les encouragements nécessaires aux progrès de l’Art dramatique.</p><p>Pourquoi voyons-nous la plupart de nos jeunes auteursabandonner les autels de Thalie pour les tréteaux des boulevards ? Parce que l’on ne vit pas seulement de gloire, et que ceux qui travaillent pour les petits théâtres gagnent plus d’argent en six mois que l’auteur d’une bonne comédie en dix ans.</p><p>Pourquoi le Gouvernement n’accorderait-il pas un encouragement à l’auteur d’une comédie ou d’une tragédie qui aurait eu du succès au Théâtre Français ? Malgré la confiance que j’ai dans notre avenir théâtral, je doute que cette dépense puisse jamais faire excéder de beaucoup le budget de S. Exc. le Ministre de l’Intérieur.</p></note>,</l>
+      <l>De ses jours, avec soin, écarte la misère :</l>
+      <l>De l’État qu’il honore, il pourra, sans rougir,</l>
+      <l>Recevoir un abri contre un dur avenir.</l>
+      <l/>
+      <l>Le Français, peuple roi, peuple amant de la gloire,</l>
+      <l>Un moment descendu de son char de victoire,</l>
+      <l>Retrouve dans les arts, doux enfants de la paix,</l>
+      <l>Des lauriers que les pleurs n’arrosèrent jamais.</l>
+      <l>Donnez ! donnez aussi des palmes au génie !</l>
+      <l>Et vous verrez bientôt le sol de ma patrie</l>
+      <l>Se couvrir de nouveau de nourrissons des arts,</l>
+      <l>Le disputant de gloire aux fiers enfants de Mars.</l>
+      <l>Mais un frondeur chagrin et que tout inquiète</l>
+      <l>M’interroge en ces mots : « Trop prévoyant prophète,</l>
+      <l><hi rend="color_FF0000">[p.17]</hi>Sur qui fondez-vous donc cet espoir si brillant ?</l>
+      <l>Parlez ! »… de l’avenir me répond le présent ;</l>
+      <l>Et bientôt les auteurs dont s’honore la scène</l>
+      <l>Vont de la comédie agrandir le domaine.</l>
+      <l/>
+      <l>Si le mérite est rare il est plus précieux :</l>
+      <l>Pour consoler Thalie il lui reste Andrieux,</l>
+      <l>Qui, d’un style élégant, tour à tour sacrifie</l>
+      <l>Aux grâces, au bon goût, à la philosophie.</l>
+      <l>Ami de la raison, soutien de la gaîté,</l>
+      <l>Jamais avec les sots il n’a fait de traité ;</l>
+      <l>Et si de nos plaisirs il était moins avare</l>
+      <l>Leur espèce chez nous redeviendrait plus rare.</l>
+      <l>Malin observateur de nos vices bourgeois,</l>
+      <l>Bon et joyeux Picard, peut-être, quelquefois,</l>
+      <l>Dans tes tableaux, brillants de vérité, de grâce,</l>
+      <l>À nos petits travers tu donnas trop de place ;</l>
+      <l>Mais que l’on applaudit le flexible talent</l>
+      <l>Dont la variété nous charma si souvent,</l>
+      <l>Et que de fois Picard, en voulant nous distraire,</l>
+      <l>Dans la cause du rire a trouvé l’art de plaire !</l>
+      <l>Habile comme vous, d’un pinceau vigoureux</l>
+      <l>Duval en moraliste a tracé sous nos yeux</l>
+      <l>L’intérieur effrayant du Tyran domestique ;</l>
+      <l>Et lorsqu’il s’essayait sur un ton plus comique,</l>
+      <l>De Henry, jeune et fou, nous peignit les travers.</l>
+      <l>J’aime à le voir, surtout, poursuivant dans ses vers</l>
+      <l>L’altière ambition à la bassesse unie,</l>
+      <l>Attaquer des grandeurs la coupable manie.</l>
+      <l><hi rend="color_FF0000">[p.18]</hi>Rappelons nous qu’un jour l’auteur d’Agamemnon</l>
+      <l>À sa belle couronne ajoutant un fleuron,</l>
+      <l>Dans Pinto, se traçant une route nouvelle,</l>
+      <l>De l’intrigue héroïque a laissé le modèle ;</l>
+      <l>Qu’Étienne, s’annonçant par de brillants essais,</l>
+      <l>Promettait de compter ses pas par ses succès,</l>
+      <l>Mais qu’auprès d’Érato cet infidèle oublie</l>
+      <l>Que ses premiers lauriers il les doit à Thalie.</l>
+      <l>Dès son début, aussi, Gosse est victorieux ;</l>
+      <l>De ses lauriers futurs c’est un présage heureux :</l>
+      <l>De nos trésors nombreux augmentant les richesses,</l>
+      <l>L’auteur du Médisant nous tiendra ses promesses.</l>
+      <l/>
+      <l>De talents si divers on peut s’enorgueillir,</l>
+      <l>Et prédire à la scène un nouvel avenir,</l>
+      <l>Si de l’autorité la sage tolérance</l>
+      <l>Rend au génie, un jour, sa fière indépendance.</l>
+      <l>Que du moins en naissant on ne l’étouffe pas !</l>
+      <l>Nous le verrons bientôt, affermissant ses pas,</l>
+      <l>Avec crainte toujours approchant de Molière,</l>
+      <l>Par de nobles efforts se rouvrir la carrière.</l>
+      <l>L’espoir renaît enfin : saisissons nos pinceaux !</l>
+      <l>Rappelons la gaîté dans nos vivants tableaux ;</l>
+      <l>Sans la moindre pitié dénonçons sur la scène</l>
+      <l>Les travers de nos jours, et traînons dans l’arène</l>
+      <l>Du pauvre genre humain les plus grands ennemis,</l>
+      <l>Les vices, trop longtemps ici bas impunis.</l>
+      <l>Le Tartuffe à la main Molière nous contemple :</l>
+      <l>Le premier du courage il nous donna l’exemple.</l>
+      <l>[p.19]Molière ! loin de toi l’on peut à des succès</l>
+      <l>Prétendre sans orgueil : le théâtre français,</l>
+      <l>Quand de la liberté semble briller l’aurore,</l>
+      <l>De revoir ses beaux jours peut se flatter encore.</l>
+      <l>Au siècle de Louis, par ton roi protégés,</l>
+      <l>Tes inflexibles vers bravaient les préjugés ;</l>
+      <l>Et tu nous as légué ton immense héritage :</l>
+      <l>Essayons sur tes pas d’imiter ton courage !</l>
+      <l>Ils sont enfin passés et ne reviendront plus</l>
+      <l>Ces temps où, du pouvoir un instant revêtus,</l>
+      <l>Les délateurs, sur nous lançant leur blasphème,</l>
+      <l>Avec tant de succès proféraient ce blasphème :</l>
+      <quote>
+        <l rend="i">Qui méprise Cotin n’estime point son Roi ;</l>
+        <l><hi rend="i">Et n’a, selon Cotin, ni Dieu ni ni foi, ni loi</hi>.</l>
+      </quote>
+      <label>FIN.[p.20]</label>
+    </body>
+  </text>
+</TEI>

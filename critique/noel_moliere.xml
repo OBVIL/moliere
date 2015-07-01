@@ -1,0 +1,1080 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--odt2tei: 2015-07-01T15:45:28+02:00-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Légendes françaises: Molière</title>
+        <author>Eugène Noel</author>
+        <editor>Claire Bégards</editor>
+      </titleStmt>
+      <editionStmt>
+        <respStmt>
+          <name>Claire Bégards </name>
+          <resp>Stylage sémantique  </resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date>2014</date>
+        <idno>
+          <hi rend="color_FF0000">http://obvil.paris-sorbonne.fr/corpus/moliere/critique/noel_légendes-moliere/</hi>
+        </idno>
+        <availability status="restricted"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Eugène, Noel,<hi rend="i"> Légendes françaises: Molière</hi>, Paris, Garnier Frères,1852.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date>1852.</date>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p/>
+      <div>
+        <head>PRÉFACE</head>
+        <p>Le faux dévot serait plein d’espérances ! Mais, depuis trois siècles, la France l’a trop de fois affligé... Le XVI<hi rend="sup">è</hi> siècle (Rabelais) le voue au ridicule, le XVIIIe (Voltaire) lui arrache ses dernières victimes... Molière, entre les deux, lui trouve son vrai nom : <hi rend="i">Tartuffe</hi> !</p>
+        <p>Molière, âme vraiment loyale, ne put s’accoutumer au faux personnage qu’il voyait en tous lieux se répandre. Hypocrisie de langage (dans <hi rend="i">les Précieuses</hi>), hypocrisie d’éducation (dans l’<hi rend="i">École des Femmes</hi>), hypocrisie d’amour (dans <hi rend="color_FF0000">[p.6]</hi><hi rend="i">Don Juan</hi>), hypocrisie religieuse (dans <hi rend="i">Tartuffe</hi>), il le poursuivit partout avec une verve qui ne fit que s’accroître jusqu’à la mort. Son indignation fut au comble lorsqu’il vit l’<hi rend="i">Imposteur</hi> s’impatroniser au foyer domestique: pour le chasser, il devint plus puissant que le roi, et obtint une autorisation qui devait paraître impossible.</p>
+        <p>La gloire de Molière, c’est d’avoir fait <hi rend="i">Tartuffe.</hi> Avec ses autres pièces, son nom serait resté celui d’un grand artiste; mais, par <hi rend="i">Tartuffe</hi>, il est devenu celui d’un grand homme.</p>
+        <p>Il y aurait, sur le Tartuffe de Molière et sur le Tartuffe éternel de l’histoire, à disserter utilement; je ne l’ai pas fait. J’ai raconté sans observations, sans réflexions, la vie domestique de Molière, ses troubles et ses souffrances ; mais de quelle manière le grand écrivain dramatique fut préparé en lui par les influences lointaines du Théâtre Antique et du Théâtre Espagnol ; comment ce drame national de <hi rend="i">Tartuffe</hi> devait naître <hi rend="color_FF0000">[p.7]</hi>au XVII<hi rend="sup">e</hi> siècle dans l’âme de Molière ; comment il mit fin aux ténèbres du moyen-âge ; comment, après Rabelais, il prépara le siècle de Voltaire; comment tous les charlatans s’indignèrent de cette œuvre, voilà ce qu’il eût fallu dire. Mais à quoi bon tant de pages pour honorer le génie !</p>
+        <p>Molière n’a plus besoin de nos apologies; il demandait seulement, non pas pour lui, mais pour nous, que sa vie fut connue. Je l’ai racontée avec tendresse et respect. Ma pensée, en écrivant ces <hi rend="i">légendes</hi>, c’est que les grands hommes forment partout la <hi rend="i">patrie</hi> ; et je m’instruis à respecter en eux la mémoire de nos pères.</p>
+        <dateline><hi rend="i">Septembre</hi> 1852.<hi rend="color_FF0000">[p.8]</hi></dateline>
+      </div>
+      <div>
+        <head>[p.9]I.</head>
+        <p>Molière naquit à Paris le 15 janvier 1622. Ses parents, nommés Poquelin, tapissiers de père en fils, l’homme et la femme, habitaient près des Halles, au coin de la rue des Vieilles-Étuves et de la rue Saint-Honoré, une maison ornée de sculptures représentant des singes qui se jetaient des pommes; au-dessus de la porte pendait, pour enseigne une sorte de tente avec cette inscription : AU PAVILLON DES CINGES.</p>
+        <p>Le père, très à son aise, mais se voyant huit <hi rend="color_FF0000">[p.10]</hi>enfants en bas-âge, n’avait point d’autre ambition pour l’aîné, qui devint Molière, que de le voir lui succéder un jour dans sa charge de <hi rend="i">Tapissier du Roi.</hi> Dans ces vues, il lui fit apprendre à lire, à écrire, et le mit, tout enfant, à garder la boutique.</p>
+        <p>La renommée des Poquelin, pour leurs tapisseries, attirait du beau monde au <hi rend="i">Pavillon des cinges</hi>, des Messieurs de la cour, beaucoup de belles dames que déjà le petit garçon contemplait en silence.</p>
+        <p>Élevé au milieu du peuple par le voisinage des Halles, en pleine bourgeoisie par sa famille, il pouvait, parmi tant de brillants acheteurs, observer déjà les manières, l’habit, le langage de ces <hi rend="i">marquis</hi> et <hi rend="i">précieuses</hi> qu’il voyait arriver dans leurs chaises au magasin de son père.</p>
+        <p>Dans cet état de choses, à dix ans, il perdit sa mère. Son père, l’année d’ensuite, se remaria. Le pauvre enfant vit donc sa famille non-seulement lui manquer, mais devenir, en quelque sorte, pour lui une famille étrangère. Par bonheur il lui <hi rend="color_FF0000">[p.11]</hi>restait un grand-père maternel qui l’aimait éperdument; aussi ne se quittaient-ils jamais. Cependant le petit Poquelin tombait dans un abattement qui inquiétait bien le grand-père : il aurait voulu lui rendre un peu de cette sérénité naturelle à son âge, mais il ne savait comment faire. Comme ce bonhomme aimait la comédie, il essaya, pour le distraire, de le mener souvent au spectacle. Le théâtre le plus en vogue alors était celui de l’Hôtel de Bourgogne ; la cour et la ville y couraient applaudir, dans leur nouveauté, les pièces de Corneille.</p>
+        <p>Le petit Poquelin reçut là ses premières consolations, et il ne l’oublia jamais. Le théâtre en resta pour lui comme un lieu enchanté. Cela, dès à présent, nous explique en partie comment nous le verrons y chercher, jusqu’au dernier jour, un soulagement à ses plus amères tristesses. Car nous n’en sommes ici qu’au commencement de ses peines ; celui qui fit tant rire n’eut guère en partage que les larmes et la mélancolie ; mais il ne voulut point ajouter ses tristesses aux tristesses <hi rend="color_FF0000">[p.12]</hi>du monde. Au milieu de ses malheurs, il ne pensa aux autres hommes que pour les faire rire, les consoler, les rendre meilleurs. Mais, chose admirable ! Il les fit rire en leur parlant sérieux.</p>
+        <p>Puisse au moins le récit de sa vie rendre chère à tous, en sa personne, la mémoire de tant d’hommes qui, malgré leurs tristesses, n’ont voulu, en prenant la parole en ce monde, que faire entendre une voix consolante !</p>
+        <p>Outre les pièces de Corneille, outre Bellerose, le premier acteur du temps, le petit Poquelin voyait, à l’Hôtel de Bourgogne, trois comiques célèbres et de talent : Gauthier-Garguille, Gros-Guillaume, Turlupin, trois pauvres garçons qui, précisément, moururent dans ce temps-là d’une manière tragique et touchante : Gros-Guillaume s’étant moqué d’un certain magistrat, fut arrêté et mis dans un cachot; le saisissement qu’il en eut lui causa la mort, et la douleur que Gauthier-Garguille et Turlupin en ressentirent, les emporta aussi dans la même semaine. Molière avait douze ans alors ; d’avoir vu disparaître ainsi ses trois <hi rend="color_FF0000">[p.13]</hi>acteurs favoris, cela lui rendit plus cher encore le lieu où il avait recueilli un souffle de leur amitié, de leur gaîté naïve et courageuse.</p>
+        <p>Cependant de nouveaux enfants naissaient du second mariage, et le petit Poquelin, assis à son comptoir, devenait de plus en plus triste et rêveur.</p>
+        <p>Rentrant un jour de la comédie, il ne put résister au désir de tout expliquer à son père ; il lui confessa en tremblant (heureusement le grand-père était là), qu’il lui était impossible de s’accoutumer à sa profession, et qu’il désirait qu’on le fit étudier. Le grand-père ayant pris la parole à son tour, le père fut obligé de se rendre, et il consentit, après quelques explications, à l’envoyer comme externe au collège des Jésuites.</p>
+        <p>Mais au fond, que demandait l’enfant ? c’était de fuir cette sombre boutique, cette marâtre, ces nouveaux venus préférés... Et puis il avait ses quatorze ans, et il s’y mêlait ce vague besoin de connaître. Il ne pouvait se contenter de la vie de marchand. Comment, d’ailleurs, ne pas se sentir <hi rend="color_FF0000">[p.14]</hi>attiré vers ce théâtre où les hommes lui apparaissaient dans un si noble idéal par les pièces de M. Corneille, par <hi rend="i">Rodrigue</hi> et <hi rend="i">Chimène</hi>, en même temps que dans une réalité si touchante par l’aventure de ces deux comédiens morts ensemble de la mort d’un ami ?</p>
+      </div>
+      <div>
+        <head>II.</head>
+        <p>Plein de courage, allant et revenant tous les jours du <hi rend="i">Pavillon des cinges</hi> au collège, ayant à la fois pour l’instruire son grand-père, les rues, les Halles et ses régents, le petit Poquelin fit des progrès si rapides qu’en cinq années il acheva ses humanités et sa philosophie. Il eut pour condisciples et amis Chapelle, Bernier, Hesnault, le jeune prince de Conti, qui fut son premier protecteur, et Cyrano de Bergerac. Mais son plus grand bonheur au collège fut de recevoir, avec Chapelle et Bernier, les leçons particulières de l’illustre M. Gassendi. M. Gassendi, outre sa science, outre <hi rend="color_FF0000">[p.15]</hi>les charmes de son esprit et de son caractère, avait encore, pour augmenter son autorité sur ses jeunes élèves, d’être en relations avec les plus savants hommes de l’Europe. On parlait de sa correspondance avec Galilée qui, précisément dans ce temps là, était persécuté pour avoir dit que la terre tournait. M. Gassendi, de son côté, proclamait l’existence du vide, découvrait cinq satellites de Jupiter, attaquait les sectateurs d’Aristote, et osait défendre, contre les médecins et les théologiens, le système de Harvey sur la circulation du sang.</p>
+        <p>Ajoutons ce point remarquable que Gassendi était petit neveu de Guillaume Budé; et que Guillaume Budé avait été l’ami de Marot, de Bonaventure Despériers, de Louis Berquin, de Tiraqueau, des frères Dubellay et de François Rabelais. Budé avait été ambassadeur du roi François I<hi rend="sup">er</hi> auprès du pape Léon X ; et, par tradition de famille, Gassendi savait, sur tous ces hommes, des anecdotes qu’il racontait à ravir. La mémoire de l’oncle Budé lui était restée si chère qu’il voulut être <hi rend="color_FF0000">[p.16]</hi>enterré près de lui. Gassendi semblait, en effet, avoir hérité de l’esprit de libre causerie et de libre recherche qui avait animé les grands esprits du siècle précédent. Âme douce et candide, il avait en lui déjà tous les pressentiments de Voltaire. <quote>« Ô l’heureux temps, </quote>écrivait-il un jour à ses amis, <quote>ô l’heureux temps où nous nous moquions de la comédie que joue le monde entier, où nous philosophions ensemble, où nous avions le plaisir de dire souvent : nous sommes seuls, nous pouvons, sans craindre les envieux, nous appliquer sérieusement à la recherche de la vérité ! »</quote></p>
+        <p>Mais Gassendi ne voulut pas troubler le monde avant l’heure, et il écrivit en latin.</p>
+        <p>Ému d’enthousiasme aux leçons d’un tel maître, le jeune Poquelin traduisit en vers, sous ses yeux, le poème de Lucrèce ; ce fut son premier essai poétique. Il est vrai que déjà, au milieu de ses occupations sérieuses, il composait avec Cyrano de Bergerac des comédies qu’ils lisaient et jouaient ensemble dans les récréations.</p>
+      </div>
+      <div>
+        <head>[p.17]III.</head>
+        <p>Il sortit des Jésuites à dix-neuf ans. Son grand-père était mort il y avait trois ans déjà; son père se trouvant infirme, il fut obligé d’exercer pendant quelque temps sa charge de <hi rend="i">tapisssier-valet de chambre du roi</hi>, et d’accompagner Louis XIII à Narbonne. Dans ce voyage, au milieu d’un monde de courtisans, il avait l’honneur d’aider, quelquefois, à préparer le lit de Sa Majesté. Quelle comédie ! quel champ d’observations ! Mais, quoique jeune, il était déjà moins attentif aux choses du dehors, souvent trompeuses, qu’à celles qui se pouvaient passer au fond des cœurs.</p>
+        <p>Après ce voyage, qui dura près d’un an, la plupart des biographes laissent une lacune de trois années, trois années, sans doute, d’isolement et d’études, durant lesquelles, suivant les mieux informés, le jeune Poquelin alla faire son droit à Orléans.</p>
+        <p>Ce furent les années de Rocroy, de Fribourg et <hi rend="color_FF0000">[p.18]</hi>de Nordlingue ! Tout respirait la gloire alors Condé dans les batailles, et Corneille au théâtre étaient dans leur éclat. De grands esprits partout se préparaient.</p>
+      </div>
+      <div>
+        <head>IV.</head>
+        <p>Poquelin, en 1645, à vingt-trois ans, est de retour à Paris et reçu avocat, suivant toute apparence ; mais au lieu de plaider, il joue la comédie à la Porte-de-Nesle, au milieu d’une troupe bourgeoise organisée depuis peu par les deux frères Béjart et leur sœur Madeleine. La comédie, pour les jeunes gens d’alors, était un divertissement fort en vogue. Ceux-ci s’étant bien divertis, ayant pris goût à ce jeu et se croyant devenus, en quelques mois, des acteurs consommés, s’imaginèrent de tirer profit et gloire de leurs représentations, et d’ouvrir leur théâtre au public. Le projet était sérieux, si sérieux, qu’ils s’établirent à grand bruit dans le jeu de paume de la Croix-Blanche<hi rend="color_FF0000">[p.19]</hi> au faubourg Saint-Germain, où les voilà jouant, tant bien que mal, les chefs-d’œuvre du temps.</p>
+        <p>Cris, emportements, reproches, cela va sans dire, dans la famille du petit Poquelin. Père, frères, beau-frères, oncles, cousins, grandes tantes, tous se scandalisèrent. Il allait les déshonorer, ternir à tout jamais leur nom, leur beau nom de tapissiers, de juges, de consuls. Il leur laissa leur nom, prit son nom de Molière ; ils dirent et firent ensuite tout ce qu’ils voulurent.</p>
+        <p>N’avait-il pas pour lui, au fond de sa tombe, son vieux grand-père ? N’était-ce pas là toute sa famille, sa vraie famille ? Qui l’avait aimé, caressé, élevé; qui l’avait connu seulement, si ce n’est son grand-père ? Et n’était-ce pas son grand-père lui-même qui l’avait induit, encouragé à se plaire <hi rend="i">en ce noble métier</hi>, comme disait M. Corneille dans sa belle comédie de l’<hi rend="i">Illusion</hi> ?</p>
+        <p>Un jour que son père avait grondé le bonhomme de mener si souvent son petit-fils au spectacle :</p>
+        <list type="ul">
+          <item><quote>Avez-vous envie,</quote> lui dit-il, <quote>d’en faire un comédien ?</quote></item>
+          <item><hi rend="color_FF0000">[p.20]</hi><quote><hi rend="i">Plut à Dieu</hi>,</quote> avait répondu le grand-père, <quote><hi rend="i">qu’il fut aussi bon comédien que Bellerose</hi> !</quote></item>
+        </list>
+        <p>Eh ! que lui fallait-il davantage ? Ajouterai-je avec Corneille, que <hi rend="i">tous les bons esprits</hi> commençaient à se tourner du côté du théâtre, que Richelieu lui-même, cardinal et ministre, avait écrit pour le théâtre ?</p>
+        <quote>
+          <l>À présent le théâtre</l>
+          <l>Est en un point si haut que chacun l’idolâtre,</l>
+        </quote>
+        <p rend="noindent">disait Corneille. Toutes les jeunes âmes étaient emportées par le succès du <hi rend="i">Cid.</hi> De plus, le roi avait publié, en 1641, une déclaration par laquelle il défendait que l’<hi rend="i">état de comédien pût être désormais imputé à blâme, et préjudiciât à la réputation du comédien dans le commerce public.</hi> Il n’en fallait pas tant pour affermir nos jeunes gens dans leur résolution. Ils s’établirent donc sous le nom de <hi rend="i">L’Illustre Théâtre.</hi> Mais ils ne s’illustrèrent qu’en se faisant siffler ; ce qui n’arriva, disent les biographes, que parce qu’ils ne voulurent pas suivre <hi rend="color_FF0000">[p.21]</hi>les conseils de Molière qui avait pourtant de bien meilleures vues qu’eux sur leur art. Heureusement, le gouvernement de la troupe, après cet échec, passa dans ses mains; et, sous sa direction, l’on s’en alla jouer en province.</p>
+        <p>Caravane joyeuse ! un peu folle peut-être ; mais quel chef ils avaient ! Habile, méditatif et sérieux. Ils allèrent de ville en ville et de châteaux en châteaux, jusqu’aux extrémités du royaume, si mélangé alors de provinces, de mœurs, de langages. Ils portaient avec eux le génie de la France, et ils adoucirent, au fond de leurs donjons, ces vieux tyrans de nos provinces lointaines.</p>
+        <p><quote>« Nous jouâmes un mois devant cette noblesse,</quote> dit une comédienne dans le <hi rend="i">Roman Comique</hi>, <quote>le baron nous faisait manger à sa table; ses gens nous servaient avec empressement, et nous disaient souvent qu’ils nous étaient obligés de la bonne humeur de leur maître, qu’ils trouvaient tout changé depuis que la comédie l’avait humanisé. »</quote></p>
+        <p>À ce qui précède il faut ajouter un seul point, <hi rend="color_FF0000">[p.22]</hi>mais essentiel. <hi rend="i">Molière</hi>, dit-on, <hi rend="i">en formant sa troupe, lia une forte amitié avec la Béjart.</hi>.. C’était une femme de beaucoup d’esprit, vive, active, entendue à tout, mais qui n’avait pas les grâces naïves qu’il eût fallu pour charmer Molière. Il ne pouvait placer en elle 1’espoir d’une famille comme il l’eût voulue ! Mais Madeleine avait auprès d’elle une petite sœur de quelques mois seulement. Molière, devant cette enfant, se prenait à rêver... Des projets lui vinrent, vagues d’abord, mais qui peu à peu s’affermirent.</p>
+        <p>Cheminant en voiture, assis au milieu de ses décorations de théâtre, tout pensif, il tenait la petite sur ses genoux... Quelle était alors sa préoccupation secrète, mystérieuse, outre ses essais comme acteur et auteur ? C’était de se faire une famille, un ménage, <hi rend="i">une innocente vie.</hi> Mais dans quelles régions trouverait-il une femme selon son cœur, pauvre comédien qu’il était, rebuté de sa propre famille ? Chaque jour il se plaisait davantage aux sourires de la petite Armande (c’était son nom); et l’enfant, de son côté, n’était <hi rend="color_FF0000">[p.23]</hi>heureuse qu’avec Molière. Elle n’avait pas dans la troupe d’autre famille que lui. Lui seul, en effet, semblait veiller sur elle.</p>
+        <p><quote>« Cette petite fille, accoutumée avec Molière qu’elle voyait continuellement, </quote>dit Grimarest, <quote>l’appela son mari dès qu’elle sut parler, et, à mesure qu’elle croissait, ce nom déplaisait moins à Molière. »</quote></p>
+        <p>On a peu de détails sur les cinq premières années de ses pérégrinations en province; on sait seulement qu’il passa par Bordeaux, qu’il y fut favorablement accueilli par M. d’Épernon, gouverneur de Guyenne, et qu’il y représenta une tragédie de sa façon, intitulée <hi rend="i">la Thébaïde</hi>, la même dont il donna plus tard le plan à Racine.</p>
+        <p>Après ces cinq années de courses, en 1650, il reparaît à Paris, et s’y essaie de nouveau par quelques représentations chez le prince de Conti, frère du grand Condé et son ancien condisciple.</p>
+        <p>C’était la Fronde, c’était le règne des Matamores, les Jodelets et des Capitans. Scarron, l’écrivain comique à la mode, dut voir Molière, en entendre <hi rend="color_FF0000">[p.24]</hi>beaucoup parler tout au moins. D’ailleurs, il commençait à être bruit de la troupe ambulante, Molière surtout attirait l’attention par son esprit, par son noble savoir-vivre et par sa probité. Mille anecdotes bizarres se répandaient de leurs cinq années de vie aventureuse. Scarron ne puisa-t-il point là l’idée de son <hi rend="i">Roman Comique</hi> ? Je ne sais mais il me semble retrouver dans l’esquisse inachevée du comédien <hi rend="i">Destin</hi>, quelques traits épars du caractère élevé de Molière.</p>
+        <p><quote>« Il était excellent comédien, vaillant, honnête homme, entendu... fort amoureux. Cependant il vivait avec la Létoile dans le plus grand respect du monde. Destin avait de l’esprit et faisait voir qu’il avait été bien élevé... Parlant peu, généreux autant qu’on peut l’être, etc. »</quote> </p>
+        <p>Une conversation sur les femmes à esprit qu’il lui fait avoir dans une hôtellerie du Bas-Maine, avec un conseiller au parlement de Rennes, semblerait vraiment indiquer une conversation de Molière lui-même, occupé déjà des <hi rend="i">Précieuses.</hi></p>
+        <p>Nos comédiens, cependant, ne restèrent point <hi rend="color_FF0000">[p.25]</hi>à Paris. Qu’était-il besoin d’eux dans cette comédie de la Fronde où l’on avait pour bouffons les plus grands personnages ? Ils s’en retournèrent en province, et de nouveau les détails manquent jusqu’en 1653 ; mais on sait bien positivement que Molière demeura toute cette année là à Lyon, qu’il y eut le plus grand succès, qu’il y mit à bas deux autres troupes dont les meilleurs le suivirent, tels que Lagrange, Ducroisy, Duparc, M<hi rend="sup">lles</hi> Debrie et Duparc, et qu’il y donna l<hi rend="i">'Étourdi.</hi></p>
+        <p>On voit dans cette pièce combien Molière, en province, organisa ses comédies en vue des populations au milieu desquelles elles devaient être représentées, et combien, pour réussir, il était attentif à tout. Lyon était alors, en grande partie, une colonie florentine. Pour plaire aux Italiens qui peuplaient cette ville, il plaça son action à Messine.</p>
+        <p>Qu’on se figure, au sortir des Jodelet de Scarron, quel charme dut avoir Mascarille ! Jodelet était</p>
+        <quote>
+          <l>Un misérable</l>
+          <l>Qui préfère l’ail à l’honneur.</l>
+        </quote>
+        <p><hi rend="color_FF0000">[p.26]</hi>Mascarille, au contraire (et ce rôle était rempli par Molière lui-même), Mascarille est plein de finesse : il gouverne son maître, remue tout à force d’esprit, et, dans ses fourberies, lui, c’est la gloire qui le pousse,</p>
+        <quote>
+          <l>Si je suis maintenant ma juste impatience,</l>
+          <l>On dira que je cède à la difficulté,</l>
+          <l>Que je me trouve à bout de ma subtilité ;</l>
+          <l>Et que deviendra lors cette publique estime</l>
+          <l>Qui te vante partout comme un fourbe sublime ?...</l>
+          <l>L’honneur, ô Mascarille !</l>
+        </quote>
+        <p>Le rôle se terminait par ces vers risibles, qui pourtant allaient bien à Molière ;</p>
+        <quote>
+          <l>N’est-il point quelque fille</l>
+          <l>Qui pût accommoder le pauvre Mascarille ?</l>
+          <l>À voir chacun se joindre à sa chacune ici,</l>
+          <l>J’ai des démangeaisons de mariage aussi,</l>
+          <l>Etc.</l>
+        </quote>
+      </div>
+      <div>
+        <head>V.</head>
+        <p>La troupe, après s’être fait applaudir dans <hi rend="i">l’Étourdi</hi>, quitta Lyon; nos comédiens se rendirent <hi rend="color_FF0000">[p.27]</hi>à Montpellier, auprès du prince de Conti qui tenait là les États du Languedoc ; ils y donnèrent le <hi rend="i">Dépit Amoureux.</hi> Le succès fut complet, et Monsieur le Prince, pour son compte, en fut si charmé qu’il confia à Molière la direction des spectacles et des plaisirs dont il régalait la province pendant les États. Mais bientôt Molière lui parut un garçon si intelligent, si honnête homme, qu’il le voulut faire son secrétaire.</p>
+        <p>C’était un très grand honneur pour un pauvre comédien de campagne ; cependant Molière pria, avec respect, Monsieur le Prince de permettre qu’il ne l’acceptât pas, et qu’il restât à la comédie qui était, disait-il, sa véritable vocation. Ses amis le blâmèrent de refuser un emploi si avantageux; il leur répondit que chacun avait son rôle en ce monde, que le sien était d’amuser le peuple, de divertir les princes, mais non de les servir. <quote>« Mon humeur sombre, capricieuse, m’enlève la flexibilité qu’il faut pour servir chez les grands. D’ailleurs, ces pauvres gens que j’ai amenés si loin, que deviendraient-ils ? je ne les abandonnerai pas. »</quote></p>
+        <p><hi rend="color_FF0000">[p.28]</hi>Et puis, comment quitter Madeleine Béjart et la petite sœur Armande ?</p>
+        <p>D’autres raisons encore l’empêchaient d’accepter : il aimait le théâtre, il se sentait roi dans sa petite république, il se plaisait à faire des harangues. Son grand bonheur, c’était d’avoir à former, à élever des âmes. Nous le verrons faire l’éducation de sa femme, l’éducation de sa troupe, l’éducation de Baron. Aurait-il fait l’éducation du prince de Conti ? Mais, outre ces motifs, comment était mort le dernier secrétaire du prince, le poète Sarrasin ? Des suites d’un coup de pincettes que M. de Conti lui avait donné à la tempe. Cela ne rendait pas la place très enviable.</p>
+        <p>Il continua donc les représentations du <hi rend="i">Dépit Amoureux.</hi> Cette pièce est moins que l’<hi rend="i">Étourdi</hi> mêlée d’intrigues, de récits, d’aventures, mais en revanche, les cœurs s’y montrent mieux. Molière s’était dit qu’il fallait mettre plus en relief les passions de ses personnages, et entasser sous leur pas moins d’aventures romanesques. Il sentit que la vraie comédie ne se contente pas d’aventures <hi rend="color_FF0000">[p.29]</hi>risibles; qu’elle doit surtout reproduire la comédie intérieure bien autrement comique que l’autre; aussi les détails extérieurs iront-ils se simplifiant de plus en plus dans ses pièces, tandis qu’au contraire les inextricables péripéties du dedans s’y produiront chaque jour davantage. Cependant, une partie du comique dans le <hi rend="i">Dépit Amoureux</hi> repose encore sur les saillies des valets. L’intérêt naissait, dans l’<hi rend="i">Étourdi</hi>, de mille contre-temps inattendus. On est charmé, dans le <hi rend="i">Dépit</hi>, par les propos de Marinette et de Gros-Réné. Quant à l’amour, voilà ce que Molière y sut peindre en maître, et c’était aussi la chose qu’il connaissait bien alors.</p>
+        <p>Il avait été quelque temps touché des charmes de Madeleine, mais chaque jour il s’apercevait davantage qu’il ne trouverait pas en elle la femme qu’il avait rêvée. Au temps où nous voici parvenu, la petite Armande, grave déjà dans son maintien, pleine de grâces et d’attraits dans ses yeux, dans sa voix, touchait à sa dixième année ; c’est pour elle, dont il faisait l’instruction, qu’il <hi rend="color_FF0000">[p.30]</hi>avait élevée, aimée dès le berceau, qu’il s’éprit alors d’une passion si étrange.</p>
+        <p>Molière, dans le <hi rend="i">Dépit Amoureux</hi>, joua le rôle d’Albert ; pourquoi plus celui de Mascarille ou de Gros-Réné ? Afin de permettre à deux de ses camarades de faire valoir leurs talents comme valets. Le rôle de Gros-Réné fut même écrit exprès pour Duparc, qui venait de se joindre à la troupe. Il lui donna ce nom de Gros-Réné, parce qu’en effet cet acteur était gros et très large des reins ; de là ce vers :</p>
+        <quote>
+          <l>Je suis homme fort rond de toutes les manières.</l>
+        </quote>
+        <p>Au comédien Lespy, qui avait une voix de Stentor, il donnera le nom de Gorgibus.</p>
+        <p>De Montpellier, nos comédiens retournèrent à Lyon, d’où ils allèrent à Avignon, à Pézénas, à Narbonne ; et partout sur leur passage ils laissèrent des souvenirs charmants de leur aménité, de leur franchise, de leur cordialité joyeuse. Molière surtout plaisait par sa dignité, par son bon sens.<hi rend="color_FF0000">[p.31]</hi></p>
+        <p>On se sentait avec eux comme en famille. Étant repassé par Avignon, en 1657, Molière y trouva Mignard qui revenait d’Italie, où il était resté vingt-deux ans, et ils lièrent ensemble une amitié qui dura toute leur vie.</p>
+        <p>Ces pérégrinations, ces succès en province durèrent treize années (tout le temps de la Fronde), après quoi l’on commença à se rapprocher de Paris. Molière voyait sa troupe assez formée pour oser la produire devant la cour. Il comptait, d’ailleurs, sur la recommandation de M. le prince de Conti. Toutefois, il ne se hâtait pas trop, il n’était pas fâché d’étudier à fond la province : il sentait combien il pouvait, par ces gentils hommes de campagne, donner à rire aux Parisiens. Il visita Béziers, Vienne, Limoges, patrie de Monsieur de Pourceaugnac.</p>
+        <p>Qui n’eût voulu le voir avec sa troupe et tout son attirail de théâtre : costumes, décorations, engins de toutes sortes, voyageant par le coche, à pied, à cheval, en bateau, quelquefois en charrette, par les chemins et les campagnes d’alors, <hi rend="color_FF0000">[p.32]</hi>faisant remarque de tout sur son passage, et apprenant jusqu’aux patois des pays qu’il traverse ? À chaque nouvelle ville, nouveaux rôles à apprendre : comédies, tragédies, tout y passait ; un public à haranguer, des acteurs à instruire, une troupe à conduire, que d’affaires ! Et Plaute, et Térence, et Ménandre, et toute l’antiquité qu’il fallait étudier. Ce fut donc en courant, au milieu du bruit et des embarras, dans les hôtelleries, qu’il écrivit l’<hi rend="i">Étourdi</hi>, le <hi rend="i">Dépit</hi>, et vingt autres pièces dont je n’ai point parlé : <hi rend="i">Les Trois Docteurs rivaux, Le Maître d’École, Gorgibus dans le Sac, Le Médecin volant, Le Grand benêt de fils, Le Docteur amoureux</hi>, toutes pièces maintenant perdues ou oubliées, ou devenues très rares. Malgré cela, doux et sociable envers tous, misanthrope avec lui seulement, bon, généreux, infatigable, plein de tendresse et de besoins d’aimer et d’être aimé surtout, il trouvait encore des heures de causeries à donner à ses camarades, à Madeleine, à Mignard, et des journées entières pour élever, embrasser et chérir sa belle petite Armande.</p>
+        <p><hi rend="color_FF0000">[p.33]</hi>Partie du Languedoc, la troupe s’arrêta à Grenoble, y joua pendant le carnaval, puis vint à Rouen. Molière comptait bien que de là leur renommée ne manquerait pas de s’étendre à Paris, et même de les y faire désirer. Ce séjour, au milieu des Normands (où il trouva le type du bon <hi rend="i">huissier à verge</hi>), dura tout l’été de 1658, et Molière fit, dans cet été, plusieurs voyages seul à Paris, pour s’y préparer la protection de Monsieur.</p>
+        <p>Cette protection, par l’entremise du prince de Conti, lui ayant été assurée, il rentra à Paris au mois d’octobre de la même année, et sa troupe, présentée au roi par Monsieur, fut admise à l’honneur d’une représentation devant la cour.</p>
+      </div>
+      <div>
+        <head>VI.</head>
+        <p>Le théâtre, comme décorations et machines, était alors dans tout son éclat, depuis Corneille et Richelieu; mais c’était encore chose nouvelle. En <hi rend="color_FF0000">[p.34]</hi>effet, <quote>« j’ai oui dire à des gens âgés, </quote>raconte Perrault, <quote>qu’ils avaient vu le théâtre de la comédie de Paris de la même structure et avec les même décorations que celui des danseurs du Pont-Neuf; que la comédie se jouait en plein air et en plein jour, que le bouffon de la troupe se promenait par la ville avec un tambour pour avertir qu’on allait commencer. Les pièces qui nous restent de ce temps-là sont de la même beauté que le lieu où l’on en faisait la représentation. Ensuite on les joua à la chandelle, et le théâtre fut orné de tapisseries qui donnaient des entrées et des sorties aux acteurs par l’endroit où elles se joignaient l’une à l’autre.</quote></p>
+        <p><quote>Ces entrées et ces sorties étaient fort incommodes, et mettaient souvent en désordre les coiffures des comédiens, parce que ne s’ouvrant que fort peu par en haut, elles retombaient rudement sur eux quand ils entraient ou quand ils sortaient. Toute la lumière consistait d’abord en quelques chandelles dans des plaques de fer blanc attachées aux tapisseries ; 
+          <hi rend="color_FF0000">[p.35]</hi>
+        mais comme elles n’éclairaient les acteurs que par derrière et un peu sur les côtés, ce qui les rendait presque tout noirs, on s’avisa de faire des chandeliers avec deux lattes mises en croix, portant chacun quatre chandelles pour mettre au-devant du théâtre. Ces chandeliers, suspendus grossièrement avec des cordes et des poulies apparentes, se haussaient et se baissaient sans artifice, et par main d’homme, pour les allumer et les moucher. La symphonie était d’une flûte et d’un tambour, ou de deux méchants violons au plus. »</quote> </p>
+        <p>Molière et les Béjart, en province, avaient joué bien des fois dans des loges du genre de celles que nous décrit Perrault ; mais ce fut au Louvre, sur un théâtre dressé par les ordres du roi, qu’eut lieu ce début devant leurs Majestés.</p>
+        <p>Ils avaient choisi, pour cette circonstance, <hi rend="i">Nicomède</hi> de Corneille, et ils s’en acquittèrent aux applaudissements de la cour. Après la tragédie, Molière, qui aimait la harangue, s’avança sur le bord du théâtre, salua avec une grâce infinie, fit <hi rend="color_FF0000">[p.36]</hi>un discours au roi, à toute l’assemblée (c’était l’usage), et demanda la permission de représenter un de ces petits divertissements à la manière des Italiens... Le discours fut charmant, plein d’adresse, et plut beaucoup.</p>
+        <p>Cette première représentation se termina donc par le <hi rend="i">Docteur Amoureux.</hi> Après avoir montré tant de bonne grâce dans le petit discours, Molière fut ravi de paraître sous l’accoutrement du docteur. Il y eut un si grand succès que le roi, dès ce jour-là, le prit en estime. Le discours, d’ailleurs, plein d’une flatterie fine, l’avait charmé. Aussi donna-t-il des ordres pour que la salle du Petit-Bourbon fut mise à la disposition des nouveaux comédiens; et ils y jouèrent alternativement avec les Italiens jusqu’en 1660, époque à laquelle ils s’établirent au Palais-Royal, sous le titre de <hi rend="i">Comédiens de Monsieur.</hi></p>
+        <p>Molière, jusqu’ici, avait marché dans les voies de ses devanciers et contemporains. Il s’était conformé, mais en maître, au genre un peu factice du temps : des amoureux sous le balcon d’une <hi rend="color_FF0000">[p.37]</hi>belle, à la manière espagnole, puis des valets rusés jouant mille bons tours à de risibles Gérontes, leur enlevant filles, nièces, etc. Ce sont des comédies amusantes, pleines de verve et bien inventées, mais ce n’est point la vie. Tout cela, c’est l’extérieur de l’homme; il y a dans son âme de bien autres comédies, pensait Molière. <quote>« Je ne comprends pas,</quote> disait-il un jour à ses camarades, en Languedoc, <quote>comment des personnes d’esprit prennent du plaisir à ce que je leur donne; mais je sais bien qu’à leur place je n’y trouverais aucun goût. »</quote> Il sentait combien son art était encore au-dessous de son cœur. Oh ! s’il venait jamais à exprimer ce cœur, on verrait ce que c’est que la vraie comédie !</p>
+        <p>Dès son établissement à Paris, il s’essaie dans des voies nouvelles ; il donne les <hi rend="i">Précieuses.</hi> Son premier coup d’œil dans ce beau monde avait été pour les femmes. Occupé d’élever sa petite Armande, la fausse éducation qu’on leur donne et leur désœuvrement le frappèrent. <quote><hi rend="i">À quoi donc passez vous le temps, mesdames</hi>,</quote> leur demandait-il <hi rend="color_FF0000">[p.38]</hi>dans le rôle de Mascarille. <quote><hi rend="i">À rien du tout</hi>,</quote> répond Cathos. Leurs minauderies, leur jargon inintelligible, le pathos des pédants, furent à jamais couverts de ridicule ; au galimatias des ruelles, il opposait cette prose vraie et de bon sens que lui seul a eue.</p>
+        <p>On s’étouffait aux premières représentations : il fallut doubler, tripler le prix des places pendant quatre mois. On accourait de vingt lieues à la ronde. Du milieu du parterre un vieillard s’écria ; <quote><hi rend="i">Courage, courage, Molière ! voilà la bonne comédie</hi> !</quote> Ménage s’en prétendit guéri du style amphigourique.</p>
+        <p>Ici plus d’intrigues, plus de saillies; mais seulement la conversation reproduite des sociétés du temps ; or, la conversation, dans le beau monde où l’on avait pour règle de parler autrement que le peuple, en était arrivée à un degré de puérilité difficile à croire. Les objets les plus simples, une chaise, un chou, ne s’appelaient plus par leurs noms. On avait donné à tout des appellations merveilleuses. Les noms propres eux-mêmes, ceux <hi rend="color_FF0000">[p.39]</hi>des rues et ceux des personnes, n’avaient point été respectés. On leur substituait des noms de roman.</p>
+        <p>On disait <hi rend="i">la place de Délos</hi>, pour l’île Notre-Dame ; <hi rend="i">le quartier des Scholies</hi>, pour le Marais. Madame Daligre et madame Daragonnais, grandes précieuses, étaient devenues <hi rend="i">Thélamire</hi> et <hi rend="i">la princesse Philoxène;</hi> Sarrasin, Conrard, Saint-Aignan, c’étaient <hi rend="i">Polyandre, Théodamas, Artaban.</hi> Godeau, le petit évêque de Grasse, s’appelait <hi rend="i">le Mage de Sidon</hi> ou <hi rend="i">le Nain de Julie</hi> ( à cause de ses relations avec Julie d’Angennes). Catherine de Rambouillet, la reine de ce monde, ne fut-elle pas louangée en chaire, par Fléchier, sous le nom de <hi rend="i">l’Incomparable Arthénice</hi> ?</p>
+        <label>
+          <figure>
+            <label>GORGIBUS</label>
+            <p>[…] Cathos et vous Madelon.</p>
+            <label>MADELON.</label>
+            <p>Eh ! de grâce, mon père, défaites-vous de ces noms étranges et nous appelez autrement.</p>
+            <l/>
+            <label>GORGIBUS.</label>
+            <p>Comment ces noms étranges ? Ne sont-ce pas vos noms de baptême ?</p>
+            <l/>
+            <label><hi rend="color_FF0000">[p.40]</hi>MADELON.</label>
+            <p>Mon Dieu, que vous êtes vulgaire !... a-t-on jamais parlé, dans le beau style, de Cathos, ni de Madelon, et ne m’avouerez-vous pas que ce serait assez d’un de ces noms pour décrier le plus beau roman du monde ?</p>
+            <label>CATHOS.</label>
+            <p>Il est vrai, mon oncle, qu’une oreille un peu délicate pâtit furieusement à entendre prononcer ces mots-là ; et le nom de Polyxène que ma cousine a choisi et celui d’Aminte que je me suis donné, ont une grâce dont il faut que vous demeuriez d’accord...</p>
+            <head/>
+            <figDesc/>
+          </figure>
+        </label>
+        <p>La pièce se terminait par cette apostrophe plaisante du bonhomme Gorgibus aux précieuses.</p>
+        <quote>
+          <p>« Voilà ce que vous vous êtes attiré par vos extravagances. Allez vous cacher, vilaines ; allez vous cacher pour jamais. Et vous qui êtes cause de leur folie, sottes billevesées, pernicieux amusements des esprits oisifs, romans, vers, chansons, sonnets et sonnettes, puissiez-vous être à tous les diables ! »</p>
+        </quote>
+        <p>Les critiques ne manquèrent pas, comme on peut croire, à tant de vérité : c’était, à les ouïr, une <hi rend="color_FF0000">[p.41]</hi>charge trop grossière, une intolérable bouffonnerie.</p>
+        <p>Molière alla son chemin, écouta peu les critiques, continua d’étudier Plaute et Térence, et de lire dans son cœur. Hélas ! S’il donnait la comédie aux autres, la contemplation de ses propres passions la lui donnait à lui-même bien autrement profonde! À peine sur le théâtre en osait-il redire quelques traits ! Il l’essayait cependant : au temps où nous sommes, sa pensée de tous les instants, c’était la petite Armande : elle était dans sa seizième année. Il la surveillait avec un soin extrême, l’instruisait dans son art, admirait son talent, sa beauté, ses charmes, qui déjà fixaient d’autres regards que les siens. Il lui sembla qu’il devenait jaloux. L’idée cruelle que tous ces soins pourraient être perdus, que ces moyens de plaire, ces grâces, cet esprit qu’il avait développés en elle tourneraient, peut-être, contre lui, le troubla quelquefois ; mais un sourire de la belle petite le rassurait et le faisait s’égayer ensuite de ses propres terreurs. Pour s’en punir, il écrivit et joua <hi rend="color_FF0000">[p.42]</hi>en personne le rôle de Sganarelle <hi rend="i">Cocu Imaginaire.</hi></p>
+        <p>Cette pièce fut un nouveau succès pour Molière, quoique jouée au milieu de l’été, et pendant que le mariage du roi tenait toute la cour éloignée de Paris; mais la ville, pendant ce temps, n’en fit que mieux connaissance avec les nouveaux comédiens ; et quarante représentations ne suffirent point à l’empressement du public.</p>
+        <p>Après ce succès, il y eut, dans les représentations de Molière, une suspension : il lui fallut déménager son théâtre, aller du Petit-Bourbon au Palais-Royal, le Petit-Bourbon se trouvant sur le point d’être démoli pour construire le portail du Louvre. Molière prit cette occasion pour demander au roi la salle du Palais-Royal, qui lui fut accordée, tant il avait su promptement s’acquérir l’estime de toutes les personnes qu’il approchait à la cour. Il eut aussi la prudence de conserver la charge de Tapissier-Valet de chambre que lui avait laissée son père. Cet emploi lui donna, au près du roi, des entrées fréquentes qui furent sa force contre bien des intrigues.</p>
+      </div>
+      <div>
+        <head>[p.43]VII.</head>
+        <p>Établi dans sa nouvelle salle, il semble qu’il ait voulu s’élever à un ton plus noble ; au mois de février 1661. Neuf mois après Sganarelle, il donna <hi rend="i">Don Garde de Navarre ou le Prince jaloux</hi> ; même sujet que le précédent, mais cette fois pris au sérieux.</p>
+        <p>La pièce n’eut aucun succès, et Molière y fut sifflé dans le rôle de Don Garcie. Il ne voulut jamais la faire imprimer, et elle ne le fut qu’après sa mort, par les soins du comédien Lagrange. N’en voulant pas tout perdre, cependant, il y puisait de temps en temps quelques vers, pour ses autres pièces ; et des passages entiers s’en retrouvent dans le <hi rend="i">Misanthrope</hi>, dans <hi rend="i">Tartuffe</hi>, dans les <hi rend="i">Femmes Savantes</hi> ; mais il eut pu y puiser encore, entre autres ces beaux vers :</p>
+        <quote>
+          <l>Un soupir, un regard, une simple rougeur,</l>
+          <l>Un silence est assez pour expliquer un cœur.</l>
+          <l>Tout parle dans l’amour.</l>
+        </quote>
+        <p><hi rend="color_FF0000">[p.44]</hi>Molière avait écrit pour lui le rôle de Don Garcie : c’était un peu lui-même, mais dans des circonstances qui n’étaient point les siennes, voilà pourquoi il s’en tira gauchement. Il s’y était arrangé en prince, en personnage d’État, et ce rôle lui allait mal.</p>
+        <p>Don Garcie fut le tâtonnement d’un esprit qui cherche sa forme ; il avait employé, pour ses premières pièces, la langue plébéienne, âpre, forte, hardie : ce langage pouvait aller, au sortir de la Fronde ; mais devant cette cour polie de Louis XIV, il fallut que ce style changeât : la sève resta la même, mais la forme fut contenue. Sans cesser de plaire au peuple qu’il aimait, il sut charmer les hommes éclairés. L’art de parler à tous, de faire accepter à tous sa pensée fut justement un des grands secrets de Molière. Il avait senti qu’il ne suffisait pas d’avoir en soi le sentiment du vrai, qu’il fallait encore le savoir communiquer aux hommes de toutes les classes; qu’il fallait, lorsqu’on est dans le bon sens quant au fond, rester aussi dans le bon sens quant à la forme. Doué <hi rend="color_FF0000">[p.45]</hi>d’une âme ardente, d’un esprit par-dessus tous novateur, il eut cependant toujours un langage si riche de sens commun et de simplicité, qu’il semble, quand on l’entend, qu’un chacun eût pu dire tout ce qu’il dit.</p>
+        <p>Il n’hésita pas longtemps : en juin, quatre mois après Don Garcie, il représente l’<hi rend="i">École des Maris</hi>. Il se décida enfin à faire paraître la petite Armande sur son théâtre, à côté de lui. Le véritable confident de sa passion jusqu’à la fin de sa vie, ce fut le public, ce public, qui chaque soir accourait, avide de l’entendre : il voulut lui montrer quelle charmante élève il avait faite ; il écrivit pour elle le court et joli rôle de <hi rend="i">Léonor</hi>, qui lui ressemble tant.</p>
+        <p>Les plus savants commentateurs prétendent que la pièce est tirée des <hi rend="i">Adelphes</hi> de Térence ; n’en croyez rien : Molière l’a tirée de lui-même. Qu’importe le cadre ? Sans doute, quand il mit au jour cette page de sa vie, il était imbu de Térence, et c’est la plus antique de ses pièces ; mais qu’il me paraît peu intelligent de ne voir là qu’une imitation <hi rend="color_FF0000">[p.46]</hi>littéraire ! S’il se plut tant aux Adelphes, s’il les relut souvent et entreprit de les faire revivre, c’est qu’il sentait qu’ils revivaient en lui. La ressemblance, d’ailleurs, est-elle donc si grande ? Les deux vieillards, dans Térence, élèvent deux garçons : cela seul ne change-t-il pas tout ?</p>
+        <p>Il tira donc sa pièce, non de la pièce antique, mais de la comédie éternelle du cœur humain qu’il lisait en lui et hors de lui, comédie immense, inépuisable, d’où Térence lui-même avait tiré son théâtre, tout en s’aidant des grecs.</p>
+        <p><hi rend="i">L’École des Maris</hi> est la première pièce imprimée du consentement de Molière ; pour la première fois, sans doute, il avait approché de sa pensée. Cette forme est bien la sienne, en effet, franche, hardie, vigoureuse, c’est la <hi rend="i">fresque aux brusques fiertés.</hi> La correction et le poli du vers de Boileau (le procédé à l’<hi rend="i">huile)</hi> l’avait d’abord séduit, et il avait essayé de ce style pour Don Garcie, mais il reconnut bien vite que cette forme, quel qu’élégante qu’elle fût, lui allait mal et convenait peu <hi rend="color_FF0000">[p.47]</hi>au théâtre ou il fallait peindre d’un seul coup, <hi rend="i">à grands traits non tâtés.</hi></p>
+        <p>Par cette pièce, il se releva de la chute de Don Garcie, acheva d’emporter les bonnes grâces du roi et celles de la foule. Mais entre le roi et la foule, que de Messieurs, que de dames, que de graves auteurs, que d’importants seigneurs blessés, piqués, outragés, que d’honneurs à venger !</p>
+        <p>J’imagine que c’est vers ce temps qu’il faut placer la petite anecdote du grand monarque déjeunant en tête à tête avec le grand comédien, et le relevant ainsi aux yeux de tous du mépris de ses nobles valets de chambre.</p>
+        <p>On voit, en effet, combien, dès cette époque, Molière était en faveur auprès du roi, puisque <hi rend="i">Sa Majesté</hi> elle-même daigna lui indiquer le sujet d’une scène des <hi rend="i">Fâcheux</hi>.</p>
+        <p>Cette pièce des <hi rend="i">Fâcheux</hi> fut arrangée à la hâte pour la célèbre fête de Vaux, donnée par Fouquet, à la veille de sa disgrâce, au mois d’août 1661, deux mois après l’<hi rend="i">École des Maris.</hi></p>
+        <p><hi rend="color_FF0000">[p.48]</hi>Ici les ridicules arrivent en foule : c’est une collection vivante d’originaux, une suite de satires à la manière de Despréaux, arrangées pour la scène, vives et franches, mais point liées entre elles.</p>
+        <p>Est-ce chimère ? j’ai cru quelquefois sentir dans cette pièce la joie expansive d’un homme qui va se marier...</p>
+        <p>Il y eut grand spectacle, ballet, décorations splendides... La Fontaine y était, il en écrivit à son ami Maucroix les détails :</p>
+        <quote>
+          <l>D’abord aux yeux de l’assemblée</l>
+          <l>Parut un rocher si bien fait</l>
+          <l>Qu'on le crut rocher en effet ;</l>
+          <l/>
+          <l>Mais insensiblement se changeant en coquille,</l>
+          <l>Il en sortit une nymphe gentille,</l>
+          <l>Qui ressemblait à la Béjart,</l>
+          <l>Nymphe excellente dans son art</l>
+          <l>Et que pas une ne surpasse.</l>
+          <l/>
+          <l>Aussi récita-t-elle avec beaucoup de grâce</l>
+          <l/>
+          <l>Un prologue estimé, l’un des plus accomplis,</l>
+          <l>Qu’en ce genre on pût écrire,</l>
+          <l><hi rend="color_FF0000">[p.49]</hi>Et plus beau que je ne dis,</l>
+          <l>Ou bien que je n’ose dire,</l>
+          <l>Car il est de la façon De notre ami Pélisson.</l>
+        </quote>
+        <p>Dans ce prologue la Béjart (Armande), qui représente la nymphe de la fontaine où se passe cette action, commande aux divinités qui lui sont soumises, de sortir des marbres qui les enferment, et de contribuer de tout leur pouvoir au divertissement de Sa Majesté : aussitôt les termes et les statues se meuvent, et il en sort, je ne sais comment, des Faunes et des Bacchantes.</p>
+        <p>Tout cela fait place à la comédie dont le sujet est un homme arrêté par toutes sortes de gens, sur le point d’aller à une assignation amoureuse.</p>
+        <quote>
+          <l>C’est un ouvrage de Molière,</l>
+          <l>Cet écrivain, par sa manière,</l>
+          <l>Charme à présent toute la cour.</l>
+          <l>De la façon que son nom court,</l>
+          <l><hi rend="color_FF0000">[p.50]</hi>Il doit être par de là Rome :</l>
+          <l>J’en suis ravi car c’est mon homme.</l>
+          <l>Te souvient-il bien qu’autrefois</l>
+          <l>Nous avons conclu, d’une voix,</l>
+          <l>Qu’il allait ramener en France</l>
+          <l>Le bon goût et l’air de Térence ?</l>
+          <l>Plaute n’est plus qu’un plat bouffon,</l>
+          <l>Et jamais il ne fit si bon</l>
+          <l>Se trouver à la comédie ;</l>
+          <l>Car ne pense pas qu’on y rie</l>
+          <l>De maint trait jadis admiré,</l>
+          <l>Et bon <hi rend="i">in illo tempore.</hi></l>
+          <l>Nous avons changé de méthode ;</l>
+          <l>Jodelet n’est plus à la mode,</l>
+          <l>Et maintenant il ne faut pas</l>
+          <l>Quitter la nature d’un pas.</l>
+        </quote>
+        <p>Molière joua le rôle d’Éraste, amoureux d’Orphise, et le rôle d’Orphise fut rempli par Armande :</p>
+        <quote>
+          <l>J’ai de l’amour encor pour la belle inhumaine,</l>
+          <l>Et ma raison voudrait que j’eusse de la haine,</l>
+        </quote>
+        <p>disait Éraste, et puis il ajoutait :</p>
+        <quote>
+          <l><hi rend="color_FF0000">[p.51]</hi>Trompez, si vous voulez, un malheureux amant,</l>
+          <l>Maltraitez mon amour, refusez moi le vôtre ;</l>
+          <l>Exposez à mes yeux le triomphe d’un autre;</l>
+          <l>Oui, je souffrirai tout.</l>
+        </quote>
+      </div>
+      <div>
+        <head>VIII.</head>
+        <p>Huit mois après l’<hi rend="i">École des Maris</hi>, nous arrivons enfin au temps de son mariage...</p>
+        <p>On peut le dire, les trois années (1658-1661) qui viennent de s’écouler depuis son retour à Paris, furent les moins troublées de sa vie, et nous ne retrouverons plus jamais ce beau calme de l’<hi rend="i">École des Maris.</hi></p>
+        <p>Établi sur le premier théâtre de France, honoré applaudi, protégé par l’amitié du roi, ayant, seul en son temps peut-être, conquis et mérité le noble droit de dire à tous librement sa pensée, il fut content quelques jours.</p>
+        <p>D’un autre côté la petite Armande était allée, de treize à seize ans, dans cet intervalle, et Molière heureux de sa charmante élève, de son <hi rend="color_FF0000">[p.52]</hi>esprit, de sa grâce, confiant dans l’avenir, écrivit tout d’inspiration ce beau rôle d’<hi rend="i">Ariste</hi>, pour enseigner à tous, naïvement, son secret d’être heureux :</p>
+        <quote>
+          <l>Il nous faut, en riant, instruire la jeunesse,</l>
+          <l>Reprendre ses défauts avec grande douceur,</l>
+          <l>Et du nom de vertu ne pas lui faire peur.</l>
+          <l><hi rend="b"><hi rend="i">Mes soins pour Léonor ont suivi ces maximes</hi></hi>          ,
+</l>
+          <l>Des moindres libertés je n’ai point fait des crimes ;</l>
+          <l>À ses jeunes désirs j’ai toujours consenti,</l>
+          <l>Et je ne m’en suis point, grâce au ciel, repenti.</l>
+        </quote>
+        <p>Il ne faudrait pas croire pourtant qu’il n’eut, ainsi qu’un autre, ses heures d’hésitation : il était homme :</p>
+        <quote>
+          <l>Je sais bien que nos ans ne se rapportent guère,</l>
+        </quote>
+        <p>se disait-il quelquefois; mais</p>
+        <quote>
+          <l>Une grande tendresse et des soins complaisants</l>
+        </quote>
+        <p>pourront, peut-être,</p>
+        <quote>
+          <l>Réparer entre nous l’inégalité d’âge.</l>
+        </quote>
+        <p><hi rend="color_FF0000">[p.53]</hi>Ses amis non plus n’étaient pas sans le détourner de cette union :</p>
+        <quote>
+          <l>Votre dessein pour vous me fait trembler de peur ;</l>
+          <l>Et, de quelque façon que vous tourniez l’affaire,</l>
+          <l>Prendre femme est à vous un coup bien téméraire.</l>
+        </quote>
+        <p>À quoi, peut-être, il répondait, au moins intérieurement :</p>
+        <quote>
+          <l>À des charmes si doux je me laisse emporter</l>
+          <l>[…] Sa grâce est la plus forte.</l>
+        </quote>
+      </div>
+      <div>
+        <head>IX.</head>
+        <p>Molière se maria le 20 février 1662, à Saint-Germain-l’Auxerrois, la veille du Mardi-Gras : il avait quarante ans passés ; Armande n’en avait pas dix-sept.</p>
+        <p><quote>« Celle-ci ne fut pas plutôt M<hi rend="sup">me</hi> Molière,</quote> dit Grimarest, <quote>qu’elle crut être au rang d’une duchesse, et elle ne se fut pas donnée en [p.54]spectacle à la comédie, que le courtisan désoccupé lui en conta. »</quote></p>
+        <p>Molière lui fit les représentations les plus tendres, les plus sensées, sur la conduite qu’elle devait tenir <hi rend="i">pour vivre heureux ensemble</hi> : elle ne l’écouta point. Assurée dans la voie funeste par son innocence même, les inquiétudes de son mari lui parurent des visions, et ses conseils des sévérités de vieillard. La toilette, le luxe, les conversations futiles, le plaisir de s’ouïr conter des douceurs, tout cela ne fit qu’augmenter. Molière avait bien, avant le mariage, remarqué un peu ces tendances ; mais il avait cru que, devenue sa femme, elle comprendrait la nécessité d’une vie sérieuse; que, par amitié, par douceur, par raison, par respect d’elle-même et de lui, elle saurait montrer qu’elle n’avait ni méprisé, ni oublié ses leçons. Mais trop de séductions l’attendaient. La maison de Molière, son théâtre surtout, ouvert à cent sortes de gens, l’exposèrent, dès qu’elle fut mariée, à la lâche assiduité des marquis désœuvrés, qui même ne prenaient pas la peine de <hi rend="color_FF0000">[p.55]</hi>cacher leurs poursuites, persuadés qu’une comédienne ne pouvait pas se montrer plus fière que tant de grandes dames... Molière, qui l’avait élevée dans la liberté, avait cru que l’honneur suffirait pour la retenir. Quelle fut sa tristesse en voyant que tout avait été vain  ! Quoiqu’elle ne se montrât encore que légère, il prévit où cette légèreté pouvait la conduire. Il la supplia, cent fois, comme un enfant, d’être moins coquette, moins étourdie, moins dépensière, de vivre moins en dame de la cour, de se renfermer un peu plus dans son ménage; ses prières, ses larmes, tout fut inutile.</p>
+        <p>On dit que, dans les premiers temps de son mariage, il s’en alla en Lorraine, à la suite du roi, comme valet de chambre; mais ce voyage est douteux. Ce qui est certain, c’est que de retour à Paris, s’il en partit, la première pièce qu’il donna fut l<hi rend="i">'École des Femmes</hi> : elle parut en décembre 1662, après dix mois de ménage.</p>
+        <p>Trompé dans sa femme qu’il avait élevée comme <hi rend="i">Ariste</hi> élevait <hi rend="i">Léonor</hi>, déçu dans ses plus <hi rend="color_FF0000">[p.56]</hi>chères espérances, il n’en resta pas moins de cet avis, que les femmes doivent être élevées dans la liberté. <hi rend="i">Les verroux et les grilles</hi>, avait-il dit,</p>
+        <quote>
+          <l>Ne font pas la vertu des femmes ni des filles ;</l>
+          <l>C’est l’honneur qui les doit tenir dans le devoir.</l>
+        </quote>
+        <p>Voilà ce qu’il avait enseigné dans l’<hi rend="i">École des Maris;</hi> malgré sa disgrâce, il y revint avec plus d’énergie encore dans l’<hi rend="i">École des Femmes.</hi> Le malheur n’ébranla point son bon sens. Mais cependant qu’il dut souffrir  ! Quoi  ! Lui, Ariste, trahi par <hi rend="i">Léonor</hi>  ! Lui qui avait été pour elle si généreux, si tendre  ! Qui lui avait donné treize années de sa vie, et qui, pourtant, avait laissé à son choix liberté tout entière ! Loin de chercher, comme auraient fait tant d’autres peut-être, à prendre de l’ascendant sur son esprit, qu’avait-il voulu, sinon l’élever à sa propre hauteur, en faire son égale ? Ah ! S’il l’eût tenue dans l’abrutissement et l’esclavage, s’il eût cherché à <hi rend="i">la rendre idiote</hi>, à la bonne heure !</p>
+        <p><hi rend="color_FF0000">[p.57]</hi>Dans cette situation d’esprit, il écrivit le rôle d’Arnolphe. L'<hi rend="i">École des Maris</hi> avait été l’œuvre d’un homme heureux, content tout au moins. Mais, en lisant l’<hi rend="i">École des Femmes</hi>, on sent au fond je ne sais quelle douleur. Peut-être crut-il que, par le contraste de ce rôle d’Arnolphe et de sa propre conduite, il ferait sentir à sa jeune épouse ce qu’il y avait de cruel dans sa vie légère, et qu’il la ramènerait ainsi à de meilleurs sentiments. Il ne voulut point, chose bien remarquable, lui donner de rôle dans <hi rend="i">l’École des Femmes.</hi> Elle assista donc à cette pièce en simple spectatrice, et put ainsi en mieux sentir la portée, le sens intime. Le rôle d’Agnès fut confié à M<hi rend="sup">lle</hi> de Brie; quant au rôle d’Arnolphe, Molière le joua lui-même. Dirai-je qu’il avait mis dans ce rôle plusieurs allusions à sa propre situation, que quelques-uns des ridicules qu’il y montre étaient des ridicules qu’il sentait parfois remuer sourdement en lui ? Qu’enfin dans la passion d’Arnolphe, c’était sa propre passion qu’il exposait aux rires de la foule ! On dit qu’il était admirable dans ce <hi rend="color_FF0000">[p.58]</hi>rôle; cela se conçoit assez lorsqu’on songe qu’il y disait ces vers :</p>
+        <quote>
+          <l>Quoi ! j’aurai dirigé son éducation</l>
+          <l>Avec tant de tendresse et de précaution,</l>
+          <l>Je l’aurai fait passer chez moi, dès son enfance,</l>
+          <l>Et j’en aurai chéri la plus tendre espérance,</l>
+          <l>Mon cœur aura bâti sur ses attraits naissants,</l>
+          <l>Afin ! [...]</l>
+          <l>[...] chose étrange d’aimer !</l>
+          <l>Elle trahit mes soins, mes bontés, ma tendresse,</l>
+          <l>Et cependant je l’aime !</l>
+        </quote>
+        <p>Molière atteignit, dans cette pièce, à une profondeur, à une naïveté, à une force comique dont il n’avait point donné d’exemples encore.</p>
+        <p>Il n’avait cessé, jusqu’à l’<hi rend="i">École des Maris</hi>, d’étudier assidûment les anciens ; mais tout annonce qu’après cette pièce, il passa à nos vieux français (voyez le long sermon d’Arnolphe, le portrait de la vieille, etc. Tout empreints de Rabelais, de Régnier, de Brantôme), c’était alors la forme qu’il cherchait, la vraie forme française. <hi rend="i">Je n’ai plus que faire</hi>, disait-il, <hi rend="i">d’étudier Plaute et Térence, ni</hi> <hi rend="color_FF0000">[p.59]</hi><hi rend="i">d’éplucher les fragments de Ménandre; je n’ai plus qu’à étudier la nature.</hi></p>
+        <p>Ce fut le monde intérieur surtout, ce fut son propre cœur qu’il étudia. Non pas qu’il n’ait observé toute sa vie, avec une extrême attention, la comédie qui se joue sur la terre entre les hommes ; mais c’est moins dans cette étude qu’il s’instruisit que par une longue et douloureuse contemplation de ses propres infirmités. Il sentait ses pauvretés humaines, les observait sans cesse. Ce fut peut-être là la cause de ce <hi rend="i">grand sérieux</hi> qu’on remarquait en lui. Dans ses premières pièces, il est vrai, avant les malheurs de son mariage, ce sont plutôt les ridicules observés en autrui qu’il nous montre. Nous le voyons jeter un coup d’œil rapide sur la société qui l’entoure, et l’esquisser à grands traits. Le malheur le fait rentrer en lui-même. Trouvant dans son âme, au milieu de tant de grandeurs, de si inexplicables faiblesses, ce ne fut plus seulement avec les ridicules d’autrui qu’il fit rire, mais avec les siens propres. Il se vit et se montrera, désormais, luttant et s’efforçant <hi rend="color_FF0000">[p.60]</hi>contre lui-même, aspirant à s’élever au-dessus de la vie commune :</p>
+        <quote>
+          <l>Ah ! bourreau de destin, vous en aurez menti !</l>
+        </quote>
+        <p>jusqu’à ce qu’il arrive à cette conclusion :</p>
+        <quote>
+          <l>[...] que c’est à tort que sages on nous nomme,</l>
+          <l>Et que dans tous les cœurs il est toujours de l’homme.</l>
+        </quote>
+        <p>Il ne faut pas croire, toutefois, malgré cette observation assidue de la nature, qu’il ait dédaigné jamais de s’éclairer des travaux et des expériences de ceux qui l’avaient précédé dans la vie; il lisait sans cesse, fouillait et furetait partout. Latins, vieux Français, Italiens, Espagnols, <hi rend="i">point de bouquin</hi>, dit un contemporain, <hi rend="i">qui se pût sauver de ses mains.</hi> Rien ne lui était indifférent de ce qui tenait au grand art qu’il aimait. Polichinelle, Arlequin, Tabarin, Scaramouche l’eurent souvent pour spectateurs devant leurs tréteaux, au milieu de la foule, dont il observait avec soin <hi rend="color_FF0000">[p.61]</hi>les moindres mouvements. Tout lui servait; son génie trouvait partout à puiser :</p>
+        <quote>
+          <p rend="b"><hi rend="i">Homo sum</hi>
+          
+          , 
+          
+            <hi rend="i">et nihil humani a me alienum puto.</hi>
+ </p>
+        </quote>
+      </div>
+      <div>
+        <head>X.</head>
+        <p>L'<hi rend="i">École des Femmes</hi> fit scandale ; les dévots se plaignirent : le sermon sur l’enfer et les chaudières bouillantes les révoltait. Mais ce qui les offusquait le plus, c’était peut-être ce qu’ils disaient le moins. Arnolphe et la naïve Agnès, au deuxième acte, font ensemble un dialogue qui devait peu leur plaire.</p>
+        <p>L’apparition de cette comédie fut, dans Paris, comme une sédition: il y eut des querelles, des gageures; on se battit presque. Les dames se scandalisèrent, les délicats se récrièrent. Les gazetiers y suffisaient à peine.</p>
+        <p>Molière fut joué, insulté en public, indignement moqué par les comédiens de l’hôtel de Bourgogne. Comédies, satires, épigrammes, sonnets, <hi rend="color_FF0000">[p.62]</hi>triolets, pauvretés de tous genres, de toutes parts bruissaient contre le grand comédien.</p>
+        <p>Mais, au plus fort du scandale, au premier jour de l’an 1663, Boileau lui adressa ses stances :</p>
+        <quote>
+          <l>En vain mille jaloux esprits,</l>
+          <l>Molière, osent avec mépris</l>
+          <l>Censurer ton plus bel ouvrage ;</l>
+          <l>Sa charmante naïveté,</l>
+          <l>Etc.</l>
+        </quote>
+        <p>Le roi lui-même ne voulut pas rester neutre : il se déclara par une pension de 1000 livres à Molière. De là, le <hi rend="i">Remerciement au Roi</hi>, causerie simple et sereine du poète avec sa muse, dans laquelle se trouvent ces charmants vers sur Louis XIV :</p>
+        <quote>
+          <l>Dès que vous ouvrirez la bouche</l>
+          <l>Pour lui parler de grâce et de bienfait,</l>
+          <l>Il comprendra d’abord ce que vous voulez dire,</l>
+          <l>Et se mettant doucement à sourire,</l>
+          <l>D’un air qui sur les cœurs fait un charmant effet,</l>
+          <l>Il passera comme un trait.</l>
+        </quote>
+        <p><hi rend="color_FF0000">[p.63]</hi>Mais loin que cette protection du monarque apaisât la cabale, les cris n’en éclatèrent que plus fort; à tel point que ses camarades, indignés, voulaient qu’il imprimât, en tête de sa comédie de l’<hi rend="i">École des Femmes</hi>, quelque longue préface en réponse aux censeurs. Mais Molière sentait, mieux que ses conseilleurs, qu’une froide et morte dissertation serait peu son fait; ce qu’il lui fallait, c’était une réponse sur son théâtre; il la fit et la fit admirable.</p>
+        <p>La petite comédie de la <hi rend="i">Critique</hi>, tissue de fine badinerie, amusa les amis, divertit le public, mais irrita davantage.</p>
+        <p>Les libelles se remplirent d’imprécations; le dépit, la jalousie se changèrent en rage, en lourdes menées ; ce ne furent plus seulement bons mots et quolibets, mais des guet-apens et des coups.</p>
+        <p>Un duc, le duc de La Feuillade, ayant cru se reconnaître dans le marquis <hi rend="i">Tarte-à-la-Crême</hi> de la <hi rend="i">Critique</hi>, voyant un jour passer Molière dans un appartement, lui fit signe, comme s’il eut voulu <hi rend="color_FF0000">[p.64]</hi>l’embrasser. Molière s’étant incliné, il lui prit la tête entre ses mains, et s’écriant : <quote><hi rend="i">Tarte-à-la-Crème, Molière, Tarte-à-la-Crème</hi> !</quote> Il le frotta contre ses boutons et lui mit le visage en sang.</p>
+        <p>Rentré chez lui, l’âme malade et tout en pleurs, qui trouvait-il pour pleurer avec lui; quelles consolations ? D’abord c’était Chapelle, son ancien condisciple, poète agréable, qui aimait bien Molière, mais homme de plaisirs, qui lui reprochait toujours son humeur rêveuse, qui voulait que sans s’embarrasser de rien, il fût toujours disposé à la joie.</p>
+        <p>Éperdu, il courait à sa femme... Spirituelle et coquette <hi rend="i">Célimène</hi>, peu soucieuse des chagrins de son mari, mais occupée seulement du désir de montrer aux yeux de tous les grâces qui brillaient en elle, quel accueil en recevait-il ? à peine l’écoutait-elle !</p>
+        <p>Au moment où il allait s’épancher: <quote><hi rend="i">Parlons à cœur ouvert...</hi></quote>Un domestique entrait :</p>
+        <l rend="figure"><label>ARMANDE.</label><l>Qu’est-ce ?</l><label><hi rend="color_FF0000">[p.65]</hi>LE DOMESTIQUE.</label><l>Acaste est là-bas.</l><label>ARMANDE.</label><l>Hé bien ! faites monter [...]</l><label>MOLIÈRE.</label><l>Quoi! l’on ne peut jamais vous parler tête-à-tête !</l><head/><figDesc/> </l>
+        <p>C’est vers ce temps que Molière commença le <hi rend="i">Misanthrope</hi>, ce fut sa consolation pendant trois années; c’est là qu’il soulageait son âme, qu’il déposait ses tristesses.</p>
+        <p>Outre la <hi rend="i">Critique de l’École des Femmes</hi>, au mois de mai 1663, il avait donné, en octobre suivant, l’<hi rend="i">Impromptu de Versailles;</hi> nouvelles explications charmantes encore, mais évidemment cette fois écrites à la hâte pour faire taire les allusions. Nous avons vu à quoi cela réussit.</p>
+        <label>
+          <figure>
+            <label>LE MARQUIS.</label>
+            <p>[...] Chevalier !</p>
+            <label>LE CHEVALIER.</label>
+            <p>Quoi !</p>
+            <label><hi rend="color_FF0000">[p.66]</hi>LE MARQUIS.</label>
+            <p>Juge nous un peu sur une gageure que nous avons faite.</p>
+            <label>LE CHEVALIER.</label>
+            <p>Et quelle ?</p>
+            <label>LE MARQUIS.</label>
+            <p>Nous disputons qui est le marquis de la <hi rend="i">Critique</hi>, de Molière: il gage que c’est moi, et moi je gage que c’est lui.</p>
+            <label>LE CHEVALIER.</label>
+            <p>Et moi je juge que ce n’est ni l’un, ni l’autre ; vous êtes fous tous deux de vouloir vous appliquer ces sortes de choses, et voilà de quoi j’ouïs l’autre jour se plaindre Molière, parlant à des personnes qui le chargeaient de même chose que vous. Il disait que rien ne lui donne du déplaisir comme d’être accusé de regarder quelqu’un dans les portraits qu’il fait que tous les personnages qu’il représente sont des personnages en l’air et des fantômes proprement qu’il habille à sa fantaisie, etc.</p>
+            <head/>
+            <figDesc/>
+          </figure>
+        </label>
+        <p>Les ennemis, cependant, n’en avaient pas fini encore ; il leur restait à frapper le coup de grâce.</p>
+        <p>Dans les derniers jours de décembre 1663, un Montfleury, de l’Hôtel-de-Bourgogne, présenta au roi une requête contre Molière, dans laquelle il <hi rend="color_FF0000">[p.67]</hi>l’accusait d’avoir épousé sa propre fille, après avoir vécu en concubinage, autrefois, avec la mère, qui était, disait-il, Madeleine Béjart. Et l’infâme bruit aussitôt se répandit par la ville, courut, grandit... Que se passait-il, cependant, dans l’âme déjà blessée du poète ? Tous attendaient sa réponse, la demandaient à grands cris... Molière gardait le silence.</p>
+        <p>Mais le roi, qu’en pensait-il ?</p>
+        <p>Il ne venait de réponse de nul côté, et l’on commençait à être fort surpris ; mais, le 28 février suivant (1664), deux mois après la requête de Montfleury, la France vit son roi, Louis le Grand, avec la plus belle et plus aimée princesse du monde, Henriette d’Angleterre, tenir sur les fonds baptismaux, le premier-né de son grand comédien. L’enfant reçut le nom de Louis !</p>
+      </div>
+      <div>
+        <head>XI.</head>
+        <p>Molière, par cela même qu’il osait chaque jour interroger ses propres sentiments, sentit plus <hi rend="color_FF0000">[p.68]</hi>qu’aucun autre sa solitude, ses faiblesses, les contradictions de son âme... Pourtant c’était, de mœurs, un homme doux et simple. Quand ses amis lui faisaient de la peine avec leurs sages paroles, il ne leur répondait guère. D’ailleurs, ils avaient tant d’esprit; c’étaient des hommes si raisonnables, M. Rohault surtout, le savant physicien ! Si quelquefois, dans une causerie intime, il laissait entrevoir son chagrin, si un mouvement lui échappait contre quelque injustice, aussitôt une sage personne, avec un beau discours :</p>
+        <quote>
+          <l>Tons ces défauts humains nous donnent dans la vie</l>
+          <l>Des moyens d’exercer notre philosophie ;</l>
+          <l>C’est le plus bel emploi que trouve la vertu.</l>
+        </quote>
+        <p>Molière se sauvait à Auteuil.</p>
+        <p>Lui qui aurait tant voulu s’épancher, se confier, qui toute sa vie ne chercha que cela, il lui fallait rester seul avec ses misères ! Retiré à Auteuil, ou caché dans son cabinet de travail à Paris, que <hi rend="color_FF0000">[p.69]</hi>faisait-il ? il pleurait le grand divertisseur de la France, il pleurait <hi rend="i">sans contrainte...</hi></p>
+        <p>Aussi voyez, lorsque Le Vayer perdit son fils ( 1664 ), comme il lui écrivit :</p>
+        <l rend="figure"><l>Aux larmes, Le Vayer, laisse ces yeux ouverts :</l><l>Ton deuil est raisonnable encor qu’il soit extrême ;</l><l>Et lorsque pour toujours on perd ce que tu perds,</l><l>La sagesse, crois-moi, peut pleurer elle-même.</l><p>[...]Vous voyez bien, Monsieur, que je m’écarte fort du chemin qu’on suit d’ordinaire en pareille rencontre... Mais j’ai cru qu’il fallait en user de la sorte avec vous, et que c’est consoler un philosophe que de <hi rend="i">lui justifier ses larmes, et de mettre sa douleur en liberté.</hi></p><p>Si je n’ai pas trouvé d’assez fortes raisons pour affranchir votre tendresse des sévères leçons de la philosophie, et pour vous obliger à <hi rend="i">pleurer sans contrainte</hi>, il n’en faut accuser que le peu d’éloquence d’un homme qui ne saurait persuader <hi rend="i">ce qu’il sait si bien faire.</hi></p><signed>Molière.</signed><head/><figDesc/> </l>
+        <p>Il pleurait donc, mais les larmes passées et la réalité peu à peu s’éloignant, vacillant, amis,  <hi rend="color_FF0000">[p.70]</hi>ennemis, lui-même, le monde entier, lui apparaissaient sous formes mystérieuses, étranges...</p>
+        <p>L’inspiration alors reprenait le dessus ; il s’épanchait avec elle, lui confiait son âme et continuait son œuvre. Alors venaient les réponses aux Philintes, aux Aristes... Cependant Philinte, Ariste étaient eux-mêmes partie de Molière, et il le sentait bien, car ce qu’ils lui disaient, que de fois il se l’était dit à lui-même !</p>
+        <quote>
+          <l>Il est vrai, ma raison me le dit chaque jour,</l>
+          <l>Mais la raison...</l>
+        </quote>
+        <p>En sorte que, bien souvent, ces conversations avec ses amis, lorsqu’il en transportait quelque chose au théâtre, ne se trouvaient guère être au fond que là mise en scène naïve du dialogue intérieur.</p>
+        <p>Ce qui affligeait Alceste dans la sagesse de ses amis, c’était qu’ils crussent qu’il eût besoin de morale, lorsqu’il ne demandait qu’un peu d’épanchement; mais ce qu’il ne pouvait pas leur dire, il le mettait dans ses pièces, le disait sur <hi rend="color_FF0000">[p.71]</hi>son théâtre; là du moins on l’écoutait. Tout ce qui lui avait manqué dans sa vie, il se plaisait à le réaliser sur la scène. Aussi n’aurons-nous pas à nous étonner de le voir, malgré Boileau, jouer la comédie tout malade, persistant jusqu’à son dernier jour, jusqu’à son dernier souffle. La comédie, c’était la consolation pour Molière, il y donnait cours à tous ses sentiments, la fiction était le côté vrai, le côté éternel de son âme, tout le reste était éphémère.</p>
+        <p>Au commencement de 1664, il donna au Louvre, le <hi rend="i">Mariage Forcé</hi>, avec grand spectacle; Louis XIV et ses courtisans y dansèrent. La pièce, représentée en trois actes devant la cour, fut réduite en un seul pour être jouée à la ville. Molière y faisait Sganarelle : encore un pauvre homme tourmenté par la coquetterie de celle qu’il aime.</p>
+        <p>L’amitié, par les conseils les plus sages, a beau le détourner de ce mariage, il n’écoute que sa fantaisie. À la vérité, il n’est pas sans inquiétude sur les allures de <hi rend="i">Dorimène.</hi> Tout soucieux il rêve... La Beauté lui apparaît en songe et lui chante;</p>
+        <quote>
+          <l><hi rend="color_FF0000">[p.72]</hi>Si l’amour vous soumet à ses lois inhumaines,</l>
+          <l>Choisissez, en aimant, un objet plein d’appas :</l>
+          <l>Portez au moins de belles chaînes.</l>
+        </quote>
+        <p><quote>Oui ! — mais 
+          <hi rend="i">serai-je point cocu</hi> ?
+        </quote> </p>
+        <p>Il s’en va prendre conseil de deux philosophes. Les pauvres gens, hélas ! sont bien en état de l’entendre ! Il trouve les docteurs <hi rend="i">Marphurius</hi> et <hi rend="i">Pancrace</hi> enflammés de colère, hébétés de systèmes, prêts à se déchirer pour des mots ; et l’un d’eux, au lieu de l’écouter, lui soutient qu’il faut dire, non pas la forme, mais <hi rend="i">la figure d’un chapeau.</hi></p>
+        <p>Après cela il voit apparaître mille chimères dansant autour de lui : la jalousie, les chagrins, les soupçons, plaisants et goguenards.</p>
+        <p>Il consulte, à la fin, le <hi rend="i">grand magicien</hi>, et la triste réalité se montre au fond du théâtre.</p>
+        <p>Au mois de mai suivant, il représente la <hi rend="i">Princesse d’Élide</hi>, pièce de circonstance, improvisée comme la précédente, par ordre du roi, pour le magnifique divertissement des <hi rend="i">Plaisirs de l’île enchantée</hi>, fêtes admirables qui durèrent sept jours, avec cavalcades, jeux, courses; le roi y <hi rend="color_FF0000">[p.73]</hi>remporta quatre prix. Après les courses, la nuit venue, il y eut des collations féeriques, éclairées par des milliers de flambeaux, et servies par deux cents officiers. Tout à coup un théâtre chargé de musiciens s’éleva derrière les tables, comme par enchantement, et la comédie commença à la clarté de cinq cents girandoles vertes et argent qui portaient des bougies.</p>
+        <p>La <hi rend="i">Princesse d’Élide</hi>, commencée en vers, faute de temps, fut achevée en prose. Molière, devenu le divertisseur du roi, y joua le rôle de Moron, <hi rend="i">plaisant de la princesse.</hi></p>
+      </div>
+      <div>
+        <head>XII.</head>
+        <p>Malgré ces interruptions, le <hi rend="i">Misanthrope</hi> se continuait toujours ; mais cela ne suffisait plus à Molière : s’élevant au-dessus de ses malheurs, il méditait une œuvre dans laquelle il allait réfléchir, non plus seulement sa propre maison, mais la société tout entière, et montrer, malgré ses <hi rend="color_FF0000">[p.74]</hi>chagrins (dans les types éternels de Cléante et d’Elmire), que la nature humaine est bonne. Ceux qui l’avaient trahi, qui lui avaient enlevé Célimène, il semble qu’il ne les vît plus que pour avoir pitié d’eux, que pour entrer avec compassion dans leur propre démence. Sa femme, il ne cessa jamais de l’aimer; il n’en pouvait parler sans larmes d’attendrissement, sur l’impossibilité où elle était, disait-il, de vaincre sa coquetterie. Il sentait bien que de si faibles créatures emportées comme des atomes, n’étaient pas des ennemis pour lui. Il lui fallait un adversaire plus digne de sa force et de son génie. Il avait attaqué le faux dans les sociétés du grand monde, il l’avait attaqué dans l’éducation des femmes; tout à l’heure, dans le rôle de Don Juan, par le spectacle de Done Élvire en pleurs et des deux paysannes trompées, il allait flétrir à jamais l’hypocrisie d’amour. Il fallait l’atteindre dans les choses du ciel et de la religion. Aussi Molière ne préparait-il pas une œuvre de raillerie, mais une œuvre de fondation morale, où la vertu devait briller dans sa force <hi rend="color_FF0000">[p.75]</hi>et sa grâce. Cette œuvre était, d’ailleurs, pour lui un bonheur. S’il n’avait pu jusqu’ici faire d’Armande la femme qu’il aurait voulue, au moins sur la scène il donnerait vie à son idéal. Il allait, par des fictions, se consoler de la réalité ; il allait voir sa femme un instant être Elmire. Il contenterait encore son amour, en la faisait être, sur le théâtre, aux yeux du public, ce qu’il n’avait pu la faire dans sa maison.</p>
+        <p>La joie d’élever le théâtre à ces hauteurs le soutint dans une telle entreprise ; autrement que de difficultés ! Comment souffrirait-on que le théâtre s’immisçât, en quelque sorte, dans le domaine de la religion ? S’il fallait le génie et la flamme d’en haut pour concevoir et pour exécuter une telle œuvre, quelle habileté, quelle insinuation, auprès du roi, auprès du haut clergé, serait jamais capable de la faire accepter ? Mais rien ne le put décourager. Son cœur et sa conscience l’emportaient... Une fois lancé dans cette œuvre, les choses allèrent vite ; la pièce était attendue avec enthousiasme d’un côté, avec rage de l’autre ; il ne fallait <hi rend="color_FF0000">[p.76]</hi>pas languir. Dès 1664, les trois premiers actes du <hi rend="i">Tartuffe</hi> furent représentés à Versailles devant le roi.</p>
+        <p>Les dévots alarmés remuaient, prêchaient: il fallait brûler Molière, faute de quoi la famine, la peste, le déluge... Quelques-uns moins bruyants, âmes douces et bénignes, semaient, à petit bruit, le poison. Il venait de s’imprimer un livre <hi rend="i">terrible</hi>, dit Grimarest, dont l’auteur, s’il eût été connu, était perdu : ils insinuèrent doucement qu’il n’y avait pas à punir, puisque ce livre venait d’un impie protégé par Sa Majesté.</p>
+        <p>Molière en était alors au dernier acte du <hi rend="i">Misanthrope</hi>, il y mit ces vers :</p>
+        <quote>
+          <l>Il court parmi le monde un livre abominable,</l>
+          <l>Et de qui la lecture est même condamnable,</l>
+          <l>Un livre à mériter la dernière rigueur</l>
+          <l>Dont le fourbe a le front de me dire l’auteur !</l>
+          <l>Et là-dessus on voit <hi rend="i">Oronte</hi> qui murmure,</l>
+          <l>Et tâche méchamment d’appuyer l’imposture,</l>
+          <l>Lui qui d’un honnête homme à la cour tient le rang,</l>
+          <l>À qui je n’ai rien fait <hi rend="i">qu’être sincère et franc.</hi></l>
+        </quote>
+      </div>
+      <div>
+        <head>[p.77]XIII.</head>
+        <p>Les choses en étaient à ce point lorsque l’attention du public fut détournée par une comédie que les Italiens se mirent à jouer, intitulée le <hi rend="i">Festin de Pierre.</hi> Ils avaient imité cette pièce de l’Espagnol Tirso de Molina ; elle fit fortune pendant quelque temps sur leur théâtre et les remit en vogue. Aussitôt toutes les autres troupes comiques et tragiques (et il y en avait alors cinq à Paris), se prirent à jouer à l’envie des <hi rend="i">Festin de Pierre.</hi> Les <hi rend="i">Comédiens de Monsieur</hi> voulurent en avoir un comme les autres, et ne donnèrent pas de repos à Molière qu’il ne les eût satisfaits. Il mit donc de côté, pour quelques jours, le <hi rend="i">Misanthrope</hi>, qui s’achevait lentement, <hi rend="i">Tartuffe</hi>, qui s’avançait à grands pas, et, d’une main hardie, esquissa <hi rend="i">Don Juan.</hi> Seul, sous Louis XIV, il s’éleva dans cette pièce au-dessus des règles de l’école. D’abord c’était une chose inouïe qu’une grande comédie en prose. Les <hi rend="color_FF0000">[p.78]</hi>unités, de lieu, de temps; l’usage de n’introduire les personnages qu’après les avoir fait connaître à l’avance, tout cela fut mis à néant. On vit sur la scène un fantôme, un spectre, une statue marchante et parlante. Ici le lieu de l’action n’était plus un salon, une antichambre, l’angle d’une rue, mais le monde entier : le bord de la mer, un palais, une forêt, un tombeau.</p>
+        <p>Molière voulait préparer le public au <hi rend="i">Tartuffe</hi>, il commença, dans le <hi rend="i">Festin de Pierre</hi>, à démasquer l’hypocrisie religieuse.</p>
+        <p>Qu’était-ce, cependant, que le rôle de don Juan, si non la critique devenue plus sérieuse de ces marquis déjà châtiés peu après son mariage (dans la <hi rend="i">Critique de l’École des Femmes</hi>, et dans l’<hi rend="i">Impromptu de Versailles)</hi> ? Cette fois il avait réuni, en un seul personnage, pour les flétrir d’un coup, les vices de tous ces courtisans désœuvrés qu’Alceste voyait avec effroi tourbillonner autour de Célimène.</p>
+        <p>Mais à côté de l’impie Don Juan, il eut besoin d’écrire pour lui, comme un rafraîchissement de <hi rend="color_FF0000">[p.79]</hi>l’âme, le charmant rôle de Sganarelle : <quote>« Pour moi Monsieur, disait-il, je n’ai point étudié comme vous, Dieu merci; mais avec mon petit sens, mon petit jugement, je vois les choses mieux que tous les livres, et je comprends fort bien que ce monde que nous voyons n’est pas un champignon qui soit venu tout seul en une nuit... »</quote></p>
+        <p>Peu de temps auparavant, dans cette même année 1664, le fils de Lamothe Le Vayer, un de ses amis, était mort. Molière aimait ce jeune homme, il le faisait venir à Auteuil de temps en temps, avec Chapelle et ses plus particuliers amis. Mourut-il de maladie ? Il aurait vu là les médecins, leur forfanterie à quelques-uns, leur impuissance à tous. Dans le <hi rend="i">Festin de Pierre</hi> il commença de signaler leur dangereuse ignorance.</p>
+        <p>On lit, en effet, dans Guy-Patin, que <quote><hi rend="i">les médecins de Le Vayer lui ayant donné trois fois le vin émétique, l’envoyèrent au pays d’où personne ne revient.</hi></quote></p>
+        <p>Molière, peu de temps après, perdit son petit <hi rend="color_FF0000">[p.80]</hi><hi rend="i">Louis;</hi> de là, encore, la terrible critique de l’<hi rend="i">Amour Médecin.</hi> C’est un cri, comme ses autres pièces, parti du fond de ses entrailles.</p>
+      </div>
+      <div>
+        <head>XIV.</head>
+        <p><hi rend="i">Tartuffe</hi>, malgré ces interruptions, n’en avançait pas moins; mais quel scandale pour les zélés ! On les voyait courir, tout hagards, par mille souterrains, et même en plein soleil, assiégeant le Louvre, Versailles, debout à toutes les portes.</p>
+        <p>Louis XIV ne les laissait pas sans réponse : il dotait les comédiens de Molière d’une pension de sept mille livres, leur faisait de magnifiques présents : machines de théâtre, meubles, riches costumes ; et, la même année, conférait à la troupe le titre de <hi rend="i">Troupe du Roi.</hi></p>
+        <p>Molière désirait ce titre depuis longtemps : il prévoyait, au moment de représenter <hi rend="i">Tartuffe</hi>, qu’il serait pour lui la meilleure sauvegarde, et c’est en effet ce qui eut lieu. Louis XIV voulut<hi rend="color_FF0000"> [p.81]</hi>montrer à tous que <hi rend="i">son comédien</hi> ne devait recevoir d’ordres que de lui-même. Molière se sentit enveloppé dans la puissance royale.</p>
+        <p>Ce titre, à la vérité, ne fut pas sans lui causer d’abord un singulier embarras. Les mousquetaires, les gardes du corps, les gendarmes, les chevaux-légers s’imaginèrent, comme faisant partie de la maison du roi, qu’ils pouvaient entrer à la comédie sans payer, en sorte que tous les soirs ils venaient emplir le parterre de leurs colossales et tumultueuses personnes, ce qui était aux comédiens d’un tort considérable. Ceux-ci, qui toujours harcelaient Molière pour qu’il demandât des grâces au roi, le pressèrent d’obtenir un ordre qui interdît toute entrée gratuite chez eux. Molière fit cette demande avec quelque regret, peut-être : il avait tant besoin pour <hi rend="i">Tartuffe</hi> de toute la protection royale, qu’il lui déplaisait de l’user à ces bagatelles; mais considérant que ses comédiens, en effet, par ces entrées, étaient privés d’une partie de leur gain, il demanda cet ordre et l’obtint.</p>
+        <p>Mais Messieurs les mousquetaires, les gardes <hi rend="color_FF0000">[p.82]</hi>du corps, les gendarmes, les chevaux-légers se fâchèrent, prirent cela pour un affront... Ils pérorent, mettent la main à leurs sabres, s’ameutent, courent en troupe à la comédie, brisent les portes, attaquent, tuent le portier, lui marchent sur le corps, le mettent en lambeaux et se ruent dans la salle, l’arme au poing, prêts à tout massacrer.</p>
+        <p>Les comédiens effrayés sautaient par les fenêtres, se cachaient, criaient miséricorde.</p>
+        <p>Molière seul, s’avançant au-devant des furieux, sut les apaiser : son attitude noble et calme, les ordres du roi qu’il leur rappela avec sévérité, les firent rentrer en eux-mêmes, de sorte qu’ils se retirèrent un peu confus.</p>
+        <p>Les pauvres comédiens, assiégés ainsi à l’improviste, étaient encore tout transis ; les femmes se croyaient pourfendues. Le plus effrayé de tous fut un certain garçon nommé Hubert. Pour se sauver, sa femme et lui avaient fait un trou dans le mur du Palais-Royal, mais ils se disputaient à qui passerait le premier. Hubert laisse sa femme crier, se rue dons le trou ; mais sa tête seule et ses <hi rend="color_FF0000">[p.83]</hi>épaules purent passer, ce fut tout, le reste ne pouvait suivre. On le tirait pourtant de dedans le Palais-Royal jusqu’à le déchirer, rien n’avançait. Il poussait des cris et faisait des gesticulations effroyables, dans l’attente horrible où il était d’un coup de sabre dans le derrière. Tout s’apaisa. On agrandit l’ouverture, il en fut quitte pour la peur et pour être moqué.</p>
+        <p>Louis XIV, instruit de ces désordres, s’emporta, voulut punir; Molière lui conseillant d’user plutôt de douceur, se chargea d’accommoder lui-même l’affaire.</p>
+        <p>Ordre est donné à Messieurs les mousquetaires de se réunir le lendemain à midi précis, en un lieu désigné, pour s’y entendre admonester par Monsieur de Molière. Celui-ci vint, en effet, leur faire la harangue. Il leur donna à entendre, avec beaucoup d’adresse, que tous les jours nombre de malheureux abusant du nom et de la bandoulière de Messieurs les gardes du corps, venaient emplir le parterre... ; qu’ils ne croyait pas que des gentilshommes qui avaient l’honneur de servir le roi, <hi rend="color_FF0000">[p.84]</hi>dussent favoriser ces misérables contre les comédiens de Sa Majesté; que d’entrer à la comédie sans payer, et pour ainsi dire par charité, était une faveur qui pouvait plaire, sans doute, à des indigents; mais que ce n’était point assurément une prérogative que des personnes de leur caractère dussent ambitionner jusqu’à répandre du sang pour se la conserver, etc. Cette harangue eut son effet à la satisfaction des comédiens, et personne n’entra plus sans payer.</p>
+        <p>Voilà au milieu de quelles scènes Molière achevait d’écrire le <hi rend="i">Tartuffe</hi>, et préparait les représentations du <hi rend="i">Misanthrope.</hi> Personne, plus que lui, cependant, n’aimait la vie tranquille; il le disait quelquefois à ses amis en se plaignant de ces agitations qui l’enlevaient à la libre disposition de lui-même. Mais, quoi qu’il survînt, tout lui était sujet d’observation. Ainsi, le désordre occasionné dans son théâtre par les mousquetaires servit à lui faire mieux comprendre un de ses comédiens; ce fut ce brave Hubert, dont nous venons d’entendre les prouesses.</p>
+        <p><hi rend="color_FF0000">[p.85]</hi>Le pauvre garçon ne pouvait guère passer pour l’aigle de la troupe, bien qu’il y cumulât plusieurs emplois; mais de sa vie il n’avait réussi à s’attirer le moindre encouragement de la part du public : il était gauche, sans naturel. Molière, qui toujours chercha et s’entendit si bien à adapter ses personnages au caractère même de ses comédiens, ne savait jamais que faire de celui-ci. Mais à la journée des mousquetaires, sa poltronnerie le frappa, et il vit où était le comique en cet homme ; il comprit dès lors tout le parti qu’il pouvait en tirer. Aussi eut-il bientôt fait d’Hubert un de ses plus excellents acteurs. Le premier rôle qu’il écrira pour lui, après cette aventure, sera celui de <hi rend="i">Maître Jacques</hi> (dans l’<hi rend="i">Avare)</hi>, ce risible cumulateur d’emplois (cuisinier, cocher), toujours tremblant, toujours battu, et voulant toujours, bien ou mal, arranger les affaires, de peur des coups.</p>
+        <p>Plus tard, l’ayant mieux connu encore, il lui fera jouer des rôles de femmes : de Madame de Sottenville, du Lucette dans <hi rend="i">Pourceaugnac)</hi>, de <hi rend="color_FF0000">[p.86]</hi>Madame Jourdain, de la comtesse d’Escarbagnas, de Philaminte. Hubert, dans tous ces rôles, était inimitable, et il s’y attira les applaudissements unanimes.</p>
+        <p>Cependant tout n’était pas gai dans l’histoire de Messieurs les mousquetaires : le pauvre portier y avait perdu la vie. Il semble que le sombre devait se mêler à toutes choses autour de Molière.</p>
+      </div>
+      <div>
+        <head>XV.</head>
+        <p>Le roi lui avait promis toute sa protection pour <hi rend="i">Tartuffe;</hi> on voit néanmoins dans la <hi rend="i">préface</hi> combien d’avanies il lui fallut subir !</p>
+        <p>Il laissa l’intrigue et la ruse à ses adversaires, auxquels, d’ailleurs, il ne pensait pas, et se plaça (comme Cléante dans sa scène avec Tartuffe), sur un terrain où ils ne pouvaient être que vaincus, celui de la probité. Dans sa conduite, dans ses démarches, dans ses paroles, pas une réticence. Voilà pourquoi, auprès du roi, auprès <hi rend="color_FF0000">[p.87]</hi>du légat, auprès de plusieurs évêques, auprès des hommes véritablement pieux, il l’emporta sur toutes les machinations tortueuses.</p>
+        <p>La cabale, cependant, ne cessait pas d’agir: Un Monsieur de Rochemont, tout tremblant de <hi rend="i">Tartuffe</hi>, quoique ne l’osant dire, publia des <hi rend="i">Observations sur une comédie de Molière, intitulée le Festin de Pierre.</hi> Titre hypocrite ! c’était à <hi rend="i">Tartuffe</hi> qu’il pensait. Il faut l’entendre s’écrier contre <hi rend="i">la hardiesse d’un farceur qui fait plaisanterie de la religion; qui fait métier de libertinage ; qui rend la majesté de Dieu le jouet d’un valet de théâtre !...</hi> La colère du gentilhomme, chose étrange ! éclate contre le bon Sganarelle, par la raison que Molière jouait ce rôle, et que c’était lui, au théâtre, que ces Messieurs auraient voulu foudroyer du regard. La pièce enfin est déclarée un <hi rend="i">attentat contre la souveraineté de Dieu;</hi> et, si on laisse vivre l’auteur, si le roi ne protège pas le ciel contre sa rébellion, tout est perdu !</p>
+        <p>Déjà quelques honnêtes gens effrayés à leurs cris, aveuglés comme Orgon, séduits par la <hi rend="color_FF0000">[p.88]</hi>cabale, tournaient contre Molière. Croirait-on que plusieurs prétendaient, avec naïveté, que la fausse et la vraie dévotion ayant au dehors beaucoup de ressemblance, on ne devait pas railler l’une par respect pour l’autre ? Mais on leur répondait par les vers de Molière :</p>
+        <quote>
+          <l>Eh quoi ! vous ne ferez nulle distinction</l>
+          <l>Entre l’hypocrisie et la dévotion.</l>
+        </quote>
+        <p>Jamais il ne s’était vu un tel spectacle : le comédien prenant contre les dévots la défense de la vraie piété, flétrissant l’hypocrisie avec les pères de la Foi, avec les apôtres, et déclarant aux ténébreux docteurs qu’il ignore leur art de confondre ensemble le bien et le mal.</p>
+        <p>Les vers de Cléante étaient dans toutes les mémoires, circulaient de bouche en bouche, et faisaient que la pièce était de jour en jour plus désirée du public ; mais la cabale n’en était aussi que plus épouvantée et plus violente.</p>
+        <p>Ils n’avaient rien à répondre; ils publièrent <hi rend="color_FF0000">[p.89]</hi>que l’auteur du <hi rend="i">Tartuffe</hi> était <quote><hi rend="i">un démon vêtu de chair, habillé en homme, un libertin, un impie digne d’être brûlé publiquement.</hi></quote></p>
+        <p>L’archevêque Harlay de Champvallon, homme de mœurs perdues, excommunia Molière, dans un mandement fait exprès, et quiconque lirait, entendrait lire ou verrait jouer <hi rend="i">Tartuffe.</hi></p>
+        <p>Reportons-nous au temps : les bûchers n’étaient pas tous éteints encore ; on venait de brûler vif en grève le normand Sinron Morin, pour quelques pensées mystiques. Boileau, sentant le danger, vint à l’appui de Molière; il écrivit au roi sa noble <hi rend="i">Épître</hi> où parlant de ceux</p>
+        <quote>
+          <l>Qui tout blancs au dehors sont tout noirs au dedans,</l>
+        </quote>
+        <p>il ajoute :</p>
+        <quote>
+          <l>Ce sont eux que l’on voit, d’un discours insensé</l>
+          <l>Publier dans Paris que tout est renversé,</l>
+          <l>Au moindre bruit qui court qu’un auteur les menace</l>
+          <l>De jouer des bigots la trompeuse grimace :</l>
+          <l>Pour eux un tel ouvrage est un monstre odieux ;</l>
+          <l>C’est offenser les lois, c’est s’attaquer aux cieux.</l>
+          <l><hi rend="color_FF0000">[p.90]</hi>Mais bien que d’un faux zèle ils masquent leur faiblesse,</l>
+          <l>Chacun voit qu’en effet la vérité les blesse :</l>
+          <l>En vain d’un lâche orgueil leur esprit revêtu,</l>
+          <l>Se couvre du manteau d’une austère vertu ;</l>
+          <l>Leur cœur, qui se connaît et qui fuit la lumière,</l>
+          <l>S’il se moque de Dieu, craint <hi rend="i">Tartuffe</hi> et Molière.</l>
+        </quote>
+        <p>Molière restait en dehors de cette polémique. Sa pièce, s’il arrivait à la jouer, voilà où serait sa réponse :</p>
+        <quote>
+          <l>Allez, tous vos discours ne me font point de peur,</l>
+          <l>Je sais comme je parle et le ciel voit mon cœur.</l>
+        </quote>
+        <p>Il tenait seulement à bien faire connaître son intention dans cette pièce, et par les explications qu’il en pouvait donner, et par des lectures fréquentes chez ses amis et chez les personnes puissantes, démarches auprès du roi, conférences réitérées avec les dignitaires de l’Église, il n’épargna rien.</p>
+        <p>Quelle avait été sa pensée ? Il avait vu <hi rend="i">Tartuffe</hi> menacer de s’asseoir à tous les foyers, il voulut le <hi rend="color_FF0000">[p.91]</hi>chasser. Un sentiment sacré, le respect de la famille, l’avait seul inspiré.</p>
+        <p>Au milieu de la variété des personnages, rien de plus simple que le fond du sujet : Orgon a été autrefois un homme d’activité et de droit sens ; mais il a vieilli un peu, et, dans une position bourgeoise, il jouit, se repose et s’endort. Alors Tartuffe arrive et s’en empare. Molière le dit fort bien :</p>
+        <quote>
+          <l>Nos troubles l’avaient mis sur le pied d’homme sage ;</l>
+          <l>Et pour servir son prince il montra du courage.</l>
+          <l>Mais il est devenu comme un homme hébété</l>
+          <l>Depuis que de Tartuffe on le voit entêté.</l>
+        </quote>
+        <p>mais la loyauté veille dans Elmire et Cléante...</p>
+        <p>Ce que Rabelais disait de son <hi rend="i">Pantagruel</hi>, on peut le dire de la comédie de Molière : <quote><hi rend="i">Bon espoir y gît.</hi></quote> La nature humaine y est encouragée, elle s’y voit par tout ce qu’elle a de bon et d’éternel, dans les rôles de Cléante, de Damis, de Valère, d’Elmire, de Marianne, de Dorine et même dans <hi rend="color_FF0000">[p.92]</hi>celui du bonhomme Orgon, tout crédule qu’il est.</p>
+        <p>Ce qui fit l’importance de la pièce et excita les cris, c’est que ce n’était plus seulement une étude profonde du cœur humain, mais une protestation contre les charlatans religieux, contre tous les esprits de ténèbres et d’hypocrisie. Cela seul les blessait ; que leur eût importé la religion, dont ils faisaient tant de bruit ? Eh ! Que leur importait-il que Scaramouche insultât Dieu sur ses tréteaux ? Mais qu’on osât les jouer eux-mêmes, leur arracher le masque, voilà ce qu’ils ne pouvaient souffrir.</p>
+        <p>Molière ne les attaqua pas seulement dans une compagnie ; il vit qu’ils existaient partout, dans tous états, sous tous habits. Aussi se contentera-t-il de nous montrer Tartuffe s’impatronisant dans la famille d’Orgon, ayant ses relations depuis l’huissier jusqu’au trône ; mais d’où vient-il ? Qui est-il ? À quelle classe appartient-il ? Mystère.</p>
+        <p>Molière écrivit pour lui le rôle d’Orgon : il avait été sauvé par le roi de l’imposture de Montfleury, <hi rend="color_FF0000">[p.93]</hi>il sauva Orgon de la même manière des manœuvres de Tartuffe.</p>
+        <quote>
+          <l>Nous vivons sous un prince ennemi de la fraude.</l>
+        </quote>
+        <p>Il fit du tout puissant monarque le <hi rend="i">Deus ex machina</hi> de sa pièce. Elle n’en est pour nous que plus profondément historique, et peut-être y pourrions-nous voir l’avertissement le plus fort qu’ait reçu la royauté en France, sur le rôle qu’elle avait à jouer.</p>
+      </div>
+      <div>
+        <head>XVI.</head>
+        <p>Molière n’avait lu de <hi rend="i">Tartuffe</hi>, à ses amis, que jusqu’à l’endroit où Orgon est caché sous la table. Comment le ferait-il sortir de dessous cette table ? Cela excitait au plus haut point la curiosité, tant la chose paraissait à tous impossible. Elmire ferait-elle <hi rend="i">voir</hi> à Orgon ? Ceci était bien fort.</p>
+        <p>Au moment où nous sommes, le problème était résolu, la pièce est terminée. Seulement quand <hi rend="color_FF0000">[p.94]</hi>serait-elle jouée ? Là était l’embarras. La cabale prenait autour de Molière, autour du roi lui-même un développement formidable ; l’hypocrisie enlaçait le monde de ses inextricables réseaux.</p>
+        <p>Tant que Molière fut occupé de la composition de sa pièce, il fut peut-être le plus heureux des hommes; mais maintenant qu’elle était achevée, il se sentait dans une sorte de solitude et de malaise.</p>
+        <p>L’âme veuve de cette grande œuvre, il eût eu besoin de trouver dans son domestique quelques consolations; mais, hélas ! son foyer était vide, plus que vide; Armande, de plus en plus coquette et indifférente, entourée d’amants, n’avait plus en elle, pour lui, que raillerie amère et critique. Accablé de chagrins, de rebuts, il s’était vu forcé, quoiqu’il l’aimât encore, de rompre tout à fait avec elle. Ils ne se voyaient plus que le soir à la comédie, mais, à la comédie même, dans le rôle d’Alceste, il lui dira ces vers:</p>
+        <quote>
+          <l>Puisque vous n’êtes plus en des liens si doux</l>
+          <l>Pour trouver tout en moi, comme moi tout en vous,</l>
+          <l>Allez...</l>
+        </quote>
+        <p><hi rend="color_FF0000">[p.95]</hi>Lui qui eût été si heureux de se sentir aimé, entouré, compris chez lui; lui qui avait tant fait pour cela, qui s’était, durant seize années, préparé avec tant de soins une compagne suivant son cœur, il se voyait réduit à vivre seul, sans repos, sans consolations domestiques, excepté, peut-être, le souvenir de son vieux grand-père; mais qu’était-ce que des souvenirs, lorsque tout lui manquait à la fois dans le présent ? Son petit <hi rend="i">Louis</hi>, qu’il eût tant aimé, était mort... Armande, à la vérité, était enceinte ; mais de cruels soupçons...</p>
+        <quote>
+          <p rend="b">[...] une lettre écrite pour Oronte (
+          
+            <hi rend="i">C'était le comte de Guiche.)</hi>
+ </p>
+          <p>A produit à mes yeux ma disgrâce et sa honte.</p>
+        </quote>
+        <p>L'inspiration elle-même, cette divine consolatrice, semblait l’abandonner. Il n’y avait plus dans sa tête aucune grande œuvre, rien que des scènes décousues, bizarres, sans apparence de liaison entre elles. <hi rend="i">Tartuffe</hi> était fini, le <hi rend="i">Misanthrope</hi> était fini... <hi rend="i">Les Femmes Savantes</hi> étaient loin encore dans l’avenir et bien imprévues alors. Il fallait, avant que d’arriver à ce retour de jeunesse, <hi rend="color_FF0000">[p.96]</hi>à cette création pure et sereine du rôle d’Henriette, traverser six années encore de souffrance.</p>
+        <p>Accablé de tristesse, de solitude, Molière tomba malade. Sa poitrine, qui avait toujours été faible, et qu’il avait tant fatiguée au théâtre, devint naturellement le siège de la maladie. Toux, oppression, crachement de sang ; il ne pouvait plus supporter autre nourriture qu’un peu de lait mêlé d’eau.</p>
+        <p>Malgré ces embarras et ces souffrances, nous l’avons vu donner coup sur coup des chefs-d’œuvre, pour suivre de front, et le <hi rend="i">Misanthrope</hi>, et <hi rend="i">Tartuffe</hi>, et le <hi rend="i">Festin de Pierre;</hi> cependant ses comédiens se plaignaient: il les laissait languir, disaient-ils; sans cesse ils lui reprochaient sa lenteur à produire.</p>
+        <p>Molière, pour les contenter, autant que possible, leur arrangea en cinq jours sa comédie de l’<hi rend="i">Amour Médecin.</hi></p>
+        <p>La pièce plut, fut applaudie, tout Paris y courut. Les médecins étaient depuis longtemps un grand sujet de rire : ils couraient crottés par la ville, en longues robes noires, ne parlaient que latin; et quelles belles choses disaient-ils ? Ils <hi rend="color_FF0000">[p.97]</hi>se battaient chez leurs malades au sujet de la <hi rend="i">circulation</hi> et du <hi rend="i">vin émétique.</hi> De plus, il venait d’y avoir, à propos de lavements et de seringues, deux grands procès ridicules des médecins de Rouen et de Marseille contre les apothicaires, dont toute la France avait ri.</p>
+        <p>L'<hi rend="i">Amour Médecin</hi> fut joué en septembre 1665 ; Molière y remplissait le rôle de Sganarelle, ce père dans l’embarras...</p>
+        <quote>
+          <p>« Champagne ! Champagne ! Champagne! vite, qu’on m’aille quérir des médecins, et en quantité. On n’en peut trop avoir dans une pareille aventure. Ah ! ma fille ! ma pauvre fille ! »</p>
+        </quote>
+        <p>Ils arrivent à quatre, en grande cérémonie; ils tâtent la malade, s’asseyent, toussent, causent: l’un de sa mule, l’autre de son cheval.</p>
+        <label>
+          <figure>
+            <label>SGANARELLE.</label>
+            <p>Messieurs, l’oppression de ma fille augmente; je vous prie de me dire vite ce que vous avez résolu.</p>
+            <p>- Saignons, saignons, dit l’un.</p>
+            <list type="ul">
+              <item>Moi, fait l’autre, je dis que sa maladie est une pourriture d’humeurs causée par une trop grande réplétion : ainsi, je conclus à lui donner de l’émétique.</item>
+              <item><hi rend="color_FF0000">[p.98]</hi>Je soutiens que l’émétique la tuera.</item>
+            </list>
+            <p>- Et moi que la saignée la fera mourir.</p>
+            <head/>
+            <figDesc/>
+          </figure>
+        </label>
+        <p/>
+        <p>
+ </p>
+        <p>Grands débats :</p>
+        <p>Un troisième prétend (c’est Monsieur Macroton) que la malade</p>
+        <quote>
+          <p>[...] a u-ne ma-la-di-e chro-ni-que, et qu’el-le peut pé-ri-cli-ter, si on ne lui don-ne du se-cours, d’au-tant que les symp-tô-mes qu’el-le a sont in-di-ca-tifs d’u-ne va-peur fu-li-gi-neu-se qui lui pi-co-te les mem-bra-nes du cer-veau. Or, cet-te va-peur que nous nom-mons en grec at-mos, est cau-sé-e par des humeurs pu-tri-des, te-na-ces, con-glu-ti-neu-ses, etc.</p>
+        </quote>
+        <p>Les pauvres gens ! que de raisonnements ! que de science perdue là où il suffirait d’un regard...</p>
+        <p>Un regard de celui qu’elle aime, voilà ce qui guérit Lucinde, ce qui lui rend sa gaîté, sa santé. <quote><hi rend="i">L’esprit a grand empire sur le corps et c’est de lui bien souvent que procèdent les maladies</hi></quote> (dit Clitandre).</p>
+      </div>
+      <div>
+        <head>XVII.</head>
+        <p>Environ ce temps-là une coureuse, nommée la Raisin, directrice ambulante d’une troupe <hi rend="color_FF0000">[p.99]</hi>d’enfants, ruinée par suite de désordres, comptant sur la générosité de Molière, vint le prier de lui prêter son théâtre pour trois représentations seulement, afin de pouvoir, par le gain qu’elle espérait y faire, remettre sa troupe en état.</p>
+        <p>Molière y consentit. On annonçait, dans cette troupe, un petit miracle de treize à quatorze ans, nommé Baron. La ville entière le courut voir, et la Raisin, en une seule fois, tant il y vint de monde, fit plus de mille écus.</p>
+        <p>Molière, un peu malade, n’était pas allé voir le petit Baron dans les deux premiers jours; mais on lui en dit tant de merveilles, qu’à la dernière représentation, quoique souffrant, il se fit porter au Palais-Royal. Il fut étonné, ravi plus que personne du jeu naïf de cet enfant; aussi, après la pièce, il le retint à souper, puis il envoya chercher son tailleur (car le pauvre enfant était fort mal accommodé), et lui fit faire un habit complet, en recommandant bien qu’il fût prêt pour le lendemain. Molière, après cela, interrogea le jeune homme et le fit causer, et il ajouta aux habits six <hi rend="color_FF0000">[p.100]</hi>beaux louis d’or. Le pauvre enfant croyait rêver, lui qui avait été toujours si durement traité par les gens au milieu desquels il avait vécu jusqu’alors. Mais Molière était touché de voir un jeune homme né avec d’aussi belles qualités, perdu aux mains de ces gens. Il voyait en lui poindre un grand comédien, et il voulut l’ôter de la misère. Au souper, il lui demanda quelle chose il souhaitait le plus : <quote>« - De rester avec vous toute la vie</quote>, répond Baron.</p>
+        <p><quote>- Eh bien !</quote> lui dit Molière, <quote>c’est une chose faite. »</quote></p>
+        <p>Cette adoption fit du bien à Molière ; dans sa solitude, il avait éprouvé toujours le besoin de sentir près de lui une âme pure et sereine : la petite Béjart d’abord, puis le petit Baron. Le grand comique fut, par excellence, un génie éducateur, et de la foule et des individus. Outre sa femme et Baron, ne forma-t-il pas un à un tous les acteurs de sa troupe, ainsi qu’on le voit dans l’<hi rend="i">Impromptu de Versailles</hi> ? Et qui, plus que lui, a élevé la foule en France, partant de Mascarille pour arriver à Cléante ( dans <hi rend="i">Tartuffe</hi> ), et à Clitandre ( dans les <hi rend="i">Femmes Savantes</hi> ) ? Qui, plus que lui, a vulgarisé <hi rend="color_FF0000">[p.101]</hi>le bon sens et fortifié le sentiment du vrai dans le peuple ? Aussi le peuple ne l’a-t-il jamais oublié.</p>
+        <p>Molière éleva Baron comme s’il eût été son propre fils ; l’éducation de ce jeune homme fut, pendant quelque temps, son meilleur délassement. Il ne l’instruisait pas seulement dans son art ; il cherchait à développer en lui un caractère noble, généreux et vrai. Il lui enseignait que le théâtre même doit être l’expression de la vérité : aucune occasion n’était négligée par lui de joindre, en toutes choses, les bons exemples aux bons conseils.</p>
+        <p>On raconte qu’un jour, un pauvre comédien nommé Mondorge, réduit au dénuement, vint à Auteuil où était alors Molière, sachant bien qu’il y trouverait quelque secours. Il s’adressa à Baron ; lui dit sa misère, qu’il était père de famille, et qu’il avait joué autrefois, en Languedoc. avec M. de Molière.</p>
+        <p>Baron, tout ému, lui fait servir à manger, puis il monte trouver Molière. Celui-ci fut charmé de son bon cœur: <quote>« Il ne vous a pas trompé,</quote> lui <hi rend="color_FF0000">[p.102]</hi>dit-il ; <quote>je me le rappelle très bien, et c’est un fort honnête homme. Que croyez-vous que je lui doive donner ? »</quote> Baron s’excusait. <quote>« Non,</quote> dit Molière, <quote>je veux que vous déterminiez vous-même ce que je lui dois donner. »</quote> Baron dit qu’il croyait quatre pistoles suffisantes. <quote>« Eh bien !</quote> dit Molière, <quote>je vais lui donner quatre pistoles pour moi; mais en voici vingt autres que je lui donnerai de votre part : je veux qu’il sache que c’est à vous qu’il doit le service que je lui rends. On peut ajouter à cette somme,</quote> continua-t-il, <quote>cet habit de théâtre dont je crois que je n’aurai plus besoin. Il sera encore à ce pauvre garçon de quelque ressource pour sa profession. »</quote></p>
+        <p><quote>« Cependant, cet habit que Molière donnait avec tant de plaisir,</quote> dit Grimarest, <quote>lui avait coûté deux mille cinq cents livres, et il était presque neuf. Il assaisonna ce présent d’un bon accueil qu’il fit à Mondorge. »</quote></p>
+        <p>Il <quote><hi rend="i">le consola et l’embrassa</hi>,</quote> dit un autre biographe.</p>
+      </div>
+      <div>
+        <head>[p.103]XVIII.</head>
+        <p>L’année 1665 s’était ainsi écoulée sans que le <hi rend="i">Misanthrope</hi> eût encore paru ; mais dans les premiers jours de 1666, Molière se disposait à le donner au public, lorsque sa meilleure protectrice auprès du roi, la reine mère, Anne d’Autriche, mourut.</p>
+        <p>Il voulut, pendant le deuil, s’abstenir de nouveautés, et le <hi rend="i">Misanthrope</hi> fut remis au mois de juin. Peut-être aussi fut-il bien aise de pouvoir se préparer longtemps au rôle d’Alceste, si différent de tous ceux où il s’était montré jusque-là. C’est ici l’occasion de dire que, pour beaucoup de ses contemporains, il fut admiré surtout comme acteur. À la vérité, le]public d’alors ne le connaissait pas par la lecture autant que le public d’aujourd’hui ; mais on allait le voir. Sa figure, son jeu, sa voix entrecoupée, sa toux même, dans les rôles de vieillard, ne se pouvaient oublier. <hi rend="color_FF0000">[p.104]</hi>Quoique grand et bien fait, quoique doué d’un visage sérieux et très doux, personne n’avait une physionomie plus comique. Son nez et sa bouche, dans les moments de surprise, sans qu’il parlât, étaient seuls tout une comédie.</p>
+        <p><quote>« Il était,</quote> dit un contemporain, <quote>tout comédien depuis les pieds jusqu’à la tête. Il semblait qu’il eût plusieurs voix; tout parlait en lui; et d’un pas, d’un sourire, d’un clin d’œil, d’un remuement de tête, il faisait plus concevoir de choses que le plus grand parleur n’aurait pu dire en une heure. »</quote></p>
+        <p>Dans les pièces qui n’étaient point de lui, il faiblissait quelquefois, surtout dans le tragique, qui allait mal à sa voix saccadée, à sa volubilité d’expression. Sa figure conservait quelque chose de risible jusque dans le sérieux; mais c’est dans le comique, c’est dans ses rôles à lui qu’il savait reproduire</p>
+        <quote>
+          <l>Ces mouvements du cœur, peints d’une adresse extrême</l>
+          <l>Par des gestes puisés dans la passion même.</l>
+        </quote>
+        <p><hi rend="color_FF0000">[p.105]</hi>Jamais homme, dit Lagrange, n’a si bien entré que lui dans ce qui fait le jeu naïf du théâtre :<quote> « Il n’était pas seulement inimitable dans la manière dont il soutenait les caractères de ses comédies, mais il leur donnait encore un agrément tout particulier par la justesse qui accompagnait le jeu des acteurs ; un coup d’œil, un pas, un geste, tout y était observé avec une exactitude qui avait été inconnue jusque-là sur les théâtres de Paris. »</quote></p>
+        <p>Que devait-être une troupe de. comédiens, habiles d’ailleurs, dirigée par un tel chef, qui savait si bien faire valoir leurs moindres qualités, et qui tirait parti de leurs défauts mômes ?</p>
+        <p>Molière avait beaucoup d’ordre ; il se faisait un revenu de plus de trente mille livres, fortune considérable pour l’époque, et qui pouvait équivaloir à cent vingt mille francs de rente de notre temps. Cela lui permettait de vivre grandement et d’avoir, à Auteuil, une maison fort jolie, où il allait souvent, car il aimait la campagne; il composait, à Auteuil, ces jolis couplets que <hi rend="color_FF0000">[p.106]</hi>Lulli et Charpentier mettaient en musique pour ses <hi rend="i">intermèdes.</hi> La vue des prairies, le chant des oiseaux, auquel il était très sensible, rendaient le calme à son âme. Théocrite, Virgile, Horace lui revenaient en mémoire ; il improvisait alors en italien, en espagnol, en français, des poésies pastorales, quelquefois pleines de fraîcheur :</p>
+        <quote>
+          <l>Vous chantez sous ces feuillages,</l>
+          <l>Doux rossignols, pleins d’amour;</l>
+        </quote>
+        <p>Puis, il imaginait des bergères endormies sous l’ombrage :</p>
+        <quote>
+          <l>Silence, petits oiseaux,</l>
+          <l>Vents, n’agitez nulle chose ;</l>
+          <l>Coulez doucement, ruisseaux,</l>
+          <l>C’est Caliste qui repose.</l>
+          <l>Ah sin che florida</l>
+          <l>Ride l’età</l>
+          <l>Che pur tropp’ orrida</l>
+          <l>Da noi sen va,</l>
+          <l><hi rend="color_FF0000">[p.107]</hi>Sù Cantiamo !</l>
+          <l>Ma poichè frigida</l>
+          <l>Langue l’età</l>
+          <l>Più l’alma rigida</l>
+          <l>Fiamme non ha.</l>
+          <l>Sù Cantiamo<note place="bottom"><l>Tant que l’âge des fleurs</l><l>Nous rit, qui, las !</l><l>De nous trop tôt s’enfuit,</l><l>Allons chantons !</l><l>Mais quand l’âge glacé languit,</l><l>L’âme engourdie</l><l>N'’a plus de flammes,</l><l>Allons chantons!</l></note>.</l>
+        </quote>
+        <p>Molière allait à Auteuil, quelquefois en bateau, quelquefois en voiture. Il en revenait un jour avec le musicien Charpentier, lorsqu’un pauvre se présente à la portière en demandant l’aumône : Molière lui donne; mais un instant après le pauvre reparaît :</p>
+        <p><quote>« - Monsieur,</quote> lui dit-il, <quote>vous n’aviez peut-être pas l’intention de me donner un louis d’or, je viens vous le rendre. </quote></p>
+        <p><quote>- Tiens, mon ami, </quote>dit Molière, <quote>en voici un second. » </quote>Puis, se <hi rend="color_FF0000">[p.108]</hi>tournant vers Charpentier, il ajoute : <quote>« Où diable la vertu va-t-elle se nicher ! »</quote></p>
+        <p>Il donna au jeune Racine, dont il joua les essais sur son théâtre, autant que Louis XIV et Colbert.</p>
+        <p>Le plus grand ordre était exigé dans son intérieur; et, en toutes choses, il pratiquait la régularité jusqu’à la symétrie. Absorbé dans une contemplation continuelle, étudiant et méditant sans cesse, accablé d’affaires, acteur, auteur, directeur, valet de chambre du roi, cent personnes à conduire et les trois quarts du temps malade, il fallait bien que tout chez lui fût arrangé, régulier. C’était son côté intraitable. Une fenêtre ouverte ou fermée mal à propos, un livre déplacé, suffisaient pour le mettre en colère, comme cet excellent M. Jourdain, dont il joua le rôle et auquel il fait dire si plaisamment, lorsque le maître de philosophie lui veut enseigner à modérer ses passions :<quote> « Non... je suis bilieux comme tous les diables, et il n’y a pas de morale qui tienne, je me veux mettre en colère. »</quote></p>
+        <p>Malgré cela, aimé de tous ceux qui <hi rend="color_FF0000">[p.109]</hi>l’entouraient, jusqu’aux moindres enfants, ses comédiens, Boileau, La Fontaine, Ninon, M<hi rend="sup">me</hi> de la Sablière, le grand Condé, tous se plaisaient avec lui. Le vieux Corneille lui-même, si pauvre et si fier, venait le voir; et l’aimait, et l’on dit qu’il ne fut point insensible à la beauté d’Armande.</p>
+        <p>Chapelle avait un appartement dans la maison d’Auteuil, et lorsque Molière y recevait ses amis, c’était lui qui en faisait les honneurs, car depuis la rentrée de Molière à Paris, ils ne s’étaient plus quittés. Malgré sa vie légère, Molière aimait Chapelle. Celui-ci amena un jour, à Auteuil, grande compagnie: c’étaient MM. Lulli, Jonsac, Nantouillet, Boileau et quelques autres ; ils venaient, disaient-ils, pour se bien divertir. Molière, qui était malade, but son lait devant eux et alla se coucher, en ayant soin de faire retirer Baron ; mais les convives le réclamèrent si fort qu’il fallut le laisser avec eux, à la condition, toutefois, qu’ils ne feraient pas boire cet enfant. Voilà Chapelle de mauvaise humeur; il se met à faire de la philosophie, et prononce, en se versant rasade, <hi rend="color_FF0000">[p.110]</hi>un discours sur le mépris de la vie.</p>
+        <p><quote>« - Tu as raison, </quote>s’écrient les autres, <quote>ce monde-ci est indigne de philosophes comme nous. </quote></p>
+        <p><quote>- Eh bien ! </quote>répond Chapelle, <quote>attendrons-nous, comme des esclaves ou des brutes, que la mort nous en chasse ? Sortons-en de nous-mêmes avec gloire, comme de vrais amis et comme de vrais sages. Embrassons-nous pour la dernière fois, et allons nous noyer. »</quote></p>
+        <p>On applaudit, on trépigne, on se lève, on court, voilà nos gens dans l’eau. Baron, éperdu, monte éveiller Molière qui descend à la hâte, court en costume de nuit au bord de la rivière et leur tient ce discours :</p>
+        <p>« - Mes amis, que vous ai-je donc fait ? Quoi ! Vous vouliez accomplir sans moi une action si glorieuse ?</p>
+        <list type="ul">
+          <item><quote>C’est vrai, </quote>dit Chapelle, <quote>nous l’avions oublié. Viens te noyer avec nous.</quote></item>
+          <item><quote>Doucement, </quote>dit Molière, <quote>une si sage résolution doit être réfléchie jusque dans la manière dont elle s’exécute. Est-ce la nuit comme des gens sans cœur ou désespérés, que se doivent noyer des philosophes ? C’est en plein jour, et devant le public. À l’heure qu’il est nous perdrions la gloire [p.111]d’une telle action, la calomnie dirait que nous étions ivres. C’est demain, à midi, au milieu du village, qu’il faut accomplir notre dessein. </quote></item>
+          <item><quote>Ce Molière,</quote> dit Chapelle, <quote>a toujours plus d’esprit que nous. Sortons d’ici, nous nous noierons demain. </quote></item>
+          <item><quote>Cela est convenu,</quote> dit Molière, <quote>allons dormir, en attendant. »</quote></item>
+        </list>
+        <p>Chapelle, un autre jour, se battait à coups de poing dans la petite prairie d’Auteuil avec un vieux valet appelé Godemer, qui le servait depuis plus de trente ans. La lutte était terrible et les combattants acharnés. De quoi s’agissait il ? Le voici : Ce vieux Godemer avait été accoutumé, par Chapelle, à être toujours avec lui dans son carrosse; mais ce jour-là, la fantaisie vint à Chapelle, un peu pris de vin, de lui ôter tout à coup cet antique privilège, et de le faire honteusement monter derrière.</p>
+        <p>Godemer avait résisté, défendu ses droits, Chapelle s’était emporté, les coups avaient suivi. Le cocher, descendu de son siège, ne pouvait venir à bout de les séparer. Molière et Baron qui, de <hi rend="color_FF0000">[p.112]</hi>leur fenêtre, avaient entrevu la bataille, accoururent, croyant qu’on assommait Chapelle.</p>
+        <p>Baron, comme le plus ingambe, arriva le premier et fit cesser les coups, dit Grimarest ; mais il fallut Molière pour terminer le différend.</p>
+        <p><quote>« - Ah ! Molière, </quote>dit Chapelle, <quote>puisque vous voilà, jugez si j’ai tort. Ce coquin de Godemer s’est lancé dans mon carrosse, comme si c’était à un valet de figurer avec moi.</quote></p>
+        <list type="ul">
+          <item><quote>Tous ne savez ce que vous dites, </quote>répondit Godemer, <quote>Monsieur sait que je suis en possession du devant de votre carrosse depuis plus de trente ans, pourquoi voulez-vous me l’ôter sans raison ?</quote></item>
+          <item>
+            <quote>Vous êtes un insolent qui perdez le respect; si j’ai voulu vous permettre de monter dans mon carrosse, je ne le veux plus; je suis le maître, et vous irez derrière ou à pied.</quote>
+          </item>
+          <item>
+            <quote>Y a-t-il de la justice à cela ? me faire aller à pied à présent que je suis vieux, et que je vous ai bien servi si longtemps ! Il fallait m’y faire aller pendant que j’étais jeune. J’avais des jambes [p.113]alors; mais à présent je ne puis plus marcher. En un mot comme en cent, vous m’avez habitué au carrosse, je ne puis plus m’en passer, et je serais déshonoré si l’on me voyait aujourd’hui derrière.</quote>
+          </item>
+          <item><quote>Jugez-nous, Molière, je vous en prie, </quote>dit M. Chapelle, <quote>j’en passerai par tout ce que vous voudrez.</quote></item>
+          <item><quote>Eh bien ! puisque vous vous en rapportez à moi, </quote>dit Molière, <quote>je vais tâcher de mettre d’accord deux si honnêtes gens. Vous avez tort, dit</quote>-il à Godemer, <quote>de perdre le respect envers votre maître, qui peut vous faire aller comme il voudra : il ne faut pas abuser de sa bonté. Ainsi, je vous condamne à monter derrière son carrosse jusqu’au bout de la prairie, et là vous lui demanderez fort honnêtement la permission d’y rentrer; je suis sûr qu’il vous l’accordera.</quote></item>
+          <item><quote>Parbleu ! </quote>s’écria Chapelle, <quote>voilà un jugement qui vous fera honneur dans le monde. Tenez, Molière, vous n’avez jamais donné une marque d’esprit si brillante. Oh ! bien,</quote> ajouta-t-il, <quote>je fais [p.114]grâce à ce maraud-là, en faveur de l’équité avec laquelle vous venez de nous juger. Ma foi, Molière, dit-il encore, je vous suis obligé, car cette affaire-là m’embarrassait; elle avait sa difficulté. Adieu, mon cher ami, tu juges mieux qu’homme de France. »</quote></item>
+        </list>
+        <p>Cette batterie, de Chapelle avec le vieux Godemer, nous montre qu’il y avait alors, entre les maîtres et les domestiques, une familiarité, une liberté de parole qui n’existent plus de nos jours, et que Molière n’a rien exagéré dans ses rôles de Lisette, de Dorine, de Nicolle, de Toinette. Les domestiques faisaient en quelque sorte partie de la famille ; on les voyait, de père en fils, dans les mêmes maisons, comme partie vivante du patrimoine. Il ne faut pas d’ailleurs confondre le domestique ni le valet avec le simple laquais, pas plus que la suivante avec la servante. Lisette était <hi rend="i">suivante</hi> d’Isabelle, Dorine était <hi rend="i">suivante</hi> de Mariane; Nicolle, à la vérité, n’est que servante chez M. Jourdain, mais évidemment une servante en chef, puisque nous apercevons au-dessous <hi rend="color_FF0000">[p.115]</hi>d’elle <hi rend="i">cette pauvre Françoise</hi>, qui sue à frotter les planchers.</p>
+        <p>C’est ainsi que Molière lui-même avait chez lui la vieille Laforêt, qui présidait au ménage, tandis que, sous ses ordres, agissaient deux ou trois filles de cuisine. Parmi ces filles se trouvait même une certaine Martine, qui servit d’original à la <hi rend="i">Martine</hi> des <hi rend="i">Femmes savantes;</hi> Molière eut la singulière idée de lui faire jouer ce rôle à elle-même, quoique la pauvre fille n’eût, de sa vie, assurément paru sur le théâtre ; il le lui apprit et elle s’en tira aux applaudissements universels. Elle resta elle-même, ainsi que Molière le lui avait bien recommandé, avec ses habits, son patois, ses allures, et jamais personnage ne fut rendu avec une plus grande perfection. La comédie fut encore cette fois de la réalité. Molière, toute sa vie, ne chercha que cela. Qui croirait, par exemple, que la grotesque dispute du maître de danse et du tireur d’armes avec le philosophe, dans le <hi rend="i">Bourgeois Gentilhomme</hi>, n’est que la mise en scène d’une querelle qui eut lieu, à cette époque, entre<hi rend="color_FF0000"> [p.116]</hi>les maîtres de danse et les joueurs de violon ? Il y eut procès, plaidoyers de part et d’autre devant le Parlement. Le cas était si obscur, qu’il y fallut l’intervention du roi.</p>
+        <p>La scène de Molière est elle plus comique que ne l’avait été ce procès ? qu’on en juge; voici un petit passage du discours des avocats de la danse :</p>
+        <p><quote>« Que, s’il fallait parler des qualités nécessaires aux personnes qui dansent et à celles qui jouent du violon, il ne serait pas difficile de faire voir que les danseurs ont tout l’avantage, car ils doivent être bien faits de corps. Les joueurs de violon n’ont pas besoin de cela, ils peuvent être boiteux, aveugles et bossus, sans que personne s’en scandalise, il ne leur faut que l’oreille et le bras. »</quote> </p>
+        <p>Les avocats de la musique, dans leur réponse, avaient recours à la prosopopée et faisaient parler l’Harmonie elle-même : <quote>« Ne faut-il pas, </quote>disait-elle, <quote><hi rend="i">que</hi> vous reconnaissiez <hi rend="i">que</hi> c’est à moi <hi rend="i">à qui</hi> (ces avocats ne savaient pas le français) <hi rend="i">que</hi> [p.117]c’est à moi à <hi rend="i">qui</hi> les Romains et les Grecs doivent la plupart des lauriers <hi rend="i">qui</hi> ont couvert leurs têtes ? etc. »</quote></p>
+        <p>On a dit que la réception du Mamamouchi était une scène outrée, que le rôle de M. Jourdain sortait, ici, de toute vraisemblance; c’est connaître bien mal jusqu’où peut aller notre crédulité. N’a-t-on pas vu, depuis M. Jourdain, un sage de la terre, un docteur en théologie, l’abbé de Saint-Martin, protonotaire du Saint-Siège, tomber exactement dans le même piège, se laisser recevoir Mandarin et marquis de Miskou, avec mille cérémonies burlesques ? Un auteur dramatique, Poinsinet, n’a-t-il pas cru bonnement aux prétendus ambassadeurs du roi de Siam, qui le venaient complimenter sur la beauté de ses ouvrages, et ne s’est-il pas laissé recevoir <hi rend="i">écran du roi</hi> ? Molière savait bien, et savait par lui-même, qu’il n’y a pas de bornes aux enfances humaines.</p>
+        <p>Géronte, quand on le met dans le sac, M. Jourdain, quand on le fait Mamamouchi, M. de Pourceaugnac, quand Sbrigani le fourbe, etc. ; <hi rend="color_FF0000">[p.118]</hi>pas plus que Don Quichotte, quand on le reçoit chevalier, ne sont des personnages trop crédules.</p>
+        <p>J’ai parlé tout à l’heure de Laforêt; tout le monde sait que Molière la consultait sur ses pièces; il voulut un jour éprouver son bon sens, il lui lut, comme de lui, une comédie de Brécourt ; mais, à chaque parole, <quote>« ce n’est pas vous,</quote> s’écriait-elle, <quote>qui avez fait cela. »</quote></p>
+        <p>Cette bonne femme n’eut pas seulement sur Molière l’influence d’un excellent critique, elle lui fournit aussi ces admirables types de Madame Jourdain et de la nourrice Jacqueline dans le <hi rend="i">Médecin malgré lui.</hi></p>
+        <p>Lorsqu’il lui faisait la lecture de ses pièces, il ne voulait pas qu’elle les entendît seule. Il faisait venir les enfants de tous ses comédiens ; il lisait Pourceaugnac, le Médecin malgré lui... On riait aux éclats ; il observait et faisait son profit des contenances de ce naïf auditoire.</p>
+        <p>Tout devenait si bien acteur et théâtre autour de Molière, qu’il réussit à faire monter sur la scène <hi rend="color_FF0000">[p.119]</hi>toute sa maison. La pauvre Laforêt y parut un jour d’une bien étrange manière. Madeleine Béjart, qui était bel esprit, avait fait une comédie en cinq actes sur le sujet de <hi rend="i">Don Quichotte.</hi> Molière voulut être Sancho : il fallut donc un âne, on en eut un; il fut confié aux soins de Laforêt qui en fit si bien l’acquit de sa conscience que dans la crainte de quelque malencontre pour le pauvre animal, elle ne manquait jamais de l’accompagner jusque sur le théâtre. Un certain soir, on l’avait préparé à jouer son rôle, Laforêt, derrière les coulisses, le tenait par la bride, Molière monté dessus ; mais voici le baudet pris de la fantaisie d’entrer avant son tour. Molière s’écriait : Laforêt, retenez ce maudit âne... La digne fille faisait tous ses efforts; mais en vain, l’animal emporta maître et servante au milieu des acteurs, sur la scène. Le public fit à Sancho, à Laforêt et à l’âne un accueil tout français. Laforêt, depuis ce jour-là, ainsi que Molière, aima toujours ce bon public, tant elle l’avait, disait-elle, trouvé honnête.</p>
+        <p>Cette bonne fille était un vrai bonheur dans la <hi rend="color_FF0000">[p.120]</hi>maison de Molière, il trouvait, grâce à elle, son loyer moins sombre...</p>
+        <p>Délaissé tout à fait de sa femme, il allait plus fréquemment à Auteuil. Il s’y promenait au milieu des fleurs, mais quelquefois sans les voir; il pensait à celle qui faisait son malheur et qu’il ne pouvait point s’empêcher d’aimer.</p>
+        <p>À Paris, <hi rend="i">dans ses troubles divers</hi>, il allait s’épancher avec la charmante M<hi rend="sup">lle</hi> Debrie : <quote><hi rend="i">Je n’ai vu qu’en vous</hi>, </quote>lui disait-il, <quote><hi rend="i">de la sincérité.</hi></quote> C’était, en effet, une personne extrêmement jolie, pleine de douceur, naïve et vraie en toute chose.</p>
+        <quote>
+          <l>Un air tout engageant, je ne sais quoi de tendre</l>
+          <l>Dont il n’est point de cœur qui se puisse défendre.</l>
+        </quote>
+        <p><quote>« Elle se prend, </quote>disait-il, <quote>d’un air le plus charmant du monde aux choses qu’elle fait, et l’on voit briller mille grâces en toutes ses actions; une douceur pleine d’attraits, une bonté toute encourageante, une honnêteté adorable. »</quote></p>
+        <p>Malheureusement M<hi rend="sup">lle</hi> Debrie avait chez elle un mari, grand bretteur, que Molière n’aimait guère, <hi rend="color_FF0000">[p.121]</hi>aussi ne lui fit-il jouer que des rôles de rien dans ses pièces. Il en fait le <hi rend="i">bretteur La Rapière</hi>, dans le <hi rend="i">Dépit Amoureux</hi> ; le <hi rend="i">spadassin La Ramée</hi>, dans le <hi rend="i">Festin de Pierre;</hi> le <hi rend="i">maître d’armes</hi>, dans le <hi rend="i">Bourgeois-Gentilhomme.</hi> Ailleurs, dans des rôles de quelques lignes, Debrie sera toujours le plus fâcheux personnage : c’est ainsi, par exemple, que si Molière est Alceste, Debrie sera le garde de la maréchaussée ; si Molière est Orgon, Debrie sera l’affreux Monsieur Loyal. Molière lui attribuait ces sortes de rôles parce que, sans doute, l’apparition du visage de Debrie lui causait toujours une impression fâcheuse, et que cela le rendait, dans ses colères contre Monsieur Loyal et autres, bien plus vrai. Ainsi Debrie faisait le notaire dans l’<hi rend="i">École des Femmes</hi>, où, le voyant paraître, Molière se sauvait en criant:</p>
+        <quote>
+          <l>La peste soit de l’homme et sa chienne de face !</l>
+        </quote>
+        <p>Cependant ses assiduités chez M<hi rend="sup">lle</hi> Debrie n’étaient pas trop fatigantes, dit Grimarest: <quote>«En huit jours une petite conservation, c’en était [p.122]assez pour lui, sans qu’il se mît en peine d’être aimé, excepté de sa femme, dont il aurait acheté la tendresse pour toute chose au monde. »</quote></p>
+        <p>Quelle était donc cette femme tant aimée ? Sa beauté semblait un mystère, un rêve, une illusion ; mais les urnes n’en étaient, à la voir, que plus profondément troublées. C’était l’insaisissable : elle était pâle, sérieuse, mais douée de tant de charmes que personne ne la vit sans en être enchanté. Son regard, quoique vif et plein de flamme, avait, au milieu de sa pâleur, un attrait de nonchalance inexprimable, mais invincible. <quote>« Elle a les yeux petits,</quote> disait Molière, <quote>mais elle les a pleins de feu, les plus brillants, les plus perçants, les plus touchants qu’on puisse voir. Elle a la bouche grande ; mais on y voit des grâces qu’on ne voit point aux autres bouches.» </quote>Ajoutez à cela qu’elle faisait toute chose avec le goût le plus délicat, et disposait sa toilette comme personne au monde à l’air de son visage. Quoique satirique à l’excès, sa conversation était ravissante, sa voix la plus touchante qu’il y eût. Il fallait l’entendre <hi rend="color_FF0000">[p.123]</hi>au théâtre, avec Lagrange, dans la scène chantée du <hi rend="i">Bourgeois-Gentilhomme</hi> ! Comme actrice elle était inimitable de finesse, de grâces légères, et quelquefois de dignité. Et cependant il l’avait aimée avant même que tout cela eût paru en elle, il l’avait aimée lorsque personne encore ne songeait à elle !</p>
+        <quote>
+          <l>Un air doux et posé [...]</l>
+          <l>M’inspira de l’amour pour elle dès quatre ans.</l>
+        </quote>
+        <p>L’innocence, les jeux, les naïvetés de l’enfance l’avaient séduit, mais ce qui le charma le plus dans la petite fille, et qu’ont tous les enfants, ce fut cette attention merveilleuse à écouter, cette facilité à recevoir toute impression :</p>
+        <quote>
+          <l>Je ne puis faire mieux que d’en faire ma femme,</l>
+        </quote>
+        <p>se disait-il,</p>
+        <quote>
+          <l>Tout comme je voudrai je tournerai cette âme.</l>
+        </quote>
+        <p><hi rend="color_FF0000">[p.124]</hi>Mais ne cherchons point, pour le mieux, de raisons à cette passion, car</p>
+        <quote>
+          <l>[... ] la raison n’est pas ce qui règle l’amour.</l>
+        </quote>
+        <p rend="i">(Misanthrope.)</p>
+        <quote>
+          <l>Non ce n’est point un choix [...]</l>
+          <l>Mais ces chaînes du ciel qui tombent sur nos âmes</l>
+          <l>Décidèrent en moi...</l>
+        </quote>
+        <p rend="i">(Don Garde.)</p>
+        <quote>
+          <l>Choisit-on qui l’on veut aimer ?</l>
+          <l>Et pour donner toute son âme,</l>
+          <l>Regarde-t-on quels droits on a de nous charmer ?</l>
+        </quote>
+        <p rend="i">(Psyché.) </p>
+        <p>Après le mariage, ce ne fut pas à elle qu’il fit des reproches, mais seulement à lui. Ne pouvant la changer, il essaya de se changer lui-même, de réformer son cœur, il ne le put.</p>
+        <quote>
+          <l>[...] je commence à connaître</l>
+          <l>Que pour cette union Dieu ne m’a pas fait naître.</l>
+        </quote>
+        <p><quote>« Je suis le plus malheureux des hommes, et je n’ai que ce que je mérite,</quote> disait-il un jour <hi rend="color_FF0000">[p.125]</hi>à M. Rohault ; <quote>je n’ai pas pensé que j’étais trop austère pour une société domestique... avec toutes les précautions dont un homme peut être capable, je n’ai pas laissé de tomber dans le désordre où tous ceux qui se marient sans réflexion ont accoutumé de tomber. »</quote></p>
+        <p>Et le soir sous le manteau d’Arnolphe, il disait au public :</p>
+        <quote>
+          <l>En sage philosophe on m’a vu vingt années</l>
+          <l>Contempler des maris les tristes destinées,</l>
+          <l>Et m’instruire avec soin de tous les accidents</l>
+          <l>Qui font dans le malheur tomber les plus prudents ;</l>
+          <l>Des disgrâces d’autrui, profitant dans mon âme,</l>
+          <l>J’ai cherché les moyens, voulant prendre une femme,</l>
+          <l>De pouvoir garantir mon front...</l>
+        </quote>
+        <p>Un jour, dans son jardin d’Auteuil, Chapelle le trouva plus triste que de coutume et lui en demanda le sujet. Molière, toujours plus tendre et plus expansif à la campagne, lui avoua que ce <hi rend="color_FF0000">[p.126]</hi>chagrin lui venait d’être obligé de vivre éloigné de sa femme et de ne pouvoir s’en faire aimer. Chapelle lui répondit qu’il l’avait cru au-dessus de ces sortes de choses, et le railla de ce que lui, qui savait si bien peindre le faible des autres hommes, tombait dans le ridicule d’aimer une personne qui ne le payait pas de retour.</p>
+        <p>Molière, qui l’avait écouté avec calme, lui demanda s’il avait jamais été amoureux.</p>
+        <p><quote>« - Je l’ai été,</quote> répondit Chapelle, <quote>comme doit l’être un homme raisonnable ; mais...</quote></p>
+        <p><quote>- Raisonnable et amoureux ! </quote>dit Molière; <quote>je vois bien que vous n’avez jamais aimé, et vous avez pris pour l’amour ce qui n’en est que l’ombre... Vous connaissez l’histoire de ma femme et la mienne; vous savez ce que j’ai souffert, ce que j’ai pardonné ! Cependant mes bontés ne l’ont pas changée !... Mais ce que vous ignorez, c’est que je l’aime en un tel point que je vais jusqu’à entrer avec compassion dans ses intérêts, et quand je considère combien il m’est impossible de vaincre ce que je sens pour elle, je me dis en même <hi rend="color_FF0000">[p.127]</hi>temps qu’elle a peut-être la même difficulté à détruire le penchant qu’elle a d’être coquette, et je me trouve plus de disposition à la plaindre qu’à la blâmer. Sans doute cette façon d’aimer vous paraîtra étrange ; mais pour moi je crois qu’il n’y a qu’une sorte d’amour, et que ceux qui n’ont point senti de semblables délicatesses n’ont jamais aimé véritablement. Toutes les choses du monde ont du rapport avec elle dans mon cœur : mon idée en est si fort occupée, que je ne sais rien, en son absence, qui me puisse divertir. Quand je la vois, une émotion et des transports qu’on peut sentir, mais qu’on ne saurait exprimer, m’ôtent l’usage de la réflexion; je n’ai plus d’yeux pour ses défauts ; il m’en reste seulement pour ce qu’elle a d’aimable : n’est-ce pas là le dernier point de la folie, et n’admirez-vous pas que tout ce que j’ai de raison ne serve qu’à me faire connaître ma faiblesse, sans en pouvoir triompher ? »</quote></p>
+      </div>
+      <div>
+        <head>[p.128]XIX.</head>
+        <p>Le <hi rend="i">Misanthrope</hi>, sorti de tout ce qui précède, joué, à partir du 4 juin 1666, de deux jours en deux jours (parce qu’alors on ne jouait que de deux jours l’un), eut vingt-et-une représentations consécutives avec foule, quoique joué seul et dans les deux mois les plus chauds de l’année.</p>
+        <p>La France ne croyait assister qu’à une admirable comédie : elle assistait à la vie de Molière :</p>
+        <label>
+          <figure>
+            <label>ARMANDE.</label>
+            <l>Je sais combien je dois vous paraître coupable,</l>
+            <l>Que toute chose dit que j’ai pu vous trahir,</l>
+            <l>Et qu’enfin vous avez sujet de me haïr.</l>
+            <l>Faites-le, j’y consens.</l>
+            <label>MOLIÈRE.</label>
+            <l>Eh ! le puis-je, traîtresse ?</l>
+            <l>Puis-je ainsi triompher de toute ma tendresse ?</l>
+            <l>Et quoiqu’avec ardeur, je veuille vous haïr,</l>
+            <l>Trouvé-je un cœur en moi tout prêt à n’obéir ?</l>
+            <head/>
+            <figDesc/>
+          </figure>
+        </label>
+        <p><hi rend="color_FF0000">[p.129]</hi>Ensemble et détails, tout était vrai : c’était sa vie, sa maison, son cœur, que Molière livrait ainsi en pâture au public.</p>
+        <p><hi rend="i">La sincère Éliante</hi>, c’était M<hi rend="sup">lle</hi> Debrie. Elle joua elle-même ce rôle.</p>
+        <p><hi rend="i">La prude Arsinoé</hi>, c’était M<hi rend="sup">lle</hi> Duparc. Elle joua elle-même ce rôle.</p>
+        <p><hi rend="i">L’ami du genre humain</hi>, Philinte, c’était Chapelle, <hi rend="i">qui pour être trop à tout le monde n’était point assez à un véritable ami.</hi></p>
+        <p>La pièce fut écoutée en silence, sans éclats, sans applaudissements. L’étonnement, cette fois, se mêlait à l’admiration : jusque-là Molière, comme acteur, ne s’était guère montré que dans le burlesque, et l’on ne pouvait point revenir de le voir, dans ce noble rôle d’Alceste, si pathétique, sans cesser, cependant, d’être comique encore ! c’était là le prodige.</p>
+        <p>Tout alla d’enthousiasme et alla bien pour Molière, tant que la foule accourut; mais quand l’empressement se fut peu à peu refroidi, il s’aperçut qu’il était au bout de ses forces. Les <hi rend="color_FF0000">[p.130]</hi>émotions coup sur coup répétées du rôle d’Alceste, toutes ses plaies rouvertes et remuées avaient tout à fait altéré sa santé. Il fallut suspendre les représentations; il s’enferma chez lui, se mit au repos, et écrivit, durant cet intervalle, le <hi rend="i">Médecin malgré lui.</hi></p>
+        <p>Cela fait, il reprit le <hi rend="i">Misanthrope</hi>, mais il ne le joua plus seul, il le faisait suivre toujours de son <hi rend="i">Fagoteux.</hi></p>
+        <p>Ému et pale encore des dernières paroles d’Alceste, il endossait à la hâte l’<hi rend="i">habit jaune et vert</hi> de Sganarelle, et venait, la bouteille à la main, se consoler dans un charmant refrain des tristesses d’Alceste, et il pouvait ainsi aller se coucher sans la fièvre.</p>
+        <p>À cette gaîté si franche et si française, qui, chaque soir, venait égayer les esprits rendus sérieux par le <hi rend="i">Misanthrope</hi>, les applaudissements éclatèrent, et l’on ne pouvait point se lasser de deux chefs-d’œuvre si différents.</p>
+      </div>
+      <div>
+        <head>[p.131]XX.</head>
+        <p>N’imaginons pas, toutefois, que Molière ait été, dans sa vie, exactement ce qu’est Alceste dans sa pièce ; il était trop maître de son cœur pour cela. N’imaginons pas davantage que son intention ait été de faire de ses pièces, à proprement parler, des <hi rend="i">mémoires;</hi> il ne voulait que faire des comédies ; mais qui dit comédie, dit vérité, et pour les rendre plus vraies, il puisait dans sa vie, dans celle de ses amis, chez tout le monde : Lagrange, là-dessus, ne nous laisse aucun doute: <quote>« Molière,</quote> dit-il, <quote>observait les manières et les mœurs de tout le monde, et il trouvait ensuite le moyen d’en faire des applications admirables dans ses comédies, où l’on peut dire qu’il a joué tout le monde, puisqu’il s’y est joué le premier, en plusieurs endroits, sur les affaires de sa famille, et qui regardaient ce qui se passait dans son domestique ; c’est ce que ses plus particuliers amis ont remarqué bien des fois. » </quote>Ainsi, <hi rend="color_FF0000">[p.132]</hi>môme pour Alceste, il ne lui avait pas suffi de sa passion, de ses chagrins, de sa propre maison, il avait pris jusque chez Boileau. En effet le mot d’Alceste :</p>
+        <quote>
+          <l>Hors qu’un commandement exprès du roi ne vienne</l>
+          <l>De trouver bons les vers dont on se met en peine,</l>
+          <l>Etc.</l>
+        </quote>
+        <p>N’était que la reproduction d’une boutade qui, un jour avait échappé, en sa présence, à l’auteur, des Satires.</p>
+        <p>Mais ce qu’il n’avait pris qu’en lui-même, c’était cet amour malheureux d’Alceste pour Célimène : ici rien d’emprunté ; tout est bien de Molière, c’est bien lui avec sa passion qu’il observe, dont il rougit et qu’il ne peut vaincre. C’est bien Molière, mais ce n’est pas lui tout entier... Il y avait en Molière une autre passion que celle qu’il éprouvait pour sa femme, plus vive, plus durable, qu’il avait apportée en naissant, et qui s’accrut sans cesse à mesure que tout le reste lui manqua. Je veux parler de son amour pour le <hi rend="color_FF0000">[p.133]</hi>vrai. Dès qu’il s’était vu trahi, abandonné, raillé par cette Célimène cruelle, il ne s’était pas, comme Alceste, enfui <hi rend="i">dans un désert;</hi> il avait écrit <hi rend="i">Don Juan</hi> et <hi rend="i">Tartuffe.</hi></p>
+      </div>
+      <div>
+        <head>XXI.</head>
+        <p>Molière, au milieu de son activité de ses triomphes et de ses souffrances, trouvait encore chaque jour quelques heures pour s’occuper de Baron. Celui-ci, qui en était à sa quinzième année, grandissait à vue d’œil ; doué de toutes les grâces possibles : beau, bienfait, charmant d’esprit, précoce en tout, avec les dispositions les plus merveilleuses pour la comédie ; il était l’enfant gâté chez Molière; et lui, de son côté, n’avait point de plus grand plaisir que de le produire à ses amis : il aimait à leur en raconter l’histoire, à le faire causer devant eux et réciter des vers. Mais c’était au grand ami, c’était au public qu’il aspirait de montrer son élève. Le voir à ses côtés partager <hi rend="color_FF0000">[p.134]</hi>avec lui les applaudissements de la foule, c’était où il tendait. Chaque soir déjà il le faisait assister à la comédie, dans sa loge, vêtu comme un petit seigneur.</p>
+        <p>Vers la fin de 1666, Louis XIV voulant donner à sa cour le grand divertissement du <hi rend="i">Ballet des Muses</hi> (arrangé par Benserade), Molière fut chargé, pour cette fête, de faire une comédie ; il se mit aussitôt à <hi rend="i">Mélicerte.</hi> Baron devait y jouer le rôle du petit Myrtil, et lui-même celui de Lycarsis ( <hi rend="i">le père adoptif ).</hi></p>
+        <p>On y disait de Myrtil :</p>
+        <quote>
+          <l>Il n’est pas tant enfant qu’à le voir chaque jour,</l>
+          <l>Je ne le croie atteint déjà d’un peu d’amour.</l>
+        </quote>
+        <p>Et trois bergères se disputaient son cœur (Molière avait-il déjà le pressentiment que Baron deviendrait l’<hi rend="i">Homme à bonnes fortunes ?)</hi></p>
+        <p>Cette pièce (<hi rend="i">pastorale héroïque</hi>) étant d’un genre peu naturel, Molière, qui n’était à son aise que dans le vrai, y avançait lentement, et, dans l’intervalle, voici ce qui arriva : <hi rend="color_FF0000">[p.135]</hi>La Molière, qui n’aimait point Baron, eut une difficulté avec lui, et elle s’emporta jusqu’à lui donner un soufflet. Le jeune homme humilié, raillé, d’avoir été souffleté par une femme en conçut un ressentiment si vif, qu’il ne voulut plus rester chez Molière. Celui-ci tâcha de l’apaiser, mais rien n’en fut capable. Seulement, comme Baron devait jouer le rôle de Myrtil, il déclara à Molière qu’il ne voulait pas mettre d’entrave à la pièce promise à Sa Majesté, et qu’il jouerait son rôle; mais qu’immédiatement, quelque peine qu’il en ressentît, il se voyait obligé de prendre congé de lui.</p>
+        <p>Il représenta, en effet, son rôle de Myrtil ; mais <hi rend="i">Mélicerte</hi> n’était point finie, et Molière n’avait plus voulu y travailler. On la représenta donc devant le roi telle qu’elle était, c’est-à-dire les deux premiers actes seulement. Au lieu de l’achever, Molière écrivit et représenta à la suite la <hi rend="i">Pastorale comique...</hi> Navré du départ de Baron, il voulut jouer lui-même cet effréné rôle de Lycas (dont plus tard il brûla le manuscrit). Il se montra <hi rend="color_FF0000">[p.136]</hi>devant toute la cour, abattu, pâle, entouré de démons, de magiciens chantants et dansants, et se servit, pour exciter le rire, de sa propre figure amaigrie par les travaux, les chagrins et la maladie.</p>
+        <p><stage>Deux magiciens commencent</stage><stage>,</stage><stage> en dansant, un enchantement pour embellir Lycas ;</stage> </p>
+        <p><stage>Six démons dansants habillent Lycas d’une manière ridicule et bizarre,</stage> pendant que des magiciens chantent autour de lui :</p>
+        <quote>
+          <l>Ah ! qu’il est beau</l>
+          <l>Le jouvenceau !</l>
+          <l>Ah ! qu’il est beau ! Ah ! qu’il est beau !</l>
+          <l>Qu’il va faire mourir de belles.</l>
+          <l>Qu’il est joli,</l>
+          <l>Gentil, poli,</l>
+          <l>Qu'il est joli, qu’il est joli,</l>
+          <l>Est-il des yeux qu’il ne ravisse ?</l>
+          <l>Il passe en beauté feu Narcisse,</l>
+          <l>Etc.</l>
+        </quote>
+        <p><hi rend="color_FF0000">[p.137]</hi>Molière paraît s’être plu dans ces rôles grotesques; Mais Boileau ne l’y pouvait voir ; cela lui faisait mal.</p>
+        <p>La représentation du <hi rend="i">Ballet des Muses</hi> terminée, Baron <quote>« persista,</quote> dit Grimarest, <quote>à ne point rentrer chez Molière. En effet, il eut la hardiesse de demander au roi, à Saint-Germain, la permission de se retirer, et, incapable de réflexion, il se remit dons la troupe de la Raisin. »</quote></p>
+        <p>Molière, malgré ces chagrins domestiques, cependant, avait besoin, plus que jamais, à cause de <hi rend="i">Tartuffe</hi>, de contenter le roi. Le temps où nous sommes est celui du <hi rend="i">premier placet.</hi> L’horizon commençait à singulièrement s’assombrir; les bigots croissaient en audace ; il fallut donc satisfaire, avec empressement, aux fantaisies royales. Aussi, Sa Majesté, au commencement de la nouvelle année 1667, ayant demandé, pour une deuxième représentation du <hi rend="i">Ballet des Muses</hi>, une autre comédie d’un nouveau genre, où il y eût des Turcs et des Maures, Molière, en quelques jours, improvisa le <hi rend="i">Sicilien.</hi></p>
+        <p><hi rend="color_FF0000">[p.138]</hi>Cette fraîche comédie, ou pour parler plus juste, ce premier des opéras-comiques fit le plus grand plaisir à toute la cour : Molière y remplissait le rôle du jaloux don Pèdre. Mais la pièce ne put être jouée de sitôt à la ville, parce qu’après cette première représentation, qui eut lieu à Saint-Germain, Molière tomba malade.</p>
+        <p>Il fut repris de sa toux, de sorte que le <hi rend="i">Sicilien</hi> ne put être joué à Paris qu’au mois de juin, c’est-à-dire cinq mois plus tard. Molière fut tout ce temps incommodé : l’excès du travail et le départ de Baron en avaient été cause. Celui-ci, qui s’était remis chez la Raisin, ne put point rester avec cette aventurière : il se joignit à une autre troupe ambulante un peu meilleure, mais il regrettait bien Molière. Au reste, il ne s’en cachait pas; il se reprochait devant tout le monde d’avoir, en le quittant, manqué à ce qu’il lui devait de reconnaissance. Mais il ne cherchait pas, ajoutait-il, à se remettre avec lui, parce qu’il s’en trouvait indigne. Ces propos furent rapportés à Molière; il en fut si heureux, que tout de suite il écrivit à son jeune <hi rend="color_FF0000">[p.139]</hi>élève, à Dijon, où il était alors, une lettre très affectueuse pour l’engager à revenir. Il accompagna cette lettre d’un nouvel ordre du roi, qui le replaçait parmi les comédiens de Sa Majesté, et lui mandait de prendre la poste pour arriver plus tôt.</p>
+        <p>Baron fut enchanté et partit sur-le-champ. Il était si empressé, si joyeux, qu’à la dernière couchée il oublia sa bourse et tout ce qu’il avait d’argent, et ne retourna pas le chercher. Molière, de son côté, était allé l’attendre à la porte Saint Victor ; mais le grand air, la fatigue et surtout quelques mois à cet âge avaient si fort changé le jeune homme, qu’il ne le reconnut pas et le laissa passer.</p>
+        <p>Baron avait préparé tout du long du chemin un beau discours pour demander pardon à son bienfaiteur; mais en voyant Molière le premier lui tendre les bras, il ne put que pleurer.</p>
+        <p>Molière le reprit en affection plus que jamais ; il redoubla de zèle à l’instruire dans son art. Baron était si sémillant de jeunesse, il avait tant de <hi rend="color_FF0000">[p.140]</hi>charmes que Molière bientôt écrira pour lui, dans <hi rend="i">Pysché</hi>, le rôle de l’Amour.</p>
+      </div>
+      <div>
+        <head>XXII.</head>
+        <p>Molière avait une autre joie encore que celle du retour de Baron: il allait jouer <hi rend="i">Tartuffe.</hi></p>
+        <p>Le 5 août 1667, le roi étant en Flandre, la pièce fut représentée en public, à Paris, devant un auditoire immense. Molière en avait obtenu du roi, avant son départ, la permission, mais permission verbale seulement : Molière crut que cela lui suffisait. Le roi avait exigé, toutefois, que le titre fut changé (Molière afficha l’<hi rend="i">Imposteur</hi>), que Tartuffe s’appellerait autrement (il le nomma Panulphe) ; mais toutes ces précautions ne servirent de rien : la cabale remua de telle sorte que Molière, n’ayant pu produire sa permission, la pièce, dès le lendemain, fut supprimée.</p>
+        <p><quote>« Si on avait connu sa droiture et sa soumission,</quote> dit Grimarest, <quote>ou aurait été persuadé <hi rend="color_FF0000">[p.141]</hi>qu’il ne se serait point hasardé de représenter le <hi rend="i">Tartuffe</hi> sans en avoir auparavant pris l’ordre de Sa Majesté. »</quote></p>
+        <p>Toutefois, il ne perdit pas de temps ; deux jours après, le 8 août, il dépêcha vers le roi, devant Lille, deux de ses comédiens, Lagrange et Lathorillère, porteurs de son second placet : <quote>« Ma comédie, sire, n’a pu jouir ici des bontés de Votre Majesté... »</quote>.</p>
+        <p>Louis XIV fit réponse : <quote>« qu’à son retour il ferait de nouveau examiner la pièce et qu’ils la joueraient. »</quote></p>
+        <p>Molière, à partir de la suppression de l’<hi rend="i">Imposteur</hi>, avait fermé son théâtre; il ne le rouvrit qu’après cette réponse du roi, le 25 septembre.</p>
+        <p>La polémique, durant cet intervalle, ne devint que plus vive. En présence de son théâtre fermé, brochures, libelles, mémoires, satires, sermons, mandements et chansons se croisèrent. <hi rend="i">Tartuffe</hi>, pour les uns était une invention de l’enfer; pour les autres, une œuvre sainte, une œuvre de piété. Quelques hommes tombés dans <hi rend="color_FF0000">[p.142]</hi>l’incrédulité se prétendirent ramenés par Molière à la vraie religion. Saint Évremont, quelques années plus tard, écrivait d’Angleterre, où il était en exil : <quote>« Je viens de lire le <hi rend="i">Tartuffe</hi> de Molière. Je ne sais comment on a pu en empêcher si longtemps la représentation. Si je me sauve, je lui devrai mon salut. La dévotion est si raisonnable dans la bouche de Cléante, qu’elle me ferait renoncer à toute ma philosophie, et les faux dévots sont si bien peints que la honte de leur peinture les fera renoncer à l’hypocrisie. Sainte piété, que vous allez apporter de bien au monde ! »</quote></p>
+        <p>Mais voici bien plus : au dernier acte, l’exempt, par ordre du roi, emmène Tartuffe en prison, alors Orgon s’écrie : <quote><hi rend="i">Eh bien ! te voilà, traître...</hi></quote> mais Cléante l’interrompt :</p>
+        <quote>
+          <l>[...] Ah ! mon frère, arrêtez</l>
+          <l>Et ne descendez point à des indignités.</l>
+          <l>À son mauvais destin laissez un misérable,</l>
+          <l>Et ne vous joignez point au remords qui l’accable ;</l>
+          <l><hi rend="color_FF0000">[p.143]</hi>Souhaitez bien plutôt que son cœur en ce jour,</l>
+          <l>Au sein de la vertu fasse un heureux retour;</l>
+          <l>Qu’il corrige se vie en détestant son vice.</l>
+        </quote>
+        <p><quote>CONCLUSION DIGNE D’UN OUVRAGE SI SAINT !</quote> disait un défenseur anonyme, la pièce, n’étant, suivant lui, <quote>QU’UNE INSTRUCTION TRÈS CHRÉTIENNE.</quote></p>
+      </div>
+      <div>
+        <head>XXIII.</head>
+        <p>Molière, ne pouvant jouer sa pièce, se remit tranquillement au travail : il reprit l’étude des anciens, et donna au mois de janvier 1668, <hi rend="i">Amphitryon</hi>, sujet antique cette fois, mais forme nouvelle, toute française, naïve et savante, que Molière seul et La Fontaine ont connue. Voyez si, dans le rôle de Sosie, l’on ne croit pas entendre le fabuliste lui-même :</p>
+        <quote>
+          <l>En nous créant, nature a ses caprices,</l>
+          <l>Divers penchants en nous elle fait observer.</l>
+          <l/>
+          <l><hi rend="color_FF0000">[p.144]</hi>[...] Tous les bons mots sont des sottises</l>
+          <l>Partant d’un homme sans éclat ;</l>
+          <l>Ce seraient paroles exquises</l>
+          <l>Si c’était un grand qui parlât.</l>
+        </quote>
+        <p>Pour chacune de ses créations, Molière éprouvait le besoin d’une forme nouvelle ; tous les genres de comédie ont été par lui mis en œuvre : comédies à intrigues, comédies à saillies, simples farces de foire, et sans que rien s’y ressemble. En quoi, par exemple, le <hi rend="i">Misanthrope</hi> ressemble-t-il à <hi rend="i">Tartuffe</hi>, l’<hi rend="i">École des Maris</hi> à <hi rend="i">Amphitryon</hi>, l’<hi rend="i">École des Femmes</hi> aux <hi rend="i">Femmes Savantes</hi> ? Et, parmi ses pièces en prose, comparez <hi rend="i">Don Juan</hi> au <hi rend="i">Bourgeois-Gentilhomme</hi>, l’<hi rend="i">Avare</hi> au <hi rend="i">Médecin malgré lui</hi>, etc. ; et dites s’il y eut jamais un génie plus divers.</p>
+        <p>Il se chargea, dans <hi rend="i">Amphitryon</hi>, du rôle de Sosie, <hi rend="i">mari de Cléanthis, dont l’humeur le fait enrager...</hi> Il lui allait, par d’autres côtés encore, de jouer ce rôle. Auteur et acteur, rêvant sans cesse à tous ces personnages qu’il créait et qu’il représentait lui-même ; ayant ainsi, chaque soir, à<hi rend="color_FF0000"> [p.145]</hi>mettre en action sur la scène les rêves de son esprit solitaire, ne lui arriva-t-il pas quelquefois de sentir, ne sais comment, vaciller sa propre existence ? car où était, au milieu de toutes ces chimères, son véritable moi ? Était-ce le rêve qui était sa vraie vie, ou la réalité; mais la réalité, où finissait-elle ? où le rêve commençait-il ? Tout n’était-il pas rêve ? La comédie, d’ailleurs, n’était-elle pas pour lui la chose la plus réelle ? Était-il Alceste, était-il Molière ? Était-il un personnage multiple, ou n’était-il qu’un, et qu’était-il ?</p>
+        <l rend="figure"><l>Car encor faut-il bien que je sois quelque chose !</l><l>Rêvé-je ? est-ce que je sommeille ?</l><l>Ai-je l’esprit troublé par des transports puissants ?</l><label>MERCURE.</label><l>Quel est ton sort ? dis-moi.</l><label>SOSIE.</label><l>D’être homme et de parler.</l><label><hi rend="color_FF0000">[p.146]</hi>MERCURE.</label><l>Je veux savoir de toi...</l><l>Ce que tu fais.</l><label>SOSIE.</label><l>Je fais le bien et le mal tour à tour.</l><head/><figDesc/> </l>
+        <p>Dans ce rôle, tout de fantaisie, Molière se surpassa; et les applaudissements ne pouvaient point finir lorsqu’on le voyait représenter de manière si vraie, un personnage en apparence contre nature.</p>
+        <p>De plus, dans <hi rend="i">Amphitryon</hi>, Molière abordait de nouveau un sujet auquel il n’avait jamais touché sans s’élever jusqu’au tragique, tant il remuait en lui de douleurs. Qu’on songe que le rôle d’Alcmène fut écrit pour sa femme, et qu’il avait, à cette époque, un enfant de deux ans dont il ne se croyait pas le père.</p>
+        <l rend="figure"><l>NON, CE N’ÉTAIT PAS MOI […]</l><l/><l>Ce revers vient à bout de toute ma constance,</l><l>Et mon cœur ne respire, en ce fatal moment,</l><l>Et que fureur et que vengeance.</l><label><hi rend="color_FF0000">[p.147]</hi>ALCMÈNE.</label><l>De qui donc vous venger ?</l><label>AMPHITRION.</label><l>Je ne sais pas ; mais CE N'ÉTAIT PAS MOI.</l><head/><figDesc/> </l>
+        <p>Molière, lorsqu’il écrivit ce rôle, était au plus haut de sa gloire; il allait voir (par <hi rend="i">Tartuffe</hi>) tous ses ennemis confondus. Il nous montre Amphitryon aussi au moment d’un grand triomphe, et lui fait dire ces vers :</p>
+        <quote>
+          <l>Ah ! qu’on est peu touché de louange, d’honneur,</l>
+          <l>Et de tout ce que donne une grande victoire,</l>
+          <l>Lorsque dans l’âme on souffre une vive douleur,</l>
+          <l>Et que l’on donnerait volontiers cette gloire</l>
+          <l>Pour avoir le repos du cœur !</l>
+        </quote>
+        <p>Au mois de juillet suivant, pour une fête que le roi donnait à son retour de ses victoires de Franche Comté, il écrivit <hi rend="i">Georges Dandin.</hi></p>
+        <p>Don Garcie de Navarre, jaloux sans sujet, <hi rend="color_FF0000">[p.148]</hi>autrefois, était devenu Alceste trahi par Célimène ; Sganarelle, <hi rend="i">Cocu imaginaire</hi> au temps de Don Garcie, devenait, au temps d’Amphitryon, le <hi rend="i">Mari confondu.</hi></p>
+        <p>Molière joua lui-même le rôle du pauvre mari. La pièce commence par des <hi rend="i">valets de fête qui obligent Georges Dandin de danser avec eux; mais Georges Dandin, mal satisfait de son mariage, et n’ayant l’esprit rempli que de fâcheuses pensées</hi>, accompagne sa danse d’une figure si sombre et si désespérée, que tout le monde en rit. N’est-ce pas l’histoire de Molière lui-même, obligé de danser malgré ses chagrins, d’organiser des ballets et des fêtes pour le roi ? Pour jouer de semblables scènes, il n’avait qu’à rester lui. Il voulut aussi qu’Armande fît le rôle d’Angélique, <hi rend="i">femme de Georges Dandin.</hi></p>
+      </div>
+      <div>
+        <head>XXIV.</head>
+        <p>Molière, cependant, vieillissait peu à peu de fatigues et de souffrances ; il voulut se vieillir <hi rend="color_FF0000">[p.149]</hi>aussi dans ses rôles ; il se mit en scène avec sa fluxion et sa toux, dans le rôle d’Harpagon. Après avoir si longtemps mis ses chagrins en scène, il allait y mettre jusqu’à sa maladie.</p>
+        <p>Ne pourrait-on pas aussi supposer que, mari déjà vieilli d’une femme jeune, coquette et dépensière; qu’ayant à gouverner économiquement une troupe de comédiens, pour la plupart, peut-être, un peu gaspilleurs, il se trouva tout naturellement porté sur cette pente, dans son étude du cœur humain ?</p>
+        <p>Mais quel admirable moment il choisit pour nous montrer Harpagon ! Il le met en scène dans le plus beau jour de sa vie, celui où il marie son fils, où il marie sa fille, où il va se marier lui-même. Et que d’heureuses circonstances ! Il marie sa fille <hi rend="i">sans dot</hi> au seigneur Anselme, qui est un <hi rend="i">gentilhomme doux, posé, sage et fort accommodé.</hi> Mais, hélas ! Un malheur survient à ce pauvre homme : il s’est <hi rend="i">engagé à donner à souper.</hi> Quelle affaire pour un avare ! Autre disgrâce : Harpagon avait trouvé à placer, en cachette, au plus bel intérêt, une somme considérable ; mais <hi rend="color_FF0000">[p.150]</hi>c’est son fils qui emprunte, et l’hypothèque repose sur ses propres biens. Ô ciel ! Le marché manque. Que de calamités ! Qu’est-ce pourtant que tout cela, au prix de l’effroyable désastre qui l’attend tout à l’heure, lorsque Laflèche lui aura volé son trésor ? C’est ainsi que Molière, pour mieux faire ressortir leur caractère, nous montre ses personnages au plus terrible ou au plus heureux moment de leur vie : le misanthrope, par exemple, au jour où, contre toute justice, il perd vingt-mille francs, où il lui faut, par un ordre du roi, faire des excuses à Oronte de ne pouvoir pas admirer son sonnet, au jour enfin où il est indignement moqué, trahi par Célimène.</p>
+        <p>Dans un autre genre, nous verrons ce <hi rend="i">gentilhomme limousin</hi>, M. de Pourceaugnac, au moment solennel où, pour la première fois, arrivant par le coche, il fait son entrée dans la capitale. Il vient pour être présenté au roi, pour se marier, se montrer à la cour... C’est le point glorieux de sa vie.</p>
+        <p>M. Jourdain, le bourgeois-gentilhomme, nous apparaît dans les circonstances à jamais <hi rend="color_FF0000">[p.151]</hi>mémorables où il allie sa famille à celle du Grand-Turc, et où il est lui-même reçu <hi rend="i">Mamamouchi.</hi></p>
+        <p>Le malade imaginaire, au moment où il va être sacré médecin, ce qui est pour lui comme si on le faisait Dieu :</p>
+        <quote>
+          <l>Natura et pater meus</l>
+          <l>Hominem me habent factum ;</l>
+          <l>Mais vos me ( ce qui est bien plus ),</l>
+          <l>Avetis factum medicum.</l>
+        </quote>
+        <p>L'<hi rend="i">Avare</hi>, sujet antique, tiré de Plaute, comme l’<hi rend="i">Amphitryon</hi>, au contraire de cette pièce dont le succès avait été si grand, n’eut d’abord que quelques représentations et peu suivies. Messieurs les marquis critiquaient et prétendaient que Molière était <hi rend="i">fou.</hi> <quote>« Nous prend-il pour des benêts, de nous faire essuyer cinq actes de prose ? A-t-on jamais vu plus d’extravagance ? Le moyen d’être diverti par de la prose ? »</quote></p>
+        <p>Boileau était, dit-on, le seul qui eût ri aux premières représentations de cette pièce, que bientôt après pourtant tout le monde admira.</p>
+      </div>
+      <div>
+        <head>[p.152]XXV.</head>
+        <p>Son génie allait ainsi produisant toujours, mais cependant que devenait <hi rend="i">Tartuffe</hi> ?</p>
+        <p>Le prince de Condé, quelques jours après l<hi rend="i">'Avare</hi>, invita Molière, sachant combien cela lui pourrait être agréable et confondrait l’intrigue, de venir donner chez lui, à Chantilly, une représentation de sa pièce proscrite. Cette représentation eut lieu le 20 septembre 1668, à la grande satisfaction de tous ceux qui la virent. À trois mois et demi de là, le roi leva enfin tout obstacle, et <hi rend="i">Tartuffe</hi> fut pour toujours livré au public (le 5 février 1669). La ville entière, durant trois mois, par son empressement, par ses bravos et son enthousiasme, vengea l’auteur de toutes les cabales.</p>
+        <p>Quarante-quatre représentations, coup sur coup, suffirent à peine à satisfaire la curiosité de la foule, et ce fut pour Molière le moment d’un <hi rend="color_FF0000">[p.153]</hi>triomphe jusque-là sans exemple au théâtre. Ses comédiens transportés, qui souvent avaient été difficiles avec lui, ne savaient plus maintenant quels égards lui témoigner. Ils ne l’avaient guère considéré, jusqu’alors, que comme un camarade ; mais cette fois, avec toute la France, ils sentirent ce qu’il lui était dû de reconnaissance et de respect : ils voulurent, dans leur admiration naïve, que désormais il eût double part dans les bénéfices, chaque fois que l’on jouerait <hi rend="i">Tartuffe.</hi></p>
+        <p>Quant à Molière, l’émotion sans doute de jouer tous les jours au milieu des applaudissements, surtout sa passion concentrée, un travail incessant de plus en plus rapide et intense, ne pouvaient que l’user vite. On le voyait pâle, décharné, sombre ; ses amis commençaient à concevoir des inquiétudes sérieuses, tandis que d’autres trouvaient cela une chose piquante, et préparaient la comédie d’<hi rend="i">Élomire hypocondre, ou les Médecins vengés</hi> ! Élomire était l’anagramme de Molière ; ils lui annonçaient, dans cette pièce, qu’il n’avait plus qu’à se préparer à la mort.</p>
+        <p><hi rend="color_FF0000">[p.154]</hi>Molière, de son côté, donnait à Chambord, en octobre 1669, <hi rend="i">Monsieur de Pourceaugnac.</hi></p>
+        <p>Il avait écrit pour lui, pour sa figure amaigrie, le rôle du Limousin, que les médecins, rien qu’à le voir, jugent atteint d’une <hi rend="i">mélancolie hypocondriaque.</hi></p>
+        <quote>
+          <p rend="b">« Pour diagnostic incontestable, vous n’avez qu’à considérer ce grand sérieux que vous voyez, cette tristesse accompagnée de crainte..., cette physionomie, ces yeux rouges et hagards, cette grande barbe, cette habitude du corps, menue, grêle, noire et velue... La véritable source de tout le mal, c’est, disaient-ils, une humeur crasse et féculente, une vapeur noire et grossière, qui obscurcit, infecte et salit les esprits animaux, etc. » </p>
+        </quote>
+        <p>Ces médecins firent rire aux éclats toute la France, et Diderot a raison : <quote>« Si l’on croit qu’il y a beaucoup plus d’hommes capables de faire Pourceaugnac que le Misanthrope, on se trompe. »</quote></p>
+      </div>
+      <div>
+        <head>[p.155]XVI.</head>
+        <p>À mesure qu’il vivait plus éloigné de sa femme, il devenait plus tendre pour ses amis et plus assidu au travail.</p>
+        <p>En effet, outre qu’il produisait plus que jamais, sa liaison avec Mignard se resserra ; il allait lui faire, dans ses dernières années, de si fréquentes visites, que le bruit courut qu’il était amoureux de sa fille. Mais la vérité, c’est qu’il ne pouvait plus rester chez lui quand il n’y était pas au travail. Sa femme, à mesure qu’il avait grandi en réputation, en dignité morale, s’était abandonnée davantage, et, n’ayant point de famille à lui, il allait se reposer dans celle de son ami. Il écrivit, en cette même année 1669, pour être utile à Mignard auprès de Colbert, son poème sur la <hi rend="i">Gloire du Val-de-Grâce.</hi></p>
+        <p>Il s’agissait d’excuser Mignard de son peu d’empressement auprès du ministre. On y trouve ces beaux et nobles vers :</p>
+        <quote>
+          <l><hi rend="color_FF0000">[p.156]</hi>Les grands hommes,Colbert, sont mauvais courtisans,</l>
+          <l>Peu faits à s’acquitter des devoirs complaisants ;</l>
+          <l>À leurs réflexions tout entiers ils se donnent,</l>
+          <l>Et ce n’est que par là qu’ils se perfectionnent ;</l>
+          <l>L’étude et la visite ont leurs talents à part ;</l>
+          <l>Qui se donne à la cour, se dérobe à son art ;</l>
+          <l>Un esprit partagé rarement s’y consomme,</l>
+          <l rend="i">Et les emplois de feu demandent tout un homme.</l>
+        </quote>
+      </div>
+      <div>
+        <head>XXVII.</head>
+        <p>Au commencement de 1670, le roi voulant de nouveau donner à sa cour un spectacle extraordinaire, et qui réunît tout ce que le théâtre pouvait fournir de divertissements, choisit pour sujet, afin de pouvoir lier ensemble tant de choses diverses, <stage>deux princes rivaux qui, dans le champêtre séjour de la vallée de Tempé, où l’on doit célébrer la fête des jeux pythiens, régalent à l’envie une princesse et sa mère de toutes les galanteries dont ils se peuvent aviser.</stage></p>
+        <p>L’idée du roi fut exécutée aussitôt, et les <hi rend="i">Amants</hi> <hi rend="color_FF0000">[p.157]</hi><hi rend="i">magnifiques</hi>, au mois de février, furent représentés à Saint-Germain.</p>
+        <p>Molière, qui avait été toujours l’ennemi du <hi rend="i">faux</hi>, déclara la guerre, cette fois, aux astrologues et aux faiseurs de faux miracles.</p>
+        <p>Le roi, avec toute la cour, dansa dans cette pièce ; ce fut un spectacle splendide. Mais Molière ne la représenta jamais sur son théâtre, et elle ne fut imprimée qu’après sa mort. Il y joua, néanmoins, le rôle de Clitidas, <hi rend="i">plaisant de la princesse.</hi></p>
+        <p>Il avait intercalé, dans cette pièce, de gracieux couplets qui eussent suffi seuls à la réputation d’un faiseur d’opéra. Par exemple, ceux-ci :</p>
+        <quote>
+          <l>Quand je plaisais à tes yeux,</l>
+          <l>J’étais content de ma vie, etc.</l>
+        </quote>
+        <p>Ce sont les vers d’Horace : <hi rend="i">Donec gratus eram tibi.</hi> Il semble que le grand comique, pressentant sa fin, se soit hâté dans les dernières années de sa vie. Les pièces en cinq actes (mais en prose) se succédaient coup sur coup.</p>
+        <p><hi rend="color_FF0000">[p.158]</hi>Malade, mourant presque, mais chargé par le roi d’une comédie pour ses divertissements de Chambord, le voici qui écrit, dans sa solitude d’Auteuil, le <hi rend="i">Bourgeois gentilhomme</hi>, un de ses plus admirables chefs-d’œuvre, et assurément la plus mêlée, la plus tumultueuse de toutes ses comédies.</p>
+        <p>De plus en plus bruyantes, effrénées, pompeuses, ses pièces, à mesure que les ans s’accumulent, ne témoignent-elles pas davantage aussi de cette souffrance intérieure qui donne la force de tout dire ? Il avait débuté dans le ballet par des bergers; nous voici arrivés maintenant au <hi rend="i">Ballet des Nations</hi>, à la réception du Mamamouchi, scène admirable et moquerie profonde (à la manière de Rabelais).</p>
+        <p>Il redit une fois encore son amour dans le <hi rend="i">Bourgeois gentilhomme</hi> ; mais il ne l’y dit plus lui-même. Il joua, lui, le rôle de Monsieur Jourdain ; quant au rôle de Lucile, il ne l’en confia pas moins à Armande Béjart.</p>
+        <p>Il fit, pour le ballet qui termine, des chansons <hi rend="color_FF0000">[p.159]</hi>dans tous les patois et dans toutes les langues, et l’on n’y rencontre point sans émotion ces vers, dans les couplets espagnols :</p>
+        <quote>
+          <l>Sé que me muero de amor.</l>
+          <l/>
+          <l>Sé que me muero de amor.</l>
+          <l/>
+          <l>Vaya, vaya de fiesta,</l>
+          <l>Vaya de bayle !</l>
+          <l>Alegría, alegría, alegría !</l>
+          <l rend="i">Que esto de dolor es fantasia.</l>
+          <l/>
+          <l>Je sais que je me meurs d’amour.</l>
+          <l/>
+          <l>Je sais que je me meurs d’amour.</l>
+          <l/>
+          <l>Allons, allons des fêtes !</l>
+          <l>Allons des danses !</l>
+          <l>De la gaîté, de la gaîté, de la gaîté !</l>
+          <l rend="i">La douleur n’est que fantaisie. </l>
+        </quote>
+        <p>Le roi et le public furent enchantés de cette pièce. Le roi, à la vérité, ne dit son avis qu’à la <hi rend="color_FF0000">[p.160]</hi>deuxième représentation ; mais les beaux esprits se courroucèrent: <quote>« Molière nous prend assurément pour des grues, s’écriait un duc, de croire nous divertir avec de telles pauvretés. Qu’est-ce qu’il veut dire avec son : <hi rend="i">Ha la ba, ba la chou</hi> ? Le pauvre homme extravague, il est épuisé ; si quelque autre auteur ne prend le théâtre, il va tomber dans la farce italienne. »</quote></p>
+      </div>
+      <div>
+        <head>XXVIII.</head>
+        <p>Cependant il donna encore, au mois de janvier 1671, une pièce à grand spectacle, à féeries, <hi rend="i">Psyché.</hi> C’était la mise en scène du roman de La Fontaine, fort en vogue dans le temps. Mais Molière ne l’ayant pu terminer pour le jour assigné par le roi, appela à son secours Corneille, Quinault et Lulli. Corneille, à soixante-cinq ans, fit, à cette occasion, les plus gracieux vers, peut-être, qu’il eût jamais écrits. Tout inspiré de l’auteur de <hi rend="i">Tartuffe</hi>, qu’il aimait, pour qui et avec <hi rend="color_FF0000">[p.161]</hi>qui il travaillait, il mit aussi ces deux vers dans le deuxième acte :</p>
+        <quote>
+          <l>Dans tous les climats on n’a que trop d’exemples,</l>
+          <l>Qu’il est, ainsi qu’ailleurs, des méchants dans les temples.</l>
+        </quote>
+        <p>Pour Molière, c’était si bien la vérité qu’il mettait dans ses pièces, que nous retrouvons ici, dans le rôle du roi, les vers qu’il avait adressés autrefois à Lamothe Le Vayer, lors de la mort de son fils... C’était son procédé : tout ce qu’il pouvait retrouver de lui-même, de son plus lointain passé, il le mettait dans ses œuvres. C’est ainsi qu’il intercala dans le <hi rend="i">Misanthrope</hi> quelques vers qui lui étaient restés de la traduction de <hi rend="i">Lucrèce</hi>, qu’il avait faite autrefois sous Gassendi, et corrigée depuis, et dont un domestique avait perdu le manuscrit.</p>
+        <p>À cause de cela, nous devons peu regretter de n’avoir point la correspondance de Molière, car tout ce qui sortit de son âme en écrivant à ses amis, ou en causant avec eux, il le reprit et le mit dans ses pièces : contentons-nous donc de son <hi rend="color_FF0000">[p.162]</hi>théâtre, où nous retrouvons un reflet de sa vie entière.</p>
+        <p>Avec <hi rend="i">Psyché</hi>, nous voyons reparaître Baron sur la scène. Dans tout l’éclat et la fraîcheur de sa beauté première, n’ayant que dix-neuf ans, il joua d’une manière charmante le rôle de l’Amour. Armande fit Psyché, tandis que Molière, qui était devenu, depuis quelque temps, d’une maigreur extrême, représentait Zéphyre.</p>
+        <p>La Molière était à ravir dans le rôle de Psyché ; Baron, dans celui de l’Amour, enlevait tous les cœurs. Les applaudissements, qui les enveloppèrent ensemble dans un même triomphe, les firent se regarder l’un l’autre avec émotion... La Molière s’aperçut alors que le petit garçon qu’elle battait autrefois, était devenu un jeune homme élégant, passionné; c’était elle, dans la pièce qu’ils jouaient alors ensemble, qui disait la première à Baron qu’elle l’aimait ; elle étendit son rôle à la réalité. La voilà donc, coquette un peu délaissée déjà des grands seigneurs, faisant l’éducation galante du jeune homme.</p>
+        <p><hi rend="color_FF0000">[p.163]</hi>Une seule chose nous révèle la douleur de Molière : à partir de cette époque, il cessa de jouer le rôle d’Arnolphe ; il le confia à un autre, il ne pouvait plus prononcer ces deux vers :</p>
+        <quote>
+          <l>Aurais-je pu prévoir, quand je l’ai vu petit,</l>
+          <l>Qu’il croîtrait pour cela ?</l>
+        </quote>
+        <p>Quelle navrante prophétie ! Ainsi, après s’être servi si longtemps de la réalité dans ses comédies, c’était la comédie maintenant qui se faisait réalité !</p>
+        <p>Ne pouvant ou ne voulant point écrire lui-même cette déclaration de Psyché à l’Amour, dont les rôles devaient être remplis par sa femme et Baron, il en charge Corneille, et voilà que le vieux poète, retrouvant toute sa verve, que l’on croyait perdue, lui écrit cette brûlante troisième scène du troisième acte, qui dut certainement enflammer les deux acteurs, surtout le jeune Baron, qui s’y entendait dire avec tant de grâce :</p>
+        <quote>
+          <l>Ne les détournez point ces yeux qui m’empoisonnent,</l>
+          <l>Ces yeux tendres, ces yeux perçants, mais amoureux,</l>
+          <l><hi rend="color_FF0000">[p.164]</hi>Qui semblent partager le trouble qu’ils me donnent.</l>
+          <l>Hélas ! plus ils sont dangereux,</l>
+          <l>Plus je me plais à m’attacher sur eux !</l>
+          <l>Par quel charme nouveau, que je ne puis comprendre,</l>
+          <l>Vous dis-je plus que je ne dois ;</l>
+          <l>Moi de qui la vertu devrait du moins attendre</l>
+          <l>Que vous m’expliquassiez le trouble où je vous vois ?</l>
+          <l>Vos sens, comme les miens, paraissent interdits:</l>
+          <l>C’est à moi de m’en taire, à vous de me le dire ;</l>
+          <l>Et cependant, c’est moi qui vous le dis !</l>
+        </quote>
+        <p>Que d’étranges fatalités ! Toutefois, cette passion de Baron et de la Molière dura peu. Molière, dans ce nouveau malheur, fit-il comme font quelquefois les vieillards, quand la vie leur est devenue tout à fait sans attrait ? détourna-t-il les yeux du présent, pour ne plus revivre que dans son passé ? Je ne sais ; pourtant, qu’il dut se plaire au souvenir de ce temps où, comédien ambulant, pauvre, ignoré encore, mais riche d’espoir, de jeunesse et d’amour, il courait la province de ville en ville et de châteaux en châteaux, écrivant l’<hi rend="i">Étourdi</hi>, le <hi rend="i">Dépit</hi>, élevant avec tendresse sa petite Béjart, et recevant, sous le manteau de <hi rend="color_FF0000">[p.165]</hi>Mascarille, ses premiers, et partant ses meilleurs applaudissements. Il voulut revoir ce rôle de sa jeunesse, il voulut le rejouer; mais combien, j’imagine, cela lui paraissait faible et le satisfaisait peu maintenant ! Il le refit en prose dans le rôle de Scapin ; mais avec combien plus de science et d’habileté cette fois, et d’expérience des choses de la vie !</p>
+        <p>Les <hi rend="i">Fourberies de Scapin</hi> furent représentées le 24 mai 1671. Il joua le rôle de Scapin, qui allait si bien, dans la scène du sac, à sa volubilité d’expression. <hi rend="i">Il semblait qu’il eût plusieurs voix.</hi></p>
+        <p>Puis, se tenant toujours dans son passé, il recueillit dans ses souvenirs encore, et dans ses papiers, sans doute, de quoi arranger une petite comédie de ces <hi rend="i">pecques provinciales</hi> qu’il avait observées autrefois, et il donna au mois de décembre de la même année <hi rend="i">la Comtesse d’Escarbagnas</hi>, où il ne joua point et qu’il ne fit point imprimer.</p>
+      </div>
+      <div>
+        <head>[p.166]XXIX.</head>
+        <p>Cependant ses amis effrayés des progrès de son mal, Boileau, Mignard, quelques autres, furent trouver sa femme et firent tant qu’ils les raccommodèrent. Ils firent envisager à celle-ci qu’il y allait de la santé, de la vie de celui à qui elle devait tout, qui l’avait élevée.</p>
+        <p>Par reconnaissance donc, et par pitié peut-être, elle revint à lui. Molière, dans sa joie magnanime, oublia tout, même son mal. Pour complaire à sa femme, <quote>« pour rendre leur union plus parfaite,</quote> dit Grimarest, <quote>il quitta l’usage du lait qu’il n’avait point discontinué jusqu’alors, et il se remit à la viande. »</quote></p>
+        <p>Sa femme revenue à lui, il écrivit pour elle, dans ce dernier retour de jeunesse, la plus achevée, la plus délicieuse de toute ses créations féminines, le rôle d’Henriette, dans les <hi rend="i">Femmes savantes.</hi> Cependant il joua dans cette pièce, non <hi rend="color_FF0000">[p.167]</hi>plus, comme autrefois ; le rôle de l’amant, mais le rôle du père (le rôle de Chrysalde).</p>
+        <p>Remarquons ici combien Molière aima les femmes; personne, en son temps, ne s’est intéressé à elles autant que lui, ne les a mieux comprises, mieux appréciées. Voyez dans ses comédies, combien la plupart de celles qu’il nous montre sont remplies de grâces, d’honnêteté et de bon sens : Éliante, Elmire, Henriette ; et dans une autre classe, Lisette, Dorine, Madame Jourdain.</p>
+        <p>Mais aussi qu’il voyait avec peine les occupations futiles de quelques-unes, leurs prétentions à la science, aux arguties d’école, d’où <quote><hi rend="i">le raisonnement a banni la raison</hi></quote>! Eh ! Que ne restaient-elles dans leur simplicité naïve, douces, tendres, sincères (comme Henriette) ? Qu’ont-elles à demander à l’étude, elles à qui la nature a tout donné ? Pourquoi surtout avaient-elles fui les saintes occupations du ménage ? Que ne reprenaient-elles, au lieu de tout ce fatras pédantesque, <quote><hi rend="i">un dé, du fil et des aiguilles</hi></quote> ! Et puis une <hi rend="color_FF0000">[p.168]</hi>femme devait-elle avoir, pour la conduire, autre docteur que son mari ? Qu’est-ce donc que ce Monsieur Trissotin, toujours là entre Philaminte et Chrysalde ? Qu’il parte, qu’il soit chassé ; et que la femme, laissant là son rôle de philosophe, revienne aux soins de sa famille ! C’est pour cela que le ciel l’a créée.</p>
+        <quote>
+          <l>Former aux bonnes mœurs l’esprit de ses enfants,</l>
+          <l>Faire aller son ménage, avoir l’œil sur ses gens,</l>
+          <l>Et régler la dépense avec économie,</l>
+          <l>Doit être son étude et sa philosophie.</l>
+        </quote>
+        <p>Qu’ajouterais-je à ces paroles ? Sinon qu’il fallait, pour écrire cette pièce, non pas seulement la science et le génie de Molière, mais encore avoir aimé la famille, la vie honnête, comme il l’aima, et en avoir été sevré aussi cruellement qu’il le fut.</p>
+        <p>Les <hi rend="i">Femmes savantes</hi> furent représentées le 11 mars 1672. La comédie atteignait ici, comme art et comme style, à son plus haut point de perfection ; mais, excepté dans le rôle de Martine, <hi rend="color_FF0000">[p.169]</hi>joué d’original par la servante de Molière, cette œuvre de calme et de sérénité, trop simple pour le théâtre, n’eut point de succès.</p>
+      </div>
+      <div>
+        <head>XXX.</head>
+        <p>Six mois après la représentation des <hi rend="i">Femmes savantes</hi>, en septembre 1672, Armande devint mère pour la troisième fois. Molière voulut, pour marraine de cet enfant, la belle M<hi rend="sup">lle</hi> Mignard, et pour parrain le frère de son ami Despréaux, Boileau Puimorin. L’enfant reçut les noms de <hi rend="i">Pierre Jean-Baptiste Armand</hi>, les deux noms réunis du père et de la mère, précédés de celui de Mignard.</p>
+        <p>Cet enfant mourut peu après sa naissance, comme avait fait le premier ; le second seul ( né en 1665, au temps des relations avec le comte de Guiche, ) survécut à Molière : c’était une fille, elle s’appelait Esprit-Madeleine ; elle avait eu pour marraine sa tante Madeleine Béjart, et pour <hi rend="color_FF0000">[p.170]</hi>parrain le comte Esprit de Modène, amant (et peut-être mari en secret) de Madeleine.</p>
+        <p>Madeleine Béjart, un mois après la représentation des <hi rend="i">Femmes savantes</hi>, en février, était morte. Béjart aîné était mort; Duparc, sa femme, Lespy, M<hi rend="sup">lle</hi> Ducroisy, Dufresne étaient morts. Tout vieillissait et semblait s’éteindre autour de Molière. Sa femme, cependant, le voyant un peu mieux, reprenait ses allures et le délaissait de nouveau. Il comprit alors que ce qu’elle avait témoigné pour lui de tendresse, dans ces derniers temps, n’avait été que feinte et compassion ; il savait, d’ailleurs, qu’une femme peut avoir ainsi pitié d’un homme ; il l’avait fait dire autrefois à Elvire, dans <hi rend="i">Don Garcie de Navarre</hi> :</p>
+        <quote>
+          <l>Ma pitié, complaisante à ses brûlants soupirs,</l>
+          <l>D’un dehors favorable amusait ses désirs,</l>
+          <l>Et voulait réparer,par ce faible avantage,</l>
+          <l>Ce qu’au fond de mon cœur je lui faisais d’outrage.</l>
+        </quote>
+        <p>Cette apparence de retour n’avait donc été pour lui qu’un simple traitement, un régime en quelque sorte pour l’empêcher de mourir !</p>
+        <p><hi rend="color_FF0000">[p.171]</hi>Ce fut le dernier coup.</p>
+        <p>Le changement de nourriture, d’ailleurs, y contribuant, la maladie le reprit violente et rapide, et ne lui laissa plus de repos. La toux, les convulsions, le crachement de sang, devenaient de plus en plus fréquents et effrayants.</p>
+        <p>Il n’avait pourtant encore que cinquante-et-un ans !</p>
+      </div>
+      <div>
+        <head>XXXI.</head>
+        <p>Boileau vint le voir et le trouva fort incommodé de sa toux et faisant des efforts de poitrine, dit un biographe, qui semblaient le menacer d’une fin prochaine. Molière fut avec Boileau plus affectueux que jamais. Plus il se voyait abandonné de sa femme, plus aussi il devenait sensible à la moindre amitié. Boileau, tout attendri, ne put s’empêcher de lui dire, avec des larmes dans les yeux :</p>
+        <p><quote>« - Mon pauvre Monsieur Molière, vous voilà dans un pitoyable état. La contention continuelle de votre esprit, l’agitation de vos poumons sur 
+          <hi rend="color_FF0000">[p.172]</hi>
+        votre théâtre, tout enfin devrait vous déterminer à renoncer à la représentation ; n’y a-t-il que vous dans la troupe qui puissiez exécuter les premiers rôles ? Contentez-vous de composer, et laissez l’action théâtrale à quelqu’un de vos camarades : cela vous fera plus d’honneur dans le public, qui regardera vos acteurs comme vos gagistes; vos acteurs, d’ailleurs, qui ne sont pas des plus souples avec vous, sentiront mieux votre supériorité. </quote> </p>
+        <p><quote>- Ah ! Monsieur Despréaux,</quote> répondit Molière, <quote>que me dites-vous là ? Il y a un honneur pour moi à ne point quitter. »</quote></p>
+        <p>Il y avait autre chose encore : Molière aimait ses planches, il aimait le public. D’ailleurs, il se plaisait à réaliser lui-même sa pensée... Qui donc aurait pu le remplacer dans tous ces rôles écrits pour lui. Il ne se pouvait plus passer de cet épanchement entier de lui-même ; sa passion pour le théâtre n’avait fait qu’augmenter à mesure que tout le reste lui avait manqué. Ce public, assemblé tous les soirs, qui venait l’écouter depuis plus de <hi rend="color_FF0000">[p.173]</hi>trente ans, il lui avait confié les secrets de son âme, et plus il approchait de son terme, plus il avait besoin de le voir et de lui parler encore.</p>
+        <p>Molière ne pouvait plus vivre sans le théâtre ; il voulut y donner jusqu’à son dernier souffle. Il se sentait aller : était-ce maladie, épuisement, douleur morale ? Hélas ! Tout se mêlait ensemble d’une telle manière que lui-même, peut-être, en de certains moments, n’aurait pu dire s’il mourait de son mal ou de ses tristesses. Dans ces doutes sur sa maladie même, il voulut écrire et jouer, tout mourant, L<hi rend="i">e malade imaginaire.</hi></p>
+        <quote>
+          <l>Votre plus haut savoir n’est que pure chimère,</l>
+          <l>Vains et peu sages médecins ;</l>
+          <l>Vous ne pouvez guérir par vos grands mots latins</l>
+          <l>La douleur qui me désespère.</l>
+          <l>Votre plus haut savoir n’est que pure chimère.</l>
+        </quote>
+      </div>
+      <div>
+        <head>XXXII.</head>
+        <p rend="noindent">Le vendredi 17 février 1673, jour où <quote>« l’on devait donner la troisième représentation du <hi rend="i">Malade</hi> <hi rend="color_FF3333">[p.174]</hi><hi rend="i">imaginaire</hi>, dit Grimarest, Molière se trouva tourmenté de sa fluxion beaucoup plus qu’à l’ordinaire, ce qui l’engagea à faire appeler sa femme, à qui il dit, en présence de Baron : « Tant que ma vie a été mêlée également de douleur et de plaisir, je me suis cru heureux; mais, aujourd’hui que je suis accablé de peines sans pouvoir compter sur un moment de satisfaction et de douceur, je vois bien qu’il me faut quitter la partie : Je ne puis plus tenir contre les douleurs et les déplaisirs, qui ne me donnent pas un moment de relâche. Mais, ajouta-t-il en réfléchissant, qu’un homme souffre avant que de mourir ! » </quote></p>
+        <p><quote>La Molière et Baron furent vivement touchés du discours de M. de Molière, auquel ils ne s’attendaient pas, quelque incommodé qu’il fût. Ils le conjurèrent, les larmes aux yeux, de ne point jouer ce jour-là, et de prendre du repos pour se remettre : « Comment voulez-vous que je fasse ? leur dit-il, il y a cinquante pauvres ouvriers qui n’ont que leur journée pour vivre; que feront-ils si l’on ne joue pas ? Je me reprocherais d’avoir négligé de 
+          <hi rend="color_FF3333">[p.175]</hi>
+        leur donner du pain un seul jour, le pouvant faire absolument. »</quote> </p>
+        <p><quote>Mais il envoya chercher les comédiens, à qui il dit que, se sentant plus incommodé que de coutume, il ne jouerait point ce jour-là s’ils n’étaient prêts à quatre heures précises pour jouer la comédie : « Sans cela, leur dit-il, je ne puis m’y trouver, et vous pouvez rendre l’argent. »</quote> </p>
+        <p><quote>Les comédiens tinrent les lustres allumés précisément à quatre heures; Molière représenta avec beaucoup de difficulté, et la moitié des spectateurs s’aperçut qu’en prononçant 
+          <hi rend="i">juro</hi>,
+         dans la cérémonie du Malade imaginaire, il lui prit une convulsion. Ayant remarqué lui-même que l’on s’en était aperçu, il se fit un effort et cacha par un ris forcé ce qui venait de lui arriver.</quote> </p>
+        <p><quote>Quand la pièce fut finie, il prit sa robe de chambre et fut dans la loge de Baron, et lui demanda ce que l’on disait de sa pièce. M. Baron lui répondit que ses ouvrages avaient toujours une heureuse réussite à les examiner de près, et que, plus on les représentait, plus on les goûtait, 
+          <hi rend="color_FF3333">[p.176]</hi>
+        « - Mais, ajouta-t-il, vous paraissez plus mal que ''tantôt’'. »</quote> </p>
+        <p rend="noindent"><quote>- Cela est vrai, lui répondit Molière, j’ai un froid qui me tue. » Baron, après lui avoir touché les mains qu’il trouva glacées, les lui mit dans son manchon pour les réchauffer; il envoya chercher ses porteurs, pour le porter promptement chez lui, et il ne quitta point sa chaise de peur qu’il ne lui arrivât quel qu’accident du Palais-Royal dans la rue Richelieu, où il logeait. Quand il fut dans sa chambre, Baron voulut lui faire prendre du bouillon dont la Molière avait toujours provision pour elle; car on ne pouvait avoir plus de soin de sa personne qu’elle n’en avait. « Eh non ! dit-il, les bouillons de ma femme sont de vraie eau-forte pour moi ; car vous savez tous les ingrédients qu’elle y fait mettre : donnez-moi plutôt un petit morceau de fromage de Parmesan.» Laforêt lui en apporta avec un peu de pain, et il se fit mettre au lit. Il n’y eut pas été un moment, qu’il envoya demander à sa femme un oreiller rempli d’une drogue qu’elle lui avait promis pour dormir. « Tout ce qui n’entre point 
+          <hi rend="color_FF3333">[p.177]</hi>
+        dans le corps, dit-il, je l’éprouve volontiers; mais les remèdes qu’il faut prendre me font peur; il ne faut rien pour me faire perdre ce qui me reste de vie. » Un instant après, il lui prit une toux extrêmement forte, et, après avoir craché, il demanda de la lumière : « Voici, dit-il, du changement. » Baron, ayant vu le sang qu’il venait de rendre, s’écria avec frayeur. « Ne vous épouvantez point, lui dit Molière, vous m’en avez vu rendre bien davantage. Cependant, ajouta-t-il, allez dire à ma femme qu’elle monte. » Il resta assisté de deux sœurs religieuses, de celles qui viennent ordinairement à Paris quêter pendant le carême, et auxquelles il donnait l’hospitalité. Elles lui prodiguèrent, à ce dernier moment de sa vie, tout le secours édifiant que l’on pouvait attendre de leur charité, et il leur fit paraître tous les sentiments d’un bon chrétien, et toute la résignation qu’il devait à la volonté du Seigneur. Enfin, il rendit l’esprit entre les bras de ces deux bonnes sœurs; le sang qui lui sortait par la bouche en abondance l’étouffa. Ainsi, quand sa 
+          <hi rend="color_FF3333">[p.178]</hi>
+        femme et Baron remontèrent, ils le trouvèrent mort. »</quote> </p>
+      </div>
+      <div>
+        <head>XXXIII.</head>
+        <p>Ainsi se termina, entre deux sœurs de charité, cette vie si pleine, si agitée. J’aurais pu ajouter que la mort même ne put procurer le repos à Molière; que la haine s’acharna jusque sur son cadavre.</p>
+        <p>On ne sait plus maintenant où dorment ses malheureux restes : ils ont été perdus, dispersés, avec les cendres de La Fontaine; et ce ne sont point leurs os que renferment les deux tombeaux du Père-Lachaise, sur lesquels on ne lit point pourtant sans quelque émotion, dans un tel lieu, les noms réunis de ces deux hommes qui, de leur vivant, se sont aimés, appréciés et encouragés l’un l’autre. J’aurais pu aussi, comme on l’a déjà fait tant de fois, donner le récit de ses funérailles; mais, après deux siècles de gloire, à <hi rend="color_FF0000">[p.179]</hi>quoi bon renouveler cette honte, ô Molière, à ceux qui t’ont refusé la sépulture ?</p>
+        <p>Oublions-les, oublions leurs cabales et leurs haines ; pour moi, désormais, je veux me rappeler seulement combien tu as aimé, combien tu as été bon et sincère.</p>
+        <p>Je dirai pourtant qu’après mille démarches, après avoir attendu plusieurs jours, et les supplications les plus touchantes,les plus nobles, ayant été faites par sa veuve, qui, dans tout ceci, se comporta dignement, son corps, sur un ordre du roi, fut déposé la nuit, aux flambeaux, mais sans prières, dans un coin du cimetière Saint-Joseph. Le cortège se composait d’une centaine de ses amis, qui le pleurèrent et le bénirent.</p>
+        <p>J’ajoute encore qu’Armande, quelque temps après, se remaria ; mais il semble qu’elle ait senti, plus tard, tout ce qu’elle avait perdu en Molière.</p>
+        <p>On dit qu’elle avait fait placer sur sa tombe une large et longue pierre, et que, durant un hiver très froid, en mémoire de celui qui n’était plus, <hi rend="color_FF0000">[p.180]</hi>elle fit, sur cette pierre même, entretenir un grand feu pour réchauffer les pauvres de sa paroisse.</p>
+        <p>Le froid passé, il se trouva que la pierre avait été calcinée et fendue par le feu. Lors qu’Armande fut morte, des gens soigneux la retirèrent, et l’on ne sut plus où reposait Molière.</p>
+        <p>Cette pierre, ainsi brisée, eût été pourtant sur sa tombe un touchant souvenir, en nous montrant qu’il ne fut point tout à fait oublié de celle qu’il avait tant aimée.</p>
+      </div>
+    </body>
+  </text>
+</TEI>
