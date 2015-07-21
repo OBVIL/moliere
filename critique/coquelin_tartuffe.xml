@@ -1,22 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--odt2tei: 2015-07-01T14:53:47+02:00-->
+<?xml-model href="../../teibook/teibook.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../teipub/xsl/tei2html.xsl"?>
+<!--odt2tei: 2015-03-17T11:09:17+01:00-->
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Tartuffe</title>
-        <author>Coquelin, Constant (1841-1909)</author>
+        <author key="Coquelin, Constant (1841-1909)">Constant Coquelin</author>
       </titleStmt>
       <editionStmt>
+        <edition>OBVIL</edition>
         <respStmt>
           <name>Charlotte Dias</name>
+          <resp>OCR et stylage</resp>
+        </respStmt>
+        <respStmt>
+          <name>Chayma Soltani</name>
+          <resp>Structuration et encodage TEI</resp>
         </respStmt>
       </editionStmt>
       <publicationStmt>
-        <availability status="restricted"/>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <!--
+            <idno>http://obvil.paris-sorbonne.fr</idno>
+            -->
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+          </licence>
+        </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>Coquelin Constant, <hi rend="i">Tartuffe</hi>, Paris, 1884</bibl>
+        <bibl><author>Constant Coquelin</author>, <title>Tartuffe</title>, <pubPlace>Paris</pubPlace>, <publisher>Paul Ollendorff</publisher>, <date>1884</date>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -26,28 +47,11 @@
       <langUsage>
         <language ident="fr"/>
       </langUsage>
-      <textClass>
-        <keywords>
-          <term type="subject">Molière (1622-1673). Tartuffe</term>
-        </keywords>
-      </textClass>
     </profileDesc>
   </teiHeader>
   <text>
     <body>
-      <p>TARTUFFE</p>
-      <p>PAR</p>
-      <p>C. COQUELIN</p>
-      <p rend="i">De la Comédie - Française.</p>
-      <p>PARIS</p>
-      <p>PAUL OLLENDORFF, ÉDITEUR 28 <hi rend="i">bis</hi>, <hi rend="sc">rue de richelieu</hi></p>
-      <p>1884</p>
-      <p rend="i">Tous droits réservés.</p>
-      <p>
-        <pb>
-          <pb n="1"/>
-        </pb>
-      </p>
+      <div>
       <p>TARTUFFE</p>
       <p>Je ne suis pas un érudit ; on le sait de reste, sans doute, et les études que je hasarde ne révèlent, je le confesse, aucun document nouveau. Je me borne à chercher, dans ceux connus déjà, la justification des idées que m’a pu suggérer le texte même de Molière sur l’interprétation la plus vraie de ses personnages. Ces documents, par malheur, peuvent faire défaut ; personne n’ignore que Molière n’a point laissé de manuscrits, ou, pour mieux dire, que des mains intéressées ont détruit soigneusement tout ce qui pouvait subsister de son écriture : sans l’invention de Gutenberg, Molière nous serait moins <pb><pb n="2"/></pb> connu qu’Aristophane. Si jamais donc érudits font œuvre pie, c’est quand ils tentent de suppléer à la perte des papiers de Molière, à la disparition de ses malles volées, on ne sait comment, mais on se doute bien par qui, à la consigne de la Postérité. Malheureusement, malgré la sainte obstination des moliéristes, la récolte est pauvre et plus d’un point reste obscur encore. On ne saurait donc s’étonner si, dans la brève étude qui suit, moi qui n’ai pas l’honneur d’être un de ces laborieux chercheurs, je me vois contraint de risquer, ça et là, quelque hypothèse après tant d’autres qu’ils se sont permises.</p>
       <p>On me demandera peut-être pourquoi je n’ai pas fait pareille confession quand je me suis occupé du <hi rend="i">Misanthrope</hi> et de l’<hi rend="i">Ecole des femmes.</hi> Il m’en fût revenu, m’assurera-t-on, un peu d’indulgence pour certaines assertions qui, faute de ce modeste aveu, m’ont valu d’assez vives critiques.</p>
@@ -454,6 +458,7 @@
       <p>Je suppose une espèce de jugement dernier des races, où chacune, appelée à la barre, soit invitée, pour se voir adjuger là-haut une place selon ses mérites, à déposer l’ouvrage où son esprit se reflète le mieux — son chef-d’œuvre, et la représentation de sa plus haute action sur le monde. L’Allemagne, je suppose, déposera <hi rend="i">Faust</hi>, l’Angleterre <hi rend="i">Hamlet</hi>, l’Espagne <hi rend="i">Don Quichotte</hi>, l’Italie <hi rend="i">la Divine Comédie.</hi> La France enfin, s’avançant modeste, avec la <pb n="p."/><pb/><pb n="78" xml:id="p78"/>clarté de son beau rire sur les lèvres, présentera son œuvre à son tour. Qu’est-ce que c’est ? demandera le Très-Haut. — Seigneur, c’est <hi rend="i">Tartuffe</hi>. —  C’est bien, dira le Seigneur… Asseyez-vous à ma droite.</p>
       <signed>C. COQUELIN,</signed>
       <signed>De la Comédie-Française.</signed>
+      </div>
     </body>
   </text>
 </TEI>

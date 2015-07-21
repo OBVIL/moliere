@@ -1,52 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--odt2tei: 2015-07-01T14:43:27+02:00-->
+<?xml-model href="../../teibook/teibook.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../teipub/xsl/tei2html.xsl"?>
+<!--odt2tei: 2015-03-17T11:09:17+01:00-->
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Molière et le Misanthrope</title>
-        <author>Coquelin, Constant (1841-1909)</author>
+        <author key="Coquelin, Constant (1841-1909)">Constant Coquelin</author>
       </titleStmt>
       <editionStmt>
+        <edition>OBVIL</edition>
         <respStmt>
           <name>Charlotte Dias</name>
+          <resp>OCR et stylage</resp>
+        </respStmt>
+        <respStmt>
+          <name>Chayma Soltani</name>
+          <resp>Structuration et encodage TEI</resp>
         </respStmt>
       </editionStmt>
       <publicationStmt>
-        <availability status="restricted"/>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <!--
+            <idno>http://obvil.paris-sorbonne.fr</idno>
+            -->
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+          </licence>
+        </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>Coquelin Constant, <hi rend="i">Molière et le Misanthrope</hi>, Paris, 1881</bibl>
+        <bibl><author>Constant Coquelin</author>, <title>Molière et le Misanthrope</title>, <pubPlace>Paris</pubPlace>, <publisher>Paul Ollendorff</publisher>, <date>1881</date>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
       <creation>
-        <date when="188"/>
+        <date when="1881"/>
       </creation>
       <langUsage>
         <language ident="fr"/>
       </langUsage>
-      <textClass>
-        <keywords>
-          <term type="subject">Molière (1622-1673). Misanthrope</term>
-        </keywords>
-      </textClass>
     </profileDesc>
   </teiHeader>
   <text>
     <body>
-      <p/>
-      <p>MOLIÈRE</p>
-      <p>ET LE</p>
-      <p>MISANTHROPE</p>
-      <p>PAR</p>
-      <p>C. COQUELIN</p>
-      <p>DE LA COMEDIE FRANÇAISE</p>
-      <p>PARIS</p>
-      <p>PAUL OLLENDORFF, ÉDITEUR 28 <hi rend="i">bis</hi>, rue de Richelieu</p>
-      <p>1881</p>
-      <p><hi rend="i">Tous droits réservés</hi>♦</p>
-      <p>MOLIÈRE ET LE MISANTHROPE</p>
+     <div>
       <p><pb n="p."/><pb/><pb n="1" xml:id="p1"/> </p>
       <p>J’ai entendu, il y a déjà nombreuses  années, un homme d’infiniment d’esprit et de talent, quelque peu négligé aujourd’hui, ce me semble, — Léon Gozlan, — émettre en façon d’axiome l’opinion que voici : <quote>« L’un des premiers symptômes de la folie chez le comédien, — c’est de vouloir jouer le Misanthrope. »</quote></p>
       <p>La sentence me parut notable et je me la <pb n="p."/><pb/><pb n="2" xml:id="p2"/> suis toujours rappelée ; de façon que je n’ai éprouvé aucune surprise lorsque plus tard, n’ayant pas plus qu’un autre échappé à la règle et m’entretenant avec quelques amis de mon désir naissant d’interpréter Alceste, je recueillis immédiatement cette réponse unanime : <quote>« Mais vous êtes fou, mon cher ! »</quote> Je m’y attendais.</p>
@@ -630,6 +635,7 @@
       <p>Mon honorable critique s’étonne ensuite que je me refuse à voir un symbole dans Alceste et que je nie que Molière ait eu dans sa pièce un but social. Il a cité, pour me mettre dans mon tort, une scène de <hi rend="i">Don Juan</hi> celle où don Louis dit : <quote>« La naissance n’est rien où la vertu n’est pas. »</quote> M. de La Pommeraye croit-il qu’en émettant cette maxime, Molière ait eu des intentions révolutionnaires ? Non sans doute, pas plus que Corneille qui, à peu de chose près, l’avait mise bien des années auparavant dans la bouche du père du <hi rend="i">Menteur</hi>. C’étaient là des axiomes classiques et qui n’empêchaient pas Corneille d’accepter des lettres de noblesse, ni Jean-Baptiste Poquelin de s’appeler <hi rend="i">de Molière</hi>. Autres temps, autres mœurs. Je ne vois dans Molière qu’un but social : celui de peindre la société, de rire de ses travers et de l’aimer néanmoins, et de vouloir qu’on y vive. Son temps n’était pas celui des pièces à thèses. On mettait sur la scène des hommes et non des <pb n="p."/><pb/><pb n="82" xml:id="p82"/> théories, et les pièces n’y perdaient pas, ni les spectateurs non plus.</p>
       <p><quote>« Peut-être, ajoute M. de La Pommeraye, peut-être voyons-nous dans cette œuvre de Molière plus qu’il n’y avait cru mettre lui-même... »</quote> Je retiens cet aveu ; seulement je supprime le peut-être. Je dis : « à <hi rend="i">coup sûr</hi> » vous y voyez plus qu’il n’y a mis ! Et j’ajoute ceci, qui est plus grave : c’est que vous admirez Molière surtout pour ce qui n’y est pas ! Vous faites autour de l’homme une légende, vous ajoutez à sa création je ne sais quelle auréole épique, symbolique et passablement brumeuse, que chaque génération grandit en passant, et c’est pour cette légende et cette auréole que vous aimez l’homme et l’œuvre au lieu de les aimer pour eux-mêmes et pour ce qu’ils furent réellement.</p>
       <p>Ah ! vous me dites en finissant que, sans le vouloir d’ailleurs (c’est beaucoup de grâce que vous me faites),j’ai rapetissé Molière ! — J’ai rapetissé Molière, moi ! moi qui tout à l’heure le mettais au-dessus de Shakespeare, — où voulez-vous que je le mette plus haut ? — Prenez-y garde, c’est vous qui rapetissez le vrai Molière en en faisant aimer un faux. Ce n’est <pb n="p."/><pb/><pb n="83" xml:id="p83"/> pas rapetisser un homme incomparable que de le montrer tel qu’il fut dans son véritable milieu. Vous dites que le diminuer, ce serait diminuer l’art et la patrie. C’est vous qui bouleversez l’art en prêtant au grand comique du <num>xvii<hi rend="sup">e</hi></num> siècle des procédés littéraires et des visées humanitaires qui ne devaient éclore que deux siècles après lui ; et c’est vous enfin qui diminuez la patrie en prêtant à son plus grand écrivain, à celui qui la représente le mieux, des pensées si contraires à son génie, puisque vous voulez faire un misanthrope, un haïsseur d’hommes, un ami du désert, de ce sociable et bon Molière qui fut le plus Français des hommes, c’est-à-dire le plus humain !</p>
+     </div>
     </body>
   </text>
 </TEI>

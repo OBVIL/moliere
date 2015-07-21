@@ -1,29 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--odt2tei: 2015-07-01T14:21:05+02:00-->
+<?xml-model href="../../teibook/teibook.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../teipub/xsl/tei2html.xsl"?>
+<!--odt2tei: 2015-03-17T11:09:17+01:00-->
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Épitre à Molière: qui a obtenu au jugement de l’académie française une médaille d’or dans le concours de la poésie de 1843</title>
-        <author>A. Bignan</author>
-        <editor>Claire Bégards</editor>
+        <title>Épître à Molière, qui a obtenu, au jugement de l’Académie française, une médaille d’or, dans le concours de la poésie de 1843</title>
+        <author key="Bignan, Anne (1795-1861)">Anne Bignan</author>
       </titleStmt>
       <editionStmt>
+        <edition>OBVIL</edition>
         <respStmt>
-          <name>Claire Bégards </name>
-          <resp>Stylage sémantique</resp>
+          <name>Claire Bégards</name>
+          <resp>OCR et stylage</resp>
+        </respStmt>
+        <respStmt>
+          <name>Chayma Soltani</name>
+          <resp>Structuration et encodage TEI</resp>
         </respStmt>
       </editionStmt>
       <publicationStmt>
         <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
-        <date>2014</date>
-        <idno>
-          <hi rend="color_FF0000">http://obvil.paris-sorbonne.fr/corpus/moliere/critique/bignan_epitre-moliere/</hi>
-        </idno>
-        <availability status="restricted"/>
+        <date when="2015"/>
+        <!--
+            <idno>http://obvil.paris-sorbonne.fr</idno>
+            -->
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+          </licence>
+        </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>A. Bignan, <hi rend="i">Épitre à Molière : Qui a obtenu au jugement de l’académie française une médaille d’or dans le concours de la poésie de 1843</hi>, Saint-Jorre libraire, Paris, 1843.</bibl>
+        <bibl><author>Anne Bignan</author>, <title>Épître à Molière, qui a obtenu, au jugement de l’Académie française, une médaille d’or, dans le concours de la poésie de 1843</title>, <pubPlace>Paris</pubPlace>, <publisher>Saint-Jorre libraire</publisher>, <date>1843</date>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>

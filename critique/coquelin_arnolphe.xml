@@ -1,17 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--odt2tei: 2015-06-30T12:18:48+02:00-->
+<?xml-model href="../../teibook/teibook.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../teipub/xsl/tei2html.xsl"?>
+<!--odt2tei: 2015-03-17T11:09:17+01:00-->
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
-      <titleStmt/>
-      <editionStmt/>
+      <titleStmt>
+        <title>L'Arnolphe de Molière</title>
+        <author key="Coquelin, Constant (1841-1909)">Constant Coquelin</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL</edition>
+        <respStmt>
+          <name>Floria Benamer</name>
+          <resp>OCR et stylage</resp>
+        </respStmt>
+        <respStmt>
+          <name>Chayma Soltani</name>
+          <resp>Structuration et encodage TEI</resp>
+        </respStmt>
+      </editionStmt>
       <publicationStmt>
-        <availability status="restricted"/>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <!--
+            <idno>http://obvil.paris-sorbonne.fr</idno>
+            -->
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+          </licence>
+        </availability>
       </publicationStmt>
-      <sourceDesc/>
+      <sourceDesc>
+        <bibl><author>Constant Coquelin</author>, <title>L'Arnolphe de Molière</title>, <pubPlace>Paris</pubPlace>, <publisher>Paul Ollendorff</publisher>, <date>1882</date>.</bibl>
+      </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <creation/>
+      <creation>
+        <date when="1882"/>
+      </creation>
       <langUsage>
         <language ident="fr"/>
       </langUsage>
@@ -19,17 +51,7 @@
   </teiHeader>
   <text>
     <body>
-      <p>title : L'Arnolphe de Molière</p>
-      <p rend="bg_E6E6FF">creator : Constant Coquelin</p>
-      <p rend="bg_E6E6FF">editor : Floria Benamer</p>
-      <p rend="bg_E6E6FF">copyeditor : Floria Benamer (Stylage sémantique)</p>
-      <p rend="bg_E6E6FF">publisher : Université Paris-Sorbonne, LABEX OBVIL</p>
-      <p rend="bg_E6E6FF">issued : 2015</p>
-      <p rend="bg_E6E6FF">idno : http://obvil.paris-sorbonne.fr/corpus/apollinaire/couleur-du-temps/</p>
-      <p rend="bg_E6E6FF">source : Constant Coquelin, <hi rend="i">L'Arnolphe de Molière</hi>, Paul Ollendorff, éditeur, Paris, 1882</p>
-      <p rend="bg_E6E6FF">created : 1882</p>
-      <p rend="bg_E6E6FF">language : fre</p>
-      <head>L’ARNOLPHE DE MOLIÈRE</head>
+      <div>
       <p><pb><pb n="1"/></pb> Je devrais commencer par des excuses. Si quelque chose peut sembler inutile, en ce monde où tant de choses et de gens sont inutiles, c’est une conférence de plus sur un sujet qui a déjà fourni matière à tant de conférences. Je ne sache guère en effet comédie qui en ait inspiré davantage. La première en date, qui est incontestablement la meilleure, aurait bien dû pourtant décourager d’en faire d’autres. Impossible d’exposer avec plus d’esprit les objections ; <pb><pb n="2"/></pb> impossible d’y répondre avec plus de bon sens. Mais cette conférence, qui remonte au 1<hi rend="sup">er</hi> juin 1663, avait, aux yeux des contemporains, un tort considérable, celui d’être de l’auteur de la pièce, de M. de Molière lui-même. On trouva outrecuidant qu’un auteur attaqué se défendit en personne, et, qui pis est, se défendît en poète comique, c’est-à-dire fit de ses critiques une comédie, et des plus vives. Il plut des réponses et ce fut un beau bruit. Les échos en sont venus jusqu’à nous, fournissant une ample tablature à messieurs les commentateurs. Si bien qu’à mon tour il m’a pris envie de vous raconter cette bataille, une des plus hardies, qu’ait livrées Molière, et de laquelle date cette grande campagne contre les dévots, que, tout mort qu’il est, — pas si mort que ses adversaires le voudraient bien, — il poursuit encore aujourd’hui, grâce à <hi rend="i">Tartufe</hi>.</p>
       <p>Disons donc deux mots, si vous le voulez bien, de toutes ces pièces mises en conférences.et de toutes ces conférences mises, en pièces.</p>
       <p>Je puis, du reste, faire valoir, à ma décharge, <pb><pb n="3"/></pb> qu’à mesure que le temps passait et que les hommes se renouvelaient — si les hommes se renouvellent, — à mesure du moins que changeaient les mœurs, la comédie de Molière apparaissait aux critiques sous des aspects nouveaux, dont plusieurs fort inattendus pour Molière, si le sort eût voulu, pour notre bonheur, qu’il eût la vie aussi dure que ses chefs-d’œuvre et qu’il pût lire les fantaisies que ceux-ci ont inspirées de notre temps. C’est sur ces aspects-là que je me réserve d’insister tout à l’heure, comme j’ai fait dans ma causerie sur le <hi rend="i">Misanthrope</hi>, et sans craindre davantage de froisser ce qu’au risque de passer pour un esprit arriéré, j’appellerai les préjugés romantiques sur Molière.</p>
@@ -577,6 +599,7 @@
       <p>Les livres pour apprendre à penser : le, monde pour apprendre à vivre. C’est l’éducation anglaise, me dira-t-on, et l’éducation américaine. Je n’en disconviens pas. Mais c’est aussi l’éducation d’Ariste. Et je ne crois pas qu’aujourd’hui Molière s’effraierait beaucoup <pb><pb n="96"/></pb> de cette liberté qu’on laisse aux jeunes filles chez nos voisins, — pourvu naturellement qu’on les eût armées pour la défense. Il se fierait, pour que cela ne passât pas les bornes, à ce bon sens de race que je rappelais à l’occasion d’Henriette, à ce sens exquis de la mesure et du goût, qui est inné chez nos Françaises, et, aussi, à cette galanterie respectueuse, la galanterie du galant homme, qui ne se perd chez nous qu’à cause justement de la séparation des sexes, cette séparation contraignant l’homme à se gâcher l’esprit et le cœur dans la société des filles de plaisir. — J’ai pu, pour ma part, m’assurer plus d’une fois que cette forte éducation, cette liberté des jeunes filles anglo-saxonnes, savent en faire des créatures admirablement loyales, point du tout pédantes, nullement dénuées de charme féminin ; et je me suis pris à penser que nos jeunes filles françaises y puiseraient très probablement des qualités inattendues, propres à ranimer ces choses qui vont disparaissant : la conversation dans le salon, le conseil au foyer.</p>
       <p><pb><pb n="97"/></pb> D’autant plus que la science aujourd’hui s’est dépouillée du crasseux appareil qui l’affublait du temps de Molière ; qu’elle s’égaie et s’humanise ; et que tel savant, qui occupait naguère dans l’Instruction publique le plus haut poste officiel, peut-être en même temps le plus aimable compagnon, fort capable, entre deux arrêtés ou deux découvertes, d’improviser en souriant de jolis vers, sans pour cela s’en faire accroire.</p>
       <p>Je sais qu’on me dira que l’éducation d’Ariste, qui lui a réussi avec Léonor, n’a pas réussi à Molière avec Armande Béjart. Mais il y a à cela bien des explications : le milieu où tous deux vivaient ; le caractère vain et futile d’Armande, qui n’avait pas assez d’étoffe pour être bonne ; enfin ce point très grave que l’éducation que reçut Armande, bien qu’excellente, eut le malheur de lui être donnée par un futur mari, et non par une mère, comme le veut la nature des choses. Molière se donna-t-il à lui-même ces explications ? Il se peut bien, puisqu’à la fin de sa carrière, ses déceptions ne l’empêchèrent pas de créer cette ravissante <pb><pb n="98"/></pb> figure d’Henriette. C’est que chez Molière, comme chez tous les véritables poètes dramatiques, l’esprit planait au-dessus des misères du cœur ; et que ses tortures intimes n’altérèrent jamais ni son incomparable verve comique, ni la souveraine impartialité de son génie.</p>
+      </div>
     </body>
   </text>
 </TEI>
