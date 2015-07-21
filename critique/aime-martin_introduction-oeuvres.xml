@@ -6,25 +6,38 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Oeuvres de Molière avec les notes de tous les commentateurs</title>
-        <author>L. Aimé-Martin</author>
-        <editor>Roxane Pham</editor>
+        <title>Oeuvres de Molière, avec les notes de tous les commentateurs</title>
+        <author key="Martin, Louis-Aimé (1781-1844)">Louis-Aimé Martin</author>
       </titleStmt>
       <editionStmt>
+        <edition>OBVIL</edition>
         <respStmt>
-          <name>Roxane Pham</name>
+          <name>Floria Benamer</name>
+          <resp>OCR et stylage</resp>
+        </respStmt>
+        <respStmt>
+          <name>Chayma Soltani</name>
+          <resp>Structuration et encodage TEI</resp>
         </respStmt>
       </editionStmt>
       <publicationStmt>
-        <publisher>Université Paris-Sorbonne, LABEX OBVIL<space rend="tab">    </space></publisher>
-        <date>2015</date>
-        <idno>
-          <ref target="http://obvil.paris-sorbonne.fr/corpus/moliere/critique/aime-martin_notes_moliere/">http://obvil.paris-sorbonne.fr/corpus/moliere/critique/aime-martin_notes_moliere/</ref>
-        </idno>
-        <availability status="restricted"/>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <!--
+            <idno>http://obvil.paris-sorbonne.fr</idno>
+            -->
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+          </licence>
+        </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>L. Aimé-Martin, <hi rend="i">Oeuvres de Molière avec les notes de tous les commentateurs</hi>, tome premier, 3<hi rend="sup">eme</hi> édition, 1845, Paris, Lefèvre et Furne.</bibl>
+        <bibl><author>Louis-Aimé Martin</author>, <title>Oeuvres de Molière, avec les notes de tous les commentateurs</title>, tome premier, <pubPlace>Paris</pubPlace>, <publisher>Lefèvre et Furne</publisher>, <date>1845</date>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -38,10 +51,6 @@
   </teiHeader>
   <text>
     <body>
-      <index>
-        <term type="titre">Œuvres de Molière avec les notes de tous les commentateurs</term>
-        <term type="language">fre</term>
-      </index>
       <div>
         <head>Observations sur l’édition des <hi rend="i">Œuvres de Molière</hi> publiée en 1682 par La Grange</head>
         <p><pb n="$I$"/> Au moment de publier cette troisième édition des œuvres de Molière, nous avons voulu réviser notre commentaire <hi rend="i">variorum.</hi> Quelques annotations, et des corrections assez nombreuses, ont été le fruit de ce nouveau travail. Il est difficile de juger Molière. Son esprit est comique, il est vrai, mais sa morale est sérieuse et son âme profonde : aussi l’aborde-t-on souvent sans le saisir, et pour apprécier les traits de son génie, ce n’est pas trop que de s’y reprendre à deux fois.</p>
