@@ -1,29 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://svn.code.sf.net/p/algone/code/teibook/teibook.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
-<!-- <?xml-stylesheet type="text/xsl" href="../../teipub/xsl/tei2html.xsl"?> -->
-<!--odt2tei: 2015-06-23T14:01:29+02:00-->
+<?xml-model href="../../teibook/teibook.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../teipub/xsl/tei2html.xsl"?>
+<!--odt2tei: 2015-03-17T11:09:17+01:00-->
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Etudes sur la vie et les œuvres de Molière</title>
-        <author>Edouard Fournier</author>
-        <editor>Floria Benamer</editor>
+        <title>Études sur la vie et les œuvres de Molière</title>
+        <author key="Fournier, Édouard (1819- 1880)">Édouard Fournier</author>
       </titleStmt>
       <editionStmt>
+        <edition>OBVIL</edition>
         <respStmt>
-          <name>Floria Benamer </name>
-          <resp>Stylage sémantique </resp>
+          <name>Floria Benamer</name>
+          <resp>OCR et stylage</resp>
+        </respStmt>
+        <respStmt>
+          <name>Chayma Soltani</name>
+          <resp>Structuration et encodage TEI</resp>
         </respStmt>
       </editionStmt>
       <publicationStmt>
         <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
-        <date>2015</date>
-        <idno>http://obvil.paris-sorbonne.fr/corpus/apollinaire/couleur-du-temps/</idno>
-        <availability status="restricted"/>
+        <date when="2015"/>
+        <!--
+            <idno>http://obvil.paris-sorbonne.fr</idno>
+            -->
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+          </licence>
+        </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>Edouard Fournier, <hi rend="i">Etudes sur la vie et les œuvres de Molière</hi>, Laplace, Sanchez et Cie, Paris, 1885.</bibl>
+        <bibl><author>Édouard Fournier</author>, <title>Études sur la vie et les œuvres de Molière</title>, <pubPlace>Paris</pubPlace>, <publisher>Laplace, Sanchez et Cie</publisher>, <date>1885</date>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>

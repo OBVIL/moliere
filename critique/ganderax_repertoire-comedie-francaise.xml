@@ -1,22 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--odt2tei: 2015-06-30T12:10:36+02:00-->
+<?xml-model href="../../teibook/teibook.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../teipub/xsl/tei2html.xsl"?>
+<!--odt2tei: 2015-03-17T11:09:17+01:00-->
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Revue dramatique - Le répertoire à la Comédie-Française et à l’Odéon</title>
-        <author>Ganderax Louis (1855-1941)</author>
+        <author key="Ganderax, Louis (1855-1941)">Louis Ganderax</author>
       </titleStmt>
       <editionStmt>
+        <edition>OBVIL</edition>
         <respStmt>
           <name>Camille Frejaville</name>
+          <resp>OCR et stylage</resp>
+        </respStmt>
+        <respStmt>
+          <name>Chayma Soltani</name>
+          <resp>Structuration et encodage TEI</resp>
         </respStmt>
       </editionStmt>
       <publicationStmt>
-        <availability status="restricted"/>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <!--
+            <idno>http://obvil.paris-sorbonne.fr</idno>
+            -->
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+          </licence>
+        </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>Ganderax Louis, <hi rend="i">Revue dramatique - Le répertoire à la Comédie Française et à l’Odéon</hi>, dans la Revue des Deux Mondes, tome 69, Paris, 1885</bibl>
+        <bibl><author>Louis Ganderax</author>, <title>Revue dramatique - Le répertoire à la Comédie-Française et à l’Odéon</title>, in <hi rend="i">La Revue des Deux Mondes</hi>, tome 69, <pubPlace>Paris</pubPlace>, <date>1885</date>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -26,16 +47,11 @@
       <langUsage>
         <language ident="fr"/>
       </langUsage>
-      <textClass>
-        <keywords>
-          <term type="subject">Molière (1622-1673).</term>
-        </keywords>
-      </textClass>
     </profileDesc>
   </teiHeader>
   <text>
     <body>
-      <p/>
+      <div>
       <p>Revue des Deux Mondes tome 69, 1885</p>
       <p>Louis Ganderax</p>
       <p>Revue dramatique</p>
@@ -64,20 +80,7 @@
       <p>Pour la comédie, le mal n’a pas encore empiré à ce point. Au Théâtre-Français, il reste une tête de troupe ; elle est affaiblie cependant, et voyez ce qui la suit. Pour remplacer tant de merveilleux artistes et pour succéder à ceux qui se retireront demain, qui a paru depuis quelques années ? MM. Truffier, Le Bargy, Baillet, de Féraudy, Leloir ; M. Clerh, qui n’est plus un jeune homme ; M. Samary, qui n’est qu’un enfant. Et, d’autre part, Mlle Bartet, dévouée plutôt à la comédie de mœurs contemporaines et au drame ; Mlles Pierson et Montaland, destinées sans conteste au genre moderne ; Mlles Marsy, Bruck, Müller, Frémaux, Kalb, Amel et Durand : — je crains de n’en pas oublier ! A l’Odéon, derrière M. Cornaglia, un vétéran, et M. Amaury, un jeune premier qui atteint déjà la seconde jeunesse.je ne vois guère à citer que M. Kéraval et peut-être M. Barral ; derrière Mmes Crosnier, Régis et Marie Samary, j’aperçois Mlles Rachel Boyer, Real et Nancy Martel ; le reste ! .. Ah ! je souhaiterais qu’un Hernani, — avec une doña Sol,— sortît des rangs et s’écriât :<quote> « Je prétends qu’on me compte ! »</quote></p>
       <p>Il n’y a plus de tragédiens ni de tragédiennes ; il n’y a guère de comédiens ni de comédiennes : à qui la faute ? Ne ressassons pas ce reproche qu’on a fait aux directeurs, et notamment à M. Perrin, de ne pas exercer assez leur jeune troupe. On aurait cultivé avec plus de zèle M. Joliet et Mlle Thénard, en aurait-on tiré des fruits merveilleux ? M. Porel, là-bas, qui souffle énergiquement son fourneau, trouve-t-il la pierre philosophale ? Son creuset ne fournira d’or qu’autant qu’il en aura reçu. Qui donc, en fin de compte, accuser de notre détresse ? La nature ? Quelque sot ! Le Conservatoire est le coupable ; et c’est lui que nous dénonçons, ce Conservatoire de déclamation dirigé par un compositeur de musique. Il y a deux ans déjà, nous avons signalé le mal : s’aperçoit-on qu’il est temps d’y porter remède ? Pour ma part, après l’examen que j’ai fait de l’état des classiques, au nom desquels la Comédie-Française et l’Odéon reçoivent un subside, j’en avertis M. le ministre des finances, si le Conservatoire n’est pas prochainement réformé, je refuse l’impôt.</p>
       <signed>Louis GANDERAX.</signed>
+      </div>
     </body>
   </text>
 </TEI>
-<!--Error recovered in loaded XML document 
-DOMDocument::loadXML(): xml:id : attribute value 933 is not an NCName in Entity, line: 25
-DOMDocument::loadXML(): xml:id : attribute value 934 is not an NCName in Entity, line: 26
-DOMDocument::loadXML(): xml:id : attribute value 935 is not an NCName in Entity, line: 28
-DOMDocument::loadXML(): xml:id : attribute value 936 is not an NCName in Entity, line: 29
-DOMDocument::loadXML(): xml:id : attribute value 937 is not an NCName in Entity, line: 31
-DOMDocument::loadXML(): xml:id : attribute value 938 is not an NCName in Entity, line: 34
-DOMDocument::loadXML(): xml:id : attribute value 939 is not an NCName in Entity, line: 35
-DOMDocument::loadXML(): xml:id : attribute value 940 is not an NCName in Entity, line: 36
-DOMDocument::loadXML(): xml:id : attribute value 941 is not an NCName in Entity, line: 39
-DOMDocument::loadXML(): xml:id : attribute value 942 is not an NCName in Entity, line: 42
-DOMDocument::loadXML(): xml:id : attribute value 943 is not an NCName in Entity, line: 44
-DOMDocument::loadXML(): xml:id : attribute value 944 is not an NCName in Entity, line: 45
--->
