@@ -1,22 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--odt2tei: 2015-07-01T14:38:45+02:00-->
+<?xml-model href="../../teibook/teibook.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../teipub/xsl/tei2html.xsl"?>
+<!--odt2tei: 2015-03-17T11:09:17+01:00-->
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>La philosophie dans le théâtre de Molière</title>
-        <author>Doumergue Emile (1844-1937)</author>
+        <author key="Doumergue, Émile (1844-1937)">Émile Doumergue</author>
       </titleStmt>
       <editionStmt>
+        <edition>OBVIL</edition>
         <respStmt>
           <name>Camille  Frejaville</name>
+          <resp>OCR et stylage</resp>
+        </respStmt>
+        <respStmt>
+          <name>Chayma Soltani</name>
+          <resp>Structuration et encodage TEI</resp>
         </respStmt>
       </editionStmt>
       <publicationStmt>
-        <availability status="restricted"/>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <!--
+            <idno>http://obvil.paris-sorbonne.fr</idno>
+            -->
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de version modifiées de cette ressource n’est pas souhaitable.</p>
+          </licence>
+        </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>Doumergue Emile, <hi rend="i">La philosophie dans le théâtre de Molière</hi>, dans la Revue chrétienne,  Paris, 1870</bibl>
+        <bibl><author>Émile Doumergue</author>, <title>La philosophie dans le théâtre de Molière</title>, in <hi rend="i">La Revue chrétienne</hi>, <pubPlace>Paris</pubPlace>, <date>1870</date>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -26,22 +47,10 @@
       <langUsage>
         <language ident="fr"/>
       </langUsage>
-      <textClass>
-        <keywords>
-          <term type="subject">Molière (1622-1673). Philosophie.</term>
-        </keywords>
-      </textClass>
     </profileDesc>
   </teiHeader>
   <text>
     <body>
-      <p rend="b">REVUE CHRETIENNE</p>
-      <p rend="b">Dix-septième Année.</p>
-      <p>PARIS</p>
-      <p>BUREAU DE LA REVUE CHRÉTIENNE</p>
-      <p>RUE DE CLICHY, 58</p>
-      <p>1870</p>
-      <head>LITTÉRATURE</head>
       <div>
         <head>LA PHILOSOPHIE DANS LE THÉÂTRE DE MOLIÈRE (<note place="bottom">Voir la <hi rend="i">Revue chrétienne</hi> du 5 décembre 1869.    </note>)</head>
         <p><pb><pb n="326"/></pb>La première partie de notre étude nous a d’abord montré que Molière n’avait attaqué la religion ni directement ni indirectement. Puis, nous avons cherché à dessiner l’attitude qu’il avait prise pendant sa vie, en face de cette « seule chose nécessaire. » Plein de respect pour elle, nous l’avons vu lui prêter, intentionnellement, l’appui de sa satire, sans que nous ayons cru devoir le ranger pour cela au nombre de ses plus fervents disciples.</p>

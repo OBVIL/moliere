@@ -1,27 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--odt2tei: 2015-06-30T12:13:26+02:00-->
+<?xml-model href="../../teibook/teibook.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../teipub/xsl/tei2html.xsl"?>
+<!--odt2tei: 2015-03-17T11:09:17+01:00-->
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Des influences royales en littérature</title>
-        <author>Eugène Despois</author>
+        <author key="Despois, Eugène (1818-1876)">Eugène Despois</author>
       </titleStmt>
       <editionStmt>
+        <edition>OBVIL</edition>
         <respStmt>
-          <name>Charlotte Dias </name>
-          <resp>Stylage sémantique </resp>
+          <name>Charlotte Dias</name>
+          <resp>OCR et stylage</resp>
+        </respStmt>
+        <respStmt>
+          <name>Chayma Soltani</name>
+          <resp>Structuration et encodage TEI</resp>
         </respStmt>
       </editionStmt>
       <publicationStmt>
         <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
-        <date>2015</date>
-        <idno>http://obvil.paris-sorbonne.fr/corpus/moliere/critique/despois_influences-royales</idno>
-        <availability status="restricted"/>
+        <date when="2015"/>
+        <!--
+            <idno>http://obvil.paris-sorbonne.fr</idno>
+            -->
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+          </licence>
+        </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>Eugène Despois (1818-1876), « Des influences royales en littérature. I. Louis XIV », <hi rend="i">Revue des deux mondes</hi>, 23<hi rend="sup">e</hi> année, 2<hi rend="sup">e</hi> série de la nouvelle période, tome II, 1853, p. 1229-1246. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k86927k/f1230">Gallica</ref> </bibl>
-      </sourceDesc>
+        <bibl><author>Eugène Despois</author>, <title>Des influences royales en littérature. I. Louis XIV</title>, in <hi rend="i">Revue des deux mondes</hi>, 23<hi rend="sup">e</hi> année, 2<hi rend="sup">e</hi> série de la nouvelle période, tome II, <date>1853</date>, p. 1229-1246.</bibl>
+      </sourceDesc>      
     </fileDesc>
     <profileDesc>
       <creation>
@@ -34,7 +51,7 @@
   </teiHeader>
   <text>
     <body>
-      <p/>
+      <div>
       <p><anchor xml:id="1229"/><pb><pb n="1229"/></pb> Les écrivains qui recherchent dans l’histoire des langues celle des idées, ou du moins celle des prétentions de chaque époque, devraient bien nous expliquer l’heureuse fortune qu’a faite, depuis cinquante ans, le mot <hi rend="i">influence</hi>. Il n’est pas nouveau, mais il a pris de nos jours une signification plus étendue. Au XVII<hi rend="sup">e</hi> siècle, on ne l’employait guère que pour désigner l’action que les astres avaient alors sur la destinée des hommes ; aujourd’hui il sert assez souvent à désigner des influences qui ne sont pas beaucoup plus réelles. Les mots de ce genre, vagues et d’une portée douteuse, sont précieux en un temps où les généralités ambitieuses sont à la mode et où chacun, plus ou moins, aime à planer dans les espaces. On les emploie pour exprimer ces vérités équivoques qu’on peut nier, qu’on peut affirmer avec un succès égal : ressource inestimable pour les dissertations académiques. Des mots nets et précis, représentant des idées claires, sont la mort de toute discussion : si l’on comprenait bien les termes dont on se sert, peut-être parviendrait-on à s’entendre ; on écrirait moins, on penserait et on agirait davantage. C’est pour prévenir ce malheur que le <anchor xml:id="1230"/><pb><pb n="1230"/></pb> mot <hi rend="i">influence</hi> et quelques autres de même espèce semblent avoir été imaginés.</p>
       <p>Depuis qu’un écrivain illustre, mêlant l’histoire et la biographie à l’étude des grandes œuvres de la pensée, a ouvert à la critique littéraire une voie nouvelle, bien des gens s’y sont précipités à sa suite ; mais, comme ils n’avaient ni le bon sens exquis, ni les lumières de M. Villemain, ils n’ont pas manqué de s’égarer. Les biographies des écrivains fameux sont devenues interminables, — non qu’on y ajoutât beaucoup de faits nouveaux ; mais des rapprochemens forcés, des rapports imaginaires ont servi à expliquer ce qu’il y a de plus inexplicable peut-être, le mystérieux développement de leur génie. J’imagine que Corneille et Molière riraient bien, s’ils pouvaient connaître les intentions qu’on leur prête et les influences qu’ils sont censés avoir subies. Ils verraient leurs inspirations interprétées par des causes tour à tour grandioses ou mesquines, également chimériques, toujours subtiles et raffinées ; les secrets les plus intimes de leur conscience littéraire exposés avec une intrépidité sans égale par des gens qui, vivant à deux siècles de distance, ne les connaissent que par leurs œuvres et par quelques anecdotes plus ou moins authentiques. Molière serait probablement un peu surpris d’apprendre, de la bouche de ses trop ingénieux commentateurs, quelles causes, toutes indubitables, quoique souvent contradictoires, ont déterminé la direction de son génie. Il saurait qu’il n’y a pas un de ses personnages qui ne soit le portrait fidèle de quelqu’un de ses contemporains, pas un trait qu’il ne doive à quelque inconnu, pas une inspiration qui lui soit propre, — de sorte que sa part d’invention est aujourd’hui réduite à bien peu de chose, et que tout le monde, au XVII<hi rend="sup">e</hi> siècle, finit par être un peu plus l’auteur des œuvres de Molière que Molière lui-même. Quant à Corneille, on lui découvrirait des choses -non moins surprenantes ; on lui révélerait par exemple que, bien des années avant <hi rend="i">Polyeucte</hi>, la mère Angélique de Port-Royal ayant, pour compléter son renoncement au monde, refusé un jour la porte de son couvent à son père qui la venait voir, c’est probablement à <quote><hi rend="i">cette grande journée du guichet, à ce coup d’état de la grâce</hi></quote>, que le poète a dû les plus belles scènes de <hi rend="i">Polyeucte</hi> ; qu’en conséquence lui, l’élève et l’ami des jésuites, se trouve avoir beaucoup d’obligations aux jansénistes, et qu’il peut figurer avantageusement dans une histoire de Port-Royal, où un parallèle entre Polyeucte et la mère Angélique, entre Pauline et M. Arnauld père ne laisse pas de produire un fort bel effet. Quand la critique conjecturale va jusque-là, elle n’offre plus aucun danger, et l’on aurait tort de s’en plaindre : c’est un passe-temps comme un autre, et qu’on peut ranger parmi les jeux innocens ; mais parmi les lieux communs historiques auxquels la <anchor xml:id="1231"/><pb><pb n="1231"/></pb> question des influences littéraires a donné lieu, il en est un dont les conséquences n’échappent à personne : c’est l’influence personnelle qu’aurait eue Louis XIV sur la littérature de son temps.</p>
       <p>Si l’on veut dire simplement que le grand roi a été animé d’intentions excellentes à l’égard des gens de lettres, si surtout on veut parler de l’influence qu’il a eue sur leur bien-être (chose distincte du génie, quoi qu’en pensent certaines gens), sur ce point, nous n’avons aucune objection à faire. Seulement, nous nous réservons de démontrer que ces générosités si vantées n’étaient ni intelligentes, ni spontanées, ni surtout aussi abondantes qu’on le suppose à distance. Ce que nous contestons, c’est la part que l’on veut faire au roi dans la gloire littéraire du XVII<hi rend="sup">e</hi> siècle, de ce siècle qu’on a si improprement appelé le siècle de Louis XIV.</p>
@@ -83,26 +100,6 @@
       <p>Quels que soient ces inconvéniens attachés aux faveurs du public, il faut convenir au moins qu’ils lui font honneur. Cette majesté collective a bien d’autres avantages sur Louis XIV et tous les autres protecteurs des lettres, quand ce ne serait que de permettre, d’aimer même la contradiction ; car un moyen de plaire au public, moyen un peu usé aujourd’hui, a été souvent de lui rompre en visière, de lui dire de brutales vérités, de le calomnier même, et il l’a souffert, et il s’en est réjoui. Que peut-on donc reprocher à ce Mécène tout débonnaire ? Trop d’indulgence, trop de générosité ? Ce sont des défauts sans doute, mais ceux qui en profitent les lui pardonneront bien aisément.</p>
       <p>En considérant ces destinées nouvelles faites aux lettres par la révolution, nous ne pensons pas qu’il y ait lieu de regretter le temps passé : nous ne croyons guère à l’heureux effet des hautes influences en littérature ; impuissantes pour le bien, elles ne l’ont pas toujours été pour le mal. On ne donne pas des ailes au génie ; mais on peut les lui couper. On peut faire pis encore : quoi qu’en dise Boileau, Auguste n’a pas fait Virgile ; mais il a tué Cicéron. C’est, de toutes ses influences littéraires, la seule qu’il ne soit pas permis de contester.</p>
       <signed>EUGENE DESPOIS.</signed>
+      </div>
     </body>
   </text>
-</TEI>
-<!--Error recovered in loaded XML document 
-DOMDocument::loadXML(): xml:id : attribute value 1229 is not an NCName in Entity, line: 27
-DOMDocument::loadXML(): xml:id : attribute value 1230 is not an NCName in Entity, line: 27
-DOMDocument::loadXML(): xml:id : attribute value 1231 is not an NCName in Entity, line: 28
-DOMDocument::loadXML(): xml:id : attribute value 1232 is not an NCName in Entity, line: 31
-DOMDocument::loadXML(): xml:id : attribute value 1233 is not an NCName in Entity, line: 35
-DOMDocument::loadXML(): xml:id : attribute value 1234 is not an NCName in Entity, line: 39
-DOMDocument::loadXML(): xml:id : attribute value 1235 is not an NCName in Entity, line: 40
-DOMDocument::loadXML(): xml:id : attribute value 1236 is not an NCName in Entity, line: 42
-DOMDocument::loadXML(): xml:id : attribute value 1237 is not an NCName in Entity, line: 44
-DOMDocument::loadXML(): xml:id : attribute value 1238 is not an NCName in Entity, line: 47
-DOMDocument::loadXML(): xml:id : attribute value 1239 is not an NCName in Entity, line: 49
-DOMDocument::loadXML(): xml:id : attribute value 1240 is not an NCName in Entity, line: 53
-DOMDocument::loadXML(): xml:id : attribute value 1241 is not an NCName in Entity, line: 56
-DOMDocument::loadXML(): xml:id : attribute value 1242 is not an NCName in Entity, line: 57
-DOMDocument::loadXML(): xml:id : attribute value 1243 is not an NCName in Entity, line: 64
-DOMDocument::loadXML(): xml:id : attribute value 1244 is not an NCName in Entity, line: 66
-DOMDocument::loadXML(): xml:id : attribute value 1245 is not an NCName in Entity, line: 68
-DOMDocument::loadXML(): xml:id : attribute value 1246 is not an NCName in Entity, line: 71
--->
