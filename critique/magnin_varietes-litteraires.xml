@@ -1,26 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--odt2tei: 2015-06-30T12:02:29+02:00-->
+<?xml-model href="../../teibook/teibook.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../teipub/xsl/tei2html.xsl"?>
+<!--odt2tei: 2015-03-17T11:09:17+01:00-->
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Variétés littéraires. Quelques pages à ajouter aux œuvres de Molière</title>
-        <author>Charles Magnin</author>
+        <title>Quelques pages à ajouter aux oeuvres de Molière</title>
+        <author key="Magnin, Charles (1793-1862)">Charles Magnin</author>
       </titleStmt>
       <editionStmt>
+        <edition>OBVIL</edition>
         <respStmt>
-          <name>Charlotte Dias </name>
-          <resp>Stylage sémantique </resp>
+          <name>Charlotte Dias</name>
+          <resp>OCR et stylage</resp>
+        </respStmt>
+        <respStmt>
+          <name>Chayma Soltani</name>
+          <resp>Structuration et encodage TEI</resp>
         </respStmt>
       </editionStmt>
       <publicationStmt>
         <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
-        <date>2015</date>
-        <idno>http://obvil.paris-sorbonne.fr/corpus/moliere/critique/magnin_variétés-littéraires</idno>
-        <availability status="restricted"/>
+        <date when="2015"/>
+        <!--
+            <idno>http://obvil.paris-sorbonne.fr</idno>
+            -->
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+          </licence>
+        </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>Magnin, Charles (1793-1862), « Variétés littéraires. Quelques pages à ajouter aux œuvres de Molière », Revue des deux mondes, nouvelle série, tome XV, 1er juillet 1846, p. 172-181. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k868964/f173">Gallica</ref> </bibl>
+        <bibl><author>Charles Magnin</author>, <title>« Quelques pages à ajouter aux oeuvres de Molière »</title>, in <hi rend="i">La Revue des deux mondes</hi>, <date>1846</date>, p. 172-181.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -34,6 +51,7 @@
   </teiHeader>
   <text>
     <body>
+      <div>
       <p><pb/><pb><pb n="172"/></pb> On plaidait hier pour une signature de Molière ; aujourd’hui, voici quatre ou cinq pages oubliées de ce grand homme, qu’un heureux hasard nous permet de remettre en lumière et d’indiquer à un futur éditeur. Ces reliques, au reste, nous le confessons tout d’abord, ne sont pas d’une bien haute portée littéraire ; il ne faut pas qu’on s’attende à une scène originale, hardie, digne des ciseaux de la police, à un pendant, par exemple, de la <hi rend="i">scène du pauvre</hi>, si longtemps absente du <hi rend="i">Festin de Pierre</hi>. Sauf quelques mots qui sentent leur don Juan et qui montrent à nu l’élève enjoué de Lucrèce et de Gassendi, nous n’avons mis la main que sur quelques jovialités burlesques ; mais il s’attache un intérêt si vif et si légitime à tout ce qu’on peut croire sorti de la plume de l’auteur du <hi rend="i">Misanthrope</hi>, que nous n’hésitons pas à faire confidence au public de ce que nous appellerons notre trouvaille, pour ne pas abuser, comme on fait chaque jour, et pour beaucoup moins, du grand mot de découverte.</p>
       <p>Il s’agit de cent cinquante vers macaroniques qui se rencontrent <hi rend="i">en plus</hi> dans une <pb><pb n="173"/></pb> ancienne édition, probablement unique, de la cérémonie du <hi rend="i">Malade imaginaire.</hi> Ce livre de dix-sept pages a été achevé d’imprimer à Rouen, le 24 mars 1673, trente-cinq jours après la mort de Molière. II a échappé jusqu’ici aux lunettes des bibliographes et à la passion plus clairvoyante des amateurs du théâtre, Pont-de-Vesle, Befara et M. de Soleinne y compris. Il repose depuis une époque indéterminée sur les rayons de la Bibliothèque Royale, et, qui mieux est, figure depuis vingt-cinq ans au moins sur le catalogue, à l’article si souvent feuilleté de J.-B. Poquelin Molière. Tout le monde a pu l’y voir ; seulement personne jusqu’ici n’avait eu la fantaisie de l’ouvrir et de l’examiner.</p>
       <p>Il y aurait une histoire instructive et amusante à faire des premières éditions du <hi rend="i">Malade imaginaire</hi>. Cette comédie-ballet, composée à la fin de 1672, pour récréer Louis XIV au retour de la fameuse campagne de Hollande, ne fut jouée devant le roi que le 19 juillet 1674, dans la troisième journée des fêtes qui eurent lieu à Versailles après la conquête de la Franche-Comté. Toutefois elle avait été représentée auparavant avec un grand succès à Paris, sur le théâtre du Palais Royal, le 10 février 1673, et interrompue le 27 du même mois, après la quatrième représentation, dans laquelle Molière expirant ne put qu’à grand’ peine achever son rôle. La législation était alors si peu favorable à la propriété dramatique, que, pour jouir exclusivement de l’œuvre dernière et très fructueuse de leur chef et de leur camarade, les comédiens de la troupe de Molière, dont faisait partie sa veuve, furent obligés de solliciter une lettre de cachet portant défense à toute autre troupe de représenter cet ouvrage, tant qu’il ne serait pas imprimé, Aussi ne se hâtèrent-ils pas de le mettre sous presse, et comme ce retard ne faisait pas le compte de la librairie étrangère, habituée dès-lors à vivre an dépens de nos auteurs en crédit, la contrefaçon hollandaise s’avisa cette fois d’un singulier procédé. Un quidam, qui avait vu représenter la pièce à Paris, osa se charger de refaire de mémoire l’œuvre de Molière. Avec Diafoirus et fils, Argan qu’il nomme Orgon, Purgon qu’il transforme en Turbon (car son oreille néerlandaise n’avait retenu ni compris les noms propres), ce pauvre hère fabriqua la plus plate, la plus fade, la plus triste comédie du monde, preuve éclatante de ce que vaut le style, même au théâtre. Dans les deux pièces en effet, le plan, l’intrigue, les caractères, sont les mêmes ; la diction seule et le dialogue font que l’une est une rapsodie misérable et l’autre un chef-d’œuvre<note place="bottom">Cette informe contrefaçon pourrait cependant être consultée avec fruit pour l’indication de quelques jeux de scène et pour les costumes. Le maladroit faussaire avait été mieux servi par ses yeux que par son esprit et ses oreilles.</note>. Diverses éditions plus ou moins fautives se succédèrent tant à Paris qu’à l’étranger, jusqu’à la bonne et authentique publication du théâtre complet de Molière, faite en 1680 par La Grange et Vinot. J’aurais bien quelques remarques à faire sur ces divers textes ; mais ces curiosités attrayantes et ces courses buissonnières allongeraient trop ma route. Je ne veux m’occuper aujourd’hui que du nouveau texte de la cérémonie du <hi rend="i">Malade imaginaire</hi>.</p>
@@ -248,6 +266,7 @@
       <p>Nous passons les derniers souhaits, que nos lecteurs pourraient, comme la comtesse d’Escarbagnas, trouver d’un latin un peu trop malhonnête.</p>
       <p>On voit que cette nouvelle rédaction accroît d’environ cent cinquante vers, c’est-à-dire de la moitié, le texte que nous possédions. Nous avons consulté, sinon la totalité, au moins un très grand nombre des éditions connues de Molière, et nous n’avons trouvé ces additions dans aucune. Cependant ce texte développé de la <hi rend="i">cérémonie</hi> n’a point passé absolument inaperçu ; il a même été reproduit une fois, mais non pas en France. En 1697, un certain Nic. de Castelli, <pb><pb n="181"/></pb> italien réfugié en Allemagne et secrétaire de l’électeur de Brandebourg, traduisit en italien et fit imprimer séparément à Leipsick toutes les comédies de Molière, qu’il réunit l’année suivante en quatre volumes in-12. Dans sa traduction du <hi rend="i">Malade imaginaire</hi>, cet auteur a donné la cérémonie telle qu’on la lit dans le texte de Rouen. On peut s’étonner que la traduction de Castelli, qui n’est pas fort rare, et que possèdent beaucoup d’amateurs du théâtre, n’ait été ouverte ni parcourue par aucun d’eux. J’ajouterai un fait non moins singulier, c’est que ce même Nic. de Castelli a donné dans le <hi rend="i">Festin de Pierre</hi> la traduction exacte de la scène du pauvre, absolument conforme au texte le plus complet. Cet Italien était, comme on voit, un homme <hi rend="i">emunctae naris</hi>, et des mieux informés. Les éditeurs de Molière auraient bien fait, et feront bien dorénavant, de tenir plus de compte de son travail.</p>
       <signed>Charles Magnin.</signed>
+      </div>
     </body>
   </text>
 </TEI>

@@ -1,26 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--odt2tei: 2015-07-01T15:29:56+02:00-->
+<?xml-model href="../../teibook/teibook.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../teipub/xsl/tei2html.xsl"?>
+<!--odt2tei: 2015-03-17T11:09:17+01:00-->
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Le <hi rend="i">Don Juan</hi> de Molière au Théâtre-Français</title>
-        <author>Charles Magnin</author>
+        <title>Le Don Juan de Molière au Théâtre français</title>
+        <author key="Magnin, Charles (1793-1862)">Charles Magnin</author>
       </titleStmt>
       <editionStmt>
+        <edition>OBVIL</edition>
         <respStmt>
-          <name>Charlotte Dias </name>
-          <resp>Stylage sémantique </resp>
+          <name>Charlotte Dias</name>
+          <resp>OCR et stylage</resp>
+        </respStmt>
+        <respStmt>
+          <name>Chayma Soltani</name>
+          <resp>Structuration et encodage TEI</resp>
         </respStmt>
       </editionStmt>
       <publicationStmt>
         <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
-        <date>2015</date>
-        <idno>http://obvil.paris-sorbonne.fr/corpus/moliere/critique/magnin_don-juan</idno>
-        <availability status="restricted"/>
+        <date when="2015"/>
+        <!--
+            <idno>http://obvil.paris-sorbonne.fr</idno>
+            -->
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+          </licence>
+        </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>Magnin, Charles (1793-1862), « Le <hi rend="i">Don Juan</hi>  de Molière au Théâtre-Français », <hi rend="i">Revue des deux mondes</hi>, tome XVII, 1<hi rend="sup">er</hi> février 1847, p. 557-567. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k86900j/f558">Gallica</ref> </bibl>
+        <bibl><author>Charles Magnin</author>, <title>« Le Don Juan de Molière au Théâtre français »</title>, in <hi rend="i">La Revue des deux mondes</hi>, <date>1847</date>, p. 557-567.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -34,6 +51,7 @@
   </teiHeader>
   <text>
     <body>
+      <div>
       <p><pb n="557" xml:id="p557"/> Le 15 janvier 1844, l’édilité parisienne, assistée de l’Institut et suivie de tous les amis de la poésie et du théâtre, inaugurait, au milieu d’acclamations respectueuses, le monument réparateur et tardif élevé par une souscription nationale au prince de la comédie moderne. Cette année, à pareil jour, les sociétaires du Théâtre-Français ont eu l’heureuse idée de célébrer le 225<hi rend="sup">e</hi> anniversaire de la naissance de Molière par une autre ovation non moins éclatante, quoique toute littéraire, par la reprise (on pourrait dire par la résurrection) d’un de ses chefs-d’œuvre, <hi rend="i">le Festin de Pierre</hi>. Il était bien temps, en effet, de restituer à l’auteur du <hi rend="i">Misanthrope</hi><anchor xml:id="558"/> ce précieux joyau de sa couronne dramatique, vendu par sa veuve et soustrait, depuis cent soixante-dix ans, aux applaudissements de la foule. L’ombre du grand homme, qu’un poète jeune et de bonne espérance a évoquée ingénieusement ce soir-là, aurait pu se montrer fière et reconnaissante de ce nouvel hommage, préférable peut-être même au premier ; car, si les statues publiques sont la digne et seule récompense à offrir à la mémoire des grands généraux et des grands citoyens, nous n’imaginons pour les poètes et pour les artistes aucun hommage plus désirable et plus flatteur que le culte intelligent de leurs ouvrages.</p>
       <p><pb><pb n="558"/></pb> Grace donc à cette heureuse pensée, conçue et menée à bonne fin par la Comédie-Française, nous avons pu voir, enfin, représenter avec tout l’éclat, tout le talent, toute la pompe même de décorations et de costumes qu’un spectacle aussi singulier exige, le pur et vrai <hi rend="i">Don Juan</hi> de Molière, ce drame en prose et pourtant si poétique, où la réalité s’unit au merveilleux, la fantaisie à l’observation, l’ironie sceptique à la crédulité légendaire ; drame sans modèle en France et resté sans, postérité comme <hi rend="i">le Cid</hi>, et dont les beautés irrégulières font clairement prévoir ce qu’aurait produit en ce genre la muse française, s’il avait pu lui convenir de puiser plus fréquemment aux sources romantiques.</p>
       <p>Quoi qu’il en soit, quatre ans après la mort de Molière, par suite d’un arrangement pris par Armande Béjart avec la troupe de la rue Mazarine<note place="bottom">On peut voir une quittance de M<hi rend="sup">lle</hi> Molière donnée à la troupe de la rue Mazarine, pour l’achat du <hi rend="i">Festin de Pierre</hi>, dans <hi rend="i">l’Histoire du théâtre-Français</hi>, t. XII, p. 61.</note><anchor xml:id="cite_ref-1"/>, on vit tout à coup la prose si énergique et si nerveuse de <hi rend="i">Don Juan</hi> s’aligner en assez bons alexandrins sous la plume honnête de Thomas Corneille, et ce qu’on a peine à concevoir, cette médiocre copie s’est maintenue, jusqu’à nos jours, en possession du théâtre, à l’exclusion de l’original. Quelle a donc pu être la cause ou le prétexte de cet arrêt d’expropriation rendu contre un grand génie au profit d’un talent de second ou de troisième ordre ? On a souvent répété, d’après La Serre<note place="bottom"><hi rend="i">Mémoire sur la vie et les ouvrages de Molière</hi>.</note>, que le <hi rend="i">Don Juan</hi> de Molière n’avait obtenu à sa naissance qu’un assez faible succès, à cause surtout du préjugé qui régnait alors contre les comédies en prose. Dans la chaire du Lycée, M. de La Harpe, avec l’intrépidité d’étourderie qui le distinguait, et qui a fait école, a été bien plus loin encore. Il affirme que, de tous les <hi rend="i">Don Juan</hi> du <num>xvii<hi rend="sup">e</hi></num> siècle, celui de Molière fut le seul qui ne réussit pas. <quote>« Ce n’est pas, ajoute-t-il, qu’il ne valût beaucoup mieux que tous les autres ; mais il était en prose, et c’était alors <hi rend="i">une nouveauté sans exemple</hi>. »</quote> Le critique oublie le théâtre entier de La Rivey, <hi rend="i">le Pédant joué</hi> de Cyrano, <hi rend="i">les Précieuses</hi>, et tant d’autres exemples. N’importe ; il continue : <quote>« On n’imaginait pas qu’une comédie pût n’être pas en vers, et <hi rend="i">la pièce tomba</hi>. »</quote> Le registre manuscrit de La Grange, conservé dans les archives du Théâtre-Français, et consulté si fructueusement par le dernier biographe de Molière, donne un démenti formel à cette assertion. On y voit que, bien loin d’avoir éprouvé une chute, <hi rend="i">le Festin de Pierre</hi> composa le spectacle à lui seul pendant quinze jours consécutifs, et fit faire à la comédie un égal nombre de recettes très productives : celle, entre autres, de la cinquième représentation s’éleva à 2,390 livres, somme très considérable pour le temps. Ce qui troubla tout d’abord et interrompit bientôt le succès de <hi rend="i">Don Juan</hi>, ce furent les tempêtes soulevées par le cinquième acte, où le libertin, à bout de vices, se drape dans le <anchor xml:id="559"/><pb><pb n="559"/></pb> manteau court de Tartuffe. On ne peut se faire une idée de la fureur du parti dévot, quand il vit s’élever contre lui sur la scène un nouvel adversaire, non moins habile et non moins redoutable que n’avait été Pascal. Un avocat au parlement de Paris, un sieur de Rochemont, s’oublia jusqu’à remontrer au roi, dans un odieux libelle, <quote>« que l’empereur Théodose condamna aux bêtes des farceurs qui tournoient en dérision nos cérémonies, dans des pièces qui n’approchoient point de l’emportement qui paroît au <hi rend="i">Festin de Pierre</hi><note place="bottom">Louis XIV aurait bien dû sommer ce savant homme de produire quelques extraits de ces pièces du <num>v<hi rend="sup">e</hi></num> siècle. Leur production eût été un merveilleux service rendu aux lettres.</note>. »</quote> On aimerait à rencontrer, dans les écrits contemporains, des renseignements exacts sur cette lutte du génie contre les mauvaises passions, lutte qui commença par le <hi rend="i">Festin de Pierre</hi>, et dans laquelle jamais Molière ne faiblit, ni, ce qui est plus admirable encore, ne dépassa les justes bornes. Malheureusement on ne trouve presque rien sur <hi rend="i">Don Juan</hi> dans les recueils et les correspondances qui tenaient alors la place de nos journaux. <hi rend="i">Le Mercure galant</hi> ne commence qu’un peu plus tard. Loret, l’auteur de <hi rend="i">la Muse historique</hi>, était au moment de clore sa <hi rend="i">Gazette en vers</hi>, si l’on peut appeler vers un bavardage rimé tel que le sien. Déjà malade, il ne put, dans la lettre qui parut le 14 février, la veille même de la première représentation de <hi rend="i">Don Juan</hi>, que faire l’annonce de cette pièce, un peu cri style de paillasse :</p>
@@ -55,18 +73,7 @@
       <p>La Comédie-Française n’a rien négligé pour procurer au public la jouissance complète de ce chef-d’œuvre, et nous rendre, dans sa fraîcheur première, ce drame sur lequel ont pesé près de deux siècles de silence. L’élite de la Comédie s’est partagé les rôles. Remarquons, en passant, que, par suite de l’ancienne habitude de jouer la pièce en vers, les acteurs ont eu à surmonter, en cette circonstance, une difficulté qui se présente bien rarement ; ils n’ont pas eu seulement, comme toujours, des rôles à composer et à apprendre : ils ont eu, ce qui est peut-être plus difficile, des habitudes à perdre et des rôles à oublier. Geffroy, qui jouait pour la première fois le rôle de don Juan, l’a composé avec beaucoup d’art, et n’y laisse à désirer qu’un peu plus d’abandon et de gaieté. J’ai dit plus haut quel grand et légitime succès Ligier a obtenu dans le petit rôle de Francisque, le mendiant sublime. Quelques personnes ont regretté qu’il ne se soit pas montré de préférence dans le rôle demi-tragique de don Louis, ce <hi rend="i">Chromes iratus</hi>, si proche parent du père du <hi rend="i">Menteur</hi>. Il nous semble qu’entre ces deux choix l’artiste, bien avisé, a fait le meilleur et le plus habile. Pour moi, j’aurais encore mieux aimé qu’il eût entrepris les deux tâches. Elles seraient possibles et d’un grand effet. En se montrant aussi éloquent interprète de l’honneur du gentilhomme que de la conscience blessée du pauvre, il serait bien certain de doubler nos plaisirs et son triomphe. M<hi rend="sup">me</hi> Volnys, chargée du personnage sacrifié d’Elvire, qui ne paraît que deux fois pour faire d’amers reproches ou donner d’austères conseils à son amant, mérite des éloges tout particuliers pour le parti que son talent a su tirer de <anchor xml:id="567"/><pb><pb n="567"/></pb> cette tâche. Il est impossible d’avoir plus de naturel, plus de grâce, et d’introduire plus de nuances délicates et variées dans une situation qui, pour toute autre, aurait été monotone. Charmante sous le costume villageois, M<hi rend="sup">lle</hi> Brohan a fait assaut, avec Régnier, d’entrain, de gaieté et de franche passion. On ne saurait mieux rendre qu’ils ne l’ont fait l’un et l’autre cette naïve pastorale du second acte, comparable aux plus charmantes églogues de l’antiquité.</p>
       <p>Que dirai-je de la mise en scène, si ce n’est qu’elle égale le soin apporté à tout l’ouvrage ? Je regretterais pourtant la beauté des décorations de Ciceri, qui allongent un peu les entr’actes, si l’on n’avait eu la bonne idée de les remplir par quelques morceaux de Mozart. On a, d’ailleurs, poussé le respect pour les moindres indications venues de Molière, jusqu’à faire apparaître au cinquième acte le fantôme d’une femme voilée qui se transforme tout à coup en une figure du <hi rend="i">Temps, avec sa faux à la main</hi>. J’avoue que je ne comprends ni le but ni la convenance de cette apparition mythologique dans une pièce fondée sur le merveilleux chrétien. Cette vision ne me paraît se lier à rien dans la pièce, à moins qu’elle ne soit l’annonce emblématique de la mort d’Elvire ; mais alors pourquoi le <hi rend="i">Temps</hi> avec sa faux ? Quoi qu’il en soit, il était de bon goût de se conformer à la volonté certaine de Molière. Je ne puis couvrir de la même excuse la fantasmagorie finale qui nous montre, derrière la gaze d’un transparent, don Juan livré au feu de l’enfer. Dans <hi rend="i">le Convié de pierre</hi>, que les comédiens italiens jouaient à Paris, vers 1657, la dernière scène de la pièce montrait aux spectateurs don Giovanni au fond de l’enfer qui exprimait <hi rend="i">en vers</hi> (quoique tout le reste de la pièce fût en prose) ses souffrances et son repentir. Molière n’a pas jugé à propos de conclure aussi tristement la sienne. Après l’émotion rapide causée par la tragique catastrophe, il se hâte de rentrer dans le ton de la comédie, et accumule les burlesques exclamations dans la bouche de Sganarelle. Il est évident que Molière a voulu que sa pièce se terminât ; par le rire.</p>
       <signed>CHARLES MAGNIN.</signed>
+      </div>
     </body>
   </text>
 </TEI>
-<!--Error recovered in loaded XML document 
-DOMDocument::loadXML(): xml:id : attribute value 558 is not an NCName in Entity, line: 26
-DOMDocument::loadXML(): xml:id : attribute value 559 is not an NCName in Entity, line: 28
-DOMDocument::loadXML(): xml:id : attribute value 560 is not an NCName in Entity, line: 40
-DOMDocument::loadXML(): xml:id : attribute value 561 is not an NCName in Entity, line: 43
-DOMDocument::loadXML(): xml:id : attribute value 562 is not an NCName in Entity, line: 43
-DOMDocument::loadXML(): xml:id : attribute value 563 is not an NCName in Entity, line: 44
-DOMDocument::loadXML(): xml:id : attribute value 564 is not an NCName in Entity, line: 44
-DOMDocument::loadXML(): xml:id : attribute value 565 is not an NCName in Entity, line: 45
-DOMDocument::loadXML(): xml:id : attribute value 566 is not an NCName in Entity, line: 47
-DOMDocument::loadXML(): xml:id : attribute value 567 is not an NCName in Entity, line: 48
--->

@@ -1,32 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--odt2tei: 2015-06-30T12:01:19+02:00-->
+<?xml-model href="../../teibook/teibook.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../teipub/xsl/tei2html.xsl"?>
+<!--odt2tei: 2015-03-17T11:09:17+01:00-->
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author>Eugène Rigal</author>
+        <title>De Jodelle à Molière : tragédie, comédie, tragi-comédie</title>
+        <author key="Rigal, Eugène (1856-1920)">Eugène Rigal</author>
       </titleStmt>
       <editionStmt>
+        <edition>OBVIL</edition>
         <respStmt>
-          <name>Roxane Pham </name>
-          <resp>Stylage sémantique</resp>
+          <name>Floria Benamer</name>
+          <resp>OCR et stylage</resp>
+        </respStmt>
+        <respStmt>
+          <name>Chayma Soltani</name>
+          <resp>Structuration et encodage TEI</resp>
         </respStmt>
       </editionStmt>
       <publicationStmt>
         <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
-        <date>2015</date>
-        <idno>
-          <ref target="http://obvil.paris-sorbonne.fr/corpus/moliere/critique/eugene-rigal_jodelle-moliere/">http://obvil.paris-sorbonne.fr/corpus/moliere/critique/eugene-rigal_jodelle-moliere/</ref>
-        </idno>
-        <availability status="restricted"/>
+        <date when="2015"/>
+        <!--
+            <idno>http://obvil.paris-sorbonne.fr</idno>
+            -->
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+          </licence>
+        </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>Eugène Rigal, <hi rend="i">De Jodelle à Molière, Tragédie, comédie, tragi-comédie</hi>, « <hi rend="i">L’étourdi</hi> de Molière et <hi rend="i">Le Parasite</hi> de Tristan L’Hermite », Paris, Librairie Hachette et c<hi rend="sup">ie</hi>, 1911. </bibl>
+        <bibl><author>Eugène Rigal</author>, <title>De Jodelle à Molière : tragédie, comédie, tragi-comédie, « <hi rend="i">L’Étourdi</hi> de Molière et <hi rend="i">Le Parasite</hi> de Tristan L’Hermite »</title>, <pubPlace>Paris</pubPlace>, <publisher>Hachette</publisher>, <date>1911</date>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
       <creation>
-        <date when="1903"/>
+        <date when="1911"/>
       </creation>
       <langUsage>
         <language ident="fr"/>
@@ -35,6 +51,7 @@
   </teiHeader>
   <text>
     <body>
+      <div>
       <index>
         <term type="titre">De Jodelle à Molière.</term>
         <term type="language">fre<figure><graphic url="rigal_etourdi-et-parasite-img/image1.gif"/><head/><figDesc>https://ssl.gstatic.com/ui/v1/icons/mail/images/cleardot.gif</figDesc></figure></term>
@@ -234,6 +251,7 @@
       <p><hi rend="i">L’Étourdi</hi> est de 1653 d’après certains auteurs. Mais cette date n’est appuyée par aucun témoignage authentique, tandis que La Grange, dans son <hi rend="i">Registre</hi>, a positivement daté la pièce de 1655 et que Despois a confirmé cette indication par les raisons les plus sérieuses<note place="bottom"><hi rend="i">Molière</hi>, t. I, p. 79 à 85.</note>.</p>
       <p>Si la comparaison que nous avons établie entre <hi rend="i">le Parasite</hi> et <hi rend="i">l’Étourdi</hi> paraissait suffisamment justifiée, non seulement on connaîtrait une source nouvelle de Molière, mais la date de sa première comédie serait désormais à l’abri de toute discussion.</p>
       <dateline>Février 1903.</dateline>
+      </div>
     </body>
   </text>
 </TEI>

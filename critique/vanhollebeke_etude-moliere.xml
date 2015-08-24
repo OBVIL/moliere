@@ -1,22 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--odt2tei: 2015-07-01T13:35:31+02:00-->
+<?xml-model href="../../teibook/teibook.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../teipub/xsl/tei2html.xsl"?>
+<!--odt2tei: 2015-03-17T11:09:17+01:00-->
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Etude sur Molière</title>
-        <author>Van Hollebeke B. (….-….)</author>
+        <title>Étude sur Molière. Molière et ses contemporains dans le Misanthrope... </title>
+        <author key="Van Hollebeke, B. (….-….)">B. Van Hollebeke</author>
       </titleStmt>
       <editionStmt>
+        <edition>OBVIL</edition>
         <respStmt>
           <name>Camille Frejaville</name>
+          <resp>OCR et stylage</resp>
+        </respStmt>
+        <respStmt>
+          <name>Chayma Soltani</name>
+          <resp>Structuration et encodage TEI</resp>
         </respStmt>
       </editionStmt>
       <publicationStmt>
-        <availability status="restricted"/>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <!--
+            <idno>http://obvil.paris-sorbonne.fr</idno>
+            -->
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+          </licence>
+        </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>Van Hollebeke B., <hi rend="i">Etude sur Molière</hi>, dans la Revue trimestrielle, Paris, 1862</bibl>
+        <bibl><author>B. Van Hollebeke</author>, <title>« Étude sur Molière. Molière et ses contemporains dans le Misanthrope... »</title>, in <hi rend="i">La Revue trimestrielle</hi>, <pubPlace>Paris</pubPlace>, <date>1862</date>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -26,36 +47,10 @@
       <langUsage>
         <language ident="fr"/>
       </langUsage>
-      <textClass>
-        <keywords>
-          <term type="subject">Molière (1622-1673). Le Misanthrope.</term>
-        </keywords>
-      </textClass>
     </profileDesc>
   </teiHeader>
   <text>
     <body>
-      <p/>
-      <p>REVUE TRIMESTRIELLE</p>
-      <p>TRENTE-QUATRIÈME VOLUME.</p>
-      <p>Neuvième année. — Tome deuxième.</p>
-      <p>JACQUES DE BOURGOGNE ET SA FAMILLE.</p>
-      <p>LES FRONTIÈRES NATURELLES.</p>
-      <p>L'AFFRANCHISSEMENT DES PAYSANS EN RUSSIE.</p>
-      <p>RUBENS AU MUSÉE DE BRUXELLES.</p>
-      <p>LE FANTOME DE FAUQUEMONT.— LA SOCIÉTÉ DES RONDS DU HAINAUT.</p>
-      <p>DU THÉÂTRE EN BELGIQUE. HISTORIQUE ET STATISTIQUE.</p>
-      <p>LA VIE DANS L’HOMME.</p>
-      <p>LE POÈTE AU XIX<hi rend="sup">e</hi> SIÈCLE.</p>
-      <p>BELGES ET ROMAINS. PREMIÈRES RENCONTRES.</p>
-      <p>ÉTUDE SUR MOLIÈRE.</p>
-      <p>LES REPTILES. — REVUE LITTÉRAIRE.</p>
-      <p>BRUXELLES,</p>
-      <p>BUREAU DIS LA REVUE TRIMESTRIELLE <hi rend="i"><hi rend="sub">f</hi></hi></p>
-      <p>RUE SAINT-LAZARD, 25.</p>
-      <p>1862.</p>
-      <p>Étude sur Molière.</p>
-      <head>Molière et ses contemporains dans <hi rend="i">Le Misanthrope</hi>.</head>
       <div>
         <head>I</head>
         <p><pb><pb n="292"/></pb> C’est une étude pleine d’intérêt que de rechercher le côté réel et vivant d’une œuvre dramatique, de séparer la fiction de la vérité, de voir dans quelles proportions le poëte a pu joindre aux types qui sont les produits de son imagination, quelques reflets de la réalité, quelques traits empruntés çà et là au monde qui l’environne.</p>

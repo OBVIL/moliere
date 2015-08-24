@@ -1,26 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--odt2tei: 2015-07-01T14:19:20+02:00-->
+<?xml-model href="../../teibook/teibook.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../teipub/xsl/tei2html.xsl"?>
+<!--odt2tei: 2015-03-17T11:09:17+01:00-->
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Leçon d’ouverture du cours de littérature française.</title>
-        <author>Charles Hanriot</author>
+        <title>Leçon d’ouverture du cours de littérature française, Introduction au théâtre de Molière</title>
+        <author key="Hanriot, Charles (1818-1895)">Charles Hanriot</author>
       </titleStmt>
       <editionStmt>
+        <edition>OBVIL</edition>
         <respStmt>
-          <name>Camille Amaouche </name>
-          <resp>Stylage sémantique </resp>
+          <name>Floria Benamer</name>
+          <resp>OCR et stylage</resp>
+        </respStmt>
+        <respStmt>
+          <name>Chayma Soltani</name>
+          <resp>Structuration et encodage TEI</resp>
         </respStmt>
       </editionStmt>
       <publicationStmt>
         <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
-        <date>2015</date>
-        <idno>http://obvil.paris-sorbonne.fr/corpus/moliere /hanriot_lecon-ouverture-theatre-moliere /</idno>
-        <availability status="restricted"/>
+        <date when="2015"/>
+        <!--
+            <idno>http://obvil.paris-sorbonne.fr</idno>
+            -->
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+          </licence>
+        </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>Hanriot, Charles, <hi rend="i">Leçon d’ouverture du cours de littérature française, Introduction au théâtre de Molière</hi>, Clermont-Ferrand, Ducros-Paris, 1874, 35 p. URL Gallica : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k5568418d">http://gallica.bnf.fr/ark:/12148/bpt6k5568418d</ref></bibl>
+        <bibl><author>Charles Hanriot</author>, <title>Leçon d’ouverture du cours de littérature française, Introduction au théâtre de Molière</title>, <pubPlace>Clermont-Ferrand</pubPlace>, <publisher>Ducros-Paris</publisher>, <date>1874</date>35 p.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -34,6 +51,7 @@
   </teiHeader>
   <text>
     <body>
+      <div>
       <p><pb n="3" xml:id="p3"/><hi rend="sc">Messieurs.</hi> </p>
       <p>Une grande nation a rendu hommage à un grand homme, le jour (1) ou s’est élevé à Paris, près du Théâtre français, le monument qui porte la statué de <hi rend="sc">Molière.</hi> L’illustre <hi rend="i">comédien</hi> (donnons-lui hautement ce nom qu’il a su venger d’un injuste mépris) est représenté assis dans l’attitude grave et méditative qui lui était habituelle. C’est bien <hi rend="i">le Contemplateur</hi>, avec ce profond regard où éclate la force de la pensée, et ce front où semble errer encore un triste nuage de mélancolie, fatal attribut de tous ceux à qui il a été donné de scruter et de connaître la nature humaine.</p>
       <p>Nul, en effet, Messieurs, n’a mieux connu que Molière nos préjugés, nos défauts, nos passions; nul ne les a traduits sur une scène plus vivante. Aussi, son théâtre est-il toujours jeune, toujours vrai. Les siècles ont transformé la société, ils ont enseveli les pompes fastueuses de Versailles; il n’y a plus ni roi, ni cour; mais l’homme n’a point changé; nos travers ont pris un autre nom, un autre <pb n="4" xml:id="p4"/> habit sans rien perdre de leur nature, et en riant des Sganarelle, des Géronte, des Trissotin, des Purgon, des Orgon, de M. Jourdain et de M. de Pourceaugnac, de Bélise et de Cathos, de George Dandin, d’Argan, d’Harpagon, voire des prétentieux marquis, nous croyons rire d’autrui quand nous rions de nous-mêmes.</p>
@@ -229,6 +247,7 @@
       <p>Partant de là, Grevin et ses congénères ou successeurs crurent imiter Plaute et Térence en remplissant leurs pièces de filles enlevées en bas âge et reconnues ensuite, de déguisements et de surprises, sans compter les magiciennes, les capitans, les naufragés qui reparaissent à propos, les occis qui ne sont jamais morts, les bourses enfouies qui sont toujours découvertes, les intrigues doubles ou triples s’emmêlant les unes dans les autres, et tout l’<hi rend="i">imbroglio</hi> emprunté à la comédie italienne.</p>
       <p>Nous pourrons, Messieurs, dans notre étude sur Molière, trouver l’occasion de revenir en passant à ce théâtre des Jodelle, des Grevin, des Jean de la Taille, des La Rivey, des Hardy, des Mayret, des Gombaud, des Rotrou, ne fût-ce que pour y glaner quelques germes des situations que le génie de notre grand comique a su s’approprier en les transformant. Aujourd’hui nous avons dû commencer par déblayer (permettez-moi cette expression) les avenues de notre sujet, semblables à ces ouvriers qui dégagent d’un amas de scories informes l’accès d’un beau temple antique <pb n="35" xml:id="p35"/> et qui ensuite se trouvent en présence du monument lui-même, de ses péristyles, de ses statues, de la pleine lumière dont il est inondé. Nous avons franchi, non sans peine, les origines confuses de notre théâtre; nous aurons nous dédommager en admirant notre aise les immortelles créations de Molière.</p>
       <p rend="b">14 Janvier 1844.</p>
+      </div>
     </body>
   </text>
 </TEI>

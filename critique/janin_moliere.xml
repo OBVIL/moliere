@@ -1,27 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--odt2tei: 2015-06-30T12:17:40+02:00-->
+<?xml-model href="../../teibook/teibook.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../teipub/xsl/tei2html.xsl"?>
+<!--odt2tei: 2015-03-17T11:09:17+01:00-->
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Molière</title>
-        <author>Jules Janin</author>
-        <editor>Floria Benamer</editor>
+        <author key="Janin, Jules (1804-1874) ">Jules Janin</author>
       </titleStmt>
       <editionStmt>
+        <edition>OBVIL</edition>
         <respStmt>
-          <name>Floria Benamer </name>
-          <resp>Stylage sémantique </resp>
+          <name>Floria Benamer</name>
+          <resp>OCR et stylage</resp>
+        </respStmt>
+        <respStmt>
+          <name>Chayma Soltani</name>
+          <resp>Structuration et encodage TEI</resp>
         </respStmt>
       </editionStmt>
       <publicationStmt>
         <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
-        <date>2014</date>
-        <idno>http://obvil.paris-sorbonne.fr/corpus/critique/janin_moliere/</idno>
-        <availability status="restricted"/>
+        <date when="2015"/>
+        <!--
+            <idno>http://obvil.paris-sorbonne.fr</idno>
+            -->
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+          </licence>
+        </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>Jules Janin, « Molière », in <hi rend="i">Œuvres complètes de Molière ; nouvelle édition imprimée sur celles de 1679 et de 1682, avec des notes explicatives sur les mots qui ont vieilli…</hi>, Paris : Laplace, Sanchez et Cie, 1871, p. <num>i-xv</num>.</bibl>
+        <bibl><author>Jules Janin</author>, <title>Molière</title>, in <hi rend="i">Œuvres complètes de Molière ; nouvelle édition imprimée sur celles de 1679 et de 1682, avec des notes explicatives sur les mots qui ont vieilli…</hi>, <pubPlace>Paris</pubPlace>, <publisher>Laplace, Sanchez et Cie</publisher>, <date>1871</date>, p. i-xv.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -35,6 +51,7 @@
   </teiHeader>
   <text>
     <body>
+      <div>
       <p>Des poètes français, Molière, après La Fontaine, est le plus célèbre, il est le plus aimé. Pas un lettré qui ne raconte, à sa façon, cette illustre biographie. Il appartient à la race éclatante et féconde, à la famille des grands génies : Aristophane, Ménandre, Térence et Plaute, Cervantes, Shakespeare et Rabelais. Le rire est leur domaine ; ils s’emparent triomphalement de la correction des mœurs ; ils sont, tout à la fois, des sages et des écrivains ; ils inventent leur comédie, ils inventent leur langage, et ce fut la plus juste admiration du dix-septième siècle, de trouver que Molière était un poète à côté de Racine, e non loin de Despréaux, un prosateur comparable à Pascal. Il ne faut pas oublier Corneille en cette éclatante manifestation de la comédie et du drame. Corneille écrit <hi rend="i">Le Menteur</hi>, et les trois derniers actes du <hi rend="i">Cid</hi> merveilleux, qui tourne, comme on sait, à la comédie, après nous avoir remplis des plus grandes émotions tragiques. Par Montaigne et par Rabelais, l’auteur des <hi rend="i">Précieuses ridicules</hi> appartient aux derniers jours du seizième siècle. Il a lu Marot et Regnier, comme il a lu les <hi rend="i">Lettres provinciales</hi>. Il eut ensuite ce grand bonheur, de commencer avec Louis XIV, profitant de la jeunesse du roi, de ses loisirs, de ses amours.</p>
       <p>Jean-Baptiste Poquelin (c’est le nom de son père ; sa mère avait nom Marie Cressé) est un enfant de Paris, du Paris plein de bruit, de tumulte et de chansons. La tradition, qui a souvent raison, parce qu’elle représente un consentement populaire, a fait naître le père excellent de la comédie au beau milieu des halles, qui représentaient un monde à part dans les passions de la grande ville. On appelait, naguère, M. le duc de Beaufort : <hi rend="i">le Roi des halles</hi>, et le sobriquet ne déplaisait pas au petit-fils de Henri IV. On parlait dans les halles de Paris une langue à part, câline et violente à la fois : M. le cardinal de Retz en savait toutes les finesses ; madame de Sévigné, malgré son maître Ménage, n’en était pas tout à fait ignorante. Trente ans plus tard, sous ce thème pilier des halles, vint au monde un des plus heureux et des plus beaux esprits dont se soit parée la comédie, un grand poète appelé Regnard, l’auteur du <hi rend="i">Joueur</hi> et des <hi rend="i">Ménechmes</hi>. Ce nouveau Parisien nous consolera de la mort de Molière, et la ville, charmée, oubliera, un instant, le divin Poquelin. C’est pourquoi, respectant la tradition, nous laisserons le berceau de Molière à l’ombre intelligente du pilier des halles, et dans la boutique de son père, valet de chambre-tapissier du roi. C’était déjà de la bourgeoisie : entrer chez le roi, avoir bouche en cour, avec trois cents livres de gages, et trente-sept livres dix sous de récompense chaque année, pour un service de trois mois ! Ajoutons tout l’aise et le relief d’un officier domestique de la maison de Sa Majesté. Ils étaient riches, ces Poquelin ; ils étaient sages ; seulement le grand-père était un bel esprit qui gâtait son petit-fils (c’est l’usage), et quand le grand-père et le petit-fils traversaient le Pont-Neuf tout rempli de farces, de comédies, de chansons, de tréteaux joyeux, d’arracheurs de dents, d’opérateurs et d’<hi rend="i">avaleurs de pois gris</hi>, Molière s’en est souvenu, le vieillard et l’enfant tout joyeux ne se lassaient pas des amours de Tabarin et des gaietés de Francisquine. — Ah ! grand-père, encore un moment ? disait le petit-fils. — Je le veux bien, mais nous serons grondés, répondait le grand-père ! Et le lendemain, le fils du tapissier gâtait du beau velours, et se cognait les mains du marteau paternel. Déjà l’esprit perçait avec l’intelligence, et comme en ce temps-là, l’éducation populaire était, grâce à Dieu, à la portée de tous, l’enfant fut mis au collège de Louis-le-Grand, dont les régents ne rêvaient déjà que tragédies et comédies. Ce fut même au sortir de l’un de ces spectacles où rien n’était négligé pour le plaisir de l’oreille et des yeux, que le jeune roi Louis XIV, qui était encore en sa minorité, s’écria, battant des mains : « Voici mon collège ! » Et le lendemain apparut sur un marbre noir, gravé en lettres d’or : <hi rend="i">Collège de Louis-le-Grand</hi>.</p>
       <p>Dans cette enceinte illustre où le jeune Arouet viendra plus tard, le nouveau venu rencontra parmi tant de condisciples qui l’ont aimé et protégé plus tard, le filleul du cardinal de Richelieu, le prince Armand de Conti, frère du duc d’Enghien, disons mieux, du grand Condé ! On se rappelle, en ce moment, le célèbre portrait du prince de Conti, par M. le duc de Saint-Simon, le plus remarquable peut-être de sa galerie. Avec le jeune prince de Conti, attentif aux leçons de Gassendi lui-même, il y avait Bernier, qui déjà rêvait de ses grands voyages, et Chapelle, un de ces esprits charmants, très-intelligents, qui font peu de chose, et s’amusent tant, qu’à la fin, ce peu de chose est un chef-d’œuvre. On étudiait assez vite aux premiers jours du grand siècle ; quatre ou cinq ans suffisaient à ces études qui, pour ainsi dire, étaient dans l’air, et sitôt que le jeune Poquelin fut en état de lire Aristophane, et Térence, et Plaute, et les maîtres, il rêva que lui aussi il était né pour être un instituteur de nations. Si jeune encore, il voyait toute chose ; il savait lire au fond des cœurs les mystères les plus cachés ; il comprenait les passions les plus innocentes. Il lisait, dans tous les livres anciens et nouveaux, les passages de la comédie, empruntant de toutes mains, sans reproche et sans peur. Un savant éditeur de Molière, M. Louis Moland, nous racontait naguère les emprunts que l’élève de Gassendi a faits au théâtre italien, digne prédécesseur de l’hôtel de Bourgogne. Parmi ces emprunts que ce naissant génie agrandissait à sa taille, on signale, il est vrai, des mois, des traits, certains caractères. Eh bien, en dépit même des preuves les plus incontestables, nous dirons, nous : Molière a laissé si loin ses modèles, qu’il ne faudrait pas le chagriner pour si peu. Démontrer qu’il a pris <hi rend="i">Tartuffe</hi> et <hi rend="i">Don Juan</hi> aux tréteaux de Rome ou de Venise, en effet, la démonstration irait trop loin. <hi rend="i">Tartuffe</hi> et <hi rend="i">Don Juan</hi> appartiennent à Molière, autant que <hi rend="i">Les Femmes savantes</hi> et <hi rend="i">Le Misanthrope</hi>. Arlequin disait un jour : <quote>« Si tous les couteaux n’étaient qu’un couteau, ah ! quel couteau ! Si tous les arbres n’étaient qu’un arbre, ah ! quel arbre ! Si tous les hommes n’étaient qu’un homme, ah ! quel homme ! Si ce grand homme prenait ce grand couteau pour en donner un grand coup à ce grand arbre, et qu’il lui fil une estafilade, ah ! quelle estafilade ! »</quote> Or, nous autres, à l’exemple d’Arlequin, nous dirions volontiers : <quote>« Si toutes les comédies n’étaient qu’une seule et grande comédie, ah ! la belle comédie ! Et puisque enfin tous les poètes comiques, à commencer par Aristophane et Plaute, avec les débris de Ménandre, et les élégances de Térence, à finir par le dernier faiseur de vaudeville, ne sont qu’un seul et même comédien nommé Molière, ah ! le poète incomparable et l’immortel comédien ! »</quote></p>
@@ -143,6 +160,7 @@
       <signed>
         <hi rend="sc">Jules Janin.</hi>
       </signed>
+      </div>
     </body>
   </text>
 </TEI>

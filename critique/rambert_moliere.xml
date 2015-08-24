@@ -1,22 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--odt2tei: 2015-07-01T15:42:11+02:00-->
+<?xml-model href="../../teibook/teibook.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../teipub/xsl/tei2html.xsl"?>
+<!--odt2tei: 2015-03-17T11:09:17+01:00-->
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Corneille, Racine et Molière, Deux cours sur la poésie dramatique française au XVIIe siècle</title>
-        <author>Rambert Eugène (1830-1886)</author>
+        <title>Corneille, Racine et Molière. Deux cours sur la poésie dramatique française au XVIIe siècle</title>
+        <author key="Rambert, Eugène (1830-1886)">Eugène Rambert</author>
       </titleStmt>
       <editionStmt>
+        <edition>OBVIL</edition>
         <respStmt>
           <name>Camille Frejaville</name>
+          <resp>OCR et stylage</resp>
+        </respStmt>
+        <respStmt>
+          <name>Chayma Soltani</name>
+          <resp>Structuration et encodage TEI</resp>
         </respStmt>
       </editionStmt>
       <publicationStmt>
-        <availability status="restricted"/>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <!--
+            <idno>http://obvil.paris-sorbonne.fr</idno>
+            -->
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+          </licence>
+        </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>Rambert Eugène, <hi rend="i">Corneille, Racine et Molière, Deux cours sur la poésie dramatique française du XVIIe siècle</hi>, Lausanne, 1861</bibl>
+        <bibl><author>Eugène Rambert</author>, <title>Corneille, Racine et Molière. Deux cours sur la poésie dramatique française au XVIIe siècle</title>, <pubPlace>Lausanne</pubPlace>, <publisher>A. Delafontaine</publisher>, <date>1861</date>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -26,26 +47,11 @@
       <langUsage>
         <language ident="fr"/>
       </langUsage>
-      <textClass>
-        <keywords>
-          <term type="subject">Molière (1622-1673).</term>
-        </keywords>
-      </textClass>
     </profileDesc>
   </teiHeader>
   <text>
     <body>
-      <p>CORNEILLE, RACINE ET MOLIÈRE</p>
-      <p>DEUX COURS SUR LA POÉSIE DRAMATIQUE FRANÇAISE AU XVII<hi rend="sup">e</hi> SIÈCLE</p>
-      <p>PAR EUGÈNE RAMBERT</p>
-      <p>Ancien professeur à l’Académie de Lausanne ; professeur à l’Ecole polytechnique fédérale de Zurich.</p>
-      <p>LAUSANNE</p>
-      <p>A. DELAFONTAINE LIBRAIRE-ÉDITEUR</p>
-      <p>1861</p>
-      <head>Seconde partie Molière</head>
-      <div>
         <head>Leçon première.</head>
-      </div>
       <div>
         <head>Aperçu général de la vie et de l’œuvre de Molière.</head>
         <p><pb><pb n="309"/></pb><hi rend="sc">Messieurs</hi>,</p>

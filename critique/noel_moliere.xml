@@ -1,34 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--odt2tei: 2015-07-01T15:45:28+02:00-->
+<?xml-model href="../../teibook/teibook.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../teipub/xsl/tei2html.xsl"?>
+<!--odt2tei: 2015-03-17T11:09:17+01:00-->
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Légendes françaises: Molière</title>
-        <author>Eugène Noel</author>
-        <editor>Claire Bégards</editor>
+        <title>Légendes françaises : Molière</title>
+        <author key="Noël, Eugène (1816-1899)">Eugène Noël</author>
       </titleStmt>
       <editionStmt>
+        <edition>OBVIL</edition>
         <respStmt>
-          <name>Claire Bégards </name>
-          <resp>Stylage sémantique  </resp>
+          <name>Claire Bégards</name>
+          <resp>OCR et stylage</resp>
+        </respStmt>
+        <respStmt>
+          <name>Chayma Soltani</name>
+          <resp>Structuration et encodage TEI</resp>
         </respStmt>
       </editionStmt>
       <publicationStmt>
         <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
-        <date>2014</date>
-        <idno>
-          <hi rend="color_FF0000">http://obvil.paris-sorbonne.fr/corpus/moliere/critique/noel_légendes-moliere/</hi>
-        </idno>
-        <availability status="restricted"/>
+        <date when="2015"/>
+        <!--
+            <idno>http://obvil.paris-sorbonne.fr</idno>
+            -->
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+          </licence>
+        </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>Eugène, Noel,<hi rend="i"> Légendes françaises: Molière</hi>, Paris, Garnier Frères,1852.</bibl>
+        <bibl><author>Eugène Noël</author>, <title>Légendes françaises : Molière</title>, <pubPlace>Paris</pubPlace>, <publisher>Garnier frères</publisher>, <date>1852</date>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
       <creation>
-        <date>1852.</date>
+        <date when="1852"/>
       </creation>
       <langUsage>
         <language ident="fr"/>
@@ -36,8 +50,7 @@
     </profileDesc>
   </teiHeader>
   <text>
-    <body>
-      <p/>
+    <body> 
       <div>
         <head>PRÉFACE</head>
         <p>Le faux dévot serait plein d’espérances ! Mais, depuis trois siècles, la France l’a trop de fois affligé... Le XVI<hi rend="sup">è</hi> siècle (Rabelais) le voue au ridicule, le XVIIIe (Voltaire) lui arrache ses dernières victimes... Molière, entre les deux, lui trouve son vrai nom : <hi rend="i">Tartuffe</hi> !</p>

@@ -1,24 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://svn.code.sf.net/p/algone/code/teibook/teibook.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
-<!-- <?xml-stylesheet type="text/xsl" href="../../teipub/xsl/tei2html.xsl"?> -->
-<!--odt2tei: 2015-06-23T14:11:29+02:00-->
+<?xml-model href="../../teibook/teibook.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../teipub/xsl/tei2html.xsl"?>
+<!--odt2tei: 2015-03-17T11:09:17+01:00-->
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>La fontaine Molière</title>
-        <author>Saint-Martin (….-….)</author>
+        <author key="Saint-Martin (….-….)">Saint-Martin</author>
       </titleStmt>
       <editionStmt>
+        <edition>OBVIL</edition>
         <respStmt>
           <name>Camille Frejaville</name>
+          <resp>OCR et stylage</resp>
+        </respStmt>
+        <respStmt>
+          <name>Chayma Soltani</name>
+          <resp>Structuration et encodage TEI</resp>
         </respStmt>
       </editionStmt>
       <publicationStmt>
-        <availability status="restricted"/>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <!--
+            <idno>http://obvil.paris-sorbonne.fr</idno>
+            -->
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+          </licence>
+        </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>Saint-Martin, <hi rend="i">La fontaine Molière</hi>, dans la Revue indépendante, Paris, 1844</bibl>
+        <bibl><author>Saint-Martin</author>, <title>« La fontaine Molière »</title>, in <hi rend="i">La Revue indépendante</hi>, <pubPlace>Paris</pubPlace>, <date>1844</date>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -28,24 +47,11 @@
       <langUsage>
         <language ident="fr"/>
       </langUsage>
-      <textClass>
-        <keywords>
-          <term type="subject">Molière (1622-1673). Architecture. Fontaine.</term>
-        </keywords>
-      </textClass>
     </profileDesc>
   </teiHeader>
   <text>
     <body>
-      <p/>
-      <p rend="b">LA REVUE</p>
-      <p rend="b">INDÉPENDANTE</p>
-      <p>PARAISSANT LE 10 ET LE 25 DE CHAQUE MOIS</p>
-      <p>UN BULLETIN BIBLIOGRAPHIQUE. TOME DOUZIÈME.</p>
-      <p>PARIS.</p>
-      <p>AU BUREAU DE LA REVUE INDÉPENDANTE,</p>
-      <p>RUE RICHELIEU, 65</p>
-      <p>1844</p>
+     <div>
       <head>La fontaine Molière.</head>
       <p><pb n="250" xml:id="p250"/> Malgré les craintes et les tergiversations de l’autorité supérieure, la fontaine Molière a été inaugurée le 15 de ce mois. Cette cérémonie a emprunté toute sa solennité au concours des représentants de la municipalité et des arts de la capitale, et à. l’enthousiasme populaire ; car le gouvernement, craignant d’honorer l’auteur de <hi rend="i">Tartufe</hi>, n’y était pas représenté, ou du moins ne l’était que par le préfet de la Seine, obligé d’ailleurs de s’y trouver par la présence du corps municipal. Au reste, la fête, pour n’avoir été que la fête de la commune et des arts, n’en a pas moins eu un caractère de grandeur ; et, comme tout ce qui porte ce cachet, elle a vivement impressionné la population-</p>
       <p>Avant toutes choses, constatons ici la sollicitude du conseil municipal à doter la ville de Paris de monuments qui, dans son intention, doivent orner la capitale de la France eu même temps qu’ils encouragent les arts. Si l’exécution ne répond pas toujours, ou plutôt répond rarement à la bonne volonté du conseil, c’est que le choix des artistes chargés de cette exécution n’est pas de son ressort, qu’il est abandonné à l’influence gouvernementale, et que celle-ci, peu favorable au talent, n’accorde d’ordinaire ses faveurs qu’à l’intrigue et à la médiocrité. Cependant il faut bien constater que le conseil municipal n’a pas à lui seul le mérite de doter Paris du nouvel édifice. La première idée d’une statue à élever à Molière fut émise par M. Régnier, sociétaire du Théâtre-Français. Cette initiative si honorable pour la Comédie-Française méritait d’être rappelée. Une souscription fut bientôt ouverte parmi les sociétaires. Le public voulut y prendre part. Les Chambres s’y associèrent, et le conseil municipal ajouta enfin plus de la moitié de la somme totale.</p>
@@ -66,6 +72,7 @@
       <p>Somme toute, pour ne nous arrêter qu’aux défauts les plus saillants, le monument de Molière ne nous paraît pas à la hauteur de sa destination. Et après l’avoir examiné attentivement, nous regrettons que, dans un pays comme la France, où les artistes de talent sont en grand nombre, on ne parvienne pas à créer des monuments plus homogènes dans leurs parties, et exprimant mieux les sains et véritables principes de l’art. La faute en est-elle à l’ignorance où l’on est de ces principes ou à l’isolement dans lequel se tiennent les artistes les uns des autres ? Nous tenons la seconde cause pour l’unique dans ce cas. Et cependant ce n’est que par un commun accord qu’on parviendra à donner aux œuvres d’art cet ensemble harmonieux sans lequel elles ne sont jamais belles et durables.</p>
       <p>Avant de terminer, qu’il nous soit permis d’émettre ici un vœu, <pb><pb n="258"/></pb> qui, nous n’en doutons pas, ne peut être que bien accueilli par la majorité du public. Molière a obtenu la justice qui lui était due. Mais il est un autre enfant de Paris, qui a porté haut et loin l’honneur de l’esprit français, et dont le nom semble résumer le dix-huitième siècle. Voltaire n’a pas de monument dans Paris, sa ville natale. Une statue, magnifique il est vrai, mais cachée sous le vestibule du Théâtre-Français, est là seule pour l’honorer. Ne serait-il pas temps de réparer cet oubli, et d’élever sur la place publique, comme un témoignage d’orgueil national, un monument à celui qui fut si souvent et énergiquement l’apôtre de la vérité et du sens commun, et qui, comme Molière, n’a eu son pareil chez aucun peuple moderne ? Aussi, espérons-nous que bientôt une souscription viendra réparer cet oubli, qui serait une preuve d’ingratitude s’il se prolongeait plus longtemps.</p>
       <signed>SAINT-MARTIN.</signed>
+     </div>
     </body>
   </text>
 </TEI>

@@ -1,22 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--odt2tei: 2015-07-01T15:43:11+02:00-->
+<?xml-model href="../../teibook/teibook.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../teipub/xsl/tei2html.xsl"?>
+<!--odt2tei: 2015-03-17T11:09:17+01:00-->
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>De l’influence des mœurs sur la comédie</title>
-        <author>Perlet Adrien (<space>  </space>-<space>  </space>)</author>
+        <author key="Perlet, Adrien (1795-1850)">Adrien Perlet</author>
       </titleStmt>
       <editionStmt>
+        <edition>OBVIL</edition>
         <respStmt>
           <name>Camille Frejaville</name>
+          <resp>OCR et stylage</resp>
+        </respStmt>
+        <respStmt>
+          <name>Chayma Soltani</name>
+          <resp>Structuration et encodage TEI</resp>
         </respStmt>
       </editionStmt>
       <publicationStmt>
-        <availability status="restricted"/>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <!--
+            <idno>http://obvil.paris-sorbonne.fr</idno>
+            -->
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+          </licence>
+        </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>Perlet Adrien, <hi rend="i">De l’influence des mœurs sur la comédie</hi>, Paris, 1848</bibl>
+        <bibl><author>Adrien Perlet</author>, <title>De l’influence des mœurs sur la comédie</title>, <pubPlace>Paris</pubPlace>, <publisher>Dauvin et Fontaine</publisher>, <date>1848</date>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -26,33 +47,11 @@
       <langUsage>
         <language ident="fr"/>
       </langUsage>
-      <textClass>
-        <keywords>
-          <term type="subject">Molière (1622-1673). Tartuffe, Le Misanthrope.</term>
-        </keywords>
-      </textClass>
     </profileDesc>
   </teiHeader>
   <text>
     <body>
-      <p/>
-      <p rend="center">DE L’INFLUENCE</p>
-      <p rend="center">DES MŒURS</p>
-      <p rend="center">SUR LA COMEDIE</p>
-      <p rend="center">DISCOURS</p>
-      <p rend="center">SUIVI DE DEUX ETUDES</p>
-      <p rend="center">SUR LES ROLES DU MISANTHROPE ET DU TARTUFE</p>
-      <p rend="center">PAR</p>
-      <p rend="center">ADRIEN PERLET</p>
-      <p rend="center">ANCIEN ACTEUR DU GYMNASE</p>
-      <p rend="center">Seconde édition.</p>
-      <p rend="center">PARIS</p>
-      <p rend="center">DAUVIN ET FONTAINE, ÉDITEURS</p>
-      <p rend="center">35, PASSAGE DES PANORAMAS</p>
-      <p rend="center">CH. TRESSE, SUCCESSEUR DE BARBA</p>
-      <p rend="center">2 ET 3, GALERIE DE CHARTRES, PALAIS NATIONAL</p>
-      <p rend="center">1848</p>
-      <p/>
+      <div>
       <p>* Cette proposition fut mise au concours l’année dernière par la Société Philotechnique.</p>
       <p>Son programme était ainsi conçu :</p>
       <quote>
@@ -65,6 +64,7 @@
           <p>Quand vous peignez les hommes, il faut les peindre d’après nature : on veut que les portraits ressemblent, et vous n’avez rien fait si vous n’y faites reconnaître les gens de votre siècle.</p>
           <p>Molière, <hi rend="i">Critique de l’Ecole des Femmes</hi>.</p>
         </quote>
+      </div>
         <p><pb><pb n="1"/></pb> Les mœurs devraient sans doute, et dans tous les temps, exercer une grande influence sur la comédie, puisque la vraie mission de celle-ci est en partie de les reproduire, et que, quelques modifications heureuses qu’elles puissent recevoir des révolutions ou des progrès du temps, elles ont toujours assez de côtés ridicules, elles offrent toujours assez de prise à la critique pour être justiciables du théâtre. Cependant il est des époques où leur influence a été nulle sur la <pb n="2" xml:id="p2"/>comédie. La cause principale en est peut-être dans la fausse idée que les auteurs se sont faite de leur art, et par suite de laquelle ils ont quitté la bonne route pour s’engager dans des voies funestes. Molière avait cependant frayé cette bonne route, et, dans le passage de <hi rend="i">La Critique de l’Ecole des Femmes</hi> que nous avons choisi pour épigraphe, il exprime par l’organe de Dorante son propre sentiment sur le genre de talent et la mission des poêles comiques. On y voit que leur premier mérite, aussi bien que leur but principal, doivent être de peindre les passions, les ridicules, les goûts, les préjugés dominants, c’est-à-dire la manière d’être, ou les mœurs des hommes de leur siècle. Et, comme la comédie est de sa nature critique et satirique, on juge, quand elle y reste fidèle, quand elle réfléchit les mœurs avec vérité, subissant sous ce rapport leur action, combien à son tour elle peut réagir efficacement sur les mœurs.</p>
         <p>Dans l’essai que nous allons entreprendre, nous aurons donc plus d’une fois l’occasion de <pb><pb n="3"/></pb><pb/>comparer à Molière les auteurs qui sont venus après lui, non sans doute pour faire ressortir leur infériorité, ce qui ne serait qu’un soin puéril et ridicule, mais afin, au contraire, de mieux apprécier leur mérite, et de reconnaître s’ils ont toujours suivi le bon chemin, ou s’ils en ont dévié.</p>
         <p>Pour mettre le plus d’ordre possible dans notre travail, nous diviserons en périodes le long espace de temps qui nous sépare du règne de Louis XIV, et nous en tracerons successivement les tableaux que nous mettrons en regard, pour ainsi dire, des meilleures comédies représentées pendant leur durée. Cette division semble être indiquée par les changements notables survenus dans les mœurs à diverses époques depuis la mort de Molière, époques auxquelles ils ont imprimé un caractère particulier et une physionomie qui les rendent tout à fait distinctes.</p>
