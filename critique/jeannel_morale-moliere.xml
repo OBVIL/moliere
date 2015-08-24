@@ -51,7 +51,7 @@
   </teiHeader>
   <text>
     <front>
-      <div type="dedication">
+      <div>
        <salute>Mon cher père,</salute>
        <p>Véritablement ce livre vous appartient. À défaut d’autres qualités, j’espère que vous y trouverez votre <hi rend="i">esprit</hi> ; et je serai heureux si vous ne jugez pas indigne de vous ce premier essai de votre fils aîné</p>
        <p rend="right">C.-J. JEANNEL.</p>
@@ -60,7 +60,7 @@
       </div>
     </front>
     <body>
-      <head>La morale de Molière.</head>
+      <head>La Morale de Molière.</head>
       <div type="chapter">
         <head>CHAPITRE PREMIER.
         <lb/>Part de la Morale dans la Comédie de Molière.</head>
@@ -338,7 +338,7 @@
       </div>
       <div type="chapter">
         <head>CHAPITRE V.
-        <lb/>L’éducation des Femmes.</head>
+        <lb/>L’Éducation des Femmes.</head>
         <p><pb n="83" xml:id="p83"/> S’il manque quelque chose à la gloire de nos lettres sous Louis XIV, c’est d’avoir peint naturellement les femmes. Ce jugement est sévère ; mais il est permis de demander beaucoup aux hommes qui, alors, illustrèrent pour jamais notre pays et l’humanité. Or, au milieu de tant de perfection intellectuelle et de génie en toutes choses, régnait, au sujet de la femme, je ne sais quel faux goût, qui fut cause que ni le sublime Corneille ni même le tendre Racine ne firent tout à fait ce qu’on pouvait attendre d’eux : c’est seulement dans l’excès de la passion dramatique que <hi rend="i">Pauline, Hermione</hi> et <hi rend="i">Phèdre</hi> trouvèrent ces accents poignants et simples qui sont des cris de génie. Autrement, dans les romans comme au théâtre, la femme ne quitta point alors le fard de la mode, qui pouvait la rendre plus majestueuse ou plus spirituelle, mais qui glaçait sous la convention son charme principal, <hi rend="i">le naturel.</hi></p>
         <p>À Molière la gloire d’avoir, malgré le siècle, vu et peint la femme telle qu’elle est ; d’avoir ôté de son <pb n="84" xml:id="p84"/> immortelle parure de grâce tout ce qu’on y joignait alors de faux et d’emprunté ; d’avoir dit et montré ce qu’elle doit être pour accomplir son rôle humble et sublime parmi nous.</p>
         <p/>

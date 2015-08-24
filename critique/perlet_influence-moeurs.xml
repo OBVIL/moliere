@@ -52,25 +52,24 @@
   <text>
     <body>
       <div>
-        <head></head>
-      <p>* Cette proposition fut mise au concours l’année dernière par la Société Philotechnique.</p>
+      <head></head>
+        <argument><p>* Cette proposition fut mise au concours l’année dernière par la Société Philotechnique.</p>
       <p>Son programme était ainsi conçu :</p>
       <quote>
         <p>« Rechercher l’influence que l’esprit public et les mœurs en France ont exercée sur les diverses phases de la comédie depuis Molière. La Société ne demande pas une revue complète des auteurs comiques, encore moins une nomenclature de toutes les productions depuis Molière : ce qu’elle provoque, c’est un examen littéraire et philosophique des œuvres comiques qui ont paru sur notre théâtre avec le plus de succès; c’est une appréciation de l’influence qu’ont exercée à diverses époques les mœurs sur la comédie, et, accessoirement, la comédie sur les mœurs. »</p>
       </quote>
       <p>Le travail que l’on va lire, conçu d’après ce plan, était destiné au concours ; diverses circonstances ne nous ayant pas permis de le terminer pour l’époque où devaient être déposés les manuscrits, nous en risquons aujourd’hui la publication.</p>
-      <div>
+        </argument>
+              <div>
         <head>De l’influence des mœurs sur la comédie.</head>
         <quote>
           <p>Quand vous peignez les hommes, il faut les peindre d’après nature : on veut que les portraits ressemblent, et vous n’avez rien fait si vous n’y faites reconnaître les gens de votre siècle.</p>
           <p>Molière, <hi rend="i">Critique de l’Ecole des Femmes</hi>.</p>
         </quote>
-      </div>
-        <div>
-        <head></head>
         <p><pb n="1"/> Les mœurs devraient sans doute, et dans tous les temps, exercer une grande influence sur la comédie, puisque la vraie mission de celle-ci est en partie de les reproduire, et que, quelques modifications heureuses qu’elles puissent recevoir des révolutions ou des progrès du temps, elles ont toujours assez de côtés ridicules, elles offrent toujours assez de prise à la critique pour être justiciables du théâtre. Cependant il est des époques où leur influence a été nulle sur la <pb n="2" xml:id="p2"/>comédie. La cause principale en est peut-être dans la fausse idée que les auteurs se sont faite de leur art, et par suite de laquelle ils ont quitté la bonne route pour s’engager dans des voies funestes. Molière avait cependant frayé cette bonne route, et, dans le passage de <hi rend="i">La Critique de l’Ecole des Femmes</hi> que nous avons choisi pour épigraphe, il exprime par l’organe de Dorante son propre sentiment sur le genre de talent et la mission des poêles comiques. On y voit que leur premier mérite, aussi bien que leur but principal, doivent être de peindre les passions, les ridicules, les goûts, les préjugés dominants, c’est-à-dire la manière d’être, ou les mœurs des hommes de leur siècle. Et, comme la comédie est de sa nature critique et satirique, on juge, quand elle y reste fidèle, quand elle réfléchit les mœurs avec vérité, subissant sous ce rapport leur action, combien à son tour elle peut réagir efficacement sur les mœurs.</p>
         <p>Dans l’essai que nous allons entreprendre, nous aurons donc plus d’une fois l’occasion de <pb n="3"/>comparer à Molière les auteurs qui sont venus après lui, non sans doute pour faire ressortir leur infériorité, ce qui ne serait qu’un soin puéril et ridicule, mais afin, au contraire, de mieux apprécier leur mérite, et de reconnaître s’ils ont toujours suivi le bon chemin, ou s’ils en ont dévié.</p>
         <p>Pour mettre le plus d’ordre possible dans notre travail, nous diviserons en périodes le long espace de temps qui nous sépare du règne de Louis XIV, et nous en tracerons successivement les tableaux que nous mettrons en regard, pour ainsi dire, des meilleures comédies représentées pendant leur durée. Cette division semble être indiquée par les changements notables survenus dans les mœurs à diverses époques depuis la mort de Molière, époques auxquelles ils ont imprimé un caractère particulier et une physionomie qui les rendent tout à fait distinctes.</p>
+        
         <div>
           <head>Première période.</head>
           <p><pb n="4" xml:id="p4"/> Trois comiques éminents, Dancourt, Brueis et Regnard succèdent à Molière, comme pour le rendre plus digne d’admiration et pour mieux marquer sa hauteur. Quelque rare, en effet, que soit leur mérite, combien ces écrivains restent encore au-dessous de lui ! Mais pénétrés de ses principes, ils marchent du moins sur ses traces, et, dans la composition de leurs ouvrages, ce qui les préoccupe avant tout, c’est la peinture des caractères, des ridicules et des travers du temps.</p>
@@ -423,8 +422,8 @@
           <p>Nous ne croyons donc pas nous être trop écarté de la proposition en appréciant ces œuvres avec quelque développement, sous le rapport de <pb n="105"/>la poétique du théâtre. Quant aux critiques, peut-être un peu sévères, que nous en avons faites, on ne se méprendra pas, nous l’espérons, sur la pensée qui nous les a dictées ; elles ont bien moins pour but, en effet, d’attaquer le talent des auteurs, que de constater les grandes et nombreuses difficultés de l’art.</p>
           <dateline>Janvier 1848.</dateline>
         </div>
-      </div>
-      <div>
+        </div>
+        <div>
         <head>Études sur les rôles du <hi rend="i">Misanthrope</hi> et du <hi rend="i">Tartufe</hi>.</head>
         <div xml:id="footnote1">
           <head>Lettre sur le Misanthrope<note place="bottom"><p>Cette lettre et celles qui la suivent font partie d’un ouvrage sur l’art du comédien. Elles sont adressées à un jeune élève que des circonstances auraient pour quelque temps éloigné de son maître.</p></note>.</head>
