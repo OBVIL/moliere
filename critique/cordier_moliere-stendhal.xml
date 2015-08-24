@@ -945,10 +945,10 @@
           <p rend="b">3, Place Vintimille.</p>
         </div>
       <div>
-        <head><pb><pb n="1"/></pb> I.
+        <head><pb n="1"/> I.
 <lb/>Le Misanthrope</head>
         <div>
-          <head><pb><pb n="2"/></pb> Notes sur <hi rend="i">Le Misanthrope</hi><note place="bottom">Dans le volume III, du Molière. — Dans le volume IV, p. 49, de l’édition Didot</note></head>
+          <head><pb n="2"/> Notes sur <hi rend="i">Le Misanthrope</hi><note place="bottom">Dans le volume III, du Molière. — Dans le volume IV, p. 49, de l’édition Didot</note></head>
           <p>La reconnaissance du comique étant en partie une affaire de mémoire. (Note de 1.000 an [Milan] <hi rend="i">I take for a year any entries at French (theatre) from the18th december</hi> 1813.</p>
           <p rend="b">Je note les endroits où l’on rit, avec la date des représentations.</p>
           <p>Représentation du 16 décembre 1813<note place="bottom"><p>5 Le jeudi 16 décembre 1813 le spectacle du Théâtre-Français se composait de : <hi rend="i">Le Misantrcpe, la Suite d’un Bal masqué</hi>. Dans l<hi rend="i">e Misanthrope</hi>, Damas, Desprez, Michelot, Vanhove, Faure, Dumildtre, Cartigny ; Mmes Thénard, Volnais, Leverd. — <hi rend="i">Dans la Suite d’un Bal</hi>, Armand, Michelot, Dumilâtre ; Mmes Mezeray, Mars, Desbrosses. Cf<hi rend="i">. Journal de l’Empire</hi>, 16 décembre 1813.</p><p>Je ne sais pourquoi Fleury et Mlle Mars sont omis dans cette énumération de noms.</p></note>, Fleury<note place="bottom">Abraham-Joseph Bénard, dit Fleury, né à Chartres en 1751 ; mort en 1822, à Orléans.</note> bien vieilli et M<hi rend="sup">lle</hi> Mars<note place="bottom"><p>Geoffroy écrit dans le feuilleton du Journal de l’Empire, à la date du 19 décembre 1813, p. 3 :</p><p><quote>« Toutes les représentations du Misantrope sont des fêtes pour la Comédie. quand les principaux rôles sont joués par les acteurs chéris et adoptés par e public. Eleury et M lle Mars font au théâtre le destin des pièces auxquelles ils attachent leur talent. Je voudrois pouvoir être toujours nouveau pour les lecteurs, en faisant leur éloge, comme ils paroissent toujours nouveaux pour les spectateurs en jouaut leurs rôles. »</quote> </p><p>Anne-Françoise-Hippolyte Boutet-Monvel, dite Mlle Mars, née à Paris. 9 février 1779 ; morte à Paris, 20 mars 1847.</p></note></p>
@@ -1361,7 +1361,7 @@
               <label rend="sc">Madame Pernelle</label>
               <l>Et c’est tout justement la cour du roi Pétaud.</l>
             </quote>
-            <p>Excellent caractère de vieille, bilieuse et active. Toutes les vieilles à l’exception de celles qui ne le sont pas comme M<hi rend="sup">me</hi> Du Deffand<note place="bottom">Marie de Vichy. — Chamron, marquise Du Deffand, née en 1697 ; morte le 23 septembre 1780</note>, ressemblent à M<hi rend="sup">me</hi> Pernelle. Qui osera peindre une vieille après cette première scène,<pb><pb n="20"/></pb>et celle de 1’incrédulité ? Voilà un des véritables avantages d’être venu le premier. Nous avons des avantages que Molière n’avait pas. Il n’avait pas par exemple mon caractère de Williams, mais aussi celui de M<hi rend="sup">me</hi>  Pernelle est bien autrement général. Il peut y avoir cent Williams en France, il y a deux ou trois millions de M<hi rend="sup">me</hi> Pernelle. Outre cela c’est un caractère éternel. Parler beaucoup, ne partir que de ses idées, ne recevoir aucune impression nouvelle, enfin des manières de voir formées avec peu d’esprit, mais soutenues avec opiniâtreté, sera encore le caractère de vieille dans deux mille ans.</p>
+            <p>Excellent caractère de vieille, bilieuse et active. Toutes les vieilles à l’exception de celles qui ne le sont pas comme M<hi rend="sup">me</hi> Du Deffand<note place="bottom">Marie de Vichy. — Chamron, marquise Du Deffand, née en 1697 ; morte le 23 septembre 1780</note>, ressemblent à M<hi rend="sup">me</hi> Pernelle. Qui osera peindre une vieille après cette première scène,<pb n="20"/>et celle de 1’incrédulité ? Voilà un des véritables avantages d’être venu le premier. Nous avons des avantages que Molière n’avait pas. Il n’avait pas par exemple mon caractère de Williams, mais aussi celui de M<hi rend="sup">me</hi>  Pernelle est bien autrement général. Il peut y avoir cent Williams en France, il y a deux ou trois millions de M<hi rend="sup">me</hi> Pernelle. Outre cela c’est un caractère éternel. Parler beaucoup, ne partir que de ses idées, ne recevoir aucune impression nouvelle, enfin des manières de voir formées avec peu d’esprit, mais soutenues avec opiniâtreté, sera encore le caractère de vieille dans deux mille ans.</p>
             <quote rend="border">
               <label rend="sc">Madame Pernelle</label>
               <l>Vous êtes, ma mie, une fille suivante,</l>
@@ -1411,7 +1411,7 @@
                 <label rend="sc">Dorine</label>
                 <l>Et l’on sait qu’elle est prude, à son corps défendant.</l>
               </quote>
-              <p>Les badauds rient démesurément de ce vers à cause <pb><pb n="22"/></pb> du mot <hi rend="i">son corps</hi>. Je crois qu’ils ne comprennent pas trop la phrase.</p>
+              <p>Les badauds rient démesurément de ce vers à cause <pb n="22"/> du mot <hi rend="i">son corps</hi>. Je crois qu’ils ne comprennent pas trop la phrase.</p>
               <quote rend="border">
                 <label rend="sc">Madame Pernelle</label>
                 <l>… L’on est chez vous contrainte de se taire.</l>
@@ -1735,7 +1735,7 @@
               <l>De tirer en longueur cet hymen proposé.</l>
               <l>En attrapant du temps, à tout on remédie.</l>
             </quote>
-            <p>Attrapant, excellent ton de Molière qui fait l’imposant <pb><pb n="34"/></pb>autant que nos sots écrivains actuels le recherchent. Voilà un des grands vices de la conversation actuelle. La monarchie en vieillissant chassera ce défaut.</p>
+            <p>Attrapant, excellent ton de Molière qui fait l’imposant <pb n="34"/>autant que nos sots écrivains actuels le recherchent. Voilà un des grands vices de la conversation actuelle. La monarchie en vieillissant chassera ce défaut.</p>
             <quote rend="border">
               <label rend="sc">Dorine</label>
               <l><space>    </space>  Quel caquet est le vôtre !</l>
@@ -1755,7 +1755,7 @@
               <l>S’il est aucun respect ni pouvoir qui m’arrête,</l>
               <l>Et si je ne fais pas quelque coup de ma tête !</l>
             </quote>
-            <p>Je voudrais tenir ici quelque partisan outré de la règle de la voûte : « Qu’on ne puisse rien ôter d’un drame. » Ils consultent cette règle, au lieu d’avoir l’œil sur le cœur du spectateur, seule boussole du poète, quelqu’Alfieri, quelque Boileau, je suis peut être injuste envers ce dernier en le nommant ici, il sentait peut-être le mérite de cette scène mais aurait probablement désapprouvé par suite de la même règle, et faute de regarder le cœur du <pb><pb n="35"/></pb>spectateur, le grand nombre d’acteurs du <hi rend="i">Timon</hi> et de Shakespeare.</p>
+            <p>Je voudrais tenir ici quelque partisan outré de la règle de la voûte : « Qu’on ne puisse rien ôter d’un drame. » Ils consultent cette règle, au lieu d’avoir l’œil sur le cœur du spectateur, seule boussole du poète, quelqu’Alfieri, quelque Boileau, je suis peut être injuste envers ce dernier en le nommant ici, il sentait peut-être le mérite de cette scène mais aurait probablement désapprouvé par suite de la même règle, et faute de regarder le cœur du <pb n="35"/>spectateur, le grand nombre d’acteurs du <hi rend="i">Timon</hi> et de Shakespeare.</p>
             <p>Il est évident qu’on peut mettre cette scène après celle de la proposition du mariage, en sautant la brouille, sans qu’il <hi rend="i">y</hi> paraisse. Mais que de plaisir n’aura t’on pas perdu, et combien plutôt le ton sérieux de la pièce ne fatiguera t’il pas ?</p>
             <quote rend="border">
               <label rend="sc">Dorine</label>
@@ -1789,7 +1789,7 @@
               <l><space>    </space>  Comme il se radoucit !</l>
               <l>Ma foi, je suis toujours pour ce que j’en ai dit.</l>
             </quote>
-            <p><pb><pb n="36"/></pb>Jeu. M<hi rend="sup">lle</hi> de Vienne a grande raison de grossir sa voix d’une manière comique en disant ce vers.</p>
+            <p><pb n="36"/>Jeu. M<hi rend="sup">lle</hi> de Vienne a grande raison de grossir sa voix d’une manière comique en disant ce vers.</p>
           </div>
           <div>
             <head>[Acte III, scène III]</head>
@@ -1818,7 +1818,7 @@
               <l>Jamais, en toute chose, on a vu si bien faire.</l>
             </quote>
             <p>Tartuffe, malgré tout son esprit, est timide. Molière passe ici à côté d’une imperfection que <hi rend="i">Mys</hi>[<hi rend="i">elf</hi>] ne saurait pas éviter. À force de sublimer son Tartuffe, il se fut dit : « Un homme de beaucoup d’esprit qui ne croit à rien et qui s’accru continuellement et avec le plus grand succès, à jouer la comédie, doit savoir parler à une femme, et n’être pas assez timide pour chercher à séduire une femme honnête en commençant par des caresses ; cette manière ne peut tout au plus convenir qu’à un très beau jeune homme de dix-huit ans. »</p>
-            <p><pb><pb n="37"/></pb>Ce raisonnement est juste, mais à force de diezer un <hi rend="i">la</hi> on en fait <hi rend="i">si</hi>, et il change de nature. Molière voulant jouer les hypocrites, il fallait que Tartuffe conservât un de leurs traits les plus distinctifs, malgré tout leur esprit la gaucherie, ou il n’était plus Tartuffe, donc en sublimant prendre garde à ne pas supprimer l’imperfection qui fait le caractère.</p>
+            <p><pb n="37"/>Ce raisonnement est juste, mais à force de diezer un <hi rend="i">la</hi> on en fait <hi rend="i">si</hi>, et il change de nature. Molière voulant jouer les hypocrites, il fallait que Tartuffe conservât un de leurs traits les plus distinctifs, malgré tout leur esprit la gaucherie, ou il n’était plus Tartuffe, donc en sublimant prendre garde à ne pas supprimer l’imperfection qui fait le caractère.</p>
             <p rend="b">C’est comme si Cervantes à force de donner de l’esprit à D. Quichotte, lui eût ôté l’erreur, l’imperfection de vouloir mettre en vigueur la chevalerie errante.</p>
             <p>Le défaut de <hi rend="i">Mys</hi>[<hi rend="i">elf</hi>] est un peu dans le genre de celui d’Alfieri, il provient de même de l’abus d’un esprit fort.</p>
             <quote rend="border">
@@ -1833,7 +1833,7 @@
               <l>Ses attraits réfléchis brillent dans vos pareilles</l>
             </quote>
             <p rend="noindent">d’où il suit qu’une paire de jolis tétons est une réflexion du Ciel.</p>
-            <p>Tout ce tems, dis-je, est volé à l’indignation, ou au <pb><pb n="38"/></pb>dégoût qu’eût produit la déclaration d’amour du Tartuffe.</p>
+            <p>Tout ce tems, dis-je, est volé à l’indignation, ou au <pb n="38"/>dégoût qu’eût produit la déclaration d’amour du Tartuffe.</p>
             <quote>
               <l>Il a sur votre face épanché des beautés, etc., etc.</l>
               <l>Sans admirer en vous l’Auteur de la nature</l>
@@ -1860,7 +1860,7 @@
               <l>Força la résistance où s’obstinoit mon cœur ;</l>
               <l>Elle surmonta tout, jeûnes, prières, larmes.</l>
             </quote>
-            <p>Y a ni quelque chose de vrai là dedans ou le tout est-il belle hypocrisie toute pure ? me rapeler le bon <pb><pb n="39"/></pb>caractère de frère Thimotée de la <hi rend="i">Mandragore</hi>, qui croit au fond et n’est qu’un peu hypocrite. Car qui n’a pas encore paru sur la scène française, et qui n’est esquissé dans Machiavel ?</p>
+            <p>Y a ni quelque chose de vrai là dedans ou le tout est-il belle hypocrisie toute pure ? me rapeler le bon <pb n="39"/>caractère de frère Thimotée de la <hi rend="i">Mandragore</hi>, qui croit au fond et n’est qu’un peu hypocrite. Car qui n’a pas encore paru sur la scène française, et qui n’est esquissé dans Machiavel ?</p>
             <quote rend="border">
               <label rend="sc">Tartuffe</label>
               <l>J’aurai toujours pour vous, ô suave merveille !</l>
@@ -1891,7 +1891,7 @@
               <l>Qui veut du bien d’un autre enrichir votre espoir ;</l>
               <l>Et…</l>
             </quote>
-            <p>Abus du stile figuré. J’ai remarqué il y a trois ou quatre ans sur le <hi rend="i">Misanthrope</hi> que le langage familier admettait de nos jours bien moins de figures que sous <pb><pb n="40"/></pb>Louis XIV. Notre commerce avec les Anglais est, je crois, en partie cause de ce changement.</p>
+            <p>Abus du stile figuré. J’ai remarqué il y a trois ou quatre ans sur le <hi rend="i">Misanthrope</hi> que le langage familier admettait de nos jours bien moins de figures que sous <pb n="40"/>Louis XIV. Notre commerce avec les Anglais est, je crois, en partie cause de ce changement.</p>
           </div>
           <div>
             <head>[Acte III, scène IV]</head>
@@ -1971,7 +1971,7 @@
               <l>Sacrifiez à Dieu toute votre colère,</l>
               <l>Et remettez le fils en grâce avec le père.</l>
             </quote>
-            <p>Scène qui me semble ennuyeuse ; Tartuffe étant un hypocrite comme le spectateur en a la preuve, à quoi bon le mettre à pied de mur, puisqu’il n’y a pas de spectateurs ? Cléante pouvait tout au plus lui faire une <pb><pb n="43"/></pb>menace énergique de quatre vers, appuyée de la vue d’un pistolet. Voilà la nature, mais était-elle bonne à mettre en scène.</p>
+            <p>Scène qui me semble ennuyeuse ; Tartuffe étant un hypocrite comme le spectateur en a la preuve, à quoi bon le mettre à pied de mur, puisqu’il n’y a pas de spectateurs ? Cléante pouvait tout au plus lui faire une <pb n="43"/>menace énergique de quatre vers, appuyée de la vue d’un pistolet. Voilà la nature, mais était-elle bonne à mettre en scène.</p>
             <quote rend="border">
               <label rend="sc">Cléante</label>
               <l>Quoi ! le foible intérêt de ce qu’on pourra croire</l>
@@ -2001,7 +2001,7 @@
               <l>Et cette vie, hélas ! que vous m’avez donnée,</l>
               <l>Ne me la rendez pas, mon père, infortunée.</l>
             </quote>
-            <p><pb><pb n="44"/></pb>Belle ombre qui prépare très bien la scène d’Orgon sous la table.</p>
+            <p><pb n="44"/>Belle ombre qui prépare très bien la scène d’Orgon sous la table.</p>
             <quote rend="border">
               <label>
                 <hi rend="sc">Orgon</hi>
@@ -2039,7 +2039,7 @@
               <l>Et planter dans mon âme une constante foi</l>
               <l>Des charmantes bontés que vous avez pour moi.</l>
             </quote>
-            <p>Voilà un homme d’esprit et de caractère mais qui a <pb><pb n="45"/></pb>conservé le ridicule de ses termes de piété. Au reste, il est assez malaisé d’avoir deux langages. On peut citer en exemple les comédiens qui, quand ils sont bons, sont dans le monde ce qu’ils sont sur la scène, et qui, quand ils sont mauvais comme Alex. Duval, portent sur la scène ce qu’ils sont dans la société.</p>
+            <p>Voilà un homme d’esprit et de caractère mais qui a <pb n="45"/>conservé le ridicule de ses termes de piété. Au reste, il est assez malaisé d’avoir deux langages. On peut citer en exemple les comédiens qui, quand ils sont bons, sont dans le monde ce qu’ils sont sur la scène, et qui, quand ils sont mauvais comme Alex. Duval, portent sur la scène ce qu’ils sont dans la société.</p>
             <quote rend="border">
               <label>
                 <hi rend="sc">Elmire</hi>
@@ -2106,7 +2106,7 @@
               <l>Péchez plutôt encor de cet autre côté.</l>
             </quote>
             <p>Passage mis pour la police de Parlement et de M<hi rend="sup">gr</hi> l’Archevêque, et que l’on fait fort bien de supprimer.</p>
-            <p>Si Cléante a de l’esprit, ce dont sa scène avec Tartuffe me fait un peu douter, il doit savoir qu’un sot tel <pb><pb n="47"/></pb>qu’Orgon, est incapable de se conduire par raisonnement, et qu’il est de ces gens qui ne marchent qu’en vertu de leurs préjugés, et que ce qu’il y a de pis c’est de les accoutumer à raisonner leur conduite, « On dit, on fait, c’est l’usage, » doivent être leurs lois suprêmes sans cela il n’est pas de bêtise alors où ils ne puissent tomber.</p>
+            <p>Si Cléante a de l’esprit, ce dont sa scène avec Tartuffe me fait un peu douter, il doit savoir qu’un sot tel <pb n="47"/>qu’Orgon, est incapable de se conduire par raisonnement, et qu’il est de ces gens qui ne marchent qu’en vertu de leurs préjugés, et que ce qu’il y a de pis c’est de les accoutumer à raisonner leur conduite, « On dit, on fait, c’est l’usage, » doivent être leurs lois suprêmes sans cela il n’est pas de bêtise alors où ils ne puissent tomber.</p>
             <p>F<hi rend="sup">y</hi> [Fleury] par manque de caractère trouvait toujours au milieu de l’action une objection nou[velle] au raisonnement par lequel il s’est décidé.</p>
             <quote>
               <l>Les préjugés, ami, sont une loi du vulgaire,</l>
@@ -2128,7 +2128,7 @@
               <l>Et pouvoir, à plaisir, sur ce muffle asséner</l>
               <l>Le plus grand coup de poing qui se puisse donner.</l>
             </quote>
-            <p>On a tort de supprimer ces quatre vers qui relèvent un peu Orgon, et nous rappellent l’homme qui s’est distingué dans les guerres de la Fronde. Orgon n’intéresse plus comme étant tombé trop bas. Au reste c’est une terrible épreuve que celle de cent cinquante ans passés sur une pièce comique. On voit ce que cette masse d’années peut faire même sur une Tragédie dans le sort de <hi rend="i">Bajazet</hi> (Feuilleton du 4 novembre 1813. Jadis on <pb><pb n="48"/></pb>s’intéressait à Atalide ; aujourd’hui que l’amour partage l’empire du théâtre avec les autres passions, c’est Roxane qui est l’objet de l’intérêt.</p>
+            <p>On a tort de supprimer ces quatre vers qui relèvent un peu Orgon, et nous rappellent l’homme qui s’est distingué dans les guerres de la Fronde. Orgon n’intéresse plus comme étant tombé trop bas. Au reste c’est une terrible épreuve que celle de cent cinquante ans passés sur une pièce comique. On voit ce que cette masse d’années peut faire même sur une Tragédie dans le sort de <hi rend="i">Bajazet</hi> (Feuilleton du 4 novembre 1813. Jadis on <pb n="48"/>s’intéressait à Atalide ; aujourd’hui que l’amour partage l’empire du théâtre avec les autres passions, c’est Roxane qui est l’objet de l’intérêt.</p>
           </div>
           <div>
             <head>[Acte V, scène V]</head>
@@ -2196,46 +2196,46 @@
           <p rend="b">La marche de cette pièce n’est pas rapide, il est vrai, mais Molière peint parfaitement bien tout ce qu’il rencontre.</p>
           <p>Orgon est un sot et une âme étroite. Tartuffe un homme fin, un bon comédien qui ne peut se défaire en parlant a Elmire des manières de parler ridicules, qui, par l’usage journalier, sont devenues habituelles chez lui. Damis est un jeune homme nullement remarquable par l’esprit, il en est de même du raisonneur Cléante. Dorine qui est toujours prête à employer l<hi rend="i">’industrie</hi>, a beaucoup d’esprit. La dignité d’Elmire nous cache le sien. L’esprit d’une jeune femme décente, est diablement voilé en France, pour les convenances. Tartuffe est un personnage en dedans qui ne fait jamais de confidences à personne. Ses confidences auraient fait mal au cœur.</p>
           <p rend="b">De qui rit-on dans cette pièce ?</p>
-          <p>Il faut avouer qu’on rit peu. Voilà un défaut auquel il était facile à un homme tel que Molière de remédier, placer par exemple un vrai dévot à côté de Tartuffe, un vieil évêque pieux, oncle d’Elmire âgé de soixante-dix ans et retiré à Paris, comme l’ancien évêque d’Alais, <pb><pb n="51"/></pb>M<hi rend="sup">r</hi> de Bausset<anchor xml:id="footnote20"/><note place="bottom">Le cardinal Louis-François de Bausset, de l’Académie française, né à Pondichéry le 14 décembre 1748, mort le 21 juin 1824.</note> où il jouit de beaucoup de considération dans la clique dévote. C’est en sa présence que l’attaque de Cléante qui commence le quatrième acte aurait été sensée. Il importe à Tartuffe que ce saint homme ne soit pas contre lui. Il le ménage extrêmement. C’est dans le désir de se le concilier, qu’on pourrait trouver le moyen de nous montrer une ou deux fois Tartuffe désapointé. L’évêque dirait à Orgon devant Tartuffe : Ces messieurs sont infâmes, en parlant des mornes prêches par Tartuffe un instant auparavant. Celui-ci trouverait moyen de se retourner. À la fin, l’évêque qui a assez d’esprit, serait convaincu de la scélératesse de Tartuffe, mais pour ne pas nuire dans le public à la cause de la religion ne voudrait rien faire contre lui. Voilà une source de mouvement. D’ailleurs dans cet évêque, on pouvait présenter, toute police à part, les ridicules des vrais dévots, montrer combien il est facile d’abuser de quelques-unes de leurs maximes.</p>
+          <p>Il faut avouer qu’on rit peu. Voilà un défaut auquel il était facile à un homme tel que Molière de remédier, placer par exemple un vrai dévot à côté de Tartuffe, un vieil évêque pieux, oncle d’Elmire âgé de soixante-dix ans et retiré à Paris, comme l’ancien évêque d’Alais, <pb n="51"/>M<hi rend="sup">r</hi> de Bausset<anchor xml:id="footnote20"/><note place="bottom">Le cardinal Louis-François de Bausset, de l’Académie française, né à Pondichéry le 14 décembre 1748, mort le 21 juin 1824.</note> où il jouit de beaucoup de considération dans la clique dévote. C’est en sa présence que l’attaque de Cléante qui commence le quatrième acte aurait été sensée. Il importe à Tartuffe que ce saint homme ne soit pas contre lui. Il le ménage extrêmement. C’est dans le désir de se le concilier, qu’on pourrait trouver le moyen de nous montrer une ou deux fois Tartuffe désapointé. L’évêque dirait à Orgon devant Tartuffe : Ces messieurs sont infâmes, en parlant des mornes prêches par Tartuffe un instant auparavant. Celui-ci trouverait moyen de se retourner. À la fin, l’évêque qui a assez d’esprit, serait convaincu de la scélératesse de Tartuffe, mais pour ne pas nuire dans le public à la cause de la religion ne voudrait rien faire contre lui. Voilà une source de mouvement. D’ailleurs dans cet évêque, on pouvait présenter, toute police à part, les ridicules des vrais dévots, montrer combien il est facile d’abuser de quelques-unes de leurs maximes.</p>
           <p>Je trouve à cette pièce un peu du défaut de <hi rend="i">Télémaque</hi>, les caractères n’y sont pas marqués par assez de traits. Tartuffe par exemple gagne une grande fortune à bon marché. Il n’est embarrassé qu’une fois à l’accusation de Damis, et il se justifie avec tant de facilité que réellement il n’y a pas de mérite. Le personnage du vieil évêque est un premier aperçu dans un moment où malgré moi je pense à plusieurs choses (je crains que la comtesse S. ne dissimule avec moi, and…… mais il aurait cet avantage d’embarrasser un peu Tartuffe.</p>
-          <p><pb><pb n="52"/></pb>Sans doute en fesant Orgon moins bête, Tartuffe aurait plus à faire. Mais faire Orgon moins crédule, n’est-ce pas le dénaturer ? Tartuffe a à ménager en général son parti, en particulier sa dupe. Pourquoi ne pas le montrer recevant un des matadors de son parti et lui donnant à déjeuner ? Mélange comique de la sensualité et du langage mortifié de la pénitence. Les repas sont froids à la scène.</p>
+          <p><pb n="52"/>Sans doute en fesant Orgon moins bête, Tartuffe aurait plus à faire. Mais faire Orgon moins crédule, n’est-ce pas le dénaturer ? Tartuffe a à ménager en général son parti, en particulier sa dupe. Pourquoi ne pas le montrer recevant un des matadors de son parti et lui donnant à déjeuner ? Mélange comique de la sensualité et du langage mortifié de la pénitence. Les repas sont froids à la scène.</p>
           <p rend="b">Pourquoi nous montrer Orgon tout séduit ? Cela n’a-t-il pas des inconvénients analogues à nous montrer Dandin contrit et humilié, tout à fait guéri de la vanité qui lui a fait faire un mariage noble, et préparé à recevoir avec soumission tous les camouflets qu’il peut lui attirer ? Une scène de séduction nous aurait montré comment Tartuffe s’y est pris pour arriver au point où nous le voyons.</p>
           <p rend="b">Il convierait Orgon à quelque mauvaise action, les anciens principes d’honneur s’opposant chez un sot, aux suggestions d’un homme de beaucoup d’esprit qui les surmonte avec le langage mielleux de la dévotion et par les maximes de la religion, formait une scène du plus haut comique.</p>
           <p rend="b">Pour faire rire, de tems en tems, Tartuffe serait arrêté court, un instant, par un argument jaculatoire d’Orgon, une question, etc. Cette scène dans L… est bonne, mais bien moins comique puisque L… n’est pas un homme éminemment dévot comme Tartuffe.</p>
           <p rend="b">Voilà deux objections qui me semblent dignes de la pièce.</p>
-          <p>La première qu’il fallait nous montrer Tartuffe en <pb><pb n="53"/></pb>danger, par le moyen du vieil eveque, si l’on veut, a qui Orgon aurait fait confidence des maximes à lui inspirées par Tartuffe, maximes dont le vieil évêque s’effaroucherait.</p>
+          <p>La première qu’il fallait nous montrer Tartuffe en <pb n="53"/>danger, par le moyen du vieil eveque, si l’on veut, a qui Orgon aurait fait confidence des maximes à lui inspirées par Tartuffe, maximes dont le vieil évêque s’effaroucherait.</p>
           <p rend="b">La deuxième qu’il fallait nous montrer Tartuffe exerçant son métier, c’est-à-dire séduisant Orgon.</p>
           <p>Les défauts de la pièce sont iº d’être un peu froide, une des causes c’est que l’action marche lentement.</p>
           <p>2º qu’on y rit trop peu.</p>
           <p rend="b">Une des causes de la froideur c’est sans doute l’imbécillité presque obligée d’Orgon.</p>
           <p rend="b">On pourrait remédier à ce défaut en le doublant du vieil évêque.</p>
           <p>Ou en le fesant amoureux de sa femme à laquelle il aurait tout confié. Au premier abord ce second moyen semble rendre difficile la scène de la table, mais cela peut s’arranger. Cet amour motive même la tentative de séduction de Tartuffe, qui ne serait plus mu simplement par l’envie d’ — cette femme, mais qui aurait le motif plus digne d’un ambitieux hypocrite, que, pour mener tout à fait Orgon, il a besoin d’être d’accord avec sa femme. Cela préviendrait la critique de La Bruyère (Article <hi rend="i">Onuphre</hi>)<anchor xml:id="footnote21"/><note place="bottom"><quote>« <hi rend="i">Onuphre</hi> n’a pour tout lit qu’une housse de serge grise, mais il couche sur le cotou et sur le duvet ; de même, il est habillé simplement, mais commodément, je veux dire d’une étoffe fort légère en été, et d’une autre fort moelleuse pendant l’hiver ; il porte des chemises très déliées, qu’il a un très grand soin de bien cacher. Il ne dit point ma hairc et ma discipline ; au contraire, il passerait pour ce qu’il est : pour un hypocrite, et il veut passer pour ce qu’il n’est pas, pour un homme dévot. Il est vrai qu’il fait en sorte que l’on croie, sans qu’il le dise, qu’il porte une haire et qu’il se donne la discipline »</quote> (La Bruyère, <hi rend="i">les Caractères</hi>, Paris, Didot. 1853, in-8, « De la Mode », p. 443.)</note>, qui au reste me semble peu fondée.</p>
-          <p>Je crois que le succès de la pièce est dû en partie à la <pb><pb n="54"/></pb> scène de la table, qui est le <hi rend="i">qu’il mourût</hi> de la comédie.</p>
+          <p>Je crois que le succès de la pièce est dû en partie à la <pb n="54"/> scène de la table, qui est le <hi rend="i">qu’il mourût</hi> de la comédie.</p>
           <p>Quels seraient les moyens de faire rire davantage dans le <hi rend="i">Tartuffe</hi> ?</p>
           <p>Écrit à Milan dans l’intervalle des rendez-vous du 9 au il novembre 1813<note place="bottom">Avec la comtesse Simonetta.</note>. Lu à Milan le 8 mars 1816, malade de battemens d’artère nerveux. Approuvé autant que le permet le peu d’attention que je me permets. Si je meurs, regret d’avoir fait l’Amour], au lieu de travailler au genre Mocenigo.</p>
         </div>
       </div>
       <div>
-        <head><pb><pb n="55"/></pb> III.
+        <head><pb n="55"/> III.
 <lb/>L’Avare</head>
-        <label><pb><pb n="57"/></pb><hi rend="sc">L’Avare peut-il être ridicule</hi><note place="bottom">À la fin du vol. IV du Molière. — Dans le vol. VI, p. 5, de l’édit. Didot</note> ?</label>
+        <label><pb n="57"/><hi rend="sc">L’Avare peut-il être ridicule</hi><note place="bottom">À la fin du vol. IV du Molière. — Dans le vol. VI, p. 5, de l’édit. Didot</note> ?</label>
         <p rend="b">Oui.</p>
         <p>1º Le <hi rend="i">véritable Avare</hi>, en le montrant pusillanime à force d’avarice, n’osant rien hasarder, manquant les plus belles occasions de gagner, de doubler ses fonds et se désespérant ensuite de ne pas avoir fait ces spéculations, en un mot, se trompant sur la chose où sa passion lui fait croire qu’est le bonheur.</p>
         <p>2º (Deuxième espèce d’Avare) l’<hi rend="i">Ambitieux de plaisirs ou d’honneurs voulant aller h son but en amassant de Vargent.</hi> Il est ridicule quand on le montre prenant le moyen pour le but, manquant les plus belles occasions de plaisirs ou d’honneurs, faute de vouloir faire quelque dépense. Il est ensuite instruit de sa bévue par un Railleur, son antagoniste ordinaire qui lui rend ces pertes cuisantes, en lui faisant sentir la douceur des plaisirs manqués<anchor xml:id="footnote22"/><note place="bottom">5 On a joué <hi rend="i">l’Avare</hi>, le mardi 1er février 1814, avec Lacave, Michelot, Van-hove, Faure, Dumilâtre, Cartigny, Baudrier, Firmin, Artiguenave. Mmes Dupuis, Michelot, Dupont ; il fut repris le vendredi, 4 mars 1814, avec Michot en plus ; Faure, Cartigny en moins ; et les mêmes femmes.</note>.</p>
         <p>(Destouches a décrit un Avare de ce genre dans <hi rend="i">le Dissipateur</hi>, je crois<anchor xml:id="footnote23"/><note place="bottom"><p>C’est bien dans <hi rend="i">le Dissipateur</hi> qui fut joué à la Comédie-Française le samedi 15 janvier et le samedi 5 mars 1814, avec la distribution : Fleury, Saint-Fai, Armand, Desprez, Vanhove, Firmin. Melle Emilie Contât, Bourgoin, Mars. Michelot. Regnier. Dupont :</p><quote rend="border"><label>GERONTE, <stage>oncle du dissipateur Cléon</stage> :</label><p>… J’entre, j’ouvre mon coffre, et puis mon cher argent Me console. J’en ai de quoi remplir deux pipes :</p><p>…………….*</p></quote><p rend="margin">* Voyez au Chapitre Livre la définition de ces mots.</p></note>.)</p>
-        <p><pb><pb n="58"/></pb> Quant à l’<hi rend="i">Avare</hi> de Molière, c’est un caractère bien peint, mais comme on ne le montre point se trompant, dans sa passion, le comique glisse sur lui, et les positions comiques où Molière le montre ne s’élèvent pas au-dessus de <hi rend="i">la plaisanterie</hi>, ne produisent que de la plaisanterie. au lieu de fournir du comique<note place="bottom">Page 73 - LE DISSIPATEUR ou l’honneste Friponne, Comédie, par M ; Nericault Destouches, de l’Académie Françoise. À Paris, chez Prault père, Quay de Gêvres, au Paradis - M. DCC.XXXVI. Avec Approbation et privilège du Roy ; Pet ; in-8.</note>.</p>
+        <p><pb n="58"/> Quant à l’<hi rend="i">Avare</hi> de Molière, c’est un caractère bien peint, mais comme on ne le montre point se trompant, dans sa passion, le comique glisse sur lui, et les positions comiques où Molière le montre ne s’élèvent pas au-dessus de <hi rend="i">la plaisanterie</hi>, ne produisent que de la plaisanterie. au lieu de fournir du comique<note place="bottom">Page 73 - LE DISSIPATEUR ou l’honneste Friponne, Comédie, par M ; Nericault Destouches, de l’Académie Françoise. À Paris, chez Prault père, Quay de Gêvres, au Paradis - M. DCC.XXXVI. Avec Approbation et privilège du Roy ; Pet ; in-8.</note>.</p>
         <ab type="ornament">* * *</ab>
         <p>[Note <num>i</num>, page 16 (édition in-8º de 1804).]</p>
         <p>Cette scène suppose un amour extrême entre Valère et Élise, et ne le prouve point par le coloris. Il fallait attacher en montrant à nu, les sentiments de deux cœurs tendres. On peut se rappeler le premier duo <hi rend="i">del matrimonio segretto.</hi> Cette scène manque donc de chaleur et de vérité dans la couleur.</p>
         <p>L’action de Valère pouvait le mener à être pendu. Il est dans le caractère de <hi rend="i">l’Avare</hi> de mettre sa fille dans un couvent, avec une mince pension alimentaire, et de faire pendre Valère.</p>
-        <p>On pouvait peindre Valère heureux, s’inquiétant peu de l’avenir et cherchant à consoler Élise par sa gaieté, et le tableau de ses espérances. Cette manière pouvait faire naître de charmantes peintures d’amour. Élise aurait <pb><pb n="59"/></pb>paru craintive, tremblante, aurait exposé les uns après les autres les motifs de ses craintes et toutes ses objections auraient été successivement détruites par l’amour et les paroles rassurantes de son amant. Ce moyen avait l’avantage d’amener l’exposition très naturellement, de montrer Valère comme un homme voyant les choses de plus haut.</p>
+        <p>On pouvait peindre Valère heureux, s’inquiétant peu de l’avenir et cherchant à consoler Élise par sa gaieté, et le tableau de ses espérances. Cette manière pouvait faire naître de charmantes peintures d’amour. Élise aurait <pb n="59"/>paru craintive, tremblante, aurait exposé les uns après les autres les motifs de ses craintes et toutes ses objections auraient été successivement détruites par l’amour et les paroles rassurantes de son amant. Ce moyen avait l’avantage d’amener l’exposition très naturellement, de montrer Valère comme un homme voyant les choses de plus haut.</p>
         <p>Valère aurait été peint se moquant davantage des actions de <hi rend="i">l’Avare</hi> ; dans la scène de <hi rend="i">sans dot</hi>, il a l’air uniquement de suivre ses intérêts, et ne se moque pas du ridicule de l’<hi rend="i">Avare</hi> : Cette manière aurait aidé le parterre à rire du comique de ces scènes, Valère aurait fait des plaisanteries sur le caractère, et aurait ainsi paru plus brillant et plus noble, ces deux sensations ne sont point données par la pièce. Valère a l’air trop intendant : il y avait une source de comique gracieux, en montrant Valère faisant des balourdises dans son métier et cherchant en plaisantant comment il doit s’y prendre pour bien s’en tirer.</p>
         <p rend="b">Cette scène peut être parfaitement vraie pour M. de Roicy, mais arrangée à notre manière, elle lui serait plus agréable (‘pourvu toutefois qu’il n’y eût pas trop de passion)</p>
         <p rend="b">Des scènes de cette nature feraient une peinture nationale, peu agréable peut-être, mais qui peindrait parfaitement nos mœurs, au philosophe qui, dans mille ans, voudrait les connaître.</p>
         <ab type="ornament">* * *</ab>
         <p>[Nº 2, page 21.]</p>
         <p rend="b">Le coloris de cette scène ne prouve point encore la résolution forte qui y est énoncée. On est fâché de voir</p>
-        <p><pb><pb n="60"/></pb> Cléante se proposer d’aller <hi rend="i">chercher en d’autres lieux la fortune que le ciel voudra lui offrir.</hi> Ce manque de raison affaiblit tout ce qu’il dit contre son père.</p>
+        <p><pb n="60"/> Cléante se proposer d’aller <hi rend="i">chercher en d’autres lieux la fortune que le ciel voudra lui offrir.</hi> Ce manque de raison affaiblit tout ce qu’il dit contre son père.</p>
         <p rend="b">Il fallait dès l’abord précipiter le spectateur au milieu d’un événement qui lui fit conclure tout ce que Cléante avance, lui fît voir son genre de vie, et une partie des rapports d’Harpagon avec le monde.</p>
         <p rend="b">Je ne sais pourquoi Molière, dont le caractère mélancholique sentit si bien l’amour et la jalousie, s’est refusé la peinture d’amants passionnés, le meilleur passeport pour faire tout passer, même la plus sublime philosophie.</p>
         <ab type="ornament">* * *</ab>
@@ -2245,17 +2245,17 @@
         <ab type="ornament">* * *</ab>
         <p rend="b">[Note 3, page 29.]</p>
         <p>Marmontel, tome 2, page 143, édition complète, assure que Molière a mis <hi rend="i">l’autre.</hi></p>
-        <p><hi rend="i">Les autres</hi> nous paraît un mot exagéré dans tous les cas. Si l’Avare était plus passionné dans cette scène, il pourrait dire l’autre, et ne se rappelant plus ou plutôt craignant de n’avoir pas assez examiné la première : <pb><pb n="61"/></pb><pb/>mais l’Avare n’est point passionné dans cette scène, il ne fait à ses yeux qu’exécuter un devoir.</p>
+        <p><hi rend="i">Les autres</hi> nous paraît un mot exagéré dans tous les cas. Si l’Avare était plus passionné dans cette scène, il pourrait dire l’autre, et ne se rappelant plus ou plutôt craignant de n’avoir pas assez examiné la première : <pb n="61"/><pb/>mais l’Avare n’est point passionné dans cette scène, il ne fait à ses yeux qu’exécuter un devoir.</p>
         <p><hi rend="i">Pendre un haut de chausse</hi> nous semble naturel dans un homme qui, songeant toujours aux voleurs, regarde la potence comme le seul moyen d’empêcher de prendre ou de recéler.</p>
         <p>Ce qui fait rire dans le reste de la scène, c’est le désapointement de vanité que reçoit l’Avare, désapointement qui serait bien plus grand si l’Avare étoit le comte de Barral<note place="bottom">Avare de qualité et homme d’esprit qui florissait à Grenoble, vers 1770 grand-père je crois de mon ami, le Vicomte.</note>. Le pot de chambre jeté avec une manche de livrée, la seringue pour tirer le bouillon, la malle pleine de bougie.</p>
         <p rend="b">Le comte de B… surpris dans l’action de tirer le bouillon avec une seringue est vraiment comique parce que la vanité est en souffrance. Au lieu du comte, vous mettez M. Gérard, un plat apothicaire de la Grande Rue, le comique diminue beaucoup : où l’on voit que Molière a manqué le principal moyen de rendre l’Avare comique, c’est de le montrer obligé à un certain faste.</p>
         <p>On objecte que l’Avare, se soumettant encore à un certain faste, n’est pas l’avare pur ; on répond que l’Avare pur ayant cent mille livres de rentes et vivant avec 10 sols par jour, ne donnerait au parterre que le plaisir de la singularité, on dirait c’est un personnage de petites maisons (voir l’excellent M. Edger, <hi rend="i">Bibliothèque britannique</hi><anchor xml:id="footnote25"/><note place="bottom"><hi rend="i"> Bibliothèque britannique</hi>, rédigée par Auguste Pictet et F.-G. Maurice. Genève, 1796-1815, 140 vol. in-8.</note>, vers 1804).</p>
-        <p>Nous avons conçu l’Avarice, Louis et moi, en nous <pb><pb n="62"/></pb> supposant économisant et dînant avec 30 sols pour faire un grand voyage qui exige 100 louis. Parvenus à cette somme l’habitude est prise, l’on trouve du plaisir aux privations, par l’effet de la passion de voyager. Ayant ces 100 louis dans notre secrétaire, nous nous ferions quelques raisonnements pour nous prouver qu’il nous en faut 200 pour faire ce voyage avec agrément. Le voyage sera éloigné plusieurs fois sous des prétextes.</p>
+        <p>Nous avons conçu l’Avarice, Louis et moi, en nous <pb n="62"/> supposant économisant et dînant avec 30 sols pour faire un grand voyage qui exige 100 louis. Parvenus à cette somme l’habitude est prise, l’on trouve du plaisir aux privations, par l’effet de la passion de voyager. Ayant ces 100 louis dans notre secrétaire, nous nous ferions quelques raisonnements pour nous prouver qu’il nous en faut 200 pour faire ce voyage avec agrément. Le voyage sera éloigné plusieurs fois sous des prétextes.</p>
         <p rend="b">Quelle passion nous fera éloigner le voyage ?</p>
         <p>Il arive que <num>iº</num> le sentiment de <hi rend="i">puissance réelle</hi> que me donne la possession de ces beaux doubles Napoléons, et 2º le plaisir de faire des châteaux en Espagne sur cet argent, l’emporte sur le désir du voyage qui s’est affaibli dans mon âme <hi rend="i">occupée</hi> maintenant à faire des châteaux en Espagne, fondés sur ce trésor.</p>
       </div>
       <div>
-        <head><pb><pb n="63"/></pb>IV.
+        <head><pb n="63"/>IV.
 <lb/>Les Fourberies de Scapin</head>
         <div>
           <head>
@@ -2322,7 +2322,7 @@
           <div>
             <head>[Acte premier, scène III]</head>
             <quote rend="border">
-              <label><pb><pb n="67"/></pb> Scène III</label>
+              <label><pb n="67"/> Scène III</label>
               <stage>Hyacinte, Octave, Scapin, Silvestre</stage>
               <label>
                 <hi rend="sc">Hyacinthe</hi>
@@ -2350,7 +2350,7 @@
             <head>[Acte premier, scène VI]</head>
             <label>Scène VI</label>
             <stage>Argante, Scapin ; Silvestre, dans le fond du théâtre.</stage>
-            <p><hi rend="i">Page</hi> 145. Excellente scène de flatterie, et la plus difficile possible puisque le <hi rend="i">flatté</hi> est passionné et qu’on l’interrompt dans la recherche du bonheur de sa passion. Manière <pb><pb n="68"/></pb>d’employer des rognures de caractère. Mais après cette scène traitez si vous pouvez le sujet du <hi rend="i">flatteur.</hi></p>
+            <p><hi rend="i">Page</hi> 145. Excellente scène de flatterie, et la plus difficile possible puisque le <hi rend="i">flatté</hi> est passionné et qu’on l’interrompt dans la recherche du bonheur de sa passion. Manière <pb n="68"/>d’employer des rognures de caractère. Mais après cette scène traitez si vous pouvez le sujet du <hi rend="i">flatteur.</hi></p>
           </div>
           <div>
             <head>[Acte II, scène première]</head>
@@ -2380,7 +2380,7 @@
           <div>
             <head>[Acte II, scène V]</head>
             <quote rend="border">
-              <label><pb><pb n="69"/></pb> Scène V</label>
+              <label><pb n="69"/> Scène V</label>
               <stage>Hyacinthe, Octave, Léandre, Scapin</stage>
               <label>
                 <hi rend="sc">Léandre</hi>
@@ -2409,7 +2409,7 @@
           <div>
             <head>[Acte II, scène VII]</head>
             <quote rend="border">
-              <label><pb><pb n="70"/></pb> Scène VII</label>
+              <label><pb n="70"/> Scène VII</label>
               <stage>Léandre, Octave, Scapin</stage>
               <label rend="sc">Scapin</label>
               <p rend="b">Me traiter de coquin ! de fripon ! de pendard ! d’infâme !</p>
@@ -2501,7 +2501,7 @@
               <p rend="b">Parbleu ! monsieur, je suis un fourbe, ou je suis honnête homme ; c’est l’un des deux.</p>
             </quote>
             <p>La forme du raisonnement, pour le raisonnement qui est inintelligible pour beaucoup d’hommes, c’est comme le charlatan cité par <hi rend="i">my Father</hi>, autre charlatan.</p>
-            <p><pb><pb n="73"/></pb> « Ou mon baume est bon ou il n’est pas bon. S’il est bon, prenez m’en. S’il n’est pas bon, mais il est bon, et il faut encore en prendre. »</p>
+            <p><pb n="73"/> « Ou mon baume est bon ou il n’est pas bon. S’il est bon, prenez m’en. S’il n’est pas bon, mais il est bon, et il faut encore en prendre. »</p>
           </div>
           <div>
             <head>[Acte II, scène XI]</head>
@@ -2540,7 +2540,7 @@
               </label>
               <p rend="b">« Quoi ! jé n’aurai pas l’abantage dé tuer cé Géronte ? »</p>
             </quote>
-            <p><pb><pb n="74"/></pb> Je ne suis point du tout de l’avis de Boileau qui était trop morose pour bien apprécier l’extrême gaieté. Mais je vois deux objections contre le sac : <num>iº</num> On y voit à travers de la toile, mais supposons-la serrée et neuve.</p>
+            <p><pb n="74"/> Je ne suis point du tout de l’avis de Boileau qui était trop morose pour bien apprécier l’extrême gaieté. Mais je vois deux objections contre le sac : <num>iº</num> On y voit à travers de la toile, mais supposons-la serrée et neuve.</p>
             <p>2º Un homme qui est sur les épaules d’un autre sert à l’ébranlement du coffre quand cet autre parle.</p>
             <quote rend="border">
               <label rend="sc">Scapin</label>
@@ -2566,7 +2566,7 @@
               <p rend="b">Il y a à son nom du ron… ronte… Or… Oronle… Non. Gé… Géronte. Oui…</p>
             </quote>
             <p rend="b">Excellente mystification. Il me semble que c’est à peu près le comble de la gaieté. Examiner cela au théâtre.</p>
-            <p><pb><pb n="75"/></pb> Cette scène y manque un peu son effet, parce que l’acteur qui fait le rôle de Géronte le rend trop imbécile. S’il est décidément trop imbécile, je ne me compare plus à lui. Je ne ris plus. Vérifier tout cela aux Français. On joue cette pièce beaucoup trop vite. Les acteurs ne se donnent pas le temps nécessaire pour inventer ce qu’ils disent.</p>
+            <p><pb n="75"/> Cette scène y manque un peu son effet, parce que l’acteur qui fait le rôle de Géronte le rend trop imbécile. S’il est décidément trop imbécile, je ne me compare plus à lui. Je ne ris plus. Vérifier tout cela aux Français. On joue cette pièce beaucoup trop vite. Les acteurs ne se donnent pas le temps nécessaire pour inventer ce qu’ils disent.</p>
             <quote rend="border">
               <label>
                 <hi rend="sc">Zerbinette</hi>
@@ -2597,7 +2597,7 @@
               <p rend="b">Non, mon père, toutes vos propositions de mariage ne serviront de rien…</p>
             </quote>
             <p rend="b">Troisième moyen pour faire avaler.</p>
-            <p>Nous avons le sommaire d’une scène de Molière fait <pb><pb n="76"/></pb> par lui-même. C’est probablement ainsi qu’étaient ses ébauches.</p>
+            <p>Nous avons le sommaire d’une scène de Molière fait <pb n="76"/> par lui-même. C’est probablement ainsi qu’étaient ses ébauches.</p>
             <p>Le dénouement romanesque a au moins le mérite d’être court et clair, mérite qui manque par exemple à celui de l’<hi rend="i">Avare.</hi></p>
             <p>Cette pièce a au suprême degré le mérite de la vivacité. Il me semble évident que Boileau était un mauvais juge de la gaieté. Je trouve <hi rend="i">Les Fourberies de Scapin</hi> meilleures que le <hi rend="i">Glorieux</hi>, la <hi rend="i">Métromanie</hi>, etc. Il y a infiniment plus de talent et de verve. Il lui manque une vingtaine de corrections dans le style, et d’être jouée plus lentement et avec soin. Les acteurs négligent les meilleures pièces, parce qu’elles n’ont pas besoin de leurs soins. C’est le plus flatteur de tous les éloges, que deviendrait la <hi rend="i">Gageure imprévue</hi>, jouée comme les <hi rend="i">Fourberies de Scapin</hi> ?</p>
             <p rend="b">Comme je l’ai remarqué ci-dessus, tout le plaisir que peut donner cette comédie vient de l’effet d’une suite de nuances. Il n’y a ni caractères ni événemens qui soutiennent l’auteur. Si ces nuances délicates ne sont pas peintes avec le plus grand génie on bâille. Or l’on ne bâille pas, au contraire.</p>
@@ -2608,14 +2608,14 @@
         </div>
       </div>
       <div>
-        <head><pb><pb n="77"/></pb> V.
+        <head><pb n="77"/> V.
 <lb/>George Dandin</head>
         <div xml:id="footnote26">
-          <head><pb><pb n="79"/></pb> Notes sur <hi rend="i">George Dandin</hi><note place="bottom">Dans le vol. V du <hi rend="i">Molière</hi>, 6 novembre 1813. — Précède <hi rend="i">Scapin</hi> dans ce vol. — Vol. V, pp. 195-274, de l’éd. Didot. <hi rend="i">George Dandin</hi>, joué le mardi 15 février et le vendredi 25 mars 1814.</note></head>
+          <head><pb n="79"/> Notes sur <hi rend="i">George Dandin</hi><note place="bottom">Dans le vol. V du <hi rend="i">Molière</hi>, 6 novembre 1813. — Précède <hi rend="i">Scapin</hi> dans ce vol. — Vol. V, pp. 195-274, de l’éd. Didot. <hi rend="i">George Dandin</hi>, joué le mardi 15 février et le vendredi 25 mars 1814.</note></head>
           <p rend="b">Je croyais hier de 2 à 7, en ayant les larmes aux yeux, que je n’aurais pas le courage de commenter des comédies à Milan. Le soir, au théâtre de Sainte-Radegonde, ma sensibilité m’a empêché d’être aimable. Jamais au contraire je n’ai vu Gina aussi gaie. Aujourd’hui ma sensibilité d’hier commence à me paraître une duperie en ce qui concerne publi. exisf. Quant au départ ce n’est pas encore le moment de pleurer, puisque nous nous verrons encore plusieurs fois.</p>
           <p rend="b">Il n’eût rien manqué à mon bonheur depuis deux mois, si, dès le 10 ou le 15 septembre, je me fusse mis à lire Molière la plume à la main. Mes occupations d’Auditeur ont si souvent interrompu ce genre de travail que je n’en ai plus l’habitude ; il faut que l’ennui que m’inspirent la société et les livres me jette dans le travail.</p>
           <p rend="b">Cela posé.</p>
-          <p>Quel est le but de Molière dans <hi rend="i">George Dandin</hi> ? Sans doute d’abord de faire rire, mais quelle est la vérité morale qui, dans l’esprit des spectateurs, sert de <pb><pb n="80"/></pb> lien et d’exposition à ses situations comiques et à ses plaisanteries la voici<note place="bottom">Acte I. scène I.</note>.</p>
+          <p>Quel est le but de Molière dans <hi rend="i">George Dandin</hi> ? Sans doute d’abord de faire rire, mais quelle est la vérité morale qui, dans l’esprit des spectateurs, sert de <pb n="80"/> lien et d’exposition à ses situations comiques et à ses plaisanteries la voici<note place="bottom">Acte I. scène I.</note>.</p>
           <quote>
             <l>Ah ! qu’une femme demoiselle est une étrange affaire !</l>
           </quote>
@@ -2636,7 +2636,7 @@
           <p rend="b">Les trois désavantages énoncés ci-dessus, donnent :</p>
           <p><num>iº</num> Combat de la vanité et de l’avarice.</p>
           <p>2º La vanité de George Dandin désappointée par les mépris de sa nouvelle société, mépris qui seraient intolérables même à une vanité ordinaire, et Georges Dandin n’en a pas encore fait le sacrifice, il joue encore le digne et l’heureux auprès du bedeau et du notaire de son village, s’il reste riche Paysan ; auprès d’un provincial et d’un marchand de la Rue Saint-Denis, si on le fait monter au rang de Financier.</p>
-          <p><pb><pb n="81"/></pb> Cette vanité, battue dans tous les sens, donne une foule de positions comiques.</p>
+          <p><pb n="81"/> Cette vanité, battue dans tous les sens, donne une foule de positions comiques.</p>
           <p>George Dandin, dans les chasses, dans les dîners, dans les soirées de nobles s’attend à des honneurs qu’il ne reçoit pas. Il a une altercation ridicule avec un valet qui l’annonce mal en estropiant son titre. II a cette susceptibilité, cette inquiétude continuelle que Marmontel nous peint dans M. de Marigny, frère de M<hi rend="sup">me</hi> de Pompadour, et que M<hi rend="sup">me</hi> la comtesse S[imonetta] me disait hier que T. avait, parce qu’il s’était élevé dans la bonne société, n’étant rien originairement.</p>
           <p rend="b">Ainsi sauver de désapointement de vanité G. Dandin s’attendant à des honneurs qu’il ne reçoit point.</p>
           <p>3º Troisième inconvénient d’un tel mariage :</p>
@@ -2652,7 +2652,7 @@
          
 </hi>        :
 </p>
-          <p>La mère, femme de la cour avec les principes de la maréchale de Luxembourg (quand Boufflers parut à la cour), et portant sa fille qui est vertueuse et qui hésite, à prendre un amant en lui demandant si elle a pris ses <pb><pb n="82"/></pb> manières de penser là dans la noble famille de son mari, en se moquant de ses petits scrupules bourgeois.</p>
+          <p>La mère, femme de la cour avec les principes de la maréchale de Luxembourg (quand Boufflers parut à la cour), et portant sa fille qui est vertueuse et qui hésite, à prendre un amant en lui demandant si elle a pris ses <pb n="82"/> manières de penser là dans la noble famille de son mari, en se moquant de ses petits scrupules bourgeois.</p>
           <p><hi rend="i">Troisième situation
          
 </hi>        :
@@ -2671,7 +2671,7 @@
          
 </hi>        :
 </p>
-          <p>Combat de la vanité et du chagrin d’être cocu. Dans <pb><pb n="83"/></pb> un moment où la vanité a le dessus, [X ?] a engagé sa femme à aller à une superbe partie de chasse à Saverne chez le Prince Louis (de Rohan, 1780). Là, il se voit faire cocu, et ce chagrin l’emporte sur la vanité.</p>
+          <p>Combat de la vanité et du chagrin d’être cocu. Dans <pb n="83"/> un moment où la vanité a le dessus, [X ?] a engagé sa femme à aller à une superbe partie de chasse à Saverne chez le Prince Louis (de Rohan, 1780). Là, il se voit faire cocu, et ce chagrin l’emporte sur la vanité.</p>
           <p>Si c’est le prince lui-même qui lui fait cet honneur, il veut se plaindre, il s’avance fièrement vers lui, et, en approchant, le respect le saisit à la gorge (comme Sganarelle armé de pied en cap dans le <hi rend="i">Malade imaginaire</hi>, Grandmesnil), il ne peut plus que balbutier.</p>
           <p rend="b">Sur quoi j’observe qu’il me semble que G. Dandin doit être allemand.</p>
           <p rend="b">C’est chez cette nation que j’ai trouvé les caractères (collection des manières habituelles de chercher le bonheur) les plus approchants de ce que je viens de dire, chez cette nation née pour respecter, et où la noblesse a une si grande influence sur le bourgeois, même dans les signes extérieurs de la vie civile.</p>
@@ -2697,7 +2697,7 @@
           <p>En un mot, Molière pour des raisons à lui connues et que je ne puis discuter nous montre iº Georges Dandin déjà repentant.</p>
           <p>2º Il le montre les trous bouchés et se prive ainsi d’une foule de situations comiques<anchor xml:id="footnote27"/><note place="bottom">Vie convenable, in <hi rend="i">Lutezia for a Mocenigo. The morning</hi>. travailler ; <hi rend="i">the evening, after dinner</hi>. à observer.</note>.</p>
           <p rend="i">La Reconnaissance du comique. </p>
-          <p>Je ne dois pas entièrement me fier au sentiment présent, il faut un peu que cela soit <hi rend="i">science</hi> chez moi. Il faut porter un exemplaire des <hi rend="i">Femmes savantes</hi> aux <pb><pb n="85"/></pb><pb/>Français et noter les endroits où l’on rit. me rappeler ensuite le résultat de ces observations. Il est reconnu que le comique glisse sur tout homme passionné. Il est trop occupé à la recherche du bonheur pour songer à se comparer au personnage ridicule que vous faites passer sous ses yeux. Je suis passionné, ou du moins fortement occupé en étudiant Molière. Donc je puis laisser passer sans rire des choses très comiques qui ont d’ailleurs cet autre inconvénient que je les sais par cœur. Jusqu’ici (page 11) je n’ai pas ri, je me suis seulement rappelé qu’on rit à cette plaisanterie :</p>
+          <p>Je ne dois pas entièrement me fier au sentiment présent, il faut un peu que cela soit <hi rend="i">science</hi> chez moi. Il faut porter un exemplaire des <hi rend="i">Femmes savantes</hi> aux <pb n="85"/><pb/>Français et noter les endroits où l’on rit. me rappeler ensuite le résultat de ces observations. Il est reconnu que le comique glisse sur tout homme passionné. Il est trop occupé à la recherche du bonheur pour songer à se comparer au personnage ridicule que vous faites passer sous ses yeux. Je suis passionné, ou du moins fortement occupé en étudiant Molière. Donc je puis laisser passer sans rire des choses très comiques qui ont d’ailleurs cet autre inconvénient que je les sais par cœur. Jusqu’ici (page 11) je n’ai pas ri, je me suis seulement rappelé qu’on rit à cette plaisanterie :</p>
           <quote>
             <l>Quelque petit savant qui veut venir au monde.</l>
           </quote>
@@ -2707,7 +2707,7 @@
           <div>
             <head>[Acte premier, scène II]</head>
             <quote rend="border">
-              <label><pb><pb n="86"/></pb> ACTE premier
+              <label><pb n="86"/> ACTE premier
 <lb/>Scène II</label>
               <stage>George Dandin, Lubin</stage>
               <label>
@@ -2759,7 +2759,7 @@
               <p rend="b">Il me faut, de ce pas, aller faire mes plaintes au père et à la mère, et les rendre témoins, à telle fin que de raison, des sujets de chagrin et de ressentiments que leur fille me donne.</p>
               <p rend="b">Mais les voici l’un et l’autre fort à propos.</p>
             </quote>
-            <p>Fin de la I<hi rend="sup">re</hi> phrase comique (terme de musique). Avant <pb><pb n="88"/></pb> de sortir de Paris j’ai distingué dans le <hi rend="i">Tartufe</hi> les phrases ou sujets d’attention qui renferment une moitié d’acte, un acte.</p>
+            <p>Fin de la I<hi rend="sup">re</hi> phrase comique (terme de musique). Avant <pb n="88"/> de sortir de Paris j’ai distingué dans le <hi rend="i">Tartufe</hi> les phrases ou sujets d’attention qui renferment une moitié d’acte, un acte.</p>
           </div>
           <div>
             <head>[Acte premier, scène IV]</head>
@@ -2784,7 +2784,7 @@
           <div>
             <head>[Acte premier, scène V]</head>
             <quote rend="border">
-              <label><pb><pb n="89"/></pb> Scène V</label>
+              <label><pb n="89"/> Scène V</label>
               <stage>Monsieur de Sotenville, Clitandre, George Dandin</stage>
               <label rend="sc">Monsieur de Sotenville</label>
               <p rend="b">Mon nom est connu à la cour ; et j’eus l’honneur, dans ma jeunesse, de me signaler des premiers à l’arrière-ban de Nancy.</p>
@@ -2809,7 +2809,7 @@
               </label>
               <p>Me croyez-vous capable, monsieur, d’une action aussi lâche que celle-là ? Moi, aimer une jeune et belle personne qui a l’honneur d’être la fille de M. le baron de Sotenville !</p>
             </quote>
-            <p><pb><pb n="90"/></pb><hi rend="i"> Jeune</hi> et <hi rend="i">belle</hi>, bonne plaisanterie faite en parlant à l’homme même qu’on tourne en ridicule.</p>
+            <p><pb n="90"/><hi rend="i"> Jeune</hi> et <hi rend="i">belle</hi>, bonne plaisanterie faite en parlant à l’homme même qu’on tourne en ridicule.</p>
             <quote rend="border">
               <label>
                 <hi rend="sc">Monsieur de Sotenv
@@ -2838,7 +2838,7 @@
               <label rend="sc">George Dandin</label>
               <p rend="b">Taisez-vous, vous dis-je ; vous pourriez bien porter la folle enchère de tous les autres ; et vous n’avez pas de père gentilhomme.</p>
             </quote>
-            <p><pb><pb n="91"/></pb> Trait d’esprit (mais déraisonnable) qui illumine la situation.</p>
+            <p><pb n="91"/> Trait d’esprit (mais déraisonnable) qui illumine la situation.</p>
           </div>
           <div>
             <head>[Acte premier, scène VIII]</head>
@@ -2867,7 +2867,7 @@
           <div>
             <head>[Acte premier, scène IX]</head>
             <quote rend="border">
-              <label><pb><pb n="92"/></pb> Scène IX</label>
+              <label><pb n="92"/> Scène IX</label>
               <label>
                 <hi rend="sc">George Dandin</hi>
                 <stage> </stage>
@@ -2884,7 +2884,7 @@
           <div>
             <head>[Acte II, scène première]</head>
             <quote rend="border">
-              <label><pb><pb n="93"/></pb> Acte II
+              <label><pb n="93"/> Acte II
 <lb/>Scène première</label>
               <stage>Claudine, Lubin</stage>
               <label>
@@ -2987,7 +2987,7 @@
           <div>
             <head>[Acte II, scène XIII]</head>
             <quote rend="border">
-              <label><pb><pb n="96"/></pb> Scène XIII</label>
+              <label><pb n="96"/> Scène XIII</label>
               <label>
                 <hi rend="sc">George Dandin</hi>
                 <stage> </stage>
@@ -3025,7 +3025,7 @@
               </label>
               <p rend="b">C’est une grande question, et qui est difficile. Tu es curieux, Lubin.</p>
             </quote>
-            <p><pb><pb n="97"/></pb> Peint bien l’homme d’esprit, qui ne met point aux choses un sérieux bête, qui s’amuse de tout, qui est plein de sang-froid, qui ne traite point une galanterie du stile d’une passion, peint le courtisan.</p>
+            <p><pb n="97"/> Peint bien l’homme d’esprit, qui ne met point aux choses un sérieux bête, qui s’amuse de tout, qui est plein de sang-froid, qui ne traite point une galanterie du stile d’une passion, peint le courtisan.</p>
             <quote rend="border">
               <label>
                 <hi rend="sc">Lubin</hi>
@@ -3068,7 +3068,7 @@
               </label>
               <p rend="b">Personne.</p>
             </quote>
-            <p>C’est dans ces détails qui seraient morts qu’il est permis <pb><pb n="98"/></pb> à l’auteur d’avoir de l’esprit, aux dépens de la vraisemblance.</p>
+            <p>C’est dans ces détails qui seraient morts qu’il est permis <pb n="98"/> à l’auteur d’avoir de l’esprit, aux dépens de la vraisemblance.</p>
           </div>
           <div>
             <head>[Acte III, scène IV]</head>
@@ -3168,7 +3168,7 @@
           <div>
             <head>[Acte III, scène XIV]</head>
             <quote rend="border">
-              <label><pb><pb n="101"/></pb> Scène XIV</label>
+              <label><pb n="101"/> Scène XIV</label>
               <stage>Monsieur et madame de Sotenville, Angélique, George Dandin, Claudine, Colin</stage>
               <label rend="sc">Angélique</label>
               <p rend="b">C’est à moi de vous obéir.</p>
@@ -3183,7 +3183,7 @@
         </div>
       </div>
       <div>
-        <head><pb><pb n="103"/></pb> VI.
+        <head><pb n="103"/> VI.
 <lb/>Les Femmes Savantes</head>
         <div>
           <head>
@@ -3196,24 +3196,24 @@
             <note place="bottom">Dans le vol. VI du <hi rend="i">Molière</hi>. — Dans le vol. VIII, p. 5, de l’édit. Didot.</note>
           </head>
           <p>Si vous lisez une comédie pour votre plaisir, laissez-vous aller. Mais si vous voulez vous instruire dans l’art de Mocenigo, il faut avant de commencer une pièce vous demander quel a été le but de l’auteur. Ces idées me sont venues ce matin en voulant lire les <hi rend="i">Femmes savantes</hi>, pièce sur laquelle je suis loin de voir clair. <num>iº</num> la proposition morale que Molière tend à prouver me semble fausse. Il est important pour le bonheur, que les femmes des maris qui ont 20,000 livres de rente règlent les comptes de l’administration intérieure. Cette dépense étant journalière et nécessairement composée de petits articles, la direction en est importante. D’ailleurs il faut pour le bonheur d’une femme qu’elle ait un travail sérieux pour servir d’ombre aux plaisirs, sans quoi l’ennui de la société la saisirait.</p>
-          <p>Il est évident que deux heures par jour suffisent pour l’administration intérieure, en supposant un cuisinier intelligent qui sache écrire. Ne vaut-il pas mieux pour le bonheur du mari, de la femme et des enfants que <pb><pb n="106"/></pb> passé ces deux heures, elle emploie son temps à lire les douze ou quinze grands poètes, les bons historiens, et les bons romanciers qu’à faire une paire de bas qu’on peut acheter aussi bons pour 6 francs, ou qu’à faire de la tapisserie ? Elle aura moins de disposition à vous faire cocu en faisant des bas ; mais quel plaisir d’avoir une bête ?</p>
+          <p>Il est évident que deux heures par jour suffisent pour l’administration intérieure, en supposant un cuisinier intelligent qui sache écrire. Ne vaut-il pas mieux pour le bonheur du mari, de la femme et des enfants que <pb n="106"/> passé ces deux heures, elle emploie son temps à lire les douze ou quinze grands poètes, les bons historiens, et les bons romanciers qu’à faire une paire de bas qu’on peut acheter aussi bons pour 6 francs, ou qu’à faire de la tapisserie ? Elle aura moins de disposition à vous faire cocu en faisant des bas ; mais quel plaisir d’avoir une bête ?</p>
           <p>La femme du laboureur, de l’artisan, du petit bourgeois doit travailler utilement, mais à partir de 12 ou 15.000 livres de rente, ne vaut-il pas mieux qu’elle acquière des idées et qu’elle devienne capable de donner des conseils à son mari, de l’amuser et même de le suppléer. s’il vient à mourir, pour la conduite de la fortune. Une femme qui lit <hi rend="i">Don Quichotte</hi> et <hi rend="i">Tom Jones</hi> n’est-elle pas plus propre à diriger une famille que celle qui fait dix paires de bas et quatre fauteuils par an ?</p>
           <p>Le caractère de Femme savante ne me paraît donc pas susceptible d’un véritable ridicule, comme par exemple le caractère de <hi rend="i">l’homme qui ne veut pas être cocu</hi>, Arnolphe de <hi rend="i">l’Ecole des femmes.</hi></p>
           <p>2º Exécution. Molière aura recours aux excès de caractères. Les meilleures choses sont susceptibles d’abus. Il donnera donc aux femmes savantes quelques ridicules des savants masculins, mais il ne leur donnera pas des ridicules provenant de la qualité de <hi rend="i">femme</hi> réunie à celle de <hi rend="i">savant.</hi></p>
           <p rend="b">Ici Molière voudrait rendre ridicule aux yeux de tous, et d’une manière très aisée à comprendre, un mal moral (selon lui) qui consiste à ce qu’une femme soit savante.</p>
           <p rend="b">Or quelles sont les positions ridicules de la femme :</p>
           <p>Iº Savante ;</p>
-          <p><pb><pb n="107"/></pb> 2 De la femme poète ? de M<hi rend="sup">me</hi> de Staël par exemple ?</p>
+          <p><pb n="107"/> 2 De la femme poète ? de M<hi rend="sup">me</hi> de Staël par exemple ?</p>
           <p>3º Quels sont les ridicules des savans et des poètes masculins, qui peuvent leur convenir ? rappelons bien qu’aucun être ne peut être ridicule par sa passion, car c’est une manière de chercher le bonheur et je suis seul juge compétent de ce qui me rend heureux ou malheureux. On ne peut être ridicule que par l’effet qu’on croit produit par sa passion : ici il peut y avoir désapointement.</p>
           <p>On ne peut donc pas rendre ridicule la femme qui aime les lettres pour les lettres, celle qui s’enferme dans son boudoir pour lire les Tragédies de Schiller, pas plus que celle qui s’y enferme pour… ou pour mâcher du morin<note place="bottom">Morin, <hi rend="i">le Sumac des corroyeurs</hi>.</note>. Comment faire voir aux spectateurs qu’elles se trompent dans cette manière de chercher le bonheur ? On peut seulement les peindre comme singulières, ce qui inspire l’intérêt de la curiosité comme le caractère du juif Shylock, dans le <hi rend="i">Juif de Venise</hi>, qui veut couper en vertu de son contrat une livre de chair à Lotharic ; mais cela ne fait ni rire ni pleurer.</p>
           <p>M<hi rend="sup">me</hi> de Staël peut désirer que le public la regarde comme un génie créateur. On voit dans les mémoires de Collé que M<hi rend="sup">me</hi> Dubocage et M<hi rend="sup">me</hi> de Graffigny avaient un peu de ridicule.</p>
           <p>M<hi rend="sup">me</hi> de Staël peut désirer d’être regardée comme un grand caractère. Je suppose que ce fut le but d’une autre suédoise laboliquante ? Christine.</p>
           <p>M<hi rend="sup">me</hi> Necker me semble avoir été un ambigu de femme savante, pédante, de prude et d’ambitieuse.</p>
           <p>Donc M<hi rend="sup">me</hi> de Staël peut avoir les Ridicules :</p>
-          <p><pb><pb n="108"/></pb><num>iº</num> De se trouver inconnue quand elle se croit l’objet des regards du public ;</p>
+          <p><pb n="108"/><num>iº</num> De se trouver inconnue quand elle se croit l’objet des regards du public ;</p>
           <p>2º Quand elle croit avoir inspiré par sa conduite la vénération, se trouver l’objet des plaisanteries de tout le monde. Supposons Christine assistant incognito au souper de Louis XIV, Guillaume III, Victor-Amédée, Malborough, le Prince Eugène, etc., étant venue là pour s’entendre louer et se trouvant accablée de plaisanteries par le Prince Eugène qui était bien piémontais, bien fier, bien caustique, bien traître.</p>
           <p>3º M<hi rend="sup">me</hi> Necker croyant servir l’ambition qu’elle avait pour son mari, par l’affiche de ses connaissances littéraires. Elle est dans un salon de la Cour où elle découvre que ce genre de connaissance lui a nui infiniment auprès des gens de la Cour qui influent sur le choix des ministres, au moment où elle se défend le mieux qu’elle peut d’aimer la littérature ; un sot de la Cour, enchanté d’avoir quelque chose à dire, et de se voir écouté une seule fois dans sa vie, vient lire à ces dames un manuscrit qu’on lui a, dit-il, prêté pour quatre heures seulement et qui fait un bruit du diable à Paris d’où il arrive ; ce manuscrit est de M<hi rend="sup">me</hi> de Necker et propre par son sujet à lui aliéner de plus les femmes de la Cour : désapointement donc, ridicule possible. Mais, si réellement savante, pour le plaisir de l’État, elle eût composé son ouvrage pour le plaisir de le composer, et qu’elle ne fût pas ambitieuse, que pourrait-on lui dire ? tel est mon bon plaisir, répondrait-elle.</p>
-          <p>4º La prude ressemble assez à un Ingénieur, mais non pas des Ponts et Chaussées, cà un Ingénieur militaire qui travaille jour et nuit à des fortifications, qui <pb><pb n="109"/></pb><pb/>oublie de diner et qui se croit très important ; il est ridicule, si on lui montre clairement que personne ne songe à attaquer sa place, qu’il peut diner au long et tranquillement, et que ne rendant aucun service à ses concitoyens, aucun d’eux ne pense à lui. La prude évitant avec beaucoup de soin un tête-à-tête avec un homme qui, enfin, la surprend au bout du jardin, et c’est… pour lui demander le secret sur une intrigue qu’il a avec une des amies de la Prude, intrigue qu’il craint que celle-ci ne soupçonne.</p>
+          <p>4º La prude ressemble assez à un Ingénieur, mais non pas des Ponts et Chaussées, cà un Ingénieur militaire qui travaille jour et nuit à des fortifications, qui <pb n="109"/><pb/>oublie de diner et qui se croit très important ; il est ridicule, si on lui montre clairement que personne ne songe à attaquer sa place, qu’il peut diner au long et tranquillement, et que ne rendant aucun service à ses concitoyens, aucun d’eux ne pense à lui. La prude évitant avec beaucoup de soin un tête-à-tête avec un homme qui, enfin, la surprend au bout du jardin, et c’est… pour lui demander le secret sur une intrigue qu’il a avec une des amies de la Prude, intrigue qu’il craint que celle-ci ne soupçonne.</p>
           <p rend="b">Le ridicule propre du poète est de faire des vers détestables ; du savant, de trouver dans l’analyse d’une eau minérale une substance qui ne puisse pas exister dans l’eau et d’être détrompés, mais ces deux ridicules à force d’être communs ne font plus rire.</p>
           <p rend="b">Philaminte peut admirer de très bonne foi les vers de Trissotin. Ils peuvent lui donner un vrai plaisir. Quel ridicule y a-t-il à cela ! celui d’avoir un mauvais jugement littéraire ? c’est un ridicule bien petit.</p>
           <p>Qu’est-ce que le caractère d’Armande ? son premier mobile est-il le désir de plaire à Clitandre ? en ce cas elle prend une mauvaise voie, comme M<hi rend="sup">me</hi> Necker pour porter son mari au ministère ; dans l’emploi donné ci-dessus, elle est ridicule, mais ce n’est pas en qualité de savante ou de poète, c’est comme coquette.</p>
@@ -3221,7 +3221,7 @@
           <div>
             <head>[Acte premier, scène première]</head>
             <quote rend="border">
-              <label><pb><pb n="110"/></pb> ACTE premier
+              <label><pb n="110"/> ACTE premier
 <lb/>Scène première</label>
               <stage>Armande, Henriette</stage>
               <label>
@@ -3266,7 +3266,7 @@
             <quote>
               <l>Quelque petit savant qui veut venir au monde.</l>
             </quote>
-            <p>Il me semble que Collé, le fond de la scène donnée, eût pu y mettre cinq ou six plaisanteries du ton du plus grand monde, qui auraient fait rire davantage qu’on ne rit actuellement. Cette idée est peut-être téméraire ; d’ailleurs le ton du grand monde s’est, je crois, extrêmement perfectionné de l’an 1672 à l’année 1772. Je ne <pb><pb n="112"/></pb> crois pas qu’à la première de ces époques, il y eut aucun salon aussi agréable, d’aussi bon ton (l’art de se donner du plaisir avec la langue, sans..… et entre indifférens) que celui de M<hi rend="sup">me</hi> Du Deffand<note place="bottom">Ce passage sur le Comique est déjà donné pages 84-85. Comparer les variantes.</note>.</p>
+            <p>Il me semble que Collé, le fond de la scène donnée, eût pu y mettre cinq ou six plaisanteries du ton du plus grand monde, qui auraient fait rire davantage qu’on ne rit actuellement. Cette idée est peut-être téméraire ; d’ailleurs le ton du grand monde s’est, je crois, extrêmement perfectionné de l’an 1672 à l’année 1772. Je ne <pb n="112"/> crois pas qu’à la première de ces époques, il y eut aucun salon aussi agréable, d’aussi bon ton (l’art de se donner du plaisir avec la langue, sans..… et entre indifférens) que celui de M<hi rend="sup">me</hi> Du Deffand<note place="bottom">Ce passage sur le Comique est déjà donné pages 84-85. Comparer les variantes.</note>.</p>
           </div>
           <div>
             <head>[Acte premier, scène II]</head>
@@ -3298,7 +3298,7 @@
           <div>
             <head>[Acte premier, scène III]</head>
             <quote rend="border">
-              <label><pb><pb n="113"/></pb> Scène III</label>
+              <label><pb n="113"/> Scène III</label>
               <stage>Clitandre, Henriette</stage>
               <l>Mais, puisqu’il m’est permis, je vais à votre père,</l>
               <l>Madame…</l>
@@ -3394,7 +3394,7 @@
           <div>
             <head>[Acte II, scène III]</head>
             <quote rend="border">
-              <label><pb><pb n="116"/></pb> ACTE II
+              <label><pb n="116"/> ACTE II
 <lb/>Scène III</label>
               <stage>Bélise (entrant doucement, et écoutant) ; Chrysale, Ariste</stage>
             </quote>
@@ -3410,7 +3410,7 @@
             </quote>
             <p rend="b">On rit parce qu’on voit que Bélise est bien persuadée de son affaire qui est évidemment fausse aux yeux du spectateur, elle est donc très ridicule. Elle plaisante ses frères au sujet sur lequel elle doit, seule, être plaisantée.</p>
             <p rend="b">Ridicule bien du sujet. Bélise s’attache aux mots en vraie pédante au lieu de comprendre la chose. Cela pourait être bien autrement développé. La nature qui, ordinairement, est plus froide que l’art donne une leçon à Molière.</p>
-            <p>Beauzée en rentrant de l’Académie française au logement qu’il avait aux Invalides, trouve l’amant de sa femme qui était avec elle sur un canapé dans la position la moins équivoque. Celui-ci, qui était Allemand, dit à la femme : <quote>« Quand je vous disais qu’il était temps que </quote><pb><pb n="117"/></pb><quote> je m’en aille. — Que je m’en allasse, Monsieur<note place="bottom">Nicolas Beauzée, grammairien, de l’Académie française, né à Verdun 9 mai 1717 ; mort à Paris, 25 janvier 1789.</note>, »</quote> dit Beauzée.</p>
+            <p>Beauzée en rentrant de l’Académie française au logement qu’il avait aux Invalides, trouve l’amant de sa femme qui était avec elle sur un canapé dans la position la moins équivoque. Celui-ci, qui était Allemand, dit à la femme : <quote>« Quand je vous disais qu’il était temps que </quote><pb n="117"/><quote> je m’en aille. — Que je m’en allasse, Monsieur<note place="bottom">Nicolas Beauzée, grammairien, de l’Académie française, né à Verdun 9 mai 1717 ; mort à Paris, 25 janvier 1789.</note>, »</quote> dit Beauzée.</p>
           </div>
           <div>
             <head>[Acte II, scène IV]</head>
@@ -3470,7 +3470,7 @@
           <div>
             <head>[Acte III, scène première]</head>
             <quote rend="border">
-              <label><pb><pb n="119"/></pb>ACTE III
+              <label><pb n="119"/>ACTE III
 <lb/>Scène première</label>
               <stage>Philaminte, Armande, Bélise, Trissotin, Lépine</stage>
               <label rend="sc">Philaminte</label>
@@ -3501,7 +3501,7 @@
               <l>Bien lui prend de n’être pas de verre.</l>
             </quote>
             <p rend="b">Ce mot me rend fades les femmes assez bêtes. C’est peut-être une de ces nuances trop délicates, pour ne pas vieillir d’un siècle à l’autre.</p>
-            <p><pb><pb n="120"/></pb> Peut-être la plaisanterie de M<hi rend="sup">me</hi> Janna (mémoires de Collé) paraîtra-t-elle peu piquante en 1913.</p>
+            <p><pb n="120"/> Peut-être la plaisanterie de M<hi rend="sup">me</hi> Janna (mémoires de Collé) paraîtra-t-elle peu piquante en 1913.</p>
             <quote rend="border">
               <label rend="sc">Philaminte</label>
               <l>J’aime <hi rend="i">superbement</hi> et <hi rend="i">magnifiquement</hi> ;</l>
@@ -3539,7 +3539,7 @@
               </label>
               <l>L’enveloppe est jolie, et vaut un million.</l>
             </quote>
-            <p><pb><pb n="121"/></pb> Que cela est fade pour moi ! Je sortirais sur le champ d’une maison où je trouverais des bécasses de cette force.</p>
+            <p><pb n="121"/> Que cela est fade pour moi ! Je sortirais sur le champ d’une maison où je trouverais des bécasses de cette force.</p>
             <quote rend="border">
               <label>
                 <hi rend="sc">Bélise</hi>
@@ -3607,7 +3607,7 @@
           <div>
             <head>[Acte III, scène III]</head>
             <quote rend="border">
-              <label><pb><pb n="123"/></pb> Scène III</label>
+              <label><pb n="123"/> Scène III</label>
               <stage>Philaminte, Bélise, Armande, Henriette, Trissotin, Lépine</stage>
               <label>
                 <hi rend="sc">Lépine</hi>
@@ -3725,7 +3725,7 @@
           <div>
             <head>[Acte IV, scène première]</head>
             <quote rend="border">
-              <label><pb><pb n="126"/></pb> ACTE IV
+              <label><pb n="126"/> ACTE IV
 <lb/>Scène première</label>
               <stage>Philaminte, Armande</stage>
               <label rend="sc">Armande</label>
@@ -3802,7 +3802,7 @@
           <div>
             <head>[Acte V, scène III]</head>
             <quote rend="border">
-              <label><pb><pb n="128"/></pb> Scène III</label>
+              <label><pb n="128"/> Scène III</label>
               <stage>Philaminte, Bélise, Armande, Trissotin, Un Notaire, Chrysale, Clitandre, Henriette, Martine</stage>
               <label rend="sc">MARTINE</label>
               <l>Un mari qui n’ait point d’autre livre que moi,</l>
@@ -3829,7 +3829,7 @@
             </quote>
             <p rend="b">Ici Molière abandonne sa thèse et montre que 1a science sert à quelque chose aux femmes puisqu’elle les empêche d’être malheureuses en un si grand revers.</p>
             <postscript>
-              <p><pb><pb n="129"/></pb> Le dénoûment ne sort nullement du sujet. C’est le dénoûment de l’<hi rend="i">homme avide. Et pour nous et pour lui</hi> est même sublime.</p>
+              <p><pb n="129"/> Le dénoûment ne sort nullement du sujet. C’est le dénoûment de l’<hi rend="i">homme avide. Et pour nous et pour lui</hi> est même sublime.</p>
             </postscript>
           </div>
           <div>
@@ -3847,30 +3847,30 @@
           </div>
         </div>
         <div>
-          <head><pb><pb n="130"/></pb> Réflexions générales</head>
+          <head><pb n="130"/> Réflexions générales</head>
           <p rend="b">Ce qu’il y a de moins bon dans cette pièce, ce sont les caractères des trois femmes savantes. Encore à proprement parler il n’y en a que deux. Bélise n’est que frottée de ce ridicule, celui qui lui appartient en propre est de croire tous les hommes amoureux d’elle.</p>
           <p rend="b">La peinture de la femme impérieuse occupe la plus grande partie du rôle de Philaminte ; celle de Tartuffe jouant, par orgueil, l’amour platonique remplit aussi les deux tiers des vers que dit Armande.</p>
           <p rend="b">Il n’y a de grandes scènes du caractère annoncé que celle de la Sutane, et celle du renvoi de Martine. Je suis étonné que cette seconde scène ne me fasse pas rire davantage.</p>
           <p rend="b">La scène de raillerie intéresse l’esprit, la dispute donne ce genre de plaisir qui fait que vous ouvrez votre croisée pour voir deux chiens qui se pillent dans la rue.</p>
           <p rend="b">La pièce est supérieurement écrite. Trois ou quatre morceaux me semblent même parfaits, mais il me paraît aussi qu’elle est trop dénuée de plaisanteries.</p>
-          <p>Ce genre d’ornement aurait fait rire et donné plus de vivacité à la pièce. Son grand défaut, à mes yeux, est <pb><pb n="131"/></pb> de manquer de cette vivacité dont Je <hi rend="i">Barbier de Séville</hi> et le premier acte du <hi rend="i">Médecin malgré lui</hi> sont des modèles.</p>
+          <p>Ce genre d’ornement aurait fait rire et donné plus de vivacité à la pièce. Son grand défaut, à mes yeux, est <pb n="131"/> de manquer de cette vivacité dont Je <hi rend="i">Barbier de Séville</hi> et le premier acte du <hi rend="i">Médecin malgré lui</hi> sont des modèles.</p>
           <p rend="b">Le caractère le mieux peint est celui de l’homme faible. Ce qu’il y a de remarquable c’est que la peinture est complète et qu’elle est donnée au moyen d’un nombre de vers extrêmement petit. Je n’ai trouvé autant de concision dans aucun autre caractère de comédie.</p>
           <p rend="b">Clitandre et Henriette sont froids. Le dénouement est vicieux, comme n’appartenant point au sujet. C’est un dénouement applicable à tous les mariages de convenance. Trissotin se conduit comme feraient les deux tiers des hommes ; il est ridicule comme ayant été obligé de jouer la passion.</p>
           <p>Le sujet des <hi rend="i">Femmes savantes</hi> me semble raté, mais c’est le rat du grand maître. Le tems, peut-être, l’a traité comme les tableaux du Tintoret à Venise, a trop abaissé les personnages ridicules. Il m’est impossible de rire des personnages que je méprise trop décidément. On ne rit pas de Sosie lui-même. Sosie est une parabole ; on rit des gens lâches dont il nous découvre les mouvements. D’ailleurs, Sosie est plein d’esprit. Cet esprit réveille, intéresse (a [ex. ce paradoxe]). Chrysale et les trois femmes savantes sont pour moi dans ce cas. J’aurais eu du plaisir à voir trois ou quatre plaisanteries piquantes tomber sur cette Tartuffe d’Armande.</p>
-          <p><hi rend="i">Grand défaut.</hi> Les femmes savantes ne sont point désappointées dans l’effet qu’elles croient produire dans le monde, au moyen des prétendues connaissances qu’elles ont en littérature, en physique et en morale. Voilà le vice <pb><pb n="132"/></pb> radical de la pièce. Que ces femmes croient tenir un rang distingué dans le monde, et qu’il y ait de l’ambition dans leur cœur (l’amour des avantages extérieurs dans la société, le désir d’être distingué des autres hommes), c’est ce qui est prouvé par plusieurs vers de la pièce.</p>
+          <p><hi rend="i">Grand défaut.</hi> Les femmes savantes ne sont point désappointées dans l’effet qu’elles croient produire dans le monde, au moyen des prétendues connaissances qu’elles ont en littérature, en physique et en morale. Voilà le vice <pb n="132"/> radical de la pièce. Que ces femmes croient tenir un rang distingué dans le monde, et qu’il y ait de l’ambition dans leur cœur (l’amour des avantages extérieurs dans la société, le désir d’être distingué des autres hommes), c’est ce qui est prouvé par plusieurs vers de la pièce.</p>
           <p><hi rend="i">Le Sexe aussi</hi>, page 49.</p>
           <p><hi rend="i">Quelque bruit.</hi> page 64.</p>
           <p>Le gros du public admire un grand dessein, mais ce grand dessein manque son objet, et des scènes qui, étant un peu faibles pour nous, sont bien intelligibles pour lui. Quant à moi, cette pièce m’ennuye, et il me semble que la plus grande partie du peu d’effet qu’elle produit vient du stile qu’on peut presque dire parfait. Je suis convaincu que la vie privée de M<hi rend="sup">me</hi> Dacier donnait des traits plus forts que ceux de la pièce.</p>
           <p rend="b">Voirie jugement du P. Rapin rapporté par Geoffroy, feuilleton du 2 novembre ou du 3, et celui de Bussy Rabutin, je crois, dans le recueil des lettres de ce dernier. Ce jugement que Geoffroy n’a pas l’air de trop approuver est assez conforme au mien.</p>
           <p rend="b">Sur chaque pièce de Molière, tâchez d’avoir le jugement des contemporains, quand même ils ne vaudraient rien, on y aperçoit toujours de quelle hauteur l’écrivain s’est élancé. Se rappeler toujours dans les arts que si Cimabue fût né de nos jours, sans doute il eût été très supérieur à David quoique les tableaux de ce dernier valent infiniment mieux que ceux de Cimabue.</p>
-          <p>Hier, au théâtre, je me suis fait cette question : quelle est la plus forte passion des femmes ? inspirer de l’amour aux hommes. Admettons dans la tête d’une femme un <pb><pb n="133"/></pb> seul grain de folie qui consiste dans ce raisonnement.</p>
+          <p>Hier, au théâtre, je me suis fait cette question : quelle est la plus forte passion des femmes ? inspirer de l’amour aux hommes. Admettons dans la tête d’une femme un <pb n="133"/> seul grain de folie qui consiste dans ce raisonnement.</p>
           <p rend="b">La science est estimée des hommes, donc un moyen de les rendre amoureux est de se faire savante.</p>
           <p rend="b">Peindre une femme voulant plaire à son amant à force de savoir pédantesque. Elle n’est pas mal, cet homme l’aimait, mais à force de l’accabler de pédanterie, elle parvient à le dégoûter. Ce personnage, dont je n’avais pas dans ce moment toutes les modifications possibles, parce que je pense à Gênes et au départ, me semble, en gros, pouvoir être bien comique. Ce qui contribue beaucoup à rendre ennuyeuses les femmes savantes de Molière, c’est qu’elles sont bien froides n’ayant pas du tout d’amour. Si cette passion trouve le moyen de se glisser même avec la dévotion sincère, à combien plus forte raison ne se mettra-t-elle pas avec la science.</p>
           <p rend="b">Placer dans la société des femmes savantes, le goujon que ces sortes de filets prennent naturellement, un très jeune poète provincial, très enthousiaste.</p>
           <p rend="b">Ce caractère n’est pas rare à Paris. Piron arrivant de Dijon ou Malfilâtre ou Crébillon. J’ai un exemple dans ce fou de Dalban.</p>
           <p rend="b">On pourrait mettre aussi dans cette comédie quelques rognures de celles de journalistes, comme les femmes savantes fesant faire un article à leur guise, dictant de quelque manière ridicule les jugements du journaliste.</p>
           <p rend="b">Et quelques rognures de l’homme de lettres, les femmes savantes intrigant pour donner une place à l’Institut.</p>
-          <p>Il y a des arts qui pour avoir un langage ont besoin d’admettre une certaine quantité de fausseté. Par exemple, les ballets de Vigano supposent que toutes les fois qu’on a <pb><pb n="134"/></pb> une passion, un désir, on l’exprime par des signes extérieurs, autres que la physionomie, très forts. Cela seul fait que le ballet peut peindre très peu de passions, et encore très grossièrement.</p>
+          <p>Il y a des arts qui pour avoir un langage ont besoin d’admettre une certaine quantité de fausseté. Par exemple, les ballets de Vigano supposent que toutes les fois qu’on a <pb n="134"/> une passion, un désir, on l’exprime par des signes extérieurs, autres que la physionomie, très forts. Cela seul fait que le ballet peut peindre très peu de passions, et encore très grossièrement.</p>
           <p rend="b">De même, dans la peinture, il faut que les saints ayent toujours leur costume, par exemple comme dans le tableau de Tintoret que je voyais hier matin, les saintes qui ont été Reines ont toujours la couronne sur la tête.</p>
           <p>Dès qu’en peinture on emploie des signes faux, il convient que le sublime de l’expression croisse dans le même degré de pureté. Le portrait de M. Lebrun, exécuté quant aux accessoires par Basche, me semble ridicule par cela. II y a de la fausseté à ce qu’il soit environné de tout ce qu’il était, étant en simple habit, et avec l’expression de la bonhomie. L’extrême de ce genre c’est la statue avec des personnages vivants telle que celle de l’Empereur par Canova.</p>
         </div>
