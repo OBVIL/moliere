@@ -52,6 +52,7 @@
   <text>
     <body>
      <div>
+       <head>Molière et le Misanthrope</head>
       <p><pb n="1" xml:id="p1"/> </p>
       <p>J’ai entendu, il y a déjà nombreuses  années, un homme d’infiniment d’esprit et de talent, quelque peu négligé aujourd’hui, ce me semble, — Léon Gozlan, — émettre en façon d’axiome l’opinion que voici : <quote>« L’un des premiers symptômes de la folie chez le comédien, — c’est de vouloir jouer le Misanthrope. »</quote></p>
       <p>La sentence me parut notable et je me la <pb n="2" xml:id="p2"/> suis toujours rappelée ; de façon que je n’ai éprouvé aucune surprise lorsque plus tard, n’ayant pas plus qu’un autre échappé à la règle et m’entretenant avec quelques amis de mon désir naissant d’interpréter Alceste, je recueillis immédiatement cette réponse unanime : <quote>« Mais vous êtes fou, mon cher ! »</quote> Je m’y attendais.</p>
@@ -242,7 +243,7 @@
       </quote>
       <p>toujours prêt à ruer, en un mot ; vraiment si c’est ainsi qu’il est avant l’hymen, qu’est-ce <pb n="48" xml:id="p48"/> que ce sera donc après ! Pour moi, je le confesse, si Célimène voulait réellement qu’il sortit, et qu’elle prit pour cela un bâton ou un balai, je n’éprouverais aucune fausse honte à me trouver du côté du manche !</p>
       <p>Il faut le prendre en pitié, dit-on. Il aime, il est malheureux. D’accord ; mais lui-même est pour beaucoup dans son malheur, Molière ne veut pas que nous l’oubliions, et pas plus qu’il n’entend nous faire pleurer quand il jette Arnolphe aux pieds d’Agnès, il ne veut nous indigner ni nous gonfler le cœur de pitié, lorsqu’au quatrième acte il met Alceste et Célimène aux prisés. La scène est belle, elle est profonde, disons tout, elle est sublime ; mais c’est une scène de comédie. Si Alceste pouvait l’oublier, Célimène le lui rappellerait bien vite. Pas une de ses réponses ne sort de la mesure ; elle garde toute sa tête, tout son sourire. Elle joue : elle n’a pas peur le moins du monde, et c’est elle qui mène la scène, et non lui. C’est donc pur contre-sens de la pousser au drame et de donner à Alceste les amertumes tragiques, les fureurs jalouses d’Othello, souffletant Desdémone ou la payant comme une fille avant de l’étouffer. Non. Il <pb n="49" xml:id="p49"/> faut montrer Alceste arrivant, la tête perdue, criant comme un brûlé, se jetant à la tête d’Eliante, jurant que c’en est fait, que tout est rompu, — <quote>« Madame, vengez-moi, recevez mon cœur, il n’y a que vous, vous allez voir comme je vais vous aimer, attendez un peu, la voici, le temps de la confondre et je suis à vous pour la vie ! »</quote> Puis, seul avec Célimène, si exaspéré qu’il ne peut parler, qu’un peu plus il la battrait.</p>
-      <quote rend="border">
+      <quote>
         <l>O ciel ! de mes transports puis-je être ici le maître ?</l>
         <label>CÉLIMÈNE <hi rend="i">à part</hi> :</label>
         <l>Ouais !</l>
@@ -261,7 +262,7 @@
         <l>N’ont jamais rien produit de si méchant que vous.</l>
       </quote>
       <p>Voilà : vous ne m’aimez pas, donc vous avez tué père et mère, vous Ôtes un abrégé de l’enfer, un monstre !</p>
-      <quote rend="border">
+      <quote>
         <label>CÉLIMÈNE, habituée d’ailleurs à te langage :</label>
         <l>Voilà certainement des douceurs que j’admire.</l>
         <label>ALCESTE</label>
@@ -325,7 +326,7 @@
         <l>Oui, oui, je l’ai perdu…</l>
       </quote>
       <p>mais c’est votre faute, c’est</p>
-      <quote rend="border">
+      <quote>
         <l>… lorsque dans votre vue</l>
         <l>J’ai pris pour mon malheur le poison qui me tue</l>
         <l>Et que j’ai cru trouver quelque sincérité</l>
@@ -346,14 +347,14 @@
         <l>Jetez ici les yeux et connaissez vos traits,</l>
       </quote>
       <p>votre écriture, perfide,</p>
-      <quote rend="border">
+      <quote>
         <l>Ce billet découvert suffit pour vous confondre,</l>
         <l>Et contre ce témoin on n’a rien à répondre.</l>
         <label>CÉLIMÈNE, <hi rend="i">dédaigneuse</hi> :</label>
         <l>Voilà donc le sujet qui vous trouble l’esprit !</l>
       </quote>
       <p>C’est cela ? C’est pour cela que vous vouliez me dévorer ? Ah ! mon pauvre ami !</p>
-      <quote rend="border">
+      <quote>
         <label>ALCESTE, <hi rend="i">grondant</hi> :</label>
         <l>Vous ne rougissez pas en voyant cet écrit ?</l>
         <p><pb n="54" xml:id="p54"/> </p>
@@ -368,14 +369,14 @@
       </quote>
       <p>— Aurez-vous cette impudence ?</p>
       <p>— Oh ! que pas si sotte, repart Célimène, je vous en ai écrit de pareils, point signés non plus, vous avez confronté ; renier celui-ci, ce serait renier les autres, point du tout :</p>
-      <quote rend="border">
+      <quote>
         <l>Pourquoi désavouer un billet de ma main ?</l>
         <label>ALCESTE, <hi rend="i">qui se déconcerte et suffoque</hi> :</label>
         <l>Et vous pouvez le voir sans demeurer confuse</l>
         <l>Du crime dont vers moi son style vous accuse ?</l>
       </quote>
       <p>car ce n’est rien moins que cela ; me tromper, moi, c’est un forfait abominable !</p>
-      <quote rend="border">
+      <quote>
         <label>CÉLIMÈNE<hi rend="i">, souriant</hi> :</label>
         <l>Vous êtes, sans mentir, un grand extravagant ! — </l>
       </quote>
@@ -405,7 +406,7 @@
         <l>En serez-vous vers moi moins coupable en effet ?</l>
       </quote>
       <p>Alors, Célimène hardiment :</p>
-      <quote rend="border">
+      <quote>
         <l>Mais si c’est une femme à qui va ce billet,</l>
         <l>En quoi vous blesse-t-il et qu’a-t-il de coupable ?</l>
         <label>ALCESTE, <hi rend="i">ébloui</hi> :</label>
@@ -416,7 +417,7 @@
         <l>Et croyez-vous les gens si privés de lumières ?</l>
       </quote>
       <p>Vous me prenez donc pour un imbécile ! Vous <pb n="57" xml:id="p57"/> vous figurez donc que je vais vous croire ? Eh bien !</p>
-      <quote rend="border">
+      <quote>
         <l>Voyons, voyons un peu par quel biais, de quel air</l>
         <l>Vous voulez soutenir un mensonge si clair</l>
         <l>Et comment vous pourrez tourner pour une femme</l>
@@ -427,7 +428,7 @@
         <l rend="margin">Il ne me plaît pas, moi.</l>
       </quote>
       <p>C’est ici, c’est par ce mot que tourne la scène. Jusqu’à présent, Célimène a rompu ; elle parait, maintenant, elle attaque. C’est le moment en effet : l’ennemi a baissé de ton. De la colère il est passé à l’ironie. Suprême ressource des courages faiblissants ! Un homme, qui une heure après qu’il a menacé de tout exterminer, n’a encore rien tué, et, avec une telle preuve à la main, réclame encore des explications, quelque ton qu’il emploie pour les obtenir, ne demande qu’à être convaincu. Célimène sent la victoire dans ses mains, et elle se prépare à en abuser. Plus Alceste l’aura pris de haut, plus elle se donnera le plaisir de le faire descendre. Et tout d’abord, cette explication qu’il <pb n="58" xml:id="p58"/> lui faut pour couver honnêtement sa retraite, elle la refuse :</p>
-      <quote rend="border">
+      <quote>
         <l>… Il ne me plaît pas, moi !</l>
         <l>Je vous trouve plaisant d’user d’un tel empire</l>
         <l>Et de me dire au nez ce que vous m’osez dire.</l>
@@ -435,7 +436,7 @@
         <l>Non, non, sans s’emporter…</l>
       </quote>
       <p>sans s’emporter ! Oh ! le beau mot dans la bouche d’Alceste ! C’est Célimène qui est en courroux, c’est Alceste qui demande qu’elle se calme !</p>
-      <quote rend="border">
+      <quote>
         <l>… sans s’emporter, prenez un peu souci</l>
         <l>De me justifier les termes que voici.</l>
         <label>CÉLIMÈNE</label>
@@ -449,7 +450,7 @@
         <l>… montrez-moi, je serai satisfait,</l>
       </quote>
       <p>je vous croirai, je vous le promets, je vous <pb n="59" xml:id="p59"/> crois déjà avant que vous ayez parlé ; montrez-moi</p>
-      <quote rend="border">
+      <quote>
         <l>Qu’on peut pour une femme expliquer ce billet.</l>
         <label>CÉLIMÈNE <hi rend="i">l’achevant tout net</hi> :</label>
         <l>Non, il est pour Oronte, et je veux qu’on le croie.</l>
@@ -552,7 +553,7 @@
         <l>Non, vous ne m’aimez pas comme il faut que l’on m’aime !</l>
       </quote>
       <p>Là-dessus</p>
-      <quote rend="border">
+      <quote>
         <label>ALCESTE, <hi rend="i">s’empressant de se disculper, avec feu</hi> :</label>
         <l>Ah ! rien n’est comparable à mon amour extrême,</l>
         <l>Et dans l’ardeur qu’il a de se montrer à tous,</l>
@@ -600,7 +601,7 @@
       </quote>
       <p>Telles sont, je crois, les leçons qui ressortent du chef-d’œuvre de Molière ; elles sont dignes <pb n="70" xml:id="p70"/>du grand comique, dignes du génie sociable et bon de notre race, et il les donne à Alceste, comme don Juan fait l’aumône au pauvre, — <quote><hi rend="i">pour l’amour de l’humanité.</hi></quote></p>
       <p><pb n="71" xml:id="p71"/> </p>
-      <head>Réponse à M. de La Pommeraye</head>
+      <p>Réponse à M. de La Pommeraye</p>
       <p>Ici, Mesdames et Messieurs, se terminait cette étude. La première lecture que j’en ai faite a suscité de nombreuses critiques. Je m’y attendais et ne m’en suis pas ému outre mesure. J’attaquais un préjugé, pas très ancien peut-être, mais très solidement établi ; quoi d’étrange à ce que je fisse crier ? Je ne répondrais donc à aucun de mes adversaires, si l’un d’eux ne m’avait pris à partie ici-même, — fort courtoisement d’ailleurs, je dois le reconnaître, car il est la courtoisie même, et à ce trait de son signalement tout le monde le nommera ici : c’est M. de La Pommeraye.</p>
       <p><pb n="72" xml:id="p72"/> </p>
       <p>Je confesse que je n’étais pas à sa conférence ; je jouais ce soir-là, peut-être du Molière ; car, on le sait, je n’ai jamais prétendu cacher le comédien derrière le conférencier ; c’est mon état de jouer, et surtout de jouer Molière, et ce qui m’a enhardi à parler de ce grand homme, c’est que je ne me borne pas à le lire, mais que je m’essaie souvent à faire revivre ses personnages. — Je n’ai donc pas eu le plaisir d’entendre M. de La Pommeraye ; mais le journal <hi rend="i">la Conférence</hi>, journal spécial, m’a apporté un résumé succinct et fidèle de sa causerie, et c’est sur ce résumé que je hasarderai quelques mots de réplique ; je reproduirai les accusations de mon adversaire, pour mettre au fait ceux de mes auditeurs qui peut-être n’ont, pas plus que moi, eu le plaisir de les lui entendre formuler à lui-même.</p>

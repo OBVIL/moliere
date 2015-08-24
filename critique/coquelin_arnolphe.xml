@@ -52,6 +52,7 @@
   <text>
     <body>
       <div>
+        <head>L'Arnolphe de Molière</head>
       <p><pb n="1"/> Je devrais commencer par des excuses. Si quelque chose peut sembler inutile, en ce monde où tant de choses et de gens sont inutiles, c’est une conférence de plus sur un sujet qui a déjà fourni matière à tant de conférences. Je ne sache guère en effet comédie qui en ait inspiré davantage. La première en date, qui est incontestablement la meilleure, aurait bien dû pourtant décourager d’en faire d’autres. Impossible d’exposer avec plus d’esprit les objections ; <pb n="2"/> impossible d’y répondre avec plus de bon sens. Mais cette conférence, qui remonte au 1<hi rend="sup">er</hi> juin 1663, avait, aux yeux des contemporains, un tort considérable, celui d’être de l’auteur de la pièce, de M. de Molière lui-même. On trouva outrecuidant qu’un auteur attaqué se défendit en personne, et, qui pis est, se défendît en poète comique, c’est-à-dire fit de ses critiques une comédie, et des plus vives. Il plut des réponses et ce fut un beau bruit. Les échos en sont venus jusqu’à nous, fournissant une ample tablature à messieurs les commentateurs. Si bien qu’à mon tour il m’a pris envie de vous raconter cette bataille, une des plus hardies, qu’ait livrées Molière, et de laquelle date cette grande campagne contre les dévots, que, tout mort qu’il est, — pas si mort que ses adversaires le voudraient bien, — il poursuit encore aujourd’hui, grâce à <hi rend="i">Tartufe</hi>.</p>
       <p>Disons donc deux mots, si vous le voulez bien, de toutes ces pièces mises en conférences.et de toutes ces conférences mises, en pièces.</p>
       <p>Je puis, du reste, faire valoir, à ma décharge, <pb n="3"/> qu’à mesure que le temps passait et que les hommes se renouvelaient — si les hommes se renouvellent, — à mesure du moins que changeaient les mœurs, la comédie de Molière apparaissait aux critiques sous des aspects nouveaux, dont plusieurs fort inattendus pour Molière, si le sort eût voulu, pour notre bonheur, qu’il eût la vie aussi dure que ses chefs-d’œuvre et qu’il pût lire les fantaisies que ceux-ci ont inspirées de notre temps. C’est sur ces aspects-là que je me réserve d’insister tout à l’heure, comme j’ai fait dans ma causerie sur le <hi rend="i">Misanthrope</hi>, et sans craindre davantage de froisser ce qu’au risque de passer pour un esprit arriéré, j’appellerai les préjugés romantiques sur Molière.</p>
@@ -153,7 +154,7 @@
       <p>A ce trait d’Arnolphe, qu’il lance d’un air épanoui, comme la chose la plus belle du monde, grand éclat de rire autour de nous, grande inquiétude parmi les dames, dont les visages disparaissent derrière les éventails. ; décidément, ce soir, c’est Rabelais qui souffle Molière.</p>
       <p>Mais voici Arnolphe seul ; et comme il revient de voyage, il veut rentrer chez lui. Par malheur il a eu soin de choisir, pour veiller sur son innocente, deux valets aussi simples qu’elle ; et ces deux naïfs, disputant à qui n’ouvrira pas, laissent pester leur maître un bon quart d’heure à la porte. La scène semble froide au poète pincé, notre voisin, non pas à nous : <pb n="22"/> car, outre qu’il nous paraît juste qu’Arnolphe soit attrapé par les choses même dont il s’est cru garantir contre toute attrape, — n’y a-t-il pas de quoi crever de rire, rien qu’à voir la face ahurie d’Alain ? L’obligeant Parisien qui renseignait tout à l’heure le Périgourdin lui dit que cet acteur est Brécourt ; c’est un comique excellent qui s’est mêlé des armes et se pique d’écrire ; comme presque tous les comédiens ; le Roi dit de lui qu’il ferait rire des pierres. Quant à Georgette, c’est M<hi rend="sup">lle</hi> Marotte qui la joue ; une toute pouponne fillette, à qui l’on ne donne encore que de petits rôles, à qui même on fournit ses costumes ; Lagrange a du goût pour elle.</p>
       <p>Doucement : voici Agnès qui entre en scène ; Agnès, c’est M<hi rend="sup">lle</hi> de Brie, qu’on pourrait appeler belle et bonne ; avec quel art elle s’est rajeunie pour ce rôle,ou plutôt comme elle a su faire sortir et répandre sur toute sa personne le charme qui est dans son âme ! C’est la meilleure de celles qu’a aimées Molière ; c’est le refuge de ses péchés et de ses peines ; si douce et si paisible, qu’à son âge, elle joue Agnès au <pb n="23"/> naturel et qu’à soixante ans, quand elle voudra cesser de le jouer, le public refusera d’y entendre la du Croisy et ira lui-même, à grands cris, chercher la de Brie pour lui rendre la vraie Agnès.</p>
-      <quote rend="border">
+      <quote>
         <label>ARNOLPHE</label>
         <l>La besogne à la main ? c’est un bon témoignage.</l>
         <l>Eh bien ! Agnès, je suis de retour du voyage,</l>
@@ -186,7 +187,7 @@
         <l>Et de me les baiser il n’était jamais las !</l>
       </quote>
       <p>— <quote>Ne vous a-t-il point pris, Agnès, quelque autre chose ?</quote> demande Arnolphe ; et voyant qu’elle se tait, interdite, il pense étrangler. Ouf ! — Une rumeur, un chuchotement court dans la salle ; des rires étouffés ; un grand claquement d’éventails qu’agite désespérément la pudeur violée des marquises ; mais cela est bien plus fort deux mots plus loin :</p>
-      <quote rend="border">
+      <quote>
         <label><pb n="30"/> AGNÈS</label>
         <l>Hé ! il m’a...</l>
         <label>ARNOLPHE</label>
@@ -249,7 +250,7 @@
         <l>Avec un mot de lettre est tombée à ses pieds.</l>
       </quote>
       <p>Une lettre ! une lettre d’Agnès ! ne trouvez-vous pas cela plaisant, seigneur Arnolphe ?</p>
-      <quote rend="border">
+      <quote>
         <label>ARNOLPHE</label>
         <l>                                   Oui, fort plaisant.....</l>
         <label>HORACE</label>
@@ -262,7 +263,7 @@
         <l>Hon ! chienne !</l>
       </quote>
       <p>dit le brutal.</p>
-      <quote rend="border">
+      <quote>
         <label>HORACE</label>
         <l>                       Qu’avez-vous ?</l>
         <label>ARNOLPHE</label>
@@ -429,7 +430,7 @@
         <l>Admirable, morbleu ! du dernier admirable !</l>
       </quote>
       <p>Et il fit en effet ce qu’il put pour rire ; mais il n’y avait pas beaucoup de quoi. Les plus <pb n="58"/> fortes plaisanteries de la pièce roulent sur le <hi rend="i">ouf</hi> d’Arnolphe, et le <hi rend="i">le</hi> d’Agnès. Oh ! sur le <hi rend="i">le</hi>, nos gens sont intarissables. Ce <hi rend="i">le</hi>, dit la précieuse de Boursault :</p>
-      <quote rend="border">
+      <quote>
         <l>C’est une chose horriblement touchante ;</l>
         <l>Il m’a pris <hi rend="i">le</hi>… ce <hi rend="i">le</hi> fait qu’on ouvre les yeux.</l>
         <label>LE COMTE.</label>

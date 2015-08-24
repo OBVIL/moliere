@@ -62,19 +62,17 @@
           <p><pb/><pb n="327"/> Si, au point de vue seulement du sujet qui nous occupe, nous nous demandons ce qu’était la philosophie ancienne, nous la voyons se résumer pour nous dans un mot : l’<hi rend="i">Ecole</hi>, et se personnifier dans un nom : <hi rend="i">Aristote.</hi></p>
           <p>Or, l’école avait d’abord un <hi rend="i">principe</hi>, celui des formalités, matérialités, entités, virtualités... formes substantielles, qualités occultes... Avec lui on avait réponse à tout. Gomment se fait la coction des aliments dans l’estomac? — en vertu d’une qualité concoctrice, répondait l’école. Gomment l’aimant attire-t-il le fer ?—en vertu d’une qualité magnétique, continuait-elle imperturbablement. Ce qui rappelle la faculté détersive des brosses pour nettoyer les habits, dont se moque Malebranche, et la définition donnée sérieusement par le père Noël à Pascal : <quote>«  La lumière est le mouvement luminaire d’un corps lumineux. »</quote></p>
           <p>Molière est ici plus grave encore que le père Noël. Le sujet lui parait si sérieux, qu’il croit devoir parler latin, la langue sacrée des savants. Le langage vulgaire eût été sans doute indigne, sinon incapable, d’exprimer des pensées aussi profondes. Ecoutez, en effet: (<note place="bottom"><hi rend="i">Le Malade imaginaire</hi>, 3e intermède.</note>)</p>
-          <quote rend="border">
-            <speaker>PRIMUS doctor. <space> </space></speaker>
-            <l rend="i"><space> </space>
-          
-          Si mihi licentiam dat dominus præses </l>
-            <l rend="i">Et tanti docti doctores</l>
+          <quote>
+            <label>PRIMUS doctor.</label>
+            <l><hi rend="i">Si mihi licentiam dat dominus præses</hi>,</l>
+            <l><hi rend="i">Et tanti docti doctores</hi>,</l>
             <l><hi rend="i">Et assistantes illustres</hi>,</l>
             <l><hi rend="i">Tres savanti bacheliero</hi>,</l>
             <l><hi rend="i">Quem estimo et honoro</hi>,</l>
             <l><hi rend="i">Domandabo causam et rationem quare</hi>,</l>
             <l><hi rend="i">Opium facit dormire</hi>.</l>
             <l/>
-            <speaker>Bachelierus.</speaker>
+            <label>Bachelierus.</label>
             <l>    <hi rend="i">—    Mihi a doctore</hi>,</l>
             <l><hi rend="i">Domandatur causam et rationem quare</hi>,</l>
             <l><hi rend="i">Opium, facit dormire</hi> ;</l>
@@ -85,7 +83,7 @@
             <l><hi rend="i">Sensus assoupire</hi>.</l>
           </quote>
           <p>Et tout le chœur de s’écrier:</p>
-          <quote rend="border">
+          <quote>
             <l><hi rend="i">Vivat</hi>... cent fois <hi rend="i">vivat</hi>,</l>
             <l><hi rend="i">Novus doctor, qui tana bene parlat</hi>!<note place="bottom"><hi rend="i">Le Malade imaginaire</hi>, 3e intermède.</note> .</l>
           </quote>
@@ -141,7 +139,7 @@
           <p>Or, en vue toujours de notre sujet, nous pouvons ramener à ces trois points la philosophie de Descartes : un <hi rend="i">principe</hi>, qui est en même temps une méthode, et <hi rend="i">deux thèses</hi>, qui en sont la conséquence. Un principe : n’admettre que l’évidence, et dans la ferme résolution de rejeter tout ce dont on peut douter, ne s’arrêter que devant le : <quote>« Je pense, donc je suis. »</quote> C'est ce qu’on a appelé le doute méthodique. Deux thèses : le corps et l’esprit sont profondément distincts; l’âme est plus certaine que le corps.</p>
           <p>Voilà Descartes : que dit Molière!</p>
           <p>Tout d’abord, on prétend qu’il a attaqué le principe lui-même, et dans le scepticisme universel de Marphurius, on croit reconnaître une parodie du doute, si fort recommandé dans les premières pages du <hi rend="i">Discours de la Méthode</hi>. Le lecteur me pardonnera de remettre sous ses yeux une partie de la scène :</p>
-          <quote rend="border">
+          <quote>
             <l>MARPHURIUS. Que voulez-vous de moi, seigneur Sganarelle ?</l>
             <l>SGANARELLE. Seigneur docteur, j’aurais besoin de votre conseil sur une petite affaire dont il s’agit, et je sais venu ici pour cela.</l>
             <l>MARPHURIUS. Seigneur Sganarelle, changez, s’il vous plaît, cette façon de parler. Notre philosophie ordonne de ne point énoncer de propositions décisives, de parler de tout avec incertitude, de suspendre toujours son jugement et, par cette raison, tous ne devez pas dire : Je suis venu, mais : il me semble que je suis venu.</l>
@@ -160,9 +158,9 @@
             <l>SGANARELLE. Ferais-je bien ou mal de l’épouser ?</l>
             <l>MARPHURIUS. L’un ou l’autre... (<note place="bottom"><hi rend="i">Le Mariage forcé</hi>, sc. VIII.</note>)</l>
           </quote>
-          <postscript>
+          
             <p><pb n="334"/><pb/>Et la conversation continue. Est-ce là, vraiment, le ton de Descartes? Ne voit-on pas, au contraire, que le scepticisme pour l’un méthode, c’est-à-dire moyen d’arriver <hi rend="b">à</hi> la vérité, devient ici pour l’autre la vérité même, et n’est-il pas évident que celui-là ne doute que pour ne plus douter, tandis que celui-ci ne doute que pour avoir le droit de douter encore (<note place="bottom">Si l’on vent que Molière ait eu en vue un philosophe en particulier, je ne sais pas pourquoi on ne songerait pas à Gassendi plutôt qu’à Descartes. En fait de scepticisme, l’auteur de la <hi rend="i">Méthode</hi> me semble beaucoup plus à l’abri de tout soupçon que son adversaire. (Voir la note de la fin sur Gassendi.)</note>). Avouons-le simplement : Marphurius est un pyrrhonien, rien de plus, et pour moi, je ne saurais m’étonner que l’attention de Molière se soit portée sur cette doctrine, et qu’il lui ait fait l’honneur de se moquer d’elle. Quelques critiques, en effet, ont l’air de croire que cette attaque manquait d’à-propos. Il n’y avait pourtant pas si longtemps, ce me semble, qu’avaient été prononcés le <quote>« Que sais-je ? »</quote> de Montaigne, le <quote>« Je ne sais, »</quote> de Charron, le <quote>« <hi rend="i">Quid igitur</hi>, »</quote> de Sanchez. N'est-ce pas deux ans seulement avant le <hi rend="i">Discours de la Méthode</hi> que la Mothe-le-Vayer, le coryphée des douteurs du temps, avait publié son grand ouvrage sceptique? Huet et Bayle ne préparaient-ils pas, comme dans l’ombre, leurs terribles attaques contre toute certitude? Et même ce luxe de preuves est inutile. Les <hi rend="i">Pensées de Pascal</hi>, ardente réfutation ou apologie passionnée du scepticisme, suffisaient à elles seules pour prouver la vérité de ce que nous avançons.</p>
-          </postscript>
+          
           <p>Une fois ce point accordé, il nous sera plus facile, à notre tour, de faire des concessions sur la manière dont Molière défend les deux thèses cartésiennes dont nous avons parlé.</p>
           <p>La première, en effet, l’âme, distincte du corps, et si supérieure au corps qu’elle ne semble plus guère s’apercevoir de ses rapports avec lui, a le malheur de n’être plus soutenue que par Armande. C'est elle qui</p>
           <quote>
@@ -227,7 +225,7 @@
           </quote>
           <p>« Mon corps est moi-même. » C'est la seconde thèse gassendiste.</p>
           <p>L'embarras du lecteur s’accroît : qu’il me permettre de l’accroître encore par une dernière citation, où nos philosophes sont plus ou moins malmenés tour à tour :</p>
-          <quote rend="border">
+          <quote>
             <l>TRISSOTIN. Je m’attache pour l’ordre au péripatétisme.</l>
             <l>PHILAMINTE. Pour les abstractions, j’aime le platonisme.</l>
             <l>ARMANDE. Epicure me plaît, et ses dogmes sont forts.</l>
