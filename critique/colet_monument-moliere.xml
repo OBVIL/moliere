@@ -52,7 +52,7 @@
   <text>
     <body>
       <div>
-        <head>HISTOIRE DU MONUMENT ELEVE A MOLIERE.</head>
+        <head>HISTOIRE DU MONUMENT ÉLEVÉ À MOLIERE.</head>
         <p>Lorsqu’un grand peuple élève des statues à ceux qui l’ont fait grand, il fait quelque chose de plus que d’honorer le génie ; il consacre sa propre gloire.</p>
         <p>Celte consécration par la sculpture, de la gloire nationale qui chez les anciens imprimait de nobles idées à la multitude, est presque nouvelle en France. Nous reproduisions les héros de l’antiquité et nous négligions les nôtres. Aussi le peuple restait-il dans l’ignorance de ses propres vertus ; excepté les statues de quelques-uns de ses rois, la sculpture ne lui racontait rien de son histoire : les beaux-arts n’avaient point encore personnifié la France dans ses grands hommes. Celle personnification est de date toute moderne.</p>
         <p>Un écrivain dont les ouvrages sont une source inépuisable d’idées neuves et patriotiques, Bernardin de Saint-Pierre le premier s’aperçut de cette étrange anomalie. Il s’étonnait, en parcourant nos jardins et nos places publiques, de n’y voir que les images des divinités du paganisme, les statues des Grecs et des Romains, et des inscriptions toutes modernes dans une langue morte depuis deux mille ans. <quote>« Quoi, disait-il, des symboles mythologiques à des chrétiens, des inscriptions latines à des Français ! Nous continuons la gloire des. anciens aux dépens de la nôtre, aux dépens de notre esprit national ! En vérité l’avenir croira que les Romains étaient dans le dix-huitième siècle les maîtres de notre pays »</quote><note place="bottom"><hi rend="i">Etudes de la Nature</hi>, I. 3, 215.</note>.</p>
@@ -97,7 +97,7 @@
       <div>
         <head>LE MONUMENT DE MOLIÈRE,
 <lb/>POÈME</head>
-        <p>Couronné par l’Académie Française.</p>
+        <argument><p>Couronné par l’Académie Française.</p></argument>
         <epigraph>
           <p>Molière......C’est mon homme.</p>
           <p>La Fontaine. — <hi rend="i">(Lettre à M, de Maucroix.)</hi></p>
@@ -255,7 +255,7 @@
           <l>Que faire du démon qu’il sent grandir en lui ?<pb n="12"/></l>
         </div>
         <div>
-          <head>III</head>
+          <head>III.</head>
           <l>Alors, par droit divin, les princes de la terre</l>
           <l>Avaient aux yeux du peuple un sacré caractère ;</l>
           <l>La volonté d’un seul était l’unique loi ;</l>
@@ -417,7 +417,7 @@
           <l>L’âme va s’épuisant jour par jour tout entière,</l>
           <l><space>  </space>Puis tout à coup se brise..…</l>
           <p/>
-          <l>Ainsi mourut Molière !<pb n="17] </hi></l>
+          <l>Ainsi mourut Molière !<pb n="17"/></l>
           <l>Son âme remontait à peine vers les cieux,</l>
           <l>Que tous ses ennemis, que tous les envieux</l>
           <l>Se lèvent à la fois ; une implacable haine,</l>
@@ -526,7 +526,7 @@
             <l>Et toujours au génie appartient l’avenir ! »</l>
           </quote>
           <byline>MADAME LOUISE COLET.</byline>
-          <dateline>Paris, février 1842.<hi rend="color_FF3333">[<hi rend="sc">/p.</hi>20"/></dateline>
+          <dateline>Paris, février 1842.<pb n="20"/></dateline>
         </div>
       </div>
       <div>
@@ -547,7 +547,7 @@
               <cell> Les modifications que l’on serait obligé de faire subir au projet arrêté entraîneraient indubitablement de nouvelles dépenses ; mais cette difficulté serait, je le crois, facilement écartée. N’est-ce pas à l’aide de dons volontaires que la ville de Rouen a élevé une statue de bronze à Corneille ? Assurément une souscription destinée à élever la statue de Molière n’aurait pas moins de succès dans Paris ; les corps littéraires et les théâtres s’empresseraient de s’inscrire collectivement ; les auteurs et les acteurs apporteraient leurs offrandes individuelles. Tous ceux qui aiment les arts et qui révèrent la mémoire de Molière accueilleraient cette souscription avec faveur et s’intéresseraient à ce qu’elle fût rapidement productive. Du moins c’est ma conviction, et je souhaite vivement que vous la partagiez.</cell>
             </row>
             <row>
-              <cell> D’autres que moi, Monsieur le Préfet, auraient sans doute plus de titres pour vous entretenir de ce projet, qui avait déjà préoccupé le célèbre Le Kain ; mais si la France entière s’enorgueillit du nom de Molière, il sera toujours plus particulièrement cher aux comédiens. Molière fut, tout à la fois, leur camarade et leur père, et je crois obéir a un sentiment respectueux et presque filial, en vous proposant de réunir au projet de l’administration celui d’un monument que nous serions si glorieux de voir enfin élever au grand génie qui, depuis près de deux siècles, attend cette justice !<hi rend="color_FF3333">[<hi rend="sc">/p.</hi>21"/></cell>
+              <cell> D’autres que moi, Monsieur le Préfet, auraient sans doute plus de titres pour vous entretenir de ce projet, qui avait déjà préoccupé le célèbre Le Kain ; mais si la France entière s’enorgueillit du nom de Molière, il sera toujours plus particulièrement cher aux comédiens. Molière fut, tout à la fois, leur camarade et leur père, et je crois obéir a un sentiment respectueux et presque filial, en vous proposant de réunir au projet de l’administration celui d’un monument que nous serions si glorieux de voir enfin élever au grand génie qui, depuis près de deux siècles, attend cette justice !<pb n="21"/></cell>
             </row>
             <row>
               <cell> J’ai l’honneur d’être, Monsieur le Préfet, votre très humble et très obéissant serviteur,</cell>
@@ -588,33 +588,29 @@
           <head>Note B.</head>
           <label rend="center i"/>
           <p>Confié au premier architecte de l’époque, M. Visconti, à qui Paris doit déjà tant de monuments remarquables, et qui a été choisi pour ériger aux Invalides le tombeau de Napoléon, le monument de Molière se divise en deux parties distinctes :</p>
-          <p>Le premier plan se compose d’un piédestal en marbre blanc, dont là base s’élève sur un socle entouré d’un bassin en pierre de Château-Landon, qui reçoit les eaux jaillissantes de trois têtes de lion. Une inscription portant simplement les dates de la naissance et de la mort de Molière, sera gravée sur le piédestal.<hi rend="color_FF3333">[<hi rend="sc">/p.</hi>22"/></p>
+          <p>Le premier plan se compose d’un piédestal en marbre blanc, dont là base s’élève sur un socle entouré d’un bassin en pierre de Château-Landon, qui reçoit les eaux jaillissantes de trois têtes de lion. Une inscription portant simplement les dates de la naissance et de la mort de Molière, sera gravée sur le piédestal.<pb n="22"/></p>
           <p>Deux figures allégoriques également en marbre, exécutées par M. Pradier, notre célèbre sculpteur, et représentant : une, la hante comédie, et l’autre la comédie lyrique, sont placées de chaque côté de ce piédestal, qui est couronné par la statue en bronze du grand poète assis, due au ciseau de M. Seurre. La hauteur du piédestal et de la figure est de 8 mètres sur une largeur de 10 mètres.</p>
           <p>Le second plan, contre lequel est adossé le monument ci-dessus détaillé est en pierre dure pour le soubassement et en pierre tendre pour la partie supérieure. Ce frontispice, dont la donnée principale a été de dissimuler un immense pignon, resté à découvert par la démolition successive de plusieurs maisons, se compose d’un soubassement portant une niche décorée à droite et à gauche de colonnes corinthiennes surmontées de leur entablement. Un fronton circulaire au centre duquel est un génie couronnant le nom de Molière, termine ce petit monument, dont le caractère se rapproche de l’époque de Louis XIV. Les façades latérales sont du même style. La hauteur totale est de 16 mètres sur une largeur de 10 mètres.</p>
         </div>
       </div>
       <div>
-        <head>PRÉFECTURE DU DÉPARTEMENT DE LA SEINE.</head>
-      </div>
-      <div type="h1sub">
-        <head>Extrait des registres des procès-verbaux des séances du conseil municipal de la ville de Paris.</head>
-      </div>
-      <div type="h1sub">
-        <head>SEANCE DU 21 JUIN</head>
+        <head>PRÉFECTURE DU DÉPARTEMENT DE LA SEINE.
+      <lb/>Extrait des registres des procès-verbaux des séances du Conseil municipal de la ville de Paris.
+          <lb/>SEANCE DU 21 JUIN</head>
         <byline>Présents : MM. Aubé, Beau, Besson, Boulay de la Meurthe, Bouvatier,Cottier, Ferron, Gatre, Grillon, Hérard, Husson, Jouet, Lahure, Lambert, Ste-Croix, Languetin, Legros, Lehon, Micheau, Moreau, Orfila, Périer, Perret, Presches, Say, Ternaux et Tayer.</byline>
         <salute>Le conseil,</salute>
         <p>Vu le mémoire en date du 30 mai 1839, par lequel, prenant en considération le vœu émis par un comité de souscripteurs, M. le préfet propose de convertir la fontaine à reconstruire à l’angle des rues Traversière et de Richelieu, en un monument dédié à Molière, d’adopter le projet présenté et de pourvoir à son exécution au moyen de traités passés avec des entrepreneurs connus.</p>
         <p>Vu les plans et modèle ;</p>
-        <p>Vu<ref target="#bookmark11"> les devis, détail estimatif, soumission de divers, et autres pièces faisant monter la dépense de son exécution.</ref></p>
-        <p rend="ref">SAVOIR :     </p>
-        <p rend="ref">Pour maçonnerie, à 57,000 f. </p>
-        <p rend="ref">Pour sculpture d’ornement,à 7,200  </p>
-        <p rend="ref">Pour le marbre de la statue de Molière, à 10,953  </p>
-        <p><seg rend="lieninternet">Pour la </seg><seg rend="lieninternet">sculpture des statues, à 33,000</seg> </p>
-        <p rend="ref">Pour le soete en marbre, à 2,000  </p>
-        <p rend="ref">Pour travaux divers, honoraires de l’architecte et dépenses imprévues, à 11,975  </p>
-        <p rend="ref"><seg rend="lieninternet">Pour fonta</seg><seg rend="lieninternet">inerie, à 9,000 </seg> </p>
-        <p>TOTAL :<seg rend="lieninternet"> 131,128 f.</seg><seg rend="lieninternet">[/p.23]</seg></p>
+        <p>Vu les devis, détail estimatif, soumission de divers, et autres pièces faisant monter la dépense de son exécution.</p>
+        <p>SAVOIR :     </p>
+        <p>Pour maçonnerie, à 57,000 f. </p>
+        <p>Pour sculpture d’ornement,à 7,200  </p>
+        <p>Pour le marbre de la statue de Molière, à 10,953  </p>
+        <p>Pour la sculpture des statues, à 33,000 </p>
+        <p>Pour le soete en marbre, à 2,000  </p>
+        <p>Pour travaux divers, honoraires de l’architecte et dépenses imprévues, à 11,975  </p>
+        <p>Pour fontainerie, à 9,000  </p>
+        <p>TOTAL : 131,128 f.<pb n="23"/></p>
         <p>Vu un nouveau devis du surcroît de dépense qui résulterait de l’emploi du marbre substitué à la pierre comme matière des deux statues accessoires, conformément à l’avis de la commission des beaux arts, faisant monter ce surcroît à 18,880 f. </p>
         <p>Ce qui porterait la dépense totale à  150,008 </p>
         <p>Vu, touchant les voies et moyens :</p>
@@ -631,7 +627,7 @@
         <p>Considérant qu’étant réservée la question de la matière à employer pour l’œuvre du statuaire, il y a lieu de modifier les chiffres ci-dessus visés, d’en retrancher les sommes de 10,953 fr. et de 18,880 fr., pour fourniture de marbre, et de réduire cette de 33,000 f., prix de la sculpture des statues, à 22,000 f., qui suffiront pour payer les modèles en plâtre, lesquels doivent être faits à l’avance par le sculpteur dans la grandeur de l’exécution, quelle que soit la matière dont il devra ultérieurement être fait usage, ce qui réduit la dépense actuelle à 109,175 francs.</p>
         <p>En ce qui touche les voies et moyens :</p>
         <p>Considérant qu’ils se composent déjà de 81,000 f., suivant le détail ci-dessus, parmi lesquels figurent les fonds provenant de la souscription, dont il y a lieu d’autoriser le versement à la caisse municipale.</p>
-        <p>Considérant, en ce qui concerne la part que la ville de Paris est appelée à prendre dans la souscription du monument de Molière, que ce grand homme, dont les arts n’ont pas encore suffisamment honoré la mémoire, est né à Paris, qu’il y a fait ses études, qu’il y a passé presque toute sa vie, qu’il y a exercé sa profession, qu’il y a écrit ses chefs-d’œuvre, qu’il y est mort, et, qu’en un mot, il n’y a pas un des rayons de sa gloire qui ne brille sur sa ville natale ;<seg rend="lieninternet">[/p.24]</seg></p>
+        <p>Considérant, en ce qui concerne la part que la ville de Paris est appelée à prendre dans la souscription du monument de Molière, que ce grand homme, dont les arts n’ont pas encore suffisamment honoré la mémoire, est né à Paris, qu’il y a fait ses études, qu’il y a passé presque toute sa vie, qu’il y a exercé sa profession, qu’il y a écrit ses chefs-d’œuvre, qu’il y est mort, et, qu’en un mot, il n’y a pas un des rayons de sa gloire qui ne brille sur sa ville natale ;<pb n="24"/></p>
         <p>Que lorsqu’il est question de lui ériger un monument digne de cette gloire, Paris, qui déjà y a contribué par les souscriptions particulières des chefs et des employés de son administration, de ses conseillers municipaux, d’un grand nombre de ses habitants, et notamment des sociétaires de la Comédie française, et, à leur exemple, des artistes des autres théâtres de la capitale ; Paris, disons-nous, ne veut pas, en tant que commune, rester étranger à cette Œuvre ;</p>
         <p>Considérant que la souscription de Paris, jointe aux 81,000 f. déjà disponibles, rend possible de commencer, dès à présent, les travaux ;</p>
         <p>Considérant, en ce qui touche le mode d’exécution de ces travaux, qu’ils ne sont pas de nature à être soumis à une adjudication, et qu’il convient qu’il y soit pourvu au moyen de traités passés avec des entrepreneurs connus ;</p>
@@ -641,7 +637,8 @@
         <p>3° Il autorise le versement à la Caisse Municipale des fonds provenant de la souscription, pour être employés, concurremment avec l’allocation municipale, à l’exécution du monument.</p>
         <p>4° Indépendamment des crédits ci-dessus rappelés, la ville de Paris souscrit pour trente mille francs audit monument ; cette somme sera imputée sur les fonds libres de 1839.</p>
         <p>5° Le Conseil invite M. le préfet à faire toutes les diligences nécessaires pour commencer les travaux le plus têt possible.</p>
-        <p>6° Ces travaux ne seront pas soumis à l’adjudication ; il en sera traité avec des entrepreneurs connus.<seg rend="lieninternet">[/p.25]</seg></p>
+        <p>6° Ces travaux ne seront pas soumis à l’adjudication ; il en sera traité avec des entrepreneurs connus.<pb n="25"/></p>
+      
       </div>
     </body>
   </text>
