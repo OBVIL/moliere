@@ -1,0 +1,570 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../teibook/teibook.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../teipub/xsl/tei2html.xsl"?>
+<!--odt2tei: 2015-03-17T11:09:17+01:00-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Une représentation de M. de Pourceaugnac à Chambord. Examen de deux fragments inédits paraissant appartenir à l’œuvre de Molière</title>
+        <author key="Celler, Ludovic (1828-18..)">Ludovic Celler</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL</edition>
+        <respStmt>
+          <name>Charlotte Dias</name>
+          <resp>OCR et stylage</resp>
+        </respStmt>
+        <respStmt>
+          <name>Chayma Soltani</name>
+          <resp>Structuration et encodage TEI</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <!--
+            <idno>http://obvil.paris-sorbonne.fr</idno>
+            -->
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><author>Ludovic Celler</author>, <title>Une représentation de M. de Pourceaugnac à Chambord. Examen de deux fragments inédits paraissant appartenir à l’œuvre de Molière</title>, in <hi rend="i">La Revue contemporaine</hi>, <pubPlace>Paris</pubPlace>, <date>1868</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1868"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head>EXAMEN DE DEUX FRAGMENTS INÉDITS PARAISSANT APPARTENIR A L'OEUVRE DE MOLIÈRE</head>
+        <p>Nous présentons ici, à un point de vue nouveau, quelques observations à propos de la comédie <hi rend="i">M. de Pourceaugnac</hi>, Toute œuvre de Molière doit être respectée; mais ce n’est pas dépasser les bornes de la critique que de reconnaître des défauts à cette œuvre, surtout lorsque nous supposons que ces défauts ont pu ne se produire qu’à la suite de circonstances particulières, et sous l’influence de nécessités de répertoire que Molière, avec sa troupe de comédiens à soigner et à faire vivre, se trouvait exposé à subir.</p>
+        <p>Nous croyons que <hi rend="i">M. de Pourceaugnac</hi> a existé un moment avec un autre plan que celui que nous connaissons. Il y aurait eu de cette pièce un premier essai disparu, et le modèle primitif, dont il est possible que nous ayons retrouvé des traces, était plus court, et, ce nous semble, mieux charpenté que le <hi rend="i">Pourceaugnac</hi> joué de nos jours. Une lecture attentive de la comédie <hi rend="i">M. de Pourceaugnac</hi> laisse dans <pb n="700"/> l’esprit 1'idée d’une chose incomplète, mal finie, soit dès 1'origine, soit par suite d’un remaniement ; il y a des hésitations dans la marche de l’intrigue, dans l’enchaînement de certains dialogues, dans l’ordre de quelques scènes. Si l’on rapproche de ces faits l’organisation musicale des intermèdes, la logique des morceaux de chant et de danse, si l’on cherche à faire concorder, en même temps, certaines anecdotes reçues pour vraies, telle, par exemple, celle de Lully sautant dans le clavecin de l’accompagnateur pour faire rire le roi Louis XIV, on arrivera facilement à conclure comme nous le faisons plus loin.</p>
+        <p>Il est bien entendu, toutefois, que ce n’est qu’avec une certaine crainte que nous exposons nos idées, et que nous sommes tout disposé à les reconnaître fausses si les raisonnements qui vont suivre paraissent insuffisants.</p>
+        <div>
+          <head>I</head>
+          <p>Ce fut en lisant la partition du <hi rend="i">Carnaval</hi>, de Lully, que nous trouvâmes les fragments dont nous allons parler au lecteur. Le <hi rend="i">Carnaval</hi> fut représenté au mois de février 1675; cet opéra-ballet avait huit intermèdes, une introduction et un finale, en tout dix entrées. Lully avait composé cette partition avec des divertissements pris dans diverses comédies de Molière; il ne s’était même pas donné la peine de réunir ces fragments par un sujet quelconque : chaque entrée se succédait sans liaison avec celle qui l’avait précédée et le carnaval était à lui seul un prétexte suffisant pour faire défiler et sauter des troupes de masques sur la scène. Les divers intermèdes ont été transportés là tels qu’ils avaient été joués ; l’intermède de <hi rend="i">Pourceaugnac</hi> ne doit pas faire exception plus qu’un autre, et, comme ceux qui le précèdent et le suivent, il a dû exister avant 1675 tel que le rapporte le <hi rend="i">Carnaval</hi>.</p>
+          <p>Le ballet du <hi rend="i">Carnaval</hi> (appelé aussi le <hi rend="i">Carnaval-Mascarade</hi>, ou la <hi rend="i">Mascarade-Carnaval</hi>, ou mieux, et c’est son vrai titre, le <hi rend="i">Carnaval</hi>, ballet-mascarade), figure au catalogue Soleine, sous le n° 3301-7- ; il y est désigné comme étant composé de huit entrées et d’un prologue :</p>
+          <p>N° 3301. Le Carnaval, ballet-mascarade, huit entrées et prologue; paroles prises dans Quinault, Benserade et Molière, musique de Lully, 17 octobre 1675-1700.</p>
+          <p><pb n="701"/></p>
+          <p>La note ajoute:</p>
+          <p>Pourceaugnac, acte tiré de ce ballet, 1716-30.</p>
+          <p>Il en résulte que le succès du <hi rend="i">Carnaval</hi> avait été assez grand pour que, joué d’abord en 1675, il fût repris en 1700, et pour qu’une partie de cette partition fût jouée en 1716, séparément, puis encore en 1730.</p>
+          <p>Les indications du catalogue Soleine ne nous paraissent pas parfaitement exactes ; il y a erreur sur la date de la représentation ; le nombre des entrées est mal indiqué, et si Quinault ou Benserade (et non les deux, et c’est plutôt Benserade) a fourni quelque chose, ce ne peut être que dans l’introduction, la très courte 9ª entrée et le finale, intermèdes tirés d’un même et seul divertissement, intermèdes très secondaires, méritant à peine qu’on les cite. Ils ne sont là que pour former un cadre.</p>
+          <p>Voici, au reste, la liste exacte des entrées du <hi rend="i">Carnaval</hi>, avec l’indication des pièces où elles ont été prises :</p>
+          <p>L'<hi rend="i">introduction</hi>, avec chœurs, contenant l’air :</p>
+          <quote>
+            <l>Je reviens à mon tour</l>
+            <l>Dans cette illustre cour...</l>
+          </quote>
+          <p>et le chœur :</p>
+          <quote>
+            <l>Profitons du temps qu’il donne à nos chants...</l>
+          </quote>
+          <p>est prise dans un autre <hi rend="i">Carnaval</hi>, dansé à la cour en 1668.</p>
+          <p>La <hi rend="i">première entrée : Les Espagnols</hi> (Trois Espagnols chantants, trois Espagnols et trois Espagnoles dansants), avec les airs :</p>
+          <quote>
+            <l>Se que me'muero, de amor...</l>
+          </quote>
+          <p>et celui de :</p>
+          <quote>
+            <l>Dulce muerte es el amor...</l>
+          </quote>
+          <p>vient du <hi rend="i">Bourgeois gentilhomme</hi>.</p>
+          <p>La 2<hi rend="sup">e</hi> <hi rend="i">entrée : Le Barbacole</hi> (un maître d’école italien, nommé Barbacola, avec quatre enfants écoliers) est tirée d’une ancienne pièce de Molière dont nous nous réservons de parler à la fin de cet article.</p>
+          <p>La 3<hi rend="sup">e</hi> <hi rend="i">entrée est</hi> le <hi rend="i">Pourceaugnac</hi>.</p>
+          <p><pb n="702"/>
+          </p>
+          <p>La 4<hi rend="sup">e</hi> <hi rend="i">entrée : La Bergerie</hi> (Philène, Tircis, troupe de bergers, de bergères et de paysans) avec l’air :</p>
+          <quote>
+            <l>Si du triste récit de mon inquiétude...</l>
+          </quote>
+          <p>et celui de :</p>
+          <quote>
+            <l>Pauvres amants...</l>
+          </quote>
+          <p>est tirée du concert donné dans le <hi rend="i">Sicilien</hi>.</p>
+          <p>La 5<hi rend="sup">e</hi> <hi rend="i">entrée : Les Italiens et les Egyptiens</hi>, est tirée du <hi rend="i">Bourgeois gentilhomme</hi> pour les morceaux :</p>
+          <quote>
+            <l>Di rigori armata il seno...</l>
+            <l>Ma si caro è il mio tormento...</l>
+          </quote>
+          <p>et de <hi rend="i">Pourceaugnac</hi> pour le finale :</p>
+          <quote>
+            <l>Sortez de ces lieux Soucis, chagrins et tristesse...</l>
+            <l>Les biens, la gloire... les sceptres qu’on envie...</l>
+          </quote>
+          <p>La 6<hi rend="sup">e</hi> <hi rend="i">entrée : Le Muphti et la Cérémonie turque</hi>, est prise dans le <hi rend="i">Bourgeois gentilhomme.</hi></p>
+          <p>La 7<hi rend="sup">e</hi> <hi rend="i">entrée: Les Nouveaux mariés</hi> (Philis, Idas, Lycas), avec le morceau :</p>
+          <quote>
+            <l>Répands, charmante nuit...</l>
+          </quote>
+          <p>et les airs des musiciens, vient de la sérénade de <hi rend="i">Pourceaugnac.</hi></p>
+          <p>La 8<hi rend="sup">e</hi> <hi rend="i">entrée : Les Bohémiennes</hi> (un Egyptien, dansant et chantant, est accompagné de quatre Bohémiens jouant de la guitare, de quatre Basques jouant des castagnettes, et de quatre Egyptiens jouant des gnaccares) avec les airs suivants :</p>
+          <quote>
+            <l>D’un pauvre cœur soulagez le martyre.</l>
+            <l>Croyez-moi, hâtons-nous, ma Sylvie...</l>
+          </quote>
+          <p>est tirée de la <hi rend="i">Pastorale comique.</hi></p>
+          <p>La 9<hi rend="sup">e</hi> <hi rend="i">entrée : La Galanterie</hi> (la Galanterie est accompagnée de deux Basques et de cinq polichinelles qui dansent alternativement après son chant), avec les paroles :</p>
+          <quote>
+            <l>Soyez Adèle.</l>
+            <l>Le soin d’un amant..</l>
+          </quote>
+          <p><pb n="703"/> vient, comme l’Introduction, du <hi rend="i">Carnaval</hi> de 1668.</p>
+          <p>La 10<hi rend="sup">e</hi> <hi rend="i">entrée : Réunion du Carnaval et des peuples qui forment cette mascarade</hi>,</p>
+          <quote>
+            <l>Corrigeons de l’hiver la rigueur naturelle...</l>
+            <l>Mêlons à la danse la douceur de nos chansons...</l>
+          </quote>
+          <p>vient aussi, comme l’introduction et la 9e entrée, du <hi rend="i">Carnaval</hi> de l’hiver 1668.</p>
+          <p>Sans parler ici du <hi rend="i">Pourceaugnac</hi> que nous allons examiner, on peut acquérir la certitude que toutes ces entrées ont été prises sans changement — sauf trois morceaux de peu d’importance, elles sont toutes tirées de Molière — et <hi rend="i">Pourceaugnac</hi> a livré au <hi rend="i">Carnaval</hi> toute la musique de ses intermèdes.</p>
+        </div>
+        <div>
+          <head>II</head>
+          <p>Mais ici se place une remarque singulière : toute vérification faite, nous le répétons, les intermèdes du <hi rend="i">Carnaval</hi> ont été pris dans les divertissements indiqués sans changements aucuns — or, l’intermède de <hi rend="i">Pourceaugnac</hi> du <hi rend="i">Carnaval</hi> est le seul qui diffère essentiellement, non comme matériaux, mais comme ordre, de l’intermède que nous a conservé la Comédie-Française.</p>
+          <p>Nous transcrivons ici l’intermède : <hi rend="i">le Pourceaugnac</hi> tiré du <hi rend="i">Carnaval</hi> ; nous y joignons les paroles françaises qui accompagnent l’édition du divertissement de Chambord, publiée chez Ballard, (indiquée comme imprimée en 1670, in-4°, mais que nous n’avons pu trouver que portant la date de 1715. Au reste, comme on le verra plus loin, cette différence de date n’a qu’une importance secondaire.)</p>
+          <p>Pourceaugnac, bourgeois italien, vient demander justice sur ce que deux femmes veulent lui faire accroire qu’il les a épousées toutes deux, et chante :</p>
+          <quote>
+            <l>Giustitia !</l>
+            <l>Giustitia !</l>
+            <l>(4 fois)</l>
+            <l/>
+            <l>Non sara moi possibile,</l>
+            <l>Cbè in caso si terribile.</l>
+            <l>Non trovi qualche giudice,</l>
+            <l>Che con le sue man’sudice,</l>
+            <l>Miscriva discolpe vole</l>
+            <l>Che mi sia favorevole</l>
+            <l>Contro si gran’ malitia,</l>
+            <l/>
+            <l>Giustitia !</l>
+            <l>Giustitia !</l>
+            <l>(4 fois)</l>
+          </quote>
+          <p><pb n="704"/>
+          </p>
+          <p>Pourceaugnac aperçoit un avocat et le salue en chantant :</p>
+          <quote>
+            <l>O signor avocato,</l>
+            <l>Che sete il ben trovato,</l>
+            <l>Che sete sempre, sempro. il ben trovato !</l>
+            <l>Vi voglio consultare,</l>
+            <l>Per un negotio grande,</l>
+            <l>Degnate vi ascoltare.</l>
+          </quote>
+          <p>Pourceaugnac expose le fait :</p>
+          <quote>
+            <l>Due donne indiavolate</l>
+            <l>Mi fann’ un processo atroce,</l>
+            <l>Gridand’ ad alla voce,</l>
+            <l>Che con me son maritate.</l>
+            <l>Han mentito (3 <hi rend="i">fois)</hi> lo scelerate;</l>
+            <l>M’hanno meinato tanti bambini</l>
+            <l>Tanti puttini</l>
+            <l>Picini, Picini,</l>
+            <l/>
+            <l>M’hanno messo tutt’ in bisbiglio</l>
+            <l>Car’ avocato mio</l>
+            <l>Consiglio {bis)</l>
+            <l>(4 fois)</l>
+            <l/>
+            <l>Car avocato mio Consiglio <hi rend="i">{bis).</hi></l>
+          </quote>
+          <p>L’avocat lui répond en chantant fort lentement, et traînant ses paroles :</p>
+          <quote>
+            <l>La polygamie est un cas pendable.</l>
+          </quote>
+          <p>Pourceaugnac répond :</p>
+          <quote>
+            <l>Già so che chi due volte è maritato</l>
+            <l>Dev’ esser impicato !</l>
+          </quote>
+          <p>L’avocat traînant ses paroles, l’interrompt en chantant ; Pourceaugnac chante en même temps :</p>
+          <quote>
+            <label>L’AVOCAT. </label>
+            <l>La po-ly-ga-mie est un cas pen-da-ble</l>
+            <label>P0URCEAUGNAC.</label>
+            <l>Malo  lo so, lo credo.</l>
+            <l>Se non o ma spozato !</l>
+            <l>Non poss’ er condamnato...</l>
+            <l>Brutta, bestia, furfantone!</l>
+            <l>Brutto, brutto, gatto mammone !</l>
+            <l>Viso dispia</l>
+            <l>Becco cornuto, va te ne via!</l>
+          </quote>
+          <p><pb n="705" xml:id="p705"/> </p>
+          <p>Pourceaugnac aperçoit un autre avocat et lui fait la réverence en chantant :</p>
+          <quote>
+            <l>Facio la revercnzza</l>
+            <l>Alla grand’ eccellenza,</l>
+            <l>Bel’ buom’ il più saputo</l>
+            <l>E il piu singulare</l>
+            <l>Che si possa trovare !</l>
+            <l>Date mi qualch’ ajuto,</l>
+            <l>Consigliate mi quanto la potrete !</l>
+            <l>Sentite</l>
+            <l>La mia lite</l>
+            <l>Poi mi responderete.</l>
+          </quote>
+          <p>Pourceaugnac expose le fait (comme ci-dessus).</p>
+          <quote>
+            <l>Due donne, etc.</l>
+          </quote>
+          <p>L’avocat, parlant fort vite et bredouillant, répond ;</p>
+          <quote>
+            <l>Votre fait est clair et net,</l>
+            <l>Et tout le droit en cet Endroit...</l>
+          </quote>
+          <p>Toute cette tirade est la même que dans <hi rend="i">le Pourceaugnac</hi> ordinaire ; elle se termine donc par ces derniers mots de l’avocat :</p>
+          <quote>
+            <l>La Polygamie est un cas,</l>
+            <l>Est un cas pendable <hi rend="i">(bis).</hi></l>
+          </quote>
+          <p>Pourceaugnac, au désespoir, répond à l’avocat bredouilleux :</p>
+          <quote>
+            <l>Tinque! (9 fois) tin!</l>
+            <l>Povero Pursognacco,</l>
+            <l>Giur' al corpo di Bacco</l>
+            <l>Che questi consultanti</l>
+            <l>Sono tutt’ ignoranti.</l>
+          </quote>
+          <p>Il prend les deux avocats, et leur dit :</p>
+          <quote>
+            <l>Vien’ qua, animalacio !</l>
+            <l>E tu, brutto mostaccio :</l>
+            <l>Come volesser ch'io sia condamnato</l>
+            <l>Poiche non’ o peccato</l>
+            <l>Come potesser che si dia sentenzza,</l>
+            <l>Contra rinnocenza (bis)</l>
+            <l>Per gratia !</l>
+            <l>Per pieta !</l>
+            <l>Per amicitia !</l>
+            <l>Date mi un modo per aver giustitia.</l>
+          </quote>
+          <p><pb n="706"/>
+          </p>
+          <p>L’avocat, traînant ses paroles, dit : « <quote>La polygamie !</quote> »... pendant  que l’avocat bredouilleur dit : « <quote>Tous les peuples...</quote></p>
+          <quote>
+            <label>L’AVOCAT BREDOUILLEUR. </label>
+            <l>Tous les peuples policés</l>
+            <l>.Et bien sensés...</l>
+            <label>L’AVOCAT TRAINANT</label>
+            <l>La Po-ly-ga-mie est..</l>
+          </quote>
+          <p>Les paroles de l’avocat bredouilleur sont celles du deuxième couplet, qu il chante dans la comédie, et se terminent comme le premier.</p>
+          <p>Pourceaugnac leur dit :</p>
+          <quote>
+            <l>Non l’o mai conosciute</l>
+            <l>Sono due becche cornute,</l>
+            <l>Le voglio far frustare</l>
+            <l>Le voglio far impicare !</l>
+            <l>Site roi corne lo posso fare <hi rend="i">(bis).</hi></l>
+            <l>Vi voglio ben pagare</l>
+            <l>Dite mi corne lo posso fare <hi rend="i">(bis).</hi></l>
+          </quote>
+          <p>L’avocat, traînant ses paroles, chante, pendant que l’avocat bredouilleur chante, puis Pourceaugnac chante en même temps:</p>
+          <quote>
+            <label>L’AVOCAT BRED. </label>
+            <l>Tous les peuples policés</l>
+            <l>Et sensés</l>
+            <l>Etc....</l>
+            <label>POURCEAUGNAC</label>
+            <l>Non ne posso piu !</l>
+            <l>Questo mai non su,</l>
+            <l>Non sava, no <hi rend="i">(ter)</hi> la giustitia si fara</l>
+            <l>Quest’ è troppo crudelta.</l>
+            <l>Se te tutti forbi, questo non sara,</l>
+            <l>La giustitia <hi rend="i">(bis)</hi> si fara!</l>
+            <label>L’AVOCAT TRAINANT.</label>
+            <l>La Po-ly-ga-mie est un...</l>
+          </quote>
+          <p>Pourceaugnac seul se plaint à l’amour :</p>
+          <quote>
+            <l>Amor, crudel amor !</l>
+            <l>Che t’o fattio !</l>
+            <l>(bis)</l>
+            <l/>
+            <l>Dar mi due donne, amor, o quest’ è troppo !</l>
+            <l>O quest’ è troppo.</l>
+            <l>Tu sei ch’ il Dio Vulcano</l>
+            <l>Povero Zoppo</l>
+            <l>Sposo la dea</l>
+            <l>Di Cipro</l>
+            <l>Per sua mala fiortana.</l>
+            <l>Egli su becco</l>
+            <l>E n’ebbe troppo d’una.</l>
+            <l>Perché due Donne a me? Amor spietato!</l>
+            <l>Tu mi voi disperato.</l>
+            <l>O cieli ! o stelle ! o fatorio!</l>
+            <l/>
+            <l>Amor, crudel amor !</l>
+            <l>Che t’o fattio !</l>
+            <l>(bis)</l>
+          </quote>
+          <p><pb n="707"/>>
+          </p>
+          <p>Deux opérateurs italiens et six matassins viennent pour réjouir » Pourceaugnac dans sa mélancolie, et chantent :</p>
+          <quote>
+            <l>Bondi ! Bondi !</l>
+            <l>......</l>
+          </quote>
+          <p>Les paroles des opérateurs sont celles des deux médecins des éditions ordinaires; elles se terminent, au deuxième couplet, par :</p>
+          <quote>
+            <l>E qualche volta un pocco di tabac</l>
+            <l>Allegramente, monsu Pourceaugnac !</l>
+          </quote>
+          <p>Entrée de ballet : Les matassins dansent.</p>
+          <p>Les deux opérateurs, chacun avec une seringue, vantent la bonté du remède qu’ils apportent à Pourceaugnac.</p>
+          <quote>
+            <l>Non vidate più tedio</l>
+            <l>Quest’ il vcro remedio</l>
+            <l>Che va cercar d’a basso’ al fronte spizio.</l>
+            <l>Balegr' e non sa male</l>
+            <l>A tutti fa servitio</l>
+            <l/>
+            <l>Per questo lo chiamiamo</l>
+            <l>Servitiale</l>
+            <l>(bis)</l>
+            <l/>
+            <l>L’abbiamo fatt’ a posta</l>
+            <l>Poco denaro costa</l>
+            <l>E bono,</l>
+            <l>E dolce, benigno,</l>
+            <l>O via (bis)</l>
+            <l>Metta la testa à basso</l>
+            <l>Vo signoria !</l>
+          </quote>
+          <p>Ce couplet, on peut le remarquer, remplace complètement la scène XV du premier acte, celle de l’apothicaire présentant le clystère, qu’il déclare : <quote>« Bénin, bénin. »</quote></p>
+          <p>Les deux opérateurs veulent forcer Pourceaugnac à prendre le remède en chantant :</p>
+          <quote>
+            <l>Pigliate lo presto, <hi rend="i">(bis)</hi></l>
+            <l>Ciè un poco d’agresto,</l>
+            <l>Che ralegr’ il cor,</l>
+            <l>Fa poco dolore.</l>
+            <l>Tien il corpo lesto</l>
+            <l>Le buon’ è benigno, <hi rend="i">(ter)</hi></l>
+            <l>Vel giur* e protesto, (<hi rend="i">bis)</hi></l>
+            <l>Pigliate lo presto,</l>
+            <l>Pigliate <hi rend="i">(ter)</hi> lo presto</l>
+            <l>Pigliate <hi rend="i">(bis)</hi> lo presto</l>
+          </quote>
+          <p><pb n="708"/>
+          </p>
+          <p>Pourceaugnac répond qu’il ne veut pas le prendre et chante :</p>
+          <quote>
+            <l>Non lo voglio pigliare</l>
+            <l>No (4 fois).</l>
+            <l>(bis)</l>
+            <l>Non lo Yoglio pigliare</l>
+            <l>Lasciate mi andare <hi rend="i">(bis)</hi></l>
+            <l>Volele sforzare</l>
+            <l>Vi mandera fate,</l>
+            <l>Squartate, squartate.</l>
+            <l>Lasciate mi andare.</l>
+            <l>No <hi rend="i">(5 fois)</hi></l>
+            <l>Non voglio pigliare</l>
+            <l>No (<hi rend="i">ter)</hi> voglio pigliare !</l>
+          </quote>
+          <p>Les opérateurs et les matassins veulent à toute force qu’il le prenne.</p>
+          <quote>
+            <l>Piglia lo su,</l>
+            <l>Signor monsu</l>
+            <l>Etc ....</l>
+          </quote>
+          <p>Les paroles qui suivent sont celles des éditions ordinaires ; puis vient la poursuite des matassins, mais cette poursuite est indiquée dans le <hi rend="i">Divertissement de Chambord</hi> comme faite avec <hi rend="i">chœur chanté.</hi></p>
+          <p>Il y a dans le texte italien de ce divertissement de nombreuses fautes d’orthographe venant de l’impression musicale, (il y en a bien d’autres dans les partitions des opéras de Lully) ; mais nous n’avons pas besoin d’insister pour faire sentir les différences notables qui existent entre l’intermède tel qu’il est copié ci-dessus et celui que donnent les œuvres de Molière. — Il y a surtout un renversement complet dans l’ordre des deux scènes des avocats et des apothicaires — Pourceaugnac s’exprime tout le temps en Italien ; — il chante un air sentimental.—Les répliques, dans la consultation des avocats, deviennent plus comiques et donnent lieu à un duo et un triode forme originale, dans lesquels le double caractère des avocats, avec leur entêtement mis en relief par la musique, gagnent au rapprochement de la colère de Pourceaugnac.</p>
+          <p>Nous insisterons davantage sur les arguments de chaque scène, écrits en français dans la partition, ils ont l’allure de ceux de Molière. Les phrases italiennes elles-mêmes ressemblent à celles (trop fréquentes) que Molière a placées parfois dans ses comédies pour complaire au goût de la cour, qui avait conservé les traditions de Mazarin, malgré le mariage espagnol du roi. De plus, pour bien préciser l’ordre des intermèdes, nous noterons un fait, c’est qu’après la consultation des avocats et l’air de Pourceaugnac à l’amour, <pb n="709" xml:id="p709"/> un signe, habituel à l’époque dans l’impression musicale, indique que l’on doit suivre à la scène des opérateurs ou médecins ; l’harmonie l’indique, au reste, sans conteste, et la situation rend cet ordre logique.</p>
+          <p>A partir de l’entrée des opérateurs, sauf un couplet de ceux-ci, qui, comme nous l’avons fait remarquer, remplace la scène XV du premier acte, les paroles de l’intermède sont celles du <hi rend="i">Pourceaugnac</hi> ordinaire.</p>
+          <p>Cet enchaînement des scènes des avocats et des médecins, contraire à celui auquel on est accoutumé, nous paraît avoir existé; il est d’ailleurs un fait à noter, c’est que les productions musicales n’innovent pas, se mêlent peu de littérature et ne font que fixer d’une manière inconsciente ce qui existait déjà; nous en concluons que le <hi rend="i">Pourceaugnac</hi> joué à Chambord a contenu l’intermède que nous venons de transcrire. Cet intermède nous semble meilleur comme logique, comique, ordre et musique, que celui qui lui a succédé, et voici les raisons que nous invoquerons en faveur de notre thèse; nous expliquerons en même temps les modifications qu’a dû subir la comédie et la forme que, selon nous, elle a pu avoir auparavant.</p>
+        </div>
+        <div>
+          <head>III</head>
+          <p>La comédie de <hi rend="i">M. de Pourceaugnac</hi> est défectueuse à partir du 2<anchor xml:id="footnote1"/><hi rend="sup">e</hi> acte, et il ne serait nullement étonnant que la hâte apportée par Molière à remanier sa pièce ne fût la cause de ces défaillances<note place="bottom"><p>Voici certaines dates qui peuvent être utiles à propos du <hi rend="i">Pourceaugnac</hi>, des publications qui s’y rapportent, et des relations de Molière et de Lully.</p><p>Le roi quitte Saint-Germain pour Chambord, 16 septembre 1889. — Divertissement de Chambord, 6 octobre 1669. — Retour à Saint-Germain, 90 octobre 1689. — Représentation de Pourceaugnac à Paris, 15 novembre 1889. — Publication du divertissement de Chambord chez J. Hotot, à Blois, fin de 1869, — <hi rend="i">Idem</hi> chez Ballard, in-4° 1670. — Publication de Pourceaugnac, Paris, Jean Ribou. in-12,1670. — <hi rend="i">Idem</hi> Cl. Barbin, in-12, 1678. — Brouille de Molière et de Lully, 1672. — Représentation du <hi rend="i">Carnaval</hi>, 1675. — Mort de Molière, 17 février 1673. — Mort de Lully, 22 mars 1687.</p></note>.</p>
+          <p>Le 3<hi rend="sup">e</hi> acte ne se compose que de répétitions continuelles d’une même situation, d’emplois successifs d’une même plaisanterie, qui fatigue, — après les avocats, viennent les suisses, — après les suisses, les sergents. —La peur, toujours la peur de Pourceaugnac, 'tel est l’élément comique abusivement mis en œuvre. Puis la pièce ne finit pas; cela est si vrai qu’à la Comédie-Française (du moins il y a 15 ou 20 ans encore) on terminait <hi rend="i">M, de Pourceaugnac</hi> en faisant apparaître, dans une loge de premier rang, l’artiste qui venait de remplir le rôle de Pourceaugnac, et il invitait les acteurs <pb n="710"/> à lui rendre visite à Limoges. Ainsi finissait la comédie. Y avait-il là tradition ? Toujours est-il que c’était reconnaître la manière défectueuse dont se termine la comédie de Molière, après un long acte, qui n’a pas plus de raison pour finir que pour commencer.</p>
+          <p>Mais si le 3<hi rend="sup">e</hi> acte n’est pas irréprochable, le second acte renferme quelque chose de plus mauvais encore, c’est la liaison ou plutôt l’absence de liaison entre la scène des avocats et les scènes qui précèdent. M. Auger, dans les notes de son édition, fait une observation fort juste; il dit : Sbrigani avertit Pourceaugnac que les avocats ne peuvent s’exprimer sans chanter, mais rien ne vient avertir qu’ils connaissent d’avance la question dont il s’agit : <quote>« Molière se gène si peu avec son personnage, ou, si l’on veut, avec son public, qu’il ne prend pas môme la peine de lier la scène qui finit à la scène qui va commencer, en faisant expliquer aux avocats, soit par Sbrigani, soit par Pourceaugnac, le cas sur lequel celui-ci veut les consulter. Ils se trouvent là à point nommé, et parlent sur le champ de polygamie, sans qu’ils puissent savoir qu’il en est question. »</quote></p>
+          <p>Ceci est très vrai ; mais c’est un fait qui indique, pour nous, qu’auparavant il devait y avoir un exposé de l’affaire de la part de Pourceaugnac ; c’est cet exposé qui était fait logiquement et gaiement par Pourceaugnac dans l’intermède en langue italienne. La musique des avocats doit être le reste d’un divertissement mieux enchaîné ; car à quel propos Molière, qui n’a pas. fait chanter ni danser les médecins consultants de la scène XI<hi rend="sup">e</hi>, aurait-il (ait, sans avoir une raison préalable de mise en scène, chanter et danser deux avocats? Or, si, là, Pourceaugnac parlait italien, c’est qu’auparavant il avait <hi rend="i">baragouiné</hi> dans cette langue; on ne peut guère admettre que Pourceaugnac, ayant parlé français tout le temps, aille prendre subitement la langue italienne ; cela passe pour un petit rôle épisodique comme celui des médecins, mais non quand il s’agit d’un premier rôle, du moins dans notre Théâtre-Français ordinaire, car lg mélange des paroles françaises et italiennes se rencontrait parfois chez Molière dans les pièces écrites pour la cour, en souvenir des Italiens appelés sous le dernier règne.</p>
+          <p>Une anecdote bien connue rapportée par Brossette et Cizeron-Rival (non dans le <hi rend="i">Bolœana</hi>, comme le dit M. Auger), semble appuyer notre idée d’un Pourceaugnac différent de celui que nous connaissons. <quote>« Lully, ayant eu le malheur de déplaire au roi, voulut essayer de rentrer dans ses bonnes grâces par une plaisanterie. Pour cet effet, il joua le rôle de Pourceaugnac devant Sa Majesté, et y réussit à merveille, <hi rend="i">surtout à la fin de la pièce</hi>, quand les apothicaires, armés de leurs seringues, poursuivent M. de Pourceaugnac. Lully, après avoir couru longtemps sur le théâtre pour les éviter, <pb n="711" xml:id="p711"/> vint sauter au milieu du clavecin qui était dans l’orchestre, et mit le clavecin en pièces. La gravité du roi ne put tenir contre cette folie, et Sa Majesté pardonna à Lully en faveur de la nouveauté. »</quote></p>
+          <p>Il résulte de cette anecdote, rapportée par un témoin peut-être oculaire, que la poursuite des apothicaires avait lieu à la fin de la pièce, — que Lully jouait le rôle de Pourceaugnac au moins pour cette fois, — que le divertissement terminait la soirée ou du moins la comédie — que Lully ne jouait pas, au moins cette fois, un des deux médecins grotesques.</p>
+          <p>M. Auger conteste l’authenticité, non de l’anecdote, mais des détails, et prétend que Lully, avec son <quote>« baragouin »</quote> italien, n’était pas en état de jouer Pourceaugnac. — Non certes ! à moins que Pourceaugnac ne fût pas cette fois ce que nous le connaissons, et fût, comme l’indique la partition, non un gentilhomme Limousin, mais un gentilhomme Italien, un Bouffon, un Cassandre.</p>
+          <p>En tous cas, on reconnaîtra que. si Lully a joué, il devait chanter mieux que Molière et les morceaux trouvés en plus, leur authenticité admise, constitueraient encore un argument en faveur d’un premier modèle de <hi rend="i">M. de Pourceaugnac</hi>.</p>
+          <p>A-t-on remarqué, à propos de la nationalité passagère du rôle de Pourceaugnac, celle de Sbrigani?</p>
+          <quote>
+            <l>ERASTE : … Voici notre subtil Napolitain qui nous dira des nouvelles.</l>
+            <p>1er acte, scène III.</p>
+          </quote>
+          <p>Ce n’est pas la première fois que Molière emploie le valet italien, mais c’est la seule fois qu’il emploie, à Paris, un valet ayant un nom italien. <hi rend="i">Pourceaugnac</hi> est la seule pièce de Molière qui, ne se passant pas en Italie, ait un valet italien, avec un nom italien. Aucun valet n’est Italien dans les pièces qui ne se passent pas en Italie; souvent même dans celles dont la scène est à Naples ou en Sicile, le valet a un nom français, par exemple Scapin, ou turc : Hali. — Sbrigani fait seul exception : la raison ne viendrait-elle pas de ce qu’il était destiné à renouer connaissance avec un compatriote, et cela justifierait encore le Pursognacco, gentilhomme italien dans le canevas original.</p>
+          <p>Il n’y aurait rien d’excessif à admettre que Pourceaugnac fut d’abord un seigneur italien, et la nationalité de Sbrigani (bien que l’italianisme fût alors de formule pour le valet fripon et rusé) servirait à faciliter la reconnaissance entre compatriotes.</p>
+          <quote>
+            <l>SBRIGANI : Je suis originaire de Naples, à votre service.</l>
+            <p rend="i">1er acte, scène IV.</p>
+          </quote>
+          <p><pb n="712"/> Lorsque Molière refit sa pièce, il mit Limoges au lieu de Naples ; il métamorphosa le Napolitain en Limousin pour le public ordinaire de Paris, afin que le ridicule portât davantage, — toujours la rivalité de Paris et de la province ! — L'anecdote du gentilhomme provincial dont Loret parle à propos de la représentation à Paris (car il ne dit rien, malheureusement, de celle de Chambord),</p>
+          <quote>
+            <l>Il joue (Molière) autant bien qu’il se peut,</l>
+            <l>Ce marquis de nouvelle fonte,</l>
+            <l>Dont par hasard, à ce qu’on conte,</l>
+            <l>L'original est à Paris...</l>
+          </quote>
+          <p>peut-être vraie malgré cela et s’appliquer au remaniement, après avoir coïncidé avec lui ; les ridicules sont de tous les temps et de tous les pays.</p>
+          <p>On a aussi cherché si Molière n’aurait pas pris l’idée de Pourceaugnac dans quelque pièce composée antérieurement Parmi celles que l’on a reconnues comme ayant pu lui servir à <quote>« prendre son bien »</quote> où il le trouvait, on a cité : <hi rend="i">le Disgrazie dArlechino</hi>, pièce qui paraît avoir fourni à Molière l’idée de quelques-uns des tours que l’on fait à Pourceaugnac. Le héros de cette farce italienne est Italien ; ne pourrait-il pas se faire encore, si cette source est vraie, qu’on y trouve un argument en faveur d’un premier Pourceaugnac, gentilhomme italien ?</p>
+          <p>On peut remarquer qu’évidemment, si l’on admet l’ordre indiqué par le divertissement publié chez les Ballard, l’ordre des scènes y eût gagné. On évitait ainsi deux inconvénients: la longueur du troisième acte, l’absence de liaison de la scène des avocats. Tout eût été expliqué dans les épisodes qui semblent se présenter sans raison, et la pièce eût surtout gagné par sa fin, qui eût été faite avec la poursuite des apothicaires ; ces apothicaires sont la gaieté ; le rire disparaît quand il sont partis ; ils ne devraient donc point se montrer au premier acte, car ils tuent l’élément comique pour le reste de la soirée, et ils formeraient un finale brillant, croissant en gaieté, tandis que le troisième acte actuel s’éteint dans l’ennui d’un rire forcé et trop prolongé.</p>
+        </div>
+        <div>
+          <head>IV</head>
+          <p>On pourrait faire cette objection, contre le remaniement que nous entrevoyons, que si pareille chose avait existé, on en eût sans doute déjà trouvé la trace ; mais la comédie de <hi rend="i">Pourceaugnac</hi> peut avoir été, comme tant d’autres pièces de Molière, corrigée avant d’être publiée. La tradition résultant de représentations nombreuses sur la <pb n="713"/> scène ordinaire avait fait oublier la première forme. L’impression d’une œuvre de théâtre se faisait rarement tout de suite<note place="bottom">C’était l’usage pour tout genre de publications; ainsi, par exemple, <hi rend="i">le Carnaval</hi>, ballet mascarade, représenté en 1675, porte comme date d’impression celle de 1730 ; et à la suite est un prospectus des Ballard, annonçant les opéras de Lully, dont un encore sous presse en 1720, — et Lully était mort en 1687.</note>. D’ailleurs il y a encore beaucoup à chercher sur Molière, et l’on trouve parfois quelque document nouveau (sauf cependant un autographe; ce merle blanc, rêve des collectionneurs) ; et ce n’est pas une chose peu singulière que de voir les trouvailles fort menues, mais assez fréquentes, que l’on fait sur ce terrain si souvent exploré et fouillé. Il est étrange que la musique du temps n’ait pas été mieux vérifiée; son innocuité littéraire la rendait propre à devenir un dépositaire inintelligent mais loyal ; les vieilles archives musicales de l’Opéra et des Français renferment peut-être, sous une lourde couche de poussière, des curiosités littéraires dignes de voir le jour.</p>
+          <p>On pourrait dire encore que Lully a mis de son cru dans <hi rend="i">le Carnaval</hi> ; mais Lully a pris tous les autres intermèdes tout faits sans y rien changer ; pourquoi supposer que, pour <hi rend="i">Pourceaugnac</hi> seul, il ait remanié le <hi rend="i">Divertissement de Molière</hi> ? Lully était trop paresseux, trop intrigant pour mettre du sien là où le bien d’autrui suffisait ; d’ailleurs, ce bien d’autrui était peut-être un peu le sien, s’il est vrai que souvent il travaillait avec Molière pour -l’organisation des divertissements de la Cour.</p>
+          <p>Un argument plus sérieux à opposer au système que nous émettons est celui que l’on tire de la publication du ballet : <hi rend="i">(le Divertissement de Chambord</hi>, à Blois, chez J. Holot, imprimeur et libraire du Roy, devant la Grande-Fontaine, 1669, petit in-4°carré.) <hi rend="i">Pourceaugnac</hi> est indiqué comme étant en trois actes. Mais ce livret ne porte pas, comme les divertissements ordinaires de la Cour, la date du jour de la première représentation. Cette date était de règle, car les livrets étaient les programmes distribués aux assistants avant le commencement de la fête ; nous serions tentés de conclure que ce ballet, ainsi relaté sans date, n’a pas été imprimé selon la forme première, mais bien selon la forme que Molière a donnée à son œuvre pour les représentations qui ont suivi.</p>
+          <p>Car nous ne prétendons pas que Pourceaugnac soit resté longtemps avec cette forme passagère que nous indiquons; nous disons seulement que pour une seule fois que Pourceaugnac fut joué avec un rôle italien et un ordre différent ; ce ne fut là qu’un fait exceptionnel, mais un fait exceptionnel qui se serait passé avec l’assentiment de Molière et sa collaboration ; à cette époque, Molière n’était pas encore brouillé avec Lully ; ils se brouillèrent seulement en 1672. Nous disons :</p>
+          <p><pb n="714"/>
+          </p>
+          <p>1° Il y eut un canevas donné soit par Lully, soit par Molière-Peut-être y eut-il copie d’une farce ancienne ; peut-être une anecdote du temps fournit-elle le sujet<note place="bottom"><p>En plus de l’anecdote du gentilhomme campagnard, qui aurait servi à Molière pour dessiner son Pourceaugnac, on raconte aussi l’histoire d’un apothicaire qui, appelé par de jeunes gentilshommes, en toute hâte, pour donner &amp; un malade un lavement bien chaud, se vit saisir par les jeunes fous; on lui administra de force le lavement bouillant qu’il apportait, et on le força de boire et de danser, si bien qu’on craignit qu’il es « crevât. »</p><p>La comédie inspira peut-être cette mauvaise plaisanterie au lieu de l’avoir copiée.</p></note>.</p>
+          <p>2° Molière fit les arguments du <hi rend="i">Divertissement de Chambord</hi> tels que nous les avons rapportés, — c’est son style, c’est celui qu’on retrouve dans d’autres arguments analogues.</p>
+          <p>3° Quant aux paroles italiennes, qu’on le remarque bien, la consultation, la réponse des avocats, le trio, l’air seul, le morceau des médecins, la poursuite des apothicaires, tout cela, musicalement parlant, texte et notes, est écrit d’un seul jet.</p>
+          <p>4° Lully a joué une fois le rôle de Pourceaugnac. Ce fut sans doute le premier jour, la logique semble le démontrer; car s’il y a eu remaniement, il n’y en a pas eu deux ; Molière refit ensuite la pièce, car si Lully pouvait jouer un mélange de français et d’italien, il ne pouvait en effet, comme le dit fort bien M. Auger, <hi rend="i">jouer le</hi> classique Pourceaugnac.</p>
+          <p>La comédie de <hi rend="i">M. de Pourceaugnac</hi> aurait été d’abord, selon nous, divisée en un seul acte long, précédé d’un prologue-sérénade, coupé par deux intermèdes amenés par le sujet, et suivi d’entrées nombreuses de masques.</p>
+          <p>Si le troisième acte<note place="bottom"><hi rend="i">Pourceaugnac</hi> n’est pas la seule comédie de Molière où le dernier acte semble on hors-d’œuvre inutile. Le <hi rend="i">Bourgeois gentilhomme</hi> Unirait mieux après la cérémonie, sas» y ajouter un cinquième acte languissant.</note> existait, il devait être resserré en un petit nombre de scènes ; peut-être était—il réduit aux premiers mots de Sbrigani et à quelques phrases relatives au mariage des amants ; peut-être était-il tout à fait fondu dans ce que nous appelons le deuxième acte.</p>
+          <p>Si j’osais indiquer ce que je pense qu’a pu être un moment <hi rend="i">M. de Pourceaugnac</hi>, voici ce que je dirais, en suivant l’ordre des scènes sur l’édition Ch. Louandre (in-18) :</p>
+          <p>Premier acte. — Il est bien entendu qu’il faudrait supprimer la scène VIII<hi rend="sup">e</hi>, copie du <hi rend="i">Médecin malgré lui</hi>, et que l’on passe généralement au théâtre. — Les scènes XIII<hi rend="sup">e</hi> (les médecins), XIV<hi rend="sup">e</hi> (entrée de ballet), XVI<hi rend="sup">e</hi> (les matassins), sauf les mots de Pourceaugnac: « Allez au diable ! » seraient reportées au divertissement final.</p>
+          <p>2<hi rend="sup">e</hi> acte. — Suivre jusqu’après la scène des Paysannes; puis <pb n="715"/> sauter de la scène X° (les enfants) à la scène I<hi rend="sup">ère</hi> du troisième acte (Eraste et Sbrigani).</p>
+          <p>3° acte. — Supprimer les scènes II<hi rend="sup">e</hi> III<hi rend="sup">e</hi> IV<hi rend="sup">e</hi> V<hi rend="sup">e</hi> VI<hi rend="sup">e</hi> et VII<hi rend="sup">e</hi> (série des scènes de Pourceaugnac en femme, des Suisses, des archers, de l’Exempt), qui font double emploi continuel. — Conserver les scènes VIII<hi rend="sup">e</hi> (Oronte, Sbrigani) et IX<hi rend="sup">e</hi> (dans laquelle la fille d’Oronte semble se refuser au mariage qu’elle désire).</p>
+          <p>Revenir alors aux scènes XI<hi rend="sup">e</hi> et XII<hi rend="sup">e</hi> du deuxième acte (Sbrigani, puis Sbrigani et Pourceaugnac).</p>
+          <p>Suivent alors tout naturellement, après la scène XII, l’exposé de Pourceaugnac, la scène des avocats, l’air de Pourceaugnac et l’intermède des opérateurs et des apothicaires, terminant l’acte, qui peut être suivi de l’entrée des masques annoncés dans la scène IX* du troisième acte.</p>
+          <p>Les morceaux de musique étaient nombreux et complétaient largement la soirée. Voici, au reste, d’après la partition de Ballard, celle du <hi rend="i">Carnaval</hi>, et une copie manuscrite du Conservatoire (qui paraît postérieure à l’époque qui nous occupe), la liste, aussi complète que possible, de toutes les entrées de chant et de danse qui figuraient dans le <hi rend="i">Pourceaugnac</hi>, et faisaient de cette pièce un réel divertissement de cour :</p>
+          <p>1° <hi rend="i">Ouverture</hi> (elle n’existe que dans la copie manuscrite) ;</p>
+          <p>2° Sérénade, qui contient une ritournelle. — L’air de Philis. — Le rondeau d’Idas. — L’air de Lycas. — Un duo et un trio. — Quatre airs de violons. — Un air chanté par un musicien. — Un trio et couplets pour un musicien et deux musiciennes. — Une danse pour deux mariés;</p>
+          <p>3° Après la sérénade viennent les <hi rend="i">airs de danse</hi> pour les maîtres à danser. — Les pages. — Les combattants et les combattants réconciliés ;</p>
+          <p><hi rend="i">4° Intermède des avocats et des apothicaires</hi>. — Il contient l’air de Pourceaugnac. — Duo et trio avec les avocats et leurs airs. — Le morceau de Pourceaugnac à l’amour. — Le duo des opérateurs. — La danse des matassins. — Le duo des opérateurs avec les seringues et la réponse de Pourceaugnac. — Le chœur des matassins et la poursuite.</p>
+          <p>5° <hi rend="i">L'Entrée des Masques</hi> comprenait : Air pour les Egyptiens. — Chant d’une Egyptienne, avec chœur dansé (deux couplets). — Un chœur général.</p>
+          <p>La copie manuscrite du Conservatoire indique aussi un air intitulé <hi rend="i">les Trompettes</hi>, dont j’ignore la place, peut-être faisait-il partie du divertissement de la fin.</p>
+          <p><pb n="716" xml:id="p716"/> </p>
+        </div>
+        <div>
+          <head>V</head>
+          <p>Y a-t-il outrecuidance à supposer un livret en un acte, avec les modifications que nous venons d’indiquer et fourni de musique comme nous le disons ?</p>
+          <p>La pièce en un acte convenait mieux à la Cour, car <hi rend="i">Pourceaugnac</hi> était un divertissement, c’est-à-dire une fête où la danse et la musique étaient le principal et la comédie l’accessoire.</p>
+          <p>Quant au rôle de Pourceaugnac, gentilhomme italien, le mélange de sa langue avec le français mal <hi rend="i">baragouiné</hi> (mélange excusé et expliqué par la nationalité du héros) pouvait amener un élément de bouffonnerie comme on le voit parfois encore au Théâtre-Italien dans les rôles comiques. De nos jours, la grande plaisanterie est de parler français dans une pièce italienne. — A Chambord, la grande plaisanterie était de parler italien dans une pièce française. Le talent bouffe de Lully pouvait se développer à loisir, et quand il prenait la langue italienne avec suite, ou quand les autres la chantaient, l’oreille n’était pas blessée d’un changement subit, nullement justifié par la situation.</p>
+          <p>Tout semble au reste confirmer pour nous que Lully n’a pas joué le rôle d’un des deux médecins dansants. Pourquoi Molière, auquel on donne le rôle de Pourceaugnac (qu’il remplit dans la suite), n’aurait-il pas joué à Chambord celui de Sbrigani, comme il joua celui de Scapin? Il est plus logique de supposer ce fait que de croire que Lully, pour faire sa cour au roi, a été choisir le rôle d’un des deux opérateurs. Car à quoi cela lui eût-il servi? Le rôle n’a aucune importance. Lully ne se fût pas abaissé à prendre un rôle à ce point effacé, et si le nom de Chiacchiarone a servi à cacher quelque chose, ce ne peut être qu’une surprise dans le programme donné à la Cour; là où l’on croyait trouver Lully, on ne le trouva pas, et on le vit prendre le principal rôle dans une troupe où certes on ne se serait pas attendu à le rencontrer au premier rang. Suivant un grand nombre d’éditions, Lully aurait pris ce surnom de Chiacchiarone pour ne pas éprouver d’opposition de la part des secrétaires du roi alors qu’il voulait entrer dans leurs rangs ; mais la grande rancune des secrétaires ne se produisit que lorsque Lully joua le Muphti du <hi rend="i">Bourgeois gentilhomme</hi>, et ce ne fut qu’en 1670. Si Lully voulait faire rire le roi et en retirer quelque avantage, il fallait qu’on sût que c’était lui qui jouait ; et, outre que les rôles des opérateurs étaient insignifiants, ces rôles étaient masqués<note place="bottom"><p>Les masques étaient alors imposés aux danseurs, et ces masques étaient partout en usage. 11 y eut môme jusqu’à des masques personnels. Une lettre de Guy Patin, (25 septembre 1665) indique que Molière, dans <hi rend="i">Y Amour médecin</hi>, aurait, à l’Hôtel de Bourgogne, représenté au vif les originaux dont il se moquait dans sa comédie. Mais ce fait imputé à Molière parait douteux, bien que plus tard il ait affiché encore plus crûment, dans un autre ordre d’idées, l’abbé Gotin.</p><p>C'est peut-être par une tradition se rapportant à l’usage des masques, que le Théâtre-Français, il n’y a pas longues années (et peut-être encore &amp; présent’, représentait les deux médecins dansants de <hi rend="i">Pourceaugnac</hi> avec le visage couvert d’un masque difforme, muni d’un nez de proportions géantes</p></note> ; Lully ne pouvait <pb n="717"/> avoir l’idée de plaire et de rester en même temps inconnu. Donc Lully voulant faire rire le roi, et pour cela Lully se cachant, portant un masque pour chanter un rôle infime, nous paraît impossible ; et d’ailleurs, dans votre système, qui eût chanté Pourceaugnac ? Après l’effet produit par Lully, il est évident que la comédie de Pourceaugnac dut prendre la forme que nous connaissons. Molière ne chantait pas et ce fut lui qui, à Paris, joua le rôle de Pourceaugnac. D'ordinaire, il supprimait les intermèdes faits pour la Cour; ici, il fit une exception: il ne supprima que le chant des avocats; mais il garda la scène des apothicaires. Le premier acte est parfait ; le deuxième indique la hâte apportée à cette œuvre.</p>
+          <p>Pourquoi Molière fit-il un troisième acte si peu réussi ? En avait-il besoin pour remplir un temps donné de spectacle ? Pourquoi ne le supprima-t-il pas simplement ? 11 est à remarquer que Molière n’a jamais écrit une pièce en deux actes; là est peut-être l’explication du fait. Quant à la sérénade, il semble qu’elle fut supprimée avec les premiers mots d’Eraste, qui devenaient alors inutiles. Les entrées de la fin furent-elles conservées dans la comédie ? Si elles le furent, ce ne dut être que pour faire équilibre [aux intermèdes des apothicaires et des avocats, qui se trouvaient alors chacun terminer un acte; en tous cas, elles n’apparurent à Paris que réduites en nombre et à l’époque du carnaval, ce que justifieraient les derniers mots d’Eraste (acte III, scène X). Ces mots semblent ajoutés ; l’époque de la représentation de Pourceaugnac ne fait nullement penser au divertissement populaire du carnaval, amenant des masques au travers de l’intrigue, chose usuelle à la Cour, mais qui eût semblé mal justifiée à la Comédie, sans quelques mots de préparation.</p>
+          <p>Mais quelques mots ajoutés postérieurement sont sans importance, et n’ont, d’ailleurs, aucun rapport avec le remaniement qui nous occupe et qui, s’il a eu lieu, a dû être fait à Chambord, après que le divertissement de Pourceaugnac avec le rôle italien, joué par Lully, eut été offert en primeur au roi Louis XIV.</p>
+          <p><pb n="718"/>
+          </p>
+        </div>
+        <div>
+          <head>VI</head>
+          <p>Resterait à dire que rien de tout cela n’est vrai et ne réside que dans notre imagination ; — que le remaniement indiqué dans le <hi rend="i">Carnaval</hi> a été opéré par Lully en 1675 ; — que, tout au plus, il y avait eu un canevas italien rejeté par Molière, admettons-le.</p>
+          <p>Mais alors Lully n’a pas joué <hi rend="i">Pourceaugnac</hi>. Lully n’a pas sauté dans le clavecin. Les traditions contemporaines sont fausses. Et surtout les lacunes de la pièce sont inexplicables. Dans quelle comédie de Molière y a-t-il une scène inexpliquée comme celle des avocats? Dire qu’il y a eu négligence ou mauvaise contexture, ne suffit pas. La logique des divertissements, l’enchaînement des paroles italiennes et de la musique, accusent un remaniement ou montrent, tout au moins, qu’à un moment donné il y a eu quelque chose qui a existé autrement.</p>
+          <p>Puis, si Lully avait seul remanié <hi rend="i">Pourceaugnac</hi> en 1675, il eût simplement écrit un air pour relier les deux intermèdes dont il renversait l’ordre, et on ne trouverait pas, dans le <hi rend="i">Divertissement de Chambord (</hi>Ballard, 1670; voir Brunet), et dans le <hi rend="i">Carnaval</hi>, les indications de scènes, les arguments en français que Lully n’aurait eu aucun besoin de conserver ou de compléter, arguments dont le style, nous le répétons, semble bien de Molière et a le plus grand rapport avec les arguments de <hi rend="i">Georges Dandin</hi>, du <hi rend="i">Sicilien</hi>, et du <hi rend="i">Mariage forcé</hi>, écrits pour les fêtes de Versailles.</p>
+          <p>Il est inutile d’insister davantage, et de faire miroiter aux yeux des raisonnements qui ne feraient que se répéter Sommes-nous dans le vrai? Sommes-nous sur une fausse voie ? Quoi qu’il en soit, il y a un fait certain : 11 existe un <hi rend="i">Divertissement de Chambord</hi> ayant, en plus des paroles italiennes conservées dans le <hi rend="i">Pourceaugnac</hi> ordinaire, d’autres paroles italiennes qui leur font suite, — les arguments qui justifient un ordre de scènes inconnu ou oublié aujourd’hui semblent être de Molière.</p>
+          <p>Il y a donc là un problème de critique littéraire dont, il nous semble, on n’a pas encore parlé et que nous signalons, si l’on trouve qu’il est mal résolu par nous. Certaines probabilités, certaines anecdotes, certaines inductions, certaines apparences, militent en faveur de notre opinion. Nous laissons la confirmation ou la condamnation de cette dernière à des esprits plus éclairés ou munis de pièces plus probantes, de documents plus certains, par exemple, d’une relation manuscrite et inédite des fêtes de Chambord en 1669.</p>
+          <p><pb n="719" xml:id="p719"/> </p>
+        </div>
+        <div>
+          <head>VII</head>
+          <p>Nous désirons ajouter aux lignes qui précèdent deux courts chapitres. L’un, argument en notre faveur, montre que Molière a retouché plus d’une fois des comédies représentées par lui d’abord à la Cour. L’autre est relatif à un intermède inédit jusqu’ici, et qui nous semble appartenir à une des anciennes farces de Molière.</p>
+          <p>Le 18 juillet 1668, au milieu du <hi rend="i">Triomphe de t Amour et de Bacchus</hi>, on joua <hi rend="i">Georges Dandin.</hi> La relation de cette fête de Versailles est donnée dans quelques éditions de Molière, mais je ne sache pas qu’on ait tiré, des passages se rapportant à <hi rend="i">Georges Dandin</hi>, la preuve que cette comédie a été corrigée par Molière avant qu’il la fît représenter à Paris.</p>
+          <p>Après avoir parlé du talent merveilleux de Molière et de la hâte apportée par lui à son travail, l’auteur de la <hi rend="i">Relation</hi> s’exprime ainsi à propos de la <hi rend="i">Bergerie-Bachique</hi> mêlée à <hi rend="i">Georges Dandin</hi>,</p>
+          <quote>
+            <p>« Il semble que ce soit deux comédies que l’on joue en mesme temps, dont l’une soit en prose et l’autre en vers; elles sont pourtant si bien unies à un mesme sujet qu’elles ne font qu’une mesme pièce et ne représentent qu’une seule action. »</p>
+          </quote>
+          <p>Il y avait donc ici fusion complète des deux œuvres ; l’ouverture était faite par quatre bergers, et quatre autres, jouant de la flûte, faisaient une danse « où ils obligent d’entrer avec eux un riche païsan qu’ils rencontrent, et qui, mal satisfait de son mariage, n’a l’esprit remply que de fâcheuses pensées : aussi l’on voit qu’il se relire bientôt de leur compagnie, où il n’a demeuré que par contrainte. »</p>
+          <p>Evidemment, ici, Georges Dandin était en scène.</p>
+          <p>Après les désespoirs amoureux de Tircis et de Philène, dédaignée par Climène et Cloris, les bergers vont pour se tuer, et alors commençait le premier acte de la comédie.</p>
+          <quote>
+            <p>« Le sujet est qu’un riche païsan, s’estant marié à la fille d’un gentilhomme de campagne, ne reçoit que du mépris de sa femme, aussi bien que de son beau-père et de sa belle-mère, qui ne l’avoient pris pour leur gendre qu’à cause de ses grands biens... Sur la fin de l’acte, le païsan est interrompu par une bergère qui lui vient apprendre le désespoir des deux bergers ; mais comme il est agité d’autres inquiétudes, il la quitte en colère, et Cloris entre, qui vient faire une plainte sur l’amour de son amant. »</p>
+          </quote>
+          <p>Que faisait ici Georges Dandin ?</p>
+          <p>Après la plainte amoureuse de Cloris, venait le deuxième acte:</p>
+          <quote>
+            <p><pb n="720" xml:id="p720"/> </p>
+            <p>« C’est une suite des déplaisirs du païsan marié, qui se trouve encore interrompu par la mesme bergère, qui vient luy dire que Tircis et Philène ne sont pas morts, et luy monstre six bateliers qui les ont sauvéz. Le païsan, importuné de tous ces avis, se retire et quitte la place aux bateliers. »</p>
+          </quote>
+          <p>Dans le dernier acte « on voit le païsan dans le comble de la douleur par les mauvais traitements de sa femme. <hi rend="i">Enfin, un de ses amis lui conseille de noyer dans le vin toutes ses inquiétudes</hi>, et l’emmène pour joindre sa troupe, composée des bergers célébrant Bacchus et l’Amour. »</p>
+          <p>Certains passages de cette relation des fêtes de 1668, ceux que j’ai transcrits, tranchent sur le reste de la rédaction ; ils doivent être tirés du Livret distribué et peuvent être de la main de Molière.</p>
+          <p>D’après ces extraits, on peut conclure que Georges Dandin dialoguait avec les Bergers (car il est peu probable qu’il jouât certaines scènes en pantomime) ; la fin de chacun des actes de la comédie, telle qu’elle nous a été conservée, actes qui se terminent tous par un monologue du même personnage, semblerait indiquer qu’il y a eu remaniement uniforme et peu heureux. Quant au troisième acte, l’analyse laisse voir qu’il y eut un rôle supprimé, celui de l’ami qui persuade Georges Dandin ; un retranchement analogue fut, au reste, pratiqué par Molière, à la dernière scène du <hi rend="i">Mariage forcé</hi>, scène dans laquelle le retour de l’ami Géronimo est indiqué (voir le ballet) et Géronimo ne reparaît pas dans la comédie en un acte. Il y aurait eu aussi, dans le troisième acte de <hi rend="i">Georges Dandin</hi>, un changement de dénoûment; car si le Georges Dandin de la comédie parle d’aller se jeter à la rivière, celui du ballet prend un parti contraire et plus philosophique, puisqu’il va chercher à oublier dans le vin les coquineries de sa femme.</p>
+        </div>
+        <div>
+          <head>VIII</head>
+          <p>Il ne nous reste plus à parler que de la deuxième entrée du <hi rend="i"> Carnaval</hi>, de <hi rend="i">le Maître d’école</hi> ou <hi rend="i">Barbacola</hi> ; nous l’avons, avec intention, laissée de côté pour en parler en dernier lieu.</p>
+          <p>Une anecdote rapportée par Grimarest raconte qu’au mois d’octobre 1658 la troupe de Molière joua, devant la Cour, la tragédie de <hi rend="i">Nicomède.</hi> Molière, sentant que ses acteurs ne valaient pas, en tragédie, les comédiens de l’Hôtel de Bourgogne, s’avança sur la scène après la représentation, remercia le roi, et demanda l’autorisation de jouer une des deux petites comédies qui, en province, lui avaient acquis le plus de réputation. C'étaient <hi rend="i">les Trois docteurs rivaux</hi> et <hi rend="i">le Maître d’école</hi>. Louis XIV autorisa la représentation de <pb n="721"/> la première de ces deux pièces, et ce fut après cette soirée que le roi accorda à la troupe de Molière la permission de jouer au Petit-Bourbon, alternativement avec les Italiens. Or, cette farce du <hi rend="i">Maître d’école</hi>, aujourd’hui disparue, composée à peu près à la même époque que <hi rend="i">le Médecin volant, la Jalousie du Barbouillé, les Docteurs rivaux, le Testament, le Docteur amoureux</hi>, existait encore au siècle dernier dans le cabinet de M. de Bombarde (voir <hi rend="i">la Valise de Molière</hi>, de M. Ed. Fournier, et la <hi rend="i">Revue des provinces</hi>, 15 janvier 1865, article de M. P. Lacroix).</p>
+          <p>Quelle était cette pièce ? Ne serait-ce pas un fragment du <hi rend="i">Maître d’école</hi> que nous avons trouvé dans le <hi rend="i">Carnaval</hi>, et que nous transcrivons plus loin ? Si cela était (comme nous le croyons probable) , il faudrait en conclure que, parmi les premières œuvres de Molière, la farce du <hi rend="i">Maître d’école</hi> eut assez de réputation pour que Lully s’en souvint quand il composa, de pièces et de morceaux, son <hi rend="i">Carnaval-Mascarade</hi>. L’offre que Molière fit au roi de lui jouer cette petite comédie autorise à penser qu’elle avait quelque mérite; la musique qui y a été adaptée remonterait au temps des premières relations de Molière et de Lully, antérieurement à <hi rend="i">l’Amour médecin</hi> et aux <hi rend="i">Fâcheux</hi> Nous ne voyons, dans l’œuvre de Molière, que cette pièce du <hi rend="i">Maître d’école</hi>, à laquelle puisse se rattacher l’intermède de <hi rend="i">Barbacola</hi>, dont voici la rédaction :</p>
+          <p>Un maître d’école italien, nommé Barbacola, avec quatre enfants écoliers.</p>
+          <quote>
+            <label>BARBACOLA</label>
+            <l>Son dotor per occasion</l>
+            <l>Ha dotor più dei dotori,</l>
+            <l>Ch’un dotor di profession,</l>
+            <l>Non mai tanti auditori (<hi rend="i">bis).</hi></l>
+            <l>ln campagna son venuto</l>
+            <l>Per tener famosa scuola.</l>
+            <l>Il mio nom’ è conosciuto</l>
+            <l>Son il maestro Barbacola, <hi rend="i">(bis)</hi></l>
+            <l>B per mia reputatione</l>
+            <l>Son dà tutte le personne,</l>
+            <l>Nominato il dottorone,</l>
+            <l>Più eloquente di Cicerone,</l>
+            <l>Più sapiente di Catone</l>
+            <l>Forte più del gran Sansone,</l>
+            <l>B per tutta conclusione,</l>
+            <l>So sonar,</l>
+            <l>So balar,</l>
+            <l>So cantar,</l>
+            <l>So imparar,</l>
+            <l>So enseignar,</l>
+            <l>So mirar,</l>
+            <l>So tirar,</l>
+            <l><pb n="722"/> So amazzar.</l>
+            <l>Ho (<hi rend="i">ter</hi>).</l>
+            <l>Achi cbè perdo la parola <hi rend="i">(bis).</hi></l>
+            <label>LES ECOLIERS.</label>
+            <l>Bona sera, Barbacola (<hi rend="i">bis).</hi></l>
+            <label>BARBACOLA.</label>
+            <l>Bona sera, Barbacola <hi rend="i">(bis)</hi>,</l>
+            <l>Cosi tardi si vienne à la schola ? (bis).</l>
+            <label>LES ECOLIERS.</label>
+            <l>Pardonate noi, Barbacola <hi rend="i">(bis).</hi></l>
+            <label>BARBACOLA.</label>
+            <l>Su, su, alla lettione (<hi rend="i">bis).</hi></l>
+            <label>LES ECOLIERS.</label>
+            <l>La sapiamo in perfettione (<hi rend="i">bis).</hi></l>
+            <label>BARBACOLA.</label>
+            <l>Echi la lettione non sa,</l>
+            <l>Su le mani se li da (<hi rend="i">bis).</hi></l>
+          </quote>
+          <p>Les écoliers pleurent :</p>
+          <quote>
+            <l>Ah! ah! ah!</l>
+            <label>BARBACOLA.</label>
+            <l>Non piangete più, scolari,</l>
+            <l>Che non vi saro studiar,</l>
+            <l>Sol con voi, pulti miei cari :</l>
+            <l>Me vo metter a ballar (<hi rend="i">bis)</hi> ;</l>
+            <l>Non parliamo piu di scuola (4 <hi rend="i">fois).</hi></l>
+            <label>LES ÉCOLIERS.</label>
+            <l>Viva (bis)</l>
+            <l>Barbacola <hi rend="i">(bis)</hi></l>
+          </quote>
+          <p>Le maître et les écoliers dansent ensemble, puis on reprend les deux derniers vers, l’air de danse et le maître et les écoliers s’en vont tous ensemble en dansant.»</p>
+          <p>C'était là un professeur peu sévère, et cette récréation assez enfantine formait sans doute une sorte de prologue. La pièce se développait peut-être un peu au gré des acteurs, comme il était d’usage dans la comédie <hi rend="i">dell’ arte.</hi></p>
+          <p>Les faits racontés plus haut, la relation de Grimarest, la tradition du <hi rend="i">Maître d’école</hi> perdue, et la coïncidence du <hi rend="i">Barbacola</hi> trouvé dans un recueil d’intermèdes entièrement pris chez Molière, nous ont semblé justifier la transcription des fragments ci-dessus, bien que (sauf les arguments trop courts et trop insignifiants pour pouvoir y reconnaître la main de Molière) il n’y eût aucune phrase française et que tout l’intermède fût en langue italienne.</p>
+          <signed>Ludovic Celler.</signed>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
