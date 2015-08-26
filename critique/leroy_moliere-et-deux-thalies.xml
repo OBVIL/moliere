@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../teibook/teibook.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../teipub/xsl/tei2html.xsl"?>
+<!--odt2tei: 2015-03-17T11:09:17+01:00-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Molière et les deux Thalies, Dialogue en vers</title>
+        <author key="Leroy, Aimé (....-....)">Constant Coquelin</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL</edition>
+        <respStmt>
+          <name>Floria Benamer</name>
+          <resp>OCR et stylage</resp>
+        </respStmt>
+        <respStmt>
+          <name>Chayma Soltani</name>
+          <resp>Structuration et encodage TEI</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <!--
+            <idno>http://obvil.paris-sorbonne.fr</idno>
+            -->
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><author>Aimé Leroy</author>, <title>Molière et les deux Thalies, Dialogue en vers</title>, <pubPlace>Paris</pubPlace>, <publisher> Pillet/Delaunay</publisher>, <date>1816</date>.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1816"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head>[I]</head>
+        <label>
+          <hi rend="sc">Molière</hi></label>
+          <stage>, seul.</stage>        
+        <l><pb n="3" xml:id="p3"/><hi rend="sc">Puisque</hi> j’ai pu quitter un moment les enfers,</l>
+        <l>Que n’ai-je le loisir d’observer les travers</l>
+        <l>Dont ce siècle, sans doute, autant qu’un autre abonde !</l>
+        <l>Les abus finiront quand finira le monde ;</l>
+        <l>Et sur ce grand théâtre on verra, de tout temps,</l>
+        <l>Des méchants et des sots, des sots et des méchants.</l>
+        <l>Un misanthrope aigri vainement en murmure ;</l>
+        <l>Ce sont vices unis à l’humaine nature :</l>
+        <l>J’ai fait de vains efforts, croyant les corriger,</l>
+        <l>Le masque est différent, l’homme n’a pu changer.</l>
+        <l>Mais c’est trop m’arrêter, le temps fuit, et j’oublie</l>
+        <l>Que je viens visiter l’une et l’autre Thalie.</l>
+        <l>Est-il vrai que l’aînée, en son triste dédain,</l>
+        <l>Fasse un indigne accueil à mon pauvre Dandin,</l>
+        <l>À mon vieux Harpagon, à mes autres ouvrages<note place="bottom">Il n’y a pas longtemps que <hi rend="i">Georges Dandin</hi> a été sifflé, <hi rend="i">L’Avare, l’École des Maris, l’École des femmes</hi>, etc., sont joués dans le désert ; <hi rend="i">le Légataire, les Étourdis, les Héritiers</hi>, dédaignés des gens du bon ton ; mais la <hi rend="i">Coquette corrigée, le Jaloux sans amour, la Feinte par amour, les Jeux de l’Amour</hi>, etc., voilà ce qui doit plaire éternellement !</note> ?</l>
+        <l>Aurait-elle du temps éprouvé les outrages ?</l>
+        <l>Son humeur, son esprit serait-il donc changé ?</l>
+        <l>Tant pis ; car à ce prix je serais trop vengé !</l>
+        <l><pb n="p. 4"/> Mais que ne puis-je, au gré de mon impatience,</l>
+        <l>La voir sans différer ! Un dieu, par sa puissance,</l>
+        <l>Sans doute, en ce moment, vient exaucer mes vœux.</l>
+        <l>Le temple de Thalie apparaît à mes yeux ;</l>
+        <l>Je n’en saurais douter, je la vois elle-même.</l>
+        <l>Elle pleure, je crois ! Ma surprise est extrême !</l>
+      </div>
+      <div>
+        <head>[II]</head>
+        <stage rend=" center sc">Molière, La Vieille Thalie.</stage>
+        <label><hi rend="sc">Molière</hi>.</label>
+        <l>Thalie, est-ce bien vous ? Ne me trompé-je point ?</l>
+        <l>Se peut-il que vos traits soient changés à ce point <hi rend="i"/>?</l>
+        <label><hi rend="sc">La Vieille Thalie</hi>.</label>
+        <l>En ce monde, Monsieur, que venez-vous donc faire ?</l>
+        <l>Par votre ton bourgeois croyez-vous encor plaire ?</l>
+        <l>Vous seriez aujourd’hui mal reçu.</l>
+        <label><hi rend="sc">Molière</hi>.</label>
+        <l>Je le vois.</l>
+        <label><hi rend="sc">La Vieille Thalie</hi>.</label>
+        <l>Je vous parais changée, à ce que j’aperçois ?</l>
+        <label><hi rend="sc">Molière</hi>.</label>
+        <l>Oui, je ne sais comment je vous ai reconnue,</l>
+        <l>À cet air triste et froid. Bon Dieu ! Qu’est devenue</l>
+        <l>Cette franche gaîté qui plaisait tant jadis ?</l>
+        <label><hi rend="sc">La Vieille Thalie</hi>.</label>
+        <l>Fi ! le ton exécrable, horrible ! Est-il permis</l>
+        <l>De vanter maintenant votre gaîté grossière ?</l>
+        <label><hi rend="sc">Molière</hi>.</label>
+        <l>Mais on ne rit donc plus ?</l>
+        <label><hi rend="sc">La Vieille Thalie</hi>.</label>
+        <l>Fi ! vous dis-je, Molière ;</l>
+        <l><pb n="p. 5"/> Fi ! je déteste trop la trivialité ;</l>
+        <l>Je souris quelquefois, mais avec dignité.</l>
+        <label><hi rend="sc">Molière</hi>.</label>
+        <l>Oh ! Oh ! Quel changement ! Dites-moi, je vous prie,</l>
+        <l>Vous avez une sœur, la petite Thalie,</l>
+        <l>Dont Picard est le père ?</l>
+        <label><hi rend="sc">La Vieille Thalie</hi>.</label>
+        <l>Ah ! Ne me parlez pas</l>
+        <l>De ce Picard, avec sa gaîté, ses éclats !…</l>
+        <l>De Marivaux jamais il n’aura la finesse,</l>
+        <l>La grâce de Dorat, et sa délicatesse ;</l>
+        <l>Surtout ce <hi rend="i">goût exquis</hi>, cette fleur de <hi rend="i">bon ton…</hi></l>
+        <label><hi rend="sc">Molière</hi>.</label>
+        <l>Je veux être pendu, si j’entends ce jargon !</l>
+        <l>Le <hi rend="i">bon ton</hi> ! Qu’est-ce donc en langage vulgaire <hi rend="i"/>?</l>
+        <label><hi rend="sc">La Vieille Thalie</hi>.</label>
+        <l>C’est ce qu’on n’avait pas, quand vous crûtes me plaire.</l>
+        <label><hi rend="sc">Molière</hi>.</label>
+        <l>Mais Regnard et Dancourt, Brueis et Palaprat ?</l>
+        <label><hi rend="sc">La Vieille Thalie</hi>.</label>
+        <l>Ah, dieux ! Quels gens grossiers ! Qu’ils sont loin de Dorat !</l>
+        <l>Quelle horreur ! Quel scandale ! Et quel goût détestable !</l>
+        <l>C’est à n’y pas tenir, tant c’est épouvantable !</l>
+        <label><hi rend="sc">Molière</hi>.</label>
+        <l>Miséricorde ! Oh ciel ! Pauvre Thalie, hélas !</l>
+        <l>On me l’avait bien dit, je ne le croyais pas,</l>
+        <l>Qu’on aurait pu changer votre heureux caractère.</l>
+        <l>À cet air précieux, à cette mine austère,</l>
+        <l><pb n="p. 6"/> Qui vous reconnaîtrait ? Vous prude ! Ah ! Quel malheur !</l>
+        <l>Vous n’aviez point jadis cette farouche humeur ;</l>
+        <l>Et, soit dit entre nous…</l>
+        <label><hi rend="sc">La Vieille Thalie</hi>.</label>
+        <l>Quoi ? Parlez, qu’est-ce à dire ?</l>
+        <l>Je sais bien que de moi l’on se plaît à médire<note place="bottom"><p>Les reproches que l’on fait à Thalie d’avoir été souvent trop libre dans ses manières ne sont malheureusement que trop fondés ; mais ne tombe-t-elle pas aujourd’hui dans un excès contraire ? Semblable à cette femme qui, dans la fleur de l’âge, après s’être signalée par ses travers, finit sur le déclin des ans par affecter tous les scrupules de la pruderie, elle conserve bien le même fonds d’humeur ; mais elle a changé les dehors ; elle ne désire point être plus réservée, plus sage, mais elle veut te paraître.</p><quote><l>Elle fait des tableaux couvrir les nudités ;</l><l>Mais elle a de l’amour pour les réalités.</l></quote><p>Voilà notre muse comique. Présentez-lui des pièces telles que <hi rend="i">Figaro, les Femmes, Heureusement</hi> ; étalez à ses yeux les scènes les plus licencieuses, les images les plus indécentes, pourvu qu’elles paraissent voilées d’une gaze légère et transparente, elle n’en sera point effarouchée ; mais prononcez devant elle un mot trop nu, quoique innocent, vous la ferez crier au scandale, à l’horreur. Molière aurait pu lui reprocher de n’avoir plus aujourd’hui que les oreilles chastes.</p></note>.</l>
+        <label><hi rend="sc">Molière</hi>.</label>
+        <l>On a tort ; et d’ailleurs vous avez dû changer ;</l>
+        <l>Vous êtes femme ; eh bien, loin de vous corriger,</l>
+        <l>Changez encore ; des ans pour réparer l’injure,</l>
+        <l>Votre sexe a besoin de fard et de parure ;</l>
+        <l>Je le sais.</l>
+        <label><hi rend="sc">La Vieille Thalie</hi>.</label>
+        <l>Quoi ? Monsieur…</l>
+        <label><hi rend="sc">Molière</hi>.</label>
+        <l>Un moment ; écoutez :</l>
+        <l>Vous pouvez vous passer de brillants empruntés ;</l>
+        <l>Vous êtes belle encore ; à quoi bon l’étalage</l>
+        <l>De ces grands airs qu’affecte une prude sauvage ?</l>
+        <l>Il est toujours bien temps d’embrasser ce parti,</l>
+        <l>Lorsque de la beauté l’éclat est amorti ;</l>
+        <l>Vous n’en êtes point-là ; non, croyez-en Molière,</l>
+        <l>Reprenez votre humeur, vous pourrez longtemps plaire</l>
+        <l>Et par le naturel et par la vérité ;</l>
+        <l>Laissez là ce maintien, ce langage affecté ;</l>
+        <l>Laissez ce style faux dont le bon sens murmure,</l>
+        <l>Car ce n’est pas ainsi que parle la nature.</l>
+        <l>Si vous croyez encor m’avoir sous votre loi,</l>
+        <l>Donnez-moi des rivaux qui soient dignes de moi</l>
+        <l><pb n="p. 7"/> Mais non ; pour vous prouver que mon cœur froid, paisible,</l>
+        <l>De sentiments jaloux ne vit plus susceptible,</l>
+        <l>Après avoir exclu Dorat et Marivaux,</l>
+        <l>Quittez ce fier dédain pour vos amants nouveaux ;</l>
+        <l>J’ose vous en prier : plusieurs, quoi qu’on en dise,</l>
+        <l>Sont dignes de Thalie ; à tort on les déprise.</l>
+        <l>Quelques-uns, je le sais, captant votre faveur,</l>
+        <l>Se sont trop conformés à votre triste humeur ;</l>
+        <l>Mais ils voulaient vous plaire ; ils sont bien excusables :</l>
+        <l>Vous pleuriez, ils ont pris des mines lamentables ;</l>
+        <l>Riez, et vous verrez qu’ils essuieront leurs pleurs.</l>
+        <label><hi rend="sc">La Vieille Thalie</hi>.</label>
+        <l>Non, ils chérissent trop les tragiques douleurs.</l>
+        <label><hi rend="sc">Molière</hi>.</label>
+        <l>Les tragiques douleurs ! Est-ce votre domaine ?</l>
+        <l>Renvoyez ces pleureurs auprès de Melpomène.</l>
+        <label><hi rend="sc">La Vieille Thalie</hi>.</label>
+        <l>À ma sœur ? La superbe a déjà trop d’orgueil !</l>
+        <l>Je voudrais bien savoir d’où vient le froid accueil</l>
+        <l>Qu’on me fait aujourd’hui, tandis qu’on la préfère.</l>
+        <label><hi rend="sc">Molière</hi>.</label>
+        <l>C’est que vous préférez vous-même un somnifère,</l>
+        <l>Un jargon précieux, à la franche gaîté ;</l>
+        <l>C’est que vous aimez mieux, en brillant comité,</l>
+        <l>Vous ennuyer, bâiller, ouïr quelque fadaise,</l>
+        <l>Qu’en dépit du <hi rend="i">bon ton</hi> rire tout à votre aise.</l>
+        <l>N’en accusez que vous, si vos admirateurs</l>
+        <l>Ont le goût dépravé ; vos goûts forment les leurs :</l>
+        <l>Ils sont habitués aux manières charmantes</l>
+        <l><pb n="p. 8"/> De votre cher Dorat, à ses phrases brillantes.</l>
+        <l>Si quelque bon esprit, gai, naturel et rond</l>
+        <l>Ose vous faire rire, on crie au <hi rend="i">mauvais ton</hi> ;</l>
+        <l>Et ses discours trop vrais excitent le scandale.</l>
+        <l>Eh ! Messieurs, les badauds, ayez moins de morale</l>
+        <l>Et plus de mœurs. Pour être en tout plus pointilleux</l>
+        <l>Vous croyez-vous au fond meilleurs que vos aïeux ?</l>
+        <l>Croyez-vous avoir seuls connu la bienséance ?</l>
+        <l>Mon siècle n’était point celui de l’indécence,</l>
+        <l>Et pourtant il osa, sans s’être compromis,</l>
+        <l>Rire de tous les traits que vous avez honnis.</l>
+        <label><hi rend="sc">La Vieille Thalie</hi>.</label>
+        <l>Ah ! ah ! de cette humeur je devine la cause ;</l>
+        <l>On est toujours facile, du moins je le suppose,</l>
+        <l>Quoique insensible et froid, d’avoir été sifflé ;</l>
+        <l>Car vous savez, je vois…</l>
+        <label><hi rend="sc">Molière</hi>.</label>
+        <l>Et j’en suis consolé.</l>
+        <l>J’avouerai toutefois qu’un peu de vaine gloire</l>
+        <l>Au récit qu’on m’en fit me défendit de croire.</l>
+        <l>Pour m’en assurer mieux, je vins donc, je vous vis,</l>
+        <l>Et d’un pareil affront je ne fus plus surpris.</l>
+        <label><hi rend="sc">La Vieille Thalie</hi>.</label>
+        <l>Je vous ai donc paru, Monsieur, bien singulière ?</l>
+        <label><hi rend="sc">Molière</hi>.</label>
+        <l>Oui, je ne flatte point, vous connaissez Molière ;</l>
+        <l>Mais votre air triste et sombre, autrefois si riant…</l>
+        <label><hi rend="sc">La Vieille Thalie</hi>.</label>
+        <l>Voulez-vous m’empêcher de pleurer ?</l>
+        <l><pb n="p. 9"/> Nullement.</l>
+        <l>Mais pourquoi pleurez-vous ?</l>
+        <label><hi rend="sc">La Vieille Thalie</hi>.</label>
+        <l>Monsieur, cela m’amuse.</l>
+        <label><hi rend="sc">Molière</hi>.</label>
+        <l>C’est différent : au moins, vous avez une excuse ;</l>
+        <l>Pleurez ; mais, croyez-moi, le rire vous va mieux :</l>
+        <l>Laissez à Melpomène injurier les dieux,</l>
+        <l>Apostropher le ciel d’une plainte importune,</l>
+        <l>Quereller les destins et braver la fortune ;</l>
+        <l>Vous, peignez la nature et l’homme tel qu’il est ;</l>
+        <l>Qu’il s’amuse en voyant son bizarre portrait ;</l>
+        <l>Tachez de corriger, mais surtout faites rire ;</l>
+        <l>Rien ne vaut la gaîté ; l’espèce humaine en tire</l>
+        <l>Des plaisirs toujours sûrs ; bien souvent la santé,</l>
+        <l>Et presque autant de biens que de la Faculté</l>
+        <l>L’on peut tirer de maux ; c’est dire assez, sans doute.</l>
+        <label><hi rend="sc">La Vieille Thalie</hi>.</label>
+        <l>Chacun plaide pour soi ; mais, quoi qu’il vous en coûte,</l>
+        <l>Convenez que les pleurs sont bien intéressants ;</l>
+        <l>Surtout dans notre sexe, ils sont si séduisants !</l>
+        <label><hi rend="sc">Molière</hi>.</label>
+        <l>Oui, c’est un grand ressort pour émouvoir les âmes,</l>
+        <l>Et qui fut, j’en conviens, mis en jeu par les femmes,</l>
+        <l>Toujours avec succès. Melpomène pourtant</l>
+        <l>Pourrait se plaindre…</l>
+        <label><hi rend="sc">La Vieille Thalie</hi>.</label>
+        <l>Eh ! quoi, lorsqu’elle en fait autant ;</l>
+        <l>Qu’elle usurpe mes droits…</l>
+        <label><hi rend="sc">Molière</hi>.</label>
+        <l><pb n="p. 10"/> Comment ! Elle fait rire ?</l>
+        <label><hi rend="sc">La Vieille Thalie</hi>.</label>
+        <l>Trop souvent.</l>
+        <label><hi rend="sc">Molière</hi>.</label>
+        <l>En ce cas, je n’ai plus rien à dire,</l>
+        <l>Et vous avez raison, vous, de faire pleurer ;</l>
+        <l>Puis, c’est votre plaisir, il faut vous y livrer.</l>
+        <l>Quant au genre ennuyeux, vous n’avez plus d’excuse,</l>
+        <l>A moins que cependant l’ennui ne vous amuse ;</l>
+        <l>Alors…</l>
+        <label><hi rend="sc">La Vieille Thalie</hi>.</label>
+        <l>Qu’entendez-vous, s’il vous plaît, par l’ennui ?</l>
+        <label><hi rend="sc">Molière</hi>.</label>
+        <l>Mais j’entends ce <hi rend="i">bon ton</hi>… là… ce <hi rend="i">ton</hi> d’aujourd’hui,</l>
+        <l>Qui n’aime que le faux, du moins je le soupçonne :</l>
+        <l>L’ennui, c’est… Marivaux ou Dorat en personne ;</l>
+        <l>M’y voilà ! L’on ne peut, je crois, mieux définir.</l>
+        <label><hi rend="sc">La Vieille Thalie</hi>.</label>
+        <l>Brisons là, s’il vous plaît, il est temps d’en finir ;</l>
+        <l>Nos goûts sont différents ; je ne saurais qu’y faire.</l>
+        <label><hi rend="sc">Molière</hi>.</label>
+        <l>Ainsi, vous me chassez ?</l>
+        <label><hi rend="sc">La Vieille Thalie</hi>.</label>
+        <l>Moi, Monsieur ? Au contraire !</l>
+        <l>Je ne chasse personne ; et vous, et Marivaux,</l>
+        <l>Et mes anciens amis et mes amis nouveaux</l>
+        <l>Serez reçus chez moi sans nulle différence.</l>
+        <label><hi rend="sc">Molière</hi>.</label>
+        <l><pb n="p. 11"/> Je vous suis obligé de tant de déférence.</l>
+        <label><hi rend="sc">La Vieille Thalie</hi>.</label>
+        <l>Quand avec vous pourtant je reprends ma gaîté,</l>
+        <l>Que ce soit entre nous, en petit comité.</l>
+        <label><hi rend="sc">Molière</hi>.</label>
+        <l>Fort bien ! Et voilà donc, voilà comme on me traite !</l>
+        <l>J’irai me présenter à votre sœur cadette.</l>
+        <label><hi rend="sc">La Vieille Thalie</hi>.</label>
+        <l>Eh bien ! Monsieur, allez ! Justement la voici.</l>
+        <l>Que me veut-elle donc ? Et qui l’amène ici ?</l>
+      </div>
+      <div>
+        <head>[III]</head>
+        <stage rend=" center sc">Molière, La Jeune Thalie, La Vieille Thalie.</stage>
+        <label><hi rend="sc">La Jeune Thalie</hi>.</label>
+        <l>Haute et puissante dame, illustre douairière</l>
+        <l>De vos anciens amants et surtout de Molière,</l>
+        <l>Ayant seule hérité, je ne sais trop pourquoi,</l>
+        <l>Daignerez-vous enfin partager avec moi</l>
+        <l>Ce domaine riant que vous laissez en friche ?</l>
+        <l>Je ne vous blâme point, ma sœur, vous êtes riche,</l>
+        <l>Il faut vous reposer vous et vos chers enfants,</l>
+        <l>Vivre avec quelques morts, vous moquer des vivants,</l>
+        <l>Et d’un bien superflu m’abandonner l’usage.</l>
+        <l>Vous ne connaissez pas vos richesses, je gage ?</l>
+        <label><hi rend="sc">La Vieille Thalie</hi>.</label>
+        <l>Je ne les connais pas ! Eh bien ! Vous n’aurez rien,</l>
+        <l>J’aime mieux l’enterrer que vous donner mon bien.</l>
+        <label><hi rend="sc">Molière</hi>.</label>
+        <l>L’enterrer ! Ah pardon ! Souffrez que je réplique ;</l>
+        <l><pb n="p. 12"/> Je ne vous ai point fait ma légataire unique.</l>
+        <l>II faut que chacun vive ; et puisque Marivaux,</l>
+        <l>Monsieur Lanoue, enfin, mes illustres rivaux,</l>
+        <l>Vous nourrissent si bien de leurs vers, de leur prose,</l>
+        <l>De madrigaux glacés, de fadeurs à la rose,</l>
+        <l>De petits riens sucrés et de pavot confit,</l>
+        <l>Vous aimez le repos, tout cela vous suffit.</l>
+        <l>Laissez donc, croyez-moi, mon modeste héritage,</l>
+        <l>Ou souffrez tout au moins qu’une autre le partage.</l>
+        <label><hi rend="sc">La Jeune Thalie</hi>.</label>
+        <l>Quoi ! Vous êtes Molière ! Ah Dieux ! je m’en doutais !</l>
+        <l>Mon père, ce me semble, a plusieurs de vos traits ;</l>
+        <l>Ainsi que vous d’ailleurs c’est un excellent homme.</l>
+        <l>Le père des auteurs, c’est ainsi qu’on le nomme,</l>
+        <l>Du vrai talent toujours le modèle et l’appui :</l>
+        <l>Vous sympathiseriez, j’en suis sûre, avec lui.</l>
+        <label><hi rend="sc">Molière</hi>.</label>
+        <l>Souvent Collin m’en parle.</l>
+        <label><hi rend="sc">La Jeune Thalie</hi>.</label>
+        <l>À ses nombreux ouvrages</l>
+        <l>Molière ne pourrait refuser ses suffrages.</l>
+        <label><hi rend="sc">Molière</hi>.</label>
+        <l>Je voudrais les connaître.</l>
+        <label><hi rend="sc">La Jeune Thalie</hi>.</label>
+        <l>Eh bien ! Passez les ponts.</l>
+        <l>Je demeure un peu loin ; mais, je vous en réponds,</l>
+        <l>Vous rirez, et dès-lors ma cure est achevée.</l>
+        <l><pb n="p. 13"/> Depuis assez longtemps de drames abreuvée,</l>
+        <l>Je vivais de mes pleurs ; rien n’est moins étonnant,</l>
+        <l>J’avais perdu mon père ; il revient maintenant,</l>
+        <l>Et bientôt avec lui ma gaîté naturelle.</l>
+        <label><hi rend="sc">Molière</hi>.</label>
+        <l>Et vos joyeux amants reviendront avec elle.</l>
+        <l>Quant à moi (votre sœur dût s’en formaliser)</l>
+        <l>J’aimerais tout autant près de vous m’amuser,</l>
+        <l>Que de bâiller chez elle avec cérémonie<note place="bottom">Ce trait (ainsi que quelques autres) ne saurait atteindre les grands talents, ornements de la scène française ; et, pour ne parler que de la comédie, si Molière lui-même y voyait représenter certains ouvrages qu’il n’a pu que lire sur les tristes bords du Léthé, ne ferait-il point grâce à Marivaux et à Lanoue en faveur de leurs interprètes ?</note>,</l>
+        <l>Avec Messieurs Imbert, Lanoue et compagnie.</l>
+        <l>Je serais mieux sans doute entre vous et Picard<note place="bottom"><quote><l> Rarement sommes-nous justes envers nos contemporains :</l><l>Par un jaloux orgueil toujours les rabaissant,</l><l>Nous croyons nous hausser en les rapetissant.</l></quote><p>Il est aussi dans notre nature d’estimer les choses à proportion qu’elles s’éloignent de nous, <hi rend="i">major è longinquo reverentia</hi>. Ce sentiment seul sans doute a pu faire comparer Dancourt à M. Picard. Assurément Dancourt est un comique très-distingué ; son dialogue plein de franchise et de vivacité, quoique un peu trop libre, plaira toujours aux connaisseurs. Mais, je le demande à tout homme impartial et qui n’a pas juré de sacrifier éternellement les vivants aux morts, trouverait-on dans tout le théâtre de Dancourt des ouvrages tels que <hi rend="i">Médiocre et Rampant, le Collatéral, l’Entrée dans le monde, Duhautcours, les Ricochets, les Marionnettes, la petite et la grande Ville, la vieille Tante</hi>, etc. ? Non, sans doute : comme peintre de mœurs (et c’est là le grand mérite de M. Picard), je ne lui connais de rival dans le dernier siècle que Lesage, dont les romans sont aussi des comédies, comme l’a fort bien observé l’auteur des <hi rend="i">deux Gendres</hi>. Quel que soit le peu d’importance de mon opinion, je crois devoir prévenir le lecteur que, pour l’émettre, je n’ai cédé qu’au sentiment d’une juste admiration. Je n’ai pas l’honneur de connaître M. Picard ; mais ayant à retracer dans un ouvrage que je me propose de publier incessamment les mœurs d’une époque qu’il a si bien peinte dans tous les siens, j’ai dû faire de son théâtre surtout une étude particulière, et c’est en l’approfondissant que j’ai de plus en plus apprécié l’excellence d’un talent fait pour honorer notre siècle.</p></note>,</l>
+        <l>Et, maître de mon bien, je vous en ferais part ;</l>
+        <l>Mais vous avez un prince éclairé, grand et juste,</l>
+        <l>Digne de son aïeul, mon protecteur auguste ;</l>
+        <l>Adressez-vous à lui vous lui plairez, je crois.</l>
+        <stage>(À la vielle Thalie :)</stage>
+        <l>Pour vous, qui sur Molière aurez toujours des droits,</l>
+        <l>Quand vous désirerez qu’avec vous je renoue,</l>
+        <l>Vous oublierez Dorat, Marivaux et Lanoue.</l>
+        <label>FIN.</label>
+      </div>
+    </body>
+  </text>
+</TEI>
