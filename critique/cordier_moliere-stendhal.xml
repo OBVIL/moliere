@@ -53,8 +53,8 @@
     <body>
       <div>
         <head>Préface</head>
-        <p>Je n’ai aucun scrupule à dire que l’on a peut-être trop en public, moi tout le premier, parlé de Stendhal. Il en est de Beyle, comme d’autres écrivains qui se doivent déguster à petites doses, et non être avalés à grandes gorgées<anchor xml:id="footnote1"/><note place="bottom"><quote>« Some Bookes are to be Tasted, Others to be Swallowed, and Some Few to be Chewed and Digested : That is, some Bookes are to be read only in Parts ; Others to be read but not Curiously ; And some Few to be read wholly, and with Diligence and Attention »</quote>.  ( Bacon’s <hi rend="i">Essays, Of Studies).</hi></note>. Le seul auteur de ce siècle, que notre cerveau puisse absorber sans fatigue, est Alexandre Dumas.</p>
-        <p>Je viens donc, aujourd’hui, tenir simplement une parole que j’avais donnée en publiant <hi rend="i">Stendhal et ses amis</hi><anchor xml:id="footnote2"/><note place="bottom"><hi rend="i">Stendhal et ses amis.</hi> Notes d’un curieux, in-4, 1890.</note>, examiner les notes consacrées à notre plus grand auteur comique, par un homme qui n’eut jamais de comique que sa propre personne.</p>
+        <p>Je n’ai aucun scrupule à dire que l’on a peut-être trop en public, moi tout le premier, parlé de Stendhal. Il en est de Beyle, comme d’autres écrivains qui se doivent déguster à petites doses, et non être avalés à grandes gorgées<note place="bottom"><quote>« Some Bookes are to be Tasted, Others to be Swallowed, and Some Few to be Chewed and Digested : That is, some Bookes are to be read only in Parts ; Others to be read but not Curiously ; And some Few to be read wholly, and with Diligence and Attention »</quote>.  ( Bacon’s <hi rend="i">Essays, Of Studies).</hi></note>. Le seul auteur de ce siècle, que notre cerveau puisse absorber sans fatigue, est Alexandre Dumas.</p>
+        <p>Je viens donc, aujourd’hui, tenir simplement une parole que j’avais donnée en publiant <hi rend="i">Stendhal et ses amis</hi><note place="bottom"><hi rend="i">Stendhal et ses amis.</hi> Notes d’un curieux, in-4, 1890.</note>, examiner les notes consacrées à notre plus grand auteur comique, par un homme qui n’eut jamais de comique que sa propre personne.</p>
         <p>L’opinion d’un homme d’un esprit aussi subtil que l’était celui de Stendhal, sur un observateur profond du cœur humain, tel Molière, ne pouvait manquer d’intérêt et de curiosité pour les gens de notre génération auxquels Beyle <pb n="p. II"/><pb/>faisait appel<note place="bottom"><hi rend="i">Stendhal et ses amis</hi>, p. 2.</note> ; il nous est bon de savoir comment l’œuvre de génie peut être analysée, retouchée même, par la critique de talent.</p>
         <p rend="b">Je n’ajoute pas, en publiant aujourd’hui ces notes, un chef-d’œuvre inconnu à notre littérature ; j’apporte de nouveaux matériaux à l’étude de la pensée dans notre pays. Il est utile, il est même nécessaire que chacune des générations qui se succèdent avec des idées et des méthodes différentes, exprime son opinion sur les travaux des hommes de génie qui les ont précédées. C’est de la sorte que. dans l’infini des siècles, de rares noms dominent dans la durée et le cosmopolitisme du monde : Molière, de même que Shakespeare et Gœthe, a survécu ; l’opinion de Stendhal était curieuse à connaître.</p>
         <p>Stendhal aurait pu avoir le génie ; il n’eut que le talent qui y confine presque dans certaines circonstances ; il est resté incompris de beaucoup, parce que observateur méticuleux, hardi novateur, il a chevauché aussi bien sur le <num>xviii<hi rend="sup">e</hi></num> que sur le <num>xix<hi rend="sup">e</hi></num> siècle ; Français autant qu’italien, classique quoique romantique, involontairement ménageant, si je puis m’exprimer ainsi, la chèvre et le chou, tenu par suite pour un extrême par les anciens comme par les modernes, cordialement détesté par les uns, admiré à outrance par les autres, tel est le Stendhal du public : il reste cependant à étudier un Stendhal <hi rend="i">moyen</hi>, type curieux de bourgeois entiché de noblesse, généreux, mais besogneux, source inépuisable de formules nouvelles en même temps que collectionneur des pensées d’autrui (la musique notamment), écrivain profond, mais sans forme (en quoi il se rapproche de Balzac).</p>
@@ -73,7 +73,7 @@
           <p>« Ce Petitot passe le dernier degré de la sottise."</p>
           <bibl>(P. 184.)</bibl>
         </quote>
-        <p>Quand il parle de <hi rend="i">Sganarelle ou le Cocu</hi>, Petitot n’est pas plus heureux<anchor xml:id="footnote3"/><note place="bottom"><hi rend="i">Molière</hi>, I. p. 426.</note> :</p>
+        <p>Quand il parle de <hi rend="i">Sganarelle ou le Cocu</hi>, Petitot n’est pas plus heureux<note place="bottom"><hi rend="i">Molière</hi>, I. p. 426.</note> :</p>
         <p><pb n="p. IV"/> </p>
         <quote>
           <p>« Quel sot, comment connait-il les sentiments de Molière, autrement que par son dire. Feseur de Roman à 6 fr. la feuille. »</p>
@@ -120,47 +120,41 @@
           <head>II.
 <lb/>Notes manuscrites de Beyle relatives à Molière, tirées de l’exemplaire de M. de Spoelberch</head>
           <label>
-            <hi rend="sc">Principe général très propre à décider la question entre Molière et Shakespeare</hi>
-            <anchor xml:id="footnote4"/>
-            <note place="bottom"><hi rend="i">Molière</hi>, V, feuillets de la fin.</note>
+            <hi rend="sc">Principe général très propre à décider la question entre Molière et Shakespeare</hi><note place="bottom"><hi rend="i">Molière</hi>, V, feuillets de la fin.</note>
           </label>
           <quote>
             <p>Pour peindre un caractère d’une manière qui plaise pendant plusieurs siècles, il faut qu’il y ait beaucoup d’incidens qui le prouvent et beaucoup de naturel dans la manière d’exposer ces incidens.</p>
           </quote>
           <dateline>(4 January 1815, mad by Love ; je…)</dateline>
-          <ab type="ornament">* * *</ab>
-          <p><pb n="p. VII"/> </p>
-          <dateline>24 août 1816, minuit 1 4.</dateline>
+          </div>
+      <div>
+          <dateline><pb n="p. VII"/> 24 août 1816, minuit 1 4.</dateline>
           <label>
-            <hi rend="sc">Du comique de Shakespeare</hi>
-            <anchor xml:id="footnote5"/>
-            <note place="bottom">Je n’ai pas besoin de rappeler que Shakespeare fut l’objet d’études spéciales de la part de Stendhal et que le nom de l’illustre poète se retrouve sans cesse sous la plume de notre auteur qui faisait toutefois des erreurs : ainsi p. 107 de notre volume il parle de <hi rend="i">Lothario</hi> (une faute d’impression en fait <hi rend="i">Lotharic</hi> dans le <hi rend="i">Merchant of Venice</hi> qui ne s’y trouve pas, mais bien <hi rend="i">Antonio</hi>.</note>
+            <hi rend="sc">Du comique de Shakespeare</hi><note place="bottom">Je n’ai pas besoin de rappeler que Shakespeare fut l’objet d’études spéciales de la part de Stendhal et que le nom de l’illustre poète se retrouve sans cesse sous la plume de notre auteur qui faisait toutefois des erreurs : ainsi p. 107 de notre volume il parle de <hi rend="i">Lothario</hi> (une faute d’impression en fait <hi rend="i">Lotharic</hi> dans le <hi rend="i">Merchant of Venice</hi> qui ne s’y trouve pas, mais bien <hi rend="i">Antonio</hi>.</note>
           </label>
           <quote>
             <p>La gaîté folle et charmante des jeunes filles n’est pas la même chose que le <hi rend="i">Rire.</hi> Pour la jeune fille folâtre, chaque sensation est un nouveau plaisir et excite une surprise agréable qui fait naître le Sous Rire. Si elles sont plusieurs, le Rire devient un effet nerveux et elles s’ennivrent de leurs propres cris. Shakspeare nous présente des personnages animés de cette gaîté du bonheur, tel est Gratiano, tel est Jessica<note place="bottom"><hi rend="i">The Merchant of Venice</hi>.</note>.</p>
             <p>Loin de <hi rend="i">rire d’eux</hi> nous simpathisons avec un état si délicieux. Pour faire naître cette douce illusion, il employe souvent l’artifice de Métastase. En ce sens il est tout naturel qu’une âme tendre qui ne se laisse pas rebuter par l’ignoble, préfère le Roi de Cocagne au Misantrope. Les justes sujets de plainte d’Alceste sont le fil funeste qui le rapelle à la terre. C’est exactement ce que nous avons tous éprouvés à 12 ans quand lisant des comédies en cachette, nous ne cherchions dans la comédie que le Roman (d’amour).</p>
             <p>Ces sentimens sont fort vrais, mais on ne doit pas les apeller jugemens pour la comédie quand il est évident que qui se berce de ces illusions ne peut pas sentir la comédie.</p>
           </quote>
-          <ab type="ornament">* * *</ab>
-          <dateline>8 décembre 1809.</dateline>
-          <quote>
+        <quote>
+            <p>8 décembre 1809.</p>
             <p>On pourrait faire une espèce de traduction des <hi rend="i">Précieuses ridicules</hi>, dans les mœurs et dans les termes d’à présent qui étonnerait bien le monde. Le ton sentimental serait un des principaux topiques, en un mot, les gens qui mettent la mémoire à la place de l’esprit.</p>
           </quote>
-          <ab type="ornament">* * *</ab>
-          <dateline>Juin 1810.</dateline>
-          <quote>
+        <quote>
+          <p>Juin 1810.</p>
             <p>La comédie des <hi rend="i">Précieuses ridicules</hi>, pleine de couleur <pb n="p. VIII"/> vigoureusement empâtée, modèle de coloris. bien loin de Van der Werff = Collé. c’est un tableau du Titien<note place="bottom"><hi rend="i"> Molière</hi>, II , à la fin</note>.</p>
           </quote>
-          <ab type="ornament">* * *</ab>
+          
           <dateline>8 mars 1816<note place="bottom">Cette note est tirée de la dernière feuille de garde du vol. IV du <hi rend="i">Molière</hi>.</note>.</dateline>
           <quote>
             <p>Chaque homme de génie doit brocher pour soi une poétique ou un commentaire de Molière.</p>
             <p>Mais pour les autres, à quoi cela est-il bon ?</p>
-            <p>À rien, absolument à rien : qu’un sot croye en Helvétius ou au cathéchisme, il n’en est pas moins également sot<anchor xml:id="footnote6"/><note place="bottom">Écrit au crayon.</note>.</p>
+            <p>À rien, absolument à rien : qu’un sot croye en Helvétius ou au cathéchisme, il n’en est pas moins également sot<note place="bottom">Écrit au crayon.</note>.</p>
             <p>Mais si Collé eût lu jeune ce commentaire, peut-être eût-il fait quelque bonne comédie déplus.</p>
             <p>Un poète comique est un Collé greffé sur un Machiavel.</p>
           </quote>
-          <ab type="ornament">* * *</ab>
+          
           <p>À propos des <hi rend="i">Femmes savantes</hi><note place="bottom">Note tirée du vol VI. du <hi rend="i">Molière</hi>, p.114.</note> :</p>
           <label rend="sc">Modèles dans la nature</label>
           <quote>
@@ -173,17 +167,16 @@
           <quote>
             <p>Miss Batemann ou la Rosamonda dans <hi rend="i">Vivian</hi>, par miss Edgeworth.</p>
           </quote>
-          <ab type="ornament">* * *</ab>
+          
           <p>À propos des <hi rend="i">Amants magnifiques</hi><note place="bottom">Note tirée du vol. V, du <hi rend="i">Molière</hi>, p.195.</note> :</p>
           <quote>
             <p>« 9 août 1816. Excellens matériaux pour la peinture de la Cour de Louis XIV. Ils ont de l’agrément, ils ont même du comique, et il n’y manque que de l’intérêt pour ôter la langueur. L’histoire du devin Anaxarque est même fort hardie contre la Religion. »</p>
           </quote>
-          <ab type="ornament">* * *</ab>
           <p><pb/><pb n="p. IX"/><pb/>Décidément 1813 marque une date fatale dans la vie de Stendhal :</p>
-          <p><quote>« J’arrive enfin à Milan le 7 septembre 1815 »</quote>, dit-il<anchor xml:id="footnote7"/><note place="bottom">Grenoble, vol. XI, et Journal, p. 440.</note>.</p>
+          <p><quote>« J’arrive enfin à Milan le 7 septembre 1815 »</quote>, dit-il<note place="bottom">Grenoble, vol. XI, et Journal, p. 440.</note>.</p>
           <p rend="b">Il est amoureux de la comtesse Simonetta, ce qui ne l’empêche pas d’écrire dans le même manuscrit :</p>
           <quote>
-            <p>« Plus je vis, plus je vois que dans notre affaire (la Comédie en vers) Molière seul est classique. Son coloris est déplaisant pour moi. mais la force du comique et le bon sens me ramènent à lui<anchor xml:id="footnote8"/><note place="bottom">Grenoble, Ibid.</note>. »</p>
+            <p>« Plus je vis, plus je vois que dans notre affaire (la Comédie en vers) Molière seul est classique. Son coloris est déplaisant pour moi. mais la force du comique et le bon sens me ramènent à lui<note place="bottom">Grenoble, Ibid.</note>. »</p>
           </quote>
           <p rend="b">Mais il faut dire qu’il revenait de sa campagne de Silésie.</p>
           <p>Et dire que l’élève Henri Beyle obtint à l’école centrale du département de l’Isère, dans la deuxième division, le 29 fructidor an VII, un premier prix de mathématiques dont le certificat nous a été conservé<note place="bottom">Grenoble, R.. 5896.</note>.</p>
@@ -208,37 +201,33 @@
             <p>A et B.</p>
             <p>Or il faut avoir de la place pour les couleurs À et B. Comment faire rire de Vigier faisant l’important, si l’on n’a pas vu qu’il n’est mêlé dans aucune affaire importante ?</p>
           </quote>
-          <ab type="ornament">* * *</ab>
+          
           <dateline>Moscou, 1<hi rend="sup">er</hi> octobre 1812.</dateline>
           <label rend="sc">Unité de lieu</label>
           <quote>
             <p>Loi bête, imposée par un public bête, et qui heureusement se contente des plus grossières apparences. Voyez <hi rend="i">Cinna</hi>, et les salons communs de toutes nos comédies.</p>
           </quote>
-          <ab type="ornament">* * *</ab>
+          
           <label>
-            <hi rend="sc">La plaisanterie</hi>
-            <anchor xml:id="footnote9"/>
-            <note place="bottom"><hi rend="i">Molière</hi>. I. p. 72.</note>
+            <hi rend="sc">La plaisanterie</hi><note place="bottom"><hi rend="i">Molière</hi>. I. p. 72.</note>
           </label>
           <quote>
             <p>Que feriez-vous, Monsieur, du nez d’un Marguiller ? Il me semble, entre nous, que vous n’insistez pas. (Sistèmes par Voltaire) est une absurdité supposée mais que le spectateur ne croit pas ; c’est l’image <pb n="p. XI"/> de quelque chose d’absurde présenté à son imagination, non pas comme une chose réelle et dont il rit d’autant plus que son jugement l’avertit moins haut que c’est une absurdité, une supposition. (Myself sans nulle vanité.)</p>
           </quote>
           <dateline>le 16 février 1813.</dateline>
-          <ab type="ornament">* * *</ab>
+          
           <label>
-            <hi rend="sc">Le rire</hi>
-            <anchor xml:id="footnote10"/>
-            <note place="bottom">Tiré des feuillets de la fin du vol. I, du <hi rend="i">Molière</hi>.</note>
+            <hi rend="sc">Le rire</hi><note place="bottom">Tiré des feuillets de la fin du vol. I, du <hi rend="i">Molière</hi>.</note>
           </label>
-          <ab type="ornament">1</ab>
+          <p>1</p>
           <quote>
             <p>On rit par une jouissance d’amour-propre fondée sur la vue <hi rend="i">subite</hi> de quelque perfection que la faiblesse d’autrui nous montre en nous (Mis le 18 nov. 1815 dans s<hi rend="sup">d</hi>).</p>
           </quote>
-          <ab type="ornament">2</ab>
+          <p>2</p>
           <quote>
             <p>Pour peindre un caractère d’une manière qui plaise pendant plusieurs siècles, il faut qu’il y ait beaucoup d’incidens qui le prouvent, et beaucoup de naturel dans la manière d’exposer ces incidens (4 janvier 1815)<note place="bottom">Répétition de Stendhal, voir p.VI.</note>.</p>
             <p>Hobbes in is (<hi rend="i">sic</hi>) <hi rend="i">Discourse on Human nature</hi> sais (<hi rend="i">sic</hi>) :</p>
-            <p>« La passion du Rire n’est autre chose qu’un soudain effet de l’amour-propre excité par une conception plus spontanée encore de notre mérite personnel comparé aux défauts des autres, ou avec ceux que nous pouvons avoir eu nous-mêmes autrefois ; car nous rions aussi de nos propres pensées, quand elles se présentent tout-à-coup à notre esprit ; excepté lorsqu’elles sont accompagnées actuellement de quelque idée déshonorante<anchor xml:id="footnote11"/><note place="bottom">Voici une variante du même passage tiré du vol. I, de <hi rend="i">Molière</hi>, p. LXXXII : <quote>« Hobbes, Ds sur la nature humaine, dit : “La passion qui excite à rire n’est autre chose qu’une vaine gloire fondée sur la conception subite de quelque excellence qui se trouve en nous par opposition à l’infirmité des autres, ou à celle que nous avons eue autrefois car on rit de ses folies passées, lorsqu’elles viennent tout d’un coup dans l’esprit, à moins qu’il n’y ait du déshonneur attaché.” »</quote> <hi rend="i">Le Spectateur</hi>, t. I. Discours XXXV.</note> ».</p>
+            <p>« La passion du Rire n’est autre chose qu’un soudain effet de l’amour-propre excité par une conception plus spontanée encore de notre mérite personnel comparé aux défauts des autres, ou avec ceux que nous pouvons avoir eu nous-mêmes autrefois ; car nous rions aussi de nos propres pensées, quand elles se présentent tout-à-coup à notre esprit ; excepté lorsqu’elles sont accompagnées actuellement de quelque idée déshonorante<note place="bottom">Voici une variante du même passage tiré du vol. I, de <hi rend="i">Molière</hi>, p. LXXXII : <quote>« Hobbes, Ds sur la nature humaine, dit : “La passion qui excite à rire n’est autre chose qu’une vaine gloire fondée sur la conception subite de quelque excellence qui se trouve en nous par opposition à l’infirmité des autres, ou à celle que nous avons eue autrefois car on rit de ses folies passées, lorsqu’elles viennent tout d’un coup dans l’esprit, à moins qu’il n’y ait du déshonneur attaché.” »</quote> <hi rend="i">Le Spectateur</hi>, t. I. Discours XXXV.</note> ».</p>
             <p>Voilà la lumière qui sortie d’un petit in-12 de la Bibliothèque nationale m’éclaira soudainement vers l’an 1803.</p>
           </quote>
           <p><pb n="p. XII"/> Ces lignes contiennent l’idée première des deux essais sur le Rire écrits par Stendhal à la date de 1823 et insérés l’un dans <hi rend="i">Racine et Shakespeare</hi>, l’autre dans les <hi rend="i">Mélanges d’art et de littérature.</hi> Ce dernier essai commence ainsi :</p>
@@ -246,7 +235,7 @@
             <p>« Qu’est-ce que le rire ? Hobbes dit que cette convulsion des poumons et des muscles de la face est l’effet de la “vue imprévue et bien claire de notre supériorité avec un autre homme” ».</p>
           </quote>
           <p>J’avoue que je trouve que cette définition du Rire adoptée et défendue par Stendhal fournit à l’essai un point de départ absolument faux. Le rire peut quelquefois avoir pour origine une perception imprévue et claire de notre supériorité, mais l’effet de cette supériorité produit souvent un résultat opposé. Exemple : un gamin m’écrase les pieds dans la rue ; je lui frotte vigoureusement les oreilles, ma supériorité est ici incontestable et bien claire, son effet était imprévu, l’enfant ne rit pas, il pleure ; je ne ris pas davantage. Les pleurs sont amenés souvent par le même effet, soit moral, soit physique, qui provoque en d’autres circonstances le rire. La chose est si vraie que l’on passe souvent pour la même cause des larmes au rire et du rire aux larmes. L’imprévu n’est pas non plus une des conditions absolues du rire. Je ris autant du jeu de Coquelin dans les <hi rend="i">Précieuses ridicules</hi> aujourd’hui que jadis. Quand nous allons voir Daubray ou Alice Lavigne au Palais-Royal, le rire qui accueille ces amusants artistes n’a rien d’imprévu. Je dirai plutôt que le rire a pour caractéristique la <hi rend="i">spontanéité</hi> et pour cause la <hi rend="i">perception</hi> par l’un des sens ou par l’esprit d’une chose ou d’une idée en dehors des habitudes ordinaires de la vie physique ou intellectuelle. C’est dire que les causes du rire varient non seulement suivant l’individu mais aussi suivant le pays. Je ris lorsque des sauvages font des contorsions devant leurs idoles ; ils se tordent plus encore lorsqu’ils m’aperçoivent en habit noir, avec la cravate blanche et le chapeau de soie.</p>
-          <ab type="ornament">* * *</ab>
+          
           <p>Petitot est pris à parti dès le début du <hi rend="i">Discours préliminaire</hi> : <quote>« Molière est admiré sans qu’on apprécie bien toutes ses beautés »</quote> et qu’il n’a pas cité Hobbes et son morceau :</p>
           <quote>
             <p>« Serait-il indiscret, écrit Beyle, de désirer que ce sot eût le mérite de son état ? qu’il fût un compilateur exact et eût imprimé le morceau de Hobbes sur le Rire, et le discours XXXV du <hi rend="i">Spectateur</hi>, la <pb n="p. XIII"/> page de Saint-Lambert sur Molière, l’eloge de Molière par Chamfort, quelques phrases de Duclos, chap. IX (ce chapitre IX de Duclos n’ajoute rien à la science. Il ne se doute pas même de l’idée de Hobbes. Ce sont des raisonnements en épigrammes tous dans la conversation ; dans la science, cela fait un peu l’effet de l’histoire romaine en madrigaux), le morceau de Voltaire cité par Cailhava, I, 474, quelques alinéas de Collé, <hi rend="i">Mémoires</hi>, quatre ou cinq articles de Marmontel. »</p>
@@ -254,7 +243,7 @@
           </quote>
           <dateline>10 avril 1814.</dateline>
           <signed>(<hi rend="sc">Seyssins</hi> ?)</signed>
-          <ab type="ornament">* * *</ab>
+          
           <dateline> « Encor Paris le 24 mai 1811<note place="bottom">Cette note est tirée du vol. III, du <hi rend="i">Molière</hi> ; la date est mal écrite : probablement 1811, parce que la page suivante est marquée 1811 : mais peut-être 1815.</note>. » (1815)</dateline>
           <quote>
             <p>« Tu ne perds rien à n’être plus au courant de notre Littérature ; on ne voit que Pamphlets politiques, mais il n’y en a pas de bon. Je suis beaucoup allé aux Français : Mars est toujours divine, mais pour le reste et même pour Fleury je me demande s’il a été bon et si son talent n’est point une illusion de notre brillante jeunesse. N’a-t-il pas dit, l’autre jour, dans <hi rend="i">Don Juan</hi> la tirade de l’hipocrisie avec toute la chaleur et toute la sainte indignation d’un honnête homme ? n’a-t-il pas été applaudi par M<hi rend="sup">lle</hi> Mars même à côté de qui j’étais ?</p>
@@ -379,7 +368,7 @@
               <p><hi rend="i">Etat politique, mœurs</hi>,</p>
               <p>est resté inachevé ;</p>
               <p>Style simple, clair.</p>
-              <p>Rien qui se rapporte directement à la biographie de l’auteur<anchor xml:id="footnote12"/><note place="bottom">Écriture de P. Mérimée.</note>. »</p>
+              <p>Rien qui se rapporte directement à la biographie de l’auteur<note place="bottom">Écriture de P. Mérimée.</note>. »</p>
             </quote>
             <p>— F. 51. <hi rend="i">recto</hi> :</p>
             <p>13 avril 1808. <hi rend="sc">Voyage a Brunswick</hi>, <quote>« Je suis arrivé le 13 Novembre 1806 dans un petit pays de 200 mile habitans célèbre par son prince. Le duché de Brunswick était ce me semble le plus connu de toutes les petites principautés de l’Allemagne… »</quote></p>
@@ -470,8 +459,8 @@
             <p>Phrases à la La Bruyère</p>
             <p>pour faire avaler aux gens</p>
             <p>secs la narration destinée à toucher.</p>
-            <p>Comment t<hi rend="i">oucher</hi> un</p>
-            <p>homme de 60 ans <anchor xml:id="footnote13"/>as* ? »</p>
+            <p>Comment <hi rend="i">toucher</hi> un</p>
+            <p>homme de 60 ans ? »</p>
           </quote>
           <p rend="b">Sur le verso du faux-titre :</p>
           <quote>
@@ -499,7 +488,7 @@
             <p>ET SHAKSPEARE</p>
             <p>MORI DI… ANNI NEL l8…</p>
           </quote>
-          <p>M. Bucci marque dans sa transcription que <quote>: « Cette épitaphe subit une modification par son testament du 28 septembre 1840, déposé, pour minute, à M. Julien Yves, notaire <pb n="p. XXIII"/> à Paris, comme on la voit sur son tombeau au cemetière [sic] de Montmartre</quote><anchor xml:id="footnote14"/><note place="bottom">Cf. la vraie inscription, p. 133 de Stendhal et ses amis.</note><quote>, savoir :</quote></p>
+          <p>M. Bucci marque dans sa transcription que <quote>: « Cette épitaphe subit une modification par son testament du 28 septembre 1840, déposé, pour minute, à M. Julien Yves, notaire <pb n="p. XXIII"/> à Paris, comme on la voit sur son tombeau au cemetière [sic] de Montmartre</quote><note place="bottom">Cf. la vraie inscription, p. 133 de Stendhal et ses amis.</note><quote>, savoir :</quote></p>
           <quote>
             <p>ARRIGO BEYLE</p>
             <p>MILANESE</p>
@@ -631,7 +620,7 @@
           <p rend="b">Au verso du dernier feuillet de garde :</p>
           <quote>
             <p>VUE VRAIE SUR LE MANQUE DE LOVE IN MY LIFE</p>
-            <p>« Les (figure) les (figure) les (figure<anchor xml:id="footnote15"/>)<note place="bottom">Évidemment Stendhal a remplacé ici par une figure le mot <hi rend="i">sots</hi>.</note></p>
+            <p>« Les (figure) les (figure) les (figure)<note place="bottom">Évidemment Stendhal a remplacé ici par une figure le mot <hi rend="i">sots</hi>.</note></p>
             <p>ont passé leur tcms à orner leurs</p>
             <p>habits, moi à orner mes pages.</p>
             <p>Tout l’avantage est pour le tems où</p>
@@ -716,7 +705,7 @@
               <p rend="b">Si je n’étais pas si âgé, j’apprendrais l’Arabe tant je suis charmé de trouver enfin quelque chose qui ne soit pas copie académique de l’ancien. Ces gens ont toutes les vertus brillantes.</p>
               <p rend="b">C’est vous dire, monsieur, combien je suis sensible aux anecdotes que vous avez bien voulu traduire pour moi. Mon petit traité idéologique sur l’amour, aura ainsi un peu de variété. Le lecteur sera transporté hors des idées Européennes.</p>
               <p><pb n="p. XXXI"/> Le Morceau Provençal que je vous dois également, fait déjà un fort bon repas.</p>
-              <p>Je regrette beaucoup madame Clarke<anchor xml:id="footnote16"/><note place="bottom"><p>Note, Madame Clarke, (fille du capitaine Hay, de la marine royale anglaise, mère de Mary, femme de l’orientaliste Jules Mohl. Cf. K.O’Meara.</p><p>— Un Salon à Paris. Madame Mohl et ses intimes  Paris, Pion, s. d.</p><p>[1886]. in-12.)</p></note>.</p>
+              <p>Je regrette beaucoup madame Clarke<note place="bottom"><p>Note, Madame Clarke, (fille du capitaine Hay, de la marine royale anglaise, mère de Mary, femme de l’orientaliste Jules Mohl. Cf. K.O’Meara.</p><p>— Un Salon à Paris. Madame Mohl et ses intimes  Paris, Pion, s. d.</p><p>[1886]. in-12.)</p></note>.</p>
               <p rend="b">Agréez, monsieur, l’hommage de ma reconnaissance</p>
               <signed>H. Beyle </signed>
               <dateline>7 juillet,nº 63, Rue Richelieu.</dateline>
@@ -787,7 +776,7 @@
               <p rend="b">J’ai reçu avec un véritable plaisir la lettre que vous m’avez fait l’honneur de m’écrire hier en faveur de M. Beyle. J’ai eu l’occasion et l’avantage de le voir une fois ou deux, il y a bien longtemps, mais je n’ai pas oublié les encouragements que j’ai reçus, dans mes débuts littéraires, du docteur Gagnon son grand-père, ni les bontés de M. Beyle père quand l’administration de la ville de Grenoble m’intéressait plus directement qu’elle ne le fait aujourd’hui. Je serais donc heureux d’être en état de faire quelque chose qui pût être utile à M. Beyle, et qui pût aussi, Monsieur, vous être agréable : ce serait une revanche que je prendrais avec vous de grand cœur.</p>
               <p rend="b">Voici l’état de l’affaire dont vous avez bien voulu m’entretenir ; La place d’employé qu’avait M. Méon est vacante de fait et ne l’est pas de droit. Vous voyez déjà que la diplomatie pénètre partout, même dans les affaires les plus minimes de notre établissement. La vérité est que M. Méon fut nommé employé de l’autorité et pleine science de M. de Corbière, quand cette nomination appartenait à la Bibliothèque qui ne l’avait pas demandée. Le ministre décida en même temps que. créant par son acte une place d’employé de plus qu’il n‘y en avait eu jusque-là, il ne serait pas pourvu à la première vacance qui surviendrait, et c’est M. Méon lui-même qui a donné lieu à cette vacance. En droit donc, il ne doit pas y être nommé.</p>
               <p>Si cependant l’administration de la Bibliothèque profite de ce <hi rend="i">précédent</hi> et décide que l’intérêt du service exige qu’il soit pourvu à la vacance, le département des Manuscrits a l’initiative pour la présentation du candidat : j’ai une voix dans cette initiative, mais de droit seulement et non pas de fait, mes justes déférences pour M. Dacier, notre père à tous, ne me laissant que la faculté de porter son vœu au Conservatoire. C’est donc M. Dacier qui fera sa nomination, s’il y a lieu, et personne au monde ne peut avoir plus d’accès et d’influence auprès de lui que M. le marquis de Pastoret : une antique confraternité académique et un long échange de services mutuels et d’affectueux sentiments doivent rendre cette influence effective et fructueuse.</p>
-              <p><pb n="p. XXXVII"/> Mais il y a encore une autre série de difficultés. M. Méon fut nommé employé après dix-neuf ans de surnuméraires au titre d’auxiliaire, et à 1,500 fr. Il y a derrière lui deux surnuméraires au même titre, travaillant depuis plusieurs années dans l’expectation d’un avancement régulier, tous deux ayant du mérite, quoique inégalement, et je crois qu’il serait bien difficile de remplacer M. Méon, chargé du travail du catalogue, si ce n’est par l’un des deux auxiliaires déjà familiarisés avec les détails de l’établissement. Ce ne serait donc que la succession de l’auxiliaire promu, que M. Beyle pourrait solliciter, et c’est encore à M. Dacier et à lui seul en quelque sorte qu’il faudrait s’adresser. Il y a une troisième voix à concilier, dans le département des Manuscrits (je dis troisième sans conséquence hiérarchique) ; c’est celle de M. Abel-Rémusat<anchor xml:id="footnote17"/><note place="bottom"><p>Le célèbre sinologue Jean-Pierre-Abel Rémusat, né à Paris le 5 sept. 1788 ; mort dans cette ville le 2 juin 1832.</p></note> ; et c’est aussi M. le marquis de Pastoret qui peut, avant qui que ce soit, la demander et l’obtenir. Je serais heureux de joindre mon suffrage au leur.</p>
+              <p><pb n="p. XXXVII"/> Mais il y a encore une autre série de difficultés. M. Méon fut nommé employé après dix-neuf ans de surnuméraires au titre d’auxiliaire, et à 1,500 fr. Il y a derrière lui deux surnuméraires au même titre, travaillant depuis plusieurs années dans l’expectation d’un avancement régulier, tous deux ayant du mérite, quoique inégalement, et je crois qu’il serait bien difficile de remplacer M. Méon, chargé du travail du catalogue, si ce n’est par l’un des deux auxiliaires déjà familiarisés avec les détails de l’établissement. Ce ne serait donc que la succession de l’auxiliaire promu, que M. Beyle pourrait solliciter, et c’est encore à M. Dacier et à lui seul en quelque sorte qu’il faudrait s’adresser. Il y a une troisième voix à concilier, dans le département des Manuscrits (je dis troisième sans conséquence hiérarchique) ; c’est celle de M. Abel-Rémusat<note place="bottom"><p>Le célèbre sinologue Jean-Pierre-Abel Rémusat, né à Paris le 5 sept. 1788 ; mort dans cette ville le 2 juin 1832.</p></note> ; et c’est aussi M. le marquis de Pastoret qui peut, avant qui que ce soit, la demander et l’obtenir. Je serais heureux de joindre mon suffrage au leur.</p>
               <p>Je suis donc forcément réduit aujourd’hui, Monsieur, à vous donner la topographie du terrain de l’affaire dont vous voulez bien m’entretenir. Si je puis davantage, je suis prêt à tout ce qui pourra vous plaire. Je vous prie d’en agréer l’assurance, ainsi que celle du véritable dévouement avec lequel j’ai l’honneur d’être, Monsieur, votre très humble et très obéissant serviteur.</p>
               <signed>J.-J. Champollion-Figeac.</signed>
               <p rend="b">M. de Mareste.</p>
@@ -1355,7 +1344,7 @@
           <div>
             <head>[Acte premier, scène première]</head>
             <quote rend="border">
-              <label>ACTE PREMIER<anchor xml:id="footnote18"/><note place="bottom"><p>Je note que le Tartuffe fut joué le mardi 23 février 1814. — Stendhal nous avait déjà dit (Journal, 1805, p. 1741 : <quote>« Nous sortons, Percevant et moi, du <hi rend="i">Tartuffe</hi>, suivi des <hi rend="i">Folies Amoureuses</hi>. Mlle Mars a été divine dans les deux pièces, mais particulièrement dans le commencement de la brouillerie du <hi rend="i">Tartuffe</hi>, et la première entrée des <hi rend="i">Folies</hi>. Nous l’avons appelée après la seconde pièce. »</quote> Et en 1806, l. c., p. 317 : <space> </space><quote>« Le Tartuffe.</quote></p><p><quote>Mlle Mars, l’idéal du beau ; dans des moments elle me semblait une figure vivante de Raphaël. Je me suis senti au bord de l’amour dans la brouille. Je l’ai vue ensuite dans l’Intrigue épistolaire, l’inquiétude, la joie, la finesse d’une grande âme. Quelles nuances ! Quelle vérité ! C’est sublime. »</quote> </p></note>
+              <label>ACTE PREMIER<note place="bottom"><p>Je note que le Tartuffe fut joué le mardi 23 février 1814. — Stendhal nous avait déjà dit (Journal, 1805, p. 1741 : <quote>« Nous sortons, Percevant et moi, du <hi rend="i">Tartuffe</hi>, suivi des <hi rend="i">Folies Amoureuses</hi>. Mlle Mars a été divine dans les deux pièces, mais particulièrement dans le commencement de la brouillerie du <hi rend="i">Tartuffe</hi>, et la première entrée des <hi rend="i">Folies</hi>. Nous l’avons appelée après la seconde pièce. »</quote> Et en 1806, l. c., p. 317 : <space> </space><quote>« Le Tartuffe.</quote></p><p><quote>Mlle Mars, l’idéal du beau ; dans des moments elle me semblait une figure vivante de Raphaël. Je me suis senti au bord de l’amour dans la brouille. Je l’ai vue ensuite dans l’Intrigue épistolaire, l’inquiétude, la joie, la finesse d’une grande âme. Quelles nuances ! Quelle vérité ! C’est sublime. »</quote> </p></note>
 <lb/>Scène première</label>
               <stage>Madame Pernelle, Elmire, Mariane, Cléante, Damis, Dorine, Flipote</stage>
               <label rend="sc">Madame Pernelle</label>
@@ -1948,7 +1937,7 @@
               <l>Le pauvre homme ! Allons vite en dresser un écrit :</l>
               <l>Et que puisse l’envie en crever de dépit !</l>
             </quote>
-            <p>Vanité puérile d’Orgon, dans le genre de celle de Pacé. Il commence trop à perdre de vue cet excellent caractère original. La faute en est à la campagne de Russie. Gina trouve que mes lettres d’il y a deux ans étaient bien plus enflammées que celles de ce voyage-ci. C’est ma léthargie<anchor xml:id="footnote19"/><note place="bottom">Voyez <hi rend="i">Métastase</hi>, tome XII ou XV.</note>.</p>
+            <p>Vanité puérile d’Orgon, dans le genre de celle de Pacé. Il commence trop à perdre de vue cet excellent caractère original. La faute en est à la campagne de Russie. Gina trouve que mes lettres d’il y a deux ans étaient bien plus enflammées que celles de ce voyage-ci. C’est ma léthargie<note place="bottom">Voyez <hi rend="i">Métastase</hi>, tome XII ou XV.</note>.</p>
             <p>
               <pb>
                 <pb n="42"/>
@@ -2196,7 +2185,7 @@
           <p rend="b">La marche de cette pièce n’est pas rapide, il est vrai, mais Molière peint parfaitement bien tout ce qu’il rencontre.</p>
           <p>Orgon est un sot et une âme étroite. Tartuffe un homme fin, un bon comédien qui ne peut se défaire en parlant a Elmire des manières de parler ridicules, qui, par l’usage journalier, sont devenues habituelles chez lui. Damis est un jeune homme nullement remarquable par l’esprit, il en est de même du raisonneur Cléante. Dorine qui est toujours prête à employer l<hi rend="i">’industrie</hi>, a beaucoup d’esprit. La dignité d’Elmire nous cache le sien. L’esprit d’une jeune femme décente, est diablement voilé en France, pour les convenances. Tartuffe est un personnage en dedans qui ne fait jamais de confidences à personne. Ses confidences auraient fait mal au cœur.</p>
           <p rend="b">De qui rit-on dans cette pièce ?</p>
-          <p>Il faut avouer qu’on rit peu. Voilà un défaut auquel il était facile à un homme tel que Molière de remédier, placer par exemple un vrai dévot à côté de Tartuffe, un vieil évêque pieux, oncle d’Elmire âgé de soixante-dix ans et retiré à Paris, comme l’ancien évêque d’Alais, <pb n="51"/>M<hi rend="sup">r</hi> de Bausset<anchor xml:id="footnote20"/><note place="bottom">Le cardinal Louis-François de Bausset, de l’Académie française, né à Pondichéry le 14 décembre 1748, mort le 21 juin 1824.</note> où il jouit de beaucoup de considération dans la clique dévote. C’est en sa présence que l’attaque de Cléante qui commence le quatrième acte aurait été sensée. Il importe à Tartuffe que ce saint homme ne soit pas contre lui. Il le ménage extrêmement. C’est dans le désir de se le concilier, qu’on pourrait trouver le moyen de nous montrer une ou deux fois Tartuffe désapointé. L’évêque dirait à Orgon devant Tartuffe : Ces messieurs sont infâmes, en parlant des mornes prêches par Tartuffe un instant auparavant. Celui-ci trouverait moyen de se retourner. À la fin, l’évêque qui a assez d’esprit, serait convaincu de la scélératesse de Tartuffe, mais pour ne pas nuire dans le public à la cause de la religion ne voudrait rien faire contre lui. Voilà une source de mouvement. D’ailleurs dans cet évêque, on pouvait présenter, toute police à part, les ridicules des vrais dévots, montrer combien il est facile d’abuser de quelques-unes de leurs maximes.</p>
+          <p>Il faut avouer qu’on rit peu. Voilà un défaut auquel il était facile à un homme tel que Molière de remédier, placer par exemple un vrai dévot à côté de Tartuffe, un vieil évêque pieux, oncle d’Elmire âgé de soixante-dix ans et retiré à Paris, comme l’ancien évêque d’Alais, <pb n="51"/>M<hi rend="sup">r</hi> de Bausset<note place="bottom">Le cardinal Louis-François de Bausset, de l’Académie française, né à Pondichéry le 14 décembre 1748, mort le 21 juin 1824.</note> où il jouit de beaucoup de considération dans la clique dévote. C’est en sa présence que l’attaque de Cléante qui commence le quatrième acte aurait été sensée. Il importe à Tartuffe que ce saint homme ne soit pas contre lui. Il le ménage extrêmement. C’est dans le désir de se le concilier, qu’on pourrait trouver le moyen de nous montrer une ou deux fois Tartuffe désapointé. L’évêque dirait à Orgon devant Tartuffe : Ces messieurs sont infâmes, en parlant des mornes prêches par Tartuffe un instant auparavant. Celui-ci trouverait moyen de se retourner. À la fin, l’évêque qui a assez d’esprit, serait convaincu de la scélératesse de Tartuffe, mais pour ne pas nuire dans le public à la cause de la religion ne voudrait rien faire contre lui. Voilà une source de mouvement. D’ailleurs dans cet évêque, on pouvait présenter, toute police à part, les ridicules des vrais dévots, montrer combien il est facile d’abuser de quelques-unes de leurs maximes.</p>
           <p>Je trouve à cette pièce un peu du défaut de <hi rend="i">Télémaque</hi>, les caractères n’y sont pas marqués par assez de traits. Tartuffe par exemple gagne une grande fortune à bon marché. Il n’est embarrassé qu’une fois à l’accusation de Damis, et il se justifie avec tant de facilité que réellement il n’y a pas de mérite. Le personnage du vieil évêque est un premier aperçu dans un moment où malgré moi je pense à plusieurs choses (je crains que la comtesse S. ne dissimule avec moi, and…… mais il aurait cet avantage d’embarrasser un peu Tartuffe.</p>
           <p><pb n="52"/>Sans doute en fesant Orgon moins bête, Tartuffe aurait plus à faire. Mais faire Orgon moins crédule, n’est-ce pas le dénaturer ? Tartuffe a à ménager en général son parti, en particulier sa dupe. Pourquoi ne pas le montrer recevant un des matadors de son parti et lui donnant à déjeuner ? Mélange comique de la sensualité et du langage mortifié de la pénitence. Les repas sont froids à la scène.</p>
           <p rend="b">Pourquoi nous montrer Orgon tout séduit ? Cela n’a-t-il pas des inconvénients analogues à nous montrer Dandin contrit et humilié, tout à fait guéri de la vanité qui lui a fait faire un mariage noble, et préparé à recevoir avec soumission tous les camouflets qu’il peut lui attirer ? Une scène de séduction nous aurait montré comment Tartuffe s’y est pris pour arriver au point où nous le voyons.</p>
@@ -2209,7 +2198,7 @@
           <p>2º qu’on y rit trop peu.</p>
           <p rend="b">Une des causes de la froideur c’est sans doute l’imbécillité presque obligée d’Orgon.</p>
           <p rend="b">On pourrait remédier à ce défaut en le doublant du vieil évêque.</p>
-          <p>Ou en le fesant amoureux de sa femme à laquelle il aurait tout confié. Au premier abord ce second moyen semble rendre difficile la scène de la table, mais cela peut s’arranger. Cet amour motive même la tentative de séduction de Tartuffe, qui ne serait plus mu simplement par l’envie d’ — cette femme, mais qui aurait le motif plus digne d’un ambitieux hypocrite, que, pour mener tout à fait Orgon, il a besoin d’être d’accord avec sa femme. Cela préviendrait la critique de La Bruyère (Article <hi rend="i">Onuphre</hi>)<anchor xml:id="footnote21"/><note place="bottom"><quote>« <hi rend="i">Onuphre</hi> n’a pour tout lit qu’une housse de serge grise, mais il couche sur le cotou et sur le duvet ; de même, il est habillé simplement, mais commodément, je veux dire d’une étoffe fort légère en été, et d’une autre fort moelleuse pendant l’hiver ; il porte des chemises très déliées, qu’il a un très grand soin de bien cacher. Il ne dit point ma hairc et ma discipline ; au contraire, il passerait pour ce qu’il est : pour un hypocrite, et il veut passer pour ce qu’il n’est pas, pour un homme dévot. Il est vrai qu’il fait en sorte que l’on croie, sans qu’il le dise, qu’il porte une haire et qu’il se donne la discipline »</quote> (La Bruyère, <hi rend="i">les Caractères</hi>, Paris, Didot. 1853, in-8, « De la Mode », p. 443.)</note>, qui au reste me semble peu fondée.</p>
+          <p>Ou en le fesant amoureux de sa femme à laquelle il aurait tout confié. Au premier abord ce second moyen semble rendre difficile la scène de la table, mais cela peut s’arranger. Cet amour motive même la tentative de séduction de Tartuffe, qui ne serait plus mu simplement par l’envie d’ — cette femme, mais qui aurait le motif plus digne d’un ambitieux hypocrite, que, pour mener tout à fait Orgon, il a besoin d’être d’accord avec sa femme. Cela préviendrait la critique de La Bruyère (Article <hi rend="i">Onuphre</hi>)<note place="bottom"><quote>« <hi rend="i">Onuphre</hi> n’a pour tout lit qu’une housse de serge grise, mais il couche sur le cotou et sur le duvet ; de même, il est habillé simplement, mais commodément, je veux dire d’une étoffe fort légère en été, et d’une autre fort moelleuse pendant l’hiver ; il porte des chemises très déliées, qu’il a un très grand soin de bien cacher. Il ne dit point ma hairc et ma discipline ; au contraire, il passerait pour ce qu’il est : pour un hypocrite, et il veut passer pour ce qu’il n’est pas, pour un homme dévot. Il est vrai qu’il fait en sorte que l’on croie, sans qu’il le dise, qu’il porte une haire et qu’il se donne la discipline »</quote> (La Bruyère, <hi rend="i">les Caractères</hi>, Paris, Didot. 1853, in-8, « De la Mode », p. 443.)</note>, qui au reste me semble peu fondée.</p>
           <p>Je crois que le succès de la pièce est dû en partie à la <pb n="54"/> scène de la table, qui est le <hi rend="i">qu’il mourût</hi> de la comédie.</p>
           <p>Quels seraient les moyens de faire rire davantage dans le <hi rend="i">Tartuffe</hi> ?</p>
           <p>Écrit à Milan dans l’intervalle des rendez-vous du 9 au il novembre 1813<note place="bottom">Avec la comtesse Simonetta.</note>. Lu à Milan le 8 mars 1816, malade de battemens d’artère nerveux. Approuvé autant que le permet le peu d’attention que je me permets. Si je meurs, regret d’avoir fait l’Amour], au lieu de travailler au genre Mocenigo.</p>
@@ -2221,10 +2210,10 @@
         <label><pb n="57"/><hi rend="sc">L’Avare peut-il être ridicule</hi><note place="bottom">À la fin du vol. IV du Molière. — Dans le vol. VI, p. 5, de l’édit. Didot</note> ?</label>
         <p rend="b">Oui.</p>
         <p>1º Le <hi rend="i">véritable Avare</hi>, en le montrant pusillanime à force d’avarice, n’osant rien hasarder, manquant les plus belles occasions de gagner, de doubler ses fonds et se désespérant ensuite de ne pas avoir fait ces spéculations, en un mot, se trompant sur la chose où sa passion lui fait croire qu’est le bonheur.</p>
-        <p>2º (Deuxième espèce d’Avare) l’<hi rend="i">Ambitieux de plaisirs ou d’honneurs voulant aller h son but en amassant de Vargent.</hi> Il est ridicule quand on le montre prenant le moyen pour le but, manquant les plus belles occasions de plaisirs ou d’honneurs, faute de vouloir faire quelque dépense. Il est ensuite instruit de sa bévue par un Railleur, son antagoniste ordinaire qui lui rend ces pertes cuisantes, en lui faisant sentir la douceur des plaisirs manqués<anchor xml:id="footnote22"/><note place="bottom">5 On a joué <hi rend="i">l’Avare</hi>, le mardi 1er février 1814, avec Lacave, Michelot, Van-hove, Faure, Dumilâtre, Cartigny, Baudrier, Firmin, Artiguenave. Mmes Dupuis, Michelot, Dupont ; il fut repris le vendredi, 4 mars 1814, avec Michot en plus ; Faure, Cartigny en moins ; et les mêmes femmes.</note>.</p>
-        <p>(Destouches a décrit un Avare de ce genre dans <hi rend="i">le Dissipateur</hi>, je crois<anchor xml:id="footnote23"/><note place="bottom"><p>C’est bien dans <hi rend="i">le Dissipateur</hi> qui fut joué à la Comédie-Française le samedi 15 janvier et le samedi 5 mars 1814, avec la distribution : Fleury, Saint-Fai, Armand, Desprez, Vanhove, Firmin. Melle Emilie Contât, Bourgoin, Mars. Michelot. Regnier. Dupont :</p><quote rend="border"><label>GERONTE, <stage>oncle du dissipateur Cléon</stage> :</label><p>… J’entre, j’ouvre mon coffre, et puis mon cher argent Me console. J’en ai de quoi remplir deux pipes :</p><p>…………….*</p></quote><p rend="margin">* Voyez au Chapitre Livre la définition de ces mots.</p></note>.)</p>
+        <p>2º (Deuxième espèce d’Avare) l’<hi rend="i">Ambitieux de plaisirs ou d’honneurs voulant aller h son but en amassant de Vargent.</hi> Il est ridicule quand on le montre prenant le moyen pour le but, manquant les plus belles occasions de plaisirs ou d’honneurs, faute de vouloir faire quelque dépense. Il est ensuite instruit de sa bévue par un Railleur, son antagoniste ordinaire qui lui rend ces pertes cuisantes, en lui faisant sentir la douceur des plaisirs manqués<note place="bottom">5 On a joué <hi rend="i">l’Avare</hi>, le mardi 1er février 1814, avec Lacave, Michelot, Van-hove, Faure, Dumilâtre, Cartigny, Baudrier, Firmin, Artiguenave. Mmes Dupuis, Michelot, Dupont ; il fut repris le vendredi, 4 mars 1814, avec Michot en plus ; Faure, Cartigny en moins ; et les mêmes femmes.</note>.</p>
+        <p>(Destouches a décrit un Avare de ce genre dans <hi rend="i">le Dissipateur</hi>, je crois<note place="bottom"><p>C’est bien dans <hi rend="i">le Dissipateur</hi> qui fut joué à la Comédie-Française le samedi 15 janvier et le samedi 5 mars 1814, avec la distribution : Fleury, Saint-Fai, Armand, Desprez, Vanhove, Firmin. Melle Emilie Contât, Bourgoin, Mars. Michelot. Regnier. Dupont :</p><quote rend="border"><label>GERONTE, <stage>oncle du dissipateur Cléon</stage> :</label><p>… J’entre, j’ouvre mon coffre, et puis mon cher argent Me console. J’en ai de quoi remplir deux pipes :</p><p>…………….*</p></quote><p rend="margin">* Voyez au Chapitre Livre la définition de ces mots.</p></note>.)</p>
         <p><pb n="58"/> Quant à l’<hi rend="i">Avare</hi> de Molière, c’est un caractère bien peint, mais comme on ne le montre point se trompant, dans sa passion, le comique glisse sur lui, et les positions comiques où Molière le montre ne s’élèvent pas au-dessus de <hi rend="i">la plaisanterie</hi>, ne produisent que de la plaisanterie. au lieu de fournir du comique<note place="bottom">Page 73 - LE DISSIPATEUR ou l’honneste Friponne, Comédie, par M ; Nericault Destouches, de l’Académie Françoise. À Paris, chez Prault père, Quay de Gêvres, au Paradis - M. DCC.XXXVI. Avec Approbation et privilège du Roy ; Pet ; in-8.</note>.</p>
-        <ab type="ornament">* * *</ab>
+        
         <p>[Note <num>i</num>, page 16 (édition in-8º de 1804).]</p>
         <p>Cette scène suppose un amour extrême entre Valère et Élise, et ne le prouve point par le coloris. Il fallait attacher en montrant à nu, les sentiments de deux cœurs tendres. On peut se rappeler le premier duo <hi rend="i">del matrimonio segretto.</hi> Cette scène manque donc de chaleur et de vérité dans la couleur.</p>
         <p>L’action de Valère pouvait le mener à être pendu. Il est dans le caractère de <hi rend="i">l’Avare</hi> de mettre sa fille dans un couvent, avec une mince pension alimentaire, et de faire pendre Valère.</p>
@@ -2232,24 +2221,24 @@
         <p>Valère aurait été peint se moquant davantage des actions de <hi rend="i">l’Avare</hi> ; dans la scène de <hi rend="i">sans dot</hi>, il a l’air uniquement de suivre ses intérêts, et ne se moque pas du ridicule de l’<hi rend="i">Avare</hi> : Cette manière aurait aidé le parterre à rire du comique de ces scènes, Valère aurait fait des plaisanteries sur le caractère, et aurait ainsi paru plus brillant et plus noble, ces deux sensations ne sont point données par la pièce. Valère a l’air trop intendant : il y avait une source de comique gracieux, en montrant Valère faisant des balourdises dans son métier et cherchant en plaisantant comment il doit s’y prendre pour bien s’en tirer.</p>
         <p rend="b">Cette scène peut être parfaitement vraie pour M. de Roicy, mais arrangée à notre manière, elle lui serait plus agréable (‘pourvu toutefois qu’il n’y eût pas trop de passion)</p>
         <p rend="b">Des scènes de cette nature feraient une peinture nationale, peu agréable peut-être, mais qui peindrait parfaitement nos mœurs, au philosophe qui, dans mille ans, voudrait les connaître.</p>
-        <ab type="ornament">* * *</ab>
+        
         <p>[Nº 2, page 21.]</p>
         <p rend="b">Le coloris de cette scène ne prouve point encore la résolution forte qui y est énoncée. On est fâché de voir</p>
         <p><pb n="60"/> Cléante se proposer d’aller <hi rend="i">chercher en d’autres lieux la fortune que le ciel voudra lui offrir.</hi> Ce manque de raison affaiblit tout ce qu’il dit contre son père.</p>
         <p rend="b">Il fallait dès l’abord précipiter le spectateur au milieu d’un événement qui lui fit conclure tout ce que Cléante avance, lui fît voir son genre de vie, et une partie des rapports d’Harpagon avec le monde.</p>
         <p rend="b">Je ne sais pourquoi Molière, dont le caractère mélancholique sentit si bien l’amour et la jalousie, s’est refusé la peinture d’amants passionnés, le meilleur passeport pour faire tout passer, même la plus sublime philosophie.</p>
-        <ab type="ornament">* * *</ab>
+        
         <p>[(Commentaire sur Molière, de Simonin, comparaison de Regnard à Molière, page.) 6<hi rend="sup">e</hi> principe.]</p>
-        <p>Une scène ne nous semble bonne qu’autant qu’elle produit <hi rend="i">changement</hi> dans la position du personnage<anchor xml:id="footnote24"/><note place="bottom"><p>Oui, dans une comédie d’intrigue, mais une scène qui fait rire, sans changement, est bonne.</p></note>.</p>
+        <p>Une scène ne nous semble bonne qu’autant qu’elle produit <hi rend="i">changement</hi> dans la position du personnage<note place="bottom"><p>Oui, dans une comédie d’intrigue, mais une scène qui fait rire, sans changement, est bonne.</p></note>.</p>
         <p>Quel <hi rend="i">changement</hi> produit celle-ci ? d’apprendre à Élise que son frère est amoureux. Ce qui produit peu d’effet. Le but de celui-ci en venant parler à sa sœur n’est pas raisonnable.</p>
-        <ab type="ornament">* * *</ab>
+        
         <p rend="b">[Note 3, page 29.]</p>
         <p>Marmontel, tome 2, page 143, édition complète, assure que Molière a mis <hi rend="i">l’autre.</hi></p>
         <p><hi rend="i">Les autres</hi> nous paraît un mot exagéré dans tous les cas. Si l’Avare était plus passionné dans cette scène, il pourrait dire l’autre, et ne se rappelant plus ou plutôt craignant de n’avoir pas assez examiné la première : <pb n="61"/><pb/>mais l’Avare n’est point passionné dans cette scène, il ne fait à ses yeux qu’exécuter un devoir.</p>
         <p><hi rend="i">Pendre un haut de chausse</hi> nous semble naturel dans un homme qui, songeant toujours aux voleurs, regarde la potence comme le seul moyen d’empêcher de prendre ou de recéler.</p>
         <p>Ce qui fait rire dans le reste de la scène, c’est le désapointement de vanité que reçoit l’Avare, désapointement qui serait bien plus grand si l’Avare étoit le comte de Barral<note place="bottom">Avare de qualité et homme d’esprit qui florissait à Grenoble, vers 1770 grand-père je crois de mon ami, le Vicomte.</note>. Le pot de chambre jeté avec une manche de livrée, la seringue pour tirer le bouillon, la malle pleine de bougie.</p>
         <p rend="b">Le comte de B… surpris dans l’action de tirer le bouillon avec une seringue est vraiment comique parce que la vanité est en souffrance. Au lieu du comte, vous mettez M. Gérard, un plat apothicaire de la Grande Rue, le comique diminue beaucoup : où l’on voit que Molière a manqué le principal moyen de rendre l’Avare comique, c’est de le montrer obligé à un certain faste.</p>
-        <p>On objecte que l’Avare, se soumettant encore à un certain faste, n’est pas l’avare pur ; on répond que l’Avare pur ayant cent mille livres de rentes et vivant avec 10 sols par jour, ne donnerait au parterre que le plaisir de la singularité, on dirait c’est un personnage de petites maisons (voir l’excellent M. Edger, <hi rend="i">Bibliothèque britannique</hi><anchor xml:id="footnote25"/><note place="bottom"><hi rend="i"> Bibliothèque britannique</hi>, rédigée par Auguste Pictet et F.-G. Maurice. Genève, 1796-1815, 140 vol. in-8.</note>, vers 1804).</p>
+        <p>On objecte que l’Avare, se soumettant encore à un certain faste, n’est pas l’avare pur ; on répond que l’Avare pur ayant cent mille livres de rentes et vivant avec 10 sols par jour, ne donnerait au parterre que le plaisir de la singularité, on dirait c’est un personnage de petites maisons (voir l’excellent M. Edger, <hi rend="i">Bibliothèque britannique</hi><note place="bottom"><hi rend="i"> Bibliothèque britannique</hi>, rédigée par Auguste Pictet et F.-G. Maurice. Genève, 1796-1815, 140 vol. in-8.</note>, vers 1804).</p>
         <p>Nous avons conçu l’Avarice, Louis et moi, en nous <pb n="62"/> supposant économisant et dînant avec 30 sols pour faire un grand voyage qui exige 100 louis. Parvenus à cette somme l’habitude est prise, l’on trouve du plaisir aux privations, par l’effet de la passion de voyager. Ayant ces 100 louis dans notre secrétaire, nous nous ferions quelques raisonnements pour nous prouver qu’il nous en faut 200 pour faire ce voyage avec agrément. Le voyage sera éloigné plusieurs fois sous des prétextes.</p>
         <p rend="b">Quelle passion nous fera éloigner le voyage ?</p>
         <p>Il arive que <num>iº</num> le sentiment de <hi rend="i">puissance réelle</hi> que me donne la possession de ces beaux doubles Napoléons, et 2º le plaisir de faire des châteaux en Espagne sur cet argent, l’emporte sur le désir du voyage qui s’est affaibli dans mon âme <hi rend="i">occupée</hi> maintenant à faire des châteaux en Espagne, fondés sur ce trésor.</p>
@@ -2695,7 +2684,7 @@
           <p rend="b">Un avare ne fait pas un mariage comme celui-là avec une fille qui n’a que sa noblesse.</p>
           <p>Il y a quelques nuances de ce G. Dandin agrandi dans M. Recard de Collé <hi rend="i">(l’Amour d’autrefois et l’Amour actuel.</hi> Tome 2).</p>
           <p>En un mot, Molière pour des raisons à lui connues et que je ne puis discuter nous montre iº Georges Dandin déjà repentant.</p>
-          <p>2º Il le montre les trous bouchés et se prive ainsi d’une foule de situations comiques<anchor xml:id="footnote27"/><note place="bottom">Vie convenable, in <hi rend="i">Lutezia for a Mocenigo. The morning</hi>. travailler ; <hi rend="i">the evening, after dinner</hi>. à observer.</note>.</p>
+          <p>2º Il le montre les trous bouchés et se prive ainsi d’une foule de situations comiques<note place="bottom">Vie convenable, in <hi rend="i">Lutezia for a Mocenigo. The morning</hi>. travailler ; <hi rend="i">the evening, after dinner</hi>. à observer.</note>.</p>
           <p rend="i">La Reconnaissance du comique. </p>
           <p>Je ne dois pas entièrement me fier au sentiment présent, il faut un peu que cela soit <hi rend="i">science</hi> chez moi. Il faut porter un exemplaire des <hi rend="i">Femmes savantes</hi> aux <pb n="85"/><pb/>Français et noter les endroits où l’on rit. me rappeler ensuite le résultat de ces observations. Il est reconnu que le comique glisse sur tout homme passionné. Il est trop occupé à la recherche du bonheur pour songer à se comparer au personnage ridicule que vous faites passer sous ses yeux. Je suis passionné, ou du moins fortement occupé en étudiant Molière. Donc je puis laisser passer sans rire des choses très comiques qui ont d’ailleurs cet autre inconvénient que je les sais par cœur. Jusqu’ici (page 11) je n’ai pas ri, je me suis seulement rappelé qu’on rit à cette plaisanterie :</p>
           <quote>
@@ -3217,7 +3206,7 @@
           <p rend="b">Le ridicule propre du poète est de faire des vers détestables ; du savant, de trouver dans l’analyse d’une eau minérale une substance qui ne puisse pas exister dans l’eau et d’être détrompés, mais ces deux ridicules à force d’être communs ne font plus rire.</p>
           <p rend="b">Philaminte peut admirer de très bonne foi les vers de Trissotin. Ils peuvent lui donner un vrai plaisir. Quel ridicule y a-t-il à cela ! celui d’avoir un mauvais jugement littéraire ? c’est un ridicule bien petit.</p>
           <p>Qu’est-ce que le caractère d’Armande ? son premier mobile est-il le désir de plaire à Clitandre ? en ce cas elle prend une mauvaise voie, comme M<hi rend="sup">me</hi> Necker pour porter son mari au ministère ; dans l’emploi donné ci-dessus, elle est ridicule, mais ce n’est pas en qualité de savante ou de poète, c’est comme coquette.</p>
-          <p>Passons à l’examen détaillé de la pièce<anchor xml:id="footnote28"/><note place="bottom">Elle a été jouée le mercredi 9 et le mardi 22 février 1814</note>.</p>
+          <p>Passons à l’examen détaillé de la pièce<note place="bottom">Elle a été jouée le mercredi 9 et le mardi 22 février 1814</note>.</p>
           <div>
             <head>[Acte premier, scène première]</head>
             <quote rend="border">
