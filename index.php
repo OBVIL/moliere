@@ -96,8 +96,8 @@ div.snip a.bookmark { display: none; }
           <nav id="toolbar">
             <nav class="breadcrumb">
             <?php 
-            if (isset($moliere)) echo '<a href="' . Web::basehref() . 'moliere' . $pot->qsa(null, null, '?') . '">Théâtre de Molière</a> » ';
-            else if (isset($critique)) echo '<a href="' . Web::basehref() . 'critique/' . $pot->qsa(null, null, '?') . '">Critique moliéresque</a> » ';
+            if (isset($moliere)) echo '<a href="' . Web::basehref() . 'moliere' . $pot->qsa(null, null, '?') . '">Pièces</a> &gt; ';
+            else if (isset($critique)) echo '<a href="' . Web::basehref() . 'critique/' . $pot->qsa(null, null, '?') . '">Critique moliéresque</a> &gt; ';
             if (isset($doc['breadcrumb'])) echo $doc['breadcrumb']; 
             ?>
             </nav>
