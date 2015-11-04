@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../teibook/teibook.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Couleur du temps : drame en trois actes et en vers</title>
+            <author key="Apollinaire, Guillaume (1880-1918)">Guillaume Apollinaire</author>
+            <editor key="Alexandre, Didier (1955-....)">Didier Alexandre</editor>
+      </titleStmt>
+      <editionStmt>
+            <edition>OBVIL</edition>
+        <respStmt>
+          <name>Éric Thiébaud </name>
+          <resp>Stylage sémantique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/moliere/critique/bignan_epitre-moliere/</idno>
+        <availability status="restricted"/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>Guillaume Apollinaire, <hi rend="i">Couleur du temps : drame en trois actes et en vers</hi>, 1918.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1917">1917 (pas celle de l’ed)</date>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p/>
+      <p><anchor xml:id="_GoBack"/><hi rend="b">F.-M. BAUDOÜIN.</hi> </p>
+      <p>LES FEMMES</p>
+      <p rend="b">DANS </p>
+      <p>MOLIÈRE.</p>
+      <p>ROUEN</p>
+      <p><hi rend="b">IMPRIMERIE E. CAGNIARD</hi>,
+</p>
+      <p rend="b">Rues de 1’Impératriee, 88, et des Basnage, 5. </p>
+      <p rend="b">1865
+        . </p>
+      <p rend="b">LES FEMMES </p>
+      <p>DANS MOLIÈRE (1).</p>
+      <p>Dans le tableau si vrai et si varié que Molière a tracé de la comédie qui se joue en ce monde, les femmes, qui forment la plus belle et, dit-on, la plus capricieuse ou, si l’on veut, la moins raisonnable partie de l’espèce humaine, devaient nécessairement avoir leur part dans les rigueurs de notre grand poète dramatique. Mais hormis quelques figures complètement vouées à la moquerie, telles que la Bélise des <hi rend="i">Femmes savantes</hi>, M<hi rend="sup">me</hi> Pernelle et la comtesse d’Escarbagnas, ne vous semble-t-il pas, Messieurs, que ce n’est qu’à regret qu’il frappe ces chers tourments de notre vie, qu’il faut aimer quoiqu’on en aie, et d’autant plus peut-être que l’on a, comme lui, plus souffert par elles.</p>
+      <p>Un ingénieux écrivain, M. Noël, a raconté, dans un petit livre charmant, les souffrances morales du pauvre grand homme. Selon lui, les moqueries même que, sur son théâtre, il se plaisait à jeter sur les maris n’étaient qu’une sorte de cruel plaisir qu’il éprouvait à déchirer ses plaies en face de tous, qu’une amère dérision de ses propres souffrances. C’est aller bien loin, ce me semble ; mais, sans admettre que notre cher auteur ait eu le funeste courage de jeter en</p>
+      <p>[p.4] pâture à la malignité publique les incidents les plus douloureux de sa vie intime, je croirai volontiers, avec notre spirituel compatriote, que Molière, comme la plupart des grands écrivains, a bien souvent écrit sous la dictée de son cœur malade, et que l’état de son âme a dû se refléter plus d’une fois dans ses œuvres, d’une manière plus, ou moins directe, et sans qu’il en eût peut-être conscience.</p>
+      <p>Quoiqu’il en puisse être, ce qui me paraît ressortir de son œuvre tout entière, c’est que Molière a beaucoup aimé les femmes et qu’il a eu un juste et profond sentiment de leur vocation. Je ne sais si je m’abuse, mais il me semble que sa constante préoccupation a été de les ramener à la nature, de leur montrer tout ce qu’elles ont à gagner à être vraies, sensées, indulgentes et bonnes, éclairées sans pédantisme, gracieuses sans afféterie, et tout ce qu’elles ont à perdre, au contraire, à usurper un rôle qui ne saurait leur appartenir et qui est si contraire, d’ailleurs, à la douce et bienfaisante influence qu’elles peuvent et doivent exercer, influence d’autant plus irrésistible qu’elle est plus modeste et plus ménagée.</p>
+      <p>Voyez-le à ses débuts. Que fait-il dans <hi rend="i">les Précieuses ridicules</hi>, sinon porter un premier coup à cette risible et malheureuse affectation de manière et de langage qui, de l’hôtel Rambouillet, s’étendait déjà aux riches familles bourgeoises, et, à l’exemple des <hi rend="i">Arthenice</hi> et des <hi rend="i">Thelamire</hi>, transformait en <hi rend="i">Polixène</hi>et en <hi rend="i">Aminthe</hi>Mlles Cathos et Madelon ; cette fille et cette nièce prétentieuses du tout rond Gorgibus ?</p>
+      <p>Plus tard, presqu’à la fin de sa vie, et comme s’il avait voulu couronner son œuvre par un dernier et plus vif enseignement, nous le voyons dans <hi rend="i">les Femmes savantes</hi>faire de nouveau justice de cette affectation, de ces prétentions qui déparent les plus belles et les plus méritantes et semblent effacer leurs avantages les plus réels.</p>
+      <p>Chose remarquable, en effet, à part cette vieille folle de Bélise, qui n’est guère là que pour servir de plastron aux boutades que son frère le bonhomme Chrysale voudrait bien, mais n’ose adresser directement à sa femme, ce ne sont pas des personnes dépourvues de tout mérite que M<hi rend="sup">me</hi> Philaminte et sa fille Armande. La première est, en fin [p.5]compte, une femme de tête, de cœur et de ressources. Quand, au dernier acte, elle apprend le malheur supposé qui la ruine aussi bien que son mari, sa philosophie, toute pédantesque qu’elle soit, ne se dément pas devant le malheur.</p>
+      <p>   <hi rend="b">Vous    vous    troublez    beaucoup</hi>, dit elle à son mari ;</p>
+      <p rend="b">Mon cœur n’est point du tout étourdi de ce coup. </p>
+      <p><hi rend="b">Faites, faites paraître une âme moins commune</hi>,
+</p>
+      <p rend="b">A braver comme moi les coups de la fortune. </p>
+      <p>   ’</p>
+      <p><hi rend="b">Il n’est pour le vrai sage aucun revers funeste</hi> ;
+</p>
+      <p rend="b">En perdant toute chose, à soi-même il se reste. </p>
+      <p>On sent là, comme aux courtes et dignes paroles qu’elle adresse à Trissotin sur sa brusque retraite, une nature énergique et noble au fond, à qui il ne manquait peut-être que d’être contenue et dirigée par un mari ayant lui-même plus de caractère.</p>
+      <p>Quand on entend le bonhomme Chrysale dire à Ariste :</p>
+      <p rend="b">Mon Dieu ! vous en parlez, mon frère, bien à l’aise </p>
+      <p><hi rend="b">Et vous ne savez pas comme le bruit me pèse</hi> ;
+</p>
+      <p rend="b">J’aime fort le repos, la paix et la douceur </p>
+      <p rend="b">Et ma femme est terrible avecque son humeur. </p>
+      <p><hi rend="b">Pour peu que l’on s’oppose à ce que veut sa tête</hi>,
+</p>
+      <p><hi rend="b">On en a pour huit jours d’effroyable tempête</hi> ;
+</p>
+      <p><hi rend="b">Elle me fait trembler dès qu’elle prend son ton</hi>,
+</p>
+      <p rend="b">Je ne sais où me mettre, et c’est un vrai dragon. </p>
+      <p><hi rend="b">Et cependant avec toute sa diablerie</hi>,
+</p>
+      <p rend="b">Il faut que je l’appelle et mon cœur et ma mie. </p>
+      <p>On se demande, avec Ariste, si ce n’est pas la faiblesse du mari qui a développé l’humeur dominatrice de la femme, et si, placée dans un milieu plus résistant, elle n’eut pas été une mère de famille dévouée et portant dans l’accomplissement de ses devoirs une salutaire fermeté. [p.6]</p>
+      <p>Quant à la belle et superbe Armande, c’est sur elle surtout me paraît porter le principal enseignement qui ressort de cette adorable comédie. Armande, on le voit, avait dû être merveilleusement douée ; les avantages qu’elle avait reçus de la nature primait même assez ceux de sa soeur. Henriette, pour que ce fut à elle, Armande, que se fussent adressés tout d’abord les hommages de Clitandre, homme de cœur et de mérite ; mais ses manières hautaines son dédain affecté des sentiments les plus doux et les plus naturels : ses prétentions à une philosophie creuse, toute de montre et de pédantisme, et ses indécentes déclamations contre le mariage, et <hi rend="i">ses nœuds de chair, ses chaînes corporelles</hi>avaient fini par éteindre dans le cœur de son amant la passion que sa beauté y avait fait naître et c’est, blessé de ses mépris, qu’il avait reporté toutes ses affections vers la moins belle, mais plus aimable Henriette. On comprend dès lors ce langage de Clitandre :</p>
+      <p><hi rend="b">[...] Les femmes docteurs ne sont pas de mon goût</hi>,
+</p>
+      <p><hi rend="b">Je consens qu’une femme ait des clarté de tout</hi> ;
+</p>
+      <p rend="b">Mais je ne lui veux point la passion choquante </p>
+      <p><hi rend="b">De se rendre savante afin d’être savante</hi> ;
+</p>
+      <p rend="b">Et j’aime que souvent aux questions qu’on fait </p>
+      <p><hi rend="b">Elle sache ignorer les choses qu’elle sait</hi> :
+</p>
+      <p><hi rend="b">De son étude enfin je veux qu’elle se cache</hi>,
+</p>
+      <p><hi rend="b">Et qu’elle ait du savoir sans vouloir qu’on le sache</hi>,
+</p>
+      <p><hi rend="b">Sans citer les auteurs, sans dire de grands mots</hi>,
+</p>
+      <p rend="b">Et clouer de l’esprit à ses moindres propos. </p>
+      <p>Ces paroles de Clitandre, qui s’appliquent si bien à la modeste et gracieuse Henriette, expliquent la vraie pensée de Molière sur ce que doit être la femme ; et servent de correctif à ce qu’a d’exagéré dans l’expression la fameuse tirade, si juste au fond, du bonhomme Chrysale dans la septième scène du deuxième acte.</p>
+      <p><hi rend="b">Vous devriez</hi>, dit-il à sa sœur en. s’adressant en réalité à tout le trio pédantesque, [p.7]</p>
+      <p><hi rend="b">Ne point aller chercher ce qu’on fait dans la lune</hi>,
+</p>
+      <p><hi rend="b">Et vous mêler un peu de ce qu’on fait chez vous</hi>,
+</p>
+      <p rend="b">Où nous voyons aller tout sens dessus dessous. </p>
+      <p><hi rend="b">Il n’est pas bien honnête, et pour beaucoup de causes</hi>,
+</p>
+      <p rend="b">Qu’une femme étudie et sache tant de choses. </p>
+      <p><hi rend="b">Former aux bonnes mœurs l’esprit de ses enfants</hi>,
+</p>
+      <p><hi rend="b">Paire aller son ménage, avoir l’œil sur ses gens</hi>,
+</p>
+      <p><hi rend="b">Et régler la dépense avec économie</hi>,
+</p>
+      <p rend="b">Doit être son étude et sa philosophie. </p>
+      <p>Ces modestes vertus, la gracieuse Henriette tient à honneur de les pratiquer. Et cependant, qu’on le remarque bien, si elle ne se pique pas de bel esprit comme sa sœur, elle n’en sait pas moins se montrer très spirituelle et très piquante même à l’occasion. On sent que sa douceur est voulue, que c’est volontairement qu’elle s’efface, sauf à se montrer dans toute sa valeur et toute sa force, quand il le faut. Y a-t-il rien de plus sensé, de plus fin et de plus mordant que ses réparties aux impertinences de son aînée.</p>
+      <p>Ce qui montre toute la hauteur et toute la justesse des vues de Molière dans l’opposition qu’il s’est plu à faire de ces deux caractères de femme, c’est l’impression que laissent les scènes si scabreuses du premier et du quatrième acte, où la pédante Armande affecte ces délicatesses quintescenciées à l’endroit du mariage. En effet, c’est du côté de la prude aux hypocrites alarmes, que se trouve l’impudeur, tandis que la plus noble décence se montre dans le langage de la jeune fille qui sait être vraie, simple, et digne dans l’aveu de son penchant pour une honnête union.</p>
+      <p><hi rend="b">Ah fi...</hi> dit Armande à sa sœur à ce seul mot de mariage,</p>
+      <p><hi rend="b">Ne concevez-vous point, ce que dès qu’on l’entend</hi>,
+</p>
+      <p><hi rend="b">Un tel mot à l’esprit offre de dégoûtant</hi>,
+</p>
+      <p rend="b">De quelle étrange image on est par lui blessée. </p>
+      <p><hi rend="b">Sur quelle sale vue il traîne la pensée</hi> ?
+</p>
+      <p><hi rend="b">N’en frissonnez-vous point et pouvez-vous, ma sœur</hi>,
+</p>
+      <p rend="b">Aux suites de ce mot résoudre votre cœur. [p.8] </p>
+      <p><hi rend="b">Les suites de ce mot, quand je les envisage</hi>, répond Henriette,</p>
+      <p><hi rend="b">Me font voir un mari, des enfants, un ménage</hi>,
+</p>
+      <p><hi rend="b">Et je ne vois rien là, si j’en puis raisonner</hi>,
+</p>
+      <p rend="b">Qui blesse la pensée et fasse frissonner. </p>
+      <p>Quel tour de force dans l’art de tout dire et de le bien dire, cette scène du premier acte, et la seconde scène du quatrième poussée à bout, la prude Armande consent enfin à se donner à Clitandre, qui la refuse.</p>
+      <p><hi rend="b">Vous ne pouvez aimer que d’une amour grossière</hi>, dit-elle à Clitandre,</p>
+      <p><hi rend="b">Qu’avec tout l’attirail des nœuds de la matière</hi> ;
+</p>
+      <p><hi rend="b">Et pour nourrir les feux que chez vous on produit</hi>,
+</p>
+      <p rend="b">Il faut un mariage et tout ce qui s’en suit. </p>
+      <p><hi rend="b">On aime pour aimer et non pour autre chose</hi> ;
+</p>
+      <p><hi rend="b">Ce n’est qu’à l’esprit seul que vont tous les transports</hi>,
+</p>
+      <p rend="b">Et l’on ne s’aperçoit jamais qu’on ait un corps. </p>
+      <p>A tout cet indécent Phœbus, Clitandre réplique :</p>
+      <p><hi rend="b">Pour moi, par un malheur, je m’aperçois, madame</hi>,
+</p>
+      <p rend="b">Que j’ai, ne vous déplaise, un corps tout comme une âme. </p>
+      <p><hi rend="b">Je sens qu’il y tient trop pour le laisser à part</hi> ;
+</p>
+      <p rend="b">De ces détachements je ne connais point l’art. </p>
+      <p rend="b">J’aime avec tout moi-même et l’amour qu’on me donne </p>
+      <p rend="b">En veut, je le confesse, à toute la personne. </p>
+      <p>C’est alors que la prude Armande fait cette réponse réellement impudique dans sa pudeur affectée.</p>
+      <p><hi rend="b">Eh bien, Monsieur ! eh bien, puisque, sans m’écouter</hi>,
+</p>
+      <p><hi rend="b">Vos sentiments brutaux veulent se contenter</hi>,
+</p>
+      <p><hi rend="b">Puisque, pour vous réduire à des ardeurs fidèles</hi>,
+</p>
+      <p><hi rend="b">Il faut des nœuds de chair, des chaînes corporelles</hi>,
+</p>
+      <p rend="b">Si ma mère le veut, je résous mon esprit </p>
+      <p rend="b">A consentir pour vous à ce dont il s’agit. </p>
+      <p>A quoi Clitandre répond avec une dureté trop méritée :</p>
+      <p rend="b">Il est trop tard, Madame, etc. [p.9] </p>
+      <p>J’ai quelquefois entendu des personnes blâmer cette scène et celle du quatrième acte entre les deux sœurs ; elles les trouvaient trop crues pour le théâtre et presque offensantes pour la pudeur publique.</p>
+      <p>Je ne partage pas cet excès de délicatesse, et je crois que souvent il serait vrai de dire de cette pruderie affectée, ce que Célimène dit d’Arsinoé.</p>
+      <p><hi rend="b">Elle fait des tableaux couvrir les nudités</hi>,
+</p>
+      <p rend="b">Mais elle a de l’amour pour les réalités. </p>
+      <p>Ce qui prouve bien que, dans cette heureuse opposition des deux sœurs, la pensée de Molière a été uniquement de montrer toute la supériorité morale et intellectuelle de celle qui a su se conserver simple, vraie et modeste dans ce milieu tout d’affectation et de pédantisme, et non pas de glorifier l’ignorance et de la présenter comme la condition normale et désirable des filles ; c’est qu’au contraire, dans le rôle si charmant d’Agnès de son <hi rend="i">Ecole des Femmes</hi>, il s’est appliqué à faire ressortir les dangers que peut faire courir à l’innocence la plus pure un manque absolu de lumières.</p>
+      <p>Arnolphe dit bien, il est vrai, à Chrysale son ami :</p>
+      <p><hi rend="b">Epouser une sotte est, pour n’être pas sot</hi>,
+</p>
+      <p rend="b">Je crois, en bon chrétien, votre moitié fort sage </p>
+      <p rend="b">Mais une femme habile est un mauvais présage. </p>
+      <p>Et plus loin, en parlant de celle qu’il a voulu se préparer :</p>
+      <p><hi rend="b">Et c’est assez pour elle, à vous en bien parler</hi>,
+</p>
+      <p rend="b">De savoir prier Dieu, m’aimer, coudre et filer. </p>
+      <p>Son ami Chrysale lui réplique fort judicieusement :</p>
+      <p rend="b">Mais comment voulez-vous, après tout, qu’une bête </p>
+      <p><hi rend="b">Puisse jamais savoir ce que c’est qu’être honnête</hi> ?
+</p>
+      <p><hi rend="b">Outre qu’il est assez ennuyeux que je croi</hi>,
+</p>
+      <p rend="b">D’avoir toute sa vie une bête avec soi. </p>
+      <p>Cette complète ignorance dans laquelle Arnolphe a pris à tâche de retenir sa pupille, cet excès de simplicité et d’innocence sur lequel [p.10] il a tant compté, a précisément des résultats tout contraires à ceux qu’il en attendait ; et peu s’en est fallu qu’ainsi qu’elle le lui raconte naïvement, elle ne <hi rend="i">poussât</hi>jusqu’au bout la guérison du cœur d’Horace, que, sans le savoir, elle avait blessé, et à qui sa douce présence pouvait seule rendre la vie comme le lui avait dit la messagère du blessé.</p>
+      <p><hi rend="b">Vous-même, à votre avis, n’ai-je pas eu raison</hi> ?
+</p>
+      <p rend="b">Et pouvais-je, après tout, avoir la conscience </p>
+      <p><hi rend="b">De le laisser mourir faute d’une assistance</hi>,
+</p>
+      <p><hi rend="b">Moi qui compâtis tant aux gens qu’on fait souffrir</hi>,
+</p>
+      <p><hi rend="b">Et ne puis, sans pleurer, voir un poulet mourir</hi> ?
+</p>
+      <p>A quelles tortures ne livre-t-elle pas le pauvre homme quand elle lui raconte ce ruban qu’Horace lui a pris, et qu’à sa demande, s’il n’a point exigé d’elle d’autre remède, elle répond :</p>
+      <p><hi rend="b">Non, vous pouvez juger, s’il en eût demandé</hi>,
+</p>
+      <p rend="b">Que pour le secourir, j’aurais tout accordé. </p>
+      <p>Le rôle d’Agnès est une des plus charmantes créations de Molière. La pièce tout entière est le plus fort et le plus ingénieux plaidoyer qui se puisse faire contre l’ignorance et contre la sotte prétention de vouloir, par la contrainte, triompher de doux instincts de la nature, qui réagissent d’autant plus violemment qu’on les comprime davantage, et dont une indulgente prudence peut seule modérer et diriger l’épanouissement. Agnès se plaint à Arnolphe lui-même de l’état d’ignorance où il l’a retenue ; et quand il lui demande :</p>
+      <p><hi rend="b">N’est-ce rien que les soins d’élever votre enfance</hi> ?
+</p>
+      <p>Elle lui répond avec un grand sens :</p>
+      <p><hi rend="b">Vous avez là-dedans bien opéré, vraiment</hi>,
+</p>
+      <p><hi rend="b">Et m’avez fait en tout instruire joliment</hi> !
+</p>
+      <p><hi rend="b">Croit-on que je me flatte, et qu’enfin dans ma téte</hi>,
+</p>
+      <p><hi rend="b">Je ne juge pas bien que je sois une bête</hi> ?
+</p>
+      <p rend="b">Moi-même j’en ai honte, et dans l’âge où je suis. </p>
+      <p rend="b">Je ne veux plus passer pour sotte si je puis. [p.11] </p>
+      <p>Cette douce figure d’Agnès a plus d’une sœur dans l’œuvre de Molière. Mariane dans le <hi rend="i">Tartufe</hi>, Lucile dans le <hi rend="i">Bourgeois gentilhomme</hi>,Angélique dans le <hi rend="i">Malade imaginaire</hi>sont autant de caractères charmants de jeunes filles, au milieu desquels il semble que notre grand poète se soit plu à vivre en esprit, comme s’il s’en fut fait une sorte de famille.</p>
+      <p>Comme il prend plaisir à pénétrer et à révéler les doux secrets de ces jeunes cœurs s’entr’ouvrant aux plus tendres sentiments ! Comme Mariane et Angélique sont vraies, respectueuses et touchantes dans leurs supplications pour n’être pas sacrifiées aux objets de leur juste aversion ! Quelle charmante coquetterie dans les querelles sans cause de Mariane et de Lucile avec leurs amants, suivies de raccommodements sans fin.</p>
+      <p>A ce propos de <hi rend="i">raccommodements</hi>, me sera-t-il permis de glisser ici un petit avis aux âmes trop susceptibles, afin qu’elles ne comptent pas outre mesure sur ces douces réparations. Je crois qu’il est bon de n’en pas abuser, de ne pas y revenir trop souvent. Si heureuses et si délicates que puissent être les <hi rend="i">reprises</hi>pratiquées dans une belle étoffe, ce n’en sont pas moins des reprises qui en diminuent la valeur et la solidité. Or, l’étoffe dont est faite la vie de deux époux est assez délicate et assez précieuse pour mériter d’être ménagée. Le plus sûr et le meilleur, pour deux cœurs qui s’aiment tendrement, c’est de tempérer tout d’abord d’un peu, de beaucoup même, de raison et d’indulgence mutuelle, l’expansion de leurs sentiments les plus vifs, afin que par une sorte de réciproque d’une belle parole de l’Evangile, <hi rend="i">ils soient beaucoup aimés parce qu’ils auront beaucoup pardonné.</hi></p>
+      <p>Indépendamment de ces jeunes figures de femme qui semblent avoir été pour Molière la réalisation de ses rêves les plus chers, il nous en a tracé d’autres ayant un caractère plus marqué, qu’il semble avoir eu encore grand plaisir à peindre.</p>
+      <p>C’est d’abord cette jeune veuve, la belle Célimène,</p>
+      <p rend="b">De qui… l’humeur coquette et l’esprit médisant </p>
+      <p><hi rend="b">Semblent si fort donner dans les mœurs d’à-présent.</hi> dit Philinte à Alceste, [p.12] et dont Alceste dit <hi rend="b">à</hi> son tour :</p>
+      <p><hi rend="b">J’ai beau voir ses défauts et j’ai beau l’en blâmer</hi>,
+</p>
+      <p rend="b">En dépit qu’on en ait elle se fait aimer. </p>
+      <p rend="b">Sa grâce est la plus forte... </p>
+      <p>On n’est pas plus spirituelle que cette charmante impertinente. Avec quelle finesse elle se raille de tous ses adorateurs et d’Alceste lui-même qu’elle semble cependant préférer !</p>
+      <p><hi rend="b">Et ne faut-il pas bien que monsieur contredise</hi> ?
+</p>
+      <p><hi rend="b">A la commune voix veut-on qu’il se réduise</hi> ?
+</p>
+      <p rend="b">Et qu’il ne fasse pas éclater en tous lieux </p>
+      <p><hi rend="b">L’esprit contrariant qu’il a reçu des cieux</hi> ?
+</p>
+      <p>Et dans cet échange de charitables avis entre Arsinoé et elle, comme elle inflige à la méchanceté pateline de celle-ci une ingénieuse et impitoyable punition. Malheureusement le cœur lui fait défaut ; l’égoïsme de la coquetterie et les adulations du monde l’ont <hi rend="i">marmorisée.</hi>Un instant, on peut croire à un mouvement sincère de repentir et de tendresse, quand, à la fin du cinquième acte, elle dit à Alceste, qui seul ne l’accable pas de reproche :</p>
+      <p><hi rend="b">Je sais combien je dois vous paraître coupable</hi>,
+</p>
+      <p><hi rend="b">Que toute chose dit que j’ai pu vous trahir</hi>,
+</p>
+      <p rend="b">Et qu’enfin vous avez sujet de me haïr. </p>
+      <p rend="b">Faites-le, j’y consens... </p>
+      <p><hi rend="b">Hé, le puis-je, traîtresse</hi> ? s’écrie ce pauvre Alceste.</p>
+      <p>   <hi rend="sup">#</hi></p>
+      <p>Mais comme, pour qu’il lui pardonnât, il faudrait qu’elle quittât ce monde dont les vanités l’enivrent, Célimène recule et tout est fini entre le noble cœur et elle dont elle-même se sent indigne.</p>
+      <p>M. Noël pense que, dans ce rôle de Célimène, Molière a voulu tracer le portrait de cette jeune Armande Béjart qui, pour récompense de ses bienfaits, trahit la foi qu’il avait mise en elle et fit le malheur de sa vie. Je le croirais volontiers à la manière généreuse avec laquelle il la traite, la parant de toutes les grâces et ménageant [p.13] si délicatement le côté odieux de son caractère, comme aussi à ces paroles si touchantes qu’il lui adresse par la bouche d’Alceste :</p>
+      <p><hi rend="b">Défendez-vous au moins d’un crime qui m’accable</hi>,
+</p>
+      <p rend="b">Et cessez d’affecter d’être envers moi coupable. </p>
+      <p>A côté de la piquante Célimène, Molière a placé la sincère Eliante, qu’il nous dépeint comme une jeune femme remplie d’agréments, mais douce d’humeur, droite de cœur et de jugement, modeste, indulgente et sage, possédant enfin ces qualités essentielles au bonheur, sur lesquelles prévalent trop souvent des dons plus brillants et moins solides.</p>
+      <p>Tel est cependant l’ascendant de la bonté unie à la grâce que ce rôle d’Eliante, tout effacé qu’il semble, produit à la scène la plus heureuse impression, quand il est rempli par une actrice faite pour le comprendre et le représenter dignement. Je l’ai vu jouer il y a déjà bien longtemps par l’aimable Ml<hi rend="sup">le</hi> Dupuis, à côté de Ml<hi rend="sup">le</hi> Mars qui jouait Célimène ; eh bien, le souvenir que m’a laissé la première est resté aussi vif et plus charmant peut-être que celui de la grande actrice elle-même.</p>
+      <p>Après la brillante Célimène vient, un peu plus tard, dans le <hi rend="i">Tartufe</hi>,le personnage d’Elmire, qui nous montre une fois de plus toute l’adresse de Molière à traiter les situations les plus difficiles.</p>
+      <p>Pour que Tartufe, si aveuglé qu’il fut par la passion et par son outrecuidance, pût concevoir la possibilité d’abuser d’Elmire, il fallait qu’elle eût une certaine dose de coquetterie ; d’un autre côté, pour que le spectateur ne pût un seul instant admettre cette possibilité, il fallait que sa vertu apparût si ferme qu’elle fut une garantie de l’insuccès et de la punition de l’imposteur. Sous ce rapport, le rôle d’Elmire est un chef-d’œuvre de composition.</p>
+      <p>On voit tout d’abord qu’Elmire est ce qu’on appelle une femme du monde, vouée aux occupations stériles qu’il inspire. Elle reçoit des visites et elle en fait, elle aime l’ajustement, les hommages ; elle ne saurait avoir une grande affection pour ce mari de toutes les facultés duquel Tartufe s’est emparé et qui est comme abêti par le bigotisme[p.14] absurde où il l’a amené ; mais heureusement c’est une femme d’esprit et de sens, qui a trop le sentiment de sa dignité personnelle pour ne pas rester fidèle à ses devoirs d’épouse, ne fut-ce que par respect pour elle-même. Belle, mais naturellement froide et maîtresse d’elle-même, elle se livre fort peu ; elle a eu assez de tact et de raison pour se maintenir en très bons termes avec les membres divers de cette famille, où sa position de belle-mère était si délicate vis-à-vis d’un fils et d’une fille déjà nubiles. Elle a même su s’attirer leur respect et leur confiance. On pourrait souhaiter en elle des qualités plus sympathiques ; mais c’est, dans toute la Vérité de l’expression, ce qu’on peut appeler une honnête femme.</p>
+      <p>Madame Pernelle a beau lui dire :</p>
+      <p><hi rend="b">Quiconque à son mari veut plaire seulement</hi>,
+</p>
+      <p rend="b">Ma bru, n’a pas besoin de tant d’ajustement. </p>
+      <p>On sent que, si ce n’est pas pour son mari qu’elle se pare, c’est surtout pour elle-même, et que les hommages qu’elle pourra s’attirer ainsi la flatteront sans doute, mais ne l’ébranleront jamais. On conçoit donc son impassibilité devant la déclaration de Tartufe et sa réponse à Damis :</p>
+      <p><hi rend="b">Ce n’est pas mon humeur de faire des éclats</hi> ;
+</p>
+      <p><hi rend="b">Une femme se rit de sottises pareilles</hi>,
+</p>
+      <p rend="b">Et jamais d’un mari n’en trouble les oreilles. </p>
+      <p>Et plus tard encore, lorsque son mari, refusant de croire à l’indignité de Tartufe, lui dit :</p>
+      <p><hi rend="b">Vous étiez trop tranquille, enfin, pour être crue</hi>,
+</p>
+      <p rend="b">Et vous auriez paru d’autre manière émue. </p>
+      <p>On conçoit qu’elle réplique :</p>
+      <p><hi rend="b">Est-ce qu’au simple aveu d’un amoureux transport</hi>,
+</p>
+      <p><hi rend="b">Il faut que notre honneur se gendarme si fort</hi> ?
+</p>
+      <p rend="b">Et ne peut-on répondre à tout ce qui le touche </p>
+      <p rend="b">Que le feu dans les yeux et l’injure à la bouche. </p>
+      <p rend="b">Pour moi, de tels propos je me ris simplement </p>
+      <p><hi rend="b">Et l’éclat là-dessus ne me plaît nullement</hi>,
+</p>
+      <p rend="b">J’aime qu’avec douceur, nous nous montrions sages. [p.15] </p>
+      <p>Elmire enfin, la belle et froide Elmire était tout à fait la femme qu’il fallait pour rendre possible cette admirable scène V du quatrième acte, où Orgon est sous la table, et pour sauver tout ce qu’elle a de périlleux ; c’est, en un mot, une de ces femmes qu’on estime, qu’on admire même ; mais qui n’excitent pas de bien vives sympathies.</p>
+      <p>Une femme qui, dans Molière, se trouve dans une position bien délicate, affreuse mémo, puisqu’elle est adultère sans le savoir, c’est cette belle et noble Alcmène d’<hi rend="i">Amphytrion.</hi></p>
+      <p>Quel tendre abandon, et, en même temps, quelle dignité chaste dans les témoignages d’amour qu’elle prodigue à Jupiter, croyant les donner à son époux ! Quelle noble indignation aux plaintes de celui-ci, plaintes qui doivent la révolter, d’autant plus qu’elles lui semblent si imméritées, alors même qu’elles sont, au contraire, si désespérément justes ! Quelles pudiques colères, quelle enivrante résistance, et enfin, quelle charmante défaite dans cette belle scène du raccommodement.</p>
+      <p>Chose singulière,, c’est au moment même des infidélités les plus poignantes de cette pauvre Alcmène qu’on l’honore et qu’on l’adore le plus comme un modèle de décence et de fidélité, comme l’épouse la plus pure, la plus gracieuse, la plus tendre, la plus désirable enfin que l’on puisse rêver.</p>
+      <p>Et combien cette étrange situation est rendue plus piquante encore par le contraste, des scènes si comiques entre Cléanthis et Mercure sous la forme de Sosie, puis Sosie lui-même, cette prude et grondeuse Cléanthis à qui Mercure dit :</p>
+      <p><hi rend="b">La douceur d’une femme est tout ce qui me charme</hi>,
+</p>
+      <p rend="b">Et ta vertu fait un vacarme </p>
+      <p rend="b">Qui ne cesse de m’assommer. </p>
+      <p>Molière connaissait trop bien le monde pour n’avoir pas observé quel rôle important jouent dans les familles ces braves filles que nous appelons aujourd’hui <hi rend="i">bonnes</hi>, à cause sans doute qu’elles ne le sont plus, et qui, placées par leur condition dans une situation très [p.16] subordonnée, n’en exercent pas moins une très grande influence sur ceux-là mêmes qui s’appellent leurs maîtres, et que, le plus souvent, elles conduisent à leur gré ; cela était vrai surtout du temps de Molière.</p>
+      <p>Le poète philosophe connaissait trop bien le cœur humain pour ne pas savoir que le bon sens, l’esprit même, sont de toutes les conditions ; et que souvent c’est dans celles où, sous prétexte d’éducation, le pédantisme et l’affectation n’ont pu gâter le naturel, que se trouve la plus saine appréciation des choses et la manière la plus nette et la plus piquante de les exprimer.</p>
+      <p>Aussi, que de bon sens dans le parler grossier, mais si juste de la brave et franche Martine, dont le bonhomme Chrysale fait tant de cas, et que, pour obéir à sa femme, il chasse malgré lui en lui disant : <hi rend="i">Va-t-en, ma pauvre enfant.</hi>Que de raison également et d’à-propos dans le langage déjà plus relevé de Nicole, la confidente des chagrins de la bonne et sage M<hi rend="sup">lle</hi> Jourdain, pour qui elle est plutôt une humble amie qu’une servante ! Comme elle rit de bon cœur au nez de son maître, à qui elle est attachée pourtant, mais dont le grotesque accoutrement et la manie gentilhommière lui font perdre le respect.</p>
+      <p>Et cette Toinette, du <hi rend="i">Malade imaginaire</hi>, quelle heureuse et fine nature ! Que de malice et de cœur tout à la fois ! Comme elle aime et protège adroitement sa jeune maîtresse ! Comme elle paie de sa monnaie la rusée et méchante Béline ! Avec quelle plaisante persistance elle soutient à Argan qu’<hi rend="i">il est bon, très bon</hi> ;quand lui prétend <hi rend="i">être méchant s’il le veut</hi> !Quelle est amusante sous la robe de ce soi-disant médecin, que son art a maintenu si jeune, lorsqu’elle conseille à Argan de se faire couper un bras pour que l’autre profite mieux, et qu’elle rapporte tous ses prétendus maux au poumon ! Avec quelle adresse elle démasque cette intrigante belle-mère qui ne voulait rien moins qu’enterrer le mari, dont elle flattait les manies, et dépouiller ses enfants ! Sous la forme d’un lutin, cette alerte et rieuse fille n’est-elle pas, en réalité, l’ange gardien de toute la maisonnée ? [p.17]</p>
+      <p>Et l’agaçante Dorine, cette <hi rend="i">fille suivante</hi>, que M<hi rend="sup">me</hi> Pernelle trouve</p>
+      <p><hi rend="b">Un peu trop forte en gueule et fort impertinente</hi>, et se mêlant surtout de dire son avis ; mais qui, malgré tout, est une fille d’esprit, de cœur et de sens, appréciée et écoutée de ses maîtres ; assez bien de sa personne, d’ailleurs, pour que ses appas émeuvent Tartufe, et lui attirent de sa part cette admonestation, plus indécente mille fois que la prétendue indécence dont il affecte de se scandaliser :</p>
+      <p><hi rend="b">[...] Couvrez ce sein que je ne saurais voir</hi> !
+</p>
+      <p rend="b">Par de pareils objets les âmes sont blessées. </p>
+      <p>Avec quelle verdeur de mépris elle remet le drôle à sa place par cette réplique un peu bien crue, mais si bien appliquée :</p>
+      <p rend="b">Vous êtes donc bien tendre à la tentation </p>
+      <p rend="b">Certes, je ne sais pas quelle chaleur vous monte </p>
+      <p rend="b">Mais, à convoiter, moi, je ne suis pas si prompte </p>
+      <p><hi rend="b">Et je vous verrais nud du haut jusques en bas</hi>,
+</p>
+      <p rend="b">Que toute votre peau ne me tenterait pas. </p>
+      <p>Comme elle a su tout d’abord percer le masque du traître :</p>
+      <p><hi rend="b">Veut-on que là-dessus je m’explique entre nous</hi> ?
+</p>
+      <p rend="b">Je crois que de madame il est ma foi jaloux. </p>
+      <p>En quels excellents termes, aussi vrais qu’animés, elle fait justice de l’hypocrisie de tous ces <hi rend="i">critiques zélés</hi>et de ces <hi rend="i">prudes à leur corps défendant</hi>,</p>
+      <p><hi rend="b">Qui ne sauraient souffrir qu’une autre ait les plaisirs</hi>,
+</p>
+      <p rend="b">Dont le penchant de l’âge a sevré leurs désirs. </p>
+      <p>Avec quelle fine ironie elle répond aux questions d’Orgon, qui, à son retour de la campagne, et au compte qu’elle lui rend de la santé de sa femme, ne trouve rien de mieux que de lui demander à tout moment : <hi rend="i">et Tartufe</hi> ? [p.18]</p>
+      <p>Quoi de plus piquant que son débat avec son maître :</p>
+      <p><hi rend="b">Si l’on ne vous aimait</hi> ?
+</p>
+      <p><hi rend="b">Je ne veux pas qu’on m’aime</hi>,
+</p>
+      <p rend="b">Et je veux vous aimer, monsieur, malgré vous-même. </p>
+      <p>Quel langage plein de force et de raison elle sait lui tenir pour le détourner d’un mariage aussi odieux que ridicule :</p>
+      <p><hi rend="b">Sachez que d’une fille on risque la vertu</hi>,
+</p>
+      <p><hi rend="b">Lorsque dans son hymen son goût est combattu</hi> ;
+</p>
+      <p rend="b">Et qui donne à sa fille un mari qu’elle hait </p>
+      <p rend="b">Est responsable au ciel des fautes qu’elle fait. </p>
+      <p>Et quand à Orgon qui s’écrie :</p>
+      <p><hi rend="b">Je vous dis qu’il me faut apprendre d’elle à vivre</hi> ! elle répond :</p>
+      <p><hi rend="b">Vous n’en feriez que mieux de suivre mes leçons</hi>, ce n’est pas seulement les rieurs, mais les sages qu’elle a de son côté.</p>
+      <p>Comme elle prend à cœur les intérêts de la famille, et particulièrement de sa jeune maîtresse qui ne sait que se désoler et parle de se donner la mort si on la violente :</p>
+      <p><hi rend="b">Fort bien, c’est un recours où je ne songeais pas</hi> :
+</p>
+      <p><hi rend="b">Vous n’avez qu’à mourir pour sortir d’embarras</hi>, répond-elle.</p>
+      <p>Et sur le reproche de Mariane qu’elle ne compâtit pas à sa peine :</p>
+      <p rend="b">Je ne compâtis pas à qui dit des sornettes </p>
+      <p rend="b">Et dans l’occasion mollit comme vous faites. </p>
+      <p>Comme elle sait lui communiquer un peu de son énergie en la plaisantant sur ce projet de mariage qu’elle n’a pas la force de repousser nettement :</p>
+      <p rend="b">Monsieur Tartufe, oh ! oh ! n’est-ce rien qu’on propose. </p>
+      <p><hi rend="b">Certes, monsieur tartufe, à bien prendre la chose</hi>,
+</p>
+      <p rend="b">N’est pas un homme, non, qui se mouche du pied... </p>
+      <p><hi rend="b">[...] non ; vous serez, ma foi, tartufiée.</hi> [p.19]</p>
+      <p>Avec quel mélange de malice et de raison affectueuse elle intervient dans la brouille des deux amants :</p>
+      <p rend="b">A vous dire le vrai les amants sont bien fous. </p>
+      <p rend="b">Vous vous aimez tous deux plus que vous ne pensez. </p>
+      <p>Mot charmant que devrait se rappeler plus d’un couple s’engageant peu à peu sur une pente fatale, où il suffirait souvent d’une bonne parole pour tout réparer.</p>
+      <p>On a adressé au personnage de Dorine cette critique que tout en elle, ses manières, son langage, sa parure même, sont beaucoup trop au-dessus de sa position. Mais, suivant la judicieuse observation de M. Noël, Dorine n’était pas, à proprement parler, une servante ; c’était une <hi rend="i">fille-suivante</hi>, ce qui équivalait à peu près alors à ce que nous appelons aujourd’hui une demoiselle de compagnie, et supposait une éducation en rapport avec les façons d’être du milieu où ces personnes étaient placées.</p>
+      <p>A qui s’étonnerait, en général, de trouver chez les servantes de Molière tant d’esprit et de bon sens, notre spirituel compatriote a déjà répondu d’avance en rappelant l’exemple de cette brave Laforêt qui réunissait au meilleur des cœurs un esprit si judicieux que Molière lui soumettait ses ouvrages, de cette excellente fille qui fut pour lui une sorte d’humble Providence dont la sainte affection et le dévouement infatigable savaient le soulager dans ses souffrances physiques et le consoler dans ses douleurs morales.</p>
+      <p>Ne vous semble-t-il pas, Messieurs, vous demanderai-je en terminant cet essai si imparfait, que j’étais du moins dans le vrai en disant tout d’abord que les divers portraits de femmes que nous a tracés ce grand peintre, qui se nomme Molière, prouvent que nul n’a mieux connu ni plus aimé <hi rend="i">ce sexe</hi>, qui, suivant l’expression de Lafontaine, <hi rend="i">fait notre joie</hi> ;ce sexe mobile qu’il faut encore aimer alors même qu’il nous désespère, et cela au dire de toutes ses victimes, aussi bien des plus nobles, comme le généreux Alceste, que des plus indignes, comme cet égoïste bourru d’Arnolphe, dont les [p.20]plaintes impertinentes se terminent cependant par un trait qui restera éternellement vrai, sous sa forme d’un brutal comique :</p>
+      <p><hi rend="b">Tout le monde connaît leur imperfection</hi>, s’écrie-t-il,</p>
+      <p><hi rend="b">Ce n’est qu’extravagance et qu’indiscrétion</hi>,
+</p>
+      <p rend="b">Leur esprit est méchant et leur âme est fragile. </p>
+      <p><hi rend="b">Il n’est rien de plus faible et de plus imbécile</hi>,
+</p>
+      <p><hi rend="b">Rien de plus infidèle ; et malgré tout cela</hi>,
+</p>
+      <p><hi rend="i">Dans le monde on fait tout pour ces animaux-là</hi> !
+</p>
+    </body>
+  </text>
+</TEI>
