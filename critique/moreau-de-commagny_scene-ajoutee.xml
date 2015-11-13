@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../teibook/teibook.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Scène ajoutée au Boulevard Bonne-Nouvelle, pour l’anniversaire de la naissance de Molière</title>
+        <author key="Moreau de Commagny, Charles-François-Jean-Baptiste (1783-1832)">Charles-François-Jean-Baptiste Moreau de Commagny</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL</edition>
+        <respStmt>
+          <name>Éric Thiébaud </name>
+          <resp>OCR, Stylage sémantique </resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/moliere/critique/moreau-de-commagny_scene-ajoutee/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><author>Charles-François-Jean-Baptiste Moreau de Commagny</author>, <title>Scène ajoutée au Boulevard Bonne-Nouvelle, pour l’anniversaire de la naissance de Molière ; représentée sur le théâtre du Gymnase dramatique, le 15 janvier 1821</title>, <pubPlace>Paris</pubPlace>, <publisher>Fages</publisher>, <date>1821</date>, 8 p.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1821"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="scene">
+        <head>Scène ajoutée au Boulevard Bonne-Nouvelle, pour l’anniversaire de la naissance de Molière</head>
+        <castList>
+          <head>Personnages.                  <hi rend="sc">Acteurs.</hi></head>
+          <castItem><role xml:id="anglais"><hi rend="sc">Un Anglais                  M. Perlet.</hi></role></castItem>
+          <castItem><role xml:id="tricot"><hi rend="sc">M. Tricot.                   M. Bernard-Léon.</hi></role></castItem>
+        </castList>
+        <stage rend=" center"><hi rend="sc">M. Tricot, Un Anglais</hi>.</stage>
+        <l/>
+        <sp who="anglais">
+          <speaker>L’Anglais.</speaker>
+          <p>Oh ! Monsieur… n’est-il pas ici, le Théâtre français ?</p>
+        </sp>
+        <sp who="tricot">
+          <speaker>Tricot.</speaker>
+          <p>Oh ! non, Monsieur, nous en sommes bien loin.</p>
+        </sp>
+        <sp who="anglais">
+          <speaker>L’Anglais.</speaker>
+          <p>Tant mieux, je suis très content.</p>
+        </sp>
+        <sp who="tricot">
+          <speaker>Tricot.</speaker>
+          <p>Et pourquoi donc, Monsieur ?</p>
+        </sp>
+        <sp who="anglais">
+          <speaker>L’Anglais.</speaker>
+          <p>Pourquoi ?… Cet diable de Molière il m’ennuie beaucoup… et je vois aujourd’hui sur toutes les… toutes les… Comment appelez-vous ces papiers attachés contre les murs ?</p>
+        </sp>
+        <sp who="tricot">
+          <speaker>Tricot.</speaker>
+          <p>Ah ! les affiches.</p>
+        </sp>
+        <sp who="anglais">
+          <speaker>L’Anglais.</speaker>
+          <p>Oui… je voulais dire que je vois son nom sur toutes les affiches, en grosses lettres.</p>
+        </sp>
+        <sp who="tricot">
+          <speaker>Tricot.</speaker>
+          <p>Ce n’est pas étonnant. </p>
+          <stage><hi rend="sc">Air</hi> de la Sentinelle.</stage>
+          <l>Avec raison ils fêtent l’heureux jour </l>
+          <l>Qui de Molière a marqué la naissance ;</l>
+          <l>De ses bienfaits, c’est un juste retour, </l>
+          <l>Ne blâmez point notre reconnaissance »</l>
+          <l>S’illustrant dans tous les travaux,</l>
+          <l>De tous les arts, la patrie est la mère.</l>
+          <l>La France, en ses jours les plus beaux, </l>
+          <l>A fait naître mille héros,</l>
+          <l>Et n’a vu naître que Molière.</l>
+        </sp>
+        <sp who="anglais">
+          <speaker>L’Anglais.</speaker>
+          <p>Goddam… C’est encore beaucoup trop.</p>
+        </sp>
+        <sp who="tricot">
+          <speaker>Tricot.</speaker>
+          <p>Peut-on savoir d’où vient la prévention que vous avez contre lui ?</p>
+        </sp>
+        <sp who="anglais">
+          <speaker>L’Anglais.</speaker>
+          <p>Oh !… je ne puis le souffrir.</p>
+        </sp>
+        <sp who="tricot">
+          <speaker>Tricot.</speaker>
+          <p>Mais pour quelle raison ?</p>
+        </sp>
+        <sp who="anglais">
+          <speaker>L’Anglais.</speaker>
+          <p>Par la raison que je ne puis pas le souffrir.</p>
+        </sp>
+        <sp who="tricot">
+          <speaker>Tricot.</speaker>
+          <p>Peut-être Monsieur ne le connaît-il pas ?</p>
+        </sp>
+        <sp who="anglais">
+          <speaker>L’Anglais<stage> riant.</stage></speaker>
+          <p>Oh ! je le connais parfaitement bien, je vous jure ; je l’ai joué très souvent dans ma maison de campagne, où milady donnait des spectacles magnifiques et très chers.</p>
+        </sp>
+        <sp who="tricot">
+          <speaker>Tricot</speaker>
+          <p>C’était vous qui payiez ?</p>
+        </sp>
+        <sp who="anglais">
+          <speaker>L’Anglais.</speaker>
+          <p><hi rend="i">Yes</hi>… On donnait les comédies à mes dépens : je me rappelle que c’était un membre du parlement qui avait joué le <hi rend="i">Tartuffe</hi>, et milady, mon femme, faisait un rôle dans le <hi rend="i">Georges</hi> battu, et puis content.</p>
+        </sp>
+        <sp who="tricot">
+          <speaker>Tricot.</speaker>
+          <p>Ah ! Georges Dandin.</p>
+        </sp>
+        <sp who="anglais">
+          <speaker>L’Anglais.</speaker>
+          <p><hi rend="i">Yes…</hi> C’était moi qui faisais le Dandin… La pièce elle était fort à la mode, et ils avaient ri beaucoup de moi.</p>
+        </sp>
+        <sp who="tricot">
+          <speaker>Tricot.</speaker>
+          <p>Puisque vous devez un pareil succès à Molière, je ne conçois pas pourquoi vous ne pouvez le souffrir.</p>
+        </sp>
+        <sp who="anglais">
+          <speaker>L’Anglais.</speaker>
+          <p>Ce était pour des considérations personnelles ; car je suis comme tous les Anglais, grand admirateur de Molière. Cet diable d’homme il m’a ruiné.</p>
+        </sp>
+        <sp who="tricot">
+          <speaker>Tricot.</speaker>
+          <p>Pas possible !</p>
+        </sp>
+        <sp who="anglais">
+          <speaker>L’Anglais.</speaker>
+          <p>C’est très possible.… J’avais un oncle complètement riche, et très avare ; espérance bien confortable pour les héritiers ! eh bien !… pour avoir vu le <hi rend="i">Harpagon</hi>, il était devenu un petit dissipateur, et il ne se laissait manquer de rien : il buvait, il mangeait tous les jours : c’est une chose bien terrible pour moi.</p>
+        </sp>
+        <sp who="tricot">
+          <speaker>Tricot.</speaker>
+          <p>Je conçois maintenant votre colère contre Molière.</p>
+        </sp>
+        <sp who="anglais">
+          <speaker>L’Anglais.</speaker>
+          <p>Ce était rien encore… Je avais un autre oncle très viel, qui avait vingt milles livres sterling de revenu, et qui était attaqué du spleen… du moins… la famille… il l’espérait<pb n="…"/></p>
+          <stage><hi rend="sc">Air</hi> : Du Partage de la Richesse.</stage>
+          <l>Triste et chagrin dans sa sombre enveloppe,</l>
+          <l>Il méditait un funeste dessein ;</l>
+          <l>Quand par hasard il voit <hi rend="i">Le Misanthrope</hi>,</l>
+          <l>Voilà, Monsieur, qu’il hésite soudain.</l>
+          <l>Le <hi rend="i">Pourceaugnac</hi>, avec l’apothicaire, </l>
+          <l>L’a presque rendu guilleret,</l>
+          <l>Et <hi rend="i">Le Malade imaginaire</hi>,</l>
+          <l>Il l’avait guéri tout à fait.</l>
+          <p>Il faisait plus que rire… Il parlait toujours de <hi rend="i">Thomas Diafoirus</hi> ; et quand je lui demandais de l’argent, il me disait : <quote><hi rend="i">Clisterium donare, ensuita purgare</hi></quote><hi rend="i">…</hi> Il y a de quoi se pendre</p>
+        </sp>
+        <sp who="tricot">
+          <speaker>Tricot.</speaker>
+          <p>Sans doute, c’est une horreur<pb n="…"/>. Un auteur qui guérit du spleen… chez vous c’est sans exemple.</p>
+        </sp>
+        <sp who="anglais">
+          <speaker>L’Anglais.</speaker>
+          <p>Je croyais bien… Nous avons lord <hi rend="i">Byron</hi> qui serait capable pour le donner lui seul à toute l’Angleterre ; mais ce n’est pas tout encore… Je avais une tante<pb n="…"/></p>
+        </sp>
+        <sp who="tricot">
+          <speaker>Tricot.</speaker>
+          <p>Ah ! mon dieu, quelle famille !</p>
+        </sp>
+        <sp who="anglais">
+          <speaker>L’Anglais.</speaker>
+          <p>Qui faisait des romans très longs, aussi longs que lady <hi rend="i">Morgan</hi>, et qui les vendait aussi chers que <hi rend="i">Walter Scott</hi>… Elle avait eu le malheur de voir à <hi rend="i">Argitti-Rooms</hi> les miladys savantes.</p>
+        </sp>
+        <sp who="tricot">
+          <speaker>Tricot.</speaker>
+          <p>Ah ! <hi rend="i">Les Femmes savantes</hi>.</p>
+        </sp>
+        <sp who="anglais">
+          <speaker>L’Anglais.</speaker>
+          <p><hi rend="i">Yes…</hi> Et elle avait jeté au feu les dix premiers volumes d’un petite roman dont le libraire de <hi rend="i">London</hi> il offrait six mille guinées… et je devais payer les dettes à moi avec le roman de ma tante.</p>
+        </sp>
+        <sp who="tricot">
+          <speaker>Tricot.</speaker>
+          <p>Je conçois alors qu’entre Molière et vous, c’est une guerre à mort.</p>
+        </sp>
+        <sp who="anglais">
+          <speaker>L’Anglais.</speaker>
+          <p>Et je arrivais justement pour le anniversaire… car vous êtes bien sûr que ce était le Anniversaire<pb n="…"/></p>
+        </sp>
+        <sp who="tricot">
+          <speaker>Tricot.</speaker>
+          <p>Monsieur, on le dit… c’est une de mes pratiques, le carillonneur de Saint-Eustache qui a fait cette découverte-là sur les registres de la paroisse<pb n="…"/></p>
+        </sp>
+        <sp who="anglais">
+          <speaker>L’Anglais.</speaker>
+          <p>Il paraîtrait alors que le lieu de sa naissance<pb n="…"/></p>
+        </sp>
+        <sp who="tricot">
+          <speaker>Tricot.</speaker>
+          <p>Monsieur, on ne le connaît pas.</p>
+        </sp>
+        <sp who="anglais">
+          <speaker>L’Anglais.</speaker>
+          <p>Ah !… et le jour précis ?</p>
+        </sp>
+        <sp who="tricot">
+          <speaker>Tricot.</speaker>
+          <p>On n’en est pas sûr.</p>
+        </sp>
+        <sp who="anglais">
+          <speaker>L’Anglais.</speaker>
+          <p>Mais… son tombeau.</p>
+        </sp>
+        <sp who="tricot">
+          <speaker>Tricot.</speaker>
+          <p>Monsieur, c’est fort incertain.</p>
+        </sp>
+        <sp who="anglais">
+          <speaker>L’Anglais.</speaker>
+          <stage><hi rend="sc">Air</hi> : Muses des bois.</stage>
+          <l>Convenez-en, vous êtes économes</l>
+          <l>Dans les honneurs que l’on doit aux talents ;</l>
+          <l>Si nous avons, moins que vous, de grands hommes,</l>
+          <l>Sur leurs autels, nous brûlons plus d’encens.</l>
+          <l>Rendez au moins justice à l’Angleterre,</l>
+          <l>Votre Molière, applaudi tant de fois,</l>
+          <l>Obtint chez vous à peine un peu de terre :</l>
+          <l><hi rend="i">Garrick</hi> repose à côté de nos rois.</l>
+        </sp>
+        <sp who="tricot">
+          <speaker>Tricot.</speaker>
+          <stage><hi rend="sc">Air</hi> : Vaudeville de la Partie carrée.</stage>
+          <l>Il est trop vrai, par une aveugle rage,</l>
+          <l>Ce grand homme fut outragé ;</l>
+          <l>Mais des préjugés d’un autre âge,</l>
+          <l>Notre siècle l’a bien vengé.</l>
+          <l>L’homme obscur tout entier succombe ;</l>
+          <l>Mais Molière est encor debout :</l>
+          <l>Qu’importe enfin où se trouve sa tombe,</l>
+          <l>Son génie est partout. <stage>(bis.)</stage></l>
+          <p>Et je ne dois pas vous cacher, Monsieur, que le modeste Gymnase se permet aussi de fêter aujourd’hui l’anniversaire de sa naissance.</p>
+        </sp>
+        <sp who="anglais">
+          <speaker>L’Anglais.</speaker>
+          <p>Goddem… ce Molière, qui avait persécuté moi… qui avait poursuivi tous les ridicules.</p>
+        </sp>
+        <sp who="tricot">
+          <speaker>Tricot.</speaker>
+          <p>Vous ne pouvez pas lui échapper.</p>
+          <stage>(Le Théâtre change, et représente l’intérieur d’un temple, au fond duquel on voit le buste de Molière, placé sur un piédestal. Tous les acteurs du prologue sont groupés autour de lui, et s’apprêtent à le couronner.)</stage>
+          <label>Chœur général.</label>
+          <stage><hi rend="sc">Air</hi> : Pour Saint-Cyr, ah ! quelle gloire.</stage>
+          <l>Célébrons le jour prospère</l>
+          <l>Où le premier des auteurs</l>
+          <l>Jadis a vu la lumière,</l>
+          <l>Et sur le front de Molière</l>
+          <l>Plaçons de modestes fleurs.</l>
+        </sp>
+        <sp who="agnes">
+          <speaker>Agnès.</speaker>
+          <l>Ô Molière ! ô génie étonnant et sublime !</l>
+          <l>Toi que nous admirons, sans oser nous flatter</l>
+          <l>Que parmi tes enfants tu daignes nous compter,</l>
+          <l>Pardonne notre audace au feu qui nous anime :</l>
+          <l>Que notre amour nous légitime,</l>
+          <l>Et soyons tes enfants, au moins pour te fêter.</l>
+          <stage>(Elle s’approche du buste de Molière, et place une couronne de laurier sur sa tête)</stage>
+          <stage>Vaudeville.</stage>
+          <stage><hi rend="sc">Air</hi> : La bonne aventure, ô gué.</stage>
+        </sp>
+        <sp who="tricot">
+          <speaker>Tricot.</speaker>
+          <l>Shakespear peut paraître gai</l>
+          <l>Aux lords d’Angleterre,</l>
+          <l>Schiller est bien intrigué,</l>
+          <l>Sa touche est légère ;</l>
+          <l>Mais du drame fatigué,</l>
+          <l>Par sa verve subjugué,</l>
+          <l>J’aime mieux Molière, ô gué,</l>
+          <l>J’aime mieux Molière.</l>
+        </sp>
+        <sp who="dujour">
+          <speaker>M. Dujour.</speaker>
+          <l>L’art de joindre à l’enjouement</l>
+          <l>La raison sévère ;</l>
+          <l>L’art de poursuivre gaiement</l>
+          <l>La sottise altière ;</l>
+          <l>L’art de peindre tour à tour</l>
+          <l>Le bourgeois, l’homme de cour,</l>
+          <l>Ne sont-ils pas nés le jour</l>
+          <l>Où naquit Molière.</l>
+        </sp>
+        <sp who="georgette">
+          <speaker>Georgette.</speaker>
+          <l>Ce grand homm’ dont les écrits</l>
+          <l>Charm’ la France entière,</l>
+          <l>N’ méprisait pas les avis</l>
+          <l>De sa cuisinière :</l>
+          <l>On sait comm’ il l’écoutait,</l>
+          <l>Et puisqu’il la consultait,</l>
+          <l>On peut êt’ fièr’ quand on est</l>
+          <l>Servant’ de Molière.</l>
+        </sp>
+        <sp who="invalide">
+          <speaker>L’Invalide.</speaker>
+          <l>Docteurs dont il se moqua,</l>
+          <l>Faculté si fière :</l>
+          <l>Tartuffes dont il montra</l>
+          <l>L’âme toute entière :</l>
+          <l>Vous craignez jusqu’à son nom,</l>
+          <l>Et vous avez le frisson</l>
+          <l>Quand vous voyez la maison</l>
+          <l>Où naquit Molière.</l>
+        </sp>
+        <sp who="anglais">
+          <speaker>L’Anglais.</speaker>
+          <l>Que de scènes nous voyons</l>
+          <l>Dans notre Angleterre ;</l>
+          <l>Celle des élections</l>
+          <l>Et du ministère.</l>
+          <l>Des budgets avec l’appoint,</l>
+          <l>Du comique à coup de poing :</l>
+          <l>C’est ce qu’on ne trouve point</l>
+          <l>Chez monsieur Molière.</l>
+        </sp>
+        <sp who="chinchilla">
+          <speaker>Madame Chinchilla<stage> (au Public.)</stage></speaker>
+          <l>Quelquefois, pour nos chansons,</l>
+          <l>Un public sévère</l>
+          <l>Mêle au bruit de nos flons flons</l>
+          <l>Certains bruits de guerre.</l>
+          <l>Trop souvent ils ont leur tour,</l>
+          <l>Qu’ils se taisent au moins pour</l>
+          <l>L’anniversaire du jour</l>
+          <l>Où naquit Molière.</l>
+        </sp>
+        <sp who="choeur">
+          <speaker>(On reprend le chœur général.)</speaker>
+          <l>Célébrons le jour prospère, etc.</l>
+        </sp>
+      </div>
+    </body>
+  </text>
+</TEI>
