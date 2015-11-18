@@ -30,7 +30,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><author>Canora, Jean</author>, <title>Molière moraliste</title>, <pubPlace>Paris</pubPlace>, <publisher>Société positiviste</publisher>, <date>1901</date>, 32 p.</bibl>
+        <bibl><author>Canora, Jean (1877-1912)</author>, <title>Molière moraliste</title>, <pubPlace>Paris</pubPlace>, <publisher>Société positiviste</publisher>, <date>1901</date>, 32 p.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -56,17 +56,17 @@
       </div>
       <div>
         <head>I. <lb/><hi rend="i">Comment Molière, en morale, se sert du principe</hi> : « Vivre conformément à la nature », <hi rend="i">comme d’un principe négatif, pour ruiner les préjugés de son temps, et comment il importe de distinguer ses boutades révolutionnaires de ses opinions réformatrices</hi>.</head>
-        <p><pb n="6"/>C’est au nom de la nature, du libre développement de dos bons instincts, que Molière entreprit la lutte contre les vains préjugés. Notre nature est mauvaise, disait le Christianisme : c’est de la prière, de la souffrance, de l’obéissance, qu’il faut attendre le salut. Notre nature est bonne, répond Molière : c’est de l’effort personnel libre que nous pouvons attendre un peu de joie pour nous-même et pour les autres. Qu’il s’agisse d’un père égoïste qui veut marier sa fille contre son gré ; d’un tuteur égoïste qui prétend s’imposer comme époux à sa pupille ; d’un médecin qui fait périr dans les règles ses malades à grand renfort de purges et de saignées ; d’un dévot qui subordonne aux devoirs envers le ciel les sentiments humains et sympathiques, Molière n’a qu’un cri : « Vous offensez la nature. » Dans un siècle où la discipline catholique tendait à régir toutes les consciences, où le dogmatisme, la casuistique, le formalisme, la prétendue tradition encombraient toutes les branches de la science, opprimaient tous les efforts de la pensée, Molière, poursuivant l’œuvre d’une partie des écrivains du <num>xvi<hi rend="sup">e</hi></num> siècle et préludant à celle des philosophes du <num>xviii<hi rend="sup">e</hi></num> siècle, mais conservant un sens positif de la discipline humaine qui ne se retrouvera guère que, de nos jours, chez Comte et ses disciples, défend hardiment la nature et la raison. Molière nous apparaît d’abord comme un révolté contre l’ordre de choses établi. Il proteste. Il s’indigne. Examinons de plus près sa pensée, nous verrons qu’il émet à son tour des opinions fort modérées.</p>
+        <p><pb n="6"/> C’est au nom de la nature, du libre développement de dos bons instincts, que Molière entreprit la lutte contre les vains préjugés. Notre nature est mauvaise, disait le Christianisme : c’est de la prière, de la souffrance, de l’obéissance, qu’il faut attendre le salut. Notre nature est bonne, répond Molière : c’est de l’effort personnel libre que nous pouvons attendre un peu de joie pour nous-même et pour les autres. Qu’il s’agisse d’un père égoïste qui veut marier sa fille contre son gré ; d’un tuteur égoïste qui prétend s’imposer comme époux à sa pupille ; d’un médecin qui fait périr dans les règles ses malades à grand renfort de purges et de saignées ; d’un dévot qui subordonne aux devoirs envers le ciel les sentiments humains et sympathiques, Molière n’a qu’un cri : « Vous offensez la nature. » Dans un siècle où la discipline catholique tendait à régir toutes les consciences, où le dogmatisme, la casuistique, le formalisme, la prétendue tradition encombraient toutes les branches de la science, opprimaient tous les efforts de la pensée, Molière, poursuivant l’œuvre d’une partie des écrivains du <num>xvi<hi rend="sup">e</hi></num> siècle et préludant à celle des philosophes du <num>xviii<hi rend="sup">e</hi></num> siècle, mais conservant un sens positif de la discipline humaine qui ne se retrouvera guère que, de nos jours, chez Comte et ses disciples, défend hardiment la nature et la raison. Molière nous apparaît d’abord comme un révolté contre l’ordre de choses établi. Il proteste. Il s’indigne. Examinons de plus près sa pensée, nous verrons qu’il émet à son tour des opinions fort modérées.</p>
         <div>
           <head>La nature et la science</head>
           <p><pb n="7"/> Je ne sais point d’exemple plus frappant de la proposition que j’avance que la façon dont Molière traite les médecins. On pourrait croire d’abord, en effet, qu’il les condamne tous, eux et leur art, au nom d’une mystérieuse nature, bienfaisante et souveraine.</p>
           <quote>
             <p>« Je ne vois point (dit Béralde) de plus plaisante mômerie, je ne vois rien de plus ridicule qu’un homme qui se veut mêler d’en guérir un autre…</p>
-            <label>
+            <label type="speaker">
               <hi rend="sc">Argan.</hi>
             </label>
             <p>Que faire donc quand on est malade ?</p>
-            <label>
+            <label type="speaker">
               <hi rend="sc">Béralde.</hi>
             </label>
             <p>Rien, mon frère… il ne faut que demeurer en repos. La nature, d’elle-même, quand nous la laissons faire, se tire doucement du désordre où elle est tombée. »</p>
@@ -135,8 +135,9 @@
             <l>La science et l’esprit qui gâtent les personnes,</l>
           </quote>
           <p>qui dessèchent le cœur d’Armande, lui font mépriser le mariage, prendre en horreur non pas absolument l’époux, mais les enfants et le ménage ; qui mettent un mauvais orgueil au cœur de Philaminte, l’entraînent à malmener son bon homme de mari, achèvent de rendre folle la pauvre Bélise comme ils ont rendu Cathos et Madelon ingrates et ridicules.</p>
-          <p>Molière veut, avant tout, que la femme conserve ses qualités naturelles de bonté, d’affection, de dévouement, de modestie. Qu’elle soit instruite et spirituelle, à merveille, mais qu’elle reste simple dans son rôle de fille, d’amante ou d’épouse. Et comme Aristophane jadis chassait les Athéniennes babillardes <pb n="12"/> de la place publique, Molière dit aux Françaises : « Vous devriez vraiment</p>
+          <p>Molière veut, avant tout, que la femme conserve ses qualités naturelles de bonté, d’affection, de dévouement, de modestie. Qu’elle soit instruite et spirituelle, à merveille, mais qu’elle reste simple dans son rôle de fille, d’amante ou d’épouse. Et comme Aristophane jadis chassait les Athéniennes babillardes <pb n="12"/> de la place publique, Molière dit aux Françaises :</p>
           <quote>
+            <l>                                       « Vous devriez vraiment</l>
             <l>Ne point aller chercher ce qu’on fait dans la lune</l>
             <l>Et vous mêler un peu de ce qu’on fait chez vous. »</l>
           </quote>
@@ -167,7 +168,7 @@
           <p>S’agit-il des lois de l’art dramatique, Dorante niera d’abord qu’il existe d’autre règle que celle de plaire, qu’il n’a cure des écrits d’Aristote et d’Horace, que <hi rend="i">L’École des femmes</hi>, de Molière, est une bonne comédie parce que le public l’a bien accueillie ; puis, ayant ainsi fait acte d’indépendance, il soutiendra qu’en reste la pièce ne pèche contre aucune des règles dont parle M. Lysidas ; ces règles, il les a lues, Dieu merci ! autant qu’un autre…</p>
           <quote>
             <p><label type="speaker" rend="sc">Lysidas</label>. — Quoi, Monsieur, la protase, l’épitase et la péripétie…</p>
-            <p><label type="speaker" rend="sc">Dorante</label>. — Ah ! Monsieur Lysidas, vous nous assommez avec vos grands mots. Ne paraissez point si savant, de grâce ; humanisez vos discours et parlez pour être entendu. Pensez-vous qu’un nom grec donne plus de poids à vos raisons, et ne trouveriez-vous pas qu’il fût aussi beau de dire l’exposition du sujet que la protase, le nœud que l’épitase, et le <pb n="14"/> dénouement que la péripétie  »</p>
+            <p><label type="speaker" rend="sc">Dorante</label>. — Ah ! Monsieur Lysidas, vous nous assommez avec vos grands mots. Ne paraissez point si savant, de grâce ; humanisez vos discours et parlez pour être entendu. Pensez-vous qu’un nom grec donne plus de poids à vos raisons, et ne trouveriez-vous pas qu’il fût aussi beau de dire l’exposition du sujet que la protase, le nœud que l’épitase, et le <pb n="14"/> dénouement que la péripétie.</p>
           </quote>
           <p>En un mot : <quote>« Soyez naturel. Monsieur Lysidas, appelez les choses par leur nom et, sur ce terrain, je ne vous redoute guère. »</quote> Molière n’a pas obéi aux préceptes d’Aristote et d’Horace par aveugle respect de la tradition, mais il s’est trouvé en fait amené à les suivre parce que ces règles, <quote>« dont vous embarrassez les ignorants, ne sont que quelques observations aisées que le bon sens a faites sur ce qui peut ôter Je plaisir que l’on prend à ces sortes de poèmes »</quote> ; Molière ne condamne donc pas les règles, mais ne veut point qu’on les entoure de mystère et de vénération ; et là, comme en toute autre matière, il ne se paye point de mots…</p>
         </div>
@@ -176,19 +177,19 @@
           <p>Les idées de Molière sur l’honneur féminin, la liberté qu’il sied de laisser aux jeunes filles et aux épouses durent sembler de son temps étrangement hardies. La puissance paternelle au <num>xvii<hi rend="sup">e</hi></num> siècle était, aux yeux de la loi et de l’opinion, presque absolue. <quote>« Le devoir d’une fille est dans l’obéissance »</quote>, répétait-on volontiers. Qu’un père eût résolu de mettre sa fille au couvent ou de la marier à quelque déplaisant personnage, elle devait subir sa volonté sans révolte et plus tard ne demander qu’à la religion l’oubli de ses chagrins. C’est contre cette passivité que Molière proteste. Au nom de la nature, il proclame que la femme a droit au bonheur. Cherchez à faire d’une fille, d’une épouse, une esclave, et elle se révoltera, mettra toute la rouerie de son sexe au service de sa vengeance ; c’est là un fait que Molière constate sans trop le déplorer. Quand les pères et les époux seront bien convaincus que toute contrainte, toute tyrannie, ne saurait rien engendrer pour eux que de funeste, ils cesseront de faire peser sur leurs filles et leur femme un joug honteux. Mais, comme il se heurtait, en soutenant cette thèse, à des préjugés tout-puissants, l’auteur de <hi rend="i">L’École des femmes</hi> dut, pour en mieux triompher, employer des moyens extrêmes. Jamais il n’a poussé le réalisme si loin que lorsqu’il mit en scène l’adultère, suite presque nécessaire de toute union qu’une femme n’a point librement et spontanément contractée. <pb n="15"/> Je n’ai jamais entendu, pour ma part, sans un serrement de cœur et un frisson de dégoût, les louanges passionnées que le pontifiant M. de Sotenville et la prude Mme de Sotenville donnent à leur fille Angélique, femme du pauvre Dandin. Cette femme semble, au demeurant, la plus rouée, la plus antipathique des révoltées que Molière met en scène. Belle, froide, tour à tour orgueilleuse et méprisante, souple et câline, faussement emportée, Angélique s’entend à conserver toutes les apparences de la pudeur et de la vertu. Seule avec son mari, elle est cynique et se croit le droit de l’être.</p>
           <quote>
             <p>Comment ! parce qu’un homme s’avise de nous épouser, il faut d’abord que toutes choses soient finies pour nous et que nous rompions tout commerce avec les vivants ! C’est une chose merveilleuse que cette tyrannie de messieurs les maris ; et je les trouve bons de vouloir qu’on soit morte à tous les divertissements et qu’on ne vive que pour eux. Je me moque de cela et ne veux point mourir si jeune.</p>
-            <label>
+            <label type="speaker">
               <hi rend="sc">Georges Dandin.</hi>
             </label>
             <p>C’est ainsi que vous satisfaites aux engagements de la foi que vous m’avez donnée publiquement ?</p>
-            <label>
+            <label type="speaker">
               <hi rend="sc">Angélique.</hi>
             </label>
             <p>Moi ? Je ne vous l’ai point donnée de bon cœur et vous me l’avez arrachée. <hi rend="i">M’avez-vous, avant le mariage, demandé mon consentement et si je voulais bien être à vous</hi> ? Vous n’avez consulté pour cela que mon père et ma mère : ce sont eux proprement qui vous ont épousé ; je prétends n’être point obligée à me soumettre en esclave à vos volontés.</p>
-            <label>
+            <label type="speaker">
               <hi rend="sc">Dandin.</hi>
             </label>
             <p>Oui ! C’est ainsi que vous le prenez. Je suis votre mari et je vous dis que je n’entends pas cela.</p>
-            <label>
+            <label type="speaker">
               <hi rend="sc">Angélique.</hi>
             </label>
             <p>Moi, je suis votre femme et je vous dis que je l’entends.</p>
@@ -255,12 +256,12 @@
           </quote>
           <p>Par de tels propos, Molière nous fait sentir qu’il a fallu, pour corrompre la bonne nature d’un père, le zèle de cet incomparable directeur qui <quote>« comme du fumier regarde tout le monde »</quote>. Tartuffe a su démontrer au naïf Orgon qu’il lui serait fort avantageux de s’assurer une place en paradis, qu’il serait infiniment mieux là qu’en enfer ou qu’en purgatoire, et qu’il devait en conséquence bannir toute autre pensée que celle de son salut. <quote>« S’il suffit de sacrifier les siens pour être éternellement heureux »</quote>, s’est dit Orgon, <quote>« qu’à cela ne tienne. »</quote> Et il a négligé sa femme, il a brutalement mis son fils à la porte, il a rudoyé son frère et va sacrifier sa fille… Tels sont les dangers qu’un mauvais directeur fait courir à une famille, <hi rend="i">et c’est bien le directeur que Molière condamne, celui que le catholicisme prétend substituer au père</hi> dans la direction morale de l’épouse et des enfants, et qui, pour être dévot, n’en sera pas moins homme. Il ne pourra jamais avoir au cœur la tendresse naturelle du père pour les siens et sera souvent tenté d’user mal de son influence spirituelle, afin de contenter de temporels désirs. Qu’Elmire, cessant de penser, de vouloir par elle-même, d’obéir à son honnête naturel, laisse se substituer à sa propre conscience celle du directeur : elle tombera bientôt dans l’adultère, avec cette consolation, il est vrai, d’être la maîtresse d’un homme d’une dévotion extrême, qui s’est chargé de son plaisir en même temps que de son salut.</p>
           <quote>
-            <label>
+            <label type="speaker">
               <hi rend="sc">Elmire.</hi>
             </label>
             <l>Mais comment consentir à ce que vous voulez</l>
             <l>Sans offenser le ciel, dont toujours vous parlez ?</l>
-            <label>
+            <label type="speaker">
               <hi rend="sc">Tartuffe.</hi>
             </label>
             <l><pb n="21"/> Je puis vous dissiper ces craintes ridicules,</l>
@@ -302,51 +303,51 @@
         </quote>
         <p>Argan, le malade imaginaire, préoccupé surtout de se <pb n="25"/> choisir un gendre médecin, veut-il contraindre sa fille à épouser Thomas Diafoirus ou à s’enterrer dans un cloître, c’est Toinette qui lui fera la leçon ; car, dit-elle : <quote>« Quand un maître ne songe pas à ce qu’il fait, une servante bien sensée est en droit de le redresser »</quote> ; et cette familiarité, cette bonhomie avec laquelle Toinette rappelle Argan à lui-même, fait infiniment plus d’impression sur les auditeurs que les plus savants raisonnements du monde :</p>
         <quote>
-          <label>
+          <label type="speaker">
             <hi rend="sc">Argan.</hi>
           </label>
           <p>Je ne mettrai pas ma fille dans un couvent si je veux ?</p>
-          <label>
+          <label type="speaker">
             <hi rend="sc">Toinette.</hi>
           </label>
           <p>Non, vous dis-je.</p>
-          <label>
+          <label type="speaker">
             <hi rend="sc">Argan.</hi>
           </label>
           <p>Qui m’en empêchera ?</p>
-          <label>
+          <label type="speaker">
             <hi rend="sc">Toinette.</hi>
           </label>
           <p>Vous-même.</p>
-          <label>
+          <label type="speaker">
             <hi rend="sc">Argan.</hi>
           </label>
           <p>Moi ?</p>
-          <label>
+          <label type="speaker">
             <hi rend="sc">Toinette.</hi>
           </label>
           <p>Oui, vous n’aurez pas ce cœur-là.</p>
-          <label>
+          <label type="speaker">
             <hi rend="sc">Argan.</hi>
           </label>
           <p>Je l’aurai.</p>
-          <label>
+          <label type="speaker">
             <hi rend="sc">Toinette.</hi>
           </label>
           <p>Vous vous moquez.</p>
-          <label>
+          <label type="speaker">
             <hi rend="sc">Argan.</hi>
           </label>
           <p>Je ne me moque point.</p>
-          <label>
+          <label type="speaker">
             <hi rend="sc">Toinette.</hi>
           </label>
           <p>La tendresse paternelle vous prendra.</p>
-          <label>
+          <label type="speaker">
             <hi rend="sc">Argan.</hi>
           </label>
           <p>Elle ne me prendra point.</p>
-            <label>
+          <label type="speaker">
             <hi rend="sc">Toinette.</hi>
           </label>
           <p>Une petite larme ou deux ; des bras jetés au cou ; un mon petit papa mignon, prononcé tendrement, sera assez pour vous toucher…</p>

@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../../teibook/teibook.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/xsl" href="../../teipub/xsl/tei2html.xsl"?>
-<!--odt2tei: 2015-11-08T19:30:48+01:00-->
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
@@ -31,7 +30,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><author>Houssaye, Arsène (1814-1896)</author>, <title><hi rend="i">Les Comédiennes de Molière</hi></title>, <pubPlace>Paris</pubPlace>, <publisher>Dentu</publisher>, <date>1879</date>, 177 p.</bibl>
+        <bibl><author>Houssaye, Arsène (1815-1896)</author>, <title>Les Comédiennes de Molière</title>, <pubPlace>Paris</pubPlace>, <publisher>Dentu</publisher>, <date>1879</date>, 177 p.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -924,13 +923,13 @@
           <p>Louis Racine nie les amours profanes de son père ; mais Jean Racine n’a-t-il pas dit dans son testament qu’il se sent indigne d’être enterré dans le cimetière de Port-Royal-des-Champs <quote>« par les scandales de sa vie passée »</quote> ?</p>
           <p>Molière eut toujours pour la Du Parc une amitié <pb n="95"/>teintée d’amour ; par exemple, entre autres preuves, relisons <hi rend="i">L’lmpromptu de Versailles</hi> :</p>
           <quote>
-            <label>M<hi rend="sup">lle</hi> <hi rend="sc">Du Parc.</hi></label>
+            <label type="speaker">M<hi rend="sup">lle</hi> <hi rend="sc">Du Parc.</hi></label>
             <p>Mon Dieu ! pour moi je m’acquitterai fort mal de mon personnage, et je ne sais pas pourquoi vous m’avez donné ce rôle de façonnière.</p>
-            <label><hi rend="sc">Molière</hi>.</label>
+            <label type="speaker"><hi rend="sc">Molière</hi>.</label>
             <p>Mon Dieu, mademoiselle ! voilà comme vous disiez, lorsqu’on vous donna celui de la <hi rend="i">Critique de L’École des femmes.</hi> Cependant vous vous en êtes acquittée à merveille, et tout le monde est demeuré d’accord que l’on ne peut pas mieux faire que vous avez fait. Croyez-moi, celui-ci sera de même, et vous le jouerez mieux que vous ne le pensez.</p>
-            <label>M<hi rend="sup">lle</hi> <hi rend="sc">Du Parc</hi>.</label>
+            <label type="speaker">M<hi rend="sup">lle</hi> <hi rend="sc">Du Parc</hi>.</label>
             <p>Comment cela se pourrait-il faire, car il n’y a point de personne au monde qui soit moins façonnière que moi ?</p>
-            <label><hi rend="sc">Molière</hi>.</label>
+            <label type="speaker"><hi rend="sc">Molière</hi>.</label>
             <p>Cela est vrai, et c’est en quoi vous faites mieux voir que vous êtes une vraie comédienne.</p>
           </quote>
           <p>Eh bien ! encore une fois, je crois fermement que M<hi rend="sup">lle</hi> Du Parc n’avait jamais été « façonnière » avec Molière, non plus qu’elle ne le fut avec Racine.</p>
@@ -1137,16 +1136,16 @@
           <p>M<hi rend="sup">lle</hi> Beauval n’était pas faite pour adoucir le caractère des servantes de Molière, elle accentua encore les <hi rend="i">fortes en gueule.</hi> Molière, d’ailleurs, l’avait encouragée dans l’esprit mordant, dans le geste hardi, dans la vérité à l’emporte-pièce. Regnard, qui, à son tour, lui donna à jouer ses rôles de soubrettes, se garda bien d’amortir son jeu franc et décidé. C’était l’idéal de la servante-maîtresse. Il arriva que par contrecoup, après avoir reçu le ton de Molière, elle donna le ton à Regnard pour les servantes-maîtresses.</p>
           <p>Aussi dans le prologue des <hi rend="i">Folies amoureuses</hi>, Regnard a peint M<hi rend="sup">lle</hi> Beauval avec sa douceur proverbiale :</p>
           <quote>
-            <label><hi rend="sc">Dancourt</hi>.</label>
+            <label type="speaker"><hi rend="sc">Dancourt</hi>.</label>
             <l><pb n="141"/>De grâce…</l>
-            <label><hi rend="sc">Madame Beauval</hi>.</label>
+            <label type="speaker"><hi rend="sc">Madame Beauval</hi>.</label>
             <l>                           Je ne jouerai point, monsieur,</l>
-            <label><hi rend="sc">Dancourt</hi>.</label>
+            <label type="speaker"><hi rend="sc">Dancourt</hi>.</label>
             <l>                                                                            Mais on dira…</l>
           </quote>
           <p>M<hi rend="sup">me</hi> Desbrosses vient annoncer que l’auteur ne veut point laisser jouer sa pièce. Alors l’esprit de contradiction fait son effet.</p>
           <quote>
-            <label><hi rend="sc">Madame Beauval</hi>.</label>
+            <label type="speaker"><hi rend="sc">Madame Beauval</hi>.</label>
             <l>On ne la jouera pas ! hé ! pourquoi, je vous prie ?</l>
             <l>L’auteur s’entend fort bien ! il serait beau, ma foi,</l>
             <l>Que messieurs les auteurs nous donnassent la loi !</l>

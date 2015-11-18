@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../../teibook/teibook.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/xsl" href="../../teipub/xsl/tei2html.xsl"?>
-<!--odt2tei: 2015-11-08T19:30:48+01:00-->
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
@@ -31,7 +30,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><author>Géruzez, Eugène (1799-1865)</author>, « <title>Molière — La Fontaine</title> », livre V (Siècle de Louis XIV), chapitre I de <title><hi rend="i">Histoire de la littérature française : du Moyen Âge aux Temps modernes</hi></title>, <pubPlace>Paris</pubPlace>, <publisher>J. Delalain</publisher>, <date>1852</date>, p. 333-352.</bibl>
+        <bibl><author>Géruzez, Eugène (1799-1865)</author>, « Molière — La Fontaine », livre V (Siècle de Louis XIV), chapitre I de <title>Histoire de la littérature française : du Moyen Âge aux Temps modernes</title>, <pubPlace>Paris</pubPlace>, <publisher>J. Delalain</publisher>, <date>1852</date>, p. 333-352.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -46,6 +45,7 @@
   <text>
     <body>
       <div>
+        <head>Molière — La Fontaine</head>
         <argument>
           <p>Influence de Louis XIV sur son siècle. — Molière. — Le génie dramatique. — Moralité du théâtre de Molière. — Appréciation de ses principales comédies. — La Fontaine. — Son caractère. — Ce qu’il a fait de la fable. — Ses rapports avec Molière.</p>
         </argument>

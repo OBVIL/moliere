@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../../teibook/teibook.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/xsl" href="../../teipub/xsl/tei2html.xsl"?>
-<!--odt2tei: 2015-11-08T19:30:48+01:00-->
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
@@ -32,7 +31,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><author>Étienne, Charles-Guillaume (1777-1845)</author>, « <title>Notice sur le <hi rend="i">Tartuffe</hi></title> » [1824], in <title><hi rend="i">Œuvres complètes de Molière, précédées d’une notice par L. B. Picard, avec des notes et des éclaircissements historiques</hi></title>, nouvelle édition, tome IV, <pubPlace>Paris</pubPlace>, <publisher>P. Pourrat frères</publisher>, <date>1838</date>, p. 91-146.</bibl>
+        <bibl><author>Étienne, Charles-Guillaume (1777-1845)</author>, « Notice sur le <hi rend="i">Tartuffe</hi> » [1824], in <title>Œuvres complètes de Molière, précédées d’une notice par L. B. Picard, avec des notes et des éclaircissements historiques</title>, nouvelle édition, tome IV, <pubPlace>Paris</pubPlace>, <publisher>P. Pourrat frères</publisher>, <date>1838</date>, p. 91-146.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -47,8 +46,8 @@
   <text>
     <body>
       <div>
-        <pb n="91"/>
-        <p>La comédie du <hi rend="i">Tartuffe</hi> est un des chefs-d’œuvre de notre littérature, et sa représentation un des grands événements de notre histoire : à aucune autre époque un poète n’aurait eu assez de courage pour l’entreprendre, un roi assez de force pour la permettre ; c’était peut-être même la seule du règne de Louis XIV où ce prince pût s’en déclarer le protecteur.</p>
+        <head>Notice sur le <hi rend="i">Tartuffe</hi></head>
+        <p><pb n="91"/>La comédie du <hi rend="i">Tartuffe</hi> est un des chefs-d’œuvre de notre littérature, et sa représentation un des grands événements de notre histoire : à aucune autre époque un poète n’aurait eu assez de courage pour l’entreprendre, un roi assez de force pour la permettre ; c’était peut-être même la seule du règne de Louis XIV où ce prince pût s’en déclarer le protecteur.</p>
         <p>Livré à toutes les séductions de la puissance et de l’amour, il se plaisait à orner le trône des lauriers de la victoire et des palmes du génie ; un grand talent flattait son orgueil, tous les succès étaient des fleurons de sa couronne ; il semblait qu’ils fussent les siens ; et, se faisant une auréole de toutes les renommées, déjà il disait : <quote><hi rend="i">L’état, c’est moi.</hi></quote></p>
         <p>Un homme tel que Molière devait lui appartenir : le prince jugea le poète, et le poète jugea le roi. Louis ouvrit l’entrée de sa cour à l’auteur comique, comme s’il eût voulu lui fournir ses modèles, et s’associer ainsi à ses plus beaux ouvrages. De son côté Molière, observateur profond, avait jugé qu’il avait besoin de flatter son maître pour avoir le droit de ne pas flatter son siècle : sous une minorité orageuse, il n’eût pas été libre d’exprimer une seule vérité, parce que chaque faction régnait à son tour, et qu’elles étaient trop éphémères ou trop faibles pour supporter le ridicule. Obligées de soutenir les travers ou les vices du dernier valet qui porte leurs livrées, elles sont forcément intolérantes : aussi les temps des troubles civils sont-ils les plus funestes pour l’art de la <pb n="92"/>comédie. Le despotisme d’un seul est encore préférable : hors ses propres faiblesses, il est possible qu’il livre toutes les autres aux libertés de la scène, et qu’ayant autour de lui les modèles, il aime à s’amuser de la ressemblance. Mais rien n’est funeste à la comédie comme ces époques où il existe mille tyrans subalternes, qui forment une espèce d’assurance mutuelle en faveur du ridicule. La critique d’un travers, quel qu’il soit, est toujours une personnalité contre quelqu’un d’important dans l’état, ou, ce qu’il y a de pire, contre quelqu’un qui veut se donner de l’importance.</p>
         <p>Ainsi, sous la minorité de Louis XIV, la comédie de mœurs était impossible ; les Frondeurs, malgré leur nom, n’auraient pas souffert le moindre trait qui pût les blesser, et ce mélange singulier du libertinage et de la révolte, du goût de tous les plaisirs et du déchaînement de toutes les passions, ces guerres à la fois sanglantes et frivoles, ces magistrats en épée, ces évêques en uniforme, ces héroïnes de cour suivant tour à tour le quartier-général et la procession, ces beaux-esprits factieux improvisant des épigrammes au milieu des séditions, et des madrigaux au milieu des champs de bataille ; cette physionomie de la société variée à l’infini ; ce jeu forcé de tous les caractères, ce déplacement de toutes les positions, ce contraste de toutes les habitudes, eussent été interdits au peintre comique qui y aurait trouvé des sujets si nombreux de tableaux pour en composer la galerie des mœurs de son temps.</p>
@@ -92,43 +91,65 @@
         <p>Pour donner une idée de la sévérité des mœurs de cette indigne cabale qui accusait le poète comique d’insulter à la religion, il n’est peut-être pas hors de propos de citer quelques passages de cette scène ; j’aurai soin de choisir je ne dis pas les plus décents, mais ceux qui sont le moins capables d’alarmer la pudeur. Laurent baise amoureusement la robe de la suivante, et dit comme Tartuffe<note place="bottom">Il faudrait <hi rend="i">se consume</hi>. Mais les tartuffes, comme dit Molière dans <hi rend="i">Les Femmes savantes</hi>, ne font pas seulement des <hi rend="i">solécismes en conduite</hi>. Ils lui reprochent cependant d’écrire d’une manière incorrecte.</note> :</p>
         <quote>
           <l>Ton étoffe est moelleuse.</l>
-          <label>lise.</label>
+          <label type="speaker">
+            <hi rend="sc">lise.</hi>
+          </label>
           <l>                                        En un pareil dessein,</l>
           <l>C’est mal suivre Tartuffe, il n’y met qu’une main.</l>
-          <label>laurent.</label>
+          <label type="speaker">
+            <hi rend="sc">laurent.</hi>
+          </label>
           <l>Que ton collier est beau ! les perles en sont grosses.</l>
-          <label>lise.</label>
+          <label type="speaker">
+            <hi rend="sc">lise.</hi>
+          </label>
           <l>Je comprends ton projet.</l>
-          <label>laurent.</label>
+          <label type="speaker">
+            <hi rend="sc">laurent.</hi>
+          </label>
           <l>                                       Pourtant je les crois fausses.</l>
-          <label>lise.</label>
+          <label type="speaker">
+            <hi rend="sc">lise.</hi>
+          </label>
           <l>Tu peux les voir de loin et sans en approcher.</l>
-          <label><hi rend="sc">Laurent</hi>, la pressant vivement.</label>
+          <label type="speaker"><hi rend="sc">laurent</hi><stage>, la pressant vivement</stage>.</label>
           <l>Je ne puis voir de loin et suis court de visière.</l>
-          <label>lise.</label>
+          <label type="speaker">
+            <hi rend="sc">lise.</hi>
+          </label>
           <l>Ne t’émancipe pas, car ma main est légère.</l>
         </quote>
         <p>La décence ne permet pas de pousser plus loin la citation ; mais d’après le commencement de la scène on peut juger de la fin. Le style et l’action vont toujours en s’échauffant : tel est le bon goût ; telle est la délicatesse de ces hommes qui reprochaient à Molière de prêcher l’impiété et le libertinage. Des plaisanteries ignobles, des équivoques grossières, voilà quelle fut et quelle est encore la manière d’écrire des cafards : ils ont l’esprit sec et la main pesante ; au lieu de répandre le sel d’une critique piquante et légère, ils exhalent le venin d’une méchanceté âcre et d’une haine cruelle ; inhabiles à lancer le trait de l’épigramme, ils soulèvent péniblement une lourde massue ; quand ils veulent badiner avec grâce, ils assomment.</p>
         <p>On n’imaginerait jamais comment le dévot parodiste amène les reproches de plagiat qu’il fait à Molière. La suivante, repoussant les ardeurs de Laurent, lui dit comme Dorine à Tartuffe<note place="bottom">Et pour être Romain on n’en est pas moins homme. (<hi rend="i">Sertorius</hi>)</note> :</p>
         <quote>
           <l>Je te verrais tout nu sans en être tentée.</l>
-          <label>laurent, <stage>se déshabillant</stage>.</label>
+          <label type="speaker"><hi rend="sc">laurent</hi><stage>, se déshabillant</stage>.</label>
           <l>Il le faut éprouver.</l>
-          <label>lise<stage>, le retenant</stage>.</label>
+          <label type="speaker"><hi rend="sc">lise</hi><stage>, le retenant</stage>.</label>
           <l>Il n’est pas besoin. Non.</l>
           <l>Quoi ! tu serais sujet à la tentation !</l>
           <l>Un valet tel que toi de l’amour se consomme !</l>
-          <label>laurent.</label>
+          <label type="speaker">
+            <hi rend="sc">laurent.</hi>
+          </label>
           <l rend="i">Ah ! Pour être valet, on n’en est pas moins homme. </l>
-          <label>lise.</label>
+          <label type="speaker">
+            <hi rend="sc">lise.</hi>
+          </label>
           <l>Ce vers est de <hi rend="i">Tartuffe</hi>, et c’est piller l’auteur…</l>
-          <label>laurent.</label>
+          <label type="speaker">
+            <hi rend="sc">laurent.</hi>
+          </label>
           <l><pb n="106"/>Bon, n’est-il pas permis de piller un voleur ?</l>
           <l>Ce vers étant sorti du cerveau de Corneille,</l>
           <l>Le voler à mon tour n’est pas grande merveille.</l>
-          <label>lise.</label>
+          <label type="speaker">
+            <hi rend="sc">lise.</hi>
+          </label>
           <l>Il aurait pris ce vers !</l>
-          <label>laurent.</label>
+          <label type="speaker">
+            <hi rend="sc">laurent.</hi>
+          </label>
           <l>Ce n’est pas d’aujourd’hui</l>
           <l>Qu’il se sait enrichir des dépouilles d’autrui.</l>
         </quote>
@@ -399,9 +420,9 @@
         </quote>
         <p>Qui n’est involontairement frappé de cette conformité de langage avec celui de tant d’hypocrites de royalisme que nous avons entendus ériger l’ingratitude en devoir et la délation en vertu ?</p>
         <p>Le <hi rend="i">Tartuffe</hi> de Molière est donc rajeuni et ses couleurs, loin de s’altérer par le temps, deviendront toujours plus vives et plus frappantes, parce qu’à mesure que le monde vieillit, la société se corrompt, et que l’hypocrisie des hommes sera toujours en raison de leur égoïsme et de leur perversité. Ce n’est ni la pièce d’une époque ni celle d’une nation, c’est celle de tous les siècles et de tons les pays avancés dans la civilisation ; c’est le tableau le plus hardi et le plus vrai, le plus triste et le plus sublime, c’est l’étude la plus profonde qu’un homme ait jamais faite sur les misères de l’humanité.</p>
-        <byline>
+        <signed>
           <hi rend="sc">Étienne.</hi>
-        </byline>
+        </signed>
       </div>
     </body>
   </text>

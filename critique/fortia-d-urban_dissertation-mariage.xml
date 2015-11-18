@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../../teibook/teibook.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/xsl" href="../../teipub/xsl/tei2html.xsl"?>
-<!--odt2tei: 2015-11-08T19:30:48+01:00-->
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
@@ -31,7 +30,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><author>Fortia d’Urban, Agricol-Joseph (1756-1843)</author>, « <title>Sur le mariage de Molière et sur Esprit de Raimond de Mormoiron, comte de Modène</title> », in <title><hi rend="i">Dissertation sur le passage du Rhône et des alpes par Annibal, l’an 218 avant notre ère</hi></title>, 3<hi rend="sup">e</hi> éd., <pubPlace>Paris</pubPlace>, <publisher>Treuttel et Wurtz</publisher>, <date>novembre 1821</date>, p. 131-151.</bibl>
+        <bibl><author>Fortia d'Urban, Agricol-Joseph-François-Xavier-Pierre-Esprit-Simon-Paul-Antoine (1756-1843)</author>, « Sur le mariage de Molière et sur Esprit de Raimond de Mormoiron, comte de Modène », in <title>Dissertation sur le passage du Rhône et des alpes par Annibal, l’an 218 avant notre ère</title>, 3<hi rend="sup">e</hi> éd., <pubPlace>Paris</pubPlace>, <publisher>Treuttel et Wurtz</publisher>, <date>novembre 1821</date>, p. 131-151.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -46,6 +45,7 @@
   <text>
     <body>
       <div>
+        <head>Sur le mariage de Molière et sur Esprit de Raimond de Mormoiron, comte de Modène</head>
         <p><pb n="131"/>Esprit de Raimond de Mormoiron, comte de Modène<note place="bottom">C’est le nom d’un fief acheté par son père, dans le comté Vénaissin, de Jean-Baptiste d’Ornano, et Marie de Raimond, dame de Montlaur, son épouse.</note>, est connu dans la république des lettres par une <hi rend="i">Histoire des révolutions de la ville et du royaume de Naples</hi><note place="bottom">Imprimée à Paris, en 3 vol. in-12 ; le premier volume en 1665, et les deux autres en 1667.</note>, où lui-même avait joué un très grand rôle, en sorte que cet ouvrage a l’intérêt qu’excite toujours un auteur qui parle des événements dont il a été le témoin, et auxquels il a pris part.</p>
         <p><pb n="132"/>Il est donc naturel que l’on veuille connaître les principaux traits de sa vie, et surtout celui qui en lie un fait très important à celle du célèbre Molière, sur lequel une dissertation curieuse qui vient d’être publiée par M. Beffara, a dirigé particulièrement notre attention.</p>
         <p>Parmi plusieurs erreurs commises par les biographes de Molière, M. Beffara croit devoir en relever une de laquelle je m’occuperai ici, et qui exige la connaissance détaillée de tout ce qui concerne le comte de Modène.</p>
@@ -70,7 +70,7 @@
         <p>Le 27 janvier 1821, M. Beffara, toujours infatigable dans ses recherches, a découvert l’extrait mortuaire de la veuve de Molière, sous la date du 2 décembre 1700. Elle y est appelée femme Guérin (Armande-Grésinde-Claire-Elisabeth Bejard), morte le 30 novembre, à l’âge de cinquante-cinq ans. Elle était logée rue de Touraine (paroisse Saint-Sulpice).</p>
         <p>Selon cet extrait mortuaire, mademoiselle Bejard serait née l’an 1645, sept ans après <pb n="150"/>l’accouchement de sa prétendue sœur : c’est-à-dire, que madame Bejard aurait fait un enfant sept ans après l’accouchement de sa fille. Peut-être cela est-il absolument possible ; mais il faut convenir que ce serait un fait extraordinaire. N’est-il pas plus vraisemblable qu’en altérant son existence civile, elle s’est supposée plus jeune qu’elle n’était réellement, et qu’en supprimant son extrait baptistaire elle était la maîtresse de le faire ? Tant que cet extrait baptistaire ne se trouvera point, il sera permis de le supposer, et la multiplicité des découvertes de M. Beffara est un argument de plus en faveur de la non existence de l’extrait mortuaire de Françoise et de l’extrait baptistaire d’Armande. En se faisant naître en 1645, madame Molière autorisait la calomnie de Montfleuri, qui était alors plausible. Elle se supposait mariée à dix-sept ans au lieu de vingt-quatre ; elle s’était retirée du théâtre dans un âge assez avancé, en 1694<note place="bottom"><hi rend="i">Dissertation</hi>, p. 23.</note>, à cinquante-six ans, et non à quarante-neuf, comme elle le prétendait, ce qui aurait été un âge prématuré pour cet objet.</p>
         <p>Tel est le point de vue sous lequel <pb n="151"/>j’envisage cette question, à laquelle j’ai été entraîné à consacrer plus de temps que je ne le voulais. Je déclare y avoir donné toute l’attention dont je suis capable. M. Beffara, par ses objections, m’a forcé d’éclaircir les moindres difficultés, et je lui ai l’obligation de les avoir bien connues. M. de la Porte, qui a composé l’article <hi rend="sc">Modène</hi>, dans la <hi rend="i">Biographie universelle</hi>, y a beaucoup contribué, dans les conférences que nous avons eues à ce sujet. M. Auger n’a pas cru devoir les examiner dans l’article Molière qu’il a composé pour ce même ouvrage ; mais il n’a sans doute qu’ajourné la question ; il pourra s’en occuper dans son édition des <hi rend="i">Œuvres</hi> de cet auteur, qui s’est rendu si intéressant dans les moindres détails de sa vie privée, et pour la postérité la plus reculée. Je crois ne pouvoir mieux faire que de m’en rapporter au jugement d’un éditeur aussi éclairé, et j’adopte d’avance sa décision.</p>
-        <byline>Le comte de F… d’U…</byline>
+        <signed>Le comte de F… d’U…</signed>
       </div>
     </body>
   </text>

@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../../teibook/teibook.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/xsl" href="../../teipub/xsl/tei2html.xsl"?>
-<!--odt2tei: 2015-11-08T19:30:48+01:00-->
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
@@ -33,7 +32,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><author>Picard, Louis-Benoît (1769-1828)</author>, « <title>Notice sur Molière</title> » [1825], in <title><hi rend="i">Œuvres complètes de Molière, précédées d’une notice par L. B. Picard, avec des notes et des éclaircissements historiques</hi></title>, nouvelle édition, tome I, <pubPlace>Paris</pubPlace>, <publisher>P. Pourrat frères</publisher>, <date>1838</date>, p. I-LV.</bibl>
+        <bibl><author>Picard, Louis-Benoît (1769-1828)</author>, « Notice sur Molière » [1825], in <title>Œuvres complètes de Molière, précédées d’une notice par L. B. Picard, avec des notes et des éclaircissements historiques</title>, nouvelle édition, tome I, <pubPlace>Paris</pubPlace>, <publisher>P. Pourrat frères</publisher>, <date>1838</date>, p. I-LV.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -48,16 +47,15 @@
   <text>
     <front>
       <div type="introduction">
-        <pb n="1"/>
         <head>Avertissement du nouvel éditeur</head>
-        <p>Cette édition nouvelle des <hi rend="i">Œuvres complètes de Molière</hi> est enrichie de plusieurs morceaux littéraires importants. Un ingénieux écrivain, dont la longue carrière dramatique a été semée de brillants succès, celui qui peut-être dans notre siècle, par la ressemblance des peintures, la gaieté franche et communicative, et la vérité d’observation, rappelle le plus l’inimitable Molière, M. Picard, a bien voulu se charger d’écrire la vie d’un grand homme dont il est, plus que tout autre, digne d’apprécier le génie.</p>
+        <p><pb n="1"/>Cette édition nouvelle des <hi rend="i">Œuvres complètes de Molière</hi> est enrichie de plusieurs morceaux littéraires importants. Un ingénieux écrivain, dont la longue carrière dramatique a été semée de brillants succès, celui qui peut-être dans notre siècle, par la ressemblance des peintures, la gaieté franche et communicative, et la vérité d’observation, rappelle le plus l’inimitable Molière, M. Picard, a bien voulu se charger d’écrire la vie d’un grand homme dont il est, plus que tout autre, digne d’apprécier le génie.</p>
         <p>Un autre littérateur, qui ne connaît point de rival dans les succès de l’esprit, et qui ne s’est pas moins illustré dans nos débats politiques que sur la scène française, M. Étienne, nous a permis de placer en tête du <hi rend="i">Tartuffe</hi> un morceau historique et littéraire au-dessus de tout éloge.</p>
         <p>À la suite de la notice de M. Picard on lit une histoire abrégée, mais suffisante, de la troupe dont Molière était le chef, et dont il suivit les diverses fortunes. On ne saurait trouver dépourvue <pb n="2"/>d’intérêt cette histoire, riche d’anecdotes et de faits curieux, qui jette une vive lumière sur les premières années de notre scène nationale.</p>
         <p>En regard de la nomenclature des personnages de chaque pièce, on a placé le nom des acteurs de la troupe de Molière qui ont rempli, ou, pour employer une expression reçue au théâtre, qui ont <hi rend="i">créé</hi> les différents rôles. Cette indication fidèle complète l’histoire de la troupe comique dirigée par Molière.</p>
         <p>Enfin quelques annotations indispensables ajoutées au texte éclaircissent les obscurités qu’il peut offrir de temps en temps, expliquent le sens d’un petit nombre d’expressions vieillies, qui ont dû être employées par Molière, parce qu’elles étaient, à l’époque où il écrivait, d’un usage fréquent dans la familiarité de la conversation.</p>
         <p>La tâche de l’éditeur des Œuvres de Molière a été rendue très difficile par l’incorrection presque incroyable des différentes éditions de ce grand poète. <quote>« Je puis affirmer, dit M. Auger dans l’avertissement de celle qu’il a publiée, que dans toutes les éditions, sans en excepter les plus belles et les plus estimées, le texte est scandaleusement défiguré ; et pour prouver cette assertion je n’ai besoin que de l’expliquer… Molière ne s’est jamais occupé de donner une édition de ses Œuvres. Celles de ses comédies qui avaient obtenu du <pb n="3"/>succès étaient imprimées séparément et à mesure, probablement d’après son manuscrit et sous ses yeux ; et ces éditions de pièces détachées se répétaient autant de fois que le besoin s’en faisait sentir. Ce n’est qu’en 1673, année de la mort de Molière, que ses œuvres furent réunies, en partie du moins ; et ce recueil fut entièrement conforme au texte des éditions séparées et originales. En 1682, c’est-à-dire neuf ans après la mort de ce grand homme, deux de ses amis, <hi rend="i">Vinot</hi> et <hi rend="i">Lagrange</hi>, entreprirent de donner une édition complète de ses comédies. Ils annoncèrent qu’elle était purgée de toutes les fautes que la négligence des imprimeurs avait laissé s’introduire dans les éditions précédentes ; mais ils ne dirent pas qu’elle eût été faite sur des manuscrits de Molière, ou sur des exemplaires corrigés de sa main… C’est donc à eux, à eux seuls qu’il faut attribuer les différences plus ou moins nombreuses qu’offre leur édition, comparée aux éditions originales. N’ayant point pour le texte de Molière ce respect que cent cinquante ans de culte rendu à son génie ont imprimé dans nos esprits, ils firent tous les changements que leur suggéra leur caprice, ou que la volonté des comédiens avait introduits dans la représentation, etc.<note place="bottom"><hi rend="i">Œuvres complètes de Molière</hi>, publiées avec un commentaire par M. Auger. (Paris, Desoer, 1819.) Tome I, page 18 de l’avertissement.</note>.»</quote></p>
         <p><pb n="4"/>Nos soins particuliers se sont naturellement portés sur la correction du texte de Molière. Le travail scrupuleux de M. Auger nous a servi de base, et nous avons consulté en même temps les éditions originales. L’édition publiée en 6 vol., petit in-12, par Wettstein (Amsterdam, 1691), nous a fourni des corrections utiles. Enfin nous nous sommes environnés de tous les conseils et de tous renseignements qu’il nous a été possible de réunir ; et nous espérons être arrivés à un degré d’exactitude qui distinguera cette édition de la plupart de celles qui l’ont précédée.</p>
-        <byline><docAuthor key="Thiessé, Léon (1793-1854)" ref="http://www.idref.fr/101280181">Léon <hi rend="sc">Thiessé</hi></docAuthor>.</byline>          
+        <byline><docAuthor key="Thiessé, Léon (1793-1854)">Léon <hi rend="sc">Thiessé</hi></docAuthor>.</byline>
       </div>
     </front>
     <body>
@@ -333,15 +331,15 @@
             <p>Cette actrice était femme de Duparc, connu au théâtre sous le nom de <hi rend="i">Gros-René</hi>. Elle s’engagea avec son mari dans la troupe <pb n="LII"/>de Molière lorsque ce dernier partit pour la province, et parut avec succès dans les seconds rôles tragiques et comiques. Elle joignit au talent de la déclamation et du jeu de théâtre celui de la danse.</p>
             <p>Mademoiselle Duparc revint avec Molière et sa troupe à Paris, en 1658, et réussit encore plus sur le théâtre du Petit-Bourbon, et sur celui du Palais-Royal, que dans les différentes villes du royaume qu’elle avait parcourues. Molière l’estimait beaucoup : on en trouve la preuve dans la première scène de son <hi rend="i">Impromptu de Versailles</hi>. Voici le passage :</p>
             <quote>
-              <label>Molière<stage>, parlant à Mademoiselle Duparc</stage>.</label>
+              <label type="speaker">Molière<stage>, parlant à Mademoiselle Duparc</stage>.</label>
               <p>Pour vous, mademoiselle...</p>
-              <label>Mademoiselle Duparc.</label>
+              <label type="speaker">Mademoiselle Duparc.</label>
               <p>Mon dieu ! pour moi, je m’acquitterai fort mal de mon personnage, et je ne sais pas pourquoi vous m’avez donné ce rôle de façonnière.</p>
-              <label>Molière.</label>
+              <label type="speaker">Molière.</label>
               <p>Mon dieu, Mademoiselle ! voilà comme vous disiez lorsqu’on vous donna celui de <hi rend="i">La Critique de l’École des femmes</hi> ; cependant vous vous.cn êtes acquittée à merveille, et tout le monde est demeuré d’accord qu’on ne peut pas mieux faire que vous avez fait. Croyez-moi, celui-ci sera de même, et vous le jouerez mieux que vous ne pensez.</p>
-              <label>Mademoiselle Duparc.</label>
+              <label type="speaker">Mademoiselle Duparc.</label>
               <p>Comment cela se pourrait-il faire ? car il n’y a point de personne au monde qui soit moins façonnière que moi.</p>
-              <label>Molière.</label>
+              <label type="speaker">Molière.</label>
               <p>Cela est vrai ; et c’est en quoi vous faites mieux voir que vous êtes une excellente comédienne, de bien représenter un personnage qui est si contraire à votre humeur.</p>
             </quote>
             <p>Le rôle d’Axiane, que mademoiselle Duparc joua dans la tragédie d’<hi rend="i">Alexandre</hi> de Racine, lui fit beaucoup d’honneur, et cet illustre poète fut si frappé de ses talents, qu’il forma le dessein de la faire passer à l’Hôtel de Bourgogne, où il avait résolu de donner ses ouvrages ; il en fit faire la proposition à mademoiselle <pb n="LIII"/>Duparc, qui l’accepta. Elle fut chargée du rôle d’Andromaque qu’elle rendit supérieurement. Des connaisseurs, trop sévères peut-être, prétendirent que c’était le seul rôle que mademoiselle Duparc avait bien rendu, et que, dans tous les autres, sa beauté et ses grâces avaient fait tout son succès ; cependant sa perte causa de vifs regrets aux amateurs du théâtre et à ses camarades. Mademoiselle Duparc mourut le 11 décembre 1668. Voici de quelle façon Robinet décrit l’enterrement de cette actrice :</p>
@@ -405,7 +403,7 @@
               <l>Si l’on voulait l’aimer pour rien.</l>
             </quote>
             <p>La veuve de La Grange avait été femme de chambre de mademoiselle de Brie : on la nommait Marotte.</p>
-            <byline><hi rend="sc">L. B. Picard</hi>.</byline>
+            <signed><hi rend="sc">L. B. Picard</hi>.</signed>
           </div>
         </div>
       </div>
