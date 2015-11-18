@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../teibook/teibook.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../teipub/xsl/tei2html.xsl"?>
+<!--odt2tei: 2015-11-08T19:30:48+01:00-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>M. Eugène Sauzay et Molière.</title>
+        <author key="Blaze de Bury, Henri (1813-1888)">Henri Blaze de Bury</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL</edition>
+        <respStmt>
+          <name>Camille Fréjaville </name>
+          <resp>OCR, Stylage sémantique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2015"/>
+        <idno>http ://obvil.paris-sorbonne.fr/corpus/moliere/critique/blaze-de-bury_musique-molière</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><author>F. de Lagenevais [Blaze de Bury Henri (1813-1888)]</author>, « <title>Revue musicale. M. Eugène Sauzay et Molière</title> », <title><hi rend="i">Revue des deux mondes</hi></title>, 3<hi rend="sup">e</hi> période, tome XLIX, <date>1<hi rend="sup">er</hi> janvier 1882</date>, p. 207-209.</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1882"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <pb n="207"/>
+        <p>La musique a pris dans nos mœurs une telle place que nous nous ingénions à la trouver partout. Ce que les drames et les comédies de Shakespeare en contiennent, on l’a dit à cette place, il y a déjà bien des années<note place="bottom">« <stage>La musique des drames de Shakespeare », 15 janvier 1835.</stage></note>. Interroger également Molière sur ce point devait tenter un musicien. Le sujet, si intéressant qu’il soit, n’était pourtant point absolument neuf, attendu qu’il existe un gros livre d’une érudition énorme, tout rempli, tout farci d’anecdotes et de dates, intitulé : <hi rend="i">Molière musicien</hi>, auquel les habiles du métier ne se font point scrupule de recourir, quittes à le décrier après l’avoir dévalisé. C’est de manière épisodique, et non plus d’ensemble, que le nouveau commentateur étudie la question ; <hi rend="i">Le Sicilien, ou l’Amour peintre</hi> sert de texte non seulement à son discours, mais à sa musique, car ce charmant volume, sorti des presses de Didot, enrichi d’images du temps, enguirlandé, illustré d’arabesques, estampillé de croches et de doubles-croches, fleure : l’art par toutes ses pages. <quote>« Notre côté à nous n’est pas celui de tout le monde, c’est simplement le Molière des divertissements et des intermèdes, le Molière librettiste, collaborateur de Lulli, écrivant pour <hi rend="i">Le Sicilien</hi>, ce qu’il nomme “un fragment de comédie”. Comédie à trois voix, suivie de deux divertissements chantés et dansés ; côté <pb n="208"/> modeste et toutefois charmant, devant lequel le lecteur passe trop souvent sans le voir, mais sur lequel s’arrête volontiers le musicien »</quote>, surtout, ajouterons-nous à notre tour, quand le musicien est un de ces fins lettrés que la fréquentation des bons auteurs et la pratique du meilleur monde ont formés de longue main aux travaux de ce genre. M. Sauzay nous raconte d’abord les origines du <hi rend="i">Sicilien</hi> ; viennent ensuite les renseignements et les détails rétrospectifs : théâtres, acteurs, costumes, décors, mise en scène, musiciens et musique, y compris celle de Lulli et, comme complément de la représentation, le compte-rendu des journaux du temps. Quant à la coupe de la pièce, au rôle important donné à la musique, à la manière dont elle intervient dans le dialogue, on y peut voir le modèle de ce que nous appelons aujourd’hui l’opéra-comique. Ainsi envisagé, <hi rend="i">Le Sicilien</hi> nous ramène à la question musicale, et l’on se demande avec l’auteur de l’<hi rend="i">Essai</hi> si Molière a trouvé l’équivalent de son œuvre dans la musique de Lulli. Il suffira pour acquérir la preuve du contraire de se représenter l’œuvre du poète rayonnante encore de jeunesse et d’éclat à l’heure où nous sommes, tandis que la musique de son collaborateur est passée à l’état archéologique. Aussi Noverre ne s’y trompait pas lorsqu’il écrivait dans ses <hi rend="i">Lettres sur la danse</hi> : <quote>« Dussé-je me faire une foule d’ennemis sexagénaires, je dirai que la musique dansante de Lulli est froide, langoureuse et sans caractère. » </quote>À la vérité, le grand roi n’aimait et ne voulait que cette danse emperruquée ; à ses yeux comme à ses oreilles, un seul genre était bon : le genre ennuyeux. Faire autrement, faire leste et gai, c’eût été manquer de convenance, et Lulli, déjà porté aux respectueuses lenteurs du solennel et du pompeux galant, ne tendait que trop à s’associer aux habitudes de la cour. Tel était le système du règne, l’artiste et ses créations faisaient partie d’un ensemble inflexible. Tout ce qui alors écrivait, parlait, chantait ou dansait, devait se subordonner au caprice d’un monarque qui ne daignait lui-même s’amuser qu’à la condition de prélever une énorme somme d’adulations sur le divertissement de ses sujets.</p>
+        <quote>
+          <l> Jupiter dit un jour : Que tout ce qui respire, </l>
+          <l> S’en vienne comparaître aux pieds de ma grandeur. </l>
+        </quote>
+        <p>Quel dommage que quelqu’un de nos petits-maîtres du commencement du siècle n’ait pas mis en musique cette agréable comédie de tuteur trompé qui devançait de cent ans <hi rend="i">Le Barbier de Séville</hi> ! À défaut de Dalayrac, de Nicolo, de Boïeldieu, d’autres plus tard y songèrent, mais sans meilleur profit, aucune de leurs partitions n’étant restée. M. Eugène Sauzay cite l’ouvrage de Justin Cadeaux, <quote>« représenté à l’Opéra-Comique »</quote>. Ce n’est pas représenté qu’il faut dire, c’est tout simplement présenté, car cet ouvrage, reçu d’abord et même goûté de <pb n="209"/> M. Perrin, ne fut jamais joué. Ce Justin Cadeaux était un brave homme, chef de copie à l’Opéra et peu fortuné. L’idée, ingénieusement exploitée depuis, et par M. Gounod dans <hi rend="i">Le Médecin malgré lui</hi> et par M. Poise dans <hi rend="i">L’Amour médecin</hi>, de transformer en opéras comiques les petites pièces de Molière, l’avait entrepris le premier. Meyerbeer, Auber, Mermet s’intéressaient à lui, et sa miniature passait presque pour un bijou ; mais que voulez-vous ? M. Perrin avait quitté l’Opéra-Comique, et c’était Nestor Roqueplan qui tenait la place. Personne plus que cet homme d’esprit, le plus aimable et le plus abominable des directeurs, ne s’entendait à éconduire un solliciteur. « Je vous conseille, monsieur, répondait-il un jour à Maillart, d’aller, en sortant d’ici, vous jeter par la fenêtre d’un cinquième étage, vous et votre partition. Si vous ne vous tuez pas du coup, vous passerez indubitablement pour un phénomène ; les journaux et le public s’occuperont de vous et à ce titre moi je vous jouerai, mais comme phénomène, entendons-nous bien, et jamais comme prix de Rome ! » Où l’auteur des <hi rend="i">Dragons de Villars</hi> avait échoué, le pauvre Justin Cadeaux ne pouvait s’attendre à meilleure chance. Auber voulut s’en mêler, et Roqueplan lui ferma la bouche en lui disant : « Qu’est-ce que cela vous fait que je monte <hi rend="i">Le Sicilien</hi> ? Vous m’assurez que Justin Cadeaux est un bon enfant, mais Cadet-Roussel aussi est bon enfant, et vous ne me demandez pas de jouer ses opéras comiques ! » Ce que cette partition est devenue, Dieu le sait, mais en revanche, nous savons tous que le musicien est devenu fou et qu’il est mort à l’hôpital. <quote><hi rend="i">Alas poor Yorick</hi> !</quote> Une mélancolique et sombre histoire que celle-là et dont les rythmes légers et tendres, les élégances harmoniques de M. Sauzay, appliquant à la partie musicale du <hi rend="i">Sicilien</hi> les ressources variées de l’art moderne, vont heureusement nous distraire, car ce galant volume a double emploi ; le lettré s’en accommode aussi bien que l’amateur de musique : moliéristes et mozartistes y trouvent leur compte, et si vous avez les deux dilettantismes, après l’avoir lu au coin du feu, vous goûterez un égal plaisir à le déchiffrer au piano.</p>
+      </div>
+    </body>
+  </text>
+</TEI>
