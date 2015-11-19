@@ -27,10 +27,34 @@
   <file href="../critique/la-grange/la-grange_preface.xml"/>
   <!-- 1739 -->
   <file href="../critique/voltaire/voltaire_vie-moliere.xml"/>
+  <!-- 1808 -->
+  <file href="critique/schlegel_cours-moliere.xml"/><!-- 2015-11-19 -->
+  <!-- 1819 -->
+  <file href="critique/anonyme_deux-pieces.xml"></file><!-- 2015-11-19 -->
+  <!-- 1821 -->
+  <file href="critique/moreau-de-commagny_scene-ajoutee.xml"/>
+  <file href="critique/fortia-d-urban_dissertation-mariage.xml"/><!-- 2015-11-19 -->
+  <!-- 1824 -->
+  <file href="critique/etienne_notice-tartuffe.xml"/><!-- 2015-11-19 -->
+  <!-- 1825 -->
+  <file href="critique/picard_notice-moliere.xml"/><!-- 2015-11-19 -->
+  <!-- 1852 -->
+  <file href="critique/geruzez-moliere.xml"/><!-- 2015-11-19 -->
+  <!-- 1879 -->
+  <file href="critique/houssaye_comediennes-moliere.xml"/><!-- 2015-11-19 -->
+  <!-- 1881 -->
+  <file href="critique/janet_philosophie-moliere.xml"/><!-- 2015-11-19 -->
+  <!-- 1882 -->
+  <file href="critique/blaze-de-bury_sauzay-et-moliere.xml"/><!-- 2015-11-19 -->
+  <file href="critique/merlet_moliere.xml"/><!-- 2015-11-19 -->
+  <!-- 1884 -->
+  <file href="critique/baluffe_moliere-et-allemands.xml"/><!-- 2015-11-19 -->
   <!-- 1910 -->
   <file href="../critique/faguet/faguet_rousseau-contre-moliere.xml"/>
   <!-- 1900 -->
   <file href="../critique/bergson/bergson_rire.xml"/>
+  <!-- 1901 -->
+  <file href="critique/canora_moliere-moraliste.xml"/><!-- 2015-11-19 -->
   <!-- 1914 -->
   <file href="../critique/faguet/faguet_en-lisant-moliere.xml"/>
   <file href="critique/aderer_femmes-comedies.xml"/>
@@ -89,4 +113,6 @@
   <file href="critique/vanhollebeke_etude-moliere.xml"/>
   <file href="critique/veuillot_moliere-bourdaloue.xml"/>
   <file href="critique/vuillemin_corneille-racine-moliere.xml"/>
+  <!-- 1922 -->
+  <file href="critique/gendarme-de-bevotte_popularite-moliere.xml"/>
 </cat>
