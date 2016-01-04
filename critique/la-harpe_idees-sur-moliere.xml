@@ -7,7 +7,7 @@
     <fileDesc>
       <titleStmt>
         <title>Idées sur Molière</title>
-        <author key="de La Harpe, Jean-François (1739-1803)">Jean-François de La Harpe</author>
+        <author key="La Harpe, Jean-François de (1739-1803)">Jean-François de La Harpe</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
@@ -37,12 +37,12 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><author>Jean-François de La Harpe</author>, <title>Idées sur Molière</title>, in <hi rend="i">Œuvres de La Harpe</hi>, <pubPlace>Paris</pubPlace>, <date>1820</date>.</bibl>
+        <bibl><author>Jean-François de La Harpe</author>, <title>Idées sur Molière [1769]</title>, in <hi rend="i">Œuvres de La Harpe</hi>, <pubPlace>Paris</pubPlace>, <date>1820</date>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
       <creation>
-        <date when="1820"/>
+        <date when="1769"/>
       </creation>
       <langUsage>
         <language ident="fr"/>
