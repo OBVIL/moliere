@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../teibook/teibook.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Œuvres diverses [extraits]</title>
+        <author key="Boileau, Nicolas (1636-1711)">Nicolas Boileau</author>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL</edition>
+        <respStmt>
+          <name>Marc Douguet </name>
+          <resp>Stylage sémantique</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
+        <date when="2016"/>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/moliere/critique/boileau_oeuvres/</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2016 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl><author>Boileau, Nicolas (1636-1711)</author>, <title>Œuvres diverses du sieur D*** avec le Traité du sublime ou du merveilleux dans le discours, traduit du grec de Longin. Nouvelle Edition revue et augmentée</title>, <pubPlace>Paris</pubPlace>, <publisher>Denis Thierry</publisher>, <date>1692</date></bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1692"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head>SATIRE II<lb/>À MONSIEUR <lb/>DE MOLIÈRE</head>
+        <l><pb n="14"/> Rare et fameux Esprit, dont la fertile veine</l>
+        <l>Ignore en écrivant le travail et la peine ;</l>
+        <l>Pour qui tient Apollon tous ses trésors ouverts,</l>
+        <l>Et qui sais à quel coin se marquent les bons vers.</l>
+        <l>Dans les combats d’esprit, savant Maître d’escrime,</l>
+        <l>Enseigne-moi, Molière, où tu trouves la Rime.</l>
+        <l>On dirait, quand tu veux, qu’elle te vient chercher :</l>
+        <l>Jamais au bout du vers on ne te voit broncher ;</l>
+        <l>Et sans qu’un long détour t’arrête, ou t’embarrasse,</l>
+        <l>À peine as-tu parlé, qu’elle même s’y place.</l>
+        <l>Mais moi qu’un vain caprice, une bizarre humeur,</l>
+        <l>Pour mes péchés, je crois, fit devenir Rimeur :</l>
+        <l>Dans ce rude métier, où mon esprit se tue,</l>
+        <l>En vain pour la trouver, je travaille, et je sue.</l>
+        <l>Souvent j’ai beau rêver du matin jusqu’au soir,</l>
+        <l><pb n="15"/> Quand je veux dire <hi rend="i">blanc</hi>, la quinteuse dit <hi rend="i">noir</hi> :</l>
+        <l>Si je veux d’un galant dépeindre la figure,</l>
+        <l>Ma plume pour rimer trouve l’Abbé de Pure :</l>
+        <l>Si je pense exprimer un Auteur sans défauts,</l>
+        <l>La raison dit Virgile, et la Rime Kainaut.</l>
+        <l>Enfin quoi que je fasse, ou que je veuille faire,</l>
+        <l>La bizarre toujours vient m’offrir le contraire.</l>
+        <l>De rage quelquefois ne pouvant la trouver,</l>
+        <l>Triste, las, et confus, je cesse d’y rêver :</l>
+        <l>Et maudissant vingt fois le Démon qui m’inspire,</l>
+        <l>Je fais mille serments de ne jamais écrire :</l>
+        <l>Mais quand j’ai bien maudit et Muses et Phébus,</l>
+        <l>Je la vois qui paraît, quand je n’y pense plus.</l>
+        <l>Aussitôt, malgré moi, tout mon feu se rallume :</l>
+        <l>Je reprends sur-le-champ le papier et la plume,</l>
+        <l>Et de mes vains serments perdant le souvenir,</l>
+        <l>J’attends de vers en vers qu’elle daigne venir,</l>
+        <l>Encor, si pour rimer, dans sa verve indiscrète,</l>
+        <l>Ma Muse au moins souffrait une froide épithète :</l>
+        <l>Je ferais comme un autre ; et sans chercher si loin,</l>
+        <l>J’aurais toujours des mots pour les coudre au besoin.</l>
+        <l>Si je louais Philis, <hi rend="i">En miracles féconde</hi> ;</l>
+        <l>Je trouverais bientôt, À <hi rend="i">nulle autre seconde.</hi></l>
+        <l>Si je voulais vanter un objet <hi rend="i">Nonpareil</hi> ;</l>
+        <l>Je mettrais à l’instant, <hi rend="i">Plus beau que le Soleil.</hi></l>
+        <l>Enfin parlant toujours d’<hi rend="i">Astres</hi>, et de <hi rend="i">Merveilles</hi></l>
+        <l><pb n="16"/> De <hi rend="i">Chef-d’œuvres des Cieux</hi>, de <hi rend="i">Beautés sans pareilles</hi>,</l>
+        <l>Avec tous ces beaux mots souvent mis aux hasard,</l>
+        <l>Je pourrais aisément, sans génie, et sans art,</l>
+        <l>Et transposant cent fois et le Nom et le Verbe,</l>
+        <l>Dans mes vers recousus mettre en pièce Malherbe.</l>
+        <l>Mais mon esprit tremblant sur le choix de ses mots,</l>
+        <l>N’en dira jamais un, s’il ne tombe à propos :</l>
+        <l>Et ne saurait souffrir, qu’une phrase insipide</l>
+        <l>Vienne à la fin d’un vers remplir la place vide.</l>
+        <l>Ainsi, recommençant un ouvrage vingt fois,</l>
+        <l>Si j’écris quatre mots, j’en effacerai trois.</l>
+        <l>Maudit soit le premier dont la verve insensée</l>
+        <l>Dans les bornes d’un vers renferma la pensée,</l>
+        <l>Et donnant à ses mots une étroite prison,</l>
+        <l>Voulut avec la rime enchaîner la Raison.</l>
+        <l>Sans ce métier fatal au repos de ma vie,</l>
+        <l>Mes jours, pleins de loisir couleraient sans envie,</l>
+        <l>Je n’aurais qu’à chanter, rire, boire d’autant ;</l>
+        <l>Et comme un gras Chanoine, à mon aise, et content,</l>
+        <l>Passer tranquillement, sans souci, sans affaire,</l>
+        <l>La nuit à bien dormir, et le jour à rien faire,</l>
+        <l>Mon cœur exempt de soins, libre de passion,</l>
+        <l>Sait donner une borne à son Ambition,</l>
+        <l>Et suivant des grandeurs la présence importune,</l>
+        <l>Je ne vais point au Louvre adorer la Fortune :</l>
+        <l><pb n="17"/> Et je serais heureux, si, pour me consumer,</l>
+        <l>Un destin envieux ne m’avait fait rimer.</l>
+        <l>Mais depuis le moment que cette frénésie,</l>
+        <l>De ses noires vapeurs troubla ma fantaisie,</l>
+        <l>Et qu’un Démon jaloux de mon contentement,</l>
+        <l>M’inspira le dessein d’écrire poliment :</l>
+        <l>Et tel, dont en tous lieux chacun vante l’esprit,</l>
+        <l>Voudrait pour son repos n’avoir jamais écrit.</l>
+        <l>Tous les jours malgré moi, cloué sur un ouvrage,</l>
+        <l>Retouchant un endroit, effaçant une page,</l>
+        <l>Enfin passant ma vie en ce triste métier,</l>
+        <l>J’envie en écrivant le sort de Pelletier.</l>
+        <l>Bienheureux Scuderi dont la fertile plume</l>
+        <l>Peut tous les mois sans peine enfanter un Volume :</l>
+        <l>Tes écrits, il est vrai, sans art et languissants,</l>
+        <l>Semblent être formés en dépit du bon sens ;</l>
+        <l>Mais ils trouvent pourtant, quoi qu’on en puisse dire,</l>
+        <l>Un Marchand pour les vendre, et des Sots pour les lire ;</l>
+        <l>Et quand la rime enfin se trouve au bout des vers,</l>
+        <l>Qu’importe que le reste y soit mis de travers ?</l>
+        <l>Malheureux mille fois celui, dont la manie</l>
+        <l>Veut aux règles de l’Art asservir son génie !</l>
+        <l>Un Sot en écrivant fait tout avec plaisir :</l>
+        <l>Il n’a point en ses vers l’embarras de choisir :</l>
+        <l>Et toujours amoureux de ce qu’il vient d’écrire,</l>
+        <l><pb n="18"/> Ravi d’étonnement, en soi-même il s’admire.</l>
+        <l>Mais un esprit sublime, en vain veut s’élever</l>
+        <l>À ce degré parfait qu’il tâche de trouver :</l>
+        <l>Et toujours mécontent de ce qu’il vient de faire :</l>
+        <l>Il plaît à tout le monde, et ne saurait se plaire ;</l>
+        <l>Toi donc qui vois les maux où ma Muse s’abîme,</l>
+        <l>De grâce, enseigne-moi l’art de trouver la Rime :</l>
+        <l>Ou, puisqu’enfin tes soins y seraient superflus,</l>
+        <l>Molière, enseigne-moi l’Art de ne rimer plus.</l>
+      </div>
+      <div>
+        <head>ÉPÎTRE VII<lb/>À MONSIEUR<lb/>RACINE</head>
+        <l><pb n="155"/> Que tu sais bien, Racine, à l’aide d’un Acteur</l>
+        <l>Émouvoir, étonner, ravir un Spectateur !</l>
+        <l>Jamais Iphigénie en Aulide immolée</l>
+        <l>N’a coûté tant de pleurs à la Grèce assemblée,</l>
+        <l>Que dans l’heureux spectacle à nos yeux étalé</l>
+        <l>N’en a fait sous son nom verser la Chanmeslé.</l>
+        <l>Ne crois pas toutefois, par tes savants ouvrages,</l>
+        <l>Entraînant tous les cœurs gagner tous les suffrages.</l>
+        <l>Si tôt que d’Apollon un génie inspiré</l>
+        <l>Trouve loin du vulgaire un chemin ignoré,</l>
+        <l>En cent lieux contre lui les cabales s’amassent,</l>
+        <l>Ses Rivaux obscurcis autour de lui croassent,</l>
+        <l>Et son trop de lumière importunant les yeux</l>
+        <l>De ses propres Amis lui fait des Envieux.</l>
+        <l>La mort seule ici bas, en terminant sa vie,</l>
+        <l>Peut calmer sur son nom l’injustice et l’envie,</l>
+        <l>Faire au poids du droit sens peser tous ses écrits,</l>
+        <l><pb n="156"/> Et donner à ses vers leur légitime prix.</l>
+        <l>Avant qu’un peu de terre obtenu par prière</l>
+        <l>Pour jamais sous la tombe eût enfermé Molière,</l>
+        <l>Mille de ces beaux traits aujourd’hui si vantés</l>
+        <l>Furent des sots Esprits à nos yeux rebutés.</l>
+        <l>L’Ignorance et l’Erreur à ses naissantes pièces</l>
+        <l>En habit de Marquis, en robes de Comtesses</l>
+        <l>Venaient pour diffamer son chef-d’œuvre nouveau,</l>
+        <l>Et secouaient la tête à l’endroit le plus beau.</l>
+        <l>Le Commandeur voulait la scène plus exacte.</l>
+        <l>Le Vicomte indigné sortait au second acte.</l>
+        <l>L’un défenseur zélé des Bigots mis en jeu,</l>
+        <l>Pour prix de ses bons mots, le condamnait au feu.</l>
+        <l>L’autre, fougueux Marquis lui déclarant la guerre</l>
+        <l>Voulait venger la Cour immolée au parterre.</l>
+        <l>Mais sitôt que, d’un trait de ses fatales mains</l>
+        <l>La Parque l’eût rayé du nombre des Humains ;</l>
+        <l>On reconnut le prix de sa Muse éclipsée.</l>
+        <l>L’aimable Comédie avec lui terrassée</l>
+        <l>En vain d’un coup si rude espéra revenir,</l>
+        <l>Et sur ses brodequins ne put plus se tenir.</l>
+        <l>Tel fut chez nous le sort du Théâtre Comique.</l>
+        <l>Toi donc, qui t’élevant sur la Scène Tragique</l>
+        <l>Suis les pas de Sophocle, et seul de tant d’Esprits</l>
+        <l>De Corneille vieilli sais consoler Paris,</l>
+        <l>Cesse de t’étonner, si l’Envie animée</l>
+        <l><pb n="157"/> Attachant à ton nom sa rouille envenimée,</l>
+        <l>La calomnie en main, quelquefois te poursuit.</l>
+        <l>En cela comme en tout le Ciel qui nous conduit,</l>
+        <l>Racine, fait briller la profonde sagesse.</l>
+        <l>Le Mérite en repos s’endort dans la paresse :</l>
+        <l>Mais par les Envieux un génie excité</l>
+        <l>Au comble de son art est mille fois monté</l>
+        <l>Plus on veut l’affaiblir, plus il croît et s’élance.</l>
+        <l>Au Cid persécuté, Cinna doit la naissance,</l>
+        <l>Et peut-être ta plume aux Censeurs de Syrrhus</l>
+        <l>Doit les plus nobles traits dont tu peignis Burrhus.</l>
+        <l>Moi-même, dont la gloire ici moins répandue</l>
+        <l>Des pâles Envieux ne blesse point la vue,</l>
+        <l>Mais qu’une humeur trop libre, un esprit peu soumis</l>
+        <l>De bonne heure a pourvu d’utiles Ennemis :</l>
+        <l>Je dois plus à leur haine, il faut que je l’avoue,</l>
+        <l>Qu’au faible et vain talent dont la France me loue.</l>
+        <l>Leur venin qui sur moi brûle de s’épancher,</l>
+        <l>Tous les jours en marchant m’empêche de broncher.</l>
+        <l>Je songe à chaque trait que ma plume hasarde,</l>
+        <l>Que d’un œil dangereux leur troupe me regarde :</l>
+        <l>Je sais sur leurs avis corriger mes erreurs,</l>
+        <l>Et je mets à profit leurs malignes fureurs.</l>
+        <l>Sitôt que sur un vice ils pensent me confondre,</l>
+        <l>C’est en m’en guérissant que je sais leur répondre :</l>
+        <l>Et plus en criminel ils pensent m’ériger,</l>
+        <l><pb n="158"/> Plus croissant en vertu je songe à me venger.</l>
+        <l>Imite mon exemple ; et lorsqu’une Cabale,</l>
+        <l>Un tas de vains Auteurs follement te ravale,</l>
+        <l>Profite de leur haine, et de leur mauvais sens :</l>
+        <l>Ris du bruit passager de leurs cris impuissants.</l>
+        <l>Que peut contre tes vers une ignorance vaine ?</l>
+        <l>Le Parnasse Français anobli par ta veine</l>
+        <l>Contre tous ces complots saura te maintenir.</l>
+        <l>Et soulever pour toi l’équitable Avenir.</l>
+        <l>Et qui voyant un jour la douleur vertueuse</l>
+        <l>De Phèdre malgré soi perfide, incestueuse,</l>
+        <l>D’un si noble travail justement étonné,</l>
+        <l>Ne bénira d’abord le siècle fortuné</l>
+        <l>Qui rendu plus fameux par tes illustres veilles</l>
+        <l>Vit naître sous ta main ces pompeuses merveilles ?</l>
+        <l>Cependant laisse ici gronder quelques Censeurs,</l>
+        <l>Qu’aigrissent de tes vers les charmantes douceurs.</l>
+        <l>Et qu’importe à nos vers que Perrin les admire ?</l>
+        <l>Que l’Auteur du Jonas s’empresse pour les lire ?</l>
+        <l>Pourvu qu’ils sachent plaire au plus puissant des Rois :</l>
+        <l>Qu’à Chantilli Condé les souffre quelquefois ;</l>
+        <l>Qu’Enguien en soit touché, que Colbert, et Vivone,</l>
+        <l>Que la Rochefoucaut, Marsillac, et Pompone,</l>
+        <l>Et mille autres qu’ici je ne puis faire entrer,</l>
+        <l>À leurs traits délicats se laissent pénétrer.</l>
+        <l><pb n="159"/> Et plût au Ciel encor, pour couronner l’ouvrage</l>
+        <l>Que Montauzier voulût leur donner son suffrage.</l>
+        <l>C’est à de tels Lecteurs que j’offre mes écrits.</l>
+        <l>Mais pour un tas grossier de frivoles Esprits</l>
+        <l>Admirateurs zélés de toute œuvre insipide,</l>
+        <l>Que non loin de la place, ou Brioché préside,</l>
+        <l>Sans chercher dans les vers ni cadence ni son,</l>
+        <l>Il s’en aille admirer le savoir de I***</l>
+      </div>
+      <div>
+        <head>L’Art poétique, chant III, v. 359-428</head>
+        <l><pb n="257"/> Que la Nature donc soit votre étude unique,</l>
+        <l>Auteurs, qui prétendez aux honneurs du Comique.</l>
+        <l>Quiconque voit bien l’Homme, et d’un esprit profond</l>
+        <l>De tant de cœurs cachés a pénétré le fond ;</l>
+        <l>Qui sait bien ce que c’est qu’un Prodigue, un Avare,</l>
+        <l>Un honnête Homme, un Fat, un Jaloux, un Bizarre,</l>
+        <l>Sur une scène heureuse il peut les étaler,</l>
+        <l>Et les faire à nos yeux vivre, agir, et parler.</l>
+        <l>Présentez-en partout les images naïves ;</l>
+        <l>Que chacun y soit peint des couleurs les plus vives.</l>
+        <l>La Nature féconde en bizarres portraits,</l>
+        <l>Dans chaque âme est marquée à de différents traits.</l>
+        <l>Un geste la découvre, un rien la fait paraître :</l>
+        <l>Mais tout esprit n’a pas des yeux pour la connaître.</l>
+        <l><pb n="258"/> Le temps qui change tout, change aussi nos humeurs.</l>
+        <l>Chaque Âge a ses plaisirs, son esprit, et ses mœurs.</l>
+        <l>Un jeune homme toujours bouillant dans ses caprices</l>
+        <l>Est prompt à recevoir l’impression des vices,</l>
+        <l>Est vain dans ses discours, volage en ses désirs,</l>
+        <l>Rétif à la censure, et fou dans les plaisirs.</l>
+        <l>L’Âge vieil plus mûr, inspire un air plus sage,</l>
+        <l>Se pousse auprès des Grands, s’intrigue, se ménage,</l>
+        <l>Contre les coups du sort, songe à se maintenir,</l>
+        <l>Et loin dans le présent regarde l’avenir.</l>
+        <l>La Vieillesse chagrine incessamment amasse,</l>
+        <l>Garde non pas pour soi, les trésors qu’elle entasse ;</l>
+        <l>Marche en tous ses desseins d’un pas lent et glacé,</l>
+        <l>Toujours plaint le présent, et vante le passé,</l>
+        <l>Inhabile aux plaisirs, dont la jeunesse abuse,</l>
+        <l>Blâme en eux les douceurs, que l’Âge lui refuse.</l>
+        <l>Ne faites point parler vos Acteurs au hasard,</l>
+        <l>Un Vieillard en jeune Homme, un jeune Homme en Vieillard</l>
+        <l>Étudiez la Cour, et connaissez la Ville,</l>
+        <l>L’une et l’autre est toujours en modèles fertile.</l>
+        <l>C’est par là que Molière illustrant ses écrits</l>
+        <l>Peut-être de son Art eût remporté le prix ;</l>
+        <l>Si moins ami du peuple en ses doctes peintures,</l>
+        <l>Il n’eût point fait souvent grimacer ses figures,</l>
+        <l><pb n="259"/> Quitté pour le bouffon, l’agréable et le fin,</l>
+        <l>Et sans honte à Térence allié Tabarin.</l>
+        <l>Dans ce sac ridicule où <note place="bottom">Comédie de Molière.</note> Scapin s’enveloppe,</l>
+        <l>Je ne reconnais plus l’Auteur du Misanthrope.</l>
+        <l>Le Comique ennemi des soupirs et des pleurs</l>
+        <l>N’admet point en les vers de tragiques douleurs ;</l>
+        <l>Mais son emploi n’est pas d’aller dans une place,</l>
+        <l>De mots sales et bas charmer la populace.</l>
+        <l>Il faut que ses Acteurs badinent noblement :</l>
+        <l>Que son nœud bien formé se dénoue aisément :</l>
+        <l>Que l’Action marchant où la raison la guide,</l>
+        <l>Ne se perde jamais dans une Scène vide :</l>
+        <l>Que son style humble et doux se relève à propos :</l>
+        <l>Que ses discours partout fertiles en bons mots</l>
+        <l>Soient pleins de passions finement maniées ;</l>
+        <l>Et les scènes toujours l’une à l’autre liées.</l>
+        <l>Aux dépens du Bon sens gardez de plaisanter.</l>
+        <l>Jamais de la Nature il ne faut s’écarter.</l>
+        <l>Contemplez de quel air, un Père dans Térence</l>
+        <l>Vient d’un Fils amoureux gourmander l’imprudence ;</l>
+        <l>De quel air cet Amant écoute ses leçons,</l>
+        <l>Et court chez sa Maîtresse oublier ces chansons.</l>
+        <l>Ce n’est pas un portrait, une image semblable ;</l>
+        <l>C’est un Amant, un Fils, un Père véritable.</l>
+        <l>J’aime sur le Théâtre un agréable Auteur</l>
+        <l><pb n="260"/> Qui, sans se diffamer aux yeux du Spectateur,</l>
+        <l>Plaît par la raison seule, et jamais ne la choque.</l>
+        <l>Mais pour un faux Plaisant, à grossière équivoque,</l>
+        <l>Qui pour me divertir n’a que la saleté ;</l>
+        <l>Qu’il s’en aille, s’il veut, sur deux tréteaux monté,</l>
+        <l>Amusant le Pont-neuf de les sornettes fades,</l>
+        <l>Aux Laquais assemblés jouer ses Mascarades.</l>
+      </div>
+    </body>
+  </text>
+</TEI>
