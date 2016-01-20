@@ -25,6 +25,10 @@
   <head>Ouvrages critiques sur Molière</head>
   <!-- 1682 -->
   <file href="../critique/la-grange/la-grange_preface.xml"/>
+  <!-- 1692 -->
+  <file href="critique/boileau_oeuvres.xml"/>
+  <!-- 1716 -->
+  <file href="critique/fenelon_projet-traite.xml"></file>
   <!-- 1739 -->
   <file href="../critique/voltaire/voltaire_vie-moliere.xml"/>
   <!-- 1808 -->
@@ -115,8 +119,8 @@
   <file href="critique/vuillemin_corneille-racine-moliere.xml"/>
   <!-- 1922 -->
   <file href="critique/gendarme-de-bevotte_popularite-moliere.xml"/>
-  <file href="critique/roederer_memoires-societe-polie"/>
-  <file href="critique/janin_litterature-dramatique-02"/>
-  <file href="critique/stapfer_petite-comedie"/>
-  <file href="sarcey_quarante-ans-02"/>
+  <file href="../critique/roederer/roederer_memoires-societe-polie.xml"/>
+  <file href="../critique/janin/janin_litterature_dramatique-02.xml"/>
+  <file href="../critique/stapfer/stapfer_petite-comedie.xml"/>
+  <file href="../critique/sarcey/sarcey_quarante-ans-02.xml"/>
 </cat>
