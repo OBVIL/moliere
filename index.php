@@ -8,17 +8,13 @@ include (dirname(__FILE__).'/../teipot/Teipot.php');
 $path = Web::pathinfo(); // path demandé
 $pot = false;
 $q = ""; // requête en cours
-// aiguillage de l’adressage
-if ($path == 'sitemaptei.xml') {
-  $pot = new Teipot(dirname(__FILE__).'/moliere.sqlite', 'fr', $path);
-  $pot->sitemaptei();
-}
+
 // les pièces commencent par moliere…
 if (strpos($path, 'moliere') === 0) {
-  $pot = new Teipot(dirname(__FILE__).'/moliere.sqlite', 'fr', $path);
-  $pot->file(); // fichiers statiques comme xml, epub, etc… sort tout seul en cas de fichier
-  $doc=$pot->doc(); // sinon, attraper un doc
-  $q = $pot->q;
+  list($playcode) = explode('/', $path);
+  $pdomol = new PDO('sqlite:'.dirname(__FILE__).'/moliere.sqlite');
+  $pdomol->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION );
+  $qobj = $pdomol->prepare("SELECT * FROM object WHERE playcode = ? AND type = ?");
   $moliere = true;
 }
 // ou alors on charge de la critique sous critique/…, 
@@ -53,7 +49,7 @@ if ($pot && !isset($doc['body'])) {
   $pot->search();
 }
 
-$teipot = Web::basehref().'../teipot/'; // chemin css, js ; basehref est le nombre de '../' utile pour revenir en racine du site
+$teinte = Web::basehref().'../Teinte/'; // chemin css, js ; basehref est le nombre de '../' utile pour revenir en racine du site
 $theme = Web::basehref().'../theme/'; // autres ressources spécifiques
 
 
@@ -61,21 +57,42 @@ $theme = Web::basehref().'../theme/'; // autres ressources spécifiques
 <html>
   <head>
     <meta charset="UTF-8" />
+    <link rel="stylesheet" charset="utf-8" type="text/css" href="<?php echo $teinte; ?>tei2html.css"/>
+    <link rel="stylesheet" type="text/css" href="<?php echo $theme; ?>obvil.css" />
+    <link rel="stylesheet" type="text/css" href="moliere.css" />
+    <style>
+/* couleur des rôles par genre */
+.charline .role { background-color: rgba(192, 192, 192, 0.7); color: rgba(0, 0, 0, 0.5); }
+.charline .female { background-color: rgba(255, 0, 0, 0.5); color: rgba(255, 255, 255, 1);}
+.charline .female.junior { background-color: rgba(255, 64, 128, 0.3); color: rgba(0, 0, 0, 0.7);}
+.charline .female.inferior { background-color: rgba(192, 96, 96, 0.4); color: rgba(255, 255, 255, 1);}
+.charline .female.veteran { background-color: rgba(128, 0, 0, 0.4); color: rgba(255, 255, 255, 1);}
+.charline .male { background-color: rgba(0, 0, 255, 0.4); color:  rgba(255, 255, 255, 1);}
+.charline .male.junior { background-color: rgba(0, 192, 255, 0.2); color: rgba(0, 0, 0, 0.7);}
+.charline .male.inferior { background-color: rgba(96, 96, 192, 0.3); color: rgba(255, 255, 255, 1);}
+.charline .male.veteran { background-color: rgba(0, 0, 128, 0.4); color:  rgba(255, 255, 255, 1);}
+.charline .male.superior { background-color: rgba(0, 0, 255, 0.6); color:  rgba(255, 255, 255, 1);}
+
+    </style>
     <?php 
+if (isset($moliere)) {
+  echo '
+    <style>
+#article { padding: 0; }
+#aside { padding-top: 3px; } 
+    </style>
+    <script src="sigma/sigma.min.js">//</script>
+    <script src="sigma/sigma.layout.forceAtlas2.min.js">//</script>
+    <script src="sigma/sigma.exporters.image.min.js">//</script>
+    <script src="sigma/sigma.plugins.dragNodes.min.js">//</script>
+    <script src="Rolenet.js">//</script>
+  ';
+}
 if(isset($doc['head'])) echo $doc['head']; 
 else echo '
 <title>OBVIL, Molière</title>
 ';
     ?>
-    <link rel="stylesheet" type="text/css" href="<?php echo $teipot; ?>html.css" />
-    <link rel="stylesheet" type="text/css" href="<?php echo $teipot; ?>teipot.css" />
-    <link rel="stylesheet" type="text/css" href="<?php echo Web::basehref() ?>moliere.css" />
-    <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700,900,700italic,600italic' rel='stylesheet' type='text/css' />
-    <link rel="stylesheet" type="text/css" href="<?php echo $theme; ?>obvil.css" />
-    
-    <script type="text/javascript" src="<?php echo Web::basehref() ?>js/jquery-1.11.1.min.js"></script>
-    
-    
     <style type="text/css">
 div.snip a.bookmark { display: none; }
     </style>
@@ -89,6 +106,21 @@ div.snip a.bookmark { display: none; }
         <a class="logo" href="http://obvil.paris-sorbonne.fr/"><img class="logo" src="<?php echo $theme; ?>img/logo-obvil.png" alt="OBVIL"></a>
         <?php // liens de téléchargements
           // if ($doc['downloads']) echo "\n".'<nav id="downloads"><small>Télécharger :</small> '.$doc['downloads'].'</nav>';
+        if (isset($moliere)) {
+              
+              echo ' 
+<form name="net" style="position: fixed; z-index: 3; top: 2px; left: 492px; " action="#">
+<select name="play" onchange="this.form.action = this.options[this.selectedIndex].value+\'#graph\'; this.form.submit()">'."\n";
+echo "  <option>  </option>\n";
+foreach ($pdomol->query("SELECT * FROM play ORDER BY author, year") as $play) {
+  if ($play['code'] == $playcode) $selected=' selected="selected"';
+  else $selected = "";
+  echo '<option value="'.$play['code'].'"'.$selected.'>'.bibl($play)."</option>\n";
+}
+echo '</select>
+<a href="#" class="but">▲</a>
+</form>';
+            }
         ?>
       </header>
       <div id="contenu">
@@ -96,15 +128,35 @@ div.snip a.bookmark { display: none; }
           <nav id="toolbar">
             <nav class="breadcrumb">
             <?php 
-            if (isset($moliere)) echo '<a href="' . Web::basehref() . 'moliere' . $pot->qsa(null, null, '?') . '">Pièces</a> &gt; ';
-            else if (isset($critique)) echo '<a href="' . Web::basehref() . 'critique/' . $pot->qsa(null, null, '?') . '">Critique moliéresque</a> &gt; ';
+
+            if (isset($critique)) echo '<a href="' . Web::basehref() . 'critique/' . $pot->qsa(null, null, '?') . '">Critique moliéresque</a> &gt; ';
             if (isset($doc['breadcrumb'])) echo $doc['breadcrumb']; 
             ?>
             </nav>
           </nav>
           <div id="article">
       <?php
-if (isset($doc['body'])) {
+if (isset($moliere)) {
+  echo '
+        <div id="graph" style="height: 500px; position: relative; background: #FFFFFF; ">
+
+          <div style="position: absolute; bottom: 0; right: 0; z-index: 2; ">
+            <button class="mix but" type="button" title="Mélanger le graphe">♻</button>
+            <button class="grav but" type="button" title="Démarrer ou arrêter la gravité">►</button>
+          </div>
+        </div>
+      <script>
+var data =';  
+$qobj->execute(array($playcode, 'sigma'));
+$res = $qobj->fetch(PDO::FETCH_ASSOC);
+echo $res['cont'];
+echo ' var graph1 = new Rolenet("graph", data, "sigma/worker.js"); // 
+      </script>';
+  $qobj->execute(array($playcode, 'article'));
+  $res = $qobj->fetch(PDO::FETCH_ASSOC);
+  echo '<div style="padding: 0 20px 50px 45px; ">'.$res['cont'].'</div>';
+}
+else if (isset($doc['body'])) {
   echo $doc['body'];
   // page d’accueil d’un livre avec recherche plein texte, afficher une concordance
   if ($pot && $pot->q && (!$doc['artname'] || $doc['artname']=='index')) {
@@ -126,8 +178,15 @@ else if($pot) {
       </div>
       <aside id="aside">
           <?php
+// 
+if(isset($moliere)) {
+  $qobj->execute(array($playcode, 'charline'));
+  $res = $qobj->fetch(PDO::FETCH_ASSOC);
+  echo $res['cont'];
+  echo '<p> </p>';
+}
 // livre
-if (isset($doc['bookrowid'])) {
+else if (isset($doc['bookrowid'])) {
   if(isset($doc['download'])) echo "\n".'<nav id="download">' . $doc['download'] . '</nav>';
   echo "\n<nav>";
   // auteur, titre, date
@@ -160,52 +219,34 @@ else if(isset($moliere) || isset($critique)) {
   ';
 }
 ?>
-	<span id="ruler"></span>
       </aside>
 
     </div>
-    <script type="text/javascript" src="<?php echo $teipot; ?>Tree.js">//</script>
-    <script type="text/javascript" src="<?php echo $teipot; ?>Sortable.js">//</script>
-    <script type="text/javascript" src="<?php echo $teipot; ?>Teipot.js">/* persistance du scroll de toc */</script>
+    <script type="text/javascript" src="<?php echo $teinte; ?>Tree.js">//</script>
+    <script type="text/javascript" src="<?php echo $teinte; ?>Sortable.js">//</script>
     
-    <!-- Pour l'alignement des vers -->
-    <script type="text/javascript">
-        
-        function getStringWidth(theString) {
-        	$("#ruler").addClass("l");
-        	$("#ruler").html(theString);
-        	return $("#ruler").width();
-      	}
-        
-        
-        (function() {
-        // Cool! il y a juste des IE un peu paumés, mais tant pis , c’est trop simple http://quirksmode.org/dom/core/#t11
-        var tempText;
-        var theGoodPrevious;
-        var verse;
-        var op;
-      
-        
-        $(".part-Y").each(function() {
-        	theGoodPrevious = $(this).parent().prev(".sp").find(".l").last();
-        	//theGoodPrevious = theGoodPrevious.remove(".l-n");
-       
-        	var sizeOf = getStringWidth(theGoodPrevious.html());
-        	//var sizeOf = getStringWidth(test.prev(".l").html());¨
-        	
-        	if ($(this).find(".l-n").length) {
-        		verse = $(this).find(".l-n")[0].outerHTML;
-        		$(this).find(".l-n").empty();
-        		tempText = verse + "<span class=\"space\" style=\"width:" + sizeOf + "px\"></span>" + $(this).html();
-        	}
-        	else {
-        		tempText = "<span class=\"space\" style=\"width:" + sizeOf + "px\"></span>" + $(this).html();
-        	}
-       
-        	$(this).html(tempText); 
-        })
-    })();
-    <!-- Fin -->
-    </script>
+
   </body>
 </html>
+<?php
+/**
+ * Ligne bibliographique pour une pièce
+ */
+function bibl($play) {
+  if (is_string($play)) {
+    $playcode = $this->pdo->quote($playcode);
+    $play = $this->pdo->query("SELECT * FROM play WHERE code = $playcode")->fetch();
+  }
+  $bibl = $play['author'].', '.$play['title'];
+  $meta = array();
+  if ($play['year']) $meta[] = $play['year'];
+  if ($play['genre'] == 'tragedy') $meta[] = 'tragédie';
+  else if ($play['genre'] == 'comedy') $meta[] = 'comédie';
+  if ($play['acts']) $meta[] = $play['acts'].(($play['acts']>2)?" actes":" acte");
+  $meta[] = (($play['verse'])?"vers":"prose");
+  if (count($meta)) $bibl .= " (".implode(", ", $meta).")";
+  return $bibl;
+}
+  
+$pdomol = null;
+?>
