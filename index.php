@@ -232,10 +232,8 @@ else if(isset($moliere) || isset($critique)) {
       </aside>
 
     </div>
-    <!--
     <script type="text/javascript" src="<?php echo $teinte; ?>Tree.js">//</script>
     <script type="text/javascript" src="<?php echo $teinte; ?>Sortable.js">//</script>
--->
   </body>
 </html>
 <?php
