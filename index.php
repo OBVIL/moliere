@@ -65,7 +65,7 @@ $theme = Web::basehref().'../theme/'; // autres ressources spécifiques
 .charline .role { background-color: rgba(192, 192, 192, 0.7); color: rgba(0, 0, 0, 0.5); }
 .charline .female { background-color: rgba(255, 0, 0, 0.5); color: rgba(255, 255, 255, 1);}
 .charline .female.junior { background-color: rgba(255, 64, 128, 0.3); color: rgba(0, 0, 0, 0.7);}
-.charline .female.inferior { background-color: rgba(192, 96, 96, 0.4); color: rgba(255, 255, 255, 1);}
+.charline .female.inferior { background-color: rgba(192, 96, 128, 0.4); color: rgba(255, 255, 255, 1);}
 .charline .female.veteran { background-color: rgba(128, 0, 0, 0.4); color: rgba(255, 255, 255, 1);}
 .charline .male { background-color: rgba(0, 0, 255, 0.4); color:  rgba(255, 255, 255, 1);}
 .charline .male.junior { background-color: rgba(0, 192, 255, 0.2); color: rgba(0, 0, 0, 0.7);}
@@ -103,24 +103,22 @@ div.snip a.bookmark { display: none; }
           <a href="<?php echo Web::$basehref; ?>">OBVIL, Molière</a>
         </h1>
         <a class="logo" href="http://obvil.paris-sorbonne.fr/"><img class="logo" src="<?php echo $theme; ?>img/logo-obvil.png" alt="OBVIL"></a>
-        <?php // liens de téléchargements
-          // if ($doc['downloads']) echo "\n".'<nav id="downloads"><small>Télécharger :</small> '.$doc['downloads'].'</nav>';
-        if (isset($moliere)) {
-
-              echo ' 
+        <?php 
+         
+if (isset($moliere)) { // navigation par select
+  echo ' 
 <form name="net" style="position: fixed; z-index: 3; top: 2px; left: 492px; " action="#">
-<select name="play" onchange="this.form.action = this.options[this.selectedIndex].value+\'#graph\'; this.form.submit()">'."\n";
-echo "  <option>  </option>\n";
-foreach ($pdomol->query("SELECT * FROM play ORDER BY author, year") as $row) {
-  if ($row['code'] == $playcode) $selected=' selected="selected"';
-  else $selected = "";
-  echo '<option value="'.$row['code'].'"'.$selected.'>'.bibl($row)."</option>\n";
-}
-echo '</select>
-<a href="#" class="but">▲</a>
+  <select name="play" onchange="this.form.action = this.options[this.selectedIndex].value+\'#graph\'; this.form.submit()">'."\n";
+  echo "    <option>  </option>\n";
+  foreach ($pdomol->query("SELECT * FROM play ORDER BY author, year") as $row) {
+    if ($row['code'] == $playcode) $selected=' selected="selected"';
+    else $selected = "";
+    echo '    <option value="'.$row['code'].'"'.$selected.'>'.bibl($row)."</option>\n";
+  }
+  echo '  </select>
+  <a href="#" class="but">▲</a>
 </form>';
-
-            }
+}
         ?>
       </header>
       <div id="contenu">
@@ -128,9 +126,8 @@ echo '</select>
           <nav id="toolbar">
             <nav class="breadcrumb">
             <?php 
-
-            if (isset($critique)) echo '<a href="' . Web::basehref() . 'critique/' . $pot->qsa(null, null, '?') . '">Critique moliéresque</a> &gt; ';
-            if (isset($doc['breadcrumb'])) echo $doc['breadcrumb']; 
+if (isset($critique)) echo '<a href="' . Web::basehref() . 'critique/' . $pot->qsa(null, null, '?') . '">Critique moliéresque</a> &gt; ';
+if (isset($doc['breadcrumb'])) echo $doc['breadcrumb']; 
             ?>
             </nav>
           </nav>
@@ -188,14 +185,21 @@ else if($pot) {
       </div>
       <aside id="aside">
           <?php
-// 
-if(isset($moliere)) {
+// pièce de Théâtre
+if(isset($moliere) && $play) {
+
+  echo "\n".'<nav id="download"><small>Télécharger :</small> 
+  <a href="http://dramacode.github.io/epub/'.$playcode.'.epub">epub</a>,
+  <a href="http://dramacode.github.io/kindle/'.$playcode.'.mobi">kindle</a>,
+  <a href="http://dramacode.github.io/iramuteq/'.$playcode.'.txt">iramuteq</a>,
+  <a href="http://dramacode.github.io/html/'.$playcode.'.html">html</a>.
+  </nav>';
   $qobj->execute(array($playcode, 'charline'));
   $res = $qobj->fetch(PDO::FETCH_ASSOC);
   echo $res['cont'];
   echo '<p> </p>';
 }
-// livre
+// livre de critique
 else if (isset($doc['bookrowid'])) {
   if(isset($doc['download'])) echo "\n".'<nav id="download">' . $doc['download'] . '</nav>';
   echo "\n<nav>";
