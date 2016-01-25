@@ -60,7 +60,6 @@ $theme = Web::basehref().'../theme/'; // autres ressources spécifiques
     <meta charset="UTF-8" />
     <link rel="stylesheet" charset="utf-8" type="text/css" href="<?php echo $teinte; ?>tei2html.css"/>
     <link rel="stylesheet" type="text/css" href="<?php echo $theme; ?>obvil.css" />
-    <link rel="stylesheet" type="text/css" href="moliere.css" />
     <style>
 /* couleur des rôles par genre */
 .charline .role { background-color: rgba(192, 192, 192, 0.7); color: rgba(0, 0, 0, 0.5); }
@@ -84,7 +83,6 @@ if (isset($moliere)) {
     </style>
     <script src="sigma/sigma.min.js">//</script>
     <script src="sigma/sigma.layout.forceAtlas2.min.js">//</script>
-    <script src="sigma/sigma.exporters.image.min.js">//</script>
     <script src="sigma/sigma.plugins.dragNodes.min.js">//</script>
     <script src="Rolenet.js">//</script>
   ';
@@ -108,7 +106,7 @@ div.snip a.bookmark { display: none; }
         <?php // liens de téléchargements
           // if ($doc['downloads']) echo "\n".'<nav id="downloads"><small>Télécharger :</small> '.$doc['downloads'].'</nav>';
         if (isset($moliere)) {
-              
+
               echo ' 
 <form name="net" style="position: fixed; z-index: 3; top: 2px; left: 492px; " action="#">
 <select name="play" onchange="this.form.action = this.options[this.selectedIndex].value+\'#graph\'; this.form.submit()">'."\n";
@@ -121,6 +119,7 @@ foreach ($pdomol->query("SELECT * FROM play ORDER BY author, year") as $row) {
 echo '</select>
 <a href="#" class="but">▲</a>
 </form>';
+
             }
         ?>
       </header>
@@ -233,10 +232,10 @@ else if(isset($moliere) || isset($critique)) {
       </aside>
 
     </div>
+    <!--
     <script type="text/javascript" src="<?php echo $teinte; ?>Tree.js">//</script>
     <script type="text/javascript" src="<?php echo $teinte; ?>Sortable.js">//</script>
-    
-
+-->
   </body>
 </html>
 <?php
