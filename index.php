@@ -15,6 +15,7 @@ if (strpos($path, 'moliere') === 0) {
   $pdomol = new PDO('sqlite:'.dirname(__FILE__).'/moliere.sqlite');
   $pdomol->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION );
   $qobj = $pdomol->prepare("SELECT * FROM object WHERE playcode = ? AND type = ?");
+  $play = $pdomol->query("SELECT * FROM play WHERE code = ".$pdomol->quote($playcode))->fetch();
   $moliere = true;
 }
 // ou alors on charge de la critique sous critique/…, 
@@ -112,10 +113,10 @@ div.snip a.bookmark { display: none; }
 <form name="net" style="position: fixed; z-index: 3; top: 2px; left: 492px; " action="#">
 <select name="play" onchange="this.form.action = this.options[this.selectedIndex].value+\'#graph\'; this.form.submit()">'."\n";
 echo "  <option>  </option>\n";
-foreach ($pdomol->query("SELECT * FROM play ORDER BY author, year") as $play) {
-  if ($play['code'] == $playcode) $selected=' selected="selected"';
+foreach ($pdomol->query("SELECT * FROM play ORDER BY author, year") as $row) {
+  if ($row['code'] == $playcode) $selected=' selected="selected"';
   else $selected = "";
-  echo '<option value="'.$play['code'].'"'.$selected.'>'.bibl($play)."</option>\n";
+  echo '<option value="'.$row['code'].'"'.$selected.'>'.bibl($row)."</option>\n";
 }
 echo '</select>
 <a href="#" class="but">▲</a>
@@ -136,7 +137,17 @@ echo '</select>
           </nav>
           <div id="article">
       <?php
-if (isset($moliere)) {
+if (isset($moliere) && !$play) {
+  echo '
+<table class="sortable">
+  <tr><th>Date</th><th>Titre</th></tr>
+';
+  foreach ($pdomol->query("SELECT * FROM play ORDER BY author, year") as $play) {
+    echo '<tr><td>'.$play['year'].'</td><td><a href="'.$play['code'].'">'.$play['title']."</a></td></tr>\n";
+  }
+  echo "\n</table>\n";
+}
+else if (isset($moliere)) {
   echo '
         <div id="graph" style="height: 500px; position: relative; background: #FFFFFF; ">
 
