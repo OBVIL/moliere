@@ -68,6 +68,7 @@ $theme = Web::basehref().'../theme/'; // autres ressources spécifiques
     <script src="<?php echo Web::basehref().'../'; ?>Dramaturgie/Rolenet.js">//</script>
     <style>
 #article { padding: 0; }
+#graph { background: #F5F5F5; }
     </style>
     <?php
 if(isset($doc['head'])) echo $doc['head'];
@@ -120,27 +121,22 @@ if (isset($moliere) && !$play) {
     <tr>
       <th>Date</th>
       <th>Titre</th>
-      <th>Paroles</th>
-      <th>Répliques</th>
-      <th>Rép. moy.</th>
-      <th>Personnages</th>
-      <th>Prés. moy.</th>
+      <th title="Quantité de texte prononcé en lignes (60 signes).">Paroles</th>
+      <th title="Nombre de répliques.">Répliques</th>
+      <th title="Taille moyenne d’une réplique, en lignes (60 signes).">Rép. moy.</th>
+      <th title="Nombre de personnages déclarés dans la distribution.">Pers.</th>
+      <th title="Nombre moyen de personnages su scène.">Prés. moy.</th>
     </tr>';
   ;
-  foreach ($pdomol->query("
-    SELECT
-      *,
-      (SELECT COUNT(*) FROM role WHERE play = play.id) AS roles,
-      (SELECT SUM(roles * c) FROM configuration WHERE play = play.id) AS pres
-    FROM play ORDER BY author, year") as $row) {
+  foreach ($pdomol->query("SELECT * FROM play ORDER BY author, year") as $row) {
     echo '<tr>'."\n";
     echo '<td>'.$row['year'].'</td>'."\n";
     echo '<td>'.'<a href="'.$row['code'].'">'.$row['title']."</a></td>\n";
-    echo '<td align="right">'.number_format($row['c']/60, 0).' l.</td>';
+    echo '<td align="right">'.number_format($row['c']/60, 0, ',', ' ').' l.</td>';
     echo '<td align="right">'.$row['sp'].'</td>';
-    echo '<td align="right">'.number_format($row['c']/$row['sp']/60, 2).' l.</td>';
+    echo '<td align="right">'.number_format($row['c']/$row['sp']/60, 2, ',', ' ').' l.</td>';
     echo '<td align="right">'.$row['roles'].'</td>';
-    echo '<td align="right">'.number_format($row['pres']/$row['c'], 1).' pers.</td>';
+    echo '<td align="right">'.number_format($row['presence']/$row['c'], 1, ',', ' ').' pers.</td>';
     echo '</tr>'."\n";
 
   }
@@ -156,7 +152,7 @@ else if (isset($moliere)) {
   echo $row['cont'];
   echo ' var graph = new Rolenet("graph", data, "../Dramaturgie/sigma/worker.js"); //';
   echo "    </script>\n";
-  $qobj->execute(array($playcode, 'nodetable'));
+  $qobj->execute(array($playcode, 'roletable'));
   $row = $qobj->fetch(PDO::FETCH_ASSOC);
   echo $row['cont'];
   $qobj->execute(array($playcode, 'article'));
