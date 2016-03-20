@@ -17,6 +17,5 @@ function teiClean($tei) {
 	return preg_replace($remove, "", $tei);
 }
 $bookIds = explode("\n", file_get_contents("corpus.txt"));
-$bookIds = array_filter($bookIds, 'strlen');
 include("tei.tpl.php");
 ?>
