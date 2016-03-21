@@ -16,12 +16,15 @@ foreach($bookIds as $bookId){
 	$bookDate = $bookDate->length>0 ? $bookDate->item(0)->getAttribute("when") : '';
 	
 	$book = file_get_contents($bookPath);
-	$anecdotePattern = '|<milestone type="anecdoteStart" xml:id="([^"]+)"/>(.*?)<milestone type="anecdoteEnd"/>|';
-	$commentPattern = '|<milestone type="commentStart" corresp="#([^"]+)"/>(.*?)<milestone type="commentEnd"/>|';
+/*
+	$anecdotePattern = '|<milestone type="[Aa]necdoteStart" xml:id="([^"]+)"/>(.*?)<milestone type="[Aa]necdoteEnd"/>|';
+	$commentPattern = '|<milestone type="[Cc]ommentStart" corresp="#([^"]+)"/>(.*?)<milestone type="[Cc]ommentEnd"/>|';
+*/
+	$anecdotePattern = '|<milestone type="[Aa]necdoteStart" xml:id="([^"]+)"/>([\s\S]*?)<milestone type="[Aa]necdoteEnd"/>|';
+	$commentPattern = '|<milestone type="[Cc]ommentStart" corresp="#([^"]+)"/>([\s\S]*?)<milestone type="[Cc]ommentEnd"/>|';
 	$anecdotes = array();
 	$comments = array();
 	if(!preg_match_all($anecdotePattern, $book, $anecdotes, PREG_OFFSET_CAPTURE)){continue;}
-// 	preg_match_all($anecdotePattern, $book, $anecdotes, PREG_OFFSET_CAPTURE);
 	preg_match_all($commentPattern, $book, $comments, PREG_OFFSET_CAPTURE);
 	
 	$anecdotes = combine($anecdotes);

@@ -13,7 +13,20 @@ function combine($array1){
 function teiClean($tei) {
 	$remove = array(
 		'|<[pc]b([^/]+)?/>|',
-		'|<anchor([^/]+)?/>|');
+		'|<anchor([^/]+)?/>|',
+		'|</?quote>|',
+		'|<note.*?</note>|',
+		'|</?p.*?>|',
+		'|</?l.*?>|',
+		);//revoir (voltaire, bon-mot-mauvillain)
+	$replace = array(
+		'',
+		'',
+		'',
+		'',
+		'<lb/>',
+		'<lb/>',
+	);
 	return preg_replace($remove, "", $tei);
 }
 $bookIds = explode("\n", file_get_contents("corpus.txt"));
