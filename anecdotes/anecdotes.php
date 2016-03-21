@@ -16,9 +16,11 @@ function teiClean($tei) {
 		'|<anchor([^/]+)?/>|',
 		'|</?quote>|',
 		'|<note.*?</note>|',
-		'|</?p.*?>|',
-		'|</?l.*?>|',
-		);//revoir (voltaire, bon-mot-mauvillain)
+		'|<p.*?>|',
+		'|</p>|',
+		'|<l.*?>|',
+		'|</l>|',
+		);//reste les cas où le milestone serait enfant de hi...
 	$replace = array(
 		'',
 		'',
@@ -26,8 +28,10 @@ function teiClean($tei) {
 		'',
 		'<lb/>',
 		'<lb/>',
+		'<lb/>',
+		'<lb/>',//insère trop de lb + les lb, c'est moche
 	);
-	return preg_replace($remove, "", $tei);
+	return preg_replace($remove, $replace, $tei);
 }
 $bookIds = explode("\n", file_get_contents("corpus.txt"));
 include("tei.tpl.php");
