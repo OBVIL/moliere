@@ -16,18 +16,18 @@ function teiClean($tei) {
 		'|<anchor([^/]+)?/>|',
 		'|</?quote>|',
 		'|<note.*?</note>|',
-		'|<p.*?>|',
 		'|</p>|',
-		'|<l.*?>|',
 		'|</l>|',
+		'|<p.*?>|',
+		'|<l.*?>|',
 		);//reste les cas où le milestone serait enfant de hi...
 	$replace = array(
 		'',
 		'',
 		'',
 		'',
-		'<lb/>',
-		'<lb/>',
+		'',
+		'',
 		'<lb/>',
 		'<lb/>',//insère trop de lb + les lb, c'est moche
 	);
