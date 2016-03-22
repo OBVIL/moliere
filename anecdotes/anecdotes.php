@@ -29,7 +29,7 @@ function teiClean($tei) {
 		'',
 		'',
 		'<lb/>',
-		'<lb/>',//insère trop de lb + les lb, c'est moche
+		'<lb/>',//les lb, c'est moche
 	);
 	return preg_replace($remove, $replace, $tei);
 }
