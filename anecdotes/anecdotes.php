@@ -15,7 +15,7 @@ function teiClean($tei) {
 		'|<[pc]b([^/]+)?/>|',
 		'|<anchor([^/]+)?/>|',
 		'|</?quote>|',
-		'|<note.*?</note>|',
+// 		'|<note.*?</note>|',
 		'|</p>|',
 		'|</l>|',
 		'|<p.*?>|',
@@ -24,7 +24,7 @@ function teiClean($tei) {
 	$replace = array(
 		'',
 		'',
-		'',
+// 		'',
 		'',
 		'',
 		'',
