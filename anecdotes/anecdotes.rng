@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xrem/rng2html.xsl"?>
+<grammar xmlns="http://relaxng.org/ns/structure/1.0" 
+  xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0" 
+  xmlns:h="http://www.w3.org/1999/xhtml" 
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes" 
+  ns="http://www.tei-c.org/ns/1.0" 
+  xml:lang="fr">
+  
+  <!--
+    SURCHARGE TEIBOOK
+    http://relaxng.org/tutorial-20011203.html#IDAVEZR
+  -->
+  <include
+    href="../../teibook/teibook.rng"
+    h:href="../../teibook/teibook.rng" 
+    h:title="Schéma Teibook">
+    
+    <define name="milestone">
+      <element name="milestone">
+        <a:documentation>Borne anonyme, vide, permet d’étiqueter des points qui n’entrent pas dans la hiérarchie éditoriale, et qui ne sont pas des sauts de page <a:el>pb</a:el>, de colonne <a:el>cb</a:el> ou de ligne <a:el>lb</a:el></a:documentation>
+        <empty/>
+        <choice>
+          <!-- anecdoteStart -->
+          <group>
+            <attribute name="type">
+              <value>anecdoteStart</value>
+              <a:documentation>Début d’une anecdote</a:documentation>
+            </attribute>
+            <attribute name="xml:id">
+              <choice>
+                <value>achat-habits-cotin</value>
+                <a:documentation>Achat des habits de Cotin pour Les Femmes savantes</a:documentation>
+                <value>actrice-ennemie-Armande</value>
+                <a:documentation>Actrice ennemie d’Armande Béjart, source de La Fameuse comédienne</a:documentation>
+                <value>piron-tartuffe</value>
+                <a:documentation>Admiration de Piron pour Tartuffe</a:documentation>
+                <value>lauzun-amants-magnifiques</value>
+                <a:documentation>Allusion à Mlle de Lauzun dans Les Amants magnifiques</a:documentation>
+                <value>antipathie-de-brie</value>
+                <a:documentation>Antipathie de Molière à l’égard de M. de Brie, à l’origine des rôles antipathiques qu’il endosse</a:documentation>
+                <value>foule-argent-enterrement</value>
+                <a:documentation>Argent jeté à la foule menaçante par la veuve de Molière</a:documentation>
+                <value>aumone-pauvre</value>
+                <a:documentation>Aumône d’un louis d’or au pauvre</a:documentation>
+                <value>bas-envers</value>
+                <a:documentation>Bas mis à l’envers par le valet, nommé Provençal</a:documentation>
+                <value>boileau-promenade-couple</value>
+                <a:documentation>Boileau assiste à la promenade de Molière et Armande, signe d’un retour de flamme dans le couple</a:documentation>
+                <value>boileau-défense-avare</value>
+                <a:documentation>Boileau défend L’Avare contre la critique de Racine</a:documentation>
+                <value>boileau-sacre-moliere</value>
+                <a:documentation>Boileau sacre Molière écrivain le plus rare du siècle</a:documentation>
+                <value>eloge-composition-caractere</value>
+                <a:documentation>Boileau loue le talent de Molière à composer un caractère</a:documentation>
+                <value>duel-boissat</value>
+                <a:documentation>Boissat provoqué en duel à la suite de la représentation d’une comédie de Molière</a:documentation>
+                <value>ceremonie-1658</value>
+                <a:documentation>Cérémonie du 24 octobre 1658</a:documentation>
+                <value>chapelle-travaillant-pour-moliere</value>
+                <a:documentation>Chapelle travaillant pour Molière</a:documentation>
+                <value>classes-conti</value>
+                <a:documentation>Classes avec Conti</a:documentation>
+                <value>colere-coquetterie-armande</value>
+                <a:documentation>Colère de Molière contre Armande, trop coquette dans le rôle d’Elmire</a:documentation>
+                <value>conde-compagnie-moliere</value>
+                <a:documentation>Condé recherche la compagnie de Molière</a:documentation>
+                <value>confidences-chapelle</value>
+                <a:documentation>Confidences amoureuses de Molière à Chapelle</a:documentation>
+                <value>consolation-de-brie</value>
+                <a:documentation>Consolation auprès de Mlle de Brie</a:documentation>
+                <value>corneille-seduit-par-armande</value>
+                <a:documentation>Corneille sensible à la beauté d’Armande Béjart</a:documentation>
+                <value>cri-vieillard-precieuses</value>
+                <a:documentation>d’admiration du vieillard du parterre lors de la représentation des Précieuses</a:documentation>
+                <value>cri-indignation-veuve</value>
+                <a:documentation>Cri d’indignation de la veuve de Molière « Quoi ! l’on refusera la sépulture à un homme qui a mérité des autels</a:documentation>
+                <value>defense-plaideurs-moliere</value>
+                <a:documentation>Défense des Plaideurs par Molière</a:documentation>
+                <value>defense-misanthrope-moliere</value>
+                <a:documentation>Défense du Misanthrope par Racine</a:documentation>
+                <value>dette-corneille</value>
+                <a:documentation>Dette de Molière envers Corneille (Le Menteur)</a:documentation>
+                <value>dispute-princesse-elide</value>
+                <a:documentation>Dispute conjugale après la représentation de La Princesse d’Élide à Versailles</a:documentation>
+                <value>dispute-philosophique-chapelle</value>
+                <a:documentation>Dispute philosophique entre Molière et Chapelle devant le frère minime</a:documentation>
+                <value>doleance-a-travers-sosie</value>
+                <a:documentation>Doléance secrète de Molière contre les « chaînes » du roi par le truchement de Sosie</a:documentation>
+                <value>duel-comediennes</value>
+                <a:documentation>Duel entre Mlle Beaupré et Mlle Des-Urlis, après la représentation de La Comtesse d’Escarbagnas</a:documentation>
+                <value>echec-avare-prose</value>
+                <a:documentation>Échec de L’Avare dû à la prose</a:documentation>
+                <value>echec-misanthrope</value>
+                <a:documentation>Échec prétendu du Misanthrope</a:documentation>
+                <value>la-fontaine-bonhomme</value>
+                <a:documentation>Éloge du « bonhomme » La Fontaine</a:documentation>
+                <value>eloge-jeu-beauval</value>
+                <a:documentation>Éloge du jeu naturel de Beauval</a:documentation>
+                <value>enfance-marâtre</value>
+                <a:documentation>Enfance malheureuse avec une marâtre, à l’origine du Malade imaginaire</a:documentation>
+                <value>etonnement-succes-comedies</value>
+                <a:documentation>Étonnement de Molière devant le succès de ses comédies auprès des « personnes d’esprit »</a:documentation>
+                <value>expiation-parentes-tartuffe</value>
+                <a:documentation>Expiation parentes de Molière, religieuses, à cause du Tartuffe</a:documentation>
+                <value>fauteuil-barbier</value>
+                <a:documentation>Fauteuil chez le barbier</a:documentation>
+                <value>feu-tombe-pauvres</value>
+                <a:documentation>Feu sur la tombe de Molière pour réchauffer les pauvres</a:documentation>
+                <value>fontaine-gignac</value>
+                <a:documentation>Fontaine de Gignac</a:documentation>
+                <value>gassendi-precepteur</value>
+                <a:documentation>Gassendi précepteur</a:documentation>
+                <value>dementi-applications-femmes-savantes</value>
+                <a:documentation>Harangue prononcée par Molière pour démentir les applications dans Les Femmes savantes</a:documentation>
+                <value>impôt-habitants-pezenas</value>
+                <a:documentation>Imposition des habitants de Pézenas au profit de la troupe de Molière</a:documentation>
+                <value>menage-beau-joueur-satire</value>
+                <a:documentation>Ménage loue Les Femmes savantes quand Mme de Rambouillet est indignée</a:documentation>
+                <value>correction-auteur-precieux-voltaire</value>
+                <a:documentation>Voltaire propose à La Harpe d’intercaler dans Les Précieuses la phrase d’un auteur pour que celui-ci s’en corrige</a:documentation>
+                <value>intrigue-galante-montagnac</value>
+                <a:documentation>Intrigue galante de Molière en province</a:documentation>
+                <value>jalousie-baron-melicerte</value>
+                <a:documentation>Jalousie de Molière à l’égard de Baron lors de la création de Mélicerte</a:documentation>
+                <value>jugement-roi-bourgeois-gentilhomme</value>
+                <a:documentation>Jugement sur Le Bourgeois gentilhomme différé par le roi</a:documentation>
+                <value>lecture-pieces-servante</value>
+                <a:documentation>Lecture des pièces à sa servante Laforest / aux enfants / Épreuve de Brécourt</a:documentation>
+                <value>lettre-improvisee-pezenas</value>
+                <a:documentation>Lettre improvisée</a:documentation>
+                <value>roi-metteur-en-scene</value>
+                <a:documentation>Louis XIV metteur en scène de Molière</a:documentation>
+                <value>lully-pourceaugnac</value>
+                <a:documentation>Lully jouant Pourceaugnac pour amadouer le roi</a:documentation>
+                <value>maitre-pension-envoye-par-famille</value>
+                <a:documentation>Maître de pension envoyé par la famille de Molière pour le détourner du métier de comédien</a:documentation>
+                <value>martine-jouant-son-role</value>
+                <a:documentation>Martine servante de Molière jouant son propre rôle</a:documentation>
+                <value>martyre-amoureux</value>
+                <a:documentation>Martyre amoureux</a:documentation>
+                <value>mort-cotin-satire</value>
+                <a:documentation>Mélancolie et mort de Cotin provoquée par la satire de Molière dans Les Femmes savantes</a:documentation>
+                <value>memoires-et-tablettes</value>
+                <a:documentation>Mémoires et tablettes de Molière</a:documentation>
+                <value>menage-repenti-precieuses</value>
+                <a:documentation>Ménage repenti « Il nous faudra brûler ce que nous avons adoré » (Précieuses)</a:documentation>
+                <value>mepris-femme-peuple-enterrement</value>
+                <a:documentation>Mépris d’une femme du peuple lors de l’enterrement de Molière</a:documentation>
+                <value>beauval-adoubee-par-roi</value>
+                <a:documentation>Mlle de Beauval adoubée par le roi malgré sa tentative pour la faire remplacer</a:documentation>
+                <value>marotte-fille-chambre-de-brie</value>
+                <a:documentation>Mlle Ragueneau, surnommée Marotte, fille de chambre de Mlle de Brie (lien avec le Roman comique)</a:documentation>
+                <value>maitresse-conti-fait-venir-troupe</value>
+                <a:documentation>Mme Calvimont, maîtresse de Conti, fait venir la troupe de Molière à Pézenas</a:documentation>
+                <value>dacier-renonce-dissertation</value>
+                <a:documentation>Mme Dacier renonce à sa dissertation sur Amphitryon à cause des Femmes savantes</a:documentation>
+                <value>moliere-sancho-ane</value>
+                <a:documentation>Molière-Sancho sur l’âne</a:documentation>
+                <value>moliere-table-boissat</value>
+                <a:documentation>Molière à la table de Boissat</a:documentation>
+                <value>moliere-table-roi</value>
+                <a:documentation>Molière à la table du roi</a:documentation>
+                <value>sujet-thebaide-racine</value>
+                <a:documentation>Molière donne à Racine le sujet de la Thébaïde</a:documentation>
+                <value>tragedie-irene-lyon</value>
+                <a:documentation>Molière monte à Lyon la tragédie de Claude Busset, Irène (// sujet tragique, La Thébaïde, donné à Racine)</a:documentation>
+                <value>moliere-spectateur</value>
+                <a:documentation>Molière, spectateur du Portrait du peintre</a:documentation>
+                <value>mort-sacrificielle</value>
+                <a:documentation>Mort sacrificielle</a:documentation>
+                <value>mot-conde-epitaphe</value>
+                <a:documentation>Mot de Condé contre l’auteur d’une épitaphe à Molière</a:documentation>
+                <value>mot-conde-tartuffe</value>
+                <a:documentation>Mot de Condé sur Tartuffe</a:documentation>
+                <value>bon-mot-mauvillain</value>
+                <a:documentation>Mot de Molière sur son médecin Mauvillain</a:documentation>
+                <value>mot-lamoignon-tartuffe</value>
+                <a:documentation>Mot de Molière contre le président de Lamoignon après l’interdiction du Tartuffe</a:documentation>
+                <value>mot-mepris-pilule</value>
+                <a:documentation>Mot de Molière sur le mépris, pilule difficile à avaler</a:documentation>
+                <value>moliere-original-argan</value>
+                <a:documentation>Original d’Argan, Molière</a:documentation>
+                <value>original-apothicaire</value>
+                <a:documentation>Original de l’apothicaire du Malade imaginaire</a:documentation>
+                <value>original-dandin-neutralise</value>
+                <a:documentation>Original de George Dandin neutralisé</a:documentation>
+                <value>original-pourceaugnac</value>
+                <a:documentation>Original (aux) de Pourceaugnac</a:documentation>
+                <value>esclandre-original-sganarelle</value>
+                <a:documentation>Original de Sganarelle (Le Cocu imaginaire) provoque un esclandre</a:documentation>
+                <value>original-tartuffe</value>
+                <a:documentation>Original (aux) de Tartuffe</a:documentation>
+                <value>original-bourgeois-gentilhomme</value>
+                <a:documentation>Original du Bourgeois gentilhomme</a:documentation>
+                <value>rohault-original-maitre-philosophie</value>
+                <a:documentation>Original du maître de philosophie dans Le Bourgeois gentilhomme, Rohault</a:documentation>
+                <value>original-type-extravagant</value>
+                <a:documentation>Original d’un type encore à faire, l’Extravagant</a:documentation>
+                <value>lieutenant-tardieu-avare</value>
+                <a:documentation>Originaux d’avares, le lieutenant Tardieu et sa femme</a:documentation>
+                <value>originaux-amour-medecin</value>
+                <a:documentation>Originaux des médecins de L’Amour médecin</a:documentation>
+                <value>origine-comtesse-escarbagnas</value>
+                <a:documentation>Origine de La Comtesse d’Escarbagnas</a:documentation>
+                <value>origine-monsieur-pourceaugnac</value>
+                <a:documentation>Origine de Monsieur de Pourceaugnac</a:documentation>
+                <value>origine-tartuffe-chez-longueville</value>
+                <a:documentation>Origine de l’aventure de Tartuffe chez Mme de Longueville</a:documentation>
+                <value>origine-dispute-maitre-armes-maitre-danse</value>
+                <a:documentation>Origine de la scène de dispute entre le maître de danse et le maître d’armes (Le Bourgeois gentilhomme)</a:documentation>
+                <value>differend-logeuse</value>
+                <a:documentation>Origine de la satire de la médecine : différend avec sa logeuse</a:documentation>
+                <value>origine-mariage-force</value>
+                <a:documentation>Origine du Mariage forcé, histoire du chevalier de Grammont</a:documentation>
+                <value>origine-nom-escarbagnas</value>
+                <a:documentation>Origine du nom de la comtesse d’Escarbagnas</a:documentation>
+                <value>origine-nom-tartuffe</value>
+                <a:documentation>Origine du nom « Tartuffe »</a:documentation>
+                <value>parmesan-agonie</value>
+                <a:documentation>Parmesan réclamé par Molière à l’agonie</a:documentation>
+                <value>villedieu-actrice</value>
+                <a:documentation>Passage de Mme de Villedieu dans la troupe de Molière</a:documentation>
+                <value>passion-corneille-du-parc</value>
+                <a:documentation>Passion de Corneille pour Mlle Du Parc</a:documentation>
+                <value>chasseur-ajoute-par-roi</value>
+                <a:documentation>Personnage du chasseur des Fâcheux inspiré par le roi + Molière se documente auprès de M. Soyecourt lui-même</a:documentation>
+                <value>plagiat-reprendre-son-bien</value>
+                <a:documentation>Plagiat : « Je reprends mon bien où je le trouve »</a:documentation>
+                <value>plagiat-theophile</value>
+                <a:documentation>Plagiat de Théophile dénoncé par son régent</a:documentation>
+                <value>plaintes-rohault-mignard</value>
+                <a:documentation>Plaintes à Rohaut et Mignard</a:documentation>
+                <value>plaisanterie-nesle-precieuses</value>
+                <a:documentation>Plaisanterie naïve du marquis de Nesle à l’origine d’une plaisanterie des Précieuses ridicules</a:documentation>
+                <value>poste-secretaire-conti</value>
+                <a:documentation>Poste de secrétaire offert par Conti</a:documentation>
+                <value>pression-troupe-festin-pierre</value>
+                <a:documentation>Pression exercée par la troupe pour créer un Festin de Pierre</a:documentation>
+                <value>moliere-justifie-attachement-de-brie</value>
+                <a:documentation>Raisons de l’attachement de Molière à Mlle de Brie</a:documentation>
+                <value>art-affranchir-regles</value>
+                <a:documentation>Refus de corriger un vers de Boileau « c’est l’art même qui doit nous apprendre à nous affranchir des règles de l’art »</a:documentation>
+                <value>refus-lecture-publique</value>
+                <a:documentation>Refus de lire ses œuvres en public</a:documentation>
+                <value>refus-madame-flandrin</value>
+                <a:documentation>Refus de Molière d’accéder à la demande de Madame (Henriette d’Angleterre) parce qu’il avait un original pour le « flandrin »</a:documentation>
+                <value>differend-chapelle-valet</value>
+                <a:documentation>Règlement du différend entre Chapelle et son valet Godemer</a:documentation>
+                <value>reponse-montausier-misanthrope</value>
+                <a:documentation>Réponse de Montausier sur prétendue ressemblance avec Alceste</a:documentation>
+                <value>reproche-boileau-metier-acteur</value>
+                <a:documentation>Reproches de Boileau contre l’obstination de Molière à poursuivre son métier d’acteur</a:documentation>
+                <value>revolte-spectateurs-dandin</value>
+                <a:documentation>Révolte des spectateurs devant l’humiliation de George Dandin</a:documentation>
+                <value>bejart-role-boiteux</value>
+                <a:documentation>Rôle adapté à l’acteur : insulte « ce chien de boiteux-là » et Béjart, estropié</a:documentation>
+                <value>hubert-role-lachete</value>
+                <a:documentation>Rôle adapté à l’acteur : lâcheté d’Hubert face aux mousquetaires</a:documentation>
+                <value>pauvre-homme-mot-du-roi</value>
+                <a:documentation>Scène du « pauvre homme » inspirée par le roi</a:documentation>
+                <value>secours-mondorge</value>
+                <a:documentation>Secours apporté au comédien Mondorge</a:documentation>
+                <value>sejour-vienne</value>
+                <a:documentation>Séjour de Molière à Vienne</a:documentation>
+                <value>silence-moliere-societe</value>
+                <a:documentation>Silence de Molière en société</a:documentation>
+                <value>soufflet-baron</value>
+                <a:documentation>Soufflet donné à Baron par Armande</a:documentation>
+                <value>souper-auteuil</value>
+                <a:documentation>Souper d’Auteuil</a:documentation>
+                <value>supplice-moliere-ecoutant-comediens</value>
+                <a:documentation>Supplice de Molière en écoutant ses comédiens « Ah ! chien ! ah ! bourreau ! »</a:documentation>
+                <value>supplique-veuve-enterrement</value>
+                <a:documentation>Supplique de la veuve de Molière au roi pour enterrer son mari</a:documentation>
+                <value>portrait-tartuffe-ninon-lenclos</value>
+                <a:documentation>Talent de conteuse de Ninon de Lenclos : portrait d’un Tartuffe</a:documentation>
+                <value>tentative-degouter-comedien</value>
+                <a:documentation>Tentative de Molière pour dégoûter un futur comédien</a:documentation>
+                <value>thebaide-jouee-en-province</value>
+                <a:documentation>Thébaïde jouée par la troupe de Molière à Bordeaux</a:documentation>
+                <value>traduction-lucrece</value>
+                <a:documentation>Traduction de Lucrèce</a:documentation>
+                <value>destruction-traduction-lucrece</value>
+                <a:documentation>Traduction de Lucrèce détruite par un valet</a:documentation>
+                <value>tumulte-mousquetaires</value>
+                <a:documentation>Tumulte causé par les mousquetaires au théâtre</a:documentation>
+                <value>humiliation-valet-de-chambre</value>
+                <a:documentation>Valet de chambre refusant de faire le lit du roi avec Molière, humiliation réparée par Bellocq1</a:documentation>
+                <value>valise-perdue</value>
+                <a:documentation>Valise perdue en province</a:documentation>
+                <value>vengeance-limousins-pourceaugnac</value>
+                <a:documentation>Vengeance contre les Limousins, à l’origine de M. de Pourceaugnac</a:documentation>
+                <value>vers-alceste-boileau</value>
+                <a:documentation>Vers d’Alceste « Hors qu’un commandement exprès du roi… » inspirés d’une boutade de Boileau</a:documentation>
+                <value>violence-visage-ecorche</value>
+                <a:documentation>Violence exercée contre Molière par l’original du marquis Tarte à la crème : visage écorché par les boutons du vêtement</a:documentation>
+                <value>vocation-obstacle-pere</value>
+                <a:documentation>Vocation contrariée par le père</a:documentation>
+                <value>vocation-grand-pere</value>
+                <a:documentation>Vocation déterminée par le grand-père de Molière</a:documentation>
+                <value>vocation-amour</value>
+                <a:documentation>Vocation déterminée par amour</a:documentation>
+              </choice>
+            </attribute>
+          </group>
+          <!-- commentStart -->
+          <group>
+            <attribute name="type">
+              <value>commentStart</value>
+            </attribute>
+            <attribute name="corresp">
+              <choice>
+                <value>#achat-habits-cotin</value>
+                <value>#actrice-ennemie-Armande</value>
+                <value>#piron-tartuffe</value>
+                <value>#lauzun-amants-magnifiques</value>
+                <value>#antipathie-de-brie</value>
+                <value>#foule-argent-enterrement</value>
+                <value>#aumone-pauvre</value>
+                <value>#bas-envers</value>
+                <value>#boileau-promenade-couple</value>
+                <value>#boileau-défense-avare</value>
+                <value>#boileau-sacre-moliere</value>
+                <value>#eloge-composition-caractere</value>
+                <value>#duel-boissat</value>
+                <value>#ceremonie-1658</value>
+                <value>#chapelle-travaillant-pour-moliere</value>
+                <value>#classes-conti</value>
+                <value>#colere-coquetterie-armande</value>
+                <value>#conde-compagnie-moliere</value>
+                <value>#confidences-chapelle</value>
+                <value>#consolation-de-brie</value>
+                <value>#corneille-seduit-par-armande</value>
+                <value>#cri-vieillard-precieuses</value>
+                <value>#cri-indignation-veuve</value>
+                <value>#defense-plaideurs-moliere</value>
+                <value>#defense-misanthrope-moliere</value>
+                <value>#dette-corneille</value>
+                <value>#dispute-princesse-elide</value>
+                <value>#dispute-philosophique-chapelle</value>
+                <value>#doleance-a-travers-sosie</value>
+                <value>#duel-comediennes</value>
+                <value>#echec-avare-prose</value>
+                <value>#echec-misanthrope</value>
+                <value>#la-fontaine-bonhomme</value>
+                <value>#eloge-jeu-beauval</value>
+                <value>#enfance-marâtre</value>
+                <value>#etonnement-succes-comedies</value>
+                <value>#expiation-parentes-tartuffe</value>
+                <value>#fauteuil-barbier</value>
+                <value>#feu-tombe-pauvres</value>
+                <value>#fontaine-gignac</value>
+                <value>#gassendi-precepteur</value>
+                <value>#dementi-applications-femmes-savantes</value>
+                <value>#impôt-habitants-pezenas</value>
+                <value>#menage-beau-joueur-satire</value>
+                <value>#correction-auteur-precieux-voltaire</value>
+                <value>#intrigue-galante-montagnac</value>
+                <value>#jalousie-baron-melicerte</value>
+                <value>#jugement-roi-bourgeois-gentilhomme</value>
+                <value>#lecture-pieces-servante</value>
+                <value>#lettre-improvisee-pezenas</value>
+                <value>#roi-metteur-en-scene</value>
+                <value>#lully-pourceaugnac</value>
+                <value>#maitre-pension-envoye-par-famille</value>
+                <value>#martine-jouant-son-role</value>
+                <value>#martyre-amoureux</value>
+                <value>#mort-cotin-satire</value>
+                <value>#memoires-et-tablettes</value>
+                <value>#menage-repenti-precieuses</value>
+                <value>#mepris-femme-peuple-enterrement</value>
+                <value>#beauval-adoubee-par-roi</value>
+                <value>#marotte-fille-chambre-de-brie</value>
+                <value>#maitresse-conti-fait-venir-troupe</value>
+                <value>#dacier-renonce-dissertation</value>
+                <value>#moliere-sancho-ane</value>
+                <value>#moliere-table-boissat</value>
+                <value>#moliere-table-roi</value>
+                <value>#sujet-thebaide-racine</value>
+                <value>#tragedie-irene-lyon</value>
+                <value>#moliere-spectateur</value>
+                <value>#mort-sacrificielle</value>
+                <value>#mot-conde-epitaphe</value>
+                <value>#mot-conde-tartuffe</value>
+                <value>#bon-mot-mauvillain</value>
+                <value>#mot-lamoignon-tartuffe</value>
+                <value>#mot-mepris-pilule</value>
+                <value>#moliere-original-argan</value>
+                <value>#original-apothicaire</value>
+                <value>#original-dandin-neutralise</value>
+                <value>#original-pourceaugnac</value>
+                <value>#esclandre-original-sganarelle</value>
+                <value>#original-tartuffe</value>
+                <value>#original-bourgeois-gentilhomme</value>
+                <value>#rohault-original-maitre-philosophie</value>
+                <value>#original-type-extravagant</value>
+                <value>#lieutenant-tardieu-avare</value>
+                <value>#originaux-amour-medecin</value>
+                <value>#origine-comtesse-escarbagnas</value>
+                <value>#origine-monsieur-pourceaugnac</value>
+                <value>#origine-tartuffe-chez-longueville</value>
+                <value>#origine-dispute-maitre-armes-maitre-danse</value>
+                <value>#differend-logeuse</value>
+                <value>#origine-mariage-force</value>
+                <value>#origine-nom-escarbagnas</value>
+                <value>#origine-nom-tartuffe</value>
+                <value>#parmesan-agonie</value>
+                <value>#villedieu-actrice</value>
+                <value>#passion-corneille-du-parc</value>
+                <value>#chasseur-ajoute-par-roi</value>
+                <value>#plagiat-reprendre-son-bien</value>
+                <value>#plagiat-theophile</value>
+                <value>#plaintes-rohault-mignard</value>
+                <value>#plaisanterie-nesle-precieuses</value>
+                <value>#poste-secretaire-conti</value>
+                <value>#pression-troupe-festin-pierre</value>
+                <value>#moliere-justifie-attachement-de-brie</value>
+                <value>#art-affranchir-regles</value>
+                <value>#refus-lecture-publique</value>
+                <value>#refus-madame-flandrin</value>
+                <value>#differend-chapelle-valet</value>
+                <value>#reponse-montausier-misanthrope</value>
+                <value>#reproche-boileau-metier-acteur</value>
+                <value>#revolte-spectateurs-dandin</value>
+                <value>#bejart-role-boiteux</value>
+                <value>#hubert-role-lachete</value>
+                <value>#pauvre-homme-mot-du-roi</value>
+                <value>#secours-mondorge</value>
+                <value>#sejour-vienne</value>
+                <value>#silence-moliere-societe</value>
+                <value>#soufflet-baron</value>
+                <value>#souper-auteuil</value>
+                <value>#supplice-moliere-ecoutant-comediens</value>
+                <value>#supplique-veuve-enterrement</value>
+                <value>#portrait-tartuffe-ninon-lenclos</value>
+                <value>#tentative-degouter-comedien</value>
+                <value>#thebaide-jouee-en-province</value>
+                <value>#traduction-lucrece</value>
+                <value>#destruction-traduction-lucrece</value>
+                <value>#tumulte-mousquetaires</value>
+                <value>#humiliation-valet-de-chambre</value>
+                <value>#valise-perdue</value>
+                <value>#vengeance-limousins-pourceaugnac</value>
+                <value>#vers-alceste-boileau</value>
+                <value>#violence-visage-ecorche</value>
+                <value>#vocation-obstacle-pere</value>
+                <value>#vocation-grand-pere</value>
+                <value>#vocation-amour</value>
+              </choice>
+            </attribute>
+          </group>
+          <!-- anecdoteEnd | commentEnd -->
+          <attribute name="type">
+            <choice>
+              <value>anecdoteEnd</value>
+              <a:documentation>Fin d’une anecdote</a:documentation>
+              <value>commentEnd</value>
+              <a:documentation>Fin du commentaire</a:documentation>
+            </choice>
+          </attribute>
+        </choice>
+      </element>
+    </define>
+    
+  </include>
+  
+  <!--
+    SPÉCIFIQUE ANECDOTES
+  -->
+  
+  
+</grammar>
