@@ -6,20 +6,22 @@
  */
 include (dirname(__FILE__).'/../teipot/Teipot.php');
 $path = Web::pathinfo(); // path demandé
+
+// les pièces commencent par moliere, laissaer la main au script pieces.php
+if (strpos($path, 'moliere') === 0) {
+  include (dirname(__FILE__).'/theatre.php');
+  exit();
+}
+// devanciers et contemporains
+if (strpos($path, 'contexte') === 0) {
+  include (dirname(__FILE__).'/contexte.php');
+  exit();
+}
 $pot = false;
 $q = ""; // requête en cours
 
-// les pièces commencent par moliere…
-if (strpos($path, 'moliere') === 0) {
-  list($playcode) = explode('/', $path);
-  $pdomol = new PDO('sqlite:'.dirname(__FILE__).'/moliere.sqlite');
-  $pdomol->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION );
-  $qobj = $pdomol->prepare("SELECT * FROM object WHERE playcode = ? AND type = ?");
-  $play = $pdomol->query("SELECT * FROM play WHERE code = ".$pdomol->quote($playcode))->fetch();
-  $moliere = true;
-}
 // ou alors on charge de la critique sous critique/…,
-else if (strpos($path, 'critique/') === 0) {
+if (strpos($path, 'critique/') === 0) {
   // noter, le path relatif dans la base critique.sqlite
   $pot = new Teipot(dirname(__FILE__).'/critique-moliere.sqlite', 'fr', substr($path, 9));
   $pot->file(); // fichiers statiques, notamment images
@@ -57,24 +59,16 @@ $theme = Web::basehref().'../theme/'; // autres ressources spécifiques
 ?><!DOCTYPE html>
 <html>
   <head>
-    <meta charset="UTF-8" />
-    <link rel="stylesheet" charset="utf-8" type="text/css" href="<?php echo $teinte; ?>tei2html.css"/>
-    <link rel="stylesheet" type="text/css" href="<?php echo $theme; ?>obvil.css" />
-    <link rel="stylesheet" charset="utf-8" type="text/css" href="<?php echo Web::basehref().'../'; ?>Dramaturgie/dramaturgie.css"/>
-    <script src="<?php echo Web::basehref().'../'; ?>Dramaturgie/sigma/sigma.min.js">//</script>
-    <script src="<?php echo Web::basehref().'../'; ?>Dramaturgie/sigma/sigma.layout.forceAtlas2.min.js">//</script>
-    <script src="<?php echo Web::basehref().'../'; ?>Dramaturgie/sigma/sigma.plugins.dragNodes.min.js">//</script>
-    <script src="<?php echo Web::basehref().'../'; ?>Dramaturgie/sigma/sigma.exporters.image.min.js">//</script>
-    <script src="<?php echo Web::basehref().'../'; ?>Dramaturgie/Rolenet.js">//</script>
-    <style>
-#article { padding: 0; }
-#graph { background: #F5F5F5; }
-    </style>
-    <?php
+    <link rel="stylesheet" charset="utf-8" type="text/css" href="<?php echo $teinte ?>tei2html.css"/>
+    <link rel="stylesheet" type="text/css" href="<?php echo $theme ?>obvil.css" />
+        <?php
 if(isset($doc['head'])) echo $doc['head'];
 else echo '
 <title>OBVIL, Molière</title>
 ';
+if (isset($moliere) && !$play) {
+  echo '<style>#main { width: 100%; } #aside { visibility: hidden; } </style>';
+}
     ?>
   </head>
   <body>
@@ -96,70 +90,12 @@ else echo Web::$basehref;
             <?php
 if (isset($critique)) echo '<a href="' . Web::basehref() . 'critique/' . $pot->qsa(null, null, '?') . '">Critique moliéresque</a> &gt; ';
 if (isset($doc['breadcrumb'])) echo $doc['breadcrumb'];
-if (isset($play) && $play) { // navigation par select
-  echo '
-<form name="net" action="#">
-  <select name="play" onchange="this.form.action = this.options[this.selectedIndex].value; this.form.submit()">'."\n";
-  echo "    <option>  </option>\n";
-  foreach ($pdomol->query("SELECT * FROM play ORDER BY author, year") as $row) {
-    if ($row['code'] == $playcode) $selected=' selected="selected"';
-    else $selected = "";
-    if ($row['year']) $row['year'] .= ', ';
-    echo '    <option value="'.$row['code'].'"'.$selected.'>'.$row['year'].$row['title']."</option>\n";
-  }
-  echo '  </select>
-</form>';
-}
             ?>
             </nav>
           </nav>
           <div id="article">
       <?php
-if (isset($moliere) && !$play) {
-  echo '
-  <table class="sortable">
-    <tr>
-      <th>Date</th>
-      <th>Titre</th>
-      <th title="Quantité de texte prononcé en lignes (60 signes).">Paroles</th>
-      <th title="Nombre de répliques.">Répliques</th>
-      <th title="Taille moyenne d’une réplique, en lignes (60 signes).">Rép. moy.</th>
-      <th title="Nombre de personnages déclarés dans la distribution.">Pers.</th>
-      <th title="Nombre moyen de personnages su scène.">Prés. moy.</th>
-    </tr>';
-  ;
-  foreach ($pdomol->query("SELECT * FROM play ORDER BY author, year") as $row) {
-    echo '<tr>'."\n";
-    echo '<td>'.$row['year'].'</td>'."\n";
-    echo '<td>'.'<a href="'.$row['code'].'">'.$row['title']."</a></td>\n";
-    echo '<td align="right">'.number_format($row['c']/60, 0, ',', ' ').' l.</td>';
-    echo '<td align="right">'.$row['sp'].'</td>';
-    echo '<td align="right">'.number_format($row['c']/$row['sp']/60, 2, ',', ' ').' l.</td>';
-    echo '<td align="right">'.$row['roles'].'</td>';
-    echo '<td align="right">'.number_format($row['presence']/$row['c'], 1, ',', ' ').' pers.</td>';
-    echo '</tr>'."\n";
-
-  }
-  echo '</table>'."\n";
-}
-else if (isset($moliere)) {
-  $qobj->execute(array($playcode, 'canvas'));
-  $row = $qobj->fetch(PDO::FETCH_ASSOC);
-  echo $row['cont'];
-  echo'<script> var data =';
-  $qobj->execute(array($playcode, 'sigma'));
-  $row = $qobj->fetch(PDO::FETCH_ASSOC);
-  echo $row['cont'];
-  echo ' var graph = new Rolenet("graph", data, "../Dramaturgie/sigma/worker.js"); //';
-  echo "    </script>\n";
-  $qobj->execute(array($playcode, 'roletable'));
-  $row = $qobj->fetch(PDO::FETCH_ASSOC);
-  echo $row['cont'];
-  $qobj->execute(array($playcode, 'article'));
-  $res = $qobj->fetch(PDO::FETCH_ASSOC);
-  echo '<div style="padding: 0 20px 50px 45px; ">'.$res['cont'].'</div>';
-}
-else if (isset($doc['body'])) {
+if (isset($doc['body'])) {
   echo $doc['body'];
   // page d’accueil d’un livre avec recherche plein texte, afficher une concordance
   if ($pot && $pot->q && (!$doc['artname'] || $doc['artname']=='index')) {
@@ -167,7 +103,7 @@ else if (isset($doc['body'])) {
   }
 }
 // pas de livre demandé, montrer un rapport général
-else if($pot) {
+else if ( $pot ) {
   // nombre de résultats
   echo $pot->report();
   // présentation bibliographique des résultats
@@ -177,25 +113,13 @@ else if($pot) {
   echo $pot->concByBook();
 }
       ?>
-         </div>
-      </div>
-      <aside id="aside">
+          </div>
+        </div>
+        <aside id="aside">
           <?php
-// pièce de Théâtre
-if(isset($moliere) && $play) {
-  echo "\n".'<nav id="download"><small>Télécharger :</small>
-  <a href="http://dramacode.github.io/epub/'.$playcode.'.epub">epub</a>,
-  <a href="http://dramacode.github.io/kindle/'.$playcode.'.mobi">kindle</a>,
-  <a href="http://dramacode.github.io/iramuteq/'.$playcode.'.txt">iramuteq</a>,
-  <a href="http://dramacode.github.io/html/'.$playcode.'.html">html</a>.
-  </nav>';
-  $qobj->execute(array($playcode, 'charline'));
-  $res = $qobj->fetch(PDO::FETCH_ASSOC);
-  echo $res['cont'];
-  echo '<p> </p>';
-}
+
 // livre de critique
-else if (isset($doc['bookrowid'])) {
+if (isset($doc['bookrowid'])) {
   if(isset($doc['download'])) echo "\n".'<nav id="download">' . $doc['download'] . '</nav>';
   echo "\n<nav>";
   // auteur, titre, date
@@ -228,28 +152,10 @@ else if(isset($critique)) {
   ';
 }
 ?>
-      </aside>
-
+        </aside>
+      </div>
     </div>
     <script type="text/javascript" src="<?php echo $teinte; ?>Tree.js">//</script>
     <script type="text/javascript" src="<?php echo $teinte; ?>Sortable.js">//</script>
   </body>
 </html>
-<?php
-/**
- * Ligne bibliographique pour une pièce
- */
-function bibl($play) {
-  $bibl = $play['author'].', '.$play['title'];
-  $meta = array();
-  if ($play['year']) $meta[] = $play['year'];
-  if ($play['genre'] == 'tragedy') $meta[] = 'tragédie';
-  else if ($play['genre'] == 'comedy') $meta[] = 'comédie';
-  if ($play['acts']) $meta[] = $play['acts'].(($play['acts']>2)?" actes":" acte");
-  $meta[] = (($play['verse'])?"vers":"prose");
-  if (count($meta)) $bibl .= " (".implode(", ", $meta).")";
-  return $bibl;
-}
-
-$pdomol = null;
-?>
