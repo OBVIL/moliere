@@ -38,7 +38,7 @@
                 <a:documentation>Admiration de Piron pour Tartuffe</a:documentation>
                 <value>lauzun-amants-magnifiques</value>
                 <a:documentation>Allusion à Mlle de Lauzun dans Les Amants magnifiques</a:documentation>
-                <value>antipathie-de-brie</value>
+                <value>roles-antipathiques-de-brie</value>
                 <a:documentation>Antipathie de Molière à l’égard de M. de Brie, à l’origine des rôles antipathiques qu’il endosse</a:documentation>
                 <value>foule-argent-enterrement</value>
                 <a:documentation>Argent jeté à la foule menaçante par la veuve de Molière</a:documentation>
@@ -128,7 +128,7 @@
                 <a:documentation>Intrigue galante de Molière en province</a:documentation>
                 <value>jalousie-baron-melicerte</value>
                 <a:documentation>Jalousie de Molière à l’égard de Baron lors de la création de Mélicerte</a:documentation>
-                <value>jugement-roi-bourgeois-gentilhomme</value>
+                <value>eloge-roi-bourgeois-gentilhomme</value>
                 <a:documentation>Jugement sur Le Bourgeois gentilhomme différé par le roi</a:documentation>
                 <value>lecture-pieces-servante</value>
                 <a:documentation>Lecture des pièces à sa servante Laforest / aux enfants / Épreuve de Brécourt</a:documentation>
@@ -166,7 +166,7 @@
                 <a:documentation>Molière à la table de Boissat</a:documentation>
                 <value>table-roi</value>
                 <a:documentation>Molière à la table du roi</a:documentation>
-                <value>sujet-thebaide-racine</value>
+                <value>racine-thebaide</value>
                 <a:documentation>Molière donne à Racine le sujet de la Thébaïde</a:documentation>
                 <value>goguettes-croix-lorraine</value>
                 <a:documentation>Molière en goguettes au cabaret de La Croix de Lorraine</a:documentation>
