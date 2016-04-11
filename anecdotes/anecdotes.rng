@@ -70,6 +70,8 @@
                 <a:documentation>Confidences amoureuses de Molière à Chapelle</a:documentation>
                 <value>consolation-de-brie</value>
                 <a:documentation>Consolation auprès de Mlle de Brie</a:documentation>
+                <value>conti-conferant-avec-moliere</value>
+                <a:documentation>Conti aimant conférer avec Molière</a:documentation>
                 <value>corneille-seduit-par-armande</value>
                 <a:documentation>Corneille sensible à la beauté d’Armande Béjart</a:documentation>
                 <value>cri-vieillard-precieuses</value>
@@ -78,8 +80,10 @@
                 <a:documentation>Cri d’indignation de la veuve de Molière « Quoi ! l’on refusera la sépulture à un homme qui a mérité des autels</a:documentation>
                 <value>defense-plaideurs-moliere</value>
                 <a:documentation>Défense des Plaideurs par Molière</a:documentation>
-                <value>defense-misanthrope-moliere</value>
+                <value>defense-misanthrope-racine</value>
                 <a:documentation>Défense du Misanthrope par Racine</a:documentation>
+                <value>rohault-emprunt-chapeau</value>
+                <a:documentation>Dessein d'emprunter le chapeau de Rohault pour le costume du maître de philosophie du Bourgeois gentilhomme</a:documentation>
                 <value>dette-corneille</value>
                 <a:documentation>Dette de Molière envers Corneille (Le Menteur)</a:documentation>
                 <value>dispute-princesse-elide</value>
@@ -158,12 +162,14 @@
                 <a:documentation>Mme Dacier renonce à sa dissertation sur Amphitryon à cause des Femmes savantes</a:documentation>
                 <value>moliere-sancho-ane</value>
                 <a:documentation>Molière-Sancho sur l’âne</a:documentation>
-                <value>moliere-table-boissat</value>
+                <value>table-boissat</value>
                 <a:documentation>Molière à la table de Boissat</a:documentation>
-                <value>moliere-table-roi</value>
+                <value>table-roi</value>
                 <a:documentation>Molière à la table du roi</a:documentation>
                 <value>sujet-thebaide-racine</value>
                 <a:documentation>Molière donne à Racine le sujet de la Thébaïde</a:documentation>
+                <value>goguettes-croix-lorraine</value>
+                <a:documentation>Molière en goguettes au cabaret de La Croix de Lorraine</a:documentation>
                 <value>tragedie-irene-lyon</value>
                 <a:documentation>Molière monte à Lyon la tragédie de Claude Busset, Irène (// sujet tragique, La Thébaïde, donné à Racine)</a:documentation>
                 <value>moliere-spectateur</value>
@@ -194,8 +200,6 @@
                 <a:documentation>Original (aux) de Tartuffe</a:documentation>
                 <value>original-bourgeois-gentilhomme</value>
                 <a:documentation>Original du Bourgeois gentilhomme</a:documentation>
-                <value>rohault-original-maitre-philosophie</value>
-                <a:documentation>Original du maître de philosophie dans Le Bourgeois gentilhomme, Rohault</a:documentation>
                 <value>original-type-extravagant</value>
                 <a:documentation>Original d’un type encore à faire, l’Extravagant</a:documentation>
                 <value>lieutenant-tardieu-avare</value>
@@ -270,14 +274,14 @@
                 <a:documentation>Soufflet donné à Baron par Armande</a:documentation>
                 <value>souper-auteuil</value>
                 <a:documentation>Souper d’Auteuil</a:documentation>
-                <value>supplice-moliere-ecoutant-comediens</value>
+                <value>supplice-moliere-diction-comediens</value>
                 <a:documentation>Supplice de Molière en écoutant ses comédiens « Ah ! chien ! ah ! bourreau ! »</a:documentation>
                 <value>supplique-veuve-enterrement</value>
                 <a:documentation>Supplique de la veuve de Molière au roi pour enterrer son mari</a:documentation>
                 <value>portrait-tartuffe-ninon-lenclos</value>
                 <a:documentation>Talent de conteuse de Ninon de Lenclos : portrait d’un Tartuffe</a:documentation>
-                <value>tentative-degouter-comedien</value>
-                <a:documentation>Tentative de Molière pour dégoûter un futur comédien</a:documentation>
+                <value>dissuader-jeune-comedien</value>
+                <a:documentation>Tentative de Molière pour dissuader un jeune comédien</a:documentation>
                 <value>thebaide-jouee-en-province</value>
                 <a:documentation>Thébaïde jouée par la troupe de Molière à Bordeaux</a:documentation>
                 <value>traduction-lucrece</value>
