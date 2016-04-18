@@ -40,7 +40,7 @@
                 <a:documentation>Allusion à Mlle de Lauzun dans Les Amants magnifiques</a:documentation>
                 <value>roles-antipathiques-de-brie</value>
                 <a:documentation>Antipathie de Molière à l’égard de M. de Brie, à l’origine des rôles antipathiques qu’il endosse</a:documentation>
-                <value>foule-argent-enterrement</value>
+                <value>argent-foule-enterrement</value>
                 <a:documentation>Argent jeté à la foule menaçante par la veuve de Molière</a:documentation>
                 <value>aumone-pauvre</value>
                 <a:documentation>Aumône d’un louis d’or au pauvre</a:documentation>
@@ -156,9 +156,9 @@
                 <a:documentation>Mlle de Beauval adoubée par le roi malgré sa tentative pour la faire remplacer</a:documentation>
                 <value>marotte-fille-chambre-de-brie</value>
                 <a:documentation>Mlle Ragueneau, surnommée Marotte, fille de chambre de Mlle de Brie (lien avec le Roman comique)</a:documentation>
-                <value>maitresse-conti-fait-venir-troupe</value>
+                <value>troupe-appelee-par-maitresse-conti</value>
                 <a:documentation>Mme Calvimont, maîtresse de Conti, fait venir la troupe de Molière à Pézenas</a:documentation>
-                <value>dacier-renonce-dissertation</value>
+                <value>dissertation-dacier-femmes-savantes</value>
                 <a:documentation>Mme Dacier renonce à sa dissertation sur Amphitryon à cause des Femmes savantes</a:documentation>
                 <value>moliere-sancho-ane</value>
                 <a:documentation>Molière-Sancho sur l’âne</a:documentation>
@@ -182,7 +182,7 @@
                 <a:documentation>Mot de Condé sur Tartuffe</a:documentation>
                 <value>bon-mot-mauvillain</value>
                 <a:documentation>Mot de Molière sur son médecin Mauvillain</a:documentation>
-                <value>mot-lamoignon-tartuffe</value>
+                <value>mot-moliere-lamoignon</value>
                 <a:documentation>Mot de Molière contre le président de Lamoignon après l’interdiction du Tartuffe</a:documentation>
                 <value>mot-mepris-pilule</value>
                 <a:documentation>Mot de Molière sur le mépris, pilule difficile à avaler</a:documentation>
@@ -228,9 +228,9 @@
                 <a:documentation>Passage de Mme de Villedieu dans la troupe de Molière</a:documentation>
                 <value>passion-corneille-du-parc</value>
                 <a:documentation>Passion de Corneille pour Mlle Du Parc</a:documentation>
-                <value>chasseur-ajoute-par-roi</value>
+                <value>personnage-chasseur-inspire-par-roi</value>
                 <a:documentation>Personnage du chasseur des Fâcheux inspiré par le roi + Molière se documente auprès de M. Soyecourt lui-même</a:documentation>
-                <value>plagiat-reprendre-son-bien</value>
+                <value>plagiat-pedant-joue</value>
                 <a:documentation>Plagiat : « Je reprends mon bien où je le trouve »</a:documentation>
                 <value>plagiat-theophile</value>
                 <a:documentation>Plagiat de Théophile dénoncé par son régent</a:documentation>
@@ -300,7 +300,7 @@
                 <a:documentation>Vers d’Alceste « Hors qu’un commandement exprès du roi… » inspirés d’une boutade de Boileau</a:documentation>
                 <value>violence-visage-ecorche</value>
                 <a:documentation>Violence exercée contre Molière par l’original du marquis Tarte à la crème : visage écorché par les boutons du vêtement</a:documentation>
-                <value>vocation-obstacle-pere</value>
+                <value>vocation-contrariee-pere</value>
                 <a:documentation>Vocation contrariée par le père</a:documentation>
                 <value>vocation-grand-pere</value>
                 <a:documentation>Vocation déterminée par le grand-père de Molière</a:documentation>
