@@ -80,7 +80,7 @@
                 <a:documentation>Cri d’indignation de la veuve de Molière « Quoi ! l’on refusera la sépulture à un homme qui a mérité des autels</a:documentation>
                 <value>defense-plaideurs-moliere</value>
                 <a:documentation>Défense des Plaideurs par Molière</a:documentation>
-                <value>defense-misanthrope-racine</value>
+                <value>racine-defend-misanthrope</value>
                 <a:documentation>Défense du Misanthrope par Racine</a:documentation>
                 <value>rohault-emprunt-chapeau</value>
                 <a:documentation>Dessein d'emprunter le chapeau de Rohault pour le costume du maître de philosophie du Bourgeois gentilhomme</a:documentation>

@@ -1,18 +1,38 @@
-<?php
-	//lien vers le texte de l'anecdote : transformer les <milestones@xml:id/> en <???@id/> dans tei2html
-foreach($anecdotes as $anecdote) {?>
-	<div type="anecdote" copyOf="<?php echo $anecdote["id"]; ?>" xml:id="<?php echo $bookId; ?>_<?php echo $anecdote["id"]; ?>">
-	<head>
-		<ref target="../critique/<?php echo $bookId; ?>#<?php echo $anecdote["id"]; ?>"><?php echo $anecdote["id"]; ?></ref>
-	</head>
-	<?php foreach($comments as $comment) {	
-		if($comment["id"] == $anecdote["id"] && $comment["offset"]<$anecdote["offset"]) {?>
-		<p><?php echo teiClean($comment["text"]);?></p>
-	<?php }} ?>
-		<p rend="b"><?php echo teiClean($anecdote["text"]);?></p>
-	<?php foreach($comments as $comment) {
-		if($comment["id"] == $anecdote["id"] && $comment["offset"]>$anecdote["offset"]) {?>
-		<p><?php echo teiClean($comment["text"]);?></p>
-	<?php }}?>
-	</div>
-<?php } ?>
+<table>
+	<thead>
+		<th>
+		</th>
+		<?php foreach($books as $bookId=>$book){?>
+			<th>
+				<?php echo $book["author"] ?>
+				<?php echo $book["title"] ?>
+				<?php echo $book["date"] ?>
+			</th>
+		<?php }?>
+	</thead>
+	<tbody>
+		<?php foreach($anecdotes as $anecdoteId=>$anecdote){?>
+			<tr>
+				<td>
+					<?php echo $anecdote["description"] ?>
+				</td>
+				<td>
+					<?php echo $anecdote["dateFirstOccurrence"] ?>
+				</td>
+				<td>
+					<?php echo $anecdote["dateLastOccurrence"] ?>
+				</td>
+				<td>
+					<?php echo $anecdote["numberOccurrences"] ?>
+				</td>
+				<?php foreach($books as $bookId=>$book){?>
+					<td>
+						<?php echo $anecdote["books"][$bookId]["commentBefore"] ?>
+						<?php echo $anecdote["books"][$bookId]["content"] ?>
+						<?php echo $anecdote["books"][$bookId]["commentAfter"] ?>
+					</td>
+				<?php }?>
+			</tr>
+		<?php }?>
+	</tbody>
+</table>
