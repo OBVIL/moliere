@@ -1,6 +1,8 @@
 <?php
-//prend les fichiers TEI listés dans corpus.txt et regénère books.xml (regex)
+//prend les fichiers TEI listés dans corpus.txt et regénère books.xml (regex). id : book + book_anecdote
+//prend les fichiers TEI listés dans corpus.txt et regénère anecdotes.xml (regex). id : anecdote + book_anecdote
 //prend anecdotes.xml et regénère anecdotes.rng (xslt)
+//insère les xml:id dans tei : book_anecdote
 function combine($array1){
 	$array2 = [];
 	$i = 0;
