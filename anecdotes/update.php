@@ -4,7 +4,7 @@
 //prend anecdotes.xml et regénère anecdotes.rng (xslt)
 //insère les xml:id dans tei : book_anecdote
 function combine($array1){
-	$array2 = [];
+	$array2 = array();
 	$i = 0;
 	while($i < count($array1[0])){
 		$array2[$i]["id"] = $array1[1][$i][0];
