@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="../../teipub/xsl/tei2html.xsl"?>
+<TEI xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Anecdotes de la vie de Molière</title>
+        <principal>Élodie Bénard</principal>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL</edition>
+      </editionStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="anecdote" xml:id="achat-habits-cotin">
+        <head>Achat des habits de Cotin pour <hi rend="i">Les Femmes savantes</hi></head>
+      </div>
+      <div type="anecdote" xml:id="actrice-ennemie-Armande">
+        <head>Actrice ennemie d’Armande Béjart, source de <hi rend="i">La Fameuse comédienne</hi></head>
+      </div>
+      <div type="anecdote" xml:id="piron-tartuffe">
+        <head>Admiration de Piron pour <hi rend="i">Tartuffe</hi></head>
+      </div>
+      <div type="anecdote" xml:id="lauzun-amants-magnifiques">
+        <head>Allusion à Mlle de Lauzun dans <hi rend="i">Les Amants magnifiques</hi></head>
+      </div>
+      <div type="anecdote" xml:id="roles-antipathiques-de-brie">
+        <head>Antipathie de Molière à l’égard de M. de Brie, à l’origine des rôles antipathiques qu’il endosse</head>
+      </div>
+      <div type="anecdote" xml:id="foule-argent-enterrement">
+        <head>Argent jeté à la foule menaçante par la veuve de Molière</head>
+      </div>
+      <div type="anecdote" xml:id="aumone-pauvre">
+        <head>Aumône d’un louis d’or au pauvre</head>
+      </div>
+      <div type="anecdote" xml:id="bas-envers">
+        <head>Bas mis à l’envers par le valet, nommé Provençal</head>
+      </div>
+      <div type="anecdote" xml:id="boileau-promenade-couple">
+        <head>Boileau assiste à la promenade de Molière et Armande, signe d’un retour de flamme dans le couple</head>
+      </div>
+      <div type="anecdote" xml:id="boileau-défense-avare">
+        <head>Boileau défend <hi rend="i">L’Avare</hi> contre la critique de Racine</head>
+      </div>
+      <div type="anecdote" xml:id="boileau-sacre-moliere">
+        <head>Boileau sacre Molière écrivain le plus rare du siècle</head>
+      </div>
+      <div type="anecdote" xml:id="eloge-composition-caractere">
+        <head>Boileau loue le talent de Molière à composer un caractère</head>
+      </div>
+      <div type="anecdote" xml:id="duel-boissat">
+        <head>Boissat provoqué en duel à la suite de la représentation d’une comédie de Molière</head>
+      </div>
+      <div type="anecdote" xml:id="ceremonie-1658">
+        <head>Cérémonie du 24 octobre 1658</head>
+      </div>
+      <div type="anecdote" xml:id="chapelle-travaillant-pour-moliere">
+        <head>Chapelle travaillant pour Molière</head>
+      </div>
+      <div type="anecdote" xml:id="classes-conti">
+        <head>Classes avec Conti</head>
+      </div>
+      <div type="anecdote" xml:id="colere-coquetterie-armande">
+        <head>Colère de Molière contre Armande, trop coquette dans le rôle d’Elmire</head>
+      </div>
+      <div type="anecdote" xml:id="conde-compagnie-moliere">
+        <head>Condé recherche la compagnie de Molière</head>
+      </div>
+      <div type="anecdote" xml:id="confidences-chapelle">
+        <head>Confidences amoureuses de Molière à Chapelle</head>
+      </div>
+      <div type="anecdote" xml:id="consolation-de-brie">
+        <head>Consolation auprès de Mlle de Brie</head>
+      </div>
+      <div type="anecdote" xml:id="conti-conferant-avec-moliere">
+        <head>Conti aimant conférer avec Molière</head>
+      </div>
+      <div type="anecdote" xml:id="corneille-seduit-par-armande">
+        <head>Corneille sensible à la beauté d’Armande Béjart</head>
+      </div>
+      <div type="anecdote" xml:id="cri-vieillard-precieuses">
+        <head>Cri d’admiration du vieillard du parterre lors de la représentation des <hi rend="i">Précieuses</hi></head>
+      </div>
+      <div type="anecdote" xml:id="cri-indignation-veuve">
+        <head>Cri d’indignation de la veuve de Molière « Quoi ! l’on refusera la sépulture à un homme qui a mérité des autels</head>
+      </div>
+      <div type="anecdote" xml:id="defense-plaideurs-moliere">
+        <head>Défense des <hi rend="i">Plaideurs</hi> par Molière</head>
+      </div>
+      <div type="anecdote" xml:id="defense-racine-misanthrope">
+        <head>Défense du <hi rend="i">Misanthrope</hi> par Racine</head>
+      </div>
+      <div type="anecdote" xml:id="rohault-emprunt-chapeau">
+        <head>Dessein d'emprunter le chapeau de Rohault pour le costume du maître de philosophie du <hi rend="i">Bourgeois gentilhomme</hi></head>
+      </div>
+      <div type="anecdote" xml:id="dette-corneille">
+        <head>Dette de Molière envers Corneille (<hi rend="i">Le Menteur</hi>)</head>
+      </div>
+      <div type="anecdote" xml:id="dispute-princesse-elide">
+        <head>Dispute conjugale après la représentation de <hi rend="i">La Princesse d’Élide</hi> à Versailles</head>
+      </div>
+      <div type="anecdote" xml:id="dispute-philosophique-chapelle">
+        <head>Dispute philosophique entre Molière et Chapelle devant le frère minime</head>
+      </div>
+      <div type="anecdote" xml:id="doleance-a-travers-sosie">
+        <head>Doléance secrète de Molière contre les « chaînes » du roi par le truchement de Sosie</head>
+      </div>
+      <div type="anecdote" xml:id="duel-comediennes">
+        <head>Duel entre Mlle Beaupré et Mlle Des-Urlis, après la représentation de <hi rend="i">La Comtesse d’Escarbagnas</hi></head>
+      </div>
+      <div type="anecdote" xml:id="echec-avare-prose">
+        <head>Échec de <hi rend="i">L’Avare</hi> dû à la prose</head>
+      </div>
+      <div type="anecdote" xml:id="echec-misanthrope">
+        <head>Échec prétendu du <hi rend="i">Misanthrope</hi></head>
+      </div>
+      <div type="anecdote" xml:id="la-fontaine-bonhomme">
+        <head>Éloge du « bonhomme » La Fontaine</head>
+      </div>
+      <div type="anecdote" xml:id="eloge-jeu-beauval">
+        <head>Éloge du jeu naturel de Beauval</head>
+      </div>
+      <div type="anecdote" xml:id="enfance-marâtre">
+        <head>Enfance malheureuse avec une marâtre, à l’origine du <hi rend="i">Malade imaginaire</hi></head>
+      </div>
+      <div type="anecdote" xml:id="etonnement-succes-comedies">
+        <head>Étonnement de Molière devant le succès de ses comédies auprès des « personnes d’esprit »</head>
+      </div>
+      <div type="anecdote" xml:id="expiation-parentes-tartuffe">
+        <head>Expiation parentes de Molière, religieuses, à cause du <hi rend="i">Tartuffe</hi></head>
+      </div>
+      <div type="anecdote" xml:id="fauteuil-barbier">
+        <head>Fauteuil chez le barbier</head>
+      </div>
+      <div type="anecdote" xml:id="feu-tombe-pauvres">
+        <head>Feu sur la tombe de Molière pour réchauffer les pauvres</head>
+      </div>
+      <div type="anecdote" xml:id="fontaine-gignac">
+        <head>Fontaine de Gignac</head>
+      </div>
+      <div type="anecdote" xml:id="gassendi-precepteur">
+        <head>Gassendi précepteur</head>
+      </div>
+      <div type="anecdote" xml:id="dementi-applications-femmes-savantes">
+        <head>Harangue prononcée par Molière pour démentir les applications dans <hi rend="i">Les Femmes savantes</hi></head>
+      </div>
+      <div type="anecdote" xml:id="impôt-habitants-pezenas">
+        <head>Imposition des habitants de Pézenas au profit de la troupe de Molière</head>
+      </div>
+      <div type="anecdote" xml:id="menage-beau-joueur-satire">
+        <head>Ménage loue Les Femmes savantes quand Mme de Rambouillet est indignée</head>
+      </div>
+      <div type="anecdote" xml:id="correction-auteur-precieux-voltaire">
+        <head>Voltaire propose à La Harpe d’intercaler dans <hi rend="i">Les Précieuses</hi> la phrase d’un auteur pour que celui-ci s’en corrige</head>
+      </div>
+      <div type="anecdote" xml:id="intrigue-galante-montagnac">
+        <head>Intrigue galante de Molière en province</head>
+      </div>
+      <div type="anecdote" xml:id="jalousie-baron-melicerte">
+        <head>Jalousie de Molière à l’égard de Baron lors de la création de <hi rend="i">Mélicerte</hi></head>
+      </div>
+      <div type="anecdote" xml:id="eloge-roi-bourgeois-gentilhomme">
+        <head>Jugement sur <hi rend="i">Le Bourgeois gentilhomme</hi> différé par le roi</head>
+      </div>
+      <div type="anecdote" xml:id="lecture-pieces-servante">
+        <head>Lecture des pièces à sa servante Laforest / aux enfants / Épreuve de Brécourt</head>
+      </div>
+      <div type="anecdote" xml:id="lettre-improvisee-pezenas">
+        <head>Lettre improvisée</head>
+      </div>
+      <div type="anecdote" xml:id="roi-metteur-en-scene">
+        <head>Louis XIV metteur en scène de Molière</head>
+      </div>
+      <div type="anecdote" xml:id="lully-pourceaugnac">
+        <head>Lully jouant <hi rend="i">Pourceaugnac</hi> pour amadouer le roi</head>
+      </div>
+      <div type="anecdote" xml:id="maitre-pension-envoye-par-famille">
+        <head>Maître de pension envoyé par la famille de Molière pour le détourner du métier de comédien</head>
+      </div>
+      <div type="anecdote" xml:id="martine-jouant-son-role">
+        <head>Martine servante de Molière jouant son propre rôle</head>
+      </div>
+      <div type="anecdote" xml:id="martyre-amoureux">
+        <head>Martyre amoureux</head>
+      </div>
+      <div type="anecdote" xml:id="mort-cotin-satire">
+        <head>Mélancolie et mort de Cotin provoquée par la satire de Molière dans <hi rend="i">Les Femmes savantes</hi></head>
+      </div>
+      <div type="anecdote" xml:id="memoires-et-tablettes">
+        <head>Mémoires et tablettes de Molière</head>
+      </div>
+      <div type="anecdote" xml:id="menage-repenti-precieuses">
+        <head>Ménage repenti « Il nous faudra brûler ce que nous avons adoré » (<hi rend="i">Précieuses</hi>)</head>
+      </div>
+      <div type="anecdote" xml:id="mepris-femme-peuple-enterrement">
+        <head>Mépris d’une femme du peuple lors de l’enterrement de Molière</head>
+      </div>
+      <div type="anecdote" xml:id="beauval-adoubee-par-roi">
+        <head>Mlle de Beauval adoubée par le roi malgré sa tentative pour la faire remplacer</head>
+      </div>
+      <div type="anecdote" xml:id="marotte-fille-chambre-de-brie">
+        <head>Mlle Ragueneau, surnommée Marotte, fille de chambre de Mlle de Brie (lien avec <hi rend="i">Le Roman comique</hi>)</head>
+      </div>
+      <div type="anecdote" xml:id="troupe-appelee-par-maitresse-conti">
+        <head>Mme Calvimont, maîtresse de Conti, fait venir la troupe de Molière à Pézenas</head>
+      </div>
+      <div type="anecdote" xml:id="dissertation-dacier-femmes-savantes">
+        <head>Mme Dacier renonce à sa dissertation sur <hi rend="i">Amphitryon</hi> à cause des <hi rend="i">Femmes savantes</hi></head>
+      </div>
+      <div type="anecdote" xml:id="moliere-sancho-ane">
+        <head>Molière-Sancho sur l’âne</head>
+      </div>
+      <div type="anecdote" xml:id="table-boissat">
+        <head>Molière à la table de Boissat</head>
+      </div>
+      <div type="anecdote" xml:id="table-roi">
+        <head>Molière à la table du roi</head>
+      </div>
+      <div type="anecdote" xml:id="racine-thebaide">
+        <head>Molière donne à Racine le sujet de <hi rend="i">La Thébaïde</hi></head>
+      </div>
+      <div type="anecdote" xml:id="goguettes-croix-lorraine">
+        <head>Molière en goguettes au cabaret de La Croix de Lorraine</head>
+      </div>
+      <div type="anecdote" xml:id="tragedie-irene-lyon">
+        <head>Molière monte à Lyon la tragédie de Claude Busset, Irène (// sujet tragique, <hi rend="i">La Thébaïde</hi>, donné à Racine)</head>
+      </div>
+      <div type="anecdote" xml:id="moliere-spectateur">
+        <head>Molière, spectateur du <hi rend="i">Portrait du peintre</hi></head>
+      </div>
+      <div type="anecdote" xml:id="mort-sacrificielle">
+        <head>Mort sacrificielle</head>
+      </div>
+      <div type="anecdote" xml:id="mot-conde-epitaphe">
+        <head>Mot de Condé contre l’auteur d’une épitaphe à Molière</head>
+      </div>
+      <div type="anecdote" xml:id="mot-conde-tartuffe">
+        <head>Mot de Condé sur <hi rend="i">Tartuffe</hi></head>
+      </div>
+      <div type="anecdote" xml:id="bon-mot-mauvillain">
+        <head>Mot de Molière sur son médecin Mauvillain</head>
+      </div>
+      <div type="anecdote" xml:id="mot-lamoignon-tartuffe">
+        <head>Mot de Molière contre le président de Lamoignon après l’interdiction du <hi rend="i">Tartuffe</hi></head>
+      </div>
+      <div type="anecdote" xml:id="mot-mepris-pilule">
+        <head>Mot de Molière sur le mépris, pilule difficile à avaler</head>
+      </div>
+      <div type="anecdote" xml:id="moliere-original-argan">
+        <head>Original d’Argan, Molière</head>
+      </div>
+      <div type="anecdote" xml:id="original-apothicaire">
+        <head>Original de l’apothicaire du <hi rend="i">Malade imaginaire</hi></head>
+      </div>
+      <div type="anecdote" xml:id="original-dandin-neutralise">
+        <head>Original de George Dandin neutralisé</head>
+      </div>
+      <div type="anecdote" xml:id="original-pourceaugnac">
+        <head>Original (aux) de Pourceaugnac</head>
+      </div>
+      <div type="anecdote" xml:id="esclandre-original-sganarelle">
+        <head>Original de Sganarelle (<hi rend="i">Le Cocu imaginaire</hi>) provoque un esclandre</head>
+      </div>
+      <div type="anecdote" xml:id="original-tartuffe">
+        <head>Original (aux) de <hi rend="i">Tartuffe</hi></head>
+      </div>
+      <div type="anecdote" xml:id="original-bourgeois-gentilhomme">
+        <head>Original du <hi rend="i">Bourgeois gentilhomme</hi></head>
+      </div>
+      <div type="anecdote" xml:id="original-type-extravagant">
+        <head>Original d’un type encore à faire, l’Extravagant</head>
+      </div>
+      <div type="anecdote" xml:id="lieutenant-tardieu-avare">
+        <head>Originaux d’avares, le lieutenant Tardieu et sa femme</head>
+      </div>
+      <div type="anecdote" xml:id="originaux-amour-medecin">
+        <head>Originaux des médecins de <hi rend="i">L’Amour médecin</hi></head>
+      </div>
+      <div type="anecdote" xml:id="origine-comtesse-escarbagnas">
+        <head>Origine de <hi rend="i">La Comtesse d’Escarbagnas</hi></head>
+      </div>
+      <div type="anecdote" xml:id="origine-monsieur-pourceaugnac">
+        <head>Origine de <hi rend="i">Monsieur de Pourceaugnac</hi></head>
+      </div>
+      <div type="anecdote" xml:id="origine-tartuffe-chez-longueville">
+        <head>Origine de l’aventure de <hi rend="i">Tartuffe</hi> chez Mme de Longueville</head>
+      </div>
+      <div type="anecdote" xml:id="origine-dispute-maitre-armes-maitre-danse">
+        <head>Origine de la scène de dispute entre le maître de danse et le maître d’armes (<hi rend="i">Le Bourgeois gentilhomme</hi>)</head>
+      </div>
+      <div type="anecdote" xml:id="differend-logeuse">
+        <head>Origine de la satire de la médecine : différend avec sa logeuse</head>
+      </div>
+      <div type="anecdote" xml:id="origine-mariage-force">
+        <head>Origine du <hi rend="i">Mariage forcé</hi>, histoire du chevalier de Grammont</head>
+      </div>
+      <div type="anecdote" xml:id="origine-nom-escarbagnas">
+        <head>Origine du nom de la comtesse d’Escarbagnas</head>
+      </div>
+      <div type="anecdote" xml:id="origine-nom-tartuffe">
+        <head>Origine du nom « Tartuffe »</head>
+      </div>
+      <div type="anecdote" xml:id="parmesan-agonie">
+        <head>Parmesan réclamé par Molière à l’agonie</head>
+      </div>
+      <div type="anecdote" xml:id="villedieu-actrice">
+        <head>Passage de Mme de Villedieu dans la troupe de Molière</head>
+      </div>
+      <div type="anecdote" xml:id="passion-corneille-du-parc">
+        <head>Passion de Corneille pour Mlle Du Parc</head>
+      </div>
+      <div type="anecdote" xml:id="chasseur-ajoute-par-roi">
+        <head>Personnage du chasseur des <hi rend="i">Fâcheux</hi> inspiré par le roi + Molière se documente auprès de M. Soyecourt lui-même</head>
+      </div>
+      <div type="anecdote" xml:id="plagiat-reprendre-son-bien">
+        <head>Plagiat : « Je reprends mon bien où je le trouve »</head>
+      </div>
+      <div type="anecdote" xml:id="plagiat-theophile">
+        <head>Plagiat de Théophile dénoncé par son régent</head>
+      </div>
+      <div type="anecdote" xml:id="plaintes-rohault-mignard">
+        <head>Plaintes à Rohaut et Mignard</head>
+      </div>
+      <div type="anecdote" xml:id="plaisanterie-nesle-precieuses">
+        <head>Plaisanterie naïve du marquis de Nesle à l’origine d’une plaisanterie des <hi rend="i">Précieuses ridicules</hi></head>
+      </div>
+      <div type="anecdote" xml:id="poste-secretaire-conti">
+        <head>Poste de secrétaire offert par Conti</head>
+      </div>
+      <div type="anecdote" xml:id="pression-troupe-festin-pierre">
+        <head>Pression exercée par la troupe pour créer un <hi rend="i">Festin de Pierre</hi></head>
+      </div>
+      <div type="anecdote" xml:id="moliere-justifie-attachement-de-brie">
+        <head>Raisons de l’attachement de Molière à Mlle de Brie</head>
+      </div>
+      <div type="anecdote" xml:id="art-affranchir-regles">
+        <head>Refus de corriger un vers de Boileau « c’est l’art même qui doit nous apprendre à nous affranchir des règles de l’art »</head>
+      </div>
+      <div type="anecdote" xml:id="refus-lecture-publique">
+        <head>Refus de lire ses œuvres en public</head>
+      </div>
+      <div type="anecdote" xml:id="refus-madame-flandrin">
+        <head>Refus de Molière d’accéder à la demande de Madame (Henriette d’Angleterre) parce qu’il avait un original pour le « flandrin »</head>
+      </div>
+      <div type="anecdote" xml:id="differend-chapelle-valet">
+        <head>Règlement du différend entre Chapelle et son valet Godemer</head>
+      </div>
+      <div type="anecdote" xml:id="reponse-montausier-misanthrope">
+        <head>Réponse de Montausier sur prétendue ressemblance avec Alceste</head>
+      </div>
+      <div type="anecdote" xml:id="reproche-boileau-metier-acteur">
+        <head>Reproches de Boileau contre l’obstination de Molière à poursuivre son métier d’acteur</head>
+      </div>
+      <div type="anecdote" xml:id="revolte-spectateurs-dandin">
+        <head>Révolte des spectateurs devant l’humiliation de George Dandin</head>
+      </div>
+      <div type="anecdote" xml:id="bejart-role-boiteux">
+        <head>Rôle adapté à l’acteur : insulte « ce chien de boiteux-là » et Béjart, estropié</head>
+      </div>
+      <div type="anecdote" xml:id="hubert-role-lachete">
+        <head>Rôle adapté à l’acteur : lâcheté d’Hubert face aux mousquetaires</head>
+      </div>
+      <div type="anecdote" xml:id="pauvre-homme-mot-du-roi">
+        <head>Scène du « pauvre homme » inspirée par le roi</head>
+      </div>
+      <div type="anecdote" xml:id="secours-mondorge">
+        <head>Secours apporté au comédien Mondorge</head>
+      </div>
+      <div type="anecdote" xml:id="sejour-vienne">
+        <head>Séjour de Molière à Vienne</head>
+      </div>
+      <div type="anecdote" xml:id="silence-moliere-societe">
+        <head>Silence de Molière en société</head>
+      </div>
+      <div type="anecdote" xml:id="soufflet-baron">
+        <head>Soufflet donné à Baron par Armande</head>
+      </div>
+      <div type="anecdote" xml:id="souper-auteuil">
+        <head>Souper d’Auteuil</head>
+      </div>
+      <div type="anecdote" xml:id="supplice-moliere-diction-comediens">
+        <head>Supplice de Molière en écoutant ses comédiens « Ah ! chien ! ah ! bourreau ! »</head>
+      </div>
+      <div type="anecdote" xml:id="supplique-veuve-enterrement">
+        <head>Supplique de la veuve de Molière au roi pour enterrer son mari</head>
+      </div>
+      <div type="anecdote" xml:id="portrait-tartuffe-ninon-lenclos">
+        <head>Talent de conteuse de Ninon de Lenclos : portrait d’un Tartuffe</head>
+      </div>
+      <div type="anecdote" xml:id="dissuader-jeune-comedien">
+        <head>Tentative de Molière pour dissuader un jeune comédien</head>
+      </div>
+      <div type="anecdote" xml:id="thebaide-jouee-en-province">
+        <head><hi rend="i">Thébaïde</hi> jouée par la troupe de Molière à Bordeaux</head>
+      </div>
+      <div type="anecdote" xml:id="traduction-lucrece">
+        <head>Traduction de Lucrèce</head>
+      </div>
+      <div type="anecdote" xml:id="destruction-traduction-lucrece">
+        <head>Traduction de Lucrèce détruite par un valet</head>
+      </div>
+      <div type="anecdote" xml:id="tumulte-mousquetaires">
+        <head>Tumulte causé par les mousquetaires au théâtre</head>
+      </div>
+      <div type="anecdote" xml:id="humiliation-valet-de-chambre">
+        <head>Valet de chambre refusant de faire le lit du roi avec Molière, humiliation réparée par Bellocq</head>
+      </div>
+      <div type="anecdote" xml:id="valise-perdue">
+        <head>Valise perdue en province</head>
+      </div>
+      <div type="anecdote" xml:id="vengeance-limousins-pourceaugnac">
+        <head>Vengeance contre les Limousins, à l’origine de <hi rend="i">M. de Pourceaugnac</hi></head>
+      </div>
+      <div type="anecdote" xml:id="vers-alceste-boileau">
+        <head>Vers d’Alceste « Hors qu’un commandement exprès du roi… » inspirés d’une boutade de Boileau</head>
+      </div>
+      <div type="anecdote" xml:id="violence-visage-ecorche">
+        <head>Violence exercée contre Molière par l’original du marquis Tarte à la crème : visage écorché par les boutons du vêtement</head>
+      </div>
+      <div type="anecdote" xml:id="vocation-contrariee-pere">
+        <head>Vocation contrariée par le père</head>
+      </div>
+      <div type="anecdote" xml:id="vocation-grand-pere">
+        <head>Vocation déterminée par le grand-père de Molière</head>
+      </div>
+      <div type="anecdote" xml:id="vocation-amour">
+        <head>Vocation déterminée par amour</head>
+      </div>
+    </body>
+  </text>
+</TEI>

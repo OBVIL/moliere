@@ -1,10 +1,9 @@
-auger_introduction-oeuvres
 voltaire_vie-moliere
+auger_introduction-oeuvres
 bouillier_moliere-gassendi
-faguet_en-lisant-moliere
-janin_moliere
-larroumet_moliere-homme-et-comedien
-merlet_moliere
-moland-vie-de-moliere
 noel_moliere
+janin_moliere
+merlet_moliere
+larroumet_moliere-homme-et-comedien
+faguet_en-lisant-moliere
 brunetiere_moliere

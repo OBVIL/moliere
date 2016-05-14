@@ -1,0 +1,100 @@
+table{
+        border-collapse: collapse;
+
+}
+td, th{
+    border: 1px solid grey;
+}
+
+th{
+    font-weight: normal;
+}
+td, th{
+    padding: 5px;
+    text-align: justify;
+}
+
+.sc{
+    font-variant: small-caps;
+}
+
+.not-empty{
+    background-color: grey;
+}
+
+thead th.book-author {
+  height: 140px;
+  vertical-align: bottom;
+  white-space: nowrap;
+}
+
+thead th.book-date {
+  height: 40px;
+    vertical-align: bottom;
+
+  white-space: nowrap;
+}
+
+thead th  > div {
+    transform: 
+      translate(0px, 7px)
+      rotate(270deg);
+    width: 20px;
+}
+
+
+thead th   > div > span {
+    padding: 5px 10px;
+}
+
+
+
+.book-date{
+    height: 20px;
+}
+tbody div.container{
+    width:200px;
+    height:200px;
+    overflow: scroll;
+}
+td.anecdote-content{
+    width:20px;
+    height:20px;
+}
+
+.no-border{
+    border: none;
+}
+body{
+    font-family: Georgia;
+}
+.anecdote{
+    vertical-align: top;
+/*    font-style: italic;
+*/}
+p{margin: 0;}
+
+thead div{
+    margin: auto;
+}
+
+.comment{
+    margin: 5px 0;
+    color: grey;
+}
+
+a{color: #ac1a2f;}
+/*gris, police, centrer*/
+
+.book-detail{
+    width: 1000px !important;
+}
+.book-detail, .anecdote-detail{
+    background-color: white;
+}
+.book-detail .container{width:100% !important;}
+.book-detail .container, .anecdote-detail .container{height: auto !important;}
+a{cursor: pointer;}
+/*.matrix .not-empty.out{background-color: grey;}
+.matrix .not-empty.over{background-color: white;}*/
+th.book-author{text-align: center;}
