@@ -1,5 +1,6 @@
 <?php
 error_reporting(0);
+
 //prend les fichiers TEI listŽs dans corpus.txt et regŽnre books.xml (regex). id : book + book_anecdote
 
 //prend les fichiers TEI listŽs dans corpus.txt et regŽnre anecdotes.xml (regex). id : anecdote + book_anecdote
@@ -12,9 +13,12 @@ error_reporting(0);
 
 
 function combine($array1) {
-    
+
+
     //echo "<pre>";print_r($array1);
+    
     //echo count($array1[0]);
+
     $array2 = array();
     $i = 0;
     while ($i < count($array1[0])) {
@@ -23,6 +27,7 @@ function combine($array1) {
         $array2[$i]["offset"] = $array1[1][$i][1];
         $i++;
     }
+
     //echo "<pre>";print_r($array2);
     return $array2;
 }
@@ -56,12 +61,16 @@ function teiClean($tei) {
     );
     return preg_replace($remove, $replace, $tei);
 }
+
 //$references = new DOMDocument;
+
 //$references -> load("references.xml");
+
 $references = file_get_contents("references.xml");
 $bookIds = explode("\n", file_get_contents("corpus.txt"));
 $array1 = array();
 $array2 = array();
+
 //auteur, titre, date
 foreach ($bookIds as $bookId) {
     $bookPath = '../critique/' . $bookId . '.xml';
@@ -91,27 +100,28 @@ foreach ($bookIds as $bookId) {
     preg_match_all($commentPattern, $book, $comments, PREG_OFFSET_CAPTURE);
     $anecdotes = combine($anecdotes);
     $comments = combine($comments);
-    
-    $array1[$bookId] = array(
-                    "title" => $bookTitle,
-                    "author" => $bookAuthor,
-                    "authorLastName" => $bookAuthorLastName,
-                    "date" => $bookDate
-                    );
+    $i = 0;
     foreach ($anecdotes as $anecdote) {
         $commentBefore = "";
         $commentAfter = "";
-        $pattern = '|<div type="anecdote" xml:id="'.$anecdote["id"].'">[\s\S]*?<head>(.+?)</head>[\s\S]*?</div>|';
+        $pattern = '|<div type="anecdote" xml:id="' . $anecdote["id"] . '">[\s\S]*?<head>(.+?)</head>[\s\S]*?</div>|';
         preg_match_all($pattern, $references, $anecdoteTitle);
-        $search = array('<hi rend="i">', '</hi>');
-        $replace = array('<i>', '</i>');
+        $search = array(
+            '<hi rend="i">',
+            '</hi>'
+        );
+        $replace = array(
+            '<i>',
+            '</i>'
+        );
         $anecdoteTitle = str_replace($search, $replace, $anecdoteTitle[1][0]);
+
         //$anecdoteTitle = $references->getElementById($anecdote["id"])->textContent;
-        if(strlen($anecdoteTitle) > 50){
+        
+        if (strlen($anecdoteTitle) > 50) {
             $anecdoteShortTitle = substr($anecdoteTitle, 0, 50);
-            $anecdoteShortTitle = substr($anecdoteShortTitle, 0, strrpos($anecdoteShortTitle, ' '))." [&hellip;]";
-            }
-        else{
+            $anecdoteShortTitle = substr($anecdoteShortTitle, 0, strrpos($anecdoteShortTitle, ' ')) . " [&hellip;]";
+        } else {
             $anecdoteShortTitle = $anecdoteTitle;
         }
         $array2[$anecdote["id"]]["title"] = $anecdoteTitle;
@@ -119,32 +129,52 @@ foreach ($bookIds as $bookId) {
         foreach ($comments as $comment) {
             
             if (strpos($comment["id"], $anecdote["id"]) && $comment["offset"] < $anecdote["offset"]) {
-                $commentBefore = '<p type="comment">' . teiClean($comment["text"]) . '</p>';
+                $commentBefore = '<p>' . teiClean($comment["text"]) . '</p>';
+
+                //$commentBefore = teiClean($comment["text"]);
+                
             }
         }
-        $text = '<p type ="text" rend="b">' . teiClean($anecdote["text"]) . '</p>';
+
+        //$text = teiClean($anecdote["text"]);
+        $text = '<p>' . teiClean($anecdote["text"]) . '</p>';
         foreach ($comments as $comment) {
             
             if (strpos($comment["id"], $anecdote["id"]) && $comment["offset"] > $anecdote["offset"]) {
-                $commentAfter = '<p type="comment">' . teiClean($comment["text"]) . '</p>';
+                $commentAfter = '<p>' . teiClean($comment["text"]) . '</p>';
+
+                //$commentAfter = teiClean($comment["text"]);
+                
             }
         }
         $array2[$anecdote["id"]]["books"][$bookId]["content"] = transform($text);
+        
+        if ($array2[$anecdote["id"]]["books"][$bookId]["content"]) {
+            $i++;
+        }
         $array2[$anecdote["id"]]["books"][$bookId]["commentBefore"] = transform($commentBefore);
         $array2[$anecdote["id"]]["books"][$bookId]["commentAfter"] = transform($commentAfter);
     }
+    $array1[$bookId] = array(
+        "title" => $bookTitle,
+        "author" => $bookAuthor,
+        "authorLastName" => $bookAuthorLastName,
+        "date" => $bookDate,
+        "anecdotesCount" => $i
+    );
 }
 $books = $array1;
 $anecdotes = $array2;
 
 //echo "<pre>";print_r($anecdotes);
-include("anecdotes.tpl.php");
+include ("anecdotes.tpl.php");
 
-function transform($xml){
+function transform($xml) {
+
     $dom = new DOMDocument();
-    $dom -> loadXML($xml);
+    $dom->loadXML($xml);
     $xslt = new DOMDocument();
-    $xslt-> load("anecdotes.xsl");
+    $xslt->load("anecdotes.xsl");
     $proc = new XSLTProcessor();
     $proc->importStyleSheet($xslt);
     $html = $proc->transformToXML($dom);

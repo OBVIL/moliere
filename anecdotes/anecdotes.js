@@ -1,5 +1,6 @@
 $(document).ready(function() {
-	
+//	var tf = new TableFilter('anecdotes');
+//        tf.init();
             $(".tooltip").tipsy({
 		html: true,
                 gravity: 'w'
@@ -23,6 +24,8 @@ $(document).ready(function() {
                     $(this).find(".comment").hide();
                     $(this).css("background-color", "grey");
                     $(this).switchClass("over", "out");
+                    			$(this).switchClass("active", "inactive");
+
                 }
 	});
 
@@ -75,17 +78,25 @@ $(document).ready(function() {
 			}
 			var th = document.querySelectorAll(".book-author");
 			for (i = 0; i < th.length; i++) {
-				if (index.indexOf(i + 2) != -1) {
+				if (index.indexOf(i + 3) != -1) {
 					$(th[i]).show();
 				}
 			}
 			var th = document.querySelectorAll(".book-date");
 			for (i = 0; i < th.length; i++) {
-				if (index.indexOf(i + 2) != -1) {
+				if (index.indexOf(i + 3) != -1) {
 					$(th[i]).show();
 				}
 			}
-                                                $("#view-matrix").show();
+			var th = document.querySelectorAll(".anecdotes-count");
+			for (i = 0; i < th.length; i++) {
+				if (index.indexOf(i + 3) != -1) {
+					$(th[i]).show();
+				}
+			}                        
+                        $("span.short-title").hide();
+                        $("span.title").show();
+                        $("#view-matrix").show();
 
 		} else if ($(this).hasClass("active")) {
 			$("tbody tr, td, th").show();
@@ -94,6 +105,8 @@ $(document).ready(function() {
 			$(this).switchClass("active", "inactive");
 			$("table").switchClass("detail", "matrix");
 			$(".not-empty").removeClass("anecdote-detail");
+                        $("span.short-title").show();
+                        $("span.title").hide();
 		}
 	});
 	$(".book-author").click(
@@ -108,7 +121,7 @@ $(document).ready(function() {
 			$("tbody .container").hide();
 			//$(".not-empty").css("background-color", "grey");
 			$(".anecdote-title").switchClass("active", "inactive");
-			$("td:not(." + bookId + ", .anecdote-title), th:not(." + bookId + ", .no-border)").hide();
+			$("td:not(." + bookId + ", .anecdote-title, .count), th:not(." + bookId + ", .no-border)").hide();
 			$("." + bookId).find(".container").show();
 			$("tr").has("td.empty." + bookId).hide();
 			$(".not-empty").css({
@@ -118,6 +131,8 @@ $(document).ready(function() {
 			$(this).switchClass("inactive", "active");
 			$("table").switchClass("matrix", "detail");
                                                 $("#view-matrix").show();
+                        $("span.short-title").hide();
+                        $("span.title").show();
 
 		} else if ($(this).hasClass("active")) {
 			$("tbody tr, td, th").show();
@@ -126,6 +141,9 @@ $(document).ready(function() {
 			$(".not-empty").removeClass("book-detail");
 			$(this).switchClass("active", "inactive");
 			$("table").switchClass("detail", "matrix");
+                                                $("span.short-title").show();
+                        $("span.title").hide();
+
 		}
 	});
         //$(".book-author").dblclick(
@@ -152,6 +170,9 @@ $(document).ready(function() {
 			$(".book-detail").removeClass("book-detail");
                         $(".active").switchClass("active", "inactive");
 			$("table").switchClass("detail", "matrix");
+                                                $("span.short-title").show();
+                        $("span.title").hide();
+
                 
             }
         );
@@ -166,7 +187,9 @@ $(document).ready(function() {
                         $(".active").switchClass("active", "inactive");
 			$("table").switchClass("matrix", "detail");
                         $("#view-matrix").show();
-                
+                                        $("span.short-title").hide();
+                        $("span.title").show();
+
             }
         )
 });

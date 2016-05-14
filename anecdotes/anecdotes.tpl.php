@@ -41,6 +41,8 @@
                         <tr>
                             <th class="no-border">
                             </th>
+                             <th class="no-border">
+                            </th>
                             <?php foreach($books as $bookId=>$book){?>
                                     <th id="<?php echo $bookId; ?>" class="book-author inactive book <?php echo $bookId; ?> tooltip" title="<?php echo $book["author"]; ?>, <i><?php echo $book["title"]; ?></i>">
                                         <div class="th-container">
@@ -54,6 +56,8 @@
                         <tr>
                             <th class="no-border">
                             </th>
+                             <th class="no-border">
+                            </th>
                             <?php foreach($books as $bookId=>$book){?>
                                     <th class="book-date book <?php echo $bookId; ?>">
                                         <div class="th-container">
@@ -63,12 +67,29 @@
                                     </td>
                             <?php }?>
                         </tr>
+                        <tr>
+                            <th class="no-border">
+                            </th>
+                             <th class="no-border">
+                            </th>
+                            <?php foreach($books as $bookId=>$book){?>
+                                    <th class="anecdotes-count book <?php echo $bookId; ?> tooltip" title="Nombre d'anecdotes">
+                                       
+                                            <span><?php echo $book["anecdotesCount"]; ?></span>
+
+                                    </td>
+                            <?php }?>
+                        </tr>                        
                 </thead>
                 <tbody>
                         <?php foreach($anecdotes as $anecdoteId=>$anecdote){?>
                                 <tr class="anecdote <?php echo $anecdoteId ?>" id="<?php echo $anecdoteId ?>">
                                         <td class="anecdote-title anecdote inactive <?php echo $anecdoteId ?> tooltip" title="<?php echo $anecdote["title"] ?>">
-                                                <?php echo $anecdote["short-title"] ?>
+                                                <span class="short-title"><?php echo $anecdote["short-title"] ?></span>
+                                                <span class="title" style="display: none;"><?php echo $anecdote["title"] ?></span>                                                
+                                        </td>
+                                        <td class="count <?php echo $anecdoteId ?> tooltip" title="Nombre de versions">
+                                            <?php echo count($anecdote["books"]); ?>
                                         </td>
         <!--				<td>
                                                 <?php // echo $anecdote["dateFirstOccurrence"] ?>
