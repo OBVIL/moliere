@@ -1,5 +1,5 @@
 <?php
-
+error_reporting(0);
 //prend les fichiers TEI listŽs dans corpus.txt et regŽnre books.xml (regex). id : book + book_anecdote
 
 //prend les fichiers TEI listŽs dans corpus.txt et regŽnre anecdotes.xml (regex). id : anecdote + book_anecdote
