@@ -45,7 +45,13 @@
                              <th class="no-border th-count">
                                 <a class="tooltip" title="Classer par nombre d'occurrences"><i class="fa fa-sort"></i></a>
                             </th>
-                            <?php foreach($books as $bookId=>$book){?>
+                             <th class="no-border th-count">
+                                <a class="tooltip" title="Classer par auteur de la première occurrence"><i class="fa fa-sort"></i></a>
+                            </th>
+                        <th class="no-border th-count">
+                                <a class="tooltip" title="Classer par date de première occurrence"><i class="fa fa-sort"></i></a>
+                            </th>
+                        <?php foreach($books as $bookId=>$book){?>
                                     <th id="<?php echo $bookId; ?>" class="book-author inactive book <?php echo $bookId; ?> tooltip" title="<?php echo $book["author"]; ?>, <i><?php echo $book["title"]; ?></i>">
                                         <div class="th-container">
                                             <span><?php echo $book["authorLastName"]; ?></span>
@@ -57,6 +63,9 @@
 
                         <tr class="book-date">
                             <th class="no-border">
+                            </th>
+                             <th class="no-border">
+                            </th><th class="no-border">
                             </th>
                              <th class="no-border">
                             </th>
@@ -71,6 +80,10 @@
                         </tr>
                         <tr class="anecdotes-count">
                             <th class="no-border">
+                            </th>
+                             <th class="no-border">
+                            </th>
+                             <th class="no-border">
                             </th>
                              <th class="no-border">
                             </th>
@@ -92,6 +105,12 @@
                                         </td>
                                         <td class="count <?php echo $anecdoteId ?> tooltip" title="Nombre d'occurrences">
                                             <?php echo count($anecdote["books"]); ?>
+                                        </td>
+                                        <td class="first-author <?php echo $anecdoteId ?> tooltip" title="Première occurrence dans <?php echo $anecdote["first"]["author"]; ?>, <i><?php echo $anecdote["first"]["title"]; ?></i>">
+                                            <?php echo $anecdote["first"]["authorLastName"]; ?>
+                                        </td>
+                                        <td class="first-date <?php echo $anecdoteId ?> tooltip" title="Date de la première occurrence">
+                                            <?php echo $anecdote["first"]["date"]; ?>
                                         </td>
         <!--				<td>
                                                 <?php // echo $anecdote["dateFirstOccurrence"] ?>

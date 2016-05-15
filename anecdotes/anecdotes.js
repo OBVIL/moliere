@@ -84,29 +84,29 @@ $(document).ready(function() {
 			var tds = document.querySelectorAll("." + anecdoteId);
 			var index = [];
 			for (i = 0; i < tds.length; i++) {
-				if (tds[i].className.contains("not-empty")) {
+				if (tds[i].className.search("not-empty") != -1) {
 					index.push(i);
 				}
 			}
 			var th = document.querySelectorAll(".book-author");
 			for (i = 0; i < th.length; i++) {
-				if (index.indexOf(i + 2) != -1) {
+				if (index.indexOf(i+4) != -1) {
 					$(th[i]).show();
 				}
 			}
 			var th = document.querySelectorAll(".book-date");
 			for (i = 0; i < th.length; i++) {
-				if (index.indexOf(i + 2) != -1) {
+				if (index.indexOf(i + 4) != -1) {
 					$(th[i]).show();
 				}
 			}
 			var th = document.querySelectorAll(".anecdotes-count");
 			for (i = 0; i < th.length; i++) {
-				if (index.indexOf(i + 2) != -1) {
+				if (index.indexOf(i + 4) != -1) {
 					$(th[i]).show();
 				}
 			}
-
+                        
                         $("span.short-title").hide();
                         $("span.title").show();
                         $("#view-matrix").show();
@@ -134,7 +134,7 @@ $(document).ready(function() {
 			$("tbody .container").hide();
 			//$(".not-empty").css("background-color", "grey");
 			$(".anecdote-title").switchClass("active", "inactive");
-			$("td:not(." + bookId + ", .anecdote-title, .count), th:not(." + bookId + ", .no-border)").hide();
+			$("td:not(." + bookId + ", .anecdote-title, .count, .first-date, .first-author), th:not(." + bookId + ", .no-border)").hide();
                        
 			$("." + bookId).find(".container").show();
 			$("tr").has("td.empty." + bookId).hide();
@@ -144,7 +144,7 @@ $(document).ready(function() {
 			$(".not-empty").addClass("book-detail");
 			$(this).switchClass("inactive", "active");
 			$("table").switchClass("matrix", "detail");
-                                                $("#view-matrix").show();
+                        $("#view-matrix").show();
                         $("span.short-title").hide();
                         $("span.title").show();
 

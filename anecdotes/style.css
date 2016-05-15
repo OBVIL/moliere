@@ -6,7 +6,12 @@ table.TF th, table.TF td{
 thead th, thead td{    background-color: white !important;}
 table{
         border-collapse: collapse;
+       
 
+}
+tr.book-author{
+    border-top: 1px solid grey !important;
+    
 }
 td, th{
     border: 1px solid grey !important;
@@ -28,20 +33,20 @@ td, th{
     background-color: grey;
 }
 
-thead th.book-author {
+.matrix thead th.book-author {
   height: 110px;
   vertical-align: bottom;
   white-space: nowrap;
 }
 
-thead th.book-date {
+.matrix thead th.book-date {
   height: 40px;
     vertical-align: bottom;
 
   white-space: nowrap;
 }
 
-thead th  > div.th-container {
+.matrix thead th  > div.th-container {
     transform: 
       translate(0px, 7px)
       rotate(270deg);
@@ -126,8 +131,9 @@ th.book-author{width:20px !important;}
 th.anecdotes-count, th.book-date{width:20px !important;}
 td.fltrow, th{width:20px !important;}
 .matrix input{width:20px !important;}
-tr.fltrow td:first-of-type input{width:430px !important;}
-tr.book-author th.no-border{text-align: center;}
+tr.fltrow td:nth-child(1) input,  tr.fltrow td:nth-child(3) input, tr.fltrow td:nth-child(4) input{width:100% !important;}
+tr.book-author th.no-border, div.th-container{text-align: center;}
+
 /*SCROLL
  *table tbody, table thead
 {

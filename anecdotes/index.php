@@ -163,12 +163,30 @@ foreach ($bookIds as $bookId) {
         "anecdotesCount" => $i
     );
 }
+
 $books = $array1;
 $anecdotes = $array2;
+usort($books, 'sort_by_order ');
 
+//classer books par annŽe dŽcroissante
+foreach($books as $bookId=>$book){
+    foreach($anecdotes as $anecdoteId => $anecdote){
+        foreach($anecdote["books"] as $key => $value){
+            if($key==$bookId and !isset($anecdotes[$anecdoteId]["first"]["date"])){
+                $anecdotes[$anecdoteId]["first"]["date"] = $book["date"];
+                $anecdotes[$anecdoteId]["first"]["authorLastName"] = $book["authorLastName"];
+                $anecdotes[$anecdoteId]["first"]["author"] = $book["author"];
+                $anecdotes[$anecdoteId]["first"]["title"] = $book["title"];
+            }
+        }
+    }
+}
 //echo "<pre>";print_r($anecdotes);
 include ("anecdotes.tpl.php");
-
+function sort_by_order ($a, $b)
+{
+    return $a['date'] - $b['date'];
+}
 function transform($xml) {
 
     $dom = new DOMDocument();
