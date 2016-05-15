@@ -1,6 +1,18 @@
 $(document).ready(function() {
-//	var tf = new TableFilter('anecdotes');
-//        tf.init();
+    var tfConfig = {
+    base_path: 'TableFilter/dist/tablefilter/',
+        rows_always_visible: [2, 3],
+        watermark: "Filtrer",
+
+    // Sort extension: in this example the column data types are provided by the
+    // 'col_number_format' and 'col_date_type' properties. The sort extension
+    // also has a 'types' property defining the columns data type. If the
+    // 'types' property is not defined, the sorting extension will check for
+    // 'col_number_format' and 'col_date_type' properties.
+    extensions: [{ name: 'sort' }]
+};
+	var tf = new TableFilter('anecdotes', tfConfig);
+        tf.init();
             $(".tooltip").tipsy({
 		html: true,
                 gravity: 'w'
@@ -59,7 +71,7 @@ $(document).ready(function() {
 			var anecdoteId = $(this).parent().attr("id");
 			$("tbody tr").hide();
 			$(this).parent().show();
-			$("th").hide();
+			$("th, tr.fltrow td").hide();
 			$("th.no-border").show();
 			$(".empty").hide();
 			$(".not-empty").css({
@@ -78,22 +90,23 @@ $(document).ready(function() {
 			}
 			var th = document.querySelectorAll(".book-author");
 			for (i = 0; i < th.length; i++) {
-				if (index.indexOf(i + 3) != -1) {
+				if (index.indexOf(i + 2) != -1) {
 					$(th[i]).show();
 				}
 			}
 			var th = document.querySelectorAll(".book-date");
 			for (i = 0; i < th.length; i++) {
-				if (index.indexOf(i + 3) != -1) {
+				if (index.indexOf(i + 2) != -1) {
 					$(th[i]).show();
 				}
 			}
 			var th = document.querySelectorAll(".anecdotes-count");
 			for (i = 0; i < th.length; i++) {
-				if (index.indexOf(i + 3) != -1) {
+				if (index.indexOf(i + 2) != -1) {
 					$(th[i]).show();
 				}
-			}                        
+			}
+
                         $("span.short-title").hide();
                         $("span.title").show();
                         $("#view-matrix").show();
@@ -122,6 +135,7 @@ $(document).ready(function() {
 			//$(".not-empty").css("background-color", "grey");
 			$(".anecdote-title").switchClass("active", "inactive");
 			$("td:not(." + bookId + ", .anecdote-title, .count), th:not(." + bookId + ", .no-border)").hide();
+                       
 			$("." + bookId).find(".container").show();
 			$("tr").has("td.empty." + bookId).hide();
 			$(".not-empty").css({

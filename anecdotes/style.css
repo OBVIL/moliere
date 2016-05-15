@@ -1,9 +1,15 @@
+table.TF th, table.TF td{
+    padding: 5px !important;
+    height: auto;
+
+}    
+thead th, thead td{    background-color: white !important;}
 table{
         border-collapse: collapse;
 
 }
 td, th{
-    border: 1px solid grey;
+    border: 1px solid grey !important;
 }
 
 th{
@@ -35,7 +41,7 @@ thead th.book-date {
   white-space: nowrap;
 }
 
-thead th  > div {
+thead th  > div.th-container {
     transform: 
       translate(0px, 7px)
       rotate(270deg);
@@ -63,7 +69,8 @@ td.anecdote-content{
 }
 
 .no-border{
-    border: none;
+    border-top: none !important;
+    border-bottom: none !important;
 }
 body{
     font-family: Georgia;
@@ -101,4 +108,41 @@ th.book-author{text-align: center;}
 th.anecdotes-count{text-align: center;}
 td.anecdote-content.not-empty, td.anecdote-title, th.book-author{cursor: zoom-in;}
 td.anecdote-content.active, td.anecdote-title.active, th.book-author.active{cursor: zoom-out;}
-table.detail td.anecdote-content{cursor: default};
+table.detail td.anecdote-content{cursor: default;}
+
+
+tr.book-author{
+    height:110px;
+}
+tr.book-date{
+    height: 45px;
+}
+img.sort-arrow{display: none;}
+div.div-open-document{padding-bottom: 3px !important;}
+tr.anecdotes-count th{height: 20px !important;}
+td.count{width:20px !important;text-align: center;}
+td.anecdote-title{width:420px;}
+th.book-author{width:20px !important;}
+th.anecdotes-count, th.book-date{width:20px !important;}
+td.fltrow, th{width:20px !important;}
+.matrix input{width:20px !important;}
+tr.fltrow td:first-of-type input{width:430px !important;}
+tr.book-author th.no-border{text-align: center;}
+/*SCROLL
+ *table tbody, table thead
+{
+    display: block;
+}
+table tbody 
+{
+   overflow: scroll;
+   height: 500px;
+}
+
+th.th-anecdote-title, td.anecdote-title{
+    width:440px;
+}
+th.th-count, td.count{
+    width:20px;
+}
+tbody{border-top: 1px solid grey;}*/

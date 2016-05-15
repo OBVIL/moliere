@@ -38,22 +38,24 @@
         <a id="view-detail" class="tooltip" title="Afficher toutes les anecdotes"><i class="fa fa-expand"></i></a>
        <table class="anecdotes matrix" id="anecdotes">
                 <thead>
-                        <tr>
-                            <th class="no-border">
+                        <tr class="book-author">
+                            <th class="no-border th-anecdote-title">
+                                <a class="tooltip" title="Classer par titre"><i class="fa fa-sort"></i></a>
                             </th>
-                             <th class="no-border">
+                             <th class="no-border th-count">
+                                <a class="tooltip" title="Classer par nombre d'occurrences"><i class="fa fa-sort"></i></a>
                             </th>
                             <?php foreach($books as $bookId=>$book){?>
                                     <th id="<?php echo $bookId; ?>" class="book-author inactive book <?php echo $bookId; ?> tooltip" title="<?php echo $book["author"]; ?>, <i><?php echo $book["title"]; ?></i>">
                                         <div class="th-container">
                                             <span><?php echo $book["authorLastName"]; ?></span>
                                         </div>
-                                        <a href="../critique/<?php echo $bookId; ?>" target="_blank" class="tooltip open-document" title="Afficher le texte complet de l'ouvrage"><i class="fa fa-file"></i></a>
+                                        <div class="div-open-document"><a href="../critique/<?php echo $bookId; ?>" target="_blank" class="tooltip open-document" title="Afficher le texte complet de l'ouvrage"><i class="fa fa-file"></i></a></div>
                                     </th>
                             <?php }?>
                         </tr>
 
-                        <tr>
+                        <tr class="book-date">
                             <th class="no-border">
                             </th>
                              <th class="no-border">
@@ -67,7 +69,7 @@
                                     </td>
                             <?php }?>
                         </tr>
-                        <tr>
+                        <tr class="anecdotes-count">
                             <th class="no-border">
                             </th>
                              <th class="no-border">
@@ -109,7 +111,7 @@
                                                             <div class="comment-before comment" style="display: none;"><p><?php echo $anecdote["books"][$bookId]["commentBefore"] ?></p></div>
                                                             <div class="core"><p><?php echo $anecdote["books"][$bookId]["content"] ?></p></div>
                                                             <div class="comment-after comment" style="display: none;"><p><?php echo $anecdote["books"][$bookId]["commentAfter"] ?></p></div>
-                                                            <?php if($empty=="not-empty"){ ?><a href="../critique/<?php echo $bookId; ?>#<?php echo $anecdoteId ?>" target="_blank" class="tooltip open-anecdote" title="Afficher l'anecdote dans son contexte"><i class="fa fa-file"></i></a><?php } ?>
+                                                            <?php if($empty=="not-emptyy"){ ?><a href="../critique/<?php echo $bookId; ?>#<?php echo $anecdoteId ?>" target="_blank" class="tooltip open-anecdote" title="Afficher l'anecdote dans son contexte"><i class="fa fa-file"></i></a><?php } ?>
                                                         </div>
                                                 </td>
                                         <?php }?>
