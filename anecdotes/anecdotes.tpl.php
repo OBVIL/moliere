@@ -90,7 +90,7 @@
                                                 <span class="short-title"><?php echo $anecdote["short-title"] ?></span>
                                                 <span class="title" style="display: none;"><?php echo $anecdote["title"] ?></span>                                                
                                         </td>
-                                        <td class="count <?php echo $anecdoteId ?> tooltip" title="Nombre de versions">
+                                        <td class="count <?php echo $anecdoteId ?> tooltip" title="Nombre d'occurrences">
                                             <?php echo count($anecdote["books"]); ?>
                                         </td>
         <!--				<td>
