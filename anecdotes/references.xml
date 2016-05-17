@@ -28,11 +28,11 @@
       <div type="anecdote" xml:id="roles-antipathiques-de-brie">
         <head>Antipathie de Molière à l’égard de M. de Brie, à l’origine des rôles antipathiques qu’il endosse</head>
       </div>
-      <div type="anecdote" xml:id="foule-argent-enterrement">
-        <head>Argent jeté à la foule menaçante par la veuve de Molière</head>
+      <div type="anecdote" xml:id="veuve-jette-argent-foule">
+        <head>Armande Béjart calme la foule menaçante en jetant de l'argent lors de l’enterrement de Molière</head>
       </div>
-      <div type="anecdote" xml:id="aumone-pauvre">
-        <head>Aumône d’un louis d’or au pauvre</head>
+      <div type="anecdote" xml:id="moliere-donne-aumone-mendiant">
+        <head>Molière donne l'aumône à un mendiant</head>
       </div>
       <div type="anecdote" xml:id="bas-envers">
         <head>Bas mis à l’envers par le valet, nommé Provençal</head>
@@ -139,8 +139,8 @@
       <div type="anecdote" xml:id="fontaine-gignac">
         <head>Fontaine de Gignac</head>
       </div>
-      <div type="anecdote" xml:id="gassendi-precepteur">
-        <head>Gassendi précepteur</head>
+      <div type="anecdote" xml:id="moliere-eleve-gassendi">
+        <head>Molière fut l’élève de Gassendi</head>
       </div>
       <div type="anecdote" xml:id="dementi-applications-femmes-savantes">
         <head>Harangue prononcée par Molière pour démentir les applications dans <hi rend="i">Les Femmes savantes</hi></head>
@@ -163,8 +163,8 @@
       <div type="anecdote" xml:id="eloge-roi-bourgeois-gentilhomme">
         <head>Jugement sur <hi rend="i">Le Bourgeois gentilhomme</hi> différé par le roi</head>
       </div>
-      <div type="anecdote" xml:id="lecture-pieces-servante">
-        <head>Lecture des pièces à sa servante Laforest / aux enfants / Épreuve de Brécourt</head>
+      <div type="anecdote" xml:id="moliere-lit-pieces-servante">
+        <head>Molière lit ses pièces à sa servante Laforest ou joue ses pièces devant les enfants de ses comédiens</head>
       </div>
       <div type="anecdote" xml:id="lettre-improvisee-pezenas">
         <head>Lettre improvisée</head>
@@ -214,8 +214,8 @@
       <div type="anecdote" xml:id="table-boissat">
         <head>Molière à la table de Boissat</head>
       </div>
-      <div type="anecdote" xml:id="table-roi">
-        <head>Molière à la table du roi</head>
+      <div type="anecdote" xml:id="moliere-mange-avec-roi">
+        <head>Molière mange à la table du roi</head>
       </div>
       <div type="anecdote" xml:id="racine-thebaide">
         <head>Molière donne à Racine le sujet de <hi rend="i">La Thébaïde</hi></head>
@@ -313,14 +313,14 @@
       <div type="anecdote" xml:id="chasseur-ajoute-par-roi">
         <head>Personnage du chasseur des <hi rend="i">Fâcheux</hi> inspiré par le roi + Molière se documente auprès de M. Soyecourt lui-même</head>
       </div>
-      <div type="anecdote" xml:id="plagiat-reprendre-son-bien">
-        <head>Plagiat : « Je reprends mon bien où je le trouve »</head>
+      <div type="anecdote" xml:id="moliere-nie-plagiat-pedant-joue">
+        <head>Molière se défend d’avoir plagié <hi rend="i">Le Pédant joué</hi></head>
       </div>
       <div type="anecdote" xml:id="plagiat-theophile">
         <head>Plagiat de Théophile dénoncé par son régent</head>
       </div>
-      <div type="anecdote" xml:id="plaintes-rohault-mignard">
-        <head>Plaintes à Rohaut et Mignard</head>
+      <div type="anecdote" xml:id="moliere-se-plaint-a-ses-amis">
+        <head>Molière se plaint à ses amis, Rohault et Mignard</head>
       </div>
       <div type="anecdote" xml:id="plaisanterie-nesle-precieuses">
         <head>Plaisanterie naïve du marquis de Nesle à l’origine d’une plaisanterie des <hi rend="i">Précieuses ridicules</hi></head>
@@ -349,8 +349,8 @@
       <div type="anecdote" xml:id="reponse-montausier-misanthrope">
         <head>Réponse de Montausier sur prétendue ressemblance avec Alceste</head>
       </div>
-      <div type="anecdote" xml:id="reproche-boileau-metier-acteur">
-        <head>Reproches de Boileau contre l’obstination de Molière à poursuivre son métier d’acteur</head>
+      <div type="anecdote" xml:id="boileau-reproche-a-moliere-de-continuer-a-jouer">
+        <head>Boileau reproche à Molière de continuer à jouer</head>
       </div>
       <div type="anecdote" xml:id="revolte-spectateurs-dandin">
         <head>Révolte des spectateurs devant l’humiliation de George Dandin</head>
@@ -364,8 +364,8 @@
       <div type="anecdote" xml:id="pauvre-homme-mot-du-roi">
         <head>Scène du « pauvre homme » inspirée par le roi</head>
       </div>
-      <div type="anecdote" xml:id="secours-mondorge">
-        <head>Secours apporté au comédien Mondorge</head>
+      <div type="anecdote" xml:id="moliere-secourt-mondorge">
+        <head>Molière secourt le comédien Mondorge</head>
       </div>
       <div type="anecdote" xml:id="sejour-vienne">
         <head>Séjour de Molière à Vienne</head>
@@ -376,8 +376,8 @@
       <div type="anecdote" xml:id="soufflet-baron">
         <head>Soufflet donné à Baron par Armande</head>
       </div>
-      <div type="anecdote" xml:id="souper-auteuil">
-        <head>Souper d’Auteuil</head>
+      <div type="anecdote" xml:id="moliere-recoit-amis-souper-auteuil">
+        <head>Molière reçoit ses amis à souper à Auteuil</head>
       </div>
       <div type="anecdote" xml:id="supplice-moliere-diction-comediens">
         <head>Supplice de Molière en écoutant ses comédiens « Ah ! chien ! ah ! bourreau ! »</head>
