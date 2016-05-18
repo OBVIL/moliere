@@ -76,8 +76,8 @@
       <div type="anecdote" xml:id="conti-aime-conferer-avec-moliere">
         <head>Le prince de Conti aime conférer avec Molière</head>
       </div>
-      <div type="anecdote" xml:id="armande-seduit-vieux-corneille">
-        <head>Armande Béjart séduit le vieux Corneille</head>
+      <div type="anecdote" xml:id="beaute-armande-charme-vieux-corneille">
+        <head>La beauté d'Armande Béjart charme le vieux Corneille</head>
       </div>
       <div type="anecdote" xml:id="vieillard-parterre-encourage-moliere">
         <head>Un vieillard du parterre encourage Molière pendant la représentation des <hi rend="i">Précieuses ridicules</hi></head>
@@ -91,8 +91,8 @@
       <div type="anecdote" xml:id="racine-fait-eloge-misanthrope">
         <head>Racine fait l'éloge du <hi rend="i">Misanthrope</hi> </head>
       </div>
-      <div type="anecdote" xml:id="rohault-emprunt-chapeau">
-        <head>Dessein d'emprunter le chapeau de Rohault pour le costume du maître de philosophie du <hi rend="i">Bourgeois gentilhomme</hi></head>
+      <div type="anecdote" xml:id="moliere-fait-demander-chapeau-rohault">
+        <head>Molière fait demander à Rohault son chapeau pour l’acteur jouant le maître de philosophie dans <hi rend="i">Le Bourgeois gentilhomme</hi></head>
       </div>
       <div type="anecdote" xml:id="dette-corneille">
         <head>Dette de Molière envers Corneille (<hi rend="i">Le Menteur</hi>)</head>
@@ -100,8 +100,8 @@
       <div type="anecdote" xml:id="dispute-princesse-elide">
         <head>Dispute conjugale après la représentation de <hi rend="i">La Princesse d’Élide</hi> à Versailles</head>
       </div>
-      <div type="anecdote" xml:id="dispute-philosophique-chapelle">
-        <head>Dispute philosophique entre Molière et Chapelle devant le frère minime</head>
+      <div type="anecdote" xml:id="moliere-et-chapelle-disputent-philosophie-devant-minime">
+        <head>Molière et Chapelle disputent philosophie devant un frère minime</head>
       </div>
       <div type="anecdote" xml:id="doleance-a-travers-sosie">
         <head>Doléance secrète de Molière contre les « chaînes » du roi par le truchement de Sosie</head>
@@ -121,11 +121,11 @@
       <div type="anecdote" xml:id="eloge-jeu-beauval">
         <head>Éloge du jeu naturel de Beauval</head>
       </div>
-      <div type="anecdote" xml:id="moliere-peint-beline-d'apres-marâtre">
+      <div type="anecdote" xml:id="moliere-peint-beline-d-apres-maratre">
         <head>Molière peint le personnage de Béline d’après sa marâtre (<hi rend="i">Le Malade imaginaire</hi>)</head>
       </div>
-      <div type="anecdote" xml:id="etonnement-succes-comedies">
-        <head>Étonnement de Molière devant le succès de ses comédies auprès des « personnes d’esprit »</head>
+      <div type="anecdote" xml:id="moliere-s-etonne-de-son-succes">
+        <head>Molière s’étonne du succès de ses comédies auprès des « personnes d’esprit »</head>
       </div>
       <div type="anecdote" xml:id="expiation-parentes-tartuffe">
         <head>Expiation parentes de Molière, religieuses, à cause du <hi rend="i">Tartuffe</hi></head>
@@ -232,17 +232,17 @@
       <div type="anecdote" xml:id="mort-sacrificielle">
         <head>Mort sacrificielle</head>
       </div>
-      <div type="anecdote" xml:id="mot-conde-epitaphe">
-        <head>Mot de Condé contre l’auteur d’une épitaphe à Molière</head>
+      <div type="anecdote" xml:id="conde-fait-bon-mot-contre-auteur-epitaphe">
+        <head>Le prince de Condé fait un bon mot contre l’auteur d’une épitaphe faite pour Molière</head>
       </div>
       <div type="anecdote" xml:id="conde-fait-bon-mot-tartuffe">
-        <head>Le prince de Condé fait bon mot sur <hi rend="i">Le Tartuffe</hi></head>
+        <head>Le prince de Condé fait un bon mot sur <hi rend="i">Le Tartuffe</hi></head>
       </div>
       <div type="anecdote" xml:id="moliere-fait-bon-mot-mauvillain">
         <head>Molière fait un bon mot sur son médecin Mauvillain</head>
       </div>
       <div type="anecdote" xml:id="moliere-fait-bon-mot-interdiction-lamoignon">
-        <head>Molière fait bon mot sur l’interdiction du <hi rend="i">Tartuffe</hi> par le président de Lamoignon</head>
+        <head>Molière fait un bon mot sur l’interdiction du <hi rend="i">Tartuffe</hi> par le président de Lamoignon</head>
       </div>
       <div type="anecdote" xml:id="mot-mepris-pilule">
         <head>Mot de Molière sur le mépris, pilule difficile à avaler</head>
@@ -286,7 +286,7 @@
       <div type="anecdote" xml:id="origine-tartuffe-chez-longueville">
         <head>Origine de l’aventure de <hi rend="i">Tartuffe</hi> chez Mme de Longueville</head>
       </div>
-      <div type="anecdote" xml:id="moliere-tire-dispute-bourgeois-gentilhomme-d'une-querelle-historique">
+      <div type="anecdote" xml:id="moliere-tire-dispute-bourgeois-gentilhomme-d-une-querelle-historique">
         <head>Molière tire la scène de la dispute entre le maître de danse et le maître d’armes dans <hi rend="i">Le Bourgeois gentilhomme</hi> d’une querelle historique</head>
       </div>
       <div type="anecdote" xml:id="differend-logeuse">
