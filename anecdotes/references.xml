@@ -43,8 +43,8 @@
       <div type="anecdote" xml:id="boileau-defend-avare">
         <head>Boileau défend <hi rend="i">L’Avare</hi> contre la critique de Racine</head>
       </div>
-      <div type="anecdote" xml:id="boileau-sacre-moliere">
-        <head>Boileau sacre Molière écrivain le plus rare du siècle</head>
+      <div type="anecdote" xml:id="boileau-consacre-moliere-devant-roi">
+        <head>Boileau proclame Molière « le plus rare des grands écrivains de son siècle » </head>
       </div>
       <div type="anecdote" xml:id="eloge-composition-caractere">
         <head>Boileau loue le talent de Molière à composer un caractère</head>
@@ -82,8 +82,8 @@
       <div type="anecdote" xml:id="vieillard-parterre-encourage-moliere">
         <head>Un vieillard du parterre encourage Molière pendant la représentation des <hi rend="i">Précieuses ridicules</hi></head>
       </div>
-      <div type="anecdote" xml:id="cri-indignation-veuve">
-        <head>Cri d’indignation de la veuve de Molière « Quoi ! l’on refusera la sépulture à un homme qui a mérité des autels</head>
+      <div type="anecdote" xml:id="veuve-exprime-indignation-sepulture">
+        <head>Armande Béjart exprime son indignation à l’idée qu’on refuse une sépulture à Molière</head>
       </div>
       <div type="anecdote" xml:id="moliere-fait-eloge-plaideurs">
         <head>Molière fait l’éloge des <hi rend="i">Plaideurs</hi> de Racine</head>
@@ -115,8 +115,8 @@
       <div type="anecdote" xml:id="echec-misanthrope">
         <head>Échec prétendu du <hi rend="i">Misanthrope</hi></head>
       </div>
-      <div type="anecdote" xml:id="la-fontaine-bonhomme">
-        <head>Éloge du « bonhomme » La Fontaine</head>
+      <div type="anecdote" xml:id="moliere-defend-bonhomme-la-fontaine">
+        <head>Molière prend la défense du « bonhomme » La Fontaine</head>
       </div>
       <div type="anecdote" xml:id="eloge-jeu-beauval">
         <head>Éloge du jeu naturel de Beauval</head>
@@ -184,8 +184,8 @@
       <div type="anecdote" xml:id="martyre-amoureux">
         <head>Martyre amoureux</head>
       </div>
-      <div type="anecdote" xml:id="mort-cotin-satire">
-        <head>Mélancolie et mort de Cotin provoquée par la satire de Molière dans <hi rend="i">Les Femmes savantes</hi></head>
+      <div type="anecdote" xml:id="moliere-provoque-mort-cotin-par-satire">
+        <head>Molière provoque la mort de Cotin par la satire des <hi rend="i">Femmes savantes</hi></head>
       </div>
       <div type="anecdote" xml:id="moliere-utilise-memoires-et-tablettes">
         <head>Molière travaille à partir des mémoires qu’on lui donne et des tablettes où il consigne ce qu’il voit</head>
@@ -229,8 +229,8 @@
       <div type="anecdote" xml:id="moliere-spectateur">
         <head>Molière, spectateur du <hi rend="i">Portrait du peintre</hi></head>
       </div>
-      <div type="anecdote" xml:id="mort-sacrificielle">
-        <head>Mort sacrificielle</head>
+      <div type="anecdote" xml:id="moliere-se-sacrifie-pour-sa-troupe">
+        <head>Molière se sacrifie pour sa troupe en achevant la représentation du <hi rend="i">Malade imaginaire</hi></head>
       </div>
       <div type="anecdote" xml:id="conde-fait-bon-mot-contre-auteur-epitaphe">
         <head>Le prince de Condé fait un bon mot contre l’auteur d’une épitaphe faite pour Molière</head>
@@ -337,8 +337,8 @@
       <div type="anecdote" xml:id="art-affranchir-regles">
         <head>Refus de corriger un vers de Boileau « c’est l’art même qui doit nous apprendre à nous affranchir des règles de l’art »</head>
       </div>
-      <div type="anecdote" xml:id="refus-lecture-publique">
-        <head>Refus de lire ses œuvres en public</head>
+      <div type="anecdote" xml:id="moliere-refuse-lire-traduction-en-public">
+        <head>Molière refuse de lire sa traduction de Lucrèce en public</head>
       </div>
       <div type="anecdote" xml:id="refus-madame-flandrin">
         <head>Refus de Molière d’accéder à la demande de Madame (Henriette d’Angleterre) parce qu’il avait un original pour le « flandrin »</head>
@@ -346,8 +346,8 @@
       <div type="anecdote" xml:id="moliere-regle-differend-chapelle-et-valet">
         <head>Molière règle un différend entre Chapelle et son valet Godemer</head>
       </div>
-      <div type="anecdote" xml:id="reponse-montausier-misanthrope">
-        <head>Réponse de Montausier sur prétendue ressemblance avec Alceste</head>
+      <div type="anecdote" xml:id="montausier-se-targue-de-ressembler-au-misanthrope">
+        <head>Le duc de Montausier se targue de ressembler au Misanthrope </head>
       </div>
       <div type="anecdote" xml:id="boileau-reproche-a-moliere-de-continuer-a-jouer">
         <head>Boileau reproche à Molière de continuer à jouer</head>
@@ -373,8 +373,8 @@
       <div type="anecdote" xml:id="silence-moliere-societe">
         <head>Silence de Molière en société</head>
       </div>
-      <div type="anecdote" xml:id="soufflet-baron">
-        <head>Soufflet donné à Baron par Armande</head>
+      <div type="anecdote" xml:id="armande-donne-soufflet-a-baron">
+        <head>Armande Béjart donne un soufflet à Baron</head>
       </div>
       <div type="anecdote" xml:id="moliere-recoit-amis-souper-auteuil">
         <head>Molière reçoit ses amis à souper à Auteuil</head>
@@ -385,8 +385,8 @@
       <div type="anecdote" xml:id="supplique-veuve-enterrement">
         <head>Supplique de la veuve de Molière au roi pour enterrer son mari</head>
       </div>
-      <div type="anecdote" xml:id="portrait-tartuffe-ninon-lenclos">
-        <head>Talent de conteuse de Ninon de Lenclos : portrait d’un Tartuffe</head>
+      <div type="anecdote" xml:id="moliere-lit-tartuffe-chez-ninon-de-lenclos">
+        <head>Molière lit <hi rend="i">Le Tartuffe</hi> chez Ninon de Lenclos qui lui raconte une aventure semblable</head>
       </div>
       <div type="anecdote" xml:id="moliere-deconseille-metier-comedien">
         <head>Molière tente de détourner un jeune homme de la profession de comédien</head>
@@ -394,17 +394,14 @@
       <div type="anecdote" xml:id="thebaide-jouee-en-province">
         <head><hi rend="i">Thébaïde</hi> jouée par la troupe de Molière à Bordeaux</head>
       </div>
-      <div type="anecdote" xml:id="traduction-lucrece">
-        <head>Traduction de Lucrèce</head>
-      </div>
-      <div type="anecdote" xml:id="destruction-traduction-lucrece">
-        <head>Traduction de Lucrèce détruite par un valet</head>
+      <div type="anecdote" xml:id="domestique-detruit-traduction-lucrece">
+        <head>Un domestique de Molière détruit par mégarde sa traduction de Lucrèce</head>
       </div>
       <div type="anecdote" xml:id="tumulte-mousquetaires">
         <head>Tumulte causé par les mousquetaires au théâtre</head>
       </div>
-      <div type="anecdote" xml:id="humiliation-valet-de-chambre">
-        <head>Valet de chambre refusant de faire le lit du roi avec Molière, humiliation réparée par Bellocq</head>
+      <div type="anecdote" xml:id="valet-de-chambre-humilie-moliere">
+        <head>Un valet de chambre refuse de faire le lit du roi avec Molière</head>
       </div>
       <div type="anecdote" xml:id="valise-perdue">
         <head>Valise perdue en province</head>
