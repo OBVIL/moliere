@@ -369,7 +369,7 @@
       </div>
       <div xml:id="I284b">
         <head>Tome I, p. 284-285<term rend="index" type="Œuvre " key="Molière, 1662, L’École des femmes"/></head>
-        <p>Despréaux disait que, lisant à Molière sa satire qui commence par :</p>
+        <p><milestone type="anecdoteStart" xml:id="moliere-a-envisage-de-traiter-sujet-visionnaires"/>Despréaux disait que, lisant à Molière sa satire qui commence par :</p>
         <quote>
           <l>D’où vient, cher le Vayer<note place="bottom"><hi rend="sc">La Mothe Le Vayer</hi>, François de (Paris, 1588 – 1672) : philosophe. Il était fils d’un magistrat, auquel il succéda en 1625. Mais il abandonna bientôt sa charge pour se consacrer à l’étude. Esprit d’une curiosité universelle, il fut reçu à l’Académie en 1639, et comme il avait publié en 1640 un livre intitulé : <hi rend="i">De l’Instruction de M. le Dauphin</hi>, Richelieu le désigna, en mourant, pour être le précepteur de Louis XIV. Anne d’Autriche ne voulut toutefois lui confier d’abord que l’éducation de son second fils. Les progrès qu’il lui fit faire la décidèrent à le placer auprès du jeune roi, de 1652 à 1660. (DLF  XVII, p. 689).</note>, que l’homme le moins sage</l>
           <l>Pense lui seul avoir la raison en partage,</l>
@@ -383,7 +383,7 @@
         <p>Arnolphe dit de son côté de Chrysalde :</p>
         <quote>
           <l>Il est un peu blessé sur certaines matières.</l>
-        </quote>
+        </quote><milestone type="anecdoteEnd"/>
       </div>
       <div xml:id="I285">
         <head>Tome I, p. 285<term rend="index" type="Œuvre " key="Molière, 1662, L’École des femmes"/></head>

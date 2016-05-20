@@ -7,3 +7,4 @@ merlet_moliere
 larroumet_moliere-homme-et-comedien
 faguet_en-lisant-moliere
 brunetiere_moliere
+clement-laporte_anecdotes-dramatiques_moliere
