@@ -87,6 +87,7 @@ foreach ($bookIds as $bookId) {
         continue;
     }
     preg_match_all($commentPattern, $book, $comments, PREG_OFFSET_CAPTURE);
+
     $anecdotes = combine($anecdotes);
     $comments = combine($comments);
     $xml.= '<div type="book" xml:id="' . $bookId . '">';
@@ -169,10 +170,10 @@ $xml = '<?xml version="1.0" encoding="UTF-8"?>
               <choice>';
 $anecdotes = new DOMDocument();
 $anecdotes -> load("references.xml");
-$anecdotes = $anecdotes->getElementsByTagName("anecdote");
+$anecdotes = $anecdotes->getElementsByTagName("div");
 foreach($anecdotes as $anecdote){
     $xml .= '<value>'.$anecdote->getAttribute("xml:id").'</value>';
-    $xml .= '<a:documentation>'.$anecdote->textContent.'</a:documentation>';
+    $xml .= '<a:documentation>'.$anecdote->getElementsByTagName("head")->item(0)->textContent.'</a:documentation>';
 }
 $xml .= ' </choice>
             </attribute>

@@ -73,8 +73,7 @@ $array2 = array();
 
 //auteur, titre, date
 foreach ($bookIds as $bookId) {
-    $bookPath = '../critique/' . $bookId . '.xml';
-    
+    $bookPath = '../critique/' . trim($bookId).'.xml';
     if (!is_file($bookPath)) {
         continue;
     }
@@ -115,6 +114,9 @@ foreach ($bookIds as $bookId) {
             '</i>'
         );
         $anecdoteTitle = str_replace($search, $replace, $anecdoteTitle[1][0]);
+        //echo $anecdoteTitle[1][0];
+        //transform("<p>".$anecdoteTitle[1][0]."<p>");
+        //$anecdoteTitle = transform($anecdoteTitle[1][0]);
 
         //$anecdoteTitle = $references->getElementById($anecdote["id"])->textContent;
         
@@ -188,13 +190,15 @@ function sort_by_order ($a, $b)
     return $a['date'] - $b['date'];
 }
 function transform($xml) {
-
+    //var_dump($xml);
     $dom = new DOMDocument();
     $dom->loadXML($xml);
+    //var_dump($dom);
     $xslt = new DOMDocument();
     $xslt->load("anecdotes.xsl");
     $proc = new XSLTProcessor();
     $proc->importStyleSheet($xslt);
     $html = $proc->transformToXML($dom);
+//echo $html;
     return $html;
 }

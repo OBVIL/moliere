@@ -1,4 +1,5 @@
 voltaire_vie-moliere
+clement-laporte_anecdotes-dramatiques_moliere
 auger_introduction-oeuvres
 bouillier_moliere-gassendi
 noel_moliere
@@ -7,4 +8,3 @@ merlet_moliere
 larroumet_moliere-homme-et-comedien
 faguet_en-lisant-moliere
 brunetiere_moliere
-clement-laporte_anecdotes-dramatiques_moliere
