@@ -359,7 +359,7 @@
         <head>Rôle adapté à l’acteur : insulte « ce chien de boiteux-là » et Béjart, estropié</head>
       </div>
       <div type="anecdote" xml:id="moliere-adapte-role-acteur-hubert">
-        <head>Molière adapte les rôles à l’acteur : le cas d’Hubert</head>
+        <head>Molière adapte les rôles à l’acteur : le cas d’Hubert, couard</head>
       </div>
       <div type="anecdote" xml:id="pauvre-homme-mot-du-roi">
         <head>Scène du « pauvre homme » inspirée par le roi</head>
@@ -423,6 +423,51 @@
       </div>
       <div type="anecdote" xml:id="vocation-amour">
         <head>Vocation déterminée par amour</head>
+      </div>
+     <div type="anecdote" xml:id="moliere-se-venge-de-benserade">
+       <head>Molière se venge de Benserade, en l’humiliant devant la Cour</head>
+      </div>
+      <div type="anecdote" xml:id="moliere-se-venge-de-sa-logeuse-par-satire-medecine">
+        <head>Molière se venge de sa logeuse, femme d’un médecin, par la satire de la médecine</head>
+      </div>
+      <div type="anecdote" xml:id="moliere-peint-medecins-d-apres-medecins-de-la-cour">
+        <head>Molière peint les quatre médecins de <hi rend="i">L’Amour médecin</hi>, d’après les médecins de la Cour</head>
+      </div>
+      <div type="anecdote" xml:id="spectatrice-deplore-que-amphitryon-enseigne-a-pecher">
+        <head>Une spectatrice de l’<hi rend="i">Amphitryon</hi> déplore que la pièce enseigne à pécher</head>
+      </div>
+      <div type="anecdote" xml:id="roi-adoube-beauval">
+        <head>Louis XIV adoube Mlle Beauval, après que Molière l’a maintenue dans le rôle de Nicole malgré la demande du roi</head>
+      </div>
+      <div type="anecdote" xml:id="moliere-tire-fluxion-harpagon-de-son-mal">
+        <head>Molière tire la réplique de Frosine sur la fluxion de poitrine d’Harpagon de son propre mal</head>
+      </div>
+      <div type="anecdote" xml:id="moliere-adapte-role-bejart">
+        <head>Molière adapte les rôles à l’acteur : le cas de Béjart, estropié</head>
+      </div>
+      <div type="anecdote" xml:id="moliere-peint-bourgeois-gentilhomme-d-apres-personne-reelle">
+        <head>Molière peint le Bourgeois gentilhomme d’après une personne réelle</head>
+      </div>
+      <div type="anecdote" xml:id="moliere-peint-lucile-d-apres-armande">
+        <head>Molière peint Lucile d’après Armande Béjart (<hi rend="i">Le Bourgeois gentilhomme</hi>)</head>
+      </div>
+      <div type="anecdote" xml:id="ambassadeur-siam-commente-comedies">
+        <head>L’ambassadeur de Siam assiste aux représentations du <hi rend="i">Bourgeois gentilhomme</hi> et de <hi rend="i">L’Avare</hi> et les commente</head>
+      </div>
+      <div type="anecdote" xml:id="original-cocu-imaginaire-se-plaint">
+        <head>Un bourgeois de Paris, convaincu d’être l’original du Cocu imaginaire, s’en plaint</head>
+      </div>
+      <div type="anecdote" xml:id="moliere-tire-scene-comtesse-escarbagnas-d-une-scene-chez-ninon">
+        <head>Molière tire la scène de la récitation de la leçon dans <hi rend="i">La Comtesse d’Escarbagnas</hi> d’une scène qui se passa chez Ninon de Lenclos</head>
+      </div>
+      <div type="anecdote" xml:id="moliere-joue-devant-cour-1658">
+        <head>Molière et sa troupe jouent pour la première fois devant la Cour, le 24 octobre 1658</head>
+      </div>
+      <div type="anecdote" xml:id="moliere-declare-qu-il-suffit-d-etudier-monde">
+        <head>Molière déclare après le succès des <hi rend="i">Précieuses</hi> qu’il lui suffit désormais d’étudier le monde</head>
+      </div>
+      <div type="anecdote" xml:id="moliere-tire-replique-tarte-a-la-creme-scandale-spectateur">
+        <head>Molière tire la réplique <hi rend="i">Tarte à la crème</hi> de la réaction scandalisée d’un spectateur de <hi rend="i">L’École des femmes</hi></head>
       </div>
     </body>
   </text>
