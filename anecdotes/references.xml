@@ -13,8 +13,8 @@
   </teiHeader>
   <text>
     <body>
-      <div type="anecdote" xml:id="achat-habits-cotin">
-        <head>Achat des habits de Cotin pour <hi rend="i">Les Femmes savantes</hi></head>
+      <div type="anecdote" xml:id="moliere-fait-acheter-habit-cotin">
+        <head>Molière fait acheter un habit de Cotin pour l’acteur qui joue Trissotin (<hi rend="i">Les Femmes savantes</hi>)</head>
       </div>
       <div type="anecdote" xml:id="actrice-ennemie-Armande">
         <head>Actrice ennemie d’Armande Béjart, source de <hi rend="i">La Fameuse comédienne</hi></head>
@@ -162,6 +162,9 @@
       </div>
       <div type="anecdote" xml:id="roi-differe-louanges-bourgeois-gentilhomme">
         <head>Louis XIV diffère ses louanges sur <hi rend="i">Le Bourgeois gentilhomme</hi></head>
+      </div>
+      <div type="anecdote" xml:id="roi-differe-louanges-femmes-savantes">
+        <head>Louis XIV diffère ses louanges sur <hi rend="i">Les Femmes savantes</hi></head>
       </div>
       <div type="anecdote" xml:id="moliere-lit-pieces-servante">
         <head>Molière lit ses pièces à sa servante Laforêt et/ou les joue devant les enfants de ses comédiens</head>
@@ -471,6 +474,12 @@
       </div>
       <div type="anecdote" xml:id="moliere-a-envisage-de-traiter-sujet-visionnaires">
         <head>Molière a envisagé de traiter le sujet des <hi rend="i">Visionnaires</hi></head>
+      </div>
+      <div type="anecdote" xml:id="moliere-refuse-scene-ecrite-par-chapelle">
+        <head>Molière refuse la scène de Caritidès écrite par Chapelle (<hi rend="i">Les Fâcheux</hi>)</head>
+      </div>
+      <div type="anecdote" xml:id="boileau-fournit-scene-trissotin-vadius">
+        <head>Boileau fournit à Molière la scène de Trissotin et de Vadius (<hi rend="i">Les Femmes savantes</hi>)</head>
       </div>
     </body>
   </text>
