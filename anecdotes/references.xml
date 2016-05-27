@@ -40,8 +40,8 @@
       <div type="anecdote" xml:id="boileau-promenade-couple">
         <head>Boileau assiste à la promenade de Molière et Armande, signe d’un retour de flamme dans le couple</head>
       </div>
-      <div type="anecdote" xml:id="boileau-defend-avare">
-        <head>Boileau défend <hi rend="i">L’Avare</hi> contre la critique de Racine</head>
+      <div type="anecdote" xml:id="boileau-fait-eloge-avare">
+        <head>Boileau fait l'éloge de <hi rend="i">L’Avare</hi> contre la critique de Racine</head>
       </div>
       <div type="anecdote" xml:id="boileau-consacre-moliere-devant-roi">
         <head>Boileau proclame Molière « le plus rare des grands écrivains de son siècle » </head>
@@ -86,10 +86,10 @@
         <head>Armande Béjart exprime son indignation à l’idée qu’on refuse une sépulture à Molière</head>
       </div>
       <div type="anecdote" xml:id="moliere-fait-eloge-plaideurs">
-        <head>Molière fait l’éloge des <hi rend="i">Plaideurs</hi> de Racine</head>
+        <head>Molière fait l’éloge des <hi rend="i">Plaideurs</hi> de Racine contre l'avis du public</head>
       </div>
       <div type="anecdote" xml:id="racine-fait-eloge-misanthrope">
-        <head>Racine fait l'éloge du <hi rend="i">Misanthrope</hi> </head>
+        <head>Racine fait l'éloge du <hi rend="i">Misanthrope</hi> contre la critique d'un flatteur</head>
       </div>
       <div type="anecdote" xml:id="moliere-fait-demander-chapeau-rohault">
         <head>Molière fait demander à Rohault son chapeau pour l’acteur jouant le maître de philosophie dans <hi rend="i">Le Bourgeois gentilhomme</hi></head>
@@ -504,6 +504,24 @@
       </div>
       <div type="anecdote" xml:id="moliere-tire-caractere-sganarelle-et-martine-couple-perruquier">
         <head>Molière tire le caractère de Sganarelle et Martine dans la première scène du <hi rend="i">Médecin malgré lui</hi> de celui d’un perruquier et de sa femme</head>
+      </div>
+      <div type="anecdote" xml:id="moliere-programme-misanthrope-et-medecin-apres-echec">
+        <head>Moliere remet à l’affiche <hi rend="i">Le Misanthrope</hi> avec <hi rend="i">Le Médecin malgré lui</hi>, après l’échec de la pièce</head>
+      </div>
+      <div type="anecdote" xml:id="public-vexe-fait-mauvais-accueil-misanthrope">
+        <head>Le public, vexé d’avoir admiré le sonnet d’Oronte, ridiculisé par Alceste, fait un mauvais accueil au <hi rend="i">Misanthrope</hi></head>
+      </div>
+      <div type="anecdote" xml:id="moliere-fait-allusion-libelle-dans-misanthrope">
+        <head>Molière fait allusion, dans <hi rend="i">Le Misanthrope</hi>, à un libelle paru contre <hi rend="i">Le Tartuffe</hi></head>
+      </div>
+      <div type="anecdote" xml:id="moliere-promet-mieux-apres-misanthrope">
+        <head>Molière promet de faire mieux après <hi rend="i">Le Misanthrope</hi></head>
+      </div>
+      <div type="anecdote" xml:id="baron-demontre-efficacite-declamation-chanson-misanthrope">
+        <head>Baron démontre l’efficacité de la déclamation grâce à la chanson du <hi rend="i">Misanthrope</hi></head>
+      </div>
+      <div type="anecdote" xml:id="moliere-tire-misanthrope-piece-italienne">
+        <head>Molière tire <hi rend="i">Le Misanthrope</hi> d’une pièce créée à Naples et dont l’acteur de la comédie italienne, Angelo lui a rapporté le sujet</head>
       </div>
     </body>
   </text>
