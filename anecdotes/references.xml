@@ -19,8 +19,8 @@
       <div type="anecdote" xml:id="actrice-ennemie-Armande">
         <head>Actrice ennemie d’Armande Béjart, source de <hi rend="i">La Fameuse comédienne</hi></head>
       </div>
-      <div type="anecdote" xml:id="piron-tartuffe">
-        <head>Admiration de Piron pour <hi rend="i">Tartuffe</hi></head>
+      <div type="anecdote" xml:id="piron-admire-tartuffe">
+        <head>Piron exprime son admiration pour <hi rend="i">Le Tartuffe</hi></head>
       </div>
       <div type="anecdote" xml:id="lauzun-amants-magnifiques">
         <head>Allusion à M<hi rend="sup">lle</hi> de Lauzun dans <hi rend="i">Les Amants magnifiques</hi></head>
@@ -244,8 +244,8 @@
       <div type="anecdote" xml:id="moliere-fait-bon-mot-mauvillain">
         <head>Molière fait un bon mot sur son médecin Mauvillain</head>
       </div>
-      <div type="anecdote" xml:id="moliere-fait-bon-mot-interdiction-lamoignon">
-        <head>Molière fait un bon mot sur l’interdiction du <hi rend="i">Tartuffe</hi> par le président de Lamoignon</head>
+      <div type="anecdote" xml:id="moliere-tourne-en-derision-interdiction-lamoignon">
+        <head>Molière tourne en dérision l’interdiction du <hi rend="i">Tartuffe</hi> par le président de Lamoignon</head>
       </div>
       <div type="anecdote" xml:id="mot-mepris-pilule">
         <head>Mot de Molière sur le mépris, pilule difficile à avaler</head>
@@ -265,11 +265,8 @@
       <div type="anecdote" xml:id="esclandre-original-sganarelle">
         <head>Original de Sganarelle (<hi rend="i">Le Cocu imaginaire</hi>) provoque un esclandre</head>
       </div>
-      <div type="anecdote" xml:id="original-tartuffe">
-        <head>Original (aux) de <hi rend="i">Tartuffe</hi></head>
-      </div>
-      <div type="anecdote" xml:id="original-bourgeois-gentilhomme">
-        <head>Original du <hi rend="i">Bourgeois gentilhomme</hi></head>
+      <div type="anecdote" xml:id="moliere-peint-tartuffe-d-apres-abbe-roquette">
+        <head>Molière peint le personnage de Tartuffe d’après l’abbé Roquette</head>
       </div>
       <div type="anecdote" xml:id="original-type-extravagant">
         <head>Original d’un type encore à faire, l’Extravagant</head>
@@ -522,6 +519,30 @@
       </div>
       <div type="anecdote" xml:id="moliere-tire-misanthrope-piece-italienne">
         <head>Molière tire <hi rend="i">Le Misanthrope</hi> d’une pièce créée à Naples et dont l’acteur de la comédie italienne, Angelo lui a rapporté le sujet</head>
+      </div>
+      <div type="anecdote" xml:id="moliere-justifie-pourceaugnac-par-interet-acteurs">
+        <head>Molière allègue l’intérêt de ses acteurs pour justifier <hi rend="i">Monsieur de Pourceaugnac</hi></head>
+      </div>
+      <div type="anecdote" xml:id="moliere-fait-bon-mot-pere-maimbourg">
+        <head>Molière répond aux détracteurs du <hi rend="i">Tartuffe</hi> en faisant un bon mot sur le Père Maimbourg</head>
+      </div>
+      <div type="anecdote" xml:id="moliere-tire-replique-pauvre-homme-d-un-mot-du-roi">
+        <head>Molière tire la réplique du « pauvre homme » de la réponse que fit Louis XIV à un courtisan, qui lui décrivait le repas copieux d’un évêque censé jeûner</head>
+      </div>
+      <div type="anecdote" xml:id="moliere-tire-nom-tartuffe-scene-chez-nonce">
+        <head>Molière tire le nom « Tartuffe » d’une scène à laquelle il assiste chez le nonce du pape</head>
+      </div>
+      <div type="anecdote" xml:id="moliere-declare-s-etre-repenti-d-avoir-ecrit-tartuffe">
+        <head>Après que <hi rend="i">Le Tartuffe</hi> a été remis au théâtre et applaudi, Molière déclare s’être plusieurs fois repenti de l’avoir écrit</head>
+      </div>
+      <div type="anecdote" xml:id="moliere-fait-eloge-tartuffe-a-lamoignon">
+        <head>Ménage fait l’éloge du <hi rend="i">Tartuffe</hi> au président de Lamoignon</head>
+      </div>
+      <div type="anecdote" xml:id="moliere-s-emporte-contre-armande-role-elmire">
+        <head>Molière s’emporte contre Armande Béjart, dont la parure ne convient pas au rôle d'Elmire, convalescente(<hi rend="i">Le Tartuffe</hi>)</head>
+      </div>
+      <div type="anecdote" xml:id="acteurs-tournent-en-derision-ordre-eveque-en-annoncant-tartuffe">
+        <head>Des acteurs de province tournent en dérision l’ordre qu’ils reçoivent de quitter la ville en annonçant <hi rend="i">Le Tartuffe</hi> pour le lendemain</head>
       </div>
     </body>
   </text>
