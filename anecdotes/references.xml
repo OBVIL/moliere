@@ -280,8 +280,8 @@
       <div type="anecdote" xml:id="origine-comtesse-escarbagnas">
         <head>Origine de <hi rend="i">La Comtesse d’Escarbagnas</hi></head>
       </div>
-      <div type="anecdote" xml:id="origine-monsieur-pourceaugnac">
-        <head>Origine de <hi rend="i">Monsieur de Pourceaugnac</hi></head>
+      <div type="anecdote" xml:id="moliere-se-venge-gentilhomme-limousin">
+        <head>Molière se venge d’un gentilhomme limousin ayant cherché querelle à ses comédiens en faisant sa satire dans <hi rend="i">Monsieur de Pourceaugnac</hi></head>
       </div>
       <div type="anecdote" xml:id="origine-tartuffe-chez-longueville">
         <head>Origine de l’aventure de <hi rend="i">Tartuffe</hi> chez Mme de Longueville</head>
@@ -520,8 +520,8 @@
       <div type="anecdote" xml:id="moliere-tire-misanthrope-piece-italienne">
         <head>Molière tire <hi rend="i">Le Misanthrope</hi> d’une pièce créée à Naples et dont l’acteur de la comédie italienne, Angelo lui a rapporté le sujet</head>
       </div>
-      <div type="anecdote" xml:id="moliere-justifie-pourceaugnac-par-interet-acteurs">
-        <head>Molière allègue l’intérêt de ses acteurs pour justifier <hi rend="i">Monsieur de Pourceaugnac</hi></head>
+      <div type="anecdote" xml:id="moliere-justifie-comedie-pourceaugnac-par-interet-acteurs">
+        <head>Molière allègue l’intérêt de ses acteurs pour justifier la comédie <hi rend="i">Monsieur de Pourceaugnac</hi></head>
       </div>
       <div type="anecdote" xml:id="moliere-fait-bon-mot-pere-maimbourg">
         <head>Molière répond aux détracteurs du <hi rend="i">Tartuffe</hi> en faisant un bon mot sur le Père Maimbourg</head>
@@ -543,7 +543,12 @@
       </div>
       <div type="anecdote" xml:id="acteurs-tournent-en-derision-ordre-eveque-en-annoncant-tartuffe">
         <head>Des acteurs de province tournent en dérision l’ordre qu’ils reçoivent de quitter la ville en annonçant <hi rend="i">Le Tartuffe</hi> pour le lendemain</head>
+        <div type="anecdote" xml:id="corneille-incapable-expliquer-ses-vers">
+          <head>Corneille, invité à souper chez Molière, est incapable d’expliquer à Baron ses propres vers et illustre ainsi le propos de Boileau sur le « galimatias double »</head>
       </div>
+        <div type="anecdote" xml:id="Voltaire-enfant-lit-amphitryon">
+          <head>Voltaire lit à onze ans <hi rend="i">Amphitryon</hi>, qui le fait beaucoup rire</head>
+        </div>
     </body>
   </text>
 </TEI>
