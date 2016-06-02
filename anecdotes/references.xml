@@ -178,8 +178,8 @@
       <div type="anecdote" xml:id="lully-pourceaugnac">
         <head>Lully jouant <hi rend="i">Pourceaugnac</hi> pour amadouer le roi</head>
       </div>
-      <div type="anecdote" xml:id="maitre-pension-envoye-par-famille">
-        <head>Maître de pension envoyé par la famille de Molière pour le détourner du métier de comédien</head>
+      <div type="anecdote" xml:id="maitre-pension-essaie-de-detourner-moliere-metier-comedien">
+        <head>Un maître de pension, envoyé par la famille de Molière, essaie de le détourner du métier de comédien</head>
       </div>
       <div type="anecdote" xml:id="martine-joue-son-propre-role">
         <head>Martine, domestique de Molière, joue son propre rôle dans <hi rend="i">Les Femmes savantes</hi></head>
@@ -419,7 +419,7 @@
         <head>Le père de Molière, obstacle à sa vocation</head>
       </div>
       <div type="anecdote" xml:id="grand-pere-origine-vocation">
-        <head>Le grand-père de Molière, à l’origine de la vocation</head>
+        <head>Le grand-père de Molière, à l’origine de sa vocation</head>
       </div>
       <div type="anecdote" xml:id="vocation-amour">
         <head>Vocation déterminée par amour</head>
@@ -548,6 +548,12 @@
       </div>
         <div type="anecdote" xml:id="Voltaire-enfant-lit-amphitryon">
           <head>Voltaire lit à onze ans <hi rend="i">Amphitryon</hi>, qui le fait beaucoup rire</head>
+        </div>
+        <div type="anecdote" xml:id="roi-prusse-fait-eloge-misanthrope">
+          <head>Le roi de Prusse, assistant à la représentation du <hi rend="i">Cercle</hi> de Poinsinet, fait l’éloge du <hi rend="i">Misanthrope</hi></head>
+        </div>
+        <div type="anecdote" xml:id="comedien-armand-raconte-histoire-tartuffe">
+          <head>Le comédien Armand fait pleurer ses camarades en leur racontant l’histoire du <hi rend="i"></hi>Tartuffe</hi></head>
         </div>
     </body>
   </text>
