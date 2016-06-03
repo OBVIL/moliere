@@ -43,8 +43,8 @@
       <div type="anecdote" xml:id="boileau-fait-eloge-avare">
         <head>Boileau fait l'éloge de <hi rend="i">L’Avare</hi> contre la critique de Racine</head>
       </div>
-      <div type="anecdote" xml:id="boileau-consacre-moliere-devant-roi">
-        <head>Boileau proclame Molière « le plus rare des grands écrivains de son siècle » devant le roi</head>
+      <div type="anecdote" xml:id="boileau-ou-racine-consacre-moliere-devant-roi">
+        <head>Boileau ou Racine proclame Molière le premier des grands écrivains de son siècle devant le roi</head>
       </div>
       <div type="anecdote" xml:id="eloge-composition-caractere">
         <head>Boileau loue le talent de Molière à composer un caractère</head>
@@ -247,8 +247,8 @@
       <div type="anecdote" xml:id="moliere-tourne-en-derision-interdiction-lamoignon">
         <head>Molière tourne en dérision l’interdiction du <hi rend="i">Tartuffe</hi> par le président de Lamoignon</head>
       </div>
-      <div type="anecdote" xml:id="mot-mepris-pilule">
-        <head>Mot de Molière sur le mépris, pilule difficile à avaler</head>
+      <div type="anecdote" xml:id="moliere-fait-bon-mot-mepris">
+        <head>Molière fait un bon mot sur la difficulté qu’il y a à endurer le mépris</head>
       </div>
       <div type="anecdote" xml:id="moliere-original-argan">
         <head>Original d’Argan, Molière</head>
@@ -400,8 +400,8 @@
       <div type="anecdote" xml:id="moliere-se-venge-des-limousins">
         <head>Molière se venge du mauvais accueil des Limousins dans <hi rend="i">Monsieur de Pourceaugnac</hi></head>
       </div>
-      <div type="anecdote" xml:id="moliere-tire-vers-misanthrope-boutade-boileau">
-        <head>Molière tire des vers du <hi rend="i">Misanthrope</hi> d’une boutade de Boileau </head>
+      <div type="anecdote" xml:id="moliere-tire-vers-misanthrope-saillie-boileau">
+        <head>Molière tire des vers du <hi rend="i">Misanthrope</hi> d’une saillie de Boileau </head>
       </div>
       <div type="anecdote" xml:id="original-marquis-tarte-creme-agresse-moliere">
         <head>L’original du marquis <hi rend="i">Tarte à la crème</hi> de <hi rend="i">La Critique de L’École des femmes</hi> agresse Molière</head>
@@ -467,7 +467,7 @@
         <head>Molière refuse la scène de Caritidès écrite par Chapelle (<hi rend="i">Les Fâcheux</hi>)</head>
       </div>
       <div type="anecdote" xml:id="boileau-fournit-scene-trissotin-vadius">
-        <head>Boileau fournit à Molière la scène de Trissotin et de Vadius (<hi rend="i">Les Femmes savantes</hi>)</head>
+        <head>Boileau fournit à Molière la scène de Trissotin et de Vadius, en lui racontant une querelle entre Gilles Boileau et Cotin (<hi rend="i">Les Femmes savantes</hi>)</head>
       </div>
       <div type="anecdote" xml:id="moliere-neutralise-original-dandin">
         <head>Molière neutralise un homme influent, qui pourrait se persuader qu’il est l’original de George Dandin</head>
@@ -549,6 +549,21 @@
       </div>
       <div type="anecdote" xml:id="boileau-consacre-moliere-et-denigre-scarron">
         <head>Boileau proclame Molière meilleur auteur comique et dénigre Scarron</head>
+      </div>
+      <div type="anecdote" xml:id="moliere-joue-cotin-sous-nom-tricotin">
+        <head>Molière fait d’abord la satire de Cotin sous le nom de Tricotin, ensuite transformé en Trissotin (<hi rend="i">Les Femmes savantes</hi>)</head>
+      </div>
+      <div type="anecdote" xml:id="menage-refuse-de-croire-satire-femmes-savantes">
+        <head>Ménage refuse de croire que Molière fait la satire de Mme de Rambouillet, de sa fille et de lui-même dans <hi rend="i">Les Femmes savantes</hi></head>
+      </div>
+      <div type="anecdote" xml:id="bel-esprit-fait-bon-mot-sur-jeunes-auteurs">
+        <head>Un bel esprit fait un bon mot sur les jeunes auteurs qui pensent que Molière a vieilli</head>
+      </div>
+      <div type="anecdote" xml:id="moliere-ne-peut-affronter-tonitruant-fourcroy">
+        <head>Molière, avec sa voix ténue, ne peut affronter son ami, l’avocat tonitruant Fourcroy</head>
+      </div>
+      <div type="anecdote" xml:id="moliere-tire-scene-vadius-trissotin-dispute-cotin-menage">
+        <head>Molière tire la scène entre Trissotin et Vadius d’une dispute entre Cotin et Ménage qui eut lieu chez Mademoiselle (<hi rend="i">Les Femmes savantes</hi>)</head>
       </div>
     </body>
   </text>
