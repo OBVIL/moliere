@@ -44,7 +44,7 @@
         <head>Boileau fait l'éloge de <hi rend="i">L’Avare</hi> contre la critique de Racine</head>
       </div>
       <div type="anecdote" xml:id="boileau-ou-racine-consacre-moliere-devant-roi">
-        <head>Boileau ou Racine proclame Molière le premier des grands écrivains de son siècle devant le roi</head>
+        <head>Boileau ou Racine proclame Molière le premier des grands écrivains de son siècle devant Louis XIV</head>
       </div>
       <div type="anecdote" xml:id="eloge-composition-caractere">
         <head>Boileau loue le talent de Molière à composer un caractère</head>
@@ -200,7 +200,7 @@
         <head>Une femme du peuple nomme Molière avec mépris lors de son enterrement</head>
       </div>
       <div type="anecdote" xml:id="beauval-adoubee-par-roi">
-        <head>Mlle de Beauval adoubée par le roi malgré sa tentative pour la faire remplacer</head>
+        <head>Mlle de Beauval adoubée par Louis XIV malgré sa tentative pour la faire remplacer</head>
       </div>
       <div type="anecdote" xml:id="marotte-fille-chambre-de-brie">
         <head>Mlle Ragueneau, surnommée Marotte, fille de chambre de Mlle de Brie (lien avec <hi rend="i">Le Roman comique</hi>)</head>
@@ -209,7 +209,7 @@
         <head>La maîtresse du prince de Conti, Mme Calvimont, fait venir la troupe de Molière à Pézenas</head>
       </div>
       <div type="anecdote" xml:id="dacier-supprime-dissertation-amphitryon">
-        <head>Mme Dacier supprime sa dissertation sur <hi rend="i">Amphitryon</hi> après avoir entendu dire que Molière voulait faire une comédie des <hi rend="i">Femmes savantes</hi></head>
+        <head>Anne Dacier supprime sa dissertation sur <hi rend="i">Amphitryon</hi> après avoir entendu dire que Molière voulait faire une comédie des <hi rend="i">Femmes savantes</hi></head>
       </div>
       <div type="anecdote" xml:id="moliere-perd-maitrise-ane">
         <head>Molière, dans le rôle de Sancho, perd la maîtrise de son âne au moment d’entrer en scène</head>
@@ -253,14 +253,8 @@
       <div type="anecdote" xml:id="moliere-original-argan">
         <head>Original d’Argan, Molière</head>
       </div>
-      <div type="anecdote" xml:id="original-apothicaire">
-        <head>Original de l’apothicaire du <hi rend="i">Malade imaginaire</hi></head>
-      </div>
       <div type="anecdote" xml:id="original-pourceaugnac">
         <head>Original (aux) de Pourceaugnac</head>
-      </div>
-      <div type="anecdote" xml:id="esclandre-original-sganarelle">
-        <head>Original de Sganarelle (<hi rend="i">Le Cocu imaginaire</hi>) provoque un esclandre</head>
       </div>
       <div type="anecdote" xml:id="moliere-peint-tartuffe-d-apres-abbe-roquette">
         <head>Molière peint le personnage de Tartuffe d’après l’abbé Roquette</head>
@@ -322,8 +316,8 @@
       <div type="anecdote" xml:id="pression-troupe-festin-pierre">
         <head>Pression exercée par la troupe pour créer un <hi rend="i">Festin de Pierre</hi></head>
       </div>
-      <div type="anecdote" xml:id="moliere-justifie-attachement-de-brie">
-        <head>Raisons de l’attachement de Molière à Mlle de Brie</head>
+      <div type="anecdote" xml:id="moliere-fait-bon-mot-amour-pour-de-brie">
+        <head>Molière fait un bon mot sur les raisons de son amour pour Mlle de Brie</head>
       </div>
       <div type="anecdote" xml:id="art-affranchir-regles">
         <head>Refus de corriger un vers de Boileau « c’est l’art même qui doit nous apprendre à nous affranchir des règles de l’art »</head>
@@ -335,7 +329,7 @@
         <head>Refus de Molière d’accéder à la demande de Madame (Henriette d’Angleterre) parce qu’il avait un original pour le « flandrin »</head>
       </div>
       <div type="anecdote" xml:id="moliere-regle-differend-chapelle-et-valet">
-        <head>Molière règle un différend entre Chapelle et son valet Godemer</head>
+        <head>Molière règle un différend entre Chapelle et son valet Godemer avec équité</head>
       </div>
       <div type="anecdote" xml:id="montausier-se-targue-de-ressembler-au-misanthrope">
         <head>Le duc de Montausier se targue de ressembler au Misanthrope </head>
@@ -372,9 +366,6 @@
       </div>
       <div type="anecdote" xml:id="moliere-au-supplice-diction-acteurs">
         <head>Molière au supplice en écoutant ses acteurs déclamer ses vers</head>
-      </div>
-      <div type="anecdote" xml:id="supplique-veuve-enterrement">
-        <head>Supplique de la veuve de Molière au roi pour enterrer son mari</head>
       </div>
       <div type="anecdote" xml:id="moliere-lit-tartuffe-chez-ninon-de-lenclos">
         <head>Molière lit <hi rend="i">Le Tartuffe</hi> chez Ninon de Lenclos qui lui raconte une aventure semblable</head>
@@ -564,6 +555,12 @@
       </div>
       <div type="anecdote" xml:id="moliere-tire-scene-vadius-trissotin-dispute-cotin-menage">
         <head>Molière tire la scène entre Trissotin et Vadius d’une dispute entre Cotin et Ménage qui eut lieu chez Mademoiselle (<hi rend="i">Les Femmes savantes</hi>)</head>
+      </div>
+      <div type="anecdote" xml:id="malouin-impute-mort-moliere-satire-medecine">
+        <head>Malouin, le médecin de la reine, suggère que Molière a payé la satire de la médecine par la façon dont il est mort</head>
+      </div>
+      <div type="anecdote" xml:id="boileau-reproche-a-moliere-jargon-paysan">
+        <head>Boileau reproche à Molière le jargon qu’utilisent, dans ses pièces, les paysans et quelques autres personnages</head>
       </div>
     </body>
   </text>
