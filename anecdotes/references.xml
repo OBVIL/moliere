@@ -35,7 +35,7 @@
         <head>Molière donne l'aumône à un mendiant</head>
       </div>
       <div type="anecdote" xml:id="valet-met-bas-a-l-envers">
-        <head>Le valet de Molière lui met son bas à l’envers</head>
+        <head>Le valet de Molière exaspère son maître en lui mettant, de façon réitérée, son bas à l’envers</head>
       </div>
       <div type="anecdote" xml:id="boileau-promenade-couple">
         <head>Boileau assiste à la promenade de Molière et Armande, signe d’un retour de flamme dans le couple</head>
@@ -212,7 +212,7 @@
         <head>Anne Dacier supprime sa dissertation sur <hi rend="i">Amphitryon</hi> après avoir entendu dire que Molière voulait faire une comédie des <hi rend="i">Femmes savantes</hi></head>
       </div>
       <div type="anecdote" xml:id="moliere-perd-maitrise-ane">
-        <head>Molière, dans le rôle de Sancho, perd la maîtrise de son âne au moment d’entrer en scène</head>
+        <head>Molière, dans le rôle de Sancho Pança, perd la maîtrise de son âne au moment d’entrer en scène</head>
       </div>
       <div type="anecdote" xml:id="moliere-mange-avec-boissat">
         <head>Molière mange à la table de Boissat</head>
@@ -283,9 +283,6 @@
       <div type="anecdote" xml:id="moliere-tire-nom-escarbagnas-dame-angouleme">
         <head>Molière tire le nom de la comtesse d’Escarbagnas de celui d’une dame des environs Angoulême</head>
       </div>
-      <div type="anecdote" xml:id="origine-nom-tartuffe">
-        <head>Origine du nom « Tartuffe »</head>
-      </div>
       <div type="anecdote" xml:id="parmesan-agonie">
         <head>Parmesan réclamé par Molière à l’agonie</head>
       </div>
@@ -323,10 +320,7 @@
         <head>Refus de corriger un vers de Boileau « c’est l’art même qui doit nous apprendre à nous affranchir des règles de l’art »</head>
       </div>
       <div type="anecdote" xml:id="moliere-refuse-lire-traduction-en-public">
-        <head>Molière refuse de lire sa traduction de Lucrèce en public</head>
-      </div>
-      <div type="anecdote" xml:id="refus-madame-flandrin">
-        <head>Refus de Molière d’accéder à la demande de Madame (Henriette d’Angleterre) parce qu’il avait un original pour le « flandrin »</head>
+        <head>Molière, par modestie, refuse de lire sa traduction de Lucrèce en public</head>
       </div>
       <div type="anecdote" xml:id="moliere-regle-differend-chapelle-et-valet">
         <head>Molière règle un différend entre Chapelle et son valet Godemer avec équité</head>
@@ -502,8 +496,8 @@
       <div type="anecdote" xml:id="moliere-tire-misanthrope-piece-italienne">
         <head>Molière tire <hi rend="i">Le Misanthrope</hi> d’une pièce créée à Naples et dont l’acteur de la comédie italienne, Angelo lui a rapporté le sujet</head>
       </div>
-      <div type="anecdote" xml:id="moliere-justifie-comedie-pourceaugnac-par-interet-acteurs">
-        <head>Molière allègue l’intérêt de ses acteurs pour justifier la comédie <hi rend="i">Monsieur de Pourceaugnac</hi></head>
+      <div type="anecdote" xml:id="moliere-justifie-farces-par-interet-acteurs">
+        <head>Molière allègue l’intérêt de ses acteurs pour justifier ses farces</head>
       </div>
       <div type="anecdote" xml:id="moliere-fait-bon-mot-pere-maimbourg">
         <head>Molière répond aux détracteurs du <hi rend="i">Tartuffe</hi> en faisant un bon mot sur le Père Maimbourg</head>
@@ -561,6 +555,24 @@
       </div>
       <div type="anecdote" xml:id="boileau-reproche-a-moliere-jargon-paysan">
         <head>Boileau reproche à Molière le jargon qu’utilisent, dans ses pièces, les paysans et quelques autres personnages</head>
+      </div>
+      <div type="anecdote" xml:id="moliere-insatisfait-de-ce-qu-il-fait">
+        <head>Molière affirme n’avoir jamais été satisfait de ce qu’il avait fait, confirmant ainsi la <hi rend="i">Satire II</hi> que Boileau lui a adressée</head>
+      </div>
+      <div type="anecdote" xml:id="moliere-pousse-brouette-et-se-couvre-de-boue">
+        <head>Molière décide de pousser la brouette qui le transporte pour aller plus vite, sans s’apercevoir qu’il se couvre de boue</head>
+      </div>
+      <div type="anecdote" xml:id="moliere-refuse-supprimer-trait-comique-flandrin">
+        <head>Molière refuse de supprimer le trait comique sur le grand flandrin comme le demande Henriette d'Angleterre, parce qu’il a un original (<hi rend="i">Le Misanthrope</hi>)</head>
+      </div>
+      <div type="anecdote" xml:id="moliere-affirme-primat-justesse-sur-perfection">
+        <head>Molière refuse de corriger un vers de Boileau, au nom du primat de la justesse sur la perfection</head>
+      </div>
+      <div type="anecdote" xml:id="moliere-meilleur-predicateur-que-joly">
+        <head>Pour décrier le prédicateur Claude Joly, on disait que Molière était meilleur prédicateur et Joly meilleur comédien</head>
+      </div>
+      <div type="anecdote" xml:id="moliere-peint-timante-d-apres-saint-gilles">
+        <head>Molière peint Timante d’après Saint-Gilles, qui prit le parti de Bouillon contre La Fontaine dans le débat sur la traduction de la nouvelle « Joconde » de l’Arioste (<hi rend="i">Le Misanthrope</hi>)</head>
       </div>
     </body>
   </text>

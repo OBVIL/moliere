@@ -325,7 +325,7 @@
       <div xml:id="I271b">
         <head>Tome I, p. 271<term rend="index" type="Œuvre " key="Molière, 1659, Les Précieuses ridicules"/></head>
         <bibl>1721, <title>Segraisiana</title>, p. 212-214</bibl>
-        <p><milestone type="anecdoteStart" xml:id="moliere-declare-qu-il-suffit-d-etudier-monde"/>Ce furent les <hi rend="i">Précieuse Ridicules</hi>, qui mirent Molière en réputation. La Pièce ayant eu, comme on sait, l’approbation de tout Paris, on la joua à la Cour qui était alors au voyage des Pyrénées, où elle fut très-bien reçue ; et cela anima le courage de l’Auteur. « je n’ai plus que faire, dit-il, d’étudier Plaute* et Térence*, ni d’éplucher les fragments de Ménandre*. Je n’ai plus qu’à étudier le monde. »<milestone type="anecdoteEnd"/></p>
+        <p><milestone type="commentStart" corresp="#moliere-declare-qu-il-suffit-d-etudier-monde"/>Ce furent les <hi rend="i">Précieuse Ridicules</hi>, qui mirent Molière en réputation. La Pièce ayant eu, comme on sait, l’approbation de tout Paris, on la joua à la Cour qui était alors au voyage des Pyrénées, où elle fut très-bien reçue ; et cela anima le courage de l’Auteur. <milestone type="commentEnd"/><milestone type="anecdoteStart" xml:id="moliere-declare-qu-il-suffit-d-etudier-monde"/>« je n’ai plus que faire, dit-il, d’étudier Plaute* et Térence*, ni d’éplucher les fragments de Ménandre*. Je n’ai plus qu’à étudier le monde. »<milestone type="anecdoteEnd"/></p>
         <bibl type="embed" corresp="../cousin-d-avalon_molierana/ana64.js"><ref target="../cousin-d-avalon_molierana/ana64">1801, <title>Moliérana</title>, 64, p. 100-101</ref></bibl>
       </div>
       <div xml:id="I272">
@@ -765,7 +765,7 @@
       </div>
       <div xml:id="II93">
         <head>Tome II, p. 93-94<term rend="index" type="Œuvre " key="Molière, 1669, Monsieur de Pourceaugnac"/></head>
-        <p><milestone type="anecdoteStart" xml:id="moliere-justifie-comedie-pourceaugnac-par-interet-acteurs"/>Lorsqu’on reprochait à Molière d’avoir donné cette farce [<hi rend="i">Monsieur de Pourceaugnac</hi>], il répondait qu’il était Comédien aussi bien qu’Auteur, et qu’il fallait qu’il consultât l’intérêt de ses Acteurs aussi bien que sa propre gloire.<milestone type="anecdoteEnd"/><milestone type="commentStart" corresp="#moliere-justifie-comedie-pourceaugnac-par-interet-acteurs"/> C’était aussi la réponse que le célèbre Shakespeare, chez les Anglais, pouvait faire à la plupart de ses critiques.<milestone type="commentEnd"/></p>
+        <p><milestone type="anecdoteStart" xml:id="moliere-justifie-farces-par-interet-acteurs"/>Lorsqu’on reprochait à Molière d’avoir donné cette farce [<hi rend="i">Monsieur de Pourceaugnac</hi>], il répondait qu’il était Comédien aussi bien qu’Auteur, et qu’il fallait qu’il consultât l’intérêt de ses Acteurs aussi bien que sa propre gloire.<milestone type="anecdoteEnd"/><milestone type="commentStart" corresp="#moliere-justifie-farces-par-interet-acteurs"/> C’était aussi la réponse que le célèbre Shakespeare, chez les Anglais, pouvait faire à la plupart de ses critiques.<milestone type="commentEnd"/></p>
         <bibl type="embed" corresp="../cousin-d-avalon_molierana/ana88.js"><ref target="../cousin-d-avalon_molierana/ana88">1801, <title>Moliérana</title>, 88, p. 132</ref></bibl>
       </div>
       <div xml:id="II94">
