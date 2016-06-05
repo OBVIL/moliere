@@ -444,7 +444,7 @@
       <div xml:id="I326">
         <head>Tome I, p. 326-327<term rend="index" type="Vie " key="Molière, jeunesse"/></head>
         <bibl>1705, Grimarest, p. 12-15</bibl>
-        <p><milestone type="commentStart" corresp="#moliere-refuse-poste-conti"/>C’est la première Pièce régulière que Molière ait donné au Public. Elle avait d’abord été jouée à Lyon, en 1653.<milestone type="commentEnd"/><milestone type="anecdoteStart" xml:id="moliere-refuse-poste-conti"/> Le Prince de Conti*, devant lequel on la représenta, admira les talents de l’Auteur, et voulut se l’attacher en qualité de Secrétaire ; mais heureusement pour la gloire du Théâtre Français Molière préféra de suivre l’impulsion de son génie.<milestone type="anecdoteEnd"/></p>
+        <p><milestone type="commentStart" corresp="#moliere-refuse-poste-conti"/>C’est la première Pièce régulière que Molière ait donnée au Public. Elle avait d’abord été jouée à Lyon, en 1653.<milestone type="commentEnd"/><milestone type="anecdoteStart" xml:id="moliere-refuse-poste-conti"/> Le Prince de Conti*, devant lequel on la représenta, admira les talents de l’Auteur, et voulut se l’attacher en qualité de Secrétaire ; mais heureusement pour la gloire du Théâtre Français Molière préféra de suivre l’impulsion de son génie.<milestone type="anecdoteEnd"/></p>
         <bibl type="embed" corresp="../cousin-d-avalon_molierana/ana2.js"><ref target="../cousin-d-avalon_molierana/ana2">1801, <title>Moliérana</title>, 2, p. 34-35</ref></bibl>
       </div>
       <div xml:id="I335">
@@ -711,7 +711,7 @@
       </div>
       <div xml:id="I559d">
         <head>Tome I, p. 559<term rend="index" type="Œuvre " key="Molière, 1666, Le Misanthrope"/></head>
-        <p><milestone type="anecdoteStart" xml:id="montausier-se-targue-de-ressembler-au-misanthrope"/>Les ennemis de Molière voulurent persuader au Duc de Montausier*, fameux par sa vertu austère et sauvage, que c’était lui que Molière jouait dans le <hi rend="i">Misanthrope</hi>. Le duc de Montausier* alla voir la Pièce, et dit en sortant, qu’il aurait bien voulu ressembler au Misanthrope de Molière.<milestone type="anecdoteEnd"/></p>
+        <p><milestone type="commentStart" corresp="#montausier-se-targue-de-ressembler-au-misanthrope"/>Les ennemis de Molière voulurent persuader au Duc de Montausier*, fameux par sa vertu austère et sauvage, que c’était lui que Molière jouait dans le <hi rend="i">Misanthrope</hi>. <milestone type="commentEnd"/><milestone type="anecdoteStart" xml:id="montausier-se-targue-de-ressembler-au-misanthrope"/>Le duc de Montausier* alla voir la Pièce, et dit en sortant, qu’il aurait bien voulu ressembler au Misanthrope de Molière.<milestone type="anecdoteEnd"/></p>
         <bibl type="embed" corresp="../cousin-d-avalon_molierana/ana33.js"><ref target="../cousin-d-avalon_molierana/ana33">1801, <title>Moliérana</title>, 33, p. 62</ref></bibl>
       </div>
       <div xml:id="I559e">
