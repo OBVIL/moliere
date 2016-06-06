@@ -52,9 +52,6 @@
       <div type="anecdote" xml:id="duel-boissat">
         <head>Boissat provoqué en duel à la suite de la représentation d’une comédie de Molière</head>
       </div>
-      <div type="anecdote" xml:id="ceremonie-1658">
-        <head>Cérémonie du 24 octobre 1658</head>
-      </div>
       <div type="anecdote" xml:id="chapelle-travaillant-pour-moliere">
         <head>Chapelle travaillant pour Molière</head>
       </div>
@@ -117,9 +114,6 @@
       </div>
       <div type="anecdote" xml:id="moliere-defend-bonhomme-la-fontaine">
         <head>Molière prend la défense du « bonhomme » La Fontaine</head>
-      </div>
-      <div type="anecdote" xml:id="eloge-jeu-beauval">
-        <head>Éloge du jeu naturel de Beauval</head>
       </div>
       <div type="anecdote" xml:id="moliere-peint-beline-d-apres-maratre">
         <head>Molière peint le personnage de Béline d’après sa marâtre (<hi rend="i">Le Malade imaginaire</hi>)</head>
@@ -199,9 +193,6 @@
       <div type="anecdote" xml:id="femme-du-peuple-nomme-moliere-avec-mepris">
         <head>Une femme du peuple nomme Molière avec mépris lors de son enterrement</head>
       </div>
-      <div type="anecdote" xml:id="beauval-adoubee-par-roi">
-        <head>Mlle de Beauval adoubée par Louis XIV malgré sa tentative pour la faire remplacer</head>
-      </div>
       <div type="anecdote" xml:id="marotte-fille-chambre-de-brie">
         <head>Mlle Ragueneau, surnommée Marotte, fille de chambre de Mlle de Brie (lien avec <hi rend="i">Le Roman comique</hi>)</head>
       </div>
@@ -250,8 +241,8 @@
       <div type="anecdote" xml:id="moliere-fait-bon-mot-mepris">
         <head>Molière fait un bon mot sur la difficulté qu’il y a à endurer le mépris</head>
       </div>
-      <div type="anecdote" xml:id="moliere-original-argan">
-        <head>Original d’Argan, Molière</head>
+      <div type="anecdote" xml:id="moliere-se-peint-malade-imaginaire">
+        <head>Molière se peint dans <hi rend="i">Le Malade imaginaire</hi></head>
       </div>
       <div type="anecdote" xml:id="original-pourceaugnac">
         <head>Original (aux) de Pourceaugnac</head>
@@ -259,8 +250,8 @@
       <div type="anecdote" xml:id="moliere-peint-tartuffe-d-apres-abbe-roquette">
         <head>Molière peint le personnage de Tartuffe d’après l’abbé Roquette</head>
       </div>
-      <div type="anecdote" xml:id="original-type-extravagant">
-        <head>Original d’un type encore à faire, l’Extravagant</head>
+      <div type="anecdote" xml:id="moliere-songe-peindre-extravagant-d-apres-courtisan">
+        <head>Molière songe à peindre le type de l’extravagant d’après un courtisan désireux d’être mis sur le théâtre</head>
       </div>
       <div type="anecdote" xml:id="lieutenant-tardieu-avare">
         <head>Originaux d’avares, le lieutenant Tardieu et sa femme</head>
@@ -573,6 +564,9 @@
       </div>
       <div type="anecdote" xml:id="moliere-peint-timante-d-apres-saint-gilles">
         <head>Molière peint Timante d’après Saint-Gilles, qui prit le parti de Bouillon contre La Fontaine dans le débat sur la traduction de la nouvelle « Joconde » de l’Arioste (<hi rend="i">Le Misanthrope</hi>)</head>
+      </div>
+      <div type="anecdote" xml:id="moliere-peint-bourgeois-gentilhomme-d-apres-gandouin">
+        <head>Molière peint le Bourgeois gentilhomme d’après un chapelier nommé Gandouin</head>
       </div>
     </body>
   </text>
