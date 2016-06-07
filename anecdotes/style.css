@@ -34,7 +34,7 @@ td, th{
 }
 
 .matrix thead th.book-author {
-  height: 110px;
+  height: 142px;
   vertical-align: bottom;
   white-space: nowrap;
 }
@@ -133,9 +133,12 @@ td.fltrow, th{width:20px !important;}
 .matrix input{width:20px !important;}
 tr.fltrow td:nth-child(1) input,  tr.fltrow td:nth-child(3) input, tr.fltrow td:nth-child(4) input{width:100% !important;}
 tr.book-author th.no-border, div.th-container{text-align: center;}
+.logo img{width:150px;margin-bottom: 20px;}
+#trigger-info, #view-matrix, #view-detail{margin-right:10px;float: right;}
+/*SCROLL*/
 
-/*SCROLL
- *table tbody, table thead
+ /*
+  *table tbody, table thead
 {
     display: block;
 }
@@ -151,4 +154,12 @@ th.th-anecdote-title, td.anecdote-title{
 th.th-count, td.count{
     width:20px;
 }
-tbody{border-top: 1px solid grey;}*/
+tbody{border-top: 1px solid grey;}
+td.first-author{width:120px;}
+td.first-date{width:100px;}
+
+thead tr td:nth-child(1) {width:440px !important;}
+
+thead tr td:nth-child(2) {width:20px !important;}
+thead tr td:nth-child(3)  {width:120px !important;}
+thead tr td:nth-child(4)  {width:100px !important;}*/
