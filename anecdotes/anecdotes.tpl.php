@@ -130,7 +130,7 @@
                                                             <div class="comment-before comment" style="display: none;"><p><?php echo $anecdote["books"][$bookId]["commentBefore"] ?></p></div>
                                                             <div class="core"><p><?php echo $anecdote["books"][$bookId]["content"] ?></p></div>
                                                             <div class="comment-after comment" style="display: none;"><p><?php echo $anecdote["books"][$bookId]["commentAfter"] ?></p></div>
-                                                            <?php if($empty=="not-emptyy"){ ?><a href="../critique/<?php echo $bookId; ?>#<?php echo $anecdoteId ?>" target="_blank" class="tooltip open-anecdote" title="Afficher l'anecdote dans son contexte"><i class="fa fa-file"></i></a><?php } ?>
+                                                            <?php if($empty=="not-empty"){ ?><a href="../critique/<?php echo $bookId; ?>.xml#<?php echo $anecdoteId ?>" target="_blank" class="tooltip open-anecdote" title="Afficher l'anecdote dans son contexte"><i class="fa fa-file"></i></a><?php } ?>
                                                         </div>
                                                 </td>
                                         <?php }?>
