@@ -10,6 +10,9 @@
   <xsl:template match="hi[@rend='i']">
     <i><xsl:apply-templates></xsl:apply-templates></i>
   </xsl:template>
+  <xsl:template match="title">
+    <i><xsl:apply-templates></xsl:apply-templates></i>
+  </xsl:template>
   <xsl:template match="hi[@rend='sc']">
     <span class="sc"><xsl:apply-templates></xsl:apply-templates></span>
   </xsl:template>
