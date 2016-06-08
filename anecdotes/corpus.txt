@@ -8,5 +8,6 @@ noel_moliere
 janin_moliere
 merlet_moliere
 larroumet_moliere-homme-et-comedien
+monval_lettres-au-mercure
 faguet_en-lisant-moliere
 brunetiere_moliere
