@@ -107,7 +107,7 @@
           <p>Quatre pistoles. — Donnez-lui quatre pistoles pour moi, lui dit Molière ; en voilà vingt qu’il faut que vous lui donniez pour vous ;</p>
         </quote>
         <p>et il joignit à ce présent celui d’un habit magnifique.<milestone type="anecdoteEnd"/><milestone type="commentStart" corresp="#moliere-secourt-mondorge"/> Ce sont de petits faits, mais ils peignent le caractère.<milestone type="commentEnd"/></p>
-        <p><milestone type="anecdoteStart" xml:id="moliere-donne-aumone-mendiant"/>Un autre trait mérite plus d’être rapporté. Il venait de donner l’aumône à un pauvre. Un instant après, le pauvre court après lui, et lui dit :</p>
+        <p><milestone type="commentStart" corresp="#moliere-donne-aumone-mendiant"/>Un autre trait mérite plus d’être rapporté.<milestone type="commentEnd"/><milestone type="anecdoteStart" xml:id="moliere-donne-aumone-mendiant"/> Il venait de donner l’aumône à un pauvre. Un instant après, le pauvre court après lui, et lui dit :</p>
         <quote>
           <p>Monsieur, vous n’aviez peut-être pas dessein de me donner un louis d’or, je viens vous le rendre. — Tiens, mon ami, dit Molière, en voilà un autre. ; et il s’écria : Où la vertu va-t-elle se nicher !</p>
         </quote><milestone type="anecdoteEnd"/>
