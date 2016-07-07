@@ -58,9 +58,6 @@
       <div type="anecdote" xml:id="moliere-condisciple-conti">
         <head>Molière, condisciple du prince de Conti</head>
       </div>
-      <div type="anecdote" xml:id="colere-coquetterie-armande">
-        <head>Colère de Molière contre Armande, trop coquette dans le rôle d’Elmire</head>
-      </div>
       <div type="anecdote" xml:id="conde-recherche-compagnie-moliere">
         <head>Le prince de Condé recherche la compagnie de Molière</head>
       </div>
@@ -108,9 +105,6 @@
       </div>
       <div type="anecdote" xml:id="echec-avare-attribue-a-prose">
         <head>Les spectateurs s'insurgent contre l'usage de la prose dans <hi rend="i">L’Avare</hi></head>
-      </div>
-      <div type="anecdote" xml:id="echec-misanthrope">
-        <head>Échec prétendu du <hi rend="i">Misanthrope</hi></head>
       </div>
       <div type="anecdote" xml:id="moliere-defend-bonhomme-la-fontaine">
         <head>Molière prend la défense du « bonhomme » La Fontaine</head>
@@ -244,8 +238,8 @@
       <div type="anecdote" xml:id="moliere-se-peint-malade-imaginaire">
         <head>Molière se peint dans <hi rend="i">Le Malade imaginaire</hi></head>
       </div>
-      <div type="anecdote" xml:id="original-pourceaugnac">
-        <head>Original (aux) de Pourceaugnac</head>
+      <div type="anecdote" xml:id="moliere-peint-pourceaugnac-d-apres-original-a-paris">
+        <head>Molière peint le personnage de Pourceaugnac d’après un original à Paris</head>
       </div>
       <div type="anecdote" xml:id="moliere-peint-tartuffe-d-apres-abbe-roquette">
         <head>Molière peint le personnage de Tartuffe d’après l’abbé Roquette</head>
@@ -412,8 +406,8 @@
       <div type="anecdote" xml:id="moliere-adapte-role-bejart">
         <head>Molière adapte les rôles à l’acteur : le cas de Béjart, estropié</head>
       </div>
-      <div type="anecdote" xml:id="moliere-peint-bourgeois-gentilhomme-d-apres-personne-reelle">
-        <head>Molière peint le Bourgeois gentilhomme d’après une personne réelle</head>
+      <div type="anecdote" xml:id="moliere-peint-bourgeois-gentilhomme-d-apres-original">
+        <head>Molière peint le Bourgeois gentilhomme d’après un original</head>
       </div>
       <div type="anecdote" xml:id="moliere-peint-lucile-d-apres-armande">
         <head>Molière peint Lucile d’après Armande Béjart (<hi rend="i">Le Bourgeois gentilhomme</hi>)</head>
