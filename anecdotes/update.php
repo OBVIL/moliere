@@ -30,6 +30,7 @@ function teiClean($tei) {
         '|<[pc]b([^/]+)?/>|',
         '|<anchor([^/]+)?/>|',
         '|</?quote>|',
+        '|</?label>|',
 
         //   '|<note.*?</note>|',
         '|</p>|',
@@ -43,6 +44,7 @@ function teiClean($tei) {
         '',
 
         //   '',
+        '',
         '',
         '',
         '',
@@ -68,6 +70,7 @@ foreach ($bookIds as $bookId) {
     if (!is_file($bookPath)) {
         continue;
     }
+    echo $bookId;
     $book = new DOMDocument();
     $book->load($bookPath);
     $bookTitle = $book->getElementsByTagName("title");
@@ -95,6 +98,7 @@ foreach ($bookIds as $bookId) {
     $xml.=$bookHead;
     //lien vers le texte de l'anecdote : transformer les <milestones@xml:id/> en <???@id/> dans tei2html
     foreach ($anecdotes as $anecdote) {
+        $commentBefore = $commentAfter = "";
         $anecdoteTitle = $references->getElementById($anecdote["id"])->textContent;
         $xml.= '<div type="anecdote" copyOf="#' . $anecdote["id"] . '" xml:id="' . $bookId . '_' . $anecdote["id"] . '"><head><ref target="../critique/' . $bookId . '#' . $anecdote["id"] . '">' . $anecdoteTitle . '</ref></head>';
         $array[$anecdote["id"]]["title"] = $anecdoteTitle;
