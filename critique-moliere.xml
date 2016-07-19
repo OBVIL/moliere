@@ -31,8 +31,12 @@
   <file href="critique/fenelon_projet-traite.xml"></file>
   <!-- 1739 -->
   <file href="../critique/voltaire/voltaire_vie-moliere.xml"/>
+  <!-- 1802 -->
+  <file href="../critique/cailhava/cailhava_etudes-moliere.xml"/><!-- 2016-07-19 -->
   <!-- 1808 -->
   <file href="critique/schlegel_cours-moliere.xml"/><!-- 2015-11-19 -->
+  <!-- 1811 -->
+  <file href="../critique/etienne/etienne_discours-reception.xml"/><!-- 2016-07-19 -->
   <!-- 1819 -->
   <file href="critique/anonyme_deux-pieces.xml"></file><!-- 2015-11-19 -->
   <!-- 1821 -->
@@ -44,6 +48,11 @@
   <file href="critique/picard_notice-moliere.xml"/><!-- 2015-11-19 -->
   <!-- 1852 -->
   <file href="critique/geruzez-moliere.xml"/><!-- 2015-11-19 -->
+  <!-- 1863 -->
+  <file href="../critique/moland/moland_moliere-comedie-italienne.xml"/><!-- 2016-07-19 -->
+  <file href="../critique/taschereau/taschereau_vie-moliere.xml"/><!-- 2016-07-19 -->
+  <!-- 1873 -->
+  <file href="../critique/claretie/claretie_moliere.xml"/><!-- 2016-07-19 -->
   <!-- 1879 -->
   <file href="critique/houssaye_comediennes-moliere.xml"/><!-- 2015-11-19 -->
   <!-- 1881 -->
@@ -57,6 +66,7 @@
   <file href="../critique/faguet/faguet_rousseau-contre-moliere.xml"/>
   <!-- 1900 -->
   <file href="../critique/bergson/bergson_rire.xml"/>
+  <file href="../critique/weiss/weiss_moliere.xml"/><!-- 2016-07-19 -->
   <!-- 1901 -->
   <file href="critique/canora_moliere-moraliste.xml"/><!-- 2015-11-19 -->
   <!-- 1914 -->
