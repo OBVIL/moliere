@@ -22,8 +22,8 @@
       <div type="anecdote" xml:id="piron-admire-tartuffe">
         <head>Piron exprime son admiration pour <hi rend="i">Le Tartuffe</hi></head>
       </div>
-      <div type="anecdote" xml:id="lauzun-amants-magnifiques">
-        <head>Allusion à M<hi rend="sup">lle</hi> de Lauzun dans <hi rend="i">Les Amants magnifiques</hi></head>
+      <div type="anecdote" xml:id="moliere-fait-allusion-amours-mademoiselle">
+        <head>Molière fait allusion aux amours de Mademoiselle dans <hi rend="i">Les Amants magnifiques</hi></head>
       </div>
       <div type="anecdote" xml:id="moliere-donne-roles-antipathiques-a-de-brie">
         <head>Molière, hostile à De Brie, ne lui donne que des rôles de personnages antipathiques</head>
@@ -145,8 +145,8 @@
       <div type="anecdote" xml:id="intrigue-galante-montagnac">
         <head>Intrigue galante de Molière en province</head>
       </div>
-      <div type="anecdote" xml:id="jalousie-baron-melicerte">
-        <head>Jalousie de Molière à l’égard de Baron lors de la création de <hi rend="i">Mélicerte</hi></head>
+      <div type="anecdote" xml:id="moliere-jaloux-baron-melicerte">
+        <head>Molière, jaloux de Baron lors de la création de <hi rend="i">Mélicerte</hi></head>
       </div>
       <div type="anecdote" xml:id="roi-differe-louanges-bourgeois-gentilhomme">
         <head>Louis XIV fait l'éloge du <hi rend="i">Bourgeois gentilhomme</hi>, après avoir suspendu son jugement</head>
@@ -249,9 +249,6 @@
       </div>
       <div type="anecdote" xml:id="lieutenant-tardieu-avare">
         <head>Originaux d’avares, le lieutenant Tardieu et sa femme</head>
-      </div>
-      <div type="anecdote" xml:id="originaux-amour-medecin">
-        <head>Originaux des médecins de <hi rend="i">L’Amour médecin</hi></head>
       </div>
       <div type="anecdote" xml:id="origine-comtesse-escarbagnas">
         <head>Origine de <hi rend="i">La Comtesse d’Escarbagnas</hi></head>
@@ -570,6 +567,12 @@
       </div>
       <div type="anecdote" xml:id="moliere-dit-que-lutin-souffle-vers-a-corneille">
         <head>Molière dit à propos de Corneille qu’un lutin vient lui inspirer des vers sublimes avant de l’abandonner</head>
+      </div>
+      <div type="anecdote" xml:id="boileau-surnomme-moliere-contemplateur">
+        <head>Boileau surnomme Molière « le contemplateur »</head>
+      </div>
+      <div type="anecdote" xml:id="roi-donne-sujet-amants-magnifiques">
+        <head>Louis XIV donne à Molière le sujet des <hi rend="i">Amants magnifiques</hi></head>
       </div>
     </body>
   </text>

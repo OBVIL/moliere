@@ -1209,7 +1209,7 @@
           <head>[62, p. 100]</head>
           <bibl>1742, <title>Bolaeana</title>, p. 31-32</bibl>
           <bibl corresp="../clement-laporte_anecdotes-dramatiques_moliere/I271.js" type="embed"><ref target="../clement-laporte_anecdotes-dramatiques_moliere/I271">1775, <title>Anecdotes dramatiques</title>, tome I, p. 271</ref></bibl>
-          <p>Despréaux* ne se lassait point d’admirer <hi rend="i">Molière</hi>, qu’il appelait toujours le contemplateur. Il disait que la nature semblait lui avoir révélé tous ses secrets, du moins pour ce qui regarde les mœurs et les caractères des hommes. Il regrettait fort qu’on eût perdu sa petite comédie du <hi rend="i">Docteur amoureux</hi>, parce qu’il y a toujours quelque chose de saillant et d’instructif dans ses moindres ouvrages.</p>
+          <p><milestone type="anecdoteStart" xml:id="boileau-surnomme-moliere-contemplateur"/>Despréaux* ne se lassait point d’admirer <hi rend="i">Molière</hi>, qu’il appelait toujours le contemplateur. Il disait que la nature semblait lui avoir révélé tous ses secrets, du moins pour ce qui regarde les mœurs et les caractères des hommes. Il regrettait fort qu’on eût perdu sa petite comédie du <hi rend="i">Docteur amoureux</hi>, parce qu’il y a toujours quelque chose de saillant et d’instructif dans ses moindres ouvrages.<milestone type="anecdoteEnd"/></p>
         </div>
         <div type="chapter" xml:id="ana63">
           <head>[63<note place="bottom"> Cette anecdote figure à la trente-une place dans l’édition de 1855.</note>, p. 100-101]</head>

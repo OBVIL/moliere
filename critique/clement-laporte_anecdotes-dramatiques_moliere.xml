@@ -319,7 +319,7 @@
       <div xml:id="I271">
         <head>Tome I, p. 271</head>
         <bibl>1742, <title>Bolaeana</title>, p. 31-32</bibl>
-        <p>Despréaux ne se lassait pas d’admirer Molière, qu’il appelait toujours le <hi rend="i">Contemplateur</hi>. Il disait que la Nature semblait lui avoir révélé tous ses secrets, du moins pour ce qui regarde les mœurs, et les caractères des hommes. Il regrettait fort qu’on eût perdu la petite Comédie du <hi rend="i">Docteur Amoureux</hi>, parce qu’il y a toujours quelque chose de saillant et d’instructif dans ses moindres ouvrages. Selon lui, Molière pensait toujours juste, mais il n’écrivait pas toujours juste, parce qu’il suivait trop l’essor de son premier feu, et qu’il lui était impossible de revenir sur ses ouvrages.</p>
+        <p><milestone type="anecdoteStart" xml:id="boileau-surnomme-moliere-contemplateur"/>Despréaux ne se lassait pas d’admirer Molière, qu’il appelait toujours le <hi rend="i">Contemplateur</hi>. Il disait que la Nature semblait lui avoir révélé tous ses secrets, du moins pour ce qui regarde les mœurs, et les caractères des hommes. Il regrettait fort qu’on eût perdu la petite Comédie du <hi rend="i">Docteur Amoureux</hi>, parce qu’il y a toujours quelque chose de saillant et d’instructif dans ses moindres ouvrages. Selon lui, Molière pensait toujours juste, mais il n’écrivait pas toujours juste, parce qu’il suivait trop l’essor de son premier feu, et qu’il lui était impossible de revenir sur ses ouvrages.<milestone type="anecdoteEnd"/></p>
         <bibl type="embed" corresp="../cousin-d-avalon_molierana/ana62.js"><ref target="../cousin-d-avalon_molierana/ana62">1801, <title>Moliérana</title>, 62, p. 100</ref></bibl>
       </div>
       <div xml:id="I271b">
