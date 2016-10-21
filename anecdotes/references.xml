@@ -343,8 +343,8 @@
       <div type="anecdote" xml:id="moliere-au-supplice-diction-acteurs">
         <head>Molière au supplice en écoutant ses acteurs déclamer ses vers</head>
       </div>
-      <div type="anecdote" xml:id="moliere-lit-tartuffe-chez-ninon-de-lenclos">
-        <head>Molière lit <hi rend="i">Le Tartuffe</hi> chez Ninon de Lenclos qui lui raconte une aventure semblable</head>
+      <div type="anecdote" xml:id="moliere-lit-tartuffe-chez-ninon-de-lenclos-depot-cassettes">
+        <head>Molière lit <hi rend="i">Le Tartuffe</hi> chez Ninon de Lenclos qui lui raconte une aventure semblable concernant le dépôt de deux cassettes</head>
       </div>
       <div type="anecdote" xml:id="moliere-deconseille-metier-comedien">
         <head>Molière tente de détourner un jeune homme de la profession de comédien</head>
@@ -573,6 +573,9 @@
       </div>
       <div type="anecdote" xml:id="roi-donne-sujet-amants-magnifiques">
         <head>Louis XIV donne à Molière le sujet des <hi rend="i">Amants magnifiques</hi></head>
+      </div>
+      <div type="anecdote" xml:id="moliere-tire-scene-Harpagon-Cleante-aventure-Malon-de-Bercy-et-fils">
+        <head>Molière tire la scène où Cléante découvre que l’usurier à qui il est contraint d’emprunter est son père d’une aventure vécue par Malon de Bercy et son fils (<hi rend="i">L’Avare</hi>)</head>
       </div>
     </body>
   </text>
