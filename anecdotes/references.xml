@@ -130,8 +130,8 @@
       <div type="anecdote" xml:id="moliere-eleve-gassendi">
         <head>Molière, élève de Gassendi</head>
       </div>
-      <div type="anecdote" xml:id="dementi-applications-femmes-savantes">
-        <head>Harangue prononcée par Molière pour démentir les applications dans <hi rend="i">Les Femmes savantes</hi></head>
+      <div type="anecdote" xml:id="moliere-dement-applications-femmes-savantes">
+        <head>Molière prononce une harangue pour démentir les applications dans <hi rend="i">Les Femmes savantes</hi></head>
       </div>
       <div type="anecdote" xml:id="impot-habitants-pezenas-indemnise-troupe">
         <head>Le prince de Conti instaure un impôt dont les habitants de Pézenas doivent s’acquitter pour indemniser la troupe de Molière</head>
@@ -214,8 +214,8 @@
       <div type="anecdote" xml:id="tragedie-irene-lyon">
         <head>Molière monte à Lyon la tragédie de Claude Busset, Irène (// sujet tragique, <hi rend="i">La Thébaïde</hi>, donné à Racine)</head>
       </div>
-      <div type="anecdote" xml:id="moliere-spectateur">
-        <head>Molière, spectateur du <hi rend="i">Portrait du peintre</hi></head>
+      <div type="anecdote" xml:id="moliere-spectateur-portrait-du-peintre">
+        <head>Molière assiste à la représentation du <hi rend="i">Portrait du peintre</hi></head>
       </div>
       <div type="anecdote" xml:id="moliere-se-sacrifie-pour-sa-troupe">
         <head>Molière se sacrifie pour sa troupe en achevant la représentation du <hi rend="i">Malade imaginaire</hi></head>
@@ -268,8 +268,8 @@
       <div type="anecdote" xml:id="parmesan-agonie">
         <head>Parmesan réclamé par Molière à l’agonie</head>
       </div>
-      <div type="anecdote" xml:id="villedieu-actrice">
-        <head>Passage de Mme de Villedieu dans la troupe de Molière</head>
+      <div type="anecdote" xml:id="villedieu-actrice-dans-troupe-de-moliere">
+        <head>Mme de Villedieu prétend avoir fait partie de la troupe de Molière</head>
       </div>
       <div type="anecdote" xml:id="passion-corneille-du-parc">
         <head>Passion de Corneille pour Mlle Du Parc</head>
@@ -449,7 +449,7 @@
         <head>Molière modifie un vers du <hi rend="i">Malade imaginaire</hi> qui choqua le public lors de la première représentation</head>
       </div>
       <div type="anecdote" xml:id="moliere-fait-bon-mot-jeu-beauval">
-        <head>Molière fait un bon mot sur le jeu « naturel » de Beauval dans le rôle de Diafoirus (<hi rend="i">Le Malade imaginaire</hi>)</head>
+        <head>Molière fait un bon mot sur le jeu naturel de Beauval dans le rôle de Diafoirus (<hi rend="i">Le Malade imaginaire</hi>)</head>
       </div>
       <div type="anecdote" xml:id="moliere-tire-mariage-force-aventure-chevalier-grammont">
         <head>Molière tire l’intrigue du <hi rend="i">Mariage forcé</hi> de l’aventure du chevalier de Grammont et de Mlle Hamilton</head>
