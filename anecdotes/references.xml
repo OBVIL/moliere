@@ -430,8 +430,8 @@
       <div type="anecdote" xml:id="moliere-a-envisage-de-traiter-sujet-visionnaires">
         <head>Molière a envisagé de traiter le sujet des <hi rend="i">Visionnaires</hi></head>
       </div>
-      <div type="anecdote" xml:id="moliere-refuse-scene-ecrite-par-chapelle">
-        <head>Molière refuse la scène de Caritidès écrite par Chapelle (<hi rend="i">Les Fâcheux</hi>)</head>
+      <div type="anecdote" xml:id="chapelle-inspirateur-de-moliere">
+        <head>Chapelle prétend être l’inspirateur de Molière</head>
       </div>
       <div type="anecdote" xml:id="boileau-fournit-scene-trissotin-vadius">
         <head>Boileau fournit à Molière la scène de Trissotin et de Vadius, en lui racontant une querelle entre Gilles Boileau et Cotin (<hi rend="i">Les Femmes savantes</hi>)</head>
@@ -579,6 +579,12 @@
       </div>
       <div type="anecdote" xml:id="armande-se-jette-aux-pieds-roi-pour-sepulture">
         <head>Armande Béjart se jette aux pieds de Louis XIV pour donner une sépulture à son mari</head>
+      </div>
+      <div type="anecdote" xml:id="armande-et-baron-changent-aversion-en-desir">
+        <head>Armande Béjart et Baron changent leur aversion en désir en jouant les rôles de Psyché et d’Amour</head>
+      </div>
+      <div type="anecdote" xml:id="moliere-interrompu-dans-lecture-tartuffe-chez-dame-janseniste">
+        <head>Molière, venu lire Le Tartuffe chez une dame proche des jansénistes, est interrompu avant d’en avoir commencé la lecture</head>
       </div>
     </body>
   </text>
