@@ -16,8 +16,8 @@
       <div type="anecdote" xml:id="moliere-fait-acheter-habit-cotin">
         <head>Molière fait acheter un habit de Cotin pour l’acteur qui joue Trissotin (<hi rend="i">Les Femmes savantes</hi>)</head>
       </div>
-      <div type="anecdote" xml:id="actrice-ennemie-Armande">
-        <head>Actrice ennemie d’Armande Béjart, source de <hi rend="i">La Fameuse comédienne</hi></head>
+      <div type="anecdote" xml:id="actrice-ennemie-est-auteur-fameuse-comedienne">
+        <head>Une actrice ennemie d’Armande Béjart est à l’auteur de <hi rend="i">La Fameuse comédienne</hi></head>
       </div>
       <div type="anecdote" xml:id="piron-admire-tartuffe">
         <head>Piron exprime son admiration pour <hi rend="i">Le Tartuffe</hi></head>
@@ -28,7 +28,7 @@
       <div type="anecdote" xml:id="moliere-donne-roles-antipathiques-a-de-brie">
         <head>Molière, hostile à De Brie, ne lui donne que des rôles de personnages antipathiques</head>
       </div>
-      <div type="anecdote" xml:id="veuve-jette-argent-foule">
+      <div type="anecdote" xml:id="armande-jette-argent-foule">
         <head>Armande Béjart calme la foule menaçante en jetant de l'argent lors de l’enterrement de Molière</head>
       </div>
       <div type="anecdote" xml:id="moliere-donne-aumone-mendiant">
@@ -76,7 +76,7 @@
       <div type="anecdote" xml:id="vieillard-parterre-encourage-moliere">
         <head>Un vieillard du parterre encourage Molière pendant la représentation des <hi rend="i">Précieuses ridicules</hi></head>
       </div>
-      <div type="anecdote" xml:id="veuve-exprime-indignation-sepulture">
+      <div type="anecdote" xml:id="armande-exprime-indignation-sepulture">
         <head>Armande Béjart exprime son indignation à l’idée qu’on refuse une sépulture à Molière</head>
       </div>
       <div type="anecdote" xml:id="moliere-fait-eloge-plaideurs">
@@ -576,6 +576,9 @@
       </div>
       <div type="anecdote" xml:id="moliere-tire-scene-Harpagon-Cleante-aventure-Malon-de-Bercy-et-fils">
         <head>Molière tire la scène où Cléante découvre que l’usurier à qui il est contraint d’emprunter est son père d’une aventure vécue par Malon de Bercy et son fils (<hi rend="i">L’Avare</hi>)</head>
+      </div>
+      <div type="anecdote" xml:id="armande-se-jette-aux-pieds-roi-pour-sepulture">
+        <head>Armande Béjart se jette aux pieds de Louis XIV pour donner une sépulture à son mari</head>
       </div>
     </body>
   </text>
