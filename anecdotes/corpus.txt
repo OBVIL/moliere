@@ -7,6 +7,7 @@ bouillier_moliere-gassendi
 noel_moliere
 janin_moliere
 merlet_moliere
+fournier_etudes-moliere
 larroumet_moliere-homme-et-comedien
 monval_lettres-au-mercure
 moland-vie-de-moliere
