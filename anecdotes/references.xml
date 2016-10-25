@@ -116,7 +116,7 @@
         <head>Molière s’étonne du succès de ses comédies auprès des « personnes d’esprit »</head>
       </div>
       <div type="anecdote" xml:id="expiation-parentes-tartuffe">
-        <head>Expiation parentes de Molière, religieuses, à cause du <hi rend="i">Tartuffe</hi></head>
+        <head>Deux religieuses, parentes de Molière, expient l’outrage du <hi rend="i">Tartuffe</hi></head>
       </div>
       <div type="anecdote" xml:id="moliere-observe-dans-fauteuil-barbier">
         <head>Molière s'installe des heures durant dans un fauteuil chez son barbier, à Pézenas, observant les gens alentour</head>
@@ -247,17 +247,11 @@
       <div type="anecdote" xml:id="moliere-songe-peindre-extravagant-d-apres-courtisan">
         <head>Molière songe à peindre le type de l’extravagant d’après un courtisan désireux d’être mis sur le théâtre</head>
       </div>
-      <div type="anecdote" xml:id="lieutenant-tardieu-avare">
-        <head>Originaux d’avares, le lieutenant Tardieu et sa femme</head>
-      </div>
-      <div type="anecdote" xml:id="origine-comtesse-escarbagnas">
-        <head>Origine de <hi rend="i">La Comtesse d’Escarbagnas</hi></head>
+      <div type="anecdote" xml:id="boileau-fournit-originaux-harpagon">
+        <head>Boileau fournit à Molière les traits d’Harpagon d’après son observation du lieutenant Tardieu et de sa femme (<hi rend="i">L’Avare</hi>)</head>
       </div>
       <div type="anecdote" xml:id="moliere-se-venge-gentilhomme-limousin">
         <head>Molière se venge d’un gentilhomme limousin ayant cherché querelle à ses comédiens en faisant sa satire dans <hi rend="i">Monsieur de Pourceaugnac</hi></head>
-      </div>
-      <div type="anecdote" xml:id="origine-tartuffe-chez-longueville">
-        <head>Origine de l’aventure de <hi rend="i">Tartuffe</hi> chez Mme de Longueville</head>
       </div>
       <div type="anecdote" xml:id="moliere-tire-dispute-bourgeois-gentilhomme-d-une-querelle-historique">
         <head>Molière tire la scène de la dispute entre le maître de danse et le maître d’armes dans <hi rend="i">Le Bourgeois gentilhomme</hi> d’une querelle historique</head>
@@ -585,6 +579,15 @@
       </div>
       <div type="anecdote" xml:id="moliere-interrompu-dans-lecture-tartuffe-chez-dame-janseniste">
         <head>Molière, venu lire Le Tartuffe chez une dame proche des jansénistes, est interrompu avant d’en avoir commencé la lecture</head>
+      </div>
+      <div type="anecdote" xml:id="moliere-tire-replique-don-juan-reponse-prince-allemagne">
+        <head>Molière tire la réplique de Don Juan sur 2 et 2 font 4 de la réponse d’un prince d’Allemagne à son confesseur qui lui demandait s’il croyait</head>
+      </div>
+      <div type="anecdote" xml:id="moliere-peint-tartuffe-d-apres-abbe-pons">
+        <head>Molière peint le personnage de Tartuffe d’après l’abbé Pons</head>
+      </div>
+      <div type="anecdote" xml:id="moliere-peint-george-dandin-d-apres-sellier-rue-montorgueil">
+        <head>Molière peint George Dandin d’après un sellier de la rue Montorgueil appelé George Dandin</head>
       </div>
     </body>
   </text>
