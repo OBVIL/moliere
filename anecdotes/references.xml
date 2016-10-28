@@ -190,7 +190,7 @@
       <div type="anecdote" xml:id="marotte-fille-chambre-de-brie">
         <head>Mlle Ragueneau, surnommée Marotte, fille de chambre de Mlle de Brie (lien avec <hi rend="i">Le Roman comique</hi>)</head>
       </div>
-      <div type="anecdote" xml:id="maitresse-conti-fait-appeler-conti">
+      <div type="anecdote" xml:id="maitresse-conti-fait-appeler-moliere">
         <head>La maîtresse du prince de Conti, Mme Calvimont, fait venir la troupe de Molière à Pézenas</head>
       </div>
       <div type="anecdote" xml:id="dacier-supprime-dissertation-amphitryon">
@@ -588,6 +588,21 @@
       </div>
       <div type="anecdote" xml:id="moliere-peint-george-dandin-d-apres-sellier-rue-montorgueil">
         <head>Molière peint George Dandin d’après un sellier de la rue Montorgueil appelé George Dandin</head>
+      </div>
+      <div type="anecdote" xml:id="moliere-tire-scene-malade-imaginaire-dialogue-colletet-et-fils">
+        <head>Molière tire la scène entre Diafoirus et son fils des quelques mots prononcés par Guillaume Colletet et son fils dans une compagnie (<hi rend="i">Le Malade imaginaire</hi>)</head>
+      </div>
+      <div type="anecdote" xml:id="acteur-kemble-refuse-appartenance-moliere-France">
+        <head>L’acteur Kemble refuse d’admettre que Molière appartienne à la seule nation française et non à l’univers</head>
+      </div>
+      <div type="anecdote" xml:id="moliere-peint-don-juan-d-apres-grignan">
+        <head>Molière peint Don Juan d’après le comte de Grignan, après l’avoir longuement observé en silence</head>
+      </div>
+      <div type="anecdote" xml:id="sillery-regrette-de-n’avoir-pas-donné-portrait-avare-a-moliere">
+        <head>Le marquis de Sillery regrette de ne pas avoir raconté à Molière la visite qu’il fit à un vieil avare</head>
+      </div>
+      <div type="anecdote" xml:id="moliere-tire-histoire-agnes-de-celle-d-armande">
+        <head>Molière tire l’histoire d’Agnès de celle d’Armande (<hi rend="i">L’École des femmes</hi>)</head>
       </div>
     </body>
   </text>
