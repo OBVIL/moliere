@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../anecdotes/anecdotes.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
@@ -261,16 +261,16 @@
           <p rend="noindent">écrits d’une grosse et ferme écriture, et qui ont échappé jusqu’ici aux lecteurs du registre de la mairie de Nantes.</p>
           <p>Quoi qu’il en soit, <hi rend="i">à six mois de distance</hi>, nous trouvons du Fresne, du Parc et Pierre Rebelhon (ou Réveillon) à Albi et à Nantes : en Bretagne, ils sont incontestablement accompagnés de Molière, comme ils le seront à Toulouse l’année suivante (E. Raymond), à Narbonne (dº) et Agen (A. Magen) en 1650, et à Lyon en 1653 (C. Brouchoud). Jusqu’à preuve contraire, nous serons moins sceptiques que M. Jules Rolland, et nous dirons, sans point d’interrogation : « <hi rend="i">Molière est venu à Albi en 1647.</hi> »</p>
           <p>Y revint-il dix ans plus tard ? L’affirmative ne nous paraît pas admissible, malgré le troisième document signalé par M. Rolland.</p>
-          <p>C’est une quittance du 10 septembre 1657 donnée par deux comédiens du duc d’Orléans, constatant que les consuls d’Albi ont fait transporter les bagages de leurs camarades jusqu’à Castres, cette troupe se rendant aux États de Pézenas et auparavant au château de Séverac, chez le duc d’Arpajon, lieutenant général qui ouvrit les dits États le 8 octobre suivant.</p>
-          <p>Cette quittance porte deux signatures : <hi rend="i">Dubois</hi> et <hi rend="i">Mignot</hi>. Or, qu’on se rappelle la touchante anecdote, racontée par le trop dédaigné Grimarest, de ce vieux comédien chargé de famille et réduit à la misère, se présentant chez Molière, à sa maison d’Auteuil, pour implorer de lui quelque secours et se mettre en état de rejoindre une troupe nomade :</p>
+          <p><milestone type="commentStart" corresp="#moliere-secourt-mondorge"/>C’est une quittance du 10 septembre 1657 donnée par deux comédiens du duc d’Orléans, constatant que les consuls d’Albi ont fait transporter les bagages de leurs camarades jusqu’à Castres, cette troupe se rendant aux États de Pézenas et auparavant au château de Séverac, chez le duc d’Arpajon, lieutenant général qui ouvrit les dits États le 8 octobre suivant.</p>
+          <p>Cette quittance porte deux signatures : <hi rend="i">Dubois</hi> et <hi rend="i">Mignot</hi>.<milestone type="commentEnd"/> <milestone type="anecdoteStart" xml:id="moliere-secourt-mondorge"/>Or, qu’on se rappelle la touchante anecdote, racontée par le trop dédaigné Grimarest, de ce vieux comédien chargé de famille et réduit à la misère, se présentant chez Molière, à sa maison d’Auteuil, pour implorer de lui quelque secours et se mettre en état de rejoindre une troupe nomade :</p>
           <quote>
             <p>« Ce pauvre homme, dont <hi rend="i">le nom de famille était Mignot</hi>, et Mondorge celui de comédien, faisait le spectacle du monde le plus pitoyable. Il dit à Baron… que l’urgente nécessité où il était, lui avait fait prendre le parti de recourir à lui, pour le mettre en état de rejoindre quelque troupe avec sa famille ; qu’<hi rend="i">il avait été le camarade de M. de Molière en Languedoc</hi> ; et qu’il ne doutait pas qu’il ne lui fit quelque charité, si Baron voulait bien s’intéresser pour lui. — <hi rend="i">Il est vrai que nous avons joué la Comédie ensemble</hi>, dit Molière, et c’est un fort honnête homme… Que croyez-vous que je doive lui donner ?… » Baron statua sur quatre pistoles… — Eh ! bien, je vais lui donner quatre pistoles pour moi, dit Molière… mais en voilà vingt autres que je lui donnerai pour vous… J’ai aussi un habit de théâtre dont je crois que je n’aurai plus de besoin, qu’on le lui donne : le pauvre homme y trouvera de la ressource pour sa profession. »</p>
           </quote>
           <p>Et Grimarest ajoute :</p>
           <quote>
             <p>« Cet habit, que Molière donnait avec tant de plaisir, lui avait coûté deux mille cinq cents livres, et il était presque tout neuf. Il assaisonna ce présent d’un bon accueil qu’il fit à Mondorge qui ne s’était pas attendu à tant de libéralité. »</p>
-          </quote>
-          <p>Voilà pour <hi rend="i">Mignot</hi>.</p>
+          </quote><milestone type="anecdoteEnd"/>
+          <p><milestone type="commentStart" corresp="#moliere-secourt-mondorge"/>Voilà pour <hi rend="i">Mignot</hi>.<milestone type="commentEnd"/></p>
           <p>Quant à <hi rend="i">Dubois</hi>, ne serait-ce pas le Pierre Dubois « maître brodeur » qui faisait partie de l’association de l’<hi rend="i">Illustre Théâtre</hi> en 1644 ?</p>
           <p>Nous sommes donc vraisemblablement en présence de deux camarades de Molière, mais nous ne pensons pas qu’ils fissent, à cette date, partie de sa troupe qui paraît avoir — non pas fait le service de cette session 1657-1658 aux États de Languedoc dont elle n’avait guère eu à se louer l’année précédente — mais séjourné à Avignon et à Lyon avant de passer le carnaval à Grenoble.</p>
           <p>Quelles que soient, en résumé, les conclusions plus on moins définitives que l’on tire de ces données, il est incontestable que la découverte des trois documents précités est d’une importance réelle pour l’histoire, si confuse encore, de la jeunesse de Molière ; c’est un jalon de plus dans l’itinéraire de son roman comique.</p>
