@@ -19,116 +19,21 @@
   <!ELEMENT sup ( #PCDATA )*>
   <!ELEMENT sc ( #PCDATA | sup )*>
 ]>
-<!-- Ordre, chronologique ? -->
+<!-- N’indiquer ici que les ouvrages qui viennent de la base critique générale, les autres fichiers du projet seron transformé -->
 <cat xml:id="moliere" formats="none">
   <!-- formats="" : pas de formats détachables genre epub dans cette base, pour ça, renvoyer à la base critique -->
   <head>Ouvrages critiques sur Molière</head>
-  <!-- 1682 -->
   <file href="../critique/la-grange/la-grange_preface.xml"/>
-  <!-- 1692 -->
-  <file href="critique/boileau_oeuvres.xml"/>
-  <!-- 1716 -->
-  <file href="critique/fenelon_projet-traite.xml"></file>
-  <!-- 1739 -->
   <file href="../critique/voltaire/voltaire_vie-moliere.xml"/>
-  <!-- 1802 -->
   <file href="../critique/cailhava/cailhava_etudes-moliere.xml"/><!-- 2016-07-19 -->
-  <!-- 1808 -->
-  <file href="critique/schlegel_cours-moliere.xml"/><!-- 2015-11-19 -->
-  <!-- 1811 -->
   <file href="../critique/etienne/etienne_discours-reception.xml"/><!-- 2016-07-19 -->
-  <!-- 1819 -->
-  <file href="critique/anonyme_deux-pieces.xml"></file><!-- 2015-11-19 -->
-  <!-- 1821 -->
-  <file href="critique/moreau-de-commagny_scene-ajoutee.xml"/>
-  <file href="critique/fortia-d-urban_dissertation-mariage.xml"/><!-- 2015-11-19 -->
-  <!-- 1824 -->
-  <file href="critique/etienne_notice-tartuffe.xml"/><!-- 2015-11-19 -->
-  <!-- 1825 -->
-  <file href="critique/picard_notice-moliere.xml"/><!-- 2015-11-19 -->
-  <!-- 1852 -->
-  <file href="critique/geruzez-moliere.xml"/><!-- 2015-11-19 -->
-  <!-- 1863 -->
   <file href="../critique/moland/moland_moliere-comedie-italienne.xml"/><!-- 2016-07-19 -->
   <file href="../critique/taschereau/taschereau_vie-moliere.xml"/><!-- 2016-07-19 -->
-  <!-- 1873 -->
   <file href="../critique/claretie/claretie_moliere.xml"/><!-- 2016-07-19 -->
-  <!-- 1879 -->
-  <file href="critique/houssaye_comediennes-moliere.xml"/><!-- 2015-11-19 -->
-  <!-- 1881 -->
-  <file href="critique/janet_philosophie-moliere.xml"/><!-- 2015-11-19 -->
-  <!-- 1882 -->
-  <file href="critique/blaze-de-bury_sauzay-et-moliere.xml"/><!-- 2015-11-19 -->
-  <file href="critique/merlet_moliere.xml"/><!-- 2015-11-19 -->
-  <!-- 1884 -->
-  <file href="critique/baluffe_moliere-et-allemands.xml"/><!-- 2015-11-19 -->
-  <!-- 1910 -->
   <file href="../critique/faguet/faguet_rousseau-contre-moliere.xml"/>
-  <!-- 1900 -->
   <file href="../critique/bergson/bergson_rire.xml"/>
   <file href="../critique/weiss/weiss_moliere.xml"/><!-- 2016-07-19 -->
-  <!-- 1901 -->
-  <file href="critique/canora_moliere-moraliste.xml"/><!-- 2015-11-19 -->
-  <!-- 1914 -->
   <file href="../critique/faguet/faguet_en-lisant-moliere.xml"/>
-  <file href="critique/aderer_femmes-comedies.xml"/>
-  <file href="critique/aime-martin_introduction-oeuvres.xml"/>
-  <file href="critique/auger_introduction-oeuvres.xml"/>
-  <file href="critique/bignan_epitre-a-moliere.xml"/>
-  <file href="critique/bouillier_moliere-gassendi.xml"/>
-  <file href="critique/brunetiere_moliere.xml"/>
-  <file href="critique/casse-de-saint-prosper_essai-comedie.xml"/>
-  <file href="critique/celler_representation-pourceaugnac.xml"/>
-  <file href="critique/clement-laporte_anecdotes-dramatiques_moliere.xml"/>
-  <file href="critique/colet_monument-moliere.xml"/>
-  <file href="critique/coquelin_arnolphe.xml"/>
-  <file href="critique/coquelin_moliere-et-misanthrope.xml"/>
-  <file href="critique/coquelin_tartuffe.xml"/>
-  <file href="critique/cordier_moliere-stendhal.xml"/>
-  <file href="critique/cousin-d-avalon_molierana.xml"/>
-  <file href="critique/despine_science-coeur.xml"/>
-  <file href="critique/despois_influences-royales.xml"/>
-  <file href="critique/doumergue_philosophie-moliere.xml"/>
-  <file href="critique/encyclopedie_moliere.xml"/>
-  <file href="critique/feval_theatre-femme.xml"/>
-  <file href="critique/florian_mes-idees.xml"/>
-  <file href="critique/fournier_etudes-moliere.xml"/>
-  <file href="critique/ganderax_facheux-psyche.xml"/>
-  <file href="critique/ganderax_repertoire-comedie-francaise.xml"/>
-  <file href="critique/geffroy_salut-a-moliere.xml"/>
-  <file href="critique/gozlan_monument-moliere.xml"/>
-  <file href="critique/hanriot_introduction-theatre-moliere.xml"/>
-  <file href="critique/hello_moliere-et-ideal-moderne.xml"/>
-  <file href="critique/janin_moliere.xml"/>
-  <file href="critique/jeannel_morale-moliere.xml"/>
-  <file href="critique/la-harpe_comedie-louis-14.xml"/>
-  <file href="critique/la-harpe_comiques-ordre-inferieur.xml"/>
-  <file href="critique/la-harpe_idees-sur-moliere.xml"/>
-  <file href="critique/larroumet-femme-de-moliere.xml"/>
-  <file href="critique/larroumet_moliere-homme-et-comedien.xml"/>
-  <file href="critique/leroy_moliere-et-deux-thalies.xml"/>
-  <file href="critique/loiseleur_nouvelles-controverses.xml"/>
-  <file href="critique/lucas_moliere-dancourt.xml"/>
-  <file href="critique/magnin_don-juan.xml"/>
-  <file href="critique/magnin_varietes-litteraires.xml"/>
-  <file href="critique/moland-vie-de-moliere.xml"/>
-  <file href="critique/monval_lettres-au-mercure.xml"/>
-  <file href="critique/naudet_epitre-a-moliere.xml"/>
-  <file href="critique/nisard_moliere.xml"/>
-  <file href="critique/noel_moliere.xml"/>
-  <file href="critique/planche_moliere-comedie-francaise.xml"/>
-  <file href="critique/planche_reprise-amphitryon.xml"/>
-  <file href="critique/rambert_moliere.xml"/>
-  <file href="critique/rebelliau_deux-ennemis.xml"/>
-  <file href="critique/rigal_etourdi-et-parasite.xml"/>
-  <file href="critique/saint-martin_fontaine-moliere.xml"/>
-  <file href="critique/saugeon_alceste-celimene.xml"/>
-  <file href="critique/truinet_moliere-avocats.xml"/>
-  <file href="critique/vanhollebeke_etude-moliere.xml"/>
-  <file href="critique/veuillot_moliere-bourdaloue.xml"/>
-  <file href="critique/vuillemin_corneille-racine-moliere.xml"/>
-  <!-- 1922 -->
-  <file href="critique/gendarme-de-bevotte_popularite-moliere.xml"/>
   <file href="../critique/roederer/roederer_memoires-societe-polie.xml"/>
   <file href="../critique/janin/janin_litterature_dramatique-02.xml"/>
   <file href="../critique/stapfer/stapfer_petite-comedie.xml"/>

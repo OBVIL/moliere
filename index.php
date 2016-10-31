@@ -8,7 +8,7 @@ include (dirname(__FILE__).'/../teipot/Teipot.php');
 $path = Web::pathinfo(); // path demandé
 
 // les pièces commencent par moliere, laissaer la main au script pieces.php
-if (strpos($path, 'moliere') === 0) {
+if (strpos($path, 'moliere') === 0 || strpos($path, 'theatre') === 0) {
   include (dirname(__FILE__).'/theatre.php');
   exit();
 }

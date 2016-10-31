@@ -5,18 +5,11 @@
 include( dirname(__FILE__).'/Moliere.php' );
 new Moliere(dirname(__FILE__).'/moliere.sqlite');
 $playcode = null;
-if ( Moliere::$pathinfo != 'moliere' && Moliere::$pathinfo != 'moliere/' ) {
-  $playcode = current( explode( '/', Moliere::$pathinfo ));
-  $sql = "SELECT * FROM play WHERE code = ".Moliere::$pdo->quote($playcode);
-  $play = Moliere::$pdo->query( $sql )->fetch();
-  if (!$play) {
-    $playcode;
-    echo  Moliere::$basehref.'moliere/';
-    // header( 'Status: 301 Moved Permanently', false, 301 );
-    // header( 'Location: '.Moliere::$basehref.'moliere/' );
-    exit();
-  }
-}
+
+$playcode = current( explode( '/', Moliere::$pathinfo ));
+$sql = "SELECT * FROM play WHERE code = ".Moliere::$pdo->quote($playcode);
+$play = Moliere::$pdo->query( $sql )->fetch();
+if (!$play) $playcode = null;
 ?><!DOCTYPE html>
 <html>
   <head>
@@ -38,7 +31,7 @@ if ( !$playcode ) {
         <h1>
           <a href=".">OBVIL, Molière</a>
         </h1>
-        <a class="logo" href="http://obvil.paris-sorbonne.fr/"><img class="logo" src="<?php echo Moliere::$basehref ?>'../theme/img/logo-obvil.png" alt="OBVIL"></a>
+        <a class="logo" href="http://obvil.paris-sorbonne.fr/"><img class="logo" src="<?php echo Moliere::$basehref ?>../theme/img/logo-obvil.png" alt="OBVIL"></a>
       </header>
       <div id="contenu">
         <div id="main">
@@ -65,10 +58,12 @@ else {
 // pièce de Théâtre
 if( $playcode ) {
   echo "\n".'<nav id="download"><small>Télécharger :</small>
-  <a href="http://dramacode.github.io/epub/'.$playcode.'.epub">epub</a>,
-  <a href="http://dramacode.github.io/kindle/'.$playcode.'.mobi">kindle</a>,
-  <a href="http://dramacode.github.io/iramuteq/'.$playcode.'.txt">iramuteq</a>,
-  <a href="http://dramacode.github.io/html/'.$playcode.'.html">html</a>.
+  <a target="_blank" href="http://dramacode.github.io/epub/'.$playcode.'.epub" title="Livre électronique">epub</a>,
+  <a target="_blank" href="http://dramacode.github.io/kindle/'.$playcode.'.mobi" title="Mobi, format propriétaire Amazon">kindle</a>,
+  <a target="_blank" href="http://dramacode.github.io/markdown/'.$playcode.'.txt" title="Markdown">texte brut</a>,
+  <a target="_blank" href="http://dramacode.github.io/naked/'.$playcode.'.txt" title="Texte dit sans didascalies ou titres structurants">paroles</a>,
+  <a target="_blank" href="http://dramacode.github.io/iramuteq/'.$playcode.'.txt">iramuteq</a>,
+  <a target="_blank" href="http://dramacode.github.io/html/'.$playcode.'.html">html</a>.
   </nav>';
   Moliere::$qobj->execute( array( $playcode, 'charline' ) );
   echo  current( Moliere::$qobj->fetch(PDO::FETCH_ASSOC)) ;

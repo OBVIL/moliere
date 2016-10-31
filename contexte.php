@@ -1,20 +1,14 @@
-<?php
+ <?php
 /**
  * Visualisation du dossier des précurseurs de Molière
  */
 include( dirname(__FILE__).'/Moliere.php' );
 new Moliere(dirname(__FILE__).'/contexte.sqlite');
 $playcode = null;
-if ( Moliere::$pathinfo != 'contexte/' ) {
-  $playcode = end ( explode( '/', Moliere::$pathinfo ) );
-  $play = Moliere::$pdo->query("SELECT * FROM play WHERE code = ".Moliere::$pdo->quote($playcode))->fetch();
-  if (!$play) {
-    echo  Moliere::$basehref.'contexte/';
-    header( 'Status: 301 Moved Permanently', false, 301 );
-    header( 'Location: '.Moliere::$basehref.'contexte/' );
-    exit();
-  }
-}
+
+$playcode = end ( explode( '/', Moliere::$pathinfo ) );
+$play = Moliere::$pdo->query("SELECT * FROM play WHERE code = ".Moliere::$pdo->quote($playcode))->fetch();
+if (!$play) $playcode = null;
 ?><!DOCTYPE html>
 <html>
   <head>
@@ -42,7 +36,7 @@ if ( !$playcode ) {
         <div id="main">
           <nav id="toolbar">
             <nav class="breadcrumb">
-              Molière, <a href="<?php echo Moliere::$basehref ?>contexte/">Devanciers et contemporains</a>
+              <a href="<?php echo Moliere::$basehref ?>">Molière</a> : <a href="<?php echo Moliere::$basehref ?>contexte/">devanciers et contemporains</a>
             <?php if ( $playcode ) { Moliere::select( $playcode ); } ?>
             </nav>
           </nav>
@@ -58,6 +52,7 @@ if ( !$playcode ) {
   Dramagraph_Biblio::table( Moliere::$pdo );
 }
 else {
+
   if (strpos( $play['identifier'], 'bibdramatique.paris-sorbonne.fr') !== false) {
     echo '<p class="noindent">Retrouvez cette pièce sur la <a target="_blank" href="'.$play['identifier'].'">Bibliothèque dramatique</a>, avec son introduction et son apparat critique.</p>
     <p> </p>';
@@ -77,6 +72,21 @@ else {
           <?php
 // pièce de Théâtre
 if( $playcode ) {
+  echo '<nav id="download"><small>Télécharger :</small>'."\n";
+  $tc = '';
+  if (strpos( $play['identifier'], 'theatre-classique.fr') !== false)
+    $tc = 'tc-';
+
+  echo "\n".'<a type="application/epub+zip" href="http://dramacode.github.io/'.$tc.'epub/'.$playcode.'.epub" title="Livre électronique">epub</a>';
+  echo ",\n".'<a type="application/x-mobipocket-ebook" href="http://dramacode.github.io/'.$tc.'kindle/'.$playcode.'.mobi" title="Mobi, format propriétaire Amazon">kindle</a>';
+  echo ",\n".'<a type="text/markdown; charset=UTF-8" target="_blank" href="http://dramacode.github.io/'.$tc.'markdown/'.$playcode.'.txt" title="Markdown">texte brut</a>';
+  echo ",\n".'<a type="text/plain; charset=UTF-8" target="_blank" href="http://dramacode.github.io/'.$tc.'iramuteq/'.$playcode.'.txt">iramuteq</a>';
+  echo ",\n".'<a target="_blank" href="http://dramacode.github.io/'.$tc.'naked/'.$playcode.'.txt" title="Texte dit sans didascalies ou titres structurants">paroles</a>';
+  echo ",\n".'<a target="_blank" href="http://dramacode.github.io/'.$tc.'html/'.$playcode.'.html">html</a>';
+  if ( $play['source'] )
+    echo ",\n".'<a type="text/xml" target="_blank" href="'.$play['source'].'">xml/tei</a>';
+  echo ".\n</nav>";
+
   Moliere::$qobj->execute( array( $playcode, 'charline' ) );
   echo  current( Moliere::$qobj->fetch(PDO::FETCH_ASSOC)) ;
   echo '<p> </p>';

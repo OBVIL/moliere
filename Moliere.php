@@ -3,7 +3,10 @@
  * Différents affichages pour l‘application Molière de l’OBVIL
  */
 include( dirname(dirname(__FILE__)).'/Dramagraph/Biblio.php' );
-class Moliere {
+include( dirname(dirname(__FILE__)).'/Dramagraph/Net.php' );
+include( dirname(dirname(__FILE__)).'/Dramagraph/Table.php' );
+class Moliere
+{
   public static $pdo;
   public static $qobj;
   public static $pathinfo;
@@ -52,11 +55,11 @@ class Moliere {
    static function select( $playcode )
    {
      echo '
-     <div style="position: fixed; margin-left: 45%;  ">
+     <div style="position: fixed; margin-left: 45%; bottom: 10px;  ">
        <a href="#" class="but" title="Tête de page">▲</a>
      </div>';
      echo '<form action="#" onsubmit="var option = this.play.options[this.play.selectedIndex]; if (!option.value) this.action = \'.\'; else this.action = option.value; this.play.disabled = true; console.log(this.action); this.submit() ">'."\n";
-     echo Dramagraph_Biblio::select( Moliere::$pdo, $playcode);
+     echo Dramagraph_Biblio::select( Moliere::$pdo, $playcode );
      echo '</form>'."\n";
    }
   /**
@@ -76,7 +79,9 @@ class Moliere {
   {
     self::$qobj->execute(array($playcode, 'graph'));
     echo current(self::$qobj->fetch(PDO::FETCH_NUM));
-    self::$qobj->execute(array($playcode, 'roletable'));
+    self::$qobj->execute(array($playcode, 'roles'));
+    echo current(self::$qobj->fetch(PDO::FETCH_NUM));
+    self::$qobj->execute(array($playcode, 'relations'));
     echo current(self::$qobj->fetch(PDO::FETCH_NUM));
     self::$qobj->execute(array($playcode, 'article'));
     $res = self::$qobj->fetch(PDO::FETCH_NUM);
