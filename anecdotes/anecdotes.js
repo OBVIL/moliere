@@ -50,7 +50,7 @@ $(document).ready(function() {
 		if ($(this).hasClass("inactive")) {
 			$(this).find(".comment").show();
 			$(this).switchClass("inactive", "active");
-                        //la classe inactive est rajouter après à cause de mouseout
+                        //la classe inactive est rajouter apr√®s √† cause de mouseout
                         //table : matrix-anecdote-detail
                         //tr : active/inactive
 		} else if ($(this).hasClass("active")) {

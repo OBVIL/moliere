@@ -1,15 +1,15 @@
 <?php
 error_reporting(0);
 
-//prend les fichiers TEI listŽs dans corpus.txt et regŽnre books.xml (regex). id : book + book_anecdote
+//prend les fichiers TEI listÃ©s dans corpus.txt et regÃ©nÃ¨re books.xml (regex). id : book + book_anecdote
 
-//prend les fichiers TEI listŽs dans corpus.txt et regŽnre anecdotes.xml (regex). id : anecdote + book_anecdote
-
-
-//prend anecdotes.xml et regŽnre anecdotes.rng (xslt)
+//prend les fichiers TEI listÃ©s dans corpus.txt et regÃ©nÃ¨re anecdotes.xml (regex). id : anecdote + book_anecdote
 
 
-//insre les xml:id dans tei : book_anecdote
+//prend anecdotes.xml et regÃ©nÃ¨re anecdotes.rng (xslt)
+
+
+//insÃ¨re les xml:id dans tei : book_anecdote
 
 
 function combine($array1) {
@@ -44,7 +44,7 @@ function teiClean($tei) {
         '|</l>|',
         '|<p.*?>|',
         '|<l.*?>|',
-    ); //reste les cas o le milestone serait enfant de hi...
+    ); //reste les cas oÃ¹ le milestone serait enfant de hi...
 
     $replace = array(
         '',
@@ -171,7 +171,7 @@ $books = $array1;
 $anecdotes = $array2;
 usort($books, 'sort_by_order ');
 
-//classer books par annŽe dŽcroissante
+//classer books par annÃ©e dÃ©croissante
 foreach($books as $bookId=>$book){
     foreach($anecdotes as $anecdoteId => $anecdote){
         foreach($anecdote["books"] as $key => $value){
