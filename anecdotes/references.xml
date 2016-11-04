@@ -230,7 +230,7 @@
         <head>Molière fait un bon mot sur son médecin Mauvillain, au dîner du roi</head>
       </div>
       <div type="anecdote" xml:id="moliere-tourne-en-derision-interdiction-lamoignon">
-        <head>Molière tourne en dérision l’interdiction du <hi rend="i">Tartuffe</hi> par le président de Lamoignon</head>
+        <head>Molière tourne en dérision l’interdiction du <hi rend="i">Tartuffe</hi> par le premier président Lamoignon</head>
       </div>
       <div type="anecdote" xml:id="moliere-fait-bon-mot-mepris">
         <head>Molière fait un bon mot sur la difficulté qu’il y a à endurer le mépris</head>
@@ -487,8 +487,8 @@
       <div type="anecdote" xml:id="moliere-declare-s-etre-repenti-d-avoir-ecrit-tartuffe">
         <head>Après que <hi rend="i">Le Tartuffe</hi> a été remis au théâtre et applaudi, Molière déclare s’être plusieurs fois repenti de l’avoir écrit</head>
       </div>
-      <div type="anecdote" xml:id="moliere-fait-eloge-tartuffe-a-lamoignon">
-        <head>Ménage fait l’éloge du <hi rend="i">Tartuffe</hi> au président de Lamoignon</head>
+      <div type="anecdote" xml:id="menage-fait-eloge-tartuffe-a-lamoignon">
+        <head>Ménage fait l’éloge du <hi rend="i">Tartuffe</hi> au premier président Lamoignon</head>
       </div>
       <div type="anecdote" xml:id="moliere-s-emporte-contre-armande-role-elmire">
         <head>Molière s’emporte contre Armande Béjart, dont la parure ne convient pas au rôle d'Elmire, convalescente(<hi rend="i">Le Tartuffe</hi>)</head>
@@ -603,6 +603,15 @@
       </div>
       <div type="anecdote" xml:id="moliere-tire-histoire-agnes-de-celle-d-armande">
         <head>Molière tire l’histoire d’Agnès de celle d’Armande (<hi rend="i">L’École des femmes</hi>)</head>
+      </div>
+      <div type="anecdote" xml:id="lamoignon-reproche-defendre-religion">
+        <head>Le premier président Lamoignon reproche à Molière, venu plaider pour son <hi rend="i">Tartuffe</hi>, non d’attaquer la religion mais de la défendre</head>
+      </div>
+      <div type="anecdote" xml:id="moliere-exclu-genealogie-famille">
+        <head>Un parent de Molière l’exclut du tableau généalogique de la famille</head>
+      </div>
+      <div type="anecdote" xml:id="moliere-peint-leonor-d-apres-armande">
+        <head>Molière peint Léonor d’après Armande (<hi rend="i">L’École des maris</hi>)</head>
       </div>
     </body>
   </text>

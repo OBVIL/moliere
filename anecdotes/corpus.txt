@@ -5,6 +5,7 @@ auger_introduction-oeuvres
 aime-martin_introduction-oeuvres
 bouillier_moliere-gassendi
 noel_moliere
+stapfer_petite-comedie
 janin_moliere
 molieriste_articles-1879
 coquelin_arnolphe
