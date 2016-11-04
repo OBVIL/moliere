@@ -73,7 +73,8 @@ $array2 = array();
 
 //auteur, titre, date
 foreach ($bookIds as $bookId) {
-    $bookPath = '../critique/' . trim($bookId).'.xml';
+    //$bookPath = '../critique/' . trim($bookId).'.xml';
+    $bookPath = trim($bookId).'.xml';
     if (!is_file($bookPath)) {
         continue;
     }
