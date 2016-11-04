@@ -84,7 +84,8 @@ foreach ($bookIds as $bookId) {
     $bookTitle = $bookTitle->length > 0 ? $bookTitle->item(0)->textContent : '';
     $bookAuthor = $book->getElementsByTagName("author");
     $bookAuthor = $bookAuthor->length > 0 ? $bookAuthor->item(0)->getAttribute("key") : 'Anonyme';
-    $bookAuthorLastName = strpos($bookAuthor, ",") ? substr($bookAuthor, 0, strpos($bookAuthor, ",")) : substr($bookAuthor, 0, strpos($bookAuthor, "("));
+    $bookAuthorLastName = strpos($bookAuthor, ",") ? substr($bookAuthor, 0, strpos($bookAuthor, ",")) : $bookAuthor;
+    $bookAuthorLastName = strpos($bookAuthorLastName, "(") ? substr($bookAuthorLastName, 0, strpos($bookAuthorLastName, "(")) : $bookAuthorLastName;
     $bookDate = $book->getElementsByTagName("creation");
     $bookDate = $bookDate->length > 0 ? $bookDate->item(0)->getElementsByTagName("date") : false;
     $bookDate = $bookDate->length > 0 ? $bookDate->item(0)->getAttribute("when") : '';
