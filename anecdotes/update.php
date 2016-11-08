@@ -128,7 +128,7 @@ $xml.= $end;
 file_put_contents('books.xml', $xml);
 
 $anecdotes = $array;
-echo "<pre>"; print_r($anecdotes);
+//echo "<pre>"; print_r($anecdotes);
 $xml = $start;
 foreach ($anecdotes as $anecdoteId => $anecdote){
     $xml.='<div type="anecdote" xml:id="'.$anecdoteId.'"><head>'.$anecdote["title"].'</head>';
