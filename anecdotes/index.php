@@ -75,6 +75,7 @@ $array2 = array();
 foreach ($bookIds as $bookId) {
     //$bookPath = '../critique/' . trim($bookId).'.xml';
     $bookPath = trim($bookId).'.xml';
+    $bookId = substr($bookId, strpos($bookId, "critique/") + 9);
     if (!is_file($bookPath)) {
         continue;
     }
