@@ -91,8 +91,8 @@ foreach ($bookIds as $bookId) {
     $bookDate = $bookDate->length > 0 ? $bookDate->item(0)->getElementsByTagName("date") : false;
     $bookDate = $bookDate->length > 0 ? $bookDate->item(0)->getAttribute("when") : '';
     $book = file_get_contents($bookPath);
-    $anecdotePattern = '|<milestone type="[Aa]necdoteStart" xml:id="([^"]+)"/>([\s\S]*?)<milestone type="[Aa]necdoteEnd"/>|';
-    $commentPattern = '|<milestone type="[Cc]ommentStart" corresp="([^"]+)"/>([\s\S]*?)<milestone type="[Cc]ommentEnd"/>|';
+    $anecdotePattern = '|<milestone type="[Aa]necdoteStart" xml:id="([^"]+)" ?/>([\s\S]*?)<milestone type="[Aa]necdoteEnd" ?/>|';
+    $commentPattern = '|<milestone type="[Cc]ommentStart" corresp="([^"]+)" ?/>([\s\S]*?)<milestone type="[Cc]ommentEnd" ?/>|';
     $anecdotes = array();
     $comments = array();
     
