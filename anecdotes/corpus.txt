@@ -5,7 +5,7 @@
 ../critique/aime-martin_introduction-oeuvres
 ../critique/bouillier_moliere-gassendi
 ../critique/noel_moliere
-../../critique/taschereau_vie-moliere
+../../critique/taschereau/taschereau_vie-moliere
 ../../critique/stapfer/stapfer_petite-comedie
 ../critique/janin_moliere
 ../critique/molieriste_articles-1879
