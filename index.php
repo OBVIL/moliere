@@ -52,7 +52,7 @@ if ($pot && !isset($doc['body'])) {
   $pot->search();
 }
 
-$teinte = Web::basehref().'../Teinte/'; // chemin css, js ; basehref est le nombre de '../' utile pour revenir en racine du site
+$teinte = Web::basehref().'../Teinte/'; // chemin css, js ; basehref est le nombre de '../' utile pour revenir en racine du site
 $theme = Web::basehref().'../theme/'; // autres ressources spécifiques
 
 
@@ -88,7 +88,7 @@ else echo Web::$basehref;
           <nav id="toolbar">
             <nav class="breadcrumb">
             <?php
-if (isset($critique)) echo '<a href="' . Web::basehref() . 'critique/' . $pot->qsa(null, null, '?') . '">Critique moliéresque</a> &gt; ';
+if (isset($critique)) echo '<a href="' . Web::basehref() . 'critique/' . $pot->qsa(null, null, '?') . '">Critique moliéresque</a> &gt; ';
 if (isset($doc['breadcrumb'])) echo $doc['breadcrumb'];
             ?>
             </nav>

@@ -1,41 +1,41 @@
 source	identifier	publisher
-http://dramacode.github.io/bibdramatique/ouville_esprit-folet.xml	http://bibdramatique.paris-sorbonne.fr/ouville_esprit-folet/	CELLF
-http://dramacode.github.io/bibdramatique/brosse_aveugle-clairvoyant.xml	http://bibdramatique.paris-sorbonne.fr/brosse_aveugle-clairvoyant/	CELLF
-http://dramacode.github.io/bibdramatique/chevreau_avocat-duppe.xml	http://bibdramatique.paris-sorbonne.fr/chevreau_avocat-duppe/	CELLF
-http://dramacode.github.io/bibdramatique/corneille-thomas_comtesse-orgueil.xml	http://bibdramatique.paris-sorbonne.fr/corneille-thomas_comtesse-orgueil/	CELLF
-http://dramacode.github.io/bibdramatique/corneille-thomas_baron-albikrac.xml	http://bibdramatique.paris-sorbonne.fr/corneille-thomas_baron-albikrac/	CELLF
-http://dramacode.github.io/bibdramatique/corneille-thomas_charme-voix.xml	http://bibdramatique.paris-sorbonne.fr/corneille-thomas_charme-voix/	CELLF
-http://dramacode.github.io/bibdramatique/corneille-thomas_feint-astrologue.xml	http://bibdramatique.paris-sorbonne.fr/corneille-thomas_feint-astrologue/	CELLF
-http://dramacode.github.io/bibdramatique/corneille-thomas_illustres-ennemis.xml	http://bibdramatique.paris-sorbonne.fr/corneille-thomas_illustres-ennemis/	CELLF
-http://dramacode.github.io/bibdramatique/gillet_desniaise.xml	http://bibdramatique.paris-sorbonne.fr/gillet_desniaise/	CELLF
-http://dramacode.github.io/bibdramatique/ouville_jodelet-astrologue.xml	http://bibdramatique.paris-sorbonne.fr/ouville_jodelet-astrologue/	CELLF
-http://dramacode.github.io/bibdramatique/ouville_absent-chez-soi.xml	http://bibdramatique.paris-sorbonne.fr/ouville_absent-chez-soi/	CELLF
-http://dramacode.github.io/bibdramatique/ouville_coiffeuse-mode.xml	http://bibdramatique.paris-sorbonne.fr/ouville_coiffeuse-mode/	CELLF
-http://dramacode.github.io/bibdramatique/ouville_fausses-verites.xml	http://bibdramatique.paris-sorbonne.fr/ouville_fausses-verites/	CELLF
-http://dramacode.github.io/bibdramatique/ouville_soupcons-apparences.xml	http://bibdramatique.paris-sorbonne.fr/ouville_soupcons-apparences/	CELLF
-http://dramacode.github.io/bibdramatique/scudery_fils-suppose.xml	http://bibdramatique.paris-sorbonne.fr/scudery_fils-suppose/	CELLF
-http://dramacode.github.io/theatre-classique/BOURSAULT_PORTRAITDUPEINTRE.xml	http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/BOURSAULT_PORTRAITDUPEINTRE.xml	Théâtre Classique
-http://dramacode.github.io/theatre-classique/CORNEILLEP_ILLUSIONCOMIQUE.xml	http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/CORNEILLEP_ILLUSIONCOMIQUE.xml	Théâtre Classique
-http://dramacode.github.io/theatre-classique/CORNEILLEP_GALERIEDUPALAIS.xml	http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/CORNEILLEP_GALERIEDUPALAIS.xml	Théâtre Classique
-http://dramacode.github.io/theatre-classique/CORNEILLEP_PLACEROYALE.xml	http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/CORNEILLEP_PLACEROYALE.xml	Théâtre Classique
-http://dramacode.github.io/theatre-classique/CORNEILLEP_SUITEMENTEUR.xml	http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/CORNEILLEP_SUITEMENTEUR.xml	Théâtre Classique
-http://dramacode.github.io/theatre-classique/CORNEILLEP_SUIVANTE.xml	http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/CORNEILLEP_SUIVANTE.xml	Théâtre Classique
-http://dramacode.github.io/theatre-classique/CORNEILLEP_VEUVE34.xml	http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/CORNEILLEP_VEUVE34.xml	Théâtre Classique
-http://dramacode.github.io/theatre-classique/CORNEILLEP_VEUVE.xml	http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/CORNEILLEP_VEUVE.xml	Théâtre Classique
-http://dramacode.github.io/theatre-classique/CORNEILLEP_MENTEUR.xml	http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/CORNEILLEP_MENTEUR.xml	Théâtre Classique
-http://dramacode.github.io/theatre-classique/CORNEILLEP_MELITE.xml	http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/CORNEILLEP_MELITE.xml	Théâtre Classique
-http://dramacode.github.io/theatre-classique/CYRANO_PEDANTJOUE.xml	http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/CYRANO_PEDANTJOUE.xml	Théâtre Classique
-http://dramacode.github.io/theatre-classique/DONNEAUDEVISE_ZELINDE.xml	http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/DONNEAUDEVISE_ZELINDE.xml	Théâtre Classique
-http://dramacode.github.io/theatre-classique/GILLET_CAMPAGNARD.xml	http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/GILLET_CAMPAGNARD.xml	Théâtre Classique
-http://dramacode.github.io/theatre-classique/MOLIERE_TARTUFFE64.xml	http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/MOLIERE_TARTUFFE64.xml	Théâtre Classique
-http://dramacode.github.io/theatre-classique/ROTROU_SOSIES.xml	http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/ROTROU_SOSIES.xml	Théâtre Classique
-http://dramacode.github.io/theatre-classique/SCARRON_JODELETDUELISTE.xml	http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/SCARRON_JODELETDUELISTE.xml	Théâtre Classique
-http://dramacode.github.io/theatre-classique/SCARRON_BOUTADESMATAMORE.xml	http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/SCARRON_BOUTADESMATAMORE.xml	Théâtre Classique
-http://dramacode.github.io/theatre-classique/SCARRON_JODELET.xml	http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/SCARRON_JODELET.xml	Théâtre Classique
-http://dramacode.github.io/theatre-classique/SCARRON_PRINCECORSAIRE.xml	http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/SCARRON_PRINCECORSAIRE.xml	Théâtre Classique
-http://dramacode.github.io/theatre-classique/SCARRON_DOMJAPHETDARMENIE.xml	http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/SCARRON_DOMJAPHETDARMENIE.xml	Théâtre Classique
-http://dramacode.github.io/theatre-classique/SCARRON_GARDIENDESOIMEME.xml	http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/SCARRON_GARDIENDESOIMEME.xml	Théâtre Classique
-http://dramacode.github.io/theatre-classique/SCARRON_MARQUISRIDICULE.xml	http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/SCARRON_MARQUISRIDICULE.xml	Théâtre Classique
-http://dramacode.github.io/theatre-classique/SCARRON_FAUSSEAPPARENCE.xml	http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/SCARRON_FAUSSEAPPARENCE.xml	Théâtre Classique
-http://dramacode.github.io/theatre-classique/VILLIERS_FESTINDEPIERRE.xml	http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/VILLIERS_FESTINDEPIERRE.xml	Théâtre Classique
-http://dramacode.github.io/theatre-classique/VILLIERS_CRITIQUEDUTARTUFFE.xml	http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/VILLIERS_CRITIQUEDUTARTUFFE.xml	Théâtre Classique
+http://dramacode.github.io/bibdramatique/ouville_espritfolet.xml	http://bibdramatique.paris-sorbonne.fr/ouville_espritfolet/	CELLF
+http://dramacode.github.io/bibdramatique/brosse_aveugleclairvoyant.xml	http://bibdramatique.paris-sorbonne.fr/brosse_aveugleclairvoyant/	CELLF
+http://dramacode.github.io/bibdramatique/chevreau_avocatdupe.xml	http://bibdramatique.paris-sorbonne.fr/chevreau_avocatdupe/	CELLF
+http://dramacode.github.io/bibdramatique/corneillet_comtesseorgueil.xml	http://bibdramatique.paris-sorbonne.fr/corneillet_comtesseorgueil/	CELLF
+http://dramacode.github.io/bibdramatique/corneillet_barondalbikrac.xml	http://bibdramatique.paris-sorbonne.fr/corneillet_barondalbikrac/	CELLF
+http://dramacode.github.io/bibdramatique/corneillet_charmedelavoix.xml	http://bibdramatique.paris-sorbonne.fr/corneillet_charmedelavoix/	CELLF
+http://dramacode.github.io/bibdramatique/corneillet_feintastrologue.xml	http://bibdramatique.paris-sorbonne.fr/corneillet_feintastrologue/	CELLF
+http://dramacode.github.io/bibdramatique/corneillet_illustresennemis.xml	http://bibdramatique.paris-sorbonne.fr/corneillet_illustresennemis/	CELLF
+http://dramacode.github.io/bibdramatique/gillet_deniaise.xml	http://bibdramatique.paris-sorbonne.fr/gillet_deniaise/	CELLF
+http://dramacode.github.io/bibdramatique/ouville_jodeletastrologue.xml	http://bibdramatique.paris-sorbonne.fr/ouville_jodeletastrologue/	CELLF
+http://dramacode.github.io/bibdramatique/ouville_absentchezsoi.xml	http://bibdramatique.paris-sorbonne.fr/ouville_absentchezsoi/	CELLF
+http://dramacode.github.io/bibdramatique/ouville_coifeusealamode.xml	http://bibdramatique.paris-sorbonne.fr/ouville_coifeusealamode/	CELLF
+http://dramacode.github.io/bibdramatique/ouville_faussesverites.xml	http://bibdramatique.paris-sorbonne.fr/ouville_faussesverites/	CELLF
+http://dramacode.github.io/bibdramatique/ouville_soupcons.xml	http://bibdramatique.paris-sorbonne.fr/ouville_soupcons/	CELLF
+http://dramacode.github.io/bibdramatique/scudery_filssuppose.xml	http://bibdramatique.paris-sorbonne.fr/scudery_filssuppose/	CELLF
+http://dramacode.github.io/tcp5/boursault_portraitdupeintre.xml	http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/BOURSAULT_PORTRAITDUPEINTRE.xml	Théâtre Classique
+http://dramacode.github.io/tcp5/corneillep_illusioncomique.xml	http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/CORNEILLEP_ILLUSIONCOMIQUE.xml	Théâtre Classique
+http://dramacode.github.io/tcp5/corneillep_galeriedupalais.xml	http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/CORNEILLEP_GALERIEDUPALAIS.xml	Théâtre Classique
+http://dramacode.github.io/tcp5/corneillep_placeroyale.xml	http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/CORNEILLEP_PLACEROYALE.xml	Théâtre Classique
+http://dramacode.github.io/tcp5/corneillep_suitementeur.xml	http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/CORNEILLEP_SUITEMENTEUR.xml	Théâtre Classique
+http://dramacode.github.io/tcp5/corneillep_suivante.xml	http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/CORNEILLEP_SUIVANTE.xml	Théâtre Classique
+http://dramacode.github.io/tcp5/corneillep_veuve34.xml	http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/CORNEILLEP_VEUVE34.xml	Théâtre Classique
+http://dramacode.github.io/tcp5/corneillep_veuve.xml	http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/CORNEILLEP_VEUVE.xml	Théâtre Classique
+http://dramacode.github.io/tcp5/corneillep_menteur.xml	http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/CORNEILLEP_MENTEUR.xml	Théâtre Classique
+http://dramacode.github.io/tcp5/corneillep_melite.xml	http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/CORNEILLEP_MELITE.xml	Théâtre Classique
+http://dramacode.github.io/tcp5/cyrano_pedantjoue.xml	http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/CYRANO_PEDANTJOUE.xml	Théâtre Classique
+http://dramacode.github.io/tcp5/donneaudevise_zelinde.xml	http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/DONNEAUDEVISE_ZELINDE.xml	Théâtre Classique
+http://dramacode.github.io/tcp5/gillet_campagnard.xml	http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/GILLET_CAMPAGNARD.xml	Théâtre Classique
+http://dramacode.github.io/tcp5/moliere_tartuffe64.xml	http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/MOLIERE_TARTUFFE64.xml	Théâtre Classique
+http://dramacode.github.io/tcp5/rotrou_sosies.xml	http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/ROTROU_SOSIES.xml	Théâtre Classique
+http://dramacode.github.io/tcp5/scarron_jodeletdueliste.xml	http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/SCARRON_JODELETDUELISTE.xml	Théâtre Classique
+http://dramacode.github.io/tcp5/scarron_boutadesmatamore.xml	http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/SCARRON_BOUTADESMATAMORE.xml	Théâtre Classique
+http://dramacode.github.io/tcp5/scarron_jodelet.xml	http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/SCARRON_JODELET.xml	Théâtre Classique
+http://dramacode.github.io/tcp5/scarron_princecorsaire.xml	http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/SCARRON_PRINCECORSAIRE.xml	Théâtre Classique
+http://dramacode.github.io/tcp5/scarron_domjaphetdarmenie.xml	http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/SCARRON_DOMJAPHETDARMENIE.xml	Théâtre Classique
+http://dramacode.github.io/tcp5/scarron_gardiendesoimeme.xml	http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/SCARRON_GARDIENDESOIMEME.xml	Théâtre Classique
+http://dramacode.github.io/tcp5/scarron_marquisridicule.xml	http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/SCARRON_MARQUISRIDICULE.xml	Théâtre Classique
+http://dramacode.github.io/tcp5/scarron_fausseapparence.xml	http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/SCARRON_FAUSSEAPPARENCE.xml	Théâtre Classique
+http://dramacode.github.io/tcp5/villiers_festindepierre.xml	http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/VILLIERS_FESTINDEPIERRE.xml	Théâtre Classique
+http://dramacode.github.io/tcp5/villiers_critiquedutartuffe.xml	http://www.theatre-classique.fr/pages/programmes/edition.php?t=../documents/VILLIERS_CRITIQUEDUTARTUFFE.xml	Théâtre Classique
