@@ -162,6 +162,7 @@ foreach ($bookIds as $bookId) {
     }
     $array1[$bookId] = array(
         "title" => $bookTitle,
+        "url" => $bookPath,
         "author" => $bookAuthor,
         "authorLastName" => $bookAuthorLastName,
         "date" => $bookDate,

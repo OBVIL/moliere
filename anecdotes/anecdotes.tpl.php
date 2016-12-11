@@ -57,7 +57,7 @@
                                         <div class="th-container">
                                             <span><?php echo $book["authorLastName"]; ?></span>
                                         </div>
-                                        <div class="div-open-document"><a href="../critique/<?php echo $bookId; ?>" target="_blank" class="tooltip open-document" title="Afficher le texte complet de l'ouvrage"><i class="fa fa-file"></i></a></div>
+                                        <div class="div-open-document"><a href="<?php echo $book["url"]; ?>" target="_blank" class="tooltip open-document" title="Afficher le texte complet de l'ouvrage"><i class="fa fa-file"></i></a></div>
                                     </th>
                             <?php }?>
                         </tr>
