@@ -316,9 +316,6 @@
       <div type="anecdote" xml:id="moliere-adapte-role-acteur-hubert">
         <head>Molière adapte les rôles à l’acteur : le cas d’Hubert, couard</head>
       </div>
-      <div type="anecdote" xml:id="pauvre-homme-mot-du-roi">
-        <head>Scène du « pauvre homme » inspirée par le roi</head>
-      </div>
       <div type="anecdote" xml:id="moliere-secourt-mondorge">
         <head>Molière secourt le comédien Mondorge</head>
       </div>
@@ -615,6 +612,9 @@
       </div>
       <div type="anecdote" xml:id="moliere-et-ami-echangent-profession">
         <head>Molière reçu avocat devient comédien en même temps qu’un ami comédien se fait avocat</head>
+      </div>
+      <div type="anecdote" xml:id="moliere-approuve-vers-boileau">
+        <head>Molière approuve le vers de Boileau « Il plaît à tout le monde et ne saurait se plaire »</head>
       </div>
     </body>
   </text>
