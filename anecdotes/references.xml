@@ -616,6 +616,12 @@
       <div type="anecdote" xml:id="moliere-approuve-vers-boileau">
         <head>Molière approuve le vers de Boileau « Il plaît à tout le monde et ne saurait se plaire »</head>
       </div>
+      <div type="anecdote" xml:id="moliere-fait-aparte-sur-la-fontaine">
+        <head>Molière ou Boileau fait un aparté concernant La Fontaine en présence de celui-ci pour prouver la vraisemblance du procédé</head>
+      </div>
+      <div type="anecdote" xml:id="moliere-deni-justice-la-fontaine">
+        <head>Molière, coupable d’un déni de justice envers La Fontaine</head>
+      </div>
     </body>
   </text>
 </TEI>
