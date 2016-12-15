@@ -622,6 +622,9 @@
       <div type="anecdote" xml:id="moliere-deni-justice-la-fontaine">
         <head>Molière, coupable d’un déni de justice envers La Fontaine</head>
       </div>
+      <div type="anecdote" xml:id="moliere-fait-bruler-exemplaires-apologie-misanthrope">
+        <head>Molière fait jeter au feu tous les exemplaires de l’apologie du <hi rend="i">Misanthrope</hi></head>
+      </div>
     </body>
   </text>
 </TEI>
