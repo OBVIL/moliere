@@ -1,3 +1,4 @@
+../critique/grimarest_vie-moliere
 ../critique/voltaire_vie-moliere
 ../critique/clement-laporte_anecdotes-dramatiques_moliere
 ../critique/cousin-d-avalon_molierana
