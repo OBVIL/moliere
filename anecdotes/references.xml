@@ -16,8 +16,8 @@
       <div type="anecdote" xml:id="moliere-fait-acheter-habit-cotin">
         <head>Molière fait acheter un habit de Cotin pour l’acteur qui joue Trissotin (<hi rend="i">Les Femmes savantes</hi>)</head>
       </div>
-      <div type="anecdote" xml:id="actrice-ennemie-est-auteur-fameuse-comedienne">
-        <head>Une actrice ennemie d’Armande Béjart est à l’auteur de <hi rend="i">La Fameuse comédienne</hi></head>
+      <div type="anecdote" xml:id="actrice-ennemie-a-l-origine-de-la-fameuse-comedienne">
+        <head>Une actrice ennemie d’Armande Béjart est à l'origine de la publication de <hi rend="i">La Fameuse comédienne</hi></head>
       </div>
       <div type="anecdote" xml:id="piron-admire-tartuffe">
         <head>Piron exprime son admiration pour <hi rend="i">Le Tartuffe</hi></head>
@@ -505,9 +505,6 @@
       <div type="anecdote" xml:id="comedien-armand-raconte-histoire-tartuffe">
         <head>Le comédien Armand fait pleurer ses camarades en leur racontant l’histoire du <hi rend="i">Tartuffe</hi></head>
       </div>
-      <div type="anecdote" xml:id="boileau-consacre-moliere-et-denigre-scarron">
-        <head>Boileau proclame Molière meilleur auteur comique et dénigre Scarron</head>
-      </div>
       <div type="anecdote" xml:id="moliere-joue-cotin-sous-nom-tricotin">
         <head>Molière fait d’abord la satire de Cotin sous le nom de Tricotin, ensuite transformé en Trissotin (<hi rend="i">Les Femmes savantes</hi>)</head>
       </div>
@@ -528,9 +525,6 @@
       </div>
       <div type="anecdote" xml:id="boileau-reproche-a-moliere-jargon-paysan">
         <head>Boileau reproche à Molière le jargon qu’utilisent, dans ses pièces, les paysans et quelques autres personnages</head>
-      </div>
-      <div type="anecdote" xml:id="moliere-insatisfait-de-ce-qu-il-fait">
-        <head>Molière affirme n’avoir jamais été satisfait de ce qu’il avait fait, confirmant ainsi la <hi rend="i">Satire II</hi> que Boileau lui a adressée</head>
       </div>
       <div type="anecdote" xml:id="moliere-pousse-brouette-et-se-couvre-de-boue">
         <head>Molière décide de pousser la brouette qui le transporte pour aller plus vite, sans s’apercevoir qu’il se couvre de boue</head>
