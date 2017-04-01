@@ -35,7 +35,7 @@
         <head>Molière donne l'aumône à un mendiant</head>
       </div>
       <div type="anecdote" xml:id="valet-met-bas-a-l-envers">
-        <head>Le valet de Molière exaspère son maître en lui mettant, de façon réitérée, son bas à l’envers</head>
+        <head>Molière s’emporte contre son valet qui lui met, de façon réitérée, son bas à l’envers</head>
       </div>
       <div type="anecdote" xml:id="boileau-promenade-couple">
         <head>Boileau assiste à la promenade de Molière et Armande, signe d’un retour de flamme dans le couple</head>
@@ -47,7 +47,7 @@
         <head>Boileau ou Racine proclame Molière le premier des grands écrivains de son siècle devant Louis XIV</head>
       </div>
       <div type="anecdote" xml:id="eloge-composition-caractere">
-        <head>Boileau loue le talent de Molière à composer un caractère</head>
+        <head>Boileau fait l'éloge du talent de Molière à composer un caractère</head>
       </div>
       <div type="anecdote" xml:id="duel-boissat">
         <head>Boissat provoqué en duel à la suite de la représentation d’une comédie de Molière</head>
@@ -137,7 +137,7 @@
         <head>Le prince de Conti instaure un impôt dont les habitants de Pézenas doivent s’acquitter pour indemniser la troupe de Molière</head>
       </div>
       <div type="anecdote" xml:id="menage-loue-femmes-savantes">
-        <head>Ménage loue <hi rend="i">Les Femmes savantes</hi> chez Mme de Rambouillet</head>
+        <head>Ménage fait l'éloge des <hi rend="i">Femmes savantes</hi> chez Mme de Rambouillet</head>
       </div>
       <div type="anecdote" xml:id="correction-auteur-precieux-voltaire">
         <head>Voltaire propose à La Harpe d’intercaler dans <hi rend="i">Les Précieuses</hi> la phrase d’un auteur pour que celui-ci s’en corrige</head>
@@ -296,7 +296,7 @@
         <head>Refus de corriger un vers de Boileau « c’est l’art même qui doit nous apprendre à nous affranchir des règles de l’art »</head>
       </div>
       <div type="anecdote" xml:id="moliere-refuse-lire-traduction-en-public">
-        <head>Molière, par modestie, refuse de lire sa traduction de Lucrèce en public</head>
+        <head>Molière refuse de lire sa traduction de Lucrèce en public</head>
       </div>
       <div type="anecdote" xml:id="moliere-regle-differend-chapelle-et-valet">
         <head>Molière règle un différend entre Chapelle et son valet Godemer avec équité</head>
@@ -383,7 +383,7 @@
         <head>Molière peint les quatre médecins de <hi rend="i">L’Amour médecin</hi>, d’après les médecins de la Cour</head>
       </div>
       <div type="anecdote" xml:id="spectatrice-deplore-que-amphitryon-enseigne-a-pecher">
-        <head>Une spectatrice de l’<hi rend="i">Amphitryon</hi> déplore que la pièce enseigne à pécher</head>
+        <head>Une spectatrice d'<hi rend="i">Amphitryon</hi> déplore que la pièce enseigne à pécher</head>
       </div>
       <div type="anecdote" xml:id="roi-adoube-beauval">
         <head>Louis XIV adoube Mlle Beauval, après que Molière l’a maintenue dans le rôle de Nicole malgré la demande du roi</head>
@@ -452,7 +452,7 @@
         <head>Molière peint les caractères de Sganarelle et Martine dans la première scène du <hi rend="i">Médecin malgré lui</hi> d'après ceux d’un perruquier et de sa femme</head>
       </div>
       <div type="anecdote" xml:id="moliere-programme-misanthrope-et-medecin-apres-echec">
-        <head>Moliere remet à l’affiche <hi rend="i">Le Misanthrope</hi> avec <hi rend="i">Le Médecin malgré lui</hi>, après l’échec de la pièce</head>
+        <head>Molière remet à l’affiche <hi rend="i">Le Misanthrope</hi> avec <hi rend="i">Le Médecin malgré lui</hi>, après l’échec de la pièce</head>
       </div>
       <div type="anecdote" xml:id="public-vexe-fait-mauvais-accueil-misanthrope">
         <head>Le public, vexé d’avoir admiré le sonnet d’Oronte, ridiculisé par Alceste, fait un mauvais accueil au <hi rend="i">Misanthrope</hi></head>
@@ -623,7 +623,10 @@
         <head>Un avare est très satisfait de trouver dans la pièce de Molière de nouveaux principes d’économie</head>
       </div>
       <div type="anecdote" xml:id="moliere-veut-tirer-comedie-aventure-medecin-et-barbier">
-        <head>Molière veut tirer d’une aventure arrivée à un médecin une comédie intitulée <hi rend="i">Le Médecin fouetté et le Barbier cocu</hi></head>
+        <head>Molière veut tirer parti d’une aventure arrivée à un médecin une comédie intitulée <hi rend="i">Le Médecin fouetté et le Barbier cocu</hi></head>
+      </div>
+      <div type="anecdote" xml:id="moliere-eleve-scaramouche">
+        <head>Molière, élève de Scaramouche</head>
       </div>
     </body>
   </text>
