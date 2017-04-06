@@ -13,44 +13,41 @@
   </teiHeader>
   <text>
     <body>
-      <div type="anecdote" xml:id="moliere-fait-acheter-habit-cotin">
+      <div type="anecdote" xml:id="moliere-fait-acheter-habit-cotin" ana="#Satire #Cles #Naturel #Cotin #Les_femmes_savantes">
         <head>Molière fait acheter un habit de Cotin pour l’acteur qui joue Trissotin (<hi rend="i">Les Femmes savantes</hi>)</head>
       </div>
-      <div type="anecdote" xml:id="actrice-ennemie-a-l-origine-de-la-fameuse-comedienne">
+      <div type="anecdote" xml:id="actrice-ennemie-a-l-origine-de-la-fameuse-comedienne" ana="#Actrice #Armande">
         <head>Une actrice ennemie d’Armande Béjart est à l'origine de la publication de <hi rend="i">La Fameuse comédienne</hi></head>
       </div>
-      <div type="anecdote" xml:id="piron-admire-tartuffe">
+      <div type="anecdote" xml:id="piron-admire-tartuffe" ana="#Eloge #Piron #Le_Tartuffe">
         <head>Piron exprime son admiration pour <hi rend="i">Le Tartuffe</hi></head>
       </div>
-      <div type="anecdote" xml:id="moliere-fait-allusion-amours-mademoiselle">
+      <div type="anecdote" xml:id="moliere-fait-allusion-amours-mademoiselle" ana="#Satire #Clés #Naturel #Mademoiselle #Lauzun #Louis_XIV #Les_amants_magnifiques">
         <head>Molière fait allusion aux amours de Mademoiselle dans <hi rend="i">Les Amants magnifiques</hi></head>
       </div>
-      <div type="anecdote" xml:id="moliere-donne-roles-antipathiques-a-de-brie">
+      <div type="anecdote" xml:id="moliere-donne-roles-antipathiques-a-de-brie" ana="#Acteur #Jalousie #De_Brie">
         <head>Molière, hostile à De Brie, ne lui donne que des rôles de personnages antipathiques</head>
       </div>
-      <div type="anecdote" xml:id="armande-jette-argent-foule">
+      <div type="anecdote" xml:id="armande-jette-argent-foule" ana="#Enterrement #Mepris #Armande">
         <head>Armande Béjart calme la foule menaçante en jetant de l'argent lors de l’enterrement de Molière</head>
       </div>
-      <div type="anecdote" xml:id="moliere-donne-aumone-mendiant">
+      <div type="anecdote" xml:id="moliere-donne-aumone-mendiant" ana="#Generosite #Contempleateur #Don_Juan">
         <head>Molière donne l'aumône à un mendiant</head>
       </div>
-      <div type="anecdote" xml:id="valet-met-bas-a-l-envers">
-        <head>Molière s’emporte contre son valet qui lui met, de façon réitérée, son bas à l’envers</head>
+      <div type="anecdote" xml:id="valet-met-bas-a-l-envers" ana="#Sagesse #Intimite">
+        <head>Molière s’emporte contre son valets qui lui met, de façon réitérée, son bas à l’envers</head>
       </div>
-      <div type="anecdote" xml:id="boileau-promenade-couple">
+      <div type="anecdote" xml:id="boileau-promenade-couple" ana="#Mariage #Intimite #Boileau">
         <head>Boileau assiste à la promenade de Molière et Armande, signe d’un retour de flamme dans le couple</head>
       </div>
-      <div type="anecdote" xml:id="boileau-fait-eloge-avare">
+      <div type="anecdote" xml:id="boileau-fait-eloge-avare" ana="#Eloge #Boileau #Racine #L_Avare">
         <head>Boileau fait l'éloge de <hi rend="i">L’Avare</hi> contre la critique de Racine</head>
       </div>
-      <div type="anecdote" xml:id="boileau-ou-racine-consacre-moliere-devant-roi">
+      <div type="anecdote" xml:id="boileau-ou-racine-consacre-moliere-devant-roi" ana="#Eloge #Boileau #Racine #Louis_XIV">
         <head>Boileau ou Racine proclame Molière le premier des grands écrivains de son siècle devant Louis XIV</head>
       </div>
-      <div type="anecdote" xml:id="eloge-composition-caractere">
+      <div type="anecdote" xml:id="eloge-composition-caractere" ana="#Eloge # Satire #Naturel #Boileau">
         <head>Boileau fait l'éloge du talent de Molière à composer un caractère</head>
-      </div>
-      <div type="anecdote" xml:id="duel-boissat">
-        <head>Boissat provoqué en duel à la suite de la représentation d’une comédie de Molière</head>
       </div>
       <div type="anecdote" xml:id="chapelle-travaillant-pour-moliere">
         <head>Chapelle travaillant pour Molière</head>
@@ -85,7 +82,7 @@
       <div type="anecdote" xml:id="racine-fait-eloge-misanthrope">
         <head>Racine fait l'éloge du <hi rend="i">Misanthrope</hi> contre la critique d'un flatteur</head>
       </div>
-      <div type="anecdote" xml:id="moliere-fait-demander-chapeau-rohault">
+      <div type="anecdote" xml:id="moliere-fait-demander-chapeau-rohault" ana="#Satire #Naturel #Rohault #Bourgeois-gentilhomme">
         <head>Molière fait demander à Rohault son chapeau pour l’acteur jouant le maître de philosophie dans <hi rend="i">Le Bourgeois gentilhomme</hi></head>
       </div>
       <div type="anecdote" xml:id="moliere-doit-misanthrope-a-corneille">
