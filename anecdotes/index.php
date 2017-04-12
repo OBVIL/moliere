@@ -18,8 +18,8 @@
     <body>
         <div style="display: none">
                 <div id="info" style="width:1000px;height:800px;overflow:auto;">
-                    <h2>Anecdotes relatives à Molière</h2>
-                    <p>Base de données élaborée par Élodie Bénard et Marc Douguet dans le cadre du projet <a href="http://obvil.paris-sorbonne.fr/projets/projet-moliere"><i>Molière</i></a> dirigé par Georges Forestier et Florence Naugrette (labex OBVIL)</p>
+                    <h2>Anecdotes sur Molière</h2>
+                    <p>Base de données et interface élaborées par Élodie Bénard et Marc Douguet (avec l'aide de Vincent Jolivet) dans le cadre du projet <a href="http://obvil.paris-sorbonne.fr/projets/projet-moliere"><i>Molière</i></a> dirigé par Georges Forestier et Florence Naugrette (labex OBVIL)</p>
                     <ul>
                         <li>Passer la souris sur une cellule pour afficher le texte de l'anecdote</li>
                         <li>Passer la souris sur le titre d'une anecdote pour afficher sa description complète</li>
@@ -32,18 +32,18 @@
         </div>
         <div class="header">
             <a href="http://obvil.paris-sorbonne.fr" class="logo"><img src="http://obvil.paris-sorbonne.fr/sites/default/files/logo.png"></a>
+            <h1 class="page-title">Anecdotes sur Molière</h1>
             <a id="trigger-info" href="#info" class="tooltip" title="Aide et présentation du projet"><i class="fa fa-question"></i></a>
             <a id="view-matrix" class="tooltip" title="Afficher la vue synthétique" style="display: none;"><i class="fa fa-compress"></i></a>
             <a id="view-detail" class="tooltip" title="Afficher toutes les anecdotes"><i class="fa fa-expand"></i></a>
         </div>
-        <h1>Anecdotes sur Molière</h1>
         <?php
             include ("functions/functions.php");
             include ("functions/db.php");
             include ("functions/get_all.php");
             include ("functions/search.php");
             $db = connect();
-            include ("tpl/form.tpl.php");
+            //include ("tpl/form.tpl.php");
             if (isset($_POST["post"])) {
                 $results = search($db);
                 include("tpl/results.tpl.php");

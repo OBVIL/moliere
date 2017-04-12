@@ -2,7 +2,10 @@ table.TF th, table.TF td{
     padding: 5px !important;
     height: auto;
 
-}    
+}
+th.anecdotes-count{
+    font-size: 0.8em !important;
+}
 thead th, thead td{    background-color: white !important;}
 table{
         border-collapse: collapse;
@@ -127,14 +130,26 @@ div.div-open-document{padding-bottom: 3px !important;}
 tr.anecdotes-count th{height: 20px !important;}
 td.count{width:20px !important;text-align: center;}
 td.anecdote-title{width:420px;}
+td.first-author{width: 30px;}
 th.book-author{width:20px !important;}
 th.anecdotes-count, th.book-date{width:20px !important;}
 td.fltrow, th{width:20px !important;}
-.matrix input{width:20px !important;}
-tr.fltrow td:nth-child(1) input,  tr.fltrow td:nth-child(3) input, tr.fltrow td:nth-child(4) input{width:100% !important;}
+.matrix input{width:14px !important;}
+.fltrow td{max-width:20px !important;}
+tr.fltrow td:nth-child(1) input{width:98% !important;}
+tr.fltrow td:nth-child(3) input{width:92% !important;}
+tr.fltrow td:nth-child(4) input{width:87% !important;}
 tr.book-author th.no-border, div.th-container{text-align: center;}
 .logo img{width:150px;margin-bottom: 20px;}
 #trigger-info, #view-matrix, #view-detail{margin-right:10px;float: right;}
+
+.page-title{display: inline;
+    text-align: center;
+    margin:0 25%;
+    vertical-align: top;
+    
+}
+th.book, td.book{width:20px !important;}
 /*SCROLL*/
 
  /*
