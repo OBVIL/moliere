@@ -62,7 +62,7 @@
                                                 <span class="title" style="display: none;"><?php echo $anecdote["title"] ?></span>                                                
                                         </td>
                                         <td class="count <?php echo $anecdote["id"]; ?> tooltip" title="Nombre d'occurrences">
-                                            <?php echo count($anecdote["occ_n"]); ?>
+                                            <?php echo $anecdote["occ_n"]; ?>
                                         </td>
                                         <td class="first-author <?php echo $anecdote["id"]; ?> tooltip" title="Première occurrence dans <?php echo $anecdote["first_occ_author"]; ?>, <i><?php echo $anecdote["first_occ_title"]; ?></i>">
                                             <?php echo $anecdote["first_occ_lastname"]; ?>

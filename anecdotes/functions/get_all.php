@@ -11,5 +11,9 @@ function get_all($db) {
         $anecdotes,
     );
 }
-
+//first_occ
+//18**
+//largeur first author
+//vérifier les js
+//vérifier les liens
 ?>
