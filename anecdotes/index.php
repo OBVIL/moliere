@@ -16,11 +16,10 @@
         <title>Anecdotes</title>
     </head>
     <body>
-	<div style="display: none">
-		<div id="info" style="width:1000px;height:800px;overflow:auto;">
+        <div style="display: none">
+                <div id="info" style="width:1000px;height:800px;overflow:auto;">
                     <h2>Anecdotes relatives à Molière</h2>
-                    <p>Base de donnée élaborée par Élodie Bénard dans le cadre du projet <a href="http://obvil.paris-sorbonne.fr/projets/projet-moliere"><i>Molière</i></a> dirigé par Georges Forestier et Florence Naugrette (labex OBVIL)</p>
-                    <p>Développement : Marc Douguet & Vincent Jolivet</p>
+                    <p>Base de données élaborée par Élodie Bénard et Marc Douguet dans le cadre du projet <a href="http://obvil.paris-sorbonne.fr/projets/projet-moliere"><i>Molière</i></a> dirigé par Georges Forestier et Florence Naugrette (labex OBVIL)</p>
                     <ul>
                         <li>Passer la souris sur une cellule pour afficher le texte de l'anecdote</li>
                         <li>Passer la souris sur le titre d'une anecdote pour afficher sa description complète</li>
@@ -29,24 +28,31 @@
                         <li>Cliquer sur le titre d'une anecdote pour afficher le texte de toutes les versions</li>
                         <li>Cliquer sur le nom d'un auteur pour afficher le texte de toutes les anecdotes présentes dans l'ouvrage</li>
                     </ul>
-		</div>
-	</div>
+                </div>
+        </div>
         <div class="header">
             <a href="http://obvil.paris-sorbonne.fr" class="logo"><img src="http://obvil.paris-sorbonne.fr/sites/default/files/logo.png"></a>
             <a id="trigger-info" href="#info" class="tooltip" title="Aide et présentation du projet"><i class="fa fa-question"></i></a>
             <a id="view-matrix" class="tooltip" title="Afficher la vue synthétique" style="display: none;"><i class="fa fa-compress"></i></a>
             <a id="view-detail" class="tooltip" title="Afficher toutes les anecdotes"><i class="fa fa-expand"></i></a>
         </div>
+        <h1>Anecdotes sur Molière</h1>
         <?php
-            include("functions/functions.php");
-            include("functions/db.php");
-            include("functions/get_all.php");
-            include("functions/search.php");
+            include ("functions/functions.php");
+            include ("functions/db.php");
+            include ("functions/get_all.php");
+            include ("functions/search.php");
             $db = connect();
-            $data = get_all($db);
-            $books = $data[0];
-            $anecdotes = $data[1];
-            include("tpl/table.tpl.php");   
+            include ("tpl/form.tpl.php");
+            if (isset($_POST["post"])) {
+                $results = search($db);
+                include("tpl/results.tpl.php");
+            } else {
+                $data = get_all($db);
+                $books = $data[0];
+                $anecdotes = $data[1];
+                include ("tpl/table.tpl.php");
+            }
         ?>
     </body>
 </html>
