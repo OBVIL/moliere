@@ -1,7 +1,7 @@
 $(document).ready(function() {
     var tfConfig = {
-    base_path: 'TableFilter/dist/tablefilter/',
-         auto_filter: true,
+        base_path: 'TableFilter/dist/tablefilter/',
+        auto_filter: true,
         rows_always_visible: [2, 3],
         watermark: "Filtrer",
 

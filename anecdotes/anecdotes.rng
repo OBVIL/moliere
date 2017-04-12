@@ -20,410 +20,415 @@
               <a:documentation>Début d’une anecdote</a:documentation>
             </attribute>
             <attribute name="xml:id">
-              <choice>
-                <value>moliere-fait-acheter-habit-cotin</value>
-                <a:documentation>Molière fait acheter un habit de Cotin pour l’acteur qui joue Trissotin (Les Femmes savantes)</a:documentation>
-                <value>actrice-ennemie-est-auteur-fameuse-comedienne</value>
-                <a:documentation>Une actrice ennemie d’Armande Béjart est à l’auteur de La Fameuse comédienne</a:documentation>
-                <value>piron-admire-tartuffe</value>
-                <a:documentation>Piron exprime son admiration pour Le Tartuffe</a:documentation>
-                <value>moliere-fait-allusion-amours-mademoiselle</value>
-                <a:documentation>Molière fait allusion aux amours de Mademoiselle dans Les Amants magnifiques</a:documentation>
-                <value>moliere-donne-roles-antipathiques-a-de-brie</value>
+              <choice>                <value>moliere-fait-acheter-habit-cotin</value>
+                <a:documentation>Molière fait acheter un habit de Cotin pour l’acteur qui joue Trissotin (<i>Les Femmes savantes</i>)</a:documentation>
+                                <value>actrice-ennemie-a-l-origine-de-la-fameuse-comedienne</value>
+                <a:documentation>Une actrice ennemie d’Armande Béjart est à l'origine de la publication de <i>La Fameuse comédienne</i></a:documentation>
+                                <value>piron-admire-tartuffe</value>
+                <a:documentation>Piron exprime son admiration pour <i>Le Tartuffe</i></a:documentation>
+                                <value>moliere-fait-allusion-amours-mademoiselle</value>
+                <a:documentation>Molière fait allusion aux amours de Mademoiselle dans <i>Les Amants magnifiques</i></a:documentation>
+                                <value>moliere-donne-roles-antipathiques-a-de-brie</value>
                 <a:documentation>Molière, hostile à De Brie, ne lui donne que des rôles de personnages antipathiques</a:documentation>
-                <value>armande-jette-argent-foule</value>
+                                <value>armande-jette-argent-foule</value>
                 <a:documentation>Armande Béjart calme la foule menaçante en jetant de l'argent lors de l’enterrement de Molière</a:documentation>
-                <value>moliere-donne-aumone-mendiant</value>
+                                <value>moliere-donne-aumone-mendiant</value>
                 <a:documentation>Molière donne l'aumône à un mendiant</a:documentation>
-                <value>valet-met-bas-a-l-envers</value>
-                <a:documentation>Le valet de Molière exaspère son maître en lui mettant, de façon réitérée, son bas à l’envers</a:documentation>
-                <value>boileau-promenade-couple</value>
+                                <value>valet-met-bas-a-l-envers</value>
+                <a:documentation>Molière s’emporte contre son valets qui lui met, de façon réitérée, son bas à l’envers</a:documentation>
+                                <value>boileau-promenade-couple</value>
                 <a:documentation>Boileau assiste à la promenade de Molière et Armande, signe d’un retour de flamme dans le couple</a:documentation>
-                <value>boileau-fait-eloge-avare</value>
-                <a:documentation>Boileau fait l'éloge de L’Avare contre la critique de Racine</a:documentation>
-                <value>boileau-ou-racine-consacre-moliere-devant-roi</value>
+                                <value>boileau-fait-eloge-avare</value>
+                <a:documentation>Boileau fait l'éloge de <i>L’Avare</i> contre la critique de Racine</a:documentation>
+                                <value>boileau-ou-racine-consacre-moliere-devant-roi</value>
                 <a:documentation>Boileau ou Racine proclame Molière le premier des grands écrivains de son siècle devant Louis XIV</a:documentation>
-                <value>eloge-composition-caractere</value>
-                <a:documentation>Boileau loue le talent de Molière à composer un caractère</a:documentation>
-                <value>duel-boissat</value>
-                <a:documentation>Boissat provoqué en duel à la suite de la représentation d’une comédie de Molière</a:documentation>
-                <value>chapelle-travaillant-pour-moliere</value>
+                                <value>eloge-composition-caractere</value>
+                <a:documentation>Boileau fait l'éloge du talent de Molière à composer un caractère</a:documentation>
+                                <value>chapelle-travaillant-pour-moliere</value>
                 <a:documentation>Chapelle travaillant pour Molière</a:documentation>
-                <value>moliere-condisciple-conti</value>
+                                <value>moliere-condisciple-conti</value>
                 <a:documentation>Molière, condisciple du prince de Conti</a:documentation>
-                <value>conde-recherche-compagnie-moliere</value>
+                                <value>conde-recherche-compagnie-moliere</value>
                 <a:documentation>Le prince de Condé recherche la compagnie de Molière</a:documentation>
-                <value>moliere-confie-souffrance-chapelle</value>
+                                <value>moliere-confie-souffrance-chapelle</value>
                 <a:documentation>Molière confie sa souffrance amoureuse à Chapelle</a:documentation>
-                <value>moliere-trouve-consolation-aupres-de-brie</value>
+                                <value>moliere-trouve-consolation-aupres-de-brie</value>
                 <a:documentation>Molière trouve consolation auprès de Mlle de Brie</a:documentation>
-                <value>conti-aime-conferer-avec-moliere</value>
+                                <value>conti-aime-conferer-avec-moliere</value>
                 <a:documentation>Le prince de Conti aime conférer avec Molière</a:documentation>
-                <value>armande-charme-vieux-corneille</value>
+                                <value>armande-charme-vieux-corneille</value>
                 <a:documentation>Armande Béjart charme le vieux Corneille</a:documentation>
-                <value>vieillard-parterre-encourage-moliere</value>
-                <a:documentation>Un vieillard du parterre encourage Molière pendant la représentation des Précieuses ridicules</a:documentation>
-                <value>armande-exprime-indignation-sepulture</value>
+                                <value>vieillard-parterre-encourage-moliere</value>
+                <a:documentation>Un vieillard du parterre encourage Molière pendant la représentation des <i>Précieuses ridicules</i></a:documentation>
+                                <value>armande-exprime-indignation-sepulture</value>
                 <a:documentation>Armande Béjart exprime son indignation à l’idée qu’on refuse une sépulture à Molière</a:documentation>
-                <value>moliere-fait-eloge-plaideurs</value>
-                <a:documentation>Molière fait l’éloge des Plaideurs de Racine contre l'avis du public</a:documentation>
-                <value>racine-fait-eloge-misanthrope</value>
-                <a:documentation>Racine fait l'éloge du Misanthrope contre la critique d'un flatteur</a:documentation>
-                <value>moliere-fait-demander-chapeau-rohault</value>
-                <a:documentation>Molière fait demander à Rohault son chapeau pour l’acteur jouant le maître de philosophie dans Le Bourgeois gentilhomme</a:documentation>
-                <value>moliere-doit-misanthrope-a-corneille</value>
-                <a:documentation>Molière n’aurait pas écrit Le Misanthrope sans Le Menteur de Corneille</a:documentation>
-                <value>dispute-princesse-elide</value>
-                <a:documentation>Dispute conjugale après la représentation de La Princesse d’Élide à Versailles</a:documentation>
-                <value>moliere-et-chapelle-disputent-philosophie-devant-minime</value>
+                                <value>moliere-fait-eloge-plaideurs</value>
+                <a:documentation>Molière fait l’éloge des <i>Plaideurs</i> de Racine contre l'avis du public</a:documentation>
+                                <value>racine-fait-eloge-misanthrope</value>
+                <a:documentation>Racine fait l'éloge du <i>Misanthrope</i> contre la critique d'un flatteur</a:documentation>
+                                <value>moliere-fait-demander-chapeau-rohault</value>
+                <a:documentation>Molière fait demander à Rohault son chapeau pour l’acteur jouant le maître de philosophie dans <i>Le Bourgeois gentilhomme</i></a:documentation>
+                                <value>moliere-doit-misanthrope-a-corneille</value>
+                <a:documentation>Molière n’aurait pas écrit <i>Le Misanthrope</i> sans <i>Le Menteur</i> de Corneille</a:documentation>
+                                <value>dispute-princesse-elide</value>
+                <a:documentation>Dispute conjugale après la représentation de <i>La Princesse d’Élide</i> à Versailles</a:documentation>
+                                <value>moliere-et-chapelle-disputent-philosophie-devant-minime</value>
                 <a:documentation>Molière et Chapelle disputent philosophie devant un frère minime</a:documentation>
-                <value>doleance-a-travers-sosie</value>
+                                <value>doleance-a-travers-sosie</value>
                 <a:documentation>Doléance secrète de Molière contre les « chaînes » du roi par le truchement de Sosie</a:documentation>
-                <value>duel-comediennes</value>
-                <a:documentation>Duel entre Mlle Beaupré et Mlle Des-Urlis, après la représentation de La Comtesse d’Escarbagnas</a:documentation>
-                <value>echec-avare-attribue-a-prose</value>
-                <a:documentation>Les spectateurs s'insurgent contre l'usage de la prose dans L’Avare</a:documentation>
-                <value>moliere-defend-bonhomme-la-fontaine</value>
+                                <value>duel-comediennes</value>
+                <a:documentation>Duel entre Mlle Beaupré et Mlle Des-Urlis, après la représentation de <i>La Comtesse d’Escarbagnas</i></a:documentation>
+                                <value>echec-avare-attribue-a-prose</value>
+                <a:documentation>Les spectateurs s'insurgent contre l'usage de la prose dans <i>L’Avare</i></a:documentation>
+                                <value>moliere-defend-bonhomme-la-fontaine</value>
                 <a:documentation>Molière prend la défense du « bonhomme » La Fontaine</a:documentation>
-                <value>moliere-peint-beline-d-apres-maratre</value>
-                <a:documentation>Molière peint le personnage de Béline d’après sa marâtre (Le Malade imaginaire)</a:documentation>
-                <value>moliere-s-etonne-de-son-succes</value>
+                                <value>moliere-peint-beline-d-apres-maratre</value>
+                <a:documentation>Molière peint le personnage de Béline d’après sa marâtre (<i>Le Malade imaginaire</i>)</a:documentation>
+                                <value>moliere-s-etonne-de-son-succes</value>
                 <a:documentation>Molière s’étonne du succès de ses comédies auprès des « personnes d’esprit »</a:documentation>
-                <value>expiation-parentes-tartuffe</value>
-                <a:documentation>Deux religieuses, parentes de Molière, expient l’outrage du Tartuffe</a:documentation>
-                <value>moliere-observe-dans-fauteuil-barbier</value>
+                                <value>expiation-parentes-tartuffe</value>
+                <a:documentation>Deux religieuses, parentes de Molière, expient l’outrage du <i>Tartuffe</i></a:documentation>
+                                <value>moliere-observe-dans-fauteuil-barbier</value>
                 <a:documentation>Molière s'installe des heures durant dans un fauteuil chez son barbier, à Pézenas, observant les gens alentour</a:documentation>
-                <value>armande-fait-feu-sur-tombe-moliere</value>
+                                <value>armande-fait-feu-sur-tombe-moliere</value>
                 <a:documentation>Armande Béjart fait brûler cent voies de bois sur la tombe de Molière pour réchauffer les pauvres </a:documentation>
-                <value>moliere-fait-bon-mot-sur-fontaine-gignac</value>
+                                <value>moliere-fait-bon-mot-sur-fontaine-gignac</value>
                 <a:documentation>Molière fait un bon mot sur la fontaine de Gignac</a:documentation>
-                <value>moliere-eleve-gassendi</value>
+                                <value>moliere-eleve-gassendi</value>
                 <a:documentation>Molière, élève de Gassendi</a:documentation>
-                <value>moliere-dement-applications-femmes-savantes</value>
-                <a:documentation>Molière prononce une harangue pour démentir les applications dans Les Femmes savantes</a:documentation>
-                <value>impot-habitants-pezenas-indemnise-troupe</value>
+                                <value>moliere-dement-applications-femmes-savantes</value>
+                <a:documentation>Molière prononce une harangue pour démentir les applications dans <i>Les Femmes savantes</i></a:documentation>
+                                <value>impot-habitants-pezenas-indemnise-troupe</value>
                 <a:documentation>Le prince de Conti instaure un impôt dont les habitants de Pézenas doivent s’acquitter pour indemniser la troupe de Molière</a:documentation>
-                <value>menage-loue-femmes-savantes</value>
-                <a:documentation>Ménage loue Les Femmes savantes chez Mme de Rambouillet</a:documentation>
-                <value>correction-auteur-precieux-voltaire</value>
-                <a:documentation>Voltaire propose à La Harpe d’intercaler dans Les Précieuses la phrase d’un auteur pour que celui-ci s’en corrige</a:documentation>
-                <value>moliere-heros-intrigue-galante-province</value>
+                                <value>menage-loue-femmes-savantes</value>
+                <a:documentation>Ménage fait l'éloge des <i>Femmes savantes</i> chez Mme de Rambouillet</a:documentation>
+                                <value>correction-auteur-precieux-voltaire</value>
+                <a:documentation>Voltaire propose à La Harpe d’intercaler dans <i>Les Précieuses</i> la phrase d’un auteur pour que celui-ci s’en corrige</a:documentation>
+                                <value>moliere-heros-intrigue-galante-province</value>
                 <a:documentation>Molière, héros d'une intrigue galante en province</a:documentation>
-                <value>moliere-jaloux-baron-melicerte</value>
-                <a:documentation>Molière, jaloux de Baron lors de la création de Mélicerte</a:documentation>
-                <value>roi-differe-louanges-bourgeois-gentilhomme</value>
-                <a:documentation>Louis XIV fait l'éloge du Bourgeois gentilhomme, après avoir suspendu son jugement</a:documentation>
-                <value>roi-differe-louanges-femmes-savantes</value>
-                <a:documentation>Louis XIV fait l'éloge des Femmes savantes, après avoir suspendu son jugement</a:documentation>
-                <value>moliere-lit-pieces-public-naif</value>
+                                <value>moliere-jaloux-baron-melicerte</value>
+                <a:documentation>Molière, jaloux de Baron lors de la création de <i>Mélicerte</i></a:documentation>
+                                <value>roi-differe-louanges-bourgeois-gentilhomme</value>
+                <a:documentation>Louis XIV fait l'éloge du <i>Bourgeois gentilhomme</i>, après avoir suspendu son jugement</a:documentation>
+                                <value>roi-differe-louanges-femmes-savantes</value>
+                <a:documentation>Louis XIV fait l'éloge des <i>Femmes savantes</i>, après avoir suspendu son jugement</a:documentation>
+                                <value>moliere-lit-pieces-public-naif</value>
                 <a:documentation>Molière lit ses pièces à sa servante Laforêt et/ou les joue devant les enfants de ses comédiens</a:documentation>
-                <value>moliere-improvise-lettre-amour-pezenas</value>
+                                <value>moliere-improvise-lettre-amour-pezenas</value>
                 <a:documentation>Molière lit à une jeune fille une lettre d’amour de son amant en réécrivant complètement le discours de son amant</a:documentation>
-                <value>roi-metteur-en-scene</value>
+                                <value>roi-metteur-en-scene</value>
                 <a:documentation>Louis XIV metteur en scène de Molière</a:documentation>
-                <value>lully-pourceaugnac</value>
-                <a:documentation>Lully jouant Pourceaugnac pour amadouer le roi</a:documentation>
-                <value>maitre-pension-essaie-de-detourner-moliere-metier-comedien</value>
+                                <value>lully-pourceaugnac</value>
+                <a:documentation>Lully jouant <i>Pourceaugnac</i> pour amadouer le roi</a:documentation>
+                                <value>maitre-pension-essaie-de-detourner-moliere-metier-comedien</value>
                 <a:documentation>Un maître de pension, envoyé par la famille de Molière, essaie de le détourner du métier de comédien</a:documentation>
-                <value>martine-joue-son-propre-role</value>
-                <a:documentation>Martine, domestique de Molière, joue son propre rôle dans Les Femmes savantes</a:documentation>
-                <value>moliere-malheureux-dans-menage</value>
+                                <value>martine-joue-son-propre-role</value>
+                <a:documentation>Martine, domestique de Molière, joue son propre rôle dans <i>Les Femmes savantes</i></a:documentation>
+                                <value>moliere-malheureux-dans-menage</value>
                 <a:documentation>Molière, malheureux dans son ménage</a:documentation>
-                <value>moliere-provoque-mort-cotin-par-satire</value>
-                <a:documentation>Molière provoque la mort de Cotin par la satire des Femmes savantes</a:documentation>
-                <value>moliere-utilise-memoires-et-tablettes</value>
+                                <value>moliere-provoque-mort-cotin-par-satire</value>
+                <a:documentation>Molière provoque la mort de Cotin par la satire des <i>Femmes savantes</i></a:documentation>
+                                <value>moliere-utilise-memoires-et-tablettes</value>
                 <a:documentation>Molière travaille à partir des mémoires qu’on lui donne et des tablettes où il consigne ce qu’il voit et entend</a:documentation>
-                <value>menage-abjure-jargon-precieuses</value>
-                <a:documentation>Ménage abjure le jargon des précieuses (Les Précieuses ridicules)</a:documentation>
-                <value>femme-du-peuple-nomme-moliere-avec-mepris</value>
+                                <value>menage-abjure-jargon-precieuses</value>
+                <a:documentation>Ménage abjure le jargon des précieuses (<i>Les Précieuses ridicules</i>)</a:documentation>
+                                <value>femme-du-peuple-nomme-moliere-avec-mepris</value>
                 <a:documentation>Une femme du peuple nomme Molière avec mépris lors de son enterrement</a:documentation>
-                <value>marotte-fille-chambre-de-brie</value>
-                <a:documentation>Mlle Ragueneau, surnommée Marotte, fille de chambre de Mlle de Brie (lien avec Le Roman comique)</a:documentation>
-                <value>maitresse-conti-fait-appeler-moliere</value>
+                                <value>marotte-fille-chambre-de-brie</value>
+                <a:documentation>Mlle Ragueneau, surnommée Marotte, fille de chambre de Mlle de Brie (lien avec <i>Le Roman comique</i>)</a:documentation>
+                                <value>maitresse-conti-fait-appeler-moliere</value>
                 <a:documentation>La maîtresse du prince de Conti, Mme Calvimont, fait venir la troupe de Molière à Pézenas</a:documentation>
-                <value>dacier-supprime-dissertation-amphitryon</value>
-                <a:documentation>Anne Dacier supprime sa dissertation sur Amphitryon après avoir entendu dire que Molière voulait faire une comédie des Femmes savantes</a:documentation>
-                <value>moliere-perd-maitrise-ane</value>
+                                <value>dacier-supprime-dissertation-amphitryon</value>
+                <a:documentation>Anne Dacier supprime sa dissertation sur <i>Amphitryon</i> après avoir entendu dire que Molière voulait faire une comédie des <i>Femmes savantes</i></a:documentation>
+                                <value>moliere-perd-maitrise-ane</value>
                 <a:documentation>Molière, dans le rôle de Sancho Pança, perd la maîtrise de son âne au moment d’entrer en scène</a:documentation>
-                <value>moliere-mange-avec-boissat</value>
+                                <value>moliere-mange-avec-boissat</value>
                 <a:documentation>Molière mange à la table de Boissat</a:documentation>
-                <value>moliere-mange-avec-roi</value>
+                                <value>moliere-mange-avec-roi</value>
                 <a:documentation>Molière mange à la table de Louis XIV</a:documentation>
-                <value>moliere-donne-sujet-thebaide</value>
-                <a:documentation>Molière donne à Racine le sujet de La Thébaïde</a:documentation>
-                <value>moliere-en-goguettes-cabaret</value>
+                                <value>moliere-donne-sujet-thebaide</value>
+                <a:documentation>Molière donne à Racine le sujet de <i>La Thébaïde</i></a:documentation>
+                                <value>moliere-en-goguettes-cabaret</value>
                 <a:documentation>Molière en goguettes au cabaret de La Croix de Lorraine</a:documentation>
-                <value>tragedie-irene-lyon</value>
-                <a:documentation>Molière monte à Lyon la tragédie de Claude Busset, Irène (// sujet tragique, La Thébaïde, donné à Racine)</a:documentation>
-                <value>moliere-spectateur-portrait-du-peintre</value>
-                <a:documentation>Molière assiste à la représentation du Portrait du peintre</a:documentation>
-                <value>moliere-se-sacrifie-pour-sa-troupe</value>
-                <a:documentation>Molière se sacrifie pour sa troupe en achevant la représentation du Malade imaginaire</a:documentation>
-                <value>conde-fait-bon-mot-contre-auteur-epitaphe</value>
+                                <value>tragedie-irene-lyon</value>
+                <a:documentation>Molière monte à Lyon la tragédie de Claude Busset, Irène (// sujet tragique, <i>La Thébaïde</i>, donné à Racine)</a:documentation>
+                                <value>moliere-spectateur-portrait-du-peintre</value>
+                <a:documentation>Molière assiste à la représentation du <i>Portrait du peintre</i></a:documentation>
+                                <value>moliere-se-sacrifie-pour-sa-troupe</value>
+                <a:documentation>Molière se sacrifie pour sa troupe en achevant la représentation du <i>Malade imaginaire</i></a:documentation>
+                                <value>conde-fait-bon-mot-contre-auteur-epitaphe</value>
                 <a:documentation>Le prince de Condé fait un bon mot contre l’auteur d’une épitaphe faite pour Molière</a:documentation>
-                <value>conde-fait-bon-mot-tartuffe</value>
-                <a:documentation>Le prince de Condé fait un bon mot sur Le Tartuffe</a:documentation>
-                <value>moliere-fait-bon-mot-mauvillain</value>
+                                <value>conde-fait-bon-mot-tartuffe</value>
+                <a:documentation>Le prince de Condé fait un bon mot sur <i>Le Tartuffe</i></a:documentation>
+                                <value>moliere-fait-bon-mot-mauvillain</value>
                 <a:documentation>Molière fait un bon mot sur son médecin Mauvillain, au dîner du roi</a:documentation>
-                <value>moliere-tourne-en-derision-interdiction-lamoignon</value>
-                <a:documentation>Molière tourne en dérision l’interdiction du Tartuffe par le premier président Lamoignon</a:documentation>
-                <value>moliere-fait-bon-mot-mepris</value>
+                                <value>moliere-tourne-en-derision-interdiction-lamoignon</value>
+                <a:documentation>Molière tourne en dérision l’interdiction du <i>Tartuffe</i> par le premier président Lamoignon</a:documentation>
+                                <value>moliere-fait-bon-mot-mepris</value>
                 <a:documentation>Molière fait un bon mot sur la difficulté qu’il y a à endurer le mépris</a:documentation>
-                <value>moliere-se-peint-malade-imaginaire</value>
-                <a:documentation>Molière se peint dans Le Malade imaginaire</a:documentation>
-                <value>moliere-peint-pourceaugnac-d-apres-original-a-paris</value>
+                                <value>moliere-se-peint-malade-imaginaire</value>
+                <a:documentation>Molière se peint dans <i>Le Malade imaginaire</i></a:documentation>
+                                <value>moliere-peint-pourceaugnac-d-apres-original-a-paris</value>
                 <a:documentation>Molière peint le personnage de Pourceaugnac d’après un original à Paris</a:documentation>
-                <value>moliere-peint-tartuffe-d-apres-abbe-roquette</value>
+                                <value>moliere-peint-tartuffe-d-apres-abbe-roquette</value>
                 <a:documentation>Molière peint le personnage de Tartuffe d’après l’abbé Roquette</a:documentation>
-                <value>moliere-songe-peindre-extravagant-d-apres-courtisan</value>
+                                <value>moliere-songe-peindre-extravagant-d-apres-courtisan</value>
                 <a:documentation>Molière songe à peindre le type de l’extravagant d’après un courtisan désireux d’être mis sur le théâtre</a:documentation>
-                <value>boileau-fournit-originaux-harpagon</value>
-                <a:documentation>Boileau fournit à Molière les traits d’Harpagon d’après son observation du lieutenant Tardieu et de sa femme (L’Avare)</a:documentation>
-                <value>moliere-se-venge-gentilhomme-limousin</value>
-                <a:documentation>Molière se venge d’un gentilhomme limousin ayant cherché querelle à ses comédiens en faisant sa satire dans Monsieur de Pourceaugnac</a:documentation>
-                <value>moliere-tire-dispute-bourgeois-gentilhomme-d-une-querelle-historique</value>
-                <a:documentation>Molière tire la scène de la dispute entre le maître de danse et le maître d’armes dans Le Bourgeois gentilhomme d’une querelle historique</a:documentation>
-                <value>moliere-tire-nom-escarbagnas-dame-angouleme</value>
+                                <value>boileau-fournit-originaux-harpagon</value>
+                <a:documentation>Boileau fournit à Molière les traits d’Harpagon d’après son observation du lieutenant Tardieu et de sa femme (<i>L’Avare</i>)</a:documentation>
+                                <value>moliere-se-venge-gentilhomme-limousin</value>
+                <a:documentation>Molière se venge d’un gentilhomme limousin ayant cherché querelle à ses comédiens en faisant sa satire dans <i>Monsieur de Pourceaugnac</i></a:documentation>
+                                <value>moliere-tire-dispute-bourgeois-gentilhomme-d-une-querelle-historique</value>
+                <a:documentation>Molière tire la scène de la dispute entre le maître de danse et le maître d’armes dans <i>Le Bourgeois gentilhomme</i> d’une querelle historique</a:documentation>
+                                <value>moliere-tire-nom-escarbagnas-dame-angouleme</value>
                 <a:documentation>Molière tire le nom de la comtesse d’Escarbagnas de celui d’une dame des environs Angoulême</a:documentation>
-                <value>parmesan-agonie</value>
+                                <value>parmesan-agonie</value>
                 <a:documentation>Parmesan réclamé par Molière à l’agonie</a:documentation>
-                <value>villedieu-actrice-dans-troupe-de-moliere</value>
+                                <value>villedieu-actrice-dans-troupe-de-moliere</value>
                 <a:documentation>Mme de Villedieu prétend avoir fait partie de la troupe de Molière</a:documentation>
-                <value>passion-corneille-du-parc</value>
+                                <value>passion-corneille-du-parc</value>
                 <a:documentation>Passion de Corneille pour Mlle Du Parc</a:documentation>
-                <value>roi-suggere-personnage-chasseur</value>
-                <a:documentation>Louis XIV suggère à Molière le personnage du chasseur (Les Fâcheux)</a:documentation>
-                <value>moliere-nie-plagiat-pedant-joue</value>
-                <a:documentation>Molière se défend d’avoir plagié Le Pédant joué</a:documentation>
-                <value>regent-force-moliere-a-avouer-plagiat</value>
+                                <value>roi-suggere-personnage-chasseur</value>
+                <a:documentation>Louis XIV suggère à Molière le personnage du chasseur (<i>Les Fâcheux</i>)</a:documentation>
+                                <value>moliere-nie-plagiat-pedant-joue</value>
+                <a:documentation>Molière se défend d’avoir plagié <i>Le Pédant joué</i></a:documentation>
+                                <value>regent-force-moliere-a-avouer-plagiat</value>
                 <a:documentation>Un régent force le jeune Molière à avouer le plagiat de Théophile de Viau</a:documentation>
-                <value>moliere-se-plaint-a-ses-amis</value>
+                                <value>moliere-se-plaint-a-ses-amis</value>
                 <a:documentation>Molière confie ses malheurs conjugaux à ses amis, Rohault et Mignard</a:documentation>
-                <value>naivete-nesle-origine-plaisanterie-precieuses</value>
-                <a:documentation>Molière tire une plaisanterie des Précieuses ridicules d’une remarque naïve du marquis de Nesle</a:documentation>
-                <value>moliere-refuse-poste-conti</value>
+                                <value>naivete-nesle-origine-plaisanterie-precieuses</value>
+                <a:documentation>Molière tire une plaisanterie des <i>Précieuses ridicules</i> d’une remarque naïve du marquis de Nesle</a:documentation>
+                                <value>moliere-refuse-poste-conti</value>
                 <a:documentation>Molière refuse le poste de secrétaire offert par le prince de Conti</a:documentation>
-                <value>pression-troupe-festin-pierre</value>
-                <a:documentation>Pression exercée par la troupe pour créer un Festin de Pierre</a:documentation>
-                <value>moliere-fait-bon-mot-amour-pour-de-brie</value>
+                                <value>pression-troupe-festin-pierre</value>
+                <a:documentation>Pression exercée par la troupe pour créer un <i>Festin de Pierre</i></a:documentation>
+                                <value>moliere-fait-bon-mot-amour-pour-de-brie</value>
                 <a:documentation>Molière fait un bon mot sur les raisons de son amour pour Mlle de Brie</a:documentation>
-                <value>art-affranchir-regles</value>
+                                <value>art-affranchir-regles</value>
                 <a:documentation>Refus de corriger un vers de Boileau « c’est l’art même qui doit nous apprendre à nous affranchir des règles de l’art »</a:documentation>
-                <value>moliere-refuse-lire-traduction-en-public</value>
-                <a:documentation>Molière, par modestie, refuse de lire sa traduction de Lucrèce en public</a:documentation>
-                <value>moliere-regle-differend-chapelle-et-valet</value>
+                                <value>moliere-refuse-lire-traduction-en-public</value>
+                <a:documentation>Molière refuse de lire sa traduction de Lucrèce en public</a:documentation>
+                                <value>moliere-regle-differend-chapelle-et-valet</value>
                 <a:documentation>Molière règle un différend entre Chapelle et son valet Godemer avec équité</a:documentation>
-                <value>montausier-se-targue-de-ressembler-au-misanthrope</value>
+                                <value>montausier-se-targue-de-ressembler-au-misanthrope</value>
                 <a:documentation>Le duc de Montausier se targue de ressembler au Misanthrope </a:documentation>
-                <value>boileau-reproche-a-moliere-de-continuer-a-jouer</value>
+                                <value>boileau-reproche-a-moliere-de-continuer-a-jouer</value>
                 <a:documentation>Boileau reproche à Molière de continuer à jouer</a:documentation>
-                <value>spectateurs-se-revoltent-contre-sort-dandin</value>
+                                <value>spectateurs-se-revoltent-contre-sort-dandin</value>
                 <a:documentation>Les spectateurs s'insurgent contre le sort de George Dandin</a:documentation>
-                <value>bejart-role-boiteux</value>
+                                <value>bejart-role-boiteux</value>
                 <a:documentation>Rôle adapté à l’acteur : insulte « ce chien de boiteux-là » et Béjart, estropié</a:documentation>
-                <value>moliere-adapte-role-acteur-hubert</value>
+                                <value>moliere-adapte-role-acteur-hubert</value>
                 <a:documentation>Molière adapte les rôles à l’acteur : le cas d’Hubert, couard</a:documentation>
-                <value>pauvre-homme-mot-du-roi</value>
-                <a:documentation>Scène du « pauvre homme » inspirée par le roi</a:documentation>
-                <value>moliere-secourt-mondorge</value>
+                                <value>moliere-secourt-mondorge</value>
                 <a:documentation>Molière secourt le comédien Mondorge</a:documentation>
-                <value>moliere-sejourne-a-vienne</value>
+                                <value>moliere-sejourne-a-vienne</value>
                 <a:documentation>Molière et sa troupe séjournent à Vienne</a:documentation>
-                <value>silence-moliere-societe</value>
+                                <value>silence-moliere-societe</value>
                 <a:documentation>Silence de Molière en société</a:documentation>
-                <value>armande-donne-soufflet-a-baron</value>
+                                <value>armande-donne-soufflet-a-baron</value>
                 <a:documentation>Armande Béjart donne un soufflet à Baron</a:documentation>
-                <value>moliere-recoit-amis-souper-auteuil</value>
+                                <value>moliere-recoit-amis-souper-auteuil</value>
                 <a:documentation>Molière reçoit ses amis à souper à Auteuil</a:documentation>
-                <value>moliere-au-supplice-diction-acteurs</value>
+                                <value>moliere-au-supplice-diction-acteurs</value>
                 <a:documentation>Molière au supplice en écoutant ses acteurs déclamer ses vers</a:documentation>
-                <value>moliere-lit-tartuffe-chez-ninon-de-lenclos-depot-cassettes</value>
-                <a:documentation>Molière lit Le Tartuffe chez Ninon de Lenclos qui lui raconte une aventure semblable concernant le dépôt de deux cassettes</a:documentation>
-                <value>moliere-deconseille-metier-comedien</value>
+                                <value>moliere-lit-tartuffe-chez-ninon-de-lenclos-depot-cassettes</value>
+                <a:documentation>Molière lit <i>Le Tartuffe</i> chez Ninon de Lenclos qui lui raconte une aventure semblable concernant le dépôt de deux cassettes</a:documentation>
+                                <value>moliere-deconseille-metier-comedien</value>
                 <a:documentation>Molière tente de détourner un jeune homme de la profession de comédien</a:documentation>
-                <value>thebaide-jouee-en-province</value>
-                <a:documentation>Thébaïde jouée par la troupe de Molière à Bordeaux</a:documentation>
-                <value>domestique-detruit-traduction-lucrece</value>
+                                <value>thebaide-jouee-en-province</value>
+                <a:documentation><i>Thébaïde</i> jouée par la troupe de Molière à Bordeaux</a:documentation>
+                                <value>domestique-detruit-traduction-lucrece</value>
                 <a:documentation>Un domestique de Molière détruit par mégarde sa traduction de Lucrèce</a:documentation>
-                <value>mousquetaires-provoquent-tumulte</value>
+                                <value>mousquetaires-provoquent-tumulte</value>
                 <a:documentation>Les mousquetaires et les autres corps de la maison du roi, furieux de se voir privés du droit d’aller à la comédie sans payer, entrent de force au Palais-Royal, provoquant un tumulte</a:documentation>
-                <value>valet-de-chambre-humilie-moliere</value>
+                                <value>valet-de-chambre-humilie-moliere</value>
                 <a:documentation>Un valet de chambre refuse de faire le lit du roi avec Molière</a:documentation>
-                <value>moliere-perd-valise-province</value>
+                                <value>moliere-perd-valise-province</value>
                 <a:documentation>Molière perd sa valise en province</a:documentation>
-                <value>moliere-se-venge-des-limousins</value>
-                <a:documentation>Molière se venge du mauvais accueil des Limousins dans Monsieur de Pourceaugnac</a:documentation>
-                <value>moliere-tire-vers-misanthrope-saillie-boileau</value>
-                <a:documentation>Molière tire des vers du Misanthrope d’une saillie de Boileau </a:documentation>
-                <value>original-marquis-tarte-creme-agresse-moliere</value>
-                <a:documentation>L’original du marquis Tarte à la crème de La Critique de L’École des femmes agresse Molière</a:documentation>
-                <value>pere-obstacle-vocation</value>
+                                <value>moliere-se-venge-des-limousins</value>
+                <a:documentation>Molière se venge du mauvais accueil des Limousins dans <i>Monsieur de Pourceaugnac</i></a:documentation>
+                                <value>moliere-tire-vers-misanthrope-saillie-boileau</value>
+                <a:documentation>Molière tire des vers du <i>Misanthrope</i> d’une saillie de Boileau </a:documentation>
+                                <value>original-marquis-tarte-creme-agresse-moliere</value>
+                <a:documentation>L’original du marquis <i>Tarte à la crème</i> de <i>La Critique de L’École des femmes</i> agresse Molière</a:documentation>
+                                <value>pere-obstacle-vocation</value>
                 <a:documentation>Le père de Molière, obstacle à sa vocation</a:documentation>
-                <value>grand-pere-origine-vocation</value>
+                                <value>grand-pere-origine-vocation</value>
                 <a:documentation>Le grand-père de Molière, à l’origine de sa vocation</a:documentation>
-                <value>amour-origine-vocation</value>
+                                <value>amour-origine-vocation</value>
                 <a:documentation>Molière se consacre au théâtre par amour</a:documentation>
-                <value>moliere-se-venge-de-benserade</value>
+                                <value>moliere-se-venge-de-benserade</value>
                 <a:documentation>Molière se venge de Benserade, en l’humiliant devant la Cour</a:documentation>
-                <value>moliere-se-venge-de-sa-logeuse-par-satire-medecine</value>
+                                <value>moliere-se-venge-de-sa-logeuse-par-satire-medecine</value>
                 <a:documentation>Molière se venge de sa logeuse, femme d’un médecin, par la satire de la médecine</a:documentation>
-                <value>moliere-peint-medecins-d-apres-medecins-de-la-cour</value>
-                <a:documentation>Molière peint les quatre médecins de L’Amour médecin, d’après les médecins de la Cour</a:documentation>
-                <value>spectatrice-deplore-que-amphitryon-enseigne-a-pecher</value>
-                <a:documentation>Une spectatrice de l’Amphitryon déplore que la pièce enseigne à pécher</a:documentation>
-                <value>roi-adoube-beauval</value>
+                                <value>moliere-peint-medecins-d-apres-medecins-de-la-cour</value>
+                <a:documentation>Molière peint les quatre médecins de <i>L’Amour médecin</i>, d’après les médecins de la Cour</a:documentation>
+                                <value>spectatrice-deplore-que-amphitryon-enseigne-a-pecher</value>
+                <a:documentation>Une spectatrice d'<i>Amphitryon</i> déplore que la pièce enseigne à pécher</a:documentation>
+                                <value>roi-adoube-beauval</value>
                 <a:documentation>Louis XIV adoube Mlle Beauval, après que Molière l’a maintenue dans le rôle de Nicole malgré la demande du roi</a:documentation>
-                <value>moliere-tire-fluxion-harpagon-de-son-mal</value>
+                                <value>moliere-tire-fluxion-harpagon-de-son-mal</value>
                 <a:documentation>Molière tire la réplique de Frosine sur la fluxion de poitrine d’Harpagon de son propre mal</a:documentation>
-                <value>moliere-adapte-role-bejart</value>
+                                <value>moliere-adapte-role-bejart</value>
                 <a:documentation>Molière adapte les rôles à l’acteur : le cas de Béjart, estropié</a:documentation>
-                <value>moliere-peint-bourgeois-gentilhomme-d-apres-original</value>
+                                <value>moliere-peint-bourgeois-gentilhomme-d-apres-original</value>
                 <a:documentation>Molière peint le Bourgeois gentilhomme d’après un original</a:documentation>
-                <value>moliere-peint-lucile-d-apres-armande</value>
-                <a:documentation>Molière peint Lucile d’après Armande Béjart (Le Bourgeois gentilhomme)</a:documentation>
-                <value>ambassadeur-siam-commente-comedies</value>
-                <a:documentation>L’ambassadeur de Siam assiste aux représentations du Bourgeois gentilhomme et de L’Avare et les commente</a:documentation>
-                <value>original-cocu-imaginaire-se-plaint</value>
+                                <value>moliere-peint-lucile-d-apres-armande</value>
+                <a:documentation>Molière peint Lucile d’après Armande Béjart (<i>Le Bourgeois gentilhomme</i>)</a:documentation>
+                                <value>ambassadeur-siam-commente-comedies</value>
+                <a:documentation>L’ambassadeur de Siam assiste aux représentations du <i>Bourgeois gentilhomme</i> et de <i>L’Avare</i> et les commente</a:documentation>
+                                <value>original-cocu-imaginaire-se-plaint</value>
                 <a:documentation>Un bourgeois de Paris, convaincu d’être l’original du Cocu imaginaire, s’en plaint</a:documentation>
-                <value>moliere-tire-scene-comtesse-escarbagnas-d-une-scene-chez-ninon</value>
-                <a:documentation>Molière tire la scène de la récitation de la leçon dans La Comtesse d’Escarbagnas d’une scène qui se passa chez Ninon de Lenclos</a:documentation>
-                <value>moliere-joue-devant-cour-1658</value>
+                                <value>moliere-tire-scene-comtesse-escarbagnas-d-une-scene-chez-ninon</value>
+                <a:documentation>Molière tire la scène de la récitation de la leçon dans <i>La Comtesse d’Escarbagnas</i> d’une scène qui se passa chez Ninon de Lenclos</a:documentation>
+                                <value>moliere-joue-devant-cour-1658</value>
                 <a:documentation>Molière et sa troupe jouent pour la première fois devant la Cour, le 24 octobre 1658</a:documentation>
-                <value>moliere-declare-qu-il-suffit-d-etudier-monde</value>
-                <a:documentation>Molière déclare après le succès des Précieuses qu’il lui suffit désormais d’étudier le monde</a:documentation>
-                <value>moliere-tire-replique-tarte-a-la-creme-scandale-spectateur</value>
-                <a:documentation>Molière tire la réplique Tarte à la crème de la réaction scandalisée d’un spectateur de L’École des femmes</a:documentation>
-                <value>moliere-a-envisage-de-traiter-sujet-visionnaires</value>
-                <a:documentation>Molière a envisagé de traiter le sujet des Visionnaires</a:documentation>
-                <value>chapelle-inspirateur-de-moliere</value>
+                                <value>moliere-declare-qu-il-suffit-d-etudier-monde</value>
+                <a:documentation>Molière déclare après le succès des <i>Précieuses</i> qu’il lui suffit désormais d’étudier le monde</a:documentation>
+                                <value>moliere-tire-replique-tarte-a-la-creme-scandale-spectateur</value>
+                <a:documentation>Molière tire la réplique <i>Tarte à la crème</i> de la réaction scandalisée d’un spectateur de <i>L’École des femmes</i></a:documentation>
+                                <value>moliere-a-envisage-de-traiter-sujet-visionnaires</value>
+                <a:documentation>Molière a envisagé de traiter le sujet des <i>Visionnaires</i></a:documentation>
+                                <value>chapelle-inspirateur-de-moliere</value>
                 <a:documentation>Chapelle prétend être l’inspirateur de Molière</a:documentation>
-                <value>boileau-fournit-scene-trissotin-vadius</value>
-                <a:documentation>Boileau fournit à Molière la scène de Trissotin et de Vadius, en lui racontant une querelle entre Gilles Boileau et Cotin (Les Femmes savantes)</a:documentation>
-                <value>moliere-neutralise-original-dandin</value>
+                                <value>boileau-fournit-scene-trissotin-vadius</value>
+                <a:documentation>Boileau fournit à Molière la scène de Trissotin et de Vadius, en lui racontant une querelle entre Gilles Boileau et Cotin (<i>Les Femmes savantes</i>)</a:documentation>
+                                <value>moliere-neutralise-original-dandin</value>
                 <a:documentation>Molière neutralise un homme influent, qui pourrait se persuader qu’il est l’original de George Dandin</a:documentation>
-                <value>moliere-tire-nom-fleurant-veritable-apothicaire</value>
-                <a:documentation>Molière tire le nom de l’apothicaire du Malade imaginaire de celui d’un garçon apothicaire, rencontré par hasard et nommé Fleurant</a:documentation>
-                <value>boileau-fournit-latin-macaronique</value>
-                <a:documentation>Boileau fournit à Molière le latin macaronique du troisième intermède du Malade imaginaire au cours d’un dîner avec Ninon de Lenclos et Mme de La Sablière</a:documentation>
-                <value>moliere-modifie-vers-malade-imaginaire</value>
-                <a:documentation>Molière modifie un vers du Malade imaginaire qui choqua le public lors de la première représentation</a:documentation>
-                <value>moliere-fait-bon-mot-jeu-beauval</value>
-                <a:documentation>Molière fait un bon mot sur le jeu naturel de Beauval dans le rôle de Diafoirus (Le Malade imaginaire)</a:documentation>
-                <value>moliere-tire-mariage-force-aventure-chevalier-grammont</value>
-                <a:documentation>Molière tire l’intrigue du Mariage forcé de l’aventure du chevalier de Grammont et de Mlle Hamilton</a:documentation>
-                <value>rose-invente-chanson-pour-accuser-moliere-de-plagiat</value>
-                <a:documentation>L’académicien Toussaint Rose invente une chanson latine sur l’air de la chanson de Sganarelle afin d’accuser Molière de plagiat (Le Médecin malgré lui)</a:documentation>
-                <value>moliere-tire-caractere-sganarelle-et-martine-couple-perruquier</value>
-                <a:documentation>Molière peint les caractères de Sganarelle et Martine dans la première scène du Médecin malgré lui d'après ceux d’un perruquier et de sa femme</a:documentation>
-                <value>moliere-programme-misanthrope-et-medecin-apres-echec</value>
-                <a:documentation>Moliere remet à l’affiche Le Misanthrope avec Le Médecin malgré lui, après l’échec de la pièce</a:documentation>
-                <value>public-vexe-fait-mauvais-accueil-misanthrope</value>
-                <a:documentation>Le public, vexé d’avoir admiré le sonnet d’Oronte, ridiculisé par Alceste, fait un mauvais accueil au Misanthrope</a:documentation>
-                <value>moliere-fait-allusion-libelle-dans-misanthrope</value>
-                <a:documentation>Molière fait allusion, dans Le Misanthrope, à un libelle paru contre Le Tartuffe</a:documentation>
-                <value>moliere-promet-mieux-apres-misanthrope</value>
-                <a:documentation>Molière promet de faire mieux après Le Misanthrope</a:documentation>
-                <value>baron-demontre-efficacite-declamation-chanson-misanthrope</value>
-                <a:documentation>Baron démontre l’efficacité de la déclamation grâce à la chanson du Misanthrope</a:documentation>
-                <value>moliere-tire-misanthrope-piece-italienne</value>
-                <a:documentation>Molière tire Le Misanthrope d’une pièce créée à Naples et dont l’acteur de la comédie italienne, Angelo lui a rapporté le sujet</a:documentation>
-                <value>moliere-justifie-farces-par-interet-acteurs</value>
+                                <value>moliere-tire-nom-fleurant-veritable-apothicaire</value>
+                <a:documentation>Molière tire le nom de l’apothicaire du <i>Malade imaginaire</i> de celui d’un garçon apothicaire, rencontré par hasard et nommé Fleurant</a:documentation>
+                                <value>boileau-fournit-latin-macaronique</value>
+                <a:documentation>Boileau fournit à Molière le latin macaronique du troisième intermède du <i>Malade imaginaire</i> au cours d’un dîner avec Ninon de Lenclos et Mme de La Sablière</a:documentation>
+                                <value>moliere-modifie-vers-malade-imaginaire</value>
+                <a:documentation>Molière modifie un vers du <i>Malade imaginaire</i> qui choqua le public lors de la première représentation</a:documentation>
+                                <value>moliere-fait-bon-mot-jeu-beauval</value>
+                <a:documentation>Molière fait un bon mot sur le jeu naturel de Beauval dans le rôle de Diafoirus (<i>Le Malade imaginaire</i>)</a:documentation>
+                                <value>moliere-tire-mariage-force-aventure-chevalier-grammont</value>
+                <a:documentation>Molière tire l’intrigue du <i>Mariage forcé</i> de l’aventure du chevalier de Grammont et de Mlle Hamilton</a:documentation>
+                                <value>rose-invente-chanson-pour-accuser-moliere-de-plagiat</value>
+                <a:documentation>L’académicien Toussaint Rose invente une chanson latine sur l’air de la chanson de Sganarelle afin d’accuser Molière de plagiat (<i>Le Médecin malgré lui</i>)</a:documentation>
+                                <value>moliere-tire-caractere-sganarelle-et-martine-couple-perruquier</value>
+                <a:documentation>Molière peint les caractères de Sganarelle et Martine dans la première scène du <i>Médecin malgré lui</i> d'après ceux d’un perruquier et de sa femme</a:documentation>
+                                <value>moliere-programme-misanthrope-et-medecin-apres-echec</value>
+                <a:documentation>Molière remet à l’affiche <i>Le Misanthrope</i> avec <i>Le Médecin malgré lui</i>, après l’échec de la pièce</a:documentation>
+                                <value>public-vexe-fait-mauvais-accueil-misanthrope</value>
+                <a:documentation>Le public, vexé d’avoir admiré le sonnet d’Oronte, ridiculisé par Alceste, fait un mauvais accueil au <i>Misanthrope</i></a:documentation>
+                                <value>moliere-fait-allusion-libelle-dans-misanthrope</value>
+                <a:documentation>Molière fait allusion, dans <i>Le Misanthrope</i>, à un libelle paru contre <i>Le Tartuffe</i></a:documentation>
+                                <value>moliere-promet-mieux-apres-misanthrope</value>
+                <a:documentation>Molière promet de faire mieux après <i>Le Misanthrope</i></a:documentation>
+                                <value>baron-demontre-efficacite-declamation-chanson-misanthrope</value>
+                <a:documentation>Baron démontre l’efficacité de la déclamation grâce à la chanson du <i>Misanthrope</i></a:documentation>
+                                <value>moliere-tire-misanthrope-piece-italienne</value>
+                <a:documentation>Molière tire <i>Le Misanthrope</i> d’une pièce créée à Naples et dont l’acteur de la comédie italienne, Angelo lui a rapporté le sujet</a:documentation>
+                                <value>moliere-justifie-farces-par-interet-acteurs</value>
                 <a:documentation>Molière allègue l’intérêt de ses acteurs pour justifier ses farces</a:documentation>
-                <value>moliere-fait-bon-mot-pere-maimbourg</value>
-                <a:documentation>Molière répond aux détracteurs du Tartuffe en faisant un bon mot sur le Père Maimbourg</a:documentation>
-                <value>moliere-tire-replique-pauvre-homme-d-un-mot-du-roi</value>
+                                <value>moliere-fait-bon-mot-pere-maimbourg</value>
+                <a:documentation>Molière répond aux détracteurs du <i>Tartuffe</i> en faisant un bon mot sur le Père Maimbourg</a:documentation>
+                                <value>moliere-tire-replique-pauvre-homme-d-un-mot-du-roi</value>
                 <a:documentation>Molière tire la réplique du « pauvre homme » de la réponse que fit Louis XIV à un courtisan, qui lui décrivait le repas copieux d’un évêque censé jeûner</a:documentation>
-                <value>moliere-tire-nom-tartuffe-scene-chez-nonce</value>
+                                <value>moliere-tire-nom-tartuffe-scene-chez-nonce</value>
                 <a:documentation>Molière tire le nom « Tartuffe » d’une scène à laquelle il assiste chez le nonce du pape</a:documentation>
-                <value>moliere-declare-s-etre-repenti-d-avoir-ecrit-tartuffe</value>
-                <a:documentation>Après que Le Tartuffe a été remis au théâtre et applaudi, Molière déclare s’être plusieurs fois repenti de l’avoir écrit</a:documentation>
-                <value>menage-fait-eloge-tartuffe-a-lamoignon</value>
-                <a:documentation>Ménage fait l’éloge du Tartuffe au premier président Lamoignon</a:documentation>
-                <value>moliere-s-emporte-contre-armande-role-elmire</value>
-                <a:documentation>Molière s’emporte contre Armande Béjart, dont la parure ne convient pas au rôle d'Elmire, convalescente(Le Tartuffe)</a:documentation>
-                <value>acteurs-tournent-en-derision-ordre-eveque-en-annoncant-tartuffe</value>
-                <a:documentation>Des acteurs de province tournent en dérision l’ordre qu’ils reçoivent de quitter la ville en annonçant Le Tartuffe pour le lendemain</a:documentation>
-                <value>corneille-incapable-expliquer-ses-vers</value>
+                                <value>moliere-declare-s-etre-repenti-d-avoir-ecrit-tartuffe</value>
+                <a:documentation>Après que <i>Le Tartuffe</i> a été remis au théâtre et applaudi, Molière déclare s’être plusieurs fois repenti de l’avoir écrit</a:documentation>
+                                <value>menage-fait-eloge-tartuffe-a-lamoignon</value>
+                <a:documentation>Ménage fait l’éloge du <i>Tartuffe</i> au premier président Lamoignon</a:documentation>
+                                <value>moliere-s-emporte-contre-armande-role-elmire</value>
+                <a:documentation>Molière s’emporte contre Armande Béjart, dont la parure ne convient pas au rôle d'Elmire, convalescente(<i>Le Tartuffe</i>)</a:documentation>
+                                <value>acteurs-tournent-en-derision-ordre-eveque-en-annoncant-tartuffe</value>
+                <a:documentation>Des acteurs de province tournent en dérision l’ordre qu’ils reçoivent de quitter la ville en annonçant <i>Le Tartuffe</i> pour le lendemain</a:documentation>
+                                <value>corneille-incapable-expliquer-ses-vers</value>
                 <a:documentation>Corneille, invité à souper chez Molière, est incapable d’expliquer à Baron ses propres vers et illustre ainsi le propos de Boileau sur le « galimatias double »</a:documentation>
-                <value>Voltaire-enfant-lit-amphitryon</value>
-                <a:documentation>Voltaire lit à onze ans Amphitryon, qui le fait beaucoup rire</a:documentation>
-                <value>roi-prusse-fait-eloge-misanthrope</value>
-                <a:documentation>Le roi de Prusse, assistant à la représentation du Cercle de Poinsinet, fait l’éloge du Misanthrope</a:documentation>
-                <value>comedien-armand-raconte-histoire-tartuffe</value>
-                <a:documentation>Le comédien Armand fait pleurer ses camarades en leur racontant l’histoire du Tartuffe</a:documentation>
-                <value>boileau-consacre-moliere-et-denigre-scarron</value>
-                <a:documentation>Boileau proclame Molière meilleur auteur comique et dénigre Scarron</a:documentation>
-                <value>moliere-joue-cotin-sous-nom-tricotin</value>
-                <a:documentation>Molière fait d’abord la satire de Cotin sous le nom de Tricotin, ensuite transformé en Trissotin (Les Femmes savantes)</a:documentation>
-                <value>menage-refuse-de-croire-satire-femmes-savantes</value>
-                <a:documentation>Ménage refuse de croire que Molière fait la satire de Mme de Rambouillet, de sa fille et de lui-même dans Les Femmes savantes</a:documentation>
-                <value>bel-esprit-fait-bon-mot-sur-jeunes-auteurs</value>
+                                <value>Voltaire-enfant-lit-amphitryon</value>
+                <a:documentation>Voltaire lit à onze ans <i>Amphitryon</i>, qui le fait beaucoup rire</a:documentation>
+                                <value>roi-prusse-fait-eloge-misanthrope</value>
+                <a:documentation>Le roi de Prusse, assistant à la représentation du <i>Cercle</i> de Poinsinet, fait l’éloge du <i>Misanthrope</i></a:documentation>
+                                <value>comedien-armand-raconte-histoire-tartuffe</value>
+                <a:documentation>Le comédien Armand fait pleurer ses camarades en leur racontant l’histoire du <i>Tartuffe</i></a:documentation>
+                                <value>moliere-joue-cotin-sous-nom-tricotin</value>
+                <a:documentation>Molière fait d’abord la satire de Cotin sous le nom de Tricotin, ensuite transformé en Trissotin (<i>Les Femmes savantes</i>)</a:documentation>
+                                <value>menage-refuse-de-croire-satire-femmes-savantes</value>
+                <a:documentation>Ménage refuse de croire que Molière fait la satire de Mme de Rambouillet, de sa fille et de lui-même dans <i>Les Femmes savantes</i></a:documentation>
+                                <value>bel-esprit-fait-bon-mot-sur-jeunes-auteurs</value>
                 <a:documentation>Un bel esprit fait un bon mot sur les jeunes auteurs qui pensent que Molière a vieilli</a:documentation>
-                <value>moliere-ne-peut-affronter-tonitruant-fourcroy</value>
+                                <value>moliere-ne-peut-affronter-tonitruant-fourcroy</value>
                 <a:documentation>Molière, avec sa voix ténue, ne peut affronter son ami, l’avocat tonitruant Fourcroy</a:documentation>
-                <value>moliere-tire-scene-vadius-trissotin-dispute-cotin-menage</value>
-                <a:documentation>Molière tire la scène entre Trissotin et Vadius d’une dispute entre Cotin et Ménage qui eut lieu chez Mademoiselle (Les Femmes savantes)</a:documentation>
-                <value>malouin-impute-mort-moliere-satire-medecine</value>
+                                <value>moliere-tire-scene-vadius-trissotin-dispute-cotin-menage</value>
+                <a:documentation>Molière tire la scène entre Trissotin et Vadius d’une dispute entre Cotin et Ménage qui eut lieu chez Mademoiselle (<i>Les Femmes savantes</i>)</a:documentation>
+                                <value>malouin-impute-mort-moliere-satire-medecine</value>
                 <a:documentation>Malouin, le médecin de la reine, suggère que Molière a payé la satire de la médecine par la façon dont il est mort</a:documentation>
-                <value>boileau-reproche-a-moliere-jargon-paysan</value>
+                                <value>boileau-reproche-a-moliere-jargon-paysan</value>
                 <a:documentation>Boileau reproche à Molière le jargon qu’utilisent, dans ses pièces, les paysans et quelques autres personnages</a:documentation>
-                <value>moliere-insatisfait-de-ce-qu-il-fait</value>
-                <a:documentation>Molière affirme n’avoir jamais été satisfait de ce qu’il avait fait, confirmant ainsi la Satire II que Boileau lui a adressée</a:documentation>
-                <value>moliere-pousse-brouette-et-se-couvre-de-boue</value>
+                                <value>moliere-pousse-brouette-et-se-couvre-de-boue</value>
                 <a:documentation>Molière décide de pousser la brouette qui le transporte pour aller plus vite, sans s’apercevoir qu’il se couvre de boue</a:documentation>
-                <value>moliere-refuse-supprimer-trait-comique-flandrin</value>
-                <a:documentation>Molière refuse de supprimer le trait comique sur le grand flandrin comme le demande Henriette d'Angleterre, parce qu’il a un original (Le Misanthrope)</a:documentation>
-                <value>moliere-affirme-primat-justesse-sur-perfection</value>
-                <a:documentation>Molière refuse de corriger un vers de Boileau, au nom du primat de la justesse sur la perfection</a:documentation>
-                <value>moliere-meilleur-predicateur-que-joly</value>
+                                <value>moliere-refuse-supprimer-trait-comique-flandrin</value>
+                <a:documentation>Molière refuse de supprimer le trait comique sur le grand flandrin comme le demande Henriette d'Angleterre, parce qu’il a un original (<i>Le Misanthrope</i>)</a:documentation>
+                                <value>moliere-affirme-primat-justesse-sur-perfection</value>
+                <a:documentation>Molière refuse de corriger un vers de Boileau, au nom du primat du naturel sur la perfection</a:documentation>
+                                <value>moliere-meilleur-predicateur-que-joly</value>
                 <a:documentation>Pour décrier le prédicateur Claude Joly, on disait que Molière était meilleur prédicateur et Joly meilleur comédien</a:documentation>
-                <value>moliere-peint-timante-d-apres-saint-gilles</value>
-                <a:documentation>Molière peint Timante d’après Saint-Gilles, qui prit le parti de Bouillon contre La Fontaine dans le débat sur la traduction de la nouvelle « Joconde » de l’Arioste (Le Misanthrope)</a:documentation>
-                <value>moliere-peint-bourgeois-gentilhomme-d-apres-gandouin</value>
+                                <value>moliere-peint-timante-d-apres-saint-gilles</value>
+                <a:documentation>Molière peint Timante d’après Saint-Gilles, qui prit le parti de Bouillon contre La Fontaine dans le débat sur la traduction de la nouvelle « Joconde » de l’Arioste (<i>Le Misanthrope</i>)</a:documentation>
+                                <value>moliere-peint-bourgeois-gentilhomme-d-apres-gandouin</value>
                 <a:documentation>Molière peint le Bourgeois gentilhomme d’après un chapelier nommé Gandouin</a:documentation>
-                <value>baron-defend-moliere-en-denigrant-racine</value>
+                                <value>baron-defend-moliere-en-denigrant-racine</value>
                 <a:documentation>Baron prend la défense de Molière en dénigrant Racine devant un de ses amis</a:documentation>
-                <value>moliere-observe-assis-dans-coche</value>
+                                <value>moliere-observe-assis-dans-coche</value>
                 <a:documentation>Molière demeure des heures durant, assis à bord du coche d’Auxerre, observant les gens alentour</a:documentation>
-                <value>moliere-dit-que-lutin-souffle-vers-a-corneille</value>
+                                <value>moliere-dit-que-lutin-souffle-vers-a-corneille</value>
                 <a:documentation>Molière dit à propos de Corneille qu’un lutin vient lui inspirer des vers sublimes avant de l’abandonner</a:documentation>
-                <value>boileau-surnomme-moliere-contemplateur</value>
+                                <value>boileau-surnomme-moliere-contemplateur</value>
                 <a:documentation>Boileau surnomme Molière « le contemplateur »</a:documentation>
-                <value>roi-donne-sujet-amants-magnifiques</value>
-                <a:documentation>Louis XIV donne à Molière le sujet des Amants magnifiques</a:documentation>
-                <value>moliere-tire-scene-Harpagon-Cleante-aventure-Malon-de-Bercy-et-fils</value>
-                <a:documentation>Molière tire la scène où Cléante découvre que l’usurier à qui il est contraint d’emprunter est son père d’une aventure vécue par Malon de Bercy et son fils (L’Avare)</a:documentation>
-                <value>armande-se-jette-aux-pieds-roi-pour-sepulture</value>
+                                <value>roi-donne-sujet-amants-magnifiques</value>
+                <a:documentation>Louis XIV donne à Molière le sujet des <i>Amants magnifiques</i></a:documentation>
+                                <value>moliere-tire-scene-Harpagon-Cleante-aventure-Malon-de-Bercy-et-fils</value>
+                <a:documentation>Molière tire la scène où Cléante découvre que l’usurier à qui il est contraint d’emprunter est son père d’une aventure vécue par Malon de Bercy et son fils (<i>L’Avare</i>)</a:documentation>
+                                <value>armande-se-jette-aux-pieds-roi-pour-sepulture</value>
                 <a:documentation>Armande Béjart se jette aux pieds de Louis XIV pour donner une sépulture à son mari</a:documentation>
-                <value>armande-et-baron-changent-aversion-en-desir</value>
+                                <value>armande-et-baron-changent-aversion-en-desir</value>
                 <a:documentation>Armande Béjart et Baron changent leur aversion en désir en jouant les rôles de Psyché et d’Amour</a:documentation>
-                <value>moliere-interrompu-dans-lecture-tartuffe-chez-dame-janseniste</value>
+                                <value>moliere-interrompu-dans-lecture-tartuffe-chez-dame-janseniste</value>
                 <a:documentation>Molière, venu lire Le Tartuffe chez une dame proche des jansénistes, est interrompu avant d’en avoir commencé la lecture</a:documentation>
-                <value>moliere-tire-replique-don-juan-reponse-prince-allemagne</value>
+                                <value>moliere-tire-replique-don-juan-reponse-prince-allemagne</value>
                 <a:documentation>Molière tire la réplique de Don Juan sur 2 et 2 font 4 de la réponse d’un prince d’Allemagne à son confesseur qui lui demandait s’il croyait</a:documentation>
-                <value>moliere-peint-tartuffe-d-apres-abbe-pons</value>
+                                <value>moliere-peint-tartuffe-d-apres-abbe-pons</value>
                 <a:documentation>Molière peint le personnage de Tartuffe d’après l’abbé Pons</a:documentation>
-                <value>moliere-peint-george-dandin-d-apres-sellier-rue-montorgueil</value>
+                                <value>moliere-peint-george-dandin-d-apres-sellier-rue-montorgueil</value>
                 <a:documentation>Molière peint George Dandin d’après un sellier de la rue Montorgueil appelé George Dandin</a:documentation>
-                <value>moliere-tire-scene-malade-imaginaire-dialogue-colletet-et-fils</value>
-                <a:documentation>Molière tire la scène entre Diafoirus et son fils des quelques mots prononcés par Guillaume Colletet et son fils dans une compagnie (Le Malade imaginaire)</a:documentation>
-                <value>acteur-kemble-refuse-appartenance-moliere-France</value>
+                                <value>moliere-tire-scene-malade-imaginaire-dialogue-colletet-et-fils</value>
+                <a:documentation>Molière tire la scène entre Diafoirus et son fils des quelques mots prononcés par Guillaume Colletet et son fils dans une compagnie (<i>Le Malade imaginaire</i>)</a:documentation>
+                                <value>acteur-kemble-refuse-appartenance-moliere-France</value>
                 <a:documentation>L’acteur Kemble refuse d’admettre que Molière appartienne à la seule nation française et non à l’univers</a:documentation>
-                <value>moliere-peint-don-juan-d-apres-grignan</value>
+                                <value>moliere-peint-don-juan-d-apres-grignan</value>
                 <a:documentation>Molière peint Don Juan d’après le comte de Grignan, après l’avoir longuement observé en silence</a:documentation>
-                <value>sillery-regrette-de-n-avoir-pas-donne-portrait-avare-a-moliere</value>
+                                <value>sillery-regrette-de-n-avoir-pas-donne-portrait-avare-a-moliere</value>
                 <a:documentation>Le marquis de Sillery regrette de ne pas avoir raconté à Molière la visite qu’il fit à un vieil avare</a:documentation>
-                <value>moliere-tire-histoire-agnes-de-celle-d-armande</value>
-                <a:documentation>Molière tire l’histoire d’Agnès de celle d’Armande (L’École des femmes)</a:documentation>
-                <value>lamoignon-reproche-defendre-religion</value>
-                <a:documentation>Le premier président Lamoignon reproche à Molière, venu plaider pour son Tartuffe, non d’attaquer la religion mais de la défendre</a:documentation>
-                <value>moliere-exclu-genealogie-famille</value>
+                                <value>moliere-tire-histoire-agnes-de-celle-d-armande</value>
+                <a:documentation>Molière tire l’histoire d’Agnès de celle d’Armande (<i>L’École des femmes</i>)</a:documentation>
+                                <value>lamoignon-reproche-defendre-religion</value>
+                <a:documentation>Le premier président Lamoignon reproche à Molière, venu plaider pour son <i>Tartuffe</i>, non d’attaquer la religion mais de la défendre</a:documentation>
+                                <value>moliere-exclu-genealogie-famille</value>
                 <a:documentation>Un parent de Molière l’exclut du tableau généalogique de la famille</a:documentation>
-                <value>moliere-peint-leonor-d-apres-armande</value>
-                <a:documentation>Molière peint Léonor d’après Armande (L’École des maris)</a:documentation>
-                <value>moliere-et-ami-echangent-profession</value>
+                                <value>moliere-peint-leonor-d-apres-armande</value>
+                <a:documentation>Molière peint Léonor d’après Armande (<i>L’École des maris</i>)</a:documentation>
+                                <value>moliere-et-ami-echangent-profession</value>
                 <a:documentation>Molière reçu avocat devient comédien en même temps qu’un ami comédien se fait avocat</a:documentation>
-              </choice>
+                                <value>moliere-approuve-vers-boileau</value>
+                <a:documentation>Molière approuve le vers de Boileau « Il plaît à tout le monde et ne saurait se plaire »</a:documentation>
+                                <value>moliere-fait-aparte-sur-la-fontaine</value>
+                <a:documentation>Molière ou Boileau fait un aparté concernant La Fontaine en présence de celui-ci pour prouver la vraisemblance du procédé</a:documentation>
+                                <value>moliere-deni-justice-la-fontaine</value>
+                <a:documentation>Molière, coupable d’un déni de justice envers La Fontaine</a:documentation>
+                                <value>moliere-fait-bruler-exemplaires-apologie-misanthrope</value>
+                <a:documentation>Molière fait jeter au feu tous les exemplaires de l’apologie du <i>Misanthrope</i></a:documentation>
+                                <value>avare-tire-principes-economie-d-harpagon</value>
+                <a:documentation>Un avare est très satisfait de trouver dans la pièce de Molière de nouveaux principes d’économie</a:documentation>
+                                <value>moliere-veut-tirer-comedie-aventure-medecin-et-barbier</value>
+                <a:documentation>Molière veut tirer parti d’une aventure arrivée à un médecin une comédie intitulée <i>Le Médecin fouetté et le Barbier cocu</i></a:documentation>
+                                <value>moliere-eleve-scaramouche</value>
+                <a:documentation>Molière, élève de Scaramouche</a:documentation>
+                </choice>
             </attribute>
           </group>
           <!-- commentStart -->
@@ -432,220 +437,213 @@
               <value>commentStart</value>
             </attribute>
             <attribute name="corresp">
-              <choice>
-                <value>#moliere-fait-acheter-habit-cotin</value>
-                <value>#actrice-ennemie-est-auteur-fameuse-comedienne</value>
-                <value>#piron-admire-tartuffe</value>
-                <value>#moliere-fait-allusion-amours-mademoiselle</value>
-                <value>#moliere-donne-roles-antipathiques-a-de-brie</value>
-                <value>#armande-jette-argent-foule</value>
-                <value>#moliere-donne-aumone-mendiant</value>
-                <value>#valet-met-bas-a-l-envers</value>
-                <value>#boileau-promenade-couple</value>
-                <value>#boileau-fait-eloge-avare</value>
-                <value>#boileau-ou-racine-consacre-moliere-devant-roi</value>
-                <value>#eloge-composition-caractere</value>
-                <value>#duel-boissat</value>
-                <value>#chapelle-travaillant-pour-moliere</value>
-                <value>#moliere-condisciple-conti</value>
-                <value>#conde-recherche-compagnie-moliere</value>
-                <value>#moliere-confie-souffrance-chapelle</value>
-                <value>#moliere-trouve-consolation-aupres-de-brie</value>
-                <value>#conti-aime-conferer-avec-moliere</value>
-                <value>#armande-charme-vieux-corneille</value>
-                <value>#vieillard-parterre-encourage-moliere</value>
-                <value>#armande-exprime-indignation-sepulture</value>
-                <value>#moliere-fait-eloge-plaideurs</value>
-                <value>#racine-fait-eloge-misanthrope</value>
-                <value>#moliere-fait-demander-chapeau-rohault</value>
-                <value>#moliere-doit-misanthrope-a-corneille</value>
-                <value>#dispute-princesse-elide</value>
-                <value>#moliere-et-chapelle-disputent-philosophie-devant-minime</value>
-                <value>#doleance-a-travers-sosie</value>
-                <value>#duel-comediennes</value>
-                <value>#echec-avare-attribue-a-prose</value>
-                <value>#moliere-defend-bonhomme-la-fontaine</value>
-                <value>#moliere-peint-beline-d-apres-maratre</value>
-                <value>#moliere-s-etonne-de-son-succes</value>
-                <value>#expiation-parentes-tartuffe</value>
-                <value>#moliere-observe-dans-fauteuil-barbier</value>
-                <value>#armande-fait-feu-sur-tombe-moliere</value>
-                <value>#moliere-fait-bon-mot-sur-fontaine-gignac</value>
-                <value>#moliere-eleve-gassendi</value>
-                <value>#moliere-dement-applications-femmes-savantes</value>
-                <value>#impot-habitants-pezenas-indemnise-troupe</value>
-                <value>#menage-loue-femmes-savantes</value>
-                <value>#correction-auteur-precieux-voltaire</value>
-                <value>#moliere-heros-intrigue-galante-province</value>
-                <value>#moliere-jaloux-baron-melicerte</value>
-                <value>#roi-differe-louanges-bourgeois-gentilhomme</value>
-                <value>#roi-differe-louanges-femmes-savantes</value>
-                <value>#moliere-lit-pieces-public-naif</value>
-                <value>#moliere-improvise-lettre-amour-pezenas</value>
-                <value>#roi-metteur-en-scene</value>
-                <value>#lully-pourceaugnac</value>
-                <value>#maitre-pension-essaie-de-detourner-moliere-metier-comedien</value>
-                <value>#martine-joue-son-propre-role</value>
-                <value>#moliere-malheureux-dans-menage</value>
-                <value>#moliere-provoque-mort-cotin-par-satire</value>
-                <value>#moliere-utilise-memoires-et-tablettes</value>
-                <value>#menage-abjure-jargon-precieuses</value>
-                <value>#femme-du-peuple-nomme-moliere-avec-mepris</value>
-                <value>#marotte-fille-chambre-de-brie</value>
-                <value>#maitresse-conti-fait-appeler-moliere</value>
-                <value>#dacier-supprime-dissertation-amphitryon</value>
-                <value>#moliere-perd-maitrise-ane</value>
-                <value>#moliere-mange-avec-boissat</value>
-                <value>#moliere-mange-avec-roi</value>
-                <value>#moliere-donne-sujet-thebaide</value>
-                <value>#moliere-en-goguettes-cabaret</value>
-                <value>#tragedie-irene-lyon</value>
-                <value>#moliere-spectateur-portrait-du-peintre</value>
-                <value>#moliere-se-sacrifie-pour-sa-troupe</value>
-                <value>#conde-fait-bon-mot-contre-auteur-epitaphe</value>
-                <value>#conde-fait-bon-mot-tartuffe</value>
-                <value>#moliere-fait-bon-mot-mauvillain</value>
-                <value>#moliere-tourne-en-derision-interdiction-lamoignon</value>
-                <value>#moliere-fait-bon-mot-mepris</value>
-                <value>#moliere-se-peint-malade-imaginaire</value>
-                <value>#moliere-peint-pourceaugnac-d-apres-original-a-paris</value>
-                <value>#moliere-peint-tartuffe-d-apres-abbe-roquette</value>
-                <value>#moliere-songe-peindre-extravagant-d-apres-courtisan</value>
-                <value>#boileau-fournit-originaux-harpagon</value>
-                <value>#moliere-se-venge-gentilhomme-limousin</value>
-                <value>#moliere-tire-dispute-bourgeois-gentilhomme-d-une-querelle-historique</value>
-                <value>#moliere-tire-nom-escarbagnas-dame-angouleme</value>
-                <value>#parmesan-agonie</value>
-                <value>#villedieu-actrice-dans-troupe-de-moliere</value>
-                <value>#passion-corneille-du-parc</value>
-                <value>#roi-suggere-personnage-chasseur</value>
-                <value>#moliere-nie-plagiat-pedant-joue</value>
-                <value>#regent-force-moliere-a-avouer-plagiat</value>
-                <value>#moliere-se-plaint-a-ses-amis</value>
-                <value>#naivete-nesle-origine-plaisanterie-precieuses</value>
-                <value>#moliere-refuse-poste-conti</value>
-                <value>#pression-troupe-festin-pierre</value>
-                <value>#moliere-fait-bon-mot-amour-pour-de-brie</value>
-                <value>#art-affranchir-regles</value>
-                <value>#moliere-refuse-lire-traduction-en-public</value>
-                <value>#moliere-regle-differend-chapelle-et-valet</value>
-                <value>#montausier-se-targue-de-ressembler-au-misanthrope</value>
-                <value>#boileau-reproche-a-moliere-de-continuer-a-jouer</value>
-                <value>#spectateurs-se-revoltent-contre-sort-dandin</value>
-                <value>#bejart-role-boiteux</value>
-                <value>#moliere-adapte-role-acteur-hubert</value>
-                <value>#pauvre-homme-mot-du-roi</value>
-                <value>#moliere-secourt-mondorge</value>
-                <value>#moliere-sejourne-a-vienne</value>
-                <value>#silence-moliere-societe</value>
-                <value>#armande-donne-soufflet-a-baron</value>
-                <value>#moliere-recoit-amis-souper-auteuil</value>
-                <value>#moliere-au-supplice-diction-acteurs</value>
-                <value>#moliere-lit-tartuffe-chez-ninon-de-lenclos-depot-cassettes</value>
-                <value>#moliere-deconseille-metier-comedien</value>
-                <value>#thebaide-jouee-en-province</value>
-                <value>#domestique-detruit-traduction-lucrece</value>
-                <value>#mousquetaires-provoquent-tumulte</value>
-                <value>#valet-de-chambre-humilie-moliere</value>
-                <value>#moliere-perd-valise-province</value>
-                <value>#moliere-se-venge-des-limousins</value>
-                <value>#moliere-tire-vers-misanthrope-saillie-boileau</value>
-                <value>#original-marquis-tarte-creme-agresse-moliere</value>
-                <value>#pere-obstacle-vocation</value>
-                <value>#grand-pere-origine-vocation</value>
-                <value>#amour-origine-vocation</value>
-                <value>#moliere-se-venge-de-benserade</value>
-                <value>#moliere-se-venge-de-sa-logeuse-par-satire-medecine</value>
-                <value>#moliere-peint-medecins-d-apres-medecins-de-la-cour</value>
-                <value>#spectatrice-deplore-que-amphitryon-enseigne-a-pecher</value>
-                <value>#roi-adoube-beauval</value>
-                <value>#moliere-tire-fluxion-harpagon-de-son-mal</value>
-                <value>#moliere-adapte-role-bejart</value>
-                <value>#moliere-peint-bourgeois-gentilhomme-d-apres-original</value>
-                <value>#moliere-peint-lucile-d-apres-armande</value>
-                <value>#ambassadeur-siam-commente-comedies</value>
-                <value>#original-cocu-imaginaire-se-plaint</value>
-                <value>#moliere-tire-scene-comtesse-escarbagnas-d-une-scene-chez-ninon</value>
-                <value>#moliere-joue-devant-cour-1658</value>
-                <value>#moliere-declare-qu-il-suffit-d-etudier-monde</value>
-                <value>#moliere-tire-replique-tarte-a-la-creme-scandale-spectateur</value>
-                <value>#moliere-a-envisage-de-traiter-sujet-visionnaires</value>
-                <value>#chapelle-inspirateur-de-moliere</value>
-                <value>#boileau-fournit-scene-trissotin-vadius</value>
-                <value>#moliere-neutralise-original-dandin</value>
-                <value>#moliere-tire-nom-fleurant-veritable-apothicaire</value>
-                <value>#boileau-fournit-latin-macaronique</value>
-                <value>#moliere-modifie-vers-malade-imaginaire</value>
-                <value>#moliere-fait-bon-mot-jeu-beauval</value>
-                <value>#moliere-tire-mariage-force-aventure-chevalier-grammont</value>
-                <value>#rose-invente-chanson-pour-accuser-moliere-de-plagiat</value>
-                <value>#moliere-tire-caractere-sganarelle-et-martine-couple-perruquier</value>
-                <value>#moliere-programme-misanthrope-et-medecin-apres-echec</value>
-                <value>#public-vexe-fait-mauvais-accueil-misanthrope</value>
-                <value>#moliere-fait-allusion-libelle-dans-misanthrope</value>
-                <value>#moliere-promet-mieux-apres-misanthrope</value>
-                <value>#baron-demontre-efficacite-declamation-chanson-misanthrope</value>
-                <value>#moliere-tire-misanthrope-piece-italienne</value>
-                <value>#moliere-justifie-farces-par-interet-acteurs</value>
-                <value>#moliere-fait-bon-mot-pere-maimbourg</value>
-                <value>#moliere-tire-replique-pauvre-homme-d-un-mot-du-roi</value>
-                <value>#moliere-tire-nom-tartuffe-scene-chez-nonce</value>
-                <value>#moliere-declare-s-etre-repenti-d-avoir-ecrit-tartuffe</value>
-                <value>#menage-fait-eloge-tartuffe-a-lamoignon</value>
-                <value>#moliere-s-emporte-contre-armande-role-elmire</value>
-                <value>#acteurs-tournent-en-derision-ordre-eveque-en-annoncant-tartuffe</value>
-                <value>#corneille-incapable-expliquer-ses-vers</value>
-                <value>#Voltaire-enfant-lit-amphitryon</value>
-                <value>#roi-prusse-fait-eloge-misanthrope</value>
-                <value>#comedien-armand-raconte-histoire-tartuffe</value>
-                <value>#boileau-consacre-moliere-et-denigre-scarron</value>
-                <value>#moliere-joue-cotin-sous-nom-tricotin</value>
-                <value>#menage-refuse-de-croire-satire-femmes-savantes</value>
-                <value>#bel-esprit-fait-bon-mot-sur-jeunes-auteurs</value>
-                <value>#moliere-ne-peut-affronter-tonitruant-fourcroy</value>
-                <value>#moliere-tire-scene-vadius-trissotin-dispute-cotin-menage</value>
-                <value>#malouin-impute-mort-moliere-satire-medecine</value>
-                <value>#boileau-reproche-a-moliere-jargon-paysan</value>
-                <value>#moliere-insatisfait-de-ce-qu-il-fait</value>
-                <value>#moliere-pousse-brouette-et-se-couvre-de-boue</value>
-                <value>#moliere-refuse-supprimer-trait-comique-flandrin</value>
-                <value>#moliere-affirme-primat-justesse-sur-perfection</value>
-                <value>#moliere-meilleur-predicateur-que-joly</value>
-                <value>#moliere-peint-timante-d-apres-saint-gilles</value>
-                <value>#moliere-peint-bourgeois-gentilhomme-d-apres-gandouin</value>
-                <value>#baron-defend-moliere-en-denigrant-racine</value>
-                <value>#moliere-observe-assis-dans-coche</value>
-                <value>#moliere-dit-que-lutin-souffle-vers-a-corneille</value>
-                <value>#boileau-surnomme-moliere-contemplateur</value>
-                <value>#roi-donne-sujet-amants-magnifiques</value>
-                <value>#moliere-tire-scene-Harpagon-Cleante-aventure-Malon-de-Bercy-et-fils</value>
-                <value>#armande-se-jette-aux-pieds-roi-pour-sepulture</value>
-                <value>#armande-et-baron-changent-aversion-en-desir</value>
-                <value>#moliere-interrompu-dans-lecture-tartuffe-chez-dame-janseniste</value>
-                <value>#moliere-tire-replique-don-juan-reponse-prince-allemagne</value>
-                <value>#moliere-peint-tartuffe-d-apres-abbe-pons</value>
-                <value>#moliere-peint-george-dandin-d-apres-sellier-rue-montorgueil</value>
-                <value>#moliere-tire-scene-malade-imaginaire-dialogue-colletet-et-fils</value>
-                <value>#acteur-kemble-refuse-appartenance-moliere-France</value>
-                <value>#moliere-peint-don-juan-d-apres-grignan</value>
-                <value>#sillery-regrette-de-n-avoir-pas-donne-portrait-avare-a-moliere</value>
-                <value>#moliere-tire-histoire-agnes-de-celle-d-armande</value>
-                <value>#lamoignon-reproche-defendre-religion</value>
-                <value>#moliere-exclu-genealogie-famille</value>
-                <value>#moliere-peint-leonor-d-apres-armande</value>
-                <value>#moliere-et-ami-echangent-profession</value>
-              </choice>
-            </attribute>
-          </group>
-          <!-- anecdoteEnd | commentEnd -->
-          <attribute name="type">
-            <choice>
-              <value>anecdoteEnd</value>
-              <a:documentation>Fin d’une anecdote</a:documentation>
-              <value>commentEnd</value>
-              <a:documentation>Fin du commentaire</a:documentation>
-            </choice>
+              <choice>                <value>#moliere-fait-acheter-habit-cotin</value>
+                                <value>#actrice-ennemie-a-l-origine-de-la-fameuse-comedienne</value>
+                                <value>#piron-admire-tartuffe</value>
+                                <value>#moliere-fait-allusion-amours-mademoiselle</value>
+                                <value>#moliere-donne-roles-antipathiques-a-de-brie</value>
+                                <value>#armande-jette-argent-foule</value>
+                                <value>#moliere-donne-aumone-mendiant</value>
+                                <value>#valet-met-bas-a-l-envers</value>
+                                <value>#boileau-promenade-couple</value>
+                                <value>#boileau-fait-eloge-avare</value>
+                                <value>#boileau-ou-racine-consacre-moliere-devant-roi</value>
+                                <value>#eloge-composition-caractere</value>
+                                <value>#chapelle-travaillant-pour-moliere</value>
+                                <value>#moliere-condisciple-conti</value>
+                                <value>#conde-recherche-compagnie-moliere</value>
+                                <value>#moliere-confie-souffrance-chapelle</value>
+                                <value>#moliere-trouve-consolation-aupres-de-brie</value>
+                                <value>#conti-aime-conferer-avec-moliere</value>
+                                <value>#armande-charme-vieux-corneille</value>
+                                <value>#vieillard-parterre-encourage-moliere</value>
+                                <value>#armande-exprime-indignation-sepulture</value>
+                                <value>#moliere-fait-eloge-plaideurs</value>
+                                <value>#racine-fait-eloge-misanthrope</value>
+                                <value>#moliere-fait-demander-chapeau-rohault</value>
+                                <value>#moliere-doit-misanthrope-a-corneille</value>
+                                <value>#dispute-princesse-elide</value>
+                                <value>#moliere-et-chapelle-disputent-philosophie-devant-minime</value>
+                                <value>#doleance-a-travers-sosie</value>
+                                <value>#duel-comediennes</value>
+                                <value>#echec-avare-attribue-a-prose</value>
+                                <value>#moliere-defend-bonhomme-la-fontaine</value>
+                                <value>#moliere-peint-beline-d-apres-maratre</value>
+                                <value>#moliere-s-etonne-de-son-succes</value>
+                                <value>#expiation-parentes-tartuffe</value>
+                                <value>#moliere-observe-dans-fauteuil-barbier</value>
+                                <value>#armande-fait-feu-sur-tombe-moliere</value>
+                                <value>#moliere-fait-bon-mot-sur-fontaine-gignac</value>
+                                <value>#moliere-eleve-gassendi</value>
+                                <value>#moliere-dement-applications-femmes-savantes</value>
+                                <value>#impot-habitants-pezenas-indemnise-troupe</value>
+                                <value>#menage-loue-femmes-savantes</value>
+                                <value>#correction-auteur-precieux-voltaire</value>
+                                <value>#moliere-heros-intrigue-galante-province</value>
+                                <value>#moliere-jaloux-baron-melicerte</value>
+                                <value>#roi-differe-louanges-bourgeois-gentilhomme</value>
+                                <value>#roi-differe-louanges-femmes-savantes</value>
+                                <value>#moliere-lit-pieces-public-naif</value>
+                                <value>#moliere-improvise-lettre-amour-pezenas</value>
+                                <value>#roi-metteur-en-scene</value>
+                                <value>#lully-pourceaugnac</value>
+                                <value>#maitre-pension-essaie-de-detourner-moliere-metier-comedien</value>
+                                <value>#martine-joue-son-propre-role</value>
+                                <value>#moliere-malheureux-dans-menage</value>
+                                <value>#moliere-provoque-mort-cotin-par-satire</value>
+                                <value>#moliere-utilise-memoires-et-tablettes</value>
+                                <value>#menage-abjure-jargon-precieuses</value>
+                                <value>#femme-du-peuple-nomme-moliere-avec-mepris</value>
+                                <value>#marotte-fille-chambre-de-brie</value>
+                                <value>#maitresse-conti-fait-appeler-moliere</value>
+                                <value>#dacier-supprime-dissertation-amphitryon</value>
+                                <value>#moliere-perd-maitrise-ane</value>
+                                <value>#moliere-mange-avec-boissat</value>
+                                <value>#moliere-mange-avec-roi</value>
+                                <value>#moliere-donne-sujet-thebaide</value>
+                                <value>#moliere-en-goguettes-cabaret</value>
+                                <value>#tragedie-irene-lyon</value>
+                                <value>#moliere-spectateur-portrait-du-peintre</value>
+                                <value>#moliere-se-sacrifie-pour-sa-troupe</value>
+                                <value>#conde-fait-bon-mot-contre-auteur-epitaphe</value>
+                                <value>#conde-fait-bon-mot-tartuffe</value>
+                                <value>#moliere-fait-bon-mot-mauvillain</value>
+                                <value>#moliere-tourne-en-derision-interdiction-lamoignon</value>
+                                <value>#moliere-fait-bon-mot-mepris</value>
+                                <value>#moliere-se-peint-malade-imaginaire</value>
+                                <value>#moliere-peint-pourceaugnac-d-apres-original-a-paris</value>
+                                <value>#moliere-peint-tartuffe-d-apres-abbe-roquette</value>
+                                <value>#moliere-songe-peindre-extravagant-d-apres-courtisan</value>
+                                <value>#boileau-fournit-originaux-harpagon</value>
+                                <value>#moliere-se-venge-gentilhomme-limousin</value>
+                                <value>#moliere-tire-dispute-bourgeois-gentilhomme-d-une-querelle-historique</value>
+                                <value>#moliere-tire-nom-escarbagnas-dame-angouleme</value>
+                                <value>#parmesan-agonie</value>
+                                <value>#villedieu-actrice-dans-troupe-de-moliere</value>
+                                <value>#passion-corneille-du-parc</value>
+                                <value>#roi-suggere-personnage-chasseur</value>
+                                <value>#moliere-nie-plagiat-pedant-joue</value>
+                                <value>#regent-force-moliere-a-avouer-plagiat</value>
+                                <value>#moliere-se-plaint-a-ses-amis</value>
+                                <value>#naivete-nesle-origine-plaisanterie-precieuses</value>
+                                <value>#moliere-refuse-poste-conti</value>
+                                <value>#pression-troupe-festin-pierre</value>
+                                <value>#moliere-fait-bon-mot-amour-pour-de-brie</value>
+                                <value>#art-affranchir-regles</value>
+                                <value>#moliere-refuse-lire-traduction-en-public</value>
+                                <value>#moliere-regle-differend-chapelle-et-valet</value>
+                                <value>#montausier-se-targue-de-ressembler-au-misanthrope</value>
+                                <value>#boileau-reproche-a-moliere-de-continuer-a-jouer</value>
+                                <value>#spectateurs-se-revoltent-contre-sort-dandin</value>
+                                <value>#bejart-role-boiteux</value>
+                                <value>#moliere-adapte-role-acteur-hubert</value>
+                                <value>#moliere-secourt-mondorge</value>
+                                <value>#moliere-sejourne-a-vienne</value>
+                                <value>#silence-moliere-societe</value>
+                                <value>#armande-donne-soufflet-a-baron</value>
+                                <value>#moliere-recoit-amis-souper-auteuil</value>
+                                <value>#moliere-au-supplice-diction-acteurs</value>
+                                <value>#moliere-lit-tartuffe-chez-ninon-de-lenclos-depot-cassettes</value>
+                                <value>#moliere-deconseille-metier-comedien</value>
+                                <value>#thebaide-jouee-en-province</value>
+                                <value>#domestique-detruit-traduction-lucrece</value>
+                                <value>#mousquetaires-provoquent-tumulte</value>
+                                <value>#valet-de-chambre-humilie-moliere</value>
+                                <value>#moliere-perd-valise-province</value>
+                                <value>#moliere-se-venge-des-limousins</value>
+                                <value>#moliere-tire-vers-misanthrope-saillie-boileau</value>
+                                <value>#original-marquis-tarte-creme-agresse-moliere</value>
+                                <value>#pere-obstacle-vocation</value>
+                                <value>#grand-pere-origine-vocation</value>
+                                <value>#amour-origine-vocation</value>
+                                <value>#moliere-se-venge-de-benserade</value>
+                                <value>#moliere-se-venge-de-sa-logeuse-par-satire-medecine</value>
+                                <value>#moliere-peint-medecins-d-apres-medecins-de-la-cour</value>
+                                <value>#spectatrice-deplore-que-amphitryon-enseigne-a-pecher</value>
+                                <value>#roi-adoube-beauval</value>
+                                <value>#moliere-tire-fluxion-harpagon-de-son-mal</value>
+                                <value>#moliere-adapte-role-bejart</value>
+                                <value>#moliere-peint-bourgeois-gentilhomme-d-apres-original</value>
+                                <value>#moliere-peint-lucile-d-apres-armande</value>
+                                <value>#ambassadeur-siam-commente-comedies</value>
+                                <value>#original-cocu-imaginaire-se-plaint</value>
+                                <value>#moliere-tire-scene-comtesse-escarbagnas-d-une-scene-chez-ninon</value>
+                                <value>#moliere-joue-devant-cour-1658</value>
+                                <value>#moliere-declare-qu-il-suffit-d-etudier-monde</value>
+                                <value>#moliere-tire-replique-tarte-a-la-creme-scandale-spectateur</value>
+                                <value>#moliere-a-envisage-de-traiter-sujet-visionnaires</value>
+                                <value>#chapelle-inspirateur-de-moliere</value>
+                                <value>#boileau-fournit-scene-trissotin-vadius</value>
+                                <value>#moliere-neutralise-original-dandin</value>
+                                <value>#moliere-tire-nom-fleurant-veritable-apothicaire</value>
+                                <value>#boileau-fournit-latin-macaronique</value>
+                                <value>#moliere-modifie-vers-malade-imaginaire</value>
+                                <value>#moliere-fait-bon-mot-jeu-beauval</value>
+                                <value>#moliere-tire-mariage-force-aventure-chevalier-grammont</value>
+                                <value>#rose-invente-chanson-pour-accuser-moliere-de-plagiat</value>
+                                <value>#moliere-tire-caractere-sganarelle-et-martine-couple-perruquier</value>
+                                <value>#moliere-programme-misanthrope-et-medecin-apres-echec</value>
+                                <value>#public-vexe-fait-mauvais-accueil-misanthrope</value>
+                                <value>#moliere-fait-allusion-libelle-dans-misanthrope</value>
+                                <value>#moliere-promet-mieux-apres-misanthrope</value>
+                                <value>#baron-demontre-efficacite-declamation-chanson-misanthrope</value>
+                                <value>#moliere-tire-misanthrope-piece-italienne</value>
+                                <value>#moliere-justifie-farces-par-interet-acteurs</value>
+                                <value>#moliere-fait-bon-mot-pere-maimbourg</value>
+                                <value>#moliere-tire-replique-pauvre-homme-d-un-mot-du-roi</value>
+                                <value>#moliere-tire-nom-tartuffe-scene-chez-nonce</value>
+                                <value>#moliere-declare-s-etre-repenti-d-avoir-ecrit-tartuffe</value>
+                                <value>#menage-fait-eloge-tartuffe-a-lamoignon</value>
+                                <value>#moliere-s-emporte-contre-armande-role-elmire</value>
+                                <value>#acteurs-tournent-en-derision-ordre-eveque-en-annoncant-tartuffe</value>
+                                <value>#corneille-incapable-expliquer-ses-vers</value>
+                                <value>#Voltaire-enfant-lit-amphitryon</value>
+                                <value>#roi-prusse-fait-eloge-misanthrope</value>
+                                <value>#comedien-armand-raconte-histoire-tartuffe</value>
+                                <value>#moliere-joue-cotin-sous-nom-tricotin</value>
+                                <value>#menage-refuse-de-croire-satire-femmes-savantes</value>
+                                <value>#bel-esprit-fait-bon-mot-sur-jeunes-auteurs</value>
+                                <value>#moliere-ne-peut-affronter-tonitruant-fourcroy</value>
+                                <value>#moliere-tire-scene-vadius-trissotin-dispute-cotin-menage</value>
+                                <value>#malouin-impute-mort-moliere-satire-medecine</value>
+                                <value>#boileau-reproche-a-moliere-jargon-paysan</value>
+                                <value>#moliere-pousse-brouette-et-se-couvre-de-boue</value>
+                                <value>#moliere-refuse-supprimer-trait-comique-flandrin</value>
+                                <value>#moliere-affirme-primat-justesse-sur-perfection</value>
+                                <value>#moliere-meilleur-predicateur-que-joly</value>
+                                <value>#moliere-peint-timante-d-apres-saint-gilles</value>
+                                <value>#moliere-peint-bourgeois-gentilhomme-d-apres-gandouin</value>
+                                <value>#baron-defend-moliere-en-denigrant-racine</value>
+                                <value>#moliere-observe-assis-dans-coche</value>
+                                <value>#moliere-dit-que-lutin-souffle-vers-a-corneille</value>
+                                <value>#boileau-surnomme-moliere-contemplateur</value>
+                                <value>#roi-donne-sujet-amants-magnifiques</value>
+                                <value>#moliere-tire-scene-Harpagon-Cleante-aventure-Malon-de-Bercy-et-fils</value>
+                                <value>#armande-se-jette-aux-pieds-roi-pour-sepulture</value>
+                                <value>#armande-et-baron-changent-aversion-en-desir</value>
+                                <value>#moliere-interrompu-dans-lecture-tartuffe-chez-dame-janseniste</value>
+                                <value>#moliere-tire-replique-don-juan-reponse-prince-allemagne</value>
+                                <value>#moliere-peint-tartuffe-d-apres-abbe-pons</value>
+                                <value>#moliere-peint-george-dandin-d-apres-sellier-rue-montorgueil</value>
+                                <value>#moliere-tire-scene-malade-imaginaire-dialogue-colletet-et-fils</value>
+                                <value>#acteur-kemble-refuse-appartenance-moliere-France</value>
+                                <value>#moliere-peint-don-juan-d-apres-grignan</value>
+                                <value>#sillery-regrette-de-n-avoir-pas-donne-portrait-avare-a-moliere</value>
+                                <value>#moliere-tire-histoire-agnes-de-celle-d-armande</value>
+                                <value>#lamoignon-reproche-defendre-religion</value>
+                                <value>#moliere-exclu-genealogie-famille</value>
+                                <value>#moliere-peint-leonor-d-apres-armande</value>
+                                <value>#moliere-et-ami-echangent-profession</value>
+                                <value>#moliere-approuve-vers-boileau</value>
+                                <value>#moliere-fait-aparte-sur-la-fontaine</value>
+                                <value>#moliere-deni-justice-la-fontaine</value>
+                                <value>#moliere-fait-bruler-exemplaires-apologie-misanthrope</value>
+                                <value>#avare-tire-principes-economie-d-harpagon</value>
+                                <value>#moliere-veut-tirer-comedie-aventure-medecin-et-barbier</value>
+                                <value>#moliere-eleve-scaramouche</value>
+                </choice>
           </attribute>
+          </group>
         </choice>
       </element>
     </define>
@@ -658,3 +656,4 @@
 
 
 </grammar>
+                
