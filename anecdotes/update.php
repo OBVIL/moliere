@@ -50,9 +50,6 @@ foreach ($anecdotes as $anecdote) {
     $note = $anecdote->getElementsByTagName("note");
     $data[] = $array[$anecdote_id]["note"] = $note = ($note->length > 0) ? title_transform($note->item(0)) : "";
     $data[] = 0;
-    $data[] = 3000;
-    $data[] = NULL;
-    $data[] = NULL;
     $data[] = NULL;
 
     //anecdotes
@@ -62,14 +59,8 @@ foreach ($anecdotes as $anecdote) {
         short_title,
         note,
         occ_n,
-        first_occ,
-        first_occ_lastname,
-        first_occ_title,
-        first_occ_author
+        first_occ
     ) VALUES (
-        ?,
-        ?,
-        ?,
         ?,
         ?,
         ?,
@@ -123,6 +114,7 @@ $schema = ob_get_clean();
 file_put_contents("anecdotes.rng", $schema);
 $books = explode("\n", file_get_contents("data/corpus.txt"));
 $array = array();
+$dates = array();
 
 //auteur, titre, date
 foreach ($books as $book) {
@@ -180,6 +172,17 @@ foreach ($books as $book) {
         $data[] = $book_id . "_" . $anecdote["id"];
         $data[] = $anecdote["id"];
         $data[] = $book_id;
+        
+        if (!isset($dates[$anecdote["id"]])) {
+            $dates[$anecdote["id"]]["book"] = $book_id;
+            $dates[$anecdote["id"]]["date"] = $date;
+        } else {
+            
+            if ($dates[$anecdote["id"]]["date"] > $date) {
+                $dates[$anecdote["id"]]["book"] = $book_id;
+                $dates[$anecdote["id"]]["date"] = $date;
+            }
+        }
         $comment_before = "";
         $comment_after = "";
         foreach ($comments as $comment) {
@@ -226,15 +229,22 @@ foreach ($books as $book) {
         insert($sql, $db, $data);
         $sql = "UPDATE anecdotes SET occ_n = occ_n +1 WHERE id = '" . $anecdote["id"] . "'";
         insert($sql, $db);
-        $sql = "UPDATE anecdotes SET first_occ = ".$date .", first_occ_lastname = '".$lastname."', first_occ_title= '".$title."', first_occ_author ='".$author."' WHERE id = '" . $anecdote["id"] . "' AND first_occ > " . $date;
+
+        //$sql = "UPDATE anecdotes SET first_occ = ".$date .", first_occ_lastname = '".$lastname."', first_occ_title= '".$title."', first_occ_author ='".$author."' WHERE id = '" . $anecdote["id"] . "' AND first_occ > " . $date;
         
+        //$sql = "UPDATE anecdotes SET anecdotes.first_occ = '".$book_id."' WHERE anecdotes.id = '".$anecdote["id"]."' AND
+
+        
+        //((SELECT books.date FROM books WHERE books.id = anecdotes.first_occ) > ".$date.")";
+
+        $sql = "UPDATE anecdotes SET first_occ = '" . $dates[$anecdote["id"]]["book"] . "' WHERE id = '" . $anecdote["id"] . "'";
         insert($sql, $db);
         $sql = "UPDATE books SET occ_n = occ_n +1 WHERE id = '" . $book_id . "'";
         insert($sql, $db);
     }
 }
-$sql = "UPDATE anecdotes SET first_occ = NULL, first_occ_lastname = NULL, first_occ_title = NULL, first_occ_author = NULL WHERE first_occ = 3000";
-insert($sql, $db);
+//$sql = "UPDATE anecdotes SET first_occ = NULL, first_occ_lastname = NULL, first_occ_title = NULL, first_occ_author = NULL WHERE first_occ = 3000";
+//insert($sql, $db);
 $string = "";
 $sql = "SELECT id, lastname, title FROM books ORDER BY lastname ASC";
 $options = mselect($sql, $db);
@@ -257,7 +267,7 @@ foreach ($options as $option) {
     $string.= '<option value="' . $option["id"] . '">' . $name . '</option>';
 }
 file_put_contents("tpl/keywords.html", $string);
-
+print_r($dates);
 //$options .= '<option value='.$book_id.''.$title.'>';
 
 //form

@@ -64,11 +64,11 @@
                                         <td class="count <?php echo $anecdote["id"]; ?> tooltip" title="Nombre d'occurrences">
                                             <?php echo $anecdote["occ_n"]; ?>
                                         </td>
-                                        <td class="first-author <?php echo $anecdote["id"]; ?> tooltip" title="Première occurrence dans <?php echo $anecdote["first_occ_author"]; ?>, <i><?php echo $anecdote["first_occ_title"]; ?></i>">
-                                            <?php echo $anecdote["first_occ_lastname"]; ?>
+                                        <td class="first-author <?php echo $anecdote["id"]; ?> tooltip" title="Première occurrence dans <?php echo $anecdote["author"]; ?>, <i><?php echo $anecdote["first_occ_title"]; ?></i>">
+                                            <?php echo $anecdote["lastname"]; ?>
                                         </td>
                                         <td class="first-date <?php echo $anecdote["id"]; ?> tooltip" title="Date de la première occurrence">
-                                            <?php echo $anecdote["first_occ"]; ?>
+                                            <?php echo $anecdote["date"]; ?>
                                         </td>
                                         <?php foreach($books as $book){
                                                 $sql = "SELECT * FROM occurrences WHERE book = '".$book["id"]."' AND anecdote = '".$anecdote["id"]."'";

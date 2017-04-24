@@ -17,9 +17,6 @@ CREATE TABLE anecdotes(
 	short_title		TEXT,
 	note			TEXT,		-- note critique dans references.xml
 	first_occ		TEXT,
-	first_occ_lastname TEXT,
-	first_occ_title 	TEXT,
-	first_occ_author	TEXT,
 	occ_n			INTEGER
 );
 CREATE UNIQUE INDEX anecdotes_id on anecdotes(id);

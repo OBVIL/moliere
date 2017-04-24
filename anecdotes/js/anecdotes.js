@@ -10,8 +10,8 @@ $(document).ready(function() {
     // also has a 'types' property defining the columns data type. If the
     // 'types' property is not defined, the sorting extension will check for
     // 'col_number_format' and 'col_date_type' properties.
-    extensions: [{ name: 'sort' }]
-};
+            extensions: [{ name: 'sort' }]
+    };
 	var tf = new TableFilter('anecdotes', tfConfig);
         tf.init();
             $(".tooltip").tipsy({
