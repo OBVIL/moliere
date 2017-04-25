@@ -1,4 +1,4 @@
-<form method="post" >
+ï»¿<form method="post" >
 
 <p>Rechercher</p>
 <select name="content type">
@@ -15,13 +15,13 @@
 <select name="book">
 <?php include 'books.html';?>
 </select></br>
-<p>Mots clés</p>
+<p>Mots clÃ©s</p>
 <select name="keyword">
 <?php include 'keywords.html';?>
 </select></br>
 <p>De</p>
 <input type="text date" placeholder="AAAA" maxlength="4" value="1705"/>
-<p>à</p>
+<p>Ã </p>
 <input type="text date" placeholder="AAAA" maxlength="4" value="1919"/>
 </select></br>
 <input type="submit" value="Valider" />
