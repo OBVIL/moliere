@@ -9,20 +9,24 @@
 <input type="text" name="content"/>
 <p>Anecdote</p>
 <select name="anecdote">
+<option value=""></option>
 <?php include 'anecdotes.html';?>
-</select></br>
+</select>
 <p>Source</p>
 <select name="book">
+<option value=""></option>
 <?php include 'books.html';?>
-</select></br>
+</select>
 <p>Mots clés</p>
 <select name="keyword">
+<option value=""></option>
 <?php include 'keywords.html';?>
-</select></br>
+</select>
 <p>De</p>
-<input type="text date" placeholder="AAAA" maxlength="4" value="1705"/>
+ 
+<input type="text date" placeholder="AAAA" maxlength="4" value="1705" name="date"/>
 <p>à</p>
-<input type="text date" placeholder="AAAA" maxlength="4" value="1919"/>
+<input type="text date" placeholder="AAAA" maxlength="4" value="1919" name="date"/>
 </select></br>
 <input type="submit" value="Valider" />
 </form>
