@@ -24,9 +24,9 @@
 </select>
 <p>De</p>
  
-<input type="text date" placeholder="AAAA" maxlength="4" value="1705" name="date"/>
+<input type="text date" placeholder="AAAA" maxlength="4" value="1705" name="before"/>
 <p>à</p>
-<input type="text date" placeholder="AAAA" maxlength="4" value="1919" name="date"/>
+<input type="text date" placeholder="AAAA" maxlength="4" value="1919" name="after"/>
 </select></br>
 <input type="submit" value="Valider" />
 </form>
