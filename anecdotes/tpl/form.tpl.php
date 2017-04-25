@@ -7,12 +7,12 @@
 <option value="les-deux">Dans les deux</option>
 </select>
 <input type="text" name="content"/>
-<p>Anecdote</p>
+<p>Titre de l'anecdote</p>
 <select name="anecdotes[]" multiple>
 <option value=""></option>
 <?php include 'anecdotes.html';?>
 </select>
-<p>Source</p>
+<p>Titre de l'ouvrage</p>
 <select name="books[]" multiple>
 <option value=""></option>
 <?php include 'books.html';?>

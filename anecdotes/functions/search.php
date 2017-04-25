@@ -2,8 +2,22 @@
 
 function search($db) {
 
-    $sql = "SELECT id FROM occurrences";
-    $sql.= " WHERE book IN (SELECT id FROM books WHERE date > " . $_POST["after"] . " AND date < " . $_POST["before"] . ")";
+    $sql = "SELECT
+    occurrences.id AS occurrences_id,
+    occurrences.content AS content,
+    occurrences.comment_before AS comment_before,
+    occurrences.comment_after AS comment_after,
+    books.id AS book_id,
+    books.date AS date,
+    books.author AS author,
+    books.lastname AS lastname,
+    books.title AS book_title,
+    anecdotes.id AS anecdote_id,
+    anecdotes.title AS anecdote_title,
+    anecdotes.short_title AS anecdote_short_title
+    FROM occurrences, books, anecdotes";
+    $sql .= " WHERE books.id = occurrences.book AND anecdotes.id = occurrences.anecdote";
+    $sql .= " AND occurrences.book IN (SELECT books.id FROM books WHERE books.date > " . $_POST["after"] . " AND books.date < " . $_POST["before"] . ")";
     
     if ($_POST["content"]) {
         
@@ -33,5 +47,6 @@ function search($db) {
     }
     $results = mselect($sql, $db);
     return $results;
+//totalement vulnérable aux injections !
 }
 ?>
