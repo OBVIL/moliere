@@ -43,10 +43,13 @@
             include ("functions/get_all.php");
             include ("functions/search.php");
             $db = connect();
-            //include ("tpl/form.tpl.php");
+            include ("tpl/form.tpl.php");
             if (isset($_POST["post"])) {
+                echo "<pre>";
+                print_r($_POST);
                 $results = search($db);
-                include("tpl/results.tpl.php");
+                print_r($results);
+                //include("tpl/results.tpl.php");
             } else {
                 $data = get_all($db);
                 $books = $data[0];
