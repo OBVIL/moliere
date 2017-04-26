@@ -14,7 +14,8 @@
 	echo "<br/>";
 
 	print_r($result ['anecdote_id']);
-	}?>
+	}
+?>
 </td>
 </tr>
 </tbody>
