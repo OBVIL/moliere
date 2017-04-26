@@ -10,7 +10,7 @@
 <?php foreach($results as $result){
 	echo "<br/>";
 
-	print_r($result ['content']);
+	print_r($result ['anecdote_id']);
 	}?>
 
 </tbody>
