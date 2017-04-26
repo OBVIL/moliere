@@ -8,13 +8,31 @@
 
 <tbody>
 
-<tr <?php foreach($results as $result){
+<tr>
+<td class="anecdote <?php foreach($results as $result){
 	echo "<br/>";
 
 	print_r($result ['anecdote_id']);
-	}?>>
+	}?>">
+</td>
+<td class="book <?php foreach($results as $result){
+	echo "<br/>";
 
-	</tr>
+	print_r($result ['book']);
+	}?>">
+</td>
+<td class="date <?php foreach($results as $result){
+	echo "<br/>";
+
+	print_r($result ['date']);
+	}?>">
+</td>
+<td class="content <?php foreach($results as $result){
+	echo "<br/>";
+
+	print_r($result ['content']);
+	}?>">
+</td>
 </tr>
 </tbody>
 </table>
