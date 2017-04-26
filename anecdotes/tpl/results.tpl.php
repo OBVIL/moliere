@@ -9,11 +9,11 @@
 <tbody>
 <tr class="result" >
 <?php foreach($results as $result){?>
-<td class="anecdote"> <?php 
+<td class="anecdote <?php 
 	echo "<br/>";
 	
 	print_r($result ['anecdote_id']);
-	}?>
+	}?>">
 </td>
 <?php foreach($results as $result){?>
 <td class="book <?php 
