@@ -13,8 +13,7 @@
 	echo "<br/>";
 	
 	print_r($result ['anecdote_id']);
-	}?>"
-	>
+	}?>">
 </td>
 <td class="book <?php
 	echo "<br/>";
