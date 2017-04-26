@@ -20,7 +20,7 @@
 <td class="book <?php 
 	echo "<br/>";
 
-	print_r($result ['book']);
+	print_r($result ['book_id']);
 	}?>">
 </td>
 <?php foreach($results as $result){?>
