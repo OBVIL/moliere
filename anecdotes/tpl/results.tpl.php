@@ -8,8 +8,8 @@
 
 <tbody>
 <tr class="result">
-<?php foreach($results as $result)?>
-<td class="anecdote <?php 
+
+<td class="anecdote <?php foreach($results as $result){
 	echo "<br/>";
 	
 	print_r($result ['anecdote_id']);
@@ -24,7 +24,7 @@
 <td class="date <?php foreach($results as $result){
 	echo "<br/>";
 
-	print_r($result ['date']);
+	print_r($result['date']);
 	}?>">
 </td>
 <td class="content <?php foreach($results as $result){
