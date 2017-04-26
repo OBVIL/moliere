@@ -45,11 +45,8 @@
             $db = connect();
             include ("tpl/form.tpl.php");
             if (isset($_POST["post"])) {
-                echo "<pre>";
-                print_r($_POST);
                 $results = search($db);
-                print_r($results);
-                //include("tpl/results.tpl.php");
+                include("tpl/results.tpl.php");
             } else {
                 $data = get_all($db);
                 $books = $data[0];
