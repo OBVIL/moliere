@@ -7,7 +7,7 @@
 </thead>
 
 <tbody>
-<?php foreach($results as $result)?>
+<?php foreach($results as $result){?>
 <tr class="result" >
 <?php foreach($results as $result){?>
 <td class="anecdote <?php 
