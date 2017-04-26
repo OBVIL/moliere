@@ -7,11 +7,11 @@
 </thead>
 
 <tbody>
-
+<?php foreach($results as $result)?>
 <tr>
 <td class="anecdote <?php foreach($results as $result){
 	echo "<br/>";
-
+	
 	print_r($result ['anecdote_id']);
 	}?>">
 </td>
