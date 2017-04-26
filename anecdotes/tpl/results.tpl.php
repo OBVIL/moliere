@@ -13,21 +13,22 @@
 	echo "<br/>";
 	
 	print_r($result ['anecdote_id']);
-	}?>">
+	}?>"
+	>
 </td>
-<td class="book <?php foreach($results as $result){
+<td class="book <?php
 	echo "<br/>";
 
 	print_r($result ['book']);
 	}?>">
 </td>
-<td class="date <?php foreach($results as $result){
+<td class="date <?php
 	echo "<br/>";
 
 	print_r($result['date']);
 	}?>">
 </td>
-<td class="content <?php foreach($results as $result){
+<td class="content <?php
 	echo "<br/>";
 
 	print_r($result ['content']);
