@@ -8,9 +8,7 @@
 
 <tbody>
 
-<tr <?php foreach($results as $result){?>>
-<td
-<?php foreach($results as $result){
+<tr <?php foreach($results as $result){
 	echo "<br/>";
 
 	print_r($result ['anecdote_id']);
