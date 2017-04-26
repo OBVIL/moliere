@@ -9,32 +9,33 @@
 <tbody>
 <tr class="result" >
 <?php foreach($results as $result){?>
-<td class="anecdote <?php 
+<td class="anecdote">
+<?php 
 	echo "<br/>";
 	
 	print_r($result ['anecdote_id']);
-	}?>">
+	}?>
 </td>
 <?php foreach($results as $result){?>
-<td class="book <?php 
+<td class="book"> <?php 
 	echo "<br/>";
 
 	print_r($result ['book_id']);
-	}?>">
+	}?>
 </td>
 <?php foreach($results as $result){?>
-<td class="date <?php 
+<td class="date"> <?php 
 	echo "<br/>";
 
 	print_r($result['date']);
-	}?>">
+	}?>
 </td>
 <?php foreach($results as $result){?>
-<td class="content <?php 
+<td class="content"> <?php 
 	echo "<br/>";
 
 	print_r($result ['content']);
-	}?>">
+	}?>
 </td>
 </tr>
 </tbody>
