@@ -8,8 +8,8 @@
 
 
 <tbody>
-<tr class="result" >
 <?php foreach($results as $result){?>
+<tr class="result" >
 <td class="anecdote">
 <?php 
 	echo "<br/>";
@@ -39,5 +39,6 @@
 	}?>
 </td>
 </tr>
+<?php } ?>
 </tbody>
 </table>
