@@ -6,39 +6,16 @@
 <th class="content" >Contenu de l'anecdote</th>
 </thead>
 
-
 <tbody>
-<?php foreach($results as $result){?>
-<tr class="result" >
-<td class="anecdote">
-<?php 
-	echo "<br/>";
-	
-	print_r($result ['anecdote_id']);
-	}?>
-</td>
-<?php foreach($results as $result){?>
-<td class="book"> <?php 
-	echo "<br/>";
-
-	print_r($result ['book_id']);
-	}?>
-</td>
-<?php foreach($results as $result){?>
-<td class="date"> <?php 
-	echo "<br/>";
-
-	print_r($result['date']);
-	}?>
-</td>
-<?php foreach($results as $result){?>
-<td class="content"> <?php 
-	echo "<br/>";
-
-	print_r($result ['content']);
-	}?>
-</td>
+<?php foreach($results as $result){ ?>
+<tr>
+<td> <?php echo $result ['anecdote_id'];?></td>
+<td><?php echo $result ['book_id'];?></td>
+<td><?php echo $result ['date'];?></td>
+<td><?php echo $result ['content'];?></td>
 </tr>
 <?php } ?>
 </tbody>
+
+
 </table>
