@@ -6,6 +6,7 @@
 <th class="content" >Contenu de l'anecdote</th>
 </thead>
 
+
 <tbody>
 <tr class="result" >
 <?php foreach($results as $result){?>
