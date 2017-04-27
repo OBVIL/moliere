@@ -17,5 +17,23 @@
 <?php } ?>
 </tbody>
 
+<tbody>
+<tr>
+<?php foreach($results as $result){ ?>
+<td>
+<?php echo $result ['anecdote_id'];?>
+</td>
+<td> <?php 
+	echo $result ['book_id'];?>
+</td>
+<td> <?php 
+	echo $result['date'];?>
+</td>
+<td> <?php echo $result ['content'];?>
+</td>
+<?php } ?>
+</tr>
+</tbody>
+
 
 </table>
