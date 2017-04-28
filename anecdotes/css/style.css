@@ -186,7 +186,7 @@ width: 150px;
 vertical-align: top;
 }
 
-select[name="anecdotes[]"]
+h2, select[name="anecdotes[]"]
 {
 display: inline-block;
 margin-left: 300px;
