@@ -199,8 +199,5 @@ vertical-align: top;
 }
 select[name="books[]"]
 {
-display: inline-block;
-width: 150px;
-margin-left: 350px;
-vertical-align: top;
+width: 250px;
 }
