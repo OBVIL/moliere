@@ -8,7 +8,7 @@
 </select>
 <input type="text" name="content"/>
 
-<p class="anecdote_title">Titre de l'anecdote</p>
+<p class="form-title">Titre de l'anecdote</p>
 <select name="anecdotes[]" multiple>
 <option value=""></option>
 <?php include 'anecdotes.html';?>

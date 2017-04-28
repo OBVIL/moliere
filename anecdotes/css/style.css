@@ -185,8 +185,13 @@ display: inline-block;
 width: 150px;
 vertical-align: top;
 }
-
-.form-title, select[name="anecdotes[]"]
+p[class="form-title"]
+{
+display: inline-block;
+margin-left: 300px;
+vertical-align: top;
+}
+select[name="anecdotes[]"]
 {
 display: inline-block;
 margin-left: 300px;
