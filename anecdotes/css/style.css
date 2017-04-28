@@ -178,3 +178,14 @@ thead tr td:nth-child(1) {width:440px !important;}
 thead tr td:nth-child(2) {width:20px !important;}
 thead tr td:nth-child(3)  {width:120px !important;}
 thead tr td:nth-child(4)  {width:100px !important;}*/
+
+select[name="content_type"]
+{
+float: left;
+width: 150px;
+}
+
+select[name="anecdotes[]"]
+{
+margin-left: 170px;
+}
