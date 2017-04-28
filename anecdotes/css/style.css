@@ -179,25 +179,4 @@ thead tr td:nth-child(2) {width:20px !important;}
 thead tr td:nth-child(3)  {width:120px !important;}
 thead tr td:nth-child(4)  {width:100px !important;}*/
 
-select[name="content_type"], input[type="text"]
-{
-display: inline-block;
-width: 120px;
-vertical-align: top;
-}
-p[class="form-title"]
-{
-display: inline-block;
-margin-left: 200px;
-vertical-align: top;
-}
-select[name="anecdotes[]"]
-{
-display: inline-block;
-margin-left: 200px;
-vertical-align: top;
-}
-select[name="books[]"]
-{
-width: 250px;
-}
+.field {display:inline;}
