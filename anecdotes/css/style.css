@@ -188,12 +188,19 @@ vertical-align: top;
 p[class="form-title"]
 {
 display: inline-block;
-margin-left: 300px;
+margin-left: 280px;
 vertical-align: top;
 }
 select[name="anecdotes[]"]
 {
 display: inline-block;
-margin-left: 300px;
+margin-left: 280px;
+vertical-align: top;
+}
+select[name="books[]"]
+{
+display: inline-block;
+width: 150px;
+margin-left: 350px;
 vertical-align: top;
 }
