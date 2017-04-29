@@ -9,8 +9,8 @@
 <tbody>
 <?php foreach($results as $result){ ?>
 <tr>
-<td> <?php echo $result ['anecdote_id'];?></td>
-<td><?php echo $result ['book_id'];?></td>
+<td class="div-open-document"><a href="<?php echo $book["path"]; ?>#<?php echo $result["anecdote-title"]; ?>" title="Retour au texte"> <?php echo $result ['anecdote_title'];?></td>
+<td><?php echo $result ['book_title'];?></td>
 <td><?php echo $result ['date'];?></td>
 <td><?php echo $result ['content'];?></td>
 </tr>

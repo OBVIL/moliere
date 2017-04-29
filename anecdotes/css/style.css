@@ -179,4 +179,23 @@ thead tr td:nth-child(2) {width:20px !important;}
 thead tr td:nth-child(3)  {width:120px !important;}
 thead tr td:nth-child(4)  {width:100px !important;}*/
 
-.field {display:inline;}
+div.field {
+display:inline-block;
+vertical-align:top;
+margin:10px;}
+
+select {
+ width: 250px;  
+}
+select[name="content_type"], select[name="keywords[]"] {
+ width: 170px;  
+}
+select[name="anecdotes[]"], select[name="books[]"] {
+ width: 250px;  
+}
+input name="content_type"] {
+ margin: 5px;
+}
+.result-anecdote{
+    width:150px;
+}

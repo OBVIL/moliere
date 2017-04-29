@@ -39,9 +39,13 @@
 <input type="text date" placeholder="AAAA" maxlength="4" value="1705" name="after"/>
 <p>à</p>
 <input type="text date" placeholder="AAAA" maxlength="4" value="1919" name="before"/>
-</select></br>
+</select>
+</div>
+
+<div class="field">
 <input type="hidden" name="post"/>
 <input type="submit" value="Valider" />
 </div>
+
 
 </form>
