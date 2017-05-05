@@ -28,7 +28,7 @@
       <textClass>
         <keywords>
           <term xml:id="Satire">Satire</term>
-          <term xml:id="Cles"/>
+          <term xml:id="Cles">Clés</term>
           <term xml:id="Naturel"/>
           <term xml:id="Cotin"/>
           <term xml:id="Les_femmes_savantes">Les Femmes savantes</term>
@@ -36,28 +36,28 @@
           <term xml:id="Armande"/>
           <term xml:id="Eloge"/>
           <term xml:id="Piron"/>
-          <term xml:id="Le_Tartuffe"/>
-          <term xml:id="Clés"/>
+          <term xml:id="Le_Tartuffe">Le Tartuffe</term>
+          <term xml:id="Cles">Clés</term>
           <term xml:id="Mademoiselle"/>
           <term xml:id="Lauzun"/>
-          <term xml:id="Louis_XIV"/>
-          <term xml:id="Les_amants_magnifiques"/>
+          <term xml:id="Louis_XIV">Louis XIV</term>
+          <term xml:id="Les_amants_magnifiques">Les Amants magnifiques</term>
           <term xml:id="Acteur"/>
           <term xml:id="Jalousie"/>
-          <term xml:id="De_Brie"/>
+          <term xml:id="De_Brie">De Brie</term>
           <term xml:id="Enterrement"/>
-          <term xml:id="Mepris"/>
-          <term xml:id="Generosite"/>
+          <term xml:id="Mepris">Mépris</term>
+          <term xml:id="Generosite">Générosité</term>
           <term xml:id="Contemplateur"/>
-          <term xml:id="Don_Juan"/>
+          <term xml:id="Don_Juan">Don Juan</term>
           <term xml:id="Sagesse"/>
-          <term xml:id="Intimite"/>
+          <term xml:id="Intimite">Intimité</term>
           <term xml:id="Mariage"/>
           <term xml:id="Boileau"/>
           <term xml:id="Racine"/>
-          <term xml:id="L_Avare"/>
+          <term xml:id="L_Avare">L'Avare</term>
           <term xml:id="Rohault"/>
-          <term xml:id="Bourgeois-gentilhomme"/>
+          <term xml:id="Bourgeois-gentilhomme">Le Bourgeois gentilhomme</term>
         </keywords>
       </textClass>
     </profileDesc>
@@ -74,7 +74,7 @@
       <div ana="#Eloge #Piron #Le_Tartuffe" type="anecdote" xml:id="piron-admire-tartuffe">
         <head>Piron exprime son admiration pour <hi rend="i">Le Tartuffe</hi></head>
       </div>
-      <div ana="#Satire #Clés #Naturel #Mademoiselle #Lauzun #Louis_XIV #Les_amants_magnifiques" type="anecdote" xml:id="moliere-fait-allusion-amours-mademoiselle">
+      <div ana="#Satire #Cles #Naturel #Mademoiselle #Lauzun #Louis_XIV #Les_amants_magnifiques" type="anecdote" xml:id="moliere-fait-allusion-amours-mademoiselle">
         <head>Molière fait allusion aux amours de Mademoiselle dans <hi rend="i">Les Amants magnifiques</hi></head>
       </div>
       <div ana="#Acteur #Jalousie #De_Brie" type="anecdote" xml:id="moliere-donne-roles-antipathiques-a-de-brie">
