@@ -8,6 +8,7 @@ function search($db) {
     occurrences.comment_before AS comment_before,
     occurrences.comment_after AS comment_after,
     books.id AS book_id,
+    books.path AS book_path,
     books.date AS date,
     books.author AS author,
     books.lastname AS lastname,
