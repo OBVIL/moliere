@@ -9,7 +9,7 @@
 <tbody>
 <?php foreach($results as $result){ ?>
 <tr>
-<td class="div-open-document"><a href="<?php echo $book['path']; ?>" title="Afficher l'anecdote dans son contexte"> <?php echo $result ['anecdote_title'];?></a> </td>
+<td class="div-open-document"><a href="<?php echo $result['book_path']; ?>#<?php echo $result['anecdote_id']; ?>" title="Afficher l'anecdote dans son contexte"> <?php echo $result ['anecdote_title'];?></a> </td>
 <td><?php echo $result ['book_title'];?></td>
 <td><?php echo $result ['date'];?></td>
 <td><?php echo $result ['content'];?></td>
