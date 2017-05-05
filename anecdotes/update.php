@@ -253,10 +253,10 @@ foreach ($options as $option) {
 }
 file_put_contents("tpl/books.html", $string);
 $string = "";
-$sql = "SELECT id, short_title FROM anecdotes ORDER BY short_title ASC";
+$sql = "SELECT id, title FROM anecdotes ORDER BY title ASC";
 $options = mselect($sql, $db);
 foreach ($options as $option) {
-    $string.= '<option value="' . $option["id"] . '">' . $option["short_title"] . '</option>';
+    $string.= '<option value="' . $option["id"] . '">' . $option["title"] . '</option>';
 }
 file_put_contents("tpl/anecdotes.html", $string);
 $string = "";
