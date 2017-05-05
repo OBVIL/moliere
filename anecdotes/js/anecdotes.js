@@ -33,8 +33,10 @@ $(".tooltip").tipsy({
 		}]
 	};
 	if ($(".results")[0]) {
+/*
 	var tf = new TableFilter('results', tfConfig2);
 	tf.init();
+*/
 	} else {
 var tf = new TableFilter('anecdotes', tfConfig1);
 tf.init();
