@@ -260,7 +260,7 @@ foreach ($options as $option) {
 }
 file_put_contents("tpl/anecdotes.html", $string);
 $string = "";
-$sql = "SELECT id, name FROM keywords ORDER BY name ASC";
+$sql = "SELECT id, name FROM keywords ORDER BY id ASC";
 $options = mselect($sql, $db);
 foreach ($options as $option) {
     $name = $option["name"] ? $option["name"] : $option["id"];

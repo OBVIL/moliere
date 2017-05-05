@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+<TEI xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -37,7 +37,6 @@
           <term xml:id="Eloge"/>
           <term xml:id="Piron"/>
           <term xml:id="Le_Tartuffe">Le Tartuffe</term>
-          <term xml:id="Cles">Clés</term>
           <term xml:id="Mademoiselle"/>
           <term xml:id="Lauzun"/>
           <term xml:id="Louis_XIV">Louis XIV</term>
