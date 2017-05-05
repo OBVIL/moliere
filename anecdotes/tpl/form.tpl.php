@@ -11,7 +11,7 @@
 </div>
 
 <div class="field">
-<p class="form-title">Titre de l'anecdote</p>
+<p class="form-title">Anecdote</p>
 <select name="anecdotes[]" multiple>
 <option value=""></option>
 <?php include 'anecdotes.html';?>
@@ -19,7 +19,7 @@
 </div>
 
 <div class="field">
-<p>Titre de l'ouvrage</p>
+<p>Auteur</p>
 <select name="books[]" multiple>
 <option value=""></option>
 <?php include 'books.html';?>

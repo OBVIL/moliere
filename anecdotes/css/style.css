@@ -98,7 +98,8 @@ thead div{
     color: grey;
 }
 
-a{color: #ac1a2f;}
+a{color: #ac1a2f;
+text-decoration:none;}
 /*gris, police, centrer*/
 
 .book-detail{
