@@ -135,11 +135,11 @@ td.first-author{width: 30px;}
 th.book-author{width:20px !important;}
 th.anecdotes-count, th.book-date{width:20px !important;}
 .anecdotes td.fltrow, .ancedotes th{width:20px !important;}
-.matrix input{width:14px !important;}
-.fltrow td{max-width:20px !important;}
-tr.fltrow td:nth-child(1) input{width:98% !important;}
-tr.fltrow td:nth-child(3) input{width:92% !important;}
-tr.fltrow td:nth-child(4) input{width:87% !important;}
+.anecdotes  .matrix input{width:14px !important;}
+.anecdotes .fltrow td{max-width:20px !important;}
+.anecdotes  tr.fltrow td:nth-child(1) input{width:98% !important;}
+.anecdotes  tr.fltrow td:nth-child(3) input{width:92% !important;}
+.anecdotes  tr.fltrow td:nth-child(4) input{width:87% !important;}
 tr.book-author th.no-border, div.th-container{text-align: center;}
 .logo img{width:150px;margin-bottom: 20px;}
 #trigger-info, #view-matrix, #view-detail{margin-right:10px;float: right;}
