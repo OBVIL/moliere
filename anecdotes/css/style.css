@@ -133,7 +133,7 @@ td.anecdote-title{width:420px;}
 td.first-author{width: 30px;}
 th.book-author{width:20px !important;}
 th.anecdotes-count, th.book-date{width:20px !important;}
-.anecdotes td.fltrow, th{width:20px !important;}
+.anecdotes td.fltrow, .anecdotes th{width:20px !important;}
 .matrix input{width:14px !important;}
 .fltrow td{max-width:20px !important;}
 tr.fltrow td:nth-child(1) input{width:98% !important;}
