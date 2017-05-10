@@ -47,8 +47,6 @@ include ("tpl/form.tpl.php");
 
 if (isset($_POST["post"])) {
     $results = search($db);
-	
-	
     if (count($results) > 0) {
 	include ("tpl/results.tpl.php");
     } else {
