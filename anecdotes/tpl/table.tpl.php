@@ -79,7 +79,7 @@
                                             <div class="container" style="display: none;">
                                                 <div class="comment-before comment" style="display: none;"><?php echo $occurrence["comment_before"]; ?></div>
                                                 <div class="core"><p><?php echo $occurrence["content"]; ?></p></div>
-                                                <div class="comment-after comment" style="display: none;"><?php echo $occurrence["comment_before"]; ?></div>
+                                                <div class="comment-after comment" style="display: none;"><?php echo $occurrence["comment_after"]; ?></div>
                                                 <a href="<?php echo $book["path"]; ?>#<?php echo $anecdote["id"]; ?>" target="_blank" class="tooltip open-anecdote" title="Afficher l'anecdote dans son contexte"><i class="fa fa-file"></i></a>
                                             </div>
                                         </td>
