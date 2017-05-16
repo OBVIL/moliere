@@ -200,3 +200,5 @@ input name="content_type"] {
 .result-anecdote{
     width:150px;
 }
+#anecdotes{margin:auto;}
+form{margin:auto;}
