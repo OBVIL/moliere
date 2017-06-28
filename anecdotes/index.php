@@ -57,6 +57,7 @@ if (isset($_POST["post"])) {
     $books = $data[0];
     $anecdotes = $data[1];
     include ("tpl/table.tpl.php");
+    //include("viz/afc.php");
 }
 ?>
     </body>
