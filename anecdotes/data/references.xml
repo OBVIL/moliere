@@ -32,31 +32,59 @@
           <term xml:id="Naturel"/>
           <term xml:id="Cotin"/>
           <term xml:id="Les_femmes_savantes">Les Femmes savantes</term>
+          <term xml:id="La_comtesse_escarbagnas">La Comtesse d'Escarbagnas</term>
           <term xml:id="Actrice"/>
           <term xml:id="Armande"/>
           <term xml:id="Eloge"/>
           <term xml:id="Piron"/>
-          <term xml:id="Le_Tartuffe">Le Tartuffe</term>
+          <term xml:id="Le_tartuffe">Le Tartuffe</term>
           <term xml:id="Mademoiselle"/>
           <term xml:id="Lauzun"/>
           <term xml:id="Louis_XIV">Louis XIV</term>
           <term xml:id="Les_amants_magnifiques">Les Amants magnifiques</term>
+          <term xml:id="Le_mariage_force">Les Mariage forcé</term>
           <term xml:id="Acteur"/>
           <term xml:id="Jalousie"/>
           <term xml:id="De_Brie">De Brie</term>
+          <term xml:id="Mlle_Beauval">Mlle Beauval</term>
+          <term xml:id="Ninon_de_lenclos">Ninon de Lenclos</term>
+          <term xml:id="Du_Parc">Du Parc</term>
           <term xml:id="Enterrement"/>
-          <term xml:id="Mepris">Mépris</term>
+          <term xml:id="Comedien">Comédien</term>
+          <term xml:id="Succes">Succès</term>
           <term xml:id="Generosite">Générosité</term>
           <term xml:id="Contemplateur"/>
-          <term xml:id="Don_Juan">Don Juan</term>
+          <term xml:id="Le_festin_de_pierre">Le Festin de Pierre</term>
+          <term xml:id="Psyche">Psyche</term>
           <term xml:id="Sagesse"/>
           <term xml:id="Intimite">Intimité</term>
+          <term xml:id="Modernite">Modernité</term>
+          <term xml:id="Medecine">Médecine</term>
           <term xml:id="Mariage"/>
           <term xml:id="Boileau"/>
           <term xml:id="Racine"/>
-          <term xml:id="L_Avare">L'Avare</term>
+          <term xml:id="L_avare">L'Avare</term>
+          <term xml:id="Les_precieuses_ridicules">Les Précieuses ridicules</term>
+          <term xml:id="Sganarelle_ou_cocu_imaginaire">Sganarelle ou le Cocu imaginaire</term>
           <term xml:id="Rohault"/>
-          <term xml:id="Bourgeois-gentilhomme">Le Bourgeois gentilhomme</term>
+          <term xml:id="Conde">Condé</term>
+          <term xml:id="Gilles_Boileau">Gilles Boileau</term>
+          <term xml:id="La_Fontaine">La Fontaine</term>
+          <term xml:id="Louis_XIV">Louis XIV</term>
+          <term xml:id="Beaupre">Beaupré</term>
+          <term xml:id="Bon_mot">Bon mot</term>
+          <term xml:id="Maitre">Maître</term>
+          <term xml:id="Le_bourgeois_gentilhomme">Le Bourgeois gentilhomme</term>
+          <term xml:id="La_princesse_elide">La Princesse d'Elide</term>
+          <term xml:id="Le_misanthrope">Le Misanthrope</term>
+          <term xml:id="Le_malade_imaginaire">Le Malade imaginaire</term>
+          <term xml:id="Les_facheux">Les Fâcheux</term>
+          <term xml:id="Monsieur_de_pourceaugnac">Monsieur de Pourceaugnac</term>
+          <term xml:id="L_ecole_des_femmes">L'Ecole des femmes</term>
+          <term xml:id="L_ecole_des_maris">L'Ecole des maris</term>
+          <term xml:id="George_Dandin">George Dandin</term>
+          <term xml:id="L_amour_medecin">L'Amour médecin</term>
+          <term xml:id="Le_medecin_malgre_lui">Le Médecin malgré lui</term>
         </keywords>
       </textClass>
     </profileDesc>
@@ -79,10 +107,10 @@
       <div ana="#Acteur #Jalousie #De_Brie" type="anecdote" xml:id="moliere-donne-roles-antipathiques-a-de-brie">
         <head>Molière, hostile à De Brie, ne lui donne que des rôles de personnages antipathiques</head>
       </div>
-      <div ana="#Enterrement #Mepris #Armande" type="anecdote" xml:id="armande-jette-argent-foule">
+      <div ana="#Enterrement #Comedien #Armande" type="anecdote" xml:id="armande-jette-argent-foule">
         <head>Armande Béjart calme la foule menaçante en jetant de l'argent lors de l’enterrement de Molière</head>
       </div>
-      <div ana="#Generosite #Contemplateur #Don_Juan" type="anecdote" xml:id="moliere-donne-aumone-mendiant">
+      <div ana="#Generosite #Contemplateur #Le_festin_de_pierre" type="anecdote" xml:id="moliere-donne-aumone-mendiant">
         <head>Molière donne l'aumône à un mendiant</head>
       </div>
       <div ana="#Sagesse #Intimite" type="anecdote" xml:id="valet-met-bas-a-l-envers">
@@ -91,7 +119,7 @@
       <div ana="#Mariage #Intimite #Boileau" type="anecdote" xml:id="boileau-promenade-couple">
         <head>Boileau assiste à la promenade de Molière et Armande, signe d’un retour de flamme dans le couple</head>
       </div>
-      <div ana="#Eloge #Boileau #Racine #L_Avare" type="anecdote" xml:id="boileau-fait-eloge-avare">
+      <div ana="#Eloge #Boileau #Racine #L_avare" type="anecdote" xml:id="boileau-fait-eloge-avare">
         <head>Boileau fait l'éloge de <hi rend="i">L’Avare</hi> contre la critique de Racine</head>
       </div>
       <div ana="#Eloge #Boileau #Racine #Louis_XIV" type="anecdote" xml:id="boileau-ou-racine-consacre-moliere-devant-roi">
@@ -100,580 +128,559 @@
       <div ana="#Eloge #Satire #Naturel #Boileau" type="anecdote" xml:id="eloge-composition-caractere">
         <head>Boileau fait l'éloge du talent de Molière à composer un caractère</head>
       </div>
-      <div type="anecdote" xml:id="chapelle-travaillant-pour-moliere">
-        <head>Chapelle travaillant pour Molière</head>
-      </div>
-      <div type="anecdote" xml:id="moliere-condisciple-conti">
+      <div ana="#Education #Grands #Conti" type="anecdote" xml:id="moliere-condisciple-conti">
         <head>Molière, condisciple du prince de Conti</head>
       </div>
-      <div type="anecdote" xml:id="conde-recherche-compagnie-moliere">
+      <div ana="#Grands #Conde" type="anecdote" xml:id="conde-recherche-compagnie-moliere">
         <head>Le prince de Condé recherche la compagnie de Molière</head>
       </div>
-      <div type="anecdote" xml:id="moliere-confie-souffrance-chapelle">
+      <div ana="#Mariage #Amour #Jalousie #Armande #Chapelle" type="anecdote" xml:id="moliere-confie-souffrance-chapelle">
         <head>Molière confie sa souffrance amoureuse à Chapelle</head>
       </div>
-      <div type="anecdote" xml:id="moliere-trouve-consolation-aupres-de-brie">
+      <div ana="#Mariage #Amour #Jalousie #De_Brie" type="anecdote" xml:id="moliere-trouve-consolation-aupres-de-brie">
         <head>Molière trouve consolation auprès de Mlle de Brie</head>
       </div>
-      <div type="anecdote" xml:id="conti-aime-conferer-avec-moliere">
+      <div ana="#Grands #Conti" type="anecdote" xml:id="conti-aime-conferer-avec-moliere">
         <head>Le prince de Conti aime conférer avec Molière</head>
       </div>
-      <div type="anecdote" xml:id="armande-charme-vieux-corneille">
+      <div ana="#Corneille #Armande" type="anecdote" xml:id="armande-charme-vieux-corneille">
         <head>Armande Béjart charme le vieux Corneille</head>
       </div>
-      <div type="anecdote" xml:id="vieillard-parterre-encourage-moliere">
+      <div ana="#Succes #Naturel #Modernite #Les_precieuses_ridicules" type="anecdote" xml:id="vieillard-parterre-encourage-moliere">
         <head>Un vieillard du parterre encourage Molière pendant la représentation des <hi rend="i">Précieuses ridicules</hi></head>
       </div>
-      <div type="anecdote" xml:id="armande-exprime-indignation-sepulture">
+      <div ana="#Comedien #Enterrement #Armande" type="anecdote" xml:id="armande-exprime-indignation-sepulture">
         <head>Armande Béjart exprime son indignation à l’idée qu’on refuse une sépulture à Molière</head>
       </div>
-      <div type="anecdote" xml:id="moliere-fait-eloge-plaideurs">
+      <div ana="#Racine" type="anecdote" xml:id="moliere-fait-eloge-plaideurs">
         <head>Molière fait l’éloge des <hi rend="i">Plaideurs</hi> de Racine contre l'avis du public</head>
       </div>
-      <div type="anecdote" xml:id="racine-fait-eloge-misanthrope">
+      <div ana="#Eloge #Le_misanthrope" type="anecdote" xml:id="racine-fait-eloge-misanthrope">
         <head>Racine fait l'éloge du <hi rend="i">Misanthrope</hi> contre la critique d'un flatteur</head>
       </div>
-      <div ana="#Satire #Naturel #Rohault #Bourgeois-gentilhomme" type="anecdote" xml:id="moliere-fait-demander-chapeau-rohault">
+      <div ana="#Satire #Naturel #Rohault #Le_bourgeois_gentilhomme" type="anecdote" xml:id="moliere-fait-demander-chapeau-rohault">
         <head>Molière fait demander à Rohault son chapeau pour l’acteur jouant le maître de philosophie dans <hi rend="i">Le Bourgeois gentilhomme</hi></head>
       </div>
-      <div type="anecdote" xml:id="moliere-doit-misanthrope-a-corneille">
+      <div ana="#Corneille #Le_misanthrope" type="anecdote" xml:id="moliere-doit-misanthrope-a-corneille">
         <head>Molière n’aurait pas écrit <hi rend="i">Le Misanthrope</hi> sans <hi rend="i">Le Menteur</hi> de Corneille</head>
       </div>
-      <div type="anecdote" xml:id="dispute-princesse-elide">
-        <head>Dispute conjugale après la représentation de <hi rend="i">La Princesse d’Élide</hi> à Versailles</head>
-      </div>
-      <div type="anecdote" xml:id="moliere-et-chapelle-disputent-philosophie-devant-minime">
+      <div ana="#Philosophie # Descartes #Gassendi #Chapelle" type="anecdote" xml:id="moliere-et-chapelle-disputent-philosophie-devant-minime">
         <head>Molière et Chapelle disputent philosophie devant un frère minime</head>
       </div>
-      <div type="anecdote" xml:id="doleance-a-travers-sosie">
-        <head>Doléance secrète de Molière contre les « chaînes » du roi par le truchement de Sosie</head>
-      </div>
-      <div type="anecdote" xml:id="duel-comediennes">
+      <div ana="#Beaupre #Des-Urlis #La_comtesse_escarbagnas" type="anecdote" xml:id="duel-comediennes">
         <head>Duel entre Mlle Beaupré et Mlle Des-Urlis, après la représentation de <hi rend="i">La Comtesse d’Escarbagnas</hi></head>
       </div>
-      <div type="anecdote" xml:id="echec-avare-attribue-a-prose">
+      <div ana="#Public #Echec #L_avare" type="anecdote" xml:id="echec-avare-attribue-a-prose">
         <head>Les spectateurs s'insurgent contre l'usage de la prose dans <hi rend="i">L’Avare</hi></head>
       </div>
-      <div type="anecdote" xml:id="moliere-defend-bonhomme-la-fontaine">
+      <div ana="#La_Fontaine" type="anecdote" xml:id="moliere-defend-bonhomme-la-fontaine">
         <head>Molière prend la défense du « bonhomme » La Fontaine</head>
       </div>
-      <div type="anecdote" xml:id="moliere-peint-beline-d-apres-maratre">
+      <div ana="#Naturel #Satire #Famille #Le_malade_imaginaire" type="anecdote" xml:id="moliere-peint-beline-d-apres-maratre">
         <head>Molière peint le personnage de Béline d’après sa marâtre (<hi rend="i">Le Malade imaginaire</hi>)</head>
       </div>
-      <div type="anecdote" xml:id="moliere-s-etonne-de-son-succes">
+      <div ana="#Modestie" type="anecdote" xml:id="moliere-s-etonne-de-son-succes">
         <head>Molière s’étonne du succès de ses comédies auprès des « personnes d’esprit »</head>
       </div>
-      <div type="anecdote" xml:id="expiation-parentes-tartuffe">
+      <div ana="#Famille #Le_tartuffe" type="anecdote" xml:id="expiation-parentes-tartuffe">
         <head>Deux religieuses, parentes de Molière, expient l’outrage du <hi rend="i">Tartuffe</hi></head>
       </div>
-      <div type="anecdote" xml:id="moliere-observe-dans-fauteuil-barbier">
+      <div ana="#Naturel #Observateur #Province" type="anecdote" xml:id="moliere-observe-dans-fauteuil-barbier">
         <head>Molière s'installe des heures durant dans un fauteuil chez son barbier, à Pézenas, observant les gens alentour</head>
       </div>
-      <div type="anecdote" xml:id="armande-fait-feu-sur-tombe-moliere">
+      <div ana="#Generosite #Armande" type="anecdote" xml:id="armande-fait-feu-sur-tombe-moliere">
         <head>Armande Béjart fait brûler cent voies de bois sur la tombe de Molière pour réchauffer les pauvres </head>
       </div>
-      <div type="anecdote" xml:id="moliere-fait-bon-mot-sur-fontaine-gignac">
+      <div ana="#Bon_mot #Province" type="anecdote" xml:id="moliere-fait-bon-mot-sur-fontaine-gignac">
         <head>Molière fait un bon mot sur la fontaine de Gignac</head>
       </div>
-      <div type="anecdote" xml:id="moliere-eleve-gassendi">
+      <div ana="#Philosophie #Education #Gassendi" type="anecdote" xml:id="moliere-eleve-gassendi">
         <head>Molière, élève de Gassendi</head>
       </div>
-      <div type="anecdote" xml:id="moliere-dement-applications-femmes-savantes">
+      <div ana="#Naturel #Satire #Les_femmes_savantes" type="anecdote" xml:id="moliere-dement-applications-femmes-savantes">
         <head>Molière prononce une harangue pour démentir les applications dans <hi rend="i">Les Femmes savantes</hi></head>
       </div>
-      <div type="anecdote" xml:id="impot-habitants-pezenas-indemnise-troupe">
+      <div ana="#Province #Grands #Conti" type="anecdote" xml:id="impot-habitants-pezenas-indemnise-troupe">
         <head>Le prince de Conti instaure un impôt dont les habitants de Pézenas doivent s’acquitter pour indemniser la troupe de Molière</head>
       </div>
-      <div type="anecdote" xml:id="menage-loue-femmes-savantes">
+      <div ana="#Eloge #Satire #Ménage #les_femmes_savantes" type="anecdote" xml:id="menage-loue-femmes-savantes">
         <head>Ménage fait l'éloge des <hi rend="i">Femmes savantes</hi> chez Mme de Rambouillet</head>
       </div>
-      <div type="anecdote" xml:id="correction-auteur-precieux-voltaire">
-        <head>Voltaire propose à La Harpe d’intercaler dans <hi rend="i">Les Précieuses</hi> la phrase d’un auteur pour que celui-ci s’en corrige</head>
-      </div>
-      <div type="anecdote" xml:id="moliere-heros-intrigue-galante-province">
+      <div ana="#Amour #Province" type="anecdote" xml:id="moliere-heros-intrigue-galante-province">
         <head>Molière, héros d'une intrigue galante en province</head>
       </div>
-      <div type="anecdote" xml:id="moliere-jaloux-baron-melicerte">
+      <div ana="#Jalousie #Armande #Baron #Melicerte" type="anecdote" xml:id="moliere-jaloux-baron-melicerte">
         <head>Molière, jaloux de Baron lors de la création de <hi rend="i">Mélicerte</hi></head>
       </div>
-      <div type="anecdote" xml:id="roi-differe-louanges-bourgeois-gentilhomme">
+      <div ana="#Eloge #Grands #Louis_XIV #Le_bourgeois_gentilhomme" type="anecdote" xml:id="roi-differe-louanges-bourgeois-gentilhomme">
         <head>Louis XIV fait l'éloge du <hi rend="i">Bourgeois gentilhomme</hi>, après avoir suspendu son jugement</head>
       </div>
-      <div type="anecdote" xml:id="roi-differe-louanges-femmes-savantes">
+      <div ana="#Eloge #Grands #Louis_XIV #Les_femmes_savantes" type="anecdote" xml:id="roi-differe-louanges-femmes-savantes">
         <head>Louis XIV fait l'éloge des <hi rend="i">Femmes savantes</hi>, après avoir suspendu son jugement</head>
       </div>
-      <div type="anecdote" xml:id="moliere-lit-pieces-public-naif">
+      <div ana="#Naturel #Public #Servante" type="anecdote" xml:id="moliere-lit-pieces-public-naif">
         <head>Molière lit ses pièces à sa servante Laforêt et/ou les joue devant les enfants de ses comédiens</head>
       </div>
-      <div type="anecdote" xml:id="moliere-improvise-lettre-amour-pezenas">
+      <div ana="#Improvisation #Province" type="anecdote" xml:id="moliere-improvise-lettre-amour-pezenas">
         <head>Molière lit à une jeune fille une lettre d’amour de son amant en réécrivant complètement le discours de son amant</head>
       </div>
-      <div type="anecdote" xml:id="roi-metteur-en-scene">
+      <div ana="#Grands #Louis_XIV" type="anecdote" xml:id="roi-metteur-en-scene">
         <head>Louis XIV metteur en scène de Molière</head>
       </div>
-      <div type="anecdote" xml:id="lully-pourceaugnac">
+      <div ana="#Lully #Louis_XIV #Monsieur_de_pourceaugnac" type="anecdote" xml:id="lully-pourceaugnac">
         <head>Lully jouant <hi rend="i">Pourceaugnac</hi> pour amadouer le roi</head>
       </div>
-      <div type="anecdote" xml:id="maitre-pension-essaie-de-detourner-moliere-metier-comedien">
+      <div ana="#Vocation #Famille #Comedien" type="anecdote" xml:id="maitre-pension-essaie-de-detourner-moliere-metier-comedien">
         <head>Un maître de pension, envoyé par la famille de Molière, essaie de le détourner du métier de comédien</head>
       </div>
-      <div type="anecdote" xml:id="martine-joue-son-propre-role">
+      <div ana="#Naturel #Servante #Les_femmes_savantes" type="anecdote" xml:id="martine-joue-son-propre-role">
         <head>Martine, domestique de Molière, joue son propre rôle dans <hi rend="i">Les Femmes savantes</hi></head>
       </div>
-      <div type="anecdote" xml:id="moliere-malheureux-dans-menage">
+      <div ana="#Mariage #Jalousie #Armande" type="anecdote" xml:id="moliere-malheureux-dans-menage">
         <head>Molière, malheureux dans son ménage</head>
       </div>
-      <div type="anecdote" xml:id="moliere-provoque-mort-cotin-par-satire">
+      <div ana="#Nature #Satire #Cotin #Les_femmes_savantes" type="anecdote" xml:id="moliere-provoque-mort-cotin-par-satire">
         <head>Molière provoque la mort de Cotin par la satire des <hi rend="i">Femmes savantes</hi></head>
       </div>
-      <div type="anecdote" xml:id="moliere-utilise-memoires-et-tablettes">
+      <div ana="#Naturel #Observateur" type="anecdote" xml:id="moliere-utilise-memoires-et-tablettes">
         <head>Molière travaille à partir des mémoires qu’on lui donne et des tablettes où il consigne ce qu’il voit et entend</head>
       </div>
-      <div type="anecdote" xml:id="menage-abjure-jargon-precieuses">
+      <div ana="#Correction #Ménage #Les_precieuses_ridicules" type="anecdote" xml:id="menage-abjure-jargon-precieuses">
         <head>Ménage abjure le jargon des précieuses (<hi rend="i">Les Précieuses ridicules</hi>)</head>
       </div>
-      <div type="anecdote" xml:id="femme-du-peuple-nomme-moliere-avec-mepris">
+      <div ana="#Comedien #Enterrement" type="anecdote" xml:id="femme-du-peuple-nomme-moliere-avec-mepris">
         <head>Une femme du peuple nomme Molière avec mépris lors de son enterrement</head>
       </div>
-      <div type="anecdote" xml:id="marotte-fille-chambre-de-brie">
+      <div ana="#De_Brie" type="anecdote" xml:id="marotte-fille-chambre-de-brie">
         <head>Mlle Ragueneau, surnommée Marotte, fille de chambre de Mlle de Brie (lien avec <hi rend="i">Le Roman comique</hi>)</head>
       </div>
-      <div type="anecdote" xml:id="maitresse-conti-fait-appeler-moliere">
+      <div ana="#Province #Grands #Conti" type="anecdote" xml:id="maitresse-conti-fait-appeler-moliere">
         <head>La maîtresse du prince de Conti, Mme Calvimont, fait venir la troupe de Molière à Pézenas</head>
       </div>
-      <div type="anecdote" xml:id="dacier-supprime-dissertation-amphitryon">
+      <div ana="#Satire #Dacier #Amphitryon #Les_femmes_savantes" type="anecdote" xml:id="dacier-supprime-dissertation-amphitryon">
         <head>Anne Dacier supprime sa dissertation sur <hi rend="i">Amphitryon</hi> après avoir entendu dire que Molière voulait faire une comédie des <hi rend="i">Femmes savantes</hi></head>
       </div>
-      <div type="anecdote" xml:id="moliere-perd-maitrise-ane">
+      <div ana="#Farce #Servante" type="anecdote" xml:id="moliere-perd-maitrise-ane">
         <head>Molière, dans le rôle de Sancho Pança, perd la maîtrise de son âne au moment d’entrer en scène</head>
       </div>
-      <div type="anecdote" xml:id="moliere-mange-avec-boissat">
+      <div ana="#Province #Comedien #Grands" type="anecdote" xml:id="moliere-mange-avec-boissat">
         <head>Molière mange à la table de Boissat</head>
       </div>
-      <div type="anecdote" xml:id="moliere-mange-avec-roi">
+      <div ana="#Comedien #Grands #Louis_XIV" type="anecdote" xml:id="moliere-mange-avec-roi">
         <head>Molière mange à la table de Louis XIV</head>
       </div>
-      <div type="anecdote" xml:id="moliere-donne-sujet-thebaide">
+      <div ana="#Maitre #Racine" type="anecdote" xml:id="moliere-donne-sujet-thebaide">
         <head>Molière donne à Racine le sujet de <hi rend="i">La Thébaïde</hi></head>
       </div>
-      <div type="anecdote" xml:id="moliere-en-goguettes-cabaret">
+      <div ana="#Maladie #Chapelle" type="anecdote" xml:id="moliere-en-goguettes-cabaret">
         <head>Molière en goguettes au cabaret de La Croix de Lorraine</head>
       </div>
-      <div type="anecdote" xml:id="tragedie-irene-lyon">
+      <div ana="#Generosite #Province" type="anecdote" xml:id="tragedie-irene-lyon">
         <head>Molière monte à Lyon la tragédie de Claude Busset, Irène (// sujet tragique, <hi rend="i">La Thébaïde</hi>, donné à Racine)</head>
       </div>
-      <div type="anecdote" xml:id="moliere-spectateur-portrait-du-peintre">
+      <div ana="#L_ecole_des_femmes" type="anecdote" xml:id="moliere-spectateur-portrait-du-peintre">
         <head>Molière assiste à la représentation du <hi rend="i">Portrait du peintre</hi></head>
       </div>
-      <div type="anecdote" xml:id="moliere-se-sacrifie-pour-sa-troupe">
+      <div ana="#Sacrifice #Comedien #Mort #Le_malade_imaginaire" type="anecdote" xml:id="moliere-se-sacrifie-pour-sa-troupe">
         <head>Molière se sacrifie pour sa troupe en achevant la représentation du <hi rend="i">Malade imaginaire</hi></head>
       </div>
-      <div type="anecdote" xml:id="conde-fait-bon-mot-contre-auteur-epitaphe">
+      <div ana="#Eloge #Mort #Grands #Conde" type="anecdote" xml:id="conde-fait-bon-mot-contre-auteur-epitaphe">
         <head>Le prince de Condé fait un bon mot contre l’auteur d’une épitaphe faite pour Molière</head>
       </div>
-      <div type="anecdote" xml:id="conde-fait-bon-mot-tartuffe">
+      <div ana="#Grands #Conde #Le_tartuffe" type="anecdote" xml:id="conde-fait-bon-mot-tartuffe">
         <head>Le prince de Condé fait un bon mot sur <hi rend="i">Le Tartuffe</hi></head>
       </div>
-      <div type="anecdote" xml:id="moliere-fait-bon-mot-mauvillain">
+      <div ana="#Bon_mot #Medecine #Maladie #Louis_XIV" type="anecdote" xml:id="moliere-fait-bon-mot-mauvillain">
         <head>Molière fait un bon mot sur son médecin Mauvillain, au dîner du roi</head>
       </div>
-      <div type="anecdote" xml:id="moliere-tourne-en-derision-interdiction-lamoignon">
+      <div ana="#Bon_mot #Le_tartuffe" type="anecdote" xml:id="moliere-tourne-en-derision-interdiction-lamoignon">
         <head>Molière tourne en dérision l’interdiction du <hi rend="i">Tartuffe</hi> par le premier président Lamoignon</head>
       </div>
-      <div type="anecdote" xml:id="moliere-fait-bon-mot-mepris">
+      <div ana="#Bon_mot" type="anecdote" xml:id="moliere-fait-bon-mot-mepris">
         <head>Molière fait un bon mot sur la difficulté qu’il y a à endurer le mépris</head>
       </div>
-      <div type="anecdote" xml:id="moliere-se-peint-malade-imaginaire">
+      <div ana="#Naturel #Maladie #Le_malade_imaginaire" type="anecdote" xml:id="moliere-se-peint-malade-imaginaire">
         <head>Molière se peint dans <hi rend="i">Le Malade imaginaire</hi></head>
       </div>
-      <div type="anecdote" xml:id="moliere-peint-pourceaugnac-d-apres-original-a-paris">
+      <div ana="#Naturel #Satire #Monsieur_de_pourceaugnac" type="anecdote" xml:id="moliere-peint-pourceaugnac-d-apres-original-a-paris">
         <head>Molière peint le personnage de Pourceaugnac d’après un original à Paris</head>
       </div>
-      <div type="anecdote" xml:id="moliere-peint-tartuffe-d-apres-abbe-roquette">
+      <div ana="#Naturel #Satire #Le_tartuffe" type="anecdote" xml:id="moliere-peint-tartuffe-d-apres-abbe-roquette">
         <head>Molière peint le personnage de Tartuffe d’après l’abbé Roquette</head>
       </div>
-      <div type="anecdote" xml:id="moliere-songe-peindre-extravagant-d-apres-courtisan">
+      <div ana="#Naturel #Satire" type="anecdote" xml:id="moliere-songe-peindre-extravagant-d-apres-courtisan">
         <head>Molière songe à peindre le type de l’extravagant d’après un courtisan désireux d’être mis sur le théâtre</head>
       </div>
-      <div type="anecdote" xml:id="boileau-fournit-originaux-harpagon">
+      <div ana="#Naturel #Satire #Boileau #L_avare" type="anecdote" xml:id="boileau-fournit-originaux-harpagon">
         <head>Boileau fournit à Molière les traits d’Harpagon d’après son observation du lieutenant Tardieu et de sa femme (<hi rend="i">L’Avare</hi>)</head>
       </div>
-      <div type="anecdote" xml:id="moliere-se-venge-gentilhomme-limousin">
+      <div ana="#Naturel #Satire #Public #Province #Monsieur_de_pourceaugnac" type="anecdote" xml:id="moliere-se-venge-gentilhomme-limousin">
         <head>Molière se venge d’un gentilhomme limousin ayant cherché querelle à ses comédiens en faisant sa satire dans <hi rend="i">Monsieur de Pourceaugnac</hi></head>
       </div>
-      <div type="anecdote" xml:id="moliere-tire-dispute-bourgeois-gentilhomme-d-une-querelle-historique">
+      <div ana="#Naturel #Satire #Le_bourgeois_gentilhomme" type="anecdote" xml:id="moliere-tire-dispute-bourgeois-gentilhomme-d-une-querelle-historique">
         <head>Molière tire la scène de la dispute entre le maître de danse et le maître d’armes dans <hi rend="i">Le Bourgeois gentilhomme</hi> d’une querelle historique</head>
       </div>
-      <div type="anecdote" xml:id="moliere-tire-nom-escarbagnas-dame-angouleme">
+      <div ana="#Naturel #Satire #La_comtesse_escarbagnas" type="anecdote" xml:id="moliere-tire-nom-escarbagnas-dame-angouleme">
         <head>Molière tire le nom de la comtesse d’Escarbagnas de celui d’une dame des environs Angoulême</head>
       </div>
-      <div type="anecdote" xml:id="parmesan-agonie">
+      <div ana="#Mort" type="anecdote" xml:id="parmesan-agonie">
         <head>Parmesan réclamé par Molière à l’agonie</head>
       </div>
-      <div type="anecdote" xml:id="villedieu-actrice-dans-troupe-de-moliere">
+      <div ana="#Province" type="anecdote" xml:id="villedieu-actrice-dans-troupe-de-moliere">
         <head>Mme de Villedieu prétend avoir fait partie de la troupe de Molière</head>
       </div>
-      <div type="anecdote" xml:id="passion-corneille-du-parc">
+      <div ana="#Du_Parc #Corneille" type="anecdote" xml:id="passion-corneille-du-parc">
         <head>Passion de Corneille pour Mlle Du Parc</head>
       </div>
-      <div type="anecdote" xml:id="roi-suggere-personnage-chasseur">
+      <div ana="#Naturel #Satire #Grands #Louis_XIV #Les_facheux" type="anecdote" xml:id="roi-suggere-personnage-chasseur">
         <head>Louis XIV suggère à Molière le personnage du chasseur (<hi rend="i">Les Fâcheux</hi>)</head>
       </div>
-      <div type="anecdote" xml:id="moliere-nie-plagiat-pedant-joue">
+      <div ana="#Plagiat" type="anecdote" xml:id="moliere-nie-plagiat-pedant-joue">
         <head>Molière se défend d’avoir plagié <hi rend="i">Le Pédant joué</hi></head>
       </div>
-      <div type="anecdote" xml:id="regent-force-moliere-a-avouer-plagiat">
+      <div ana="#Plagiat" type="anecdote" xml:id="regent-force-moliere-a-avouer-plagiat">
         <head>Un régent force le jeune Molière à avouer le plagiat de Théophile de Viau</head>
       </div>
-      <div type="anecdote" xml:id="moliere-se-plaint-a-ses-amis">
+      <div ana="#Mariage #Jalousie #Rohault #Mignard" type="anecdote" xml:id="moliere-se-plaint-a-ses-amis">
         <head>Molière confie ses malheurs conjugaux à ses amis, Rohault et Mignard</head>
       </div>
-      <div type="anecdote" xml:id="naivete-nesle-origine-plaisanterie-precieuses">
+      <div ana="#Naturel #Les_precieuses_ridicules" type="anecdote" xml:id="naivete-nesle-origine-plaisanterie-precieuses">
         <head>Molière tire une plaisanterie des <hi rend="i">Précieuses ridicules</hi> d’une remarque naïve du marquis de Nesle</head>
       </div>
-      <div type="anecdote" xml:id="moliere-refuse-poste-conti">
+      <div ana="#Vocation #Grands #Conti" type="anecdote" xml:id="moliere-refuse-poste-conti">
         <head>Molière refuse le poste de secrétaire offert par le prince de Conti</head>
       </div>
-      <div type="anecdote" xml:id="pression-troupe-festin-pierre">
+      <div ana="#Comedien" type="anecdote" xml:id="pression-troupe-festin-pierre">
         <head>Pression exercée par la troupe pour créer un <hi rend="i">Festin de Pierre</hi></head>
       </div>
-      <div type="anecdote" xml:id="moliere-fait-bon-mot-amour-pour-de-brie">
+      <div ana="#Bon_mot #Amour #De_Brie" type="anecdote" xml:id="moliere-fait-bon-mot-amour-pour-de-brie">
         <head>Molière fait un bon mot sur les raisons de son amour pour Mlle de Brie</head>
       </div>
-      <div type="anecdote" xml:id="art-affranchir-regles">
+      <div ana="#Naturel #Boileau" type="anecdote" xml:id="art-affranchir-regles">
         <head>Refus de corriger un vers de Boileau « c’est l’art même qui doit nous apprendre à nous affranchir des règles de l’art »</head>
       </div>
-      <div type="anecdote" xml:id="moliere-refuse-lire-traduction-en-public">
+      <div ana="#Modestie #Philosophie" type="anecdote" xml:id="moliere-refuse-lire-traduction-en-public">
         <head>Molière refuse de lire sa traduction de Lucrèce en public</head>
       </div>
-      <div type="anecdote" xml:id="moliere-regle-differend-chapelle-et-valet">
+      <div ana="#Philosophie #Chapelle" type="anecdote" xml:id="moliere-regle-differend-chapelle-et-valet">
         <head>Molière règle un différend entre Chapelle et son valet Godemer avec équité</head>
       </div>
-      <div type="anecdote" xml:id="montausier-se-targue-de-ressembler-au-misanthrope">
+      <div ana="#Naturel #Satire #Cles #Le_misanthrope" type="anecdote" xml:id="montausier-se-targue-de-ressembler-au-misanthrope">
         <head>Le duc de Montausier se targue de ressembler au Misanthrope </head>
       </div>
-      <div type="anecdote" xml:id="boileau-reproche-a-moliere-de-continuer-a-jouer">
+      <div ana="#Farce #Boileau" type="anecdote" xml:id="boileau-reproche-a-moliere-de-continuer-a-jouer">
         <head>Boileau reproche à Molière de continuer à jouer</head>
       </div>
-      <div type="anecdote" xml:id="spectateurs-se-revoltent-contre-sort-dandin">
+      <div ana="#Public #George_Dandin" type="anecdote" xml:id="spectateurs-se-revoltent-contre-sort-dandin">
         <head>Les spectateurs s'insurgent contre le sort de George Dandin</head>
       </div>
-      <div type="anecdote" xml:id="bejart-role-boiteux">
-        <head>Rôle adapté à l’acteur : insulte « ce chien de boiteux-là » et Béjart, estropié</head>
-      </div>
-      <div type="anecdote" xml:id="moliere-adapte-role-acteur-hubert">
+      <div ana="#Naturel #Jeu" type="anecdote" xml:id="moliere-adapte-role-acteur-hubert">
         <head>Molière adapte les rôles à l’acteur : le cas d’Hubert, couard</head>
       </div>
-      <div type="anecdote" xml:id="moliere-secourt-mondorge">
+      <div ana="#Generosite #Comedien" type="anecdote" xml:id="moliere-secourt-mondorge">
         <head>Molière secourt le comédien Mondorge</head>
       </div>
-      <div type="anecdote" xml:id="moliere-sejourne-a-vienne">
+      <div ana="#Province" type="anecdote" xml:id="moliere-sejourne-a-vienne">
         <head>Molière et sa troupe séjournent à Vienne</head>
       </div>
-      <div type="anecdote" xml:id="silence-moliere-societe">
-        <head>Silence de Molière en société</head>
-      </div>
-      <div type="anecdote" xml:id="armande-donne-soufflet-a-baron">
+      <div ana="#Armande #Baron" type="anecdote" xml:id="armande-donne-soufflet-a-baron">
         <head>Armande Béjart donne un soufflet à Baron</head>
       </div>
-      <div type="anecdote" xml:id="moliere-recoit-amis-souper-auteuil">
+      <div ana="#Maladie #Philosophie #Chapelle" type="anecdote" xml:id="moliere-recoit-amis-souper-auteuil">
         <head>Molière reçoit ses amis à souper à Auteuil</head>
       </div>
-      <div type="anecdote" xml:id="moliere-au-supplice-diction-acteurs">
+      <div ana="#Jeu" type="anecdote" xml:id="moliere-au-supplice-diction-acteurs">
         <head>Molière au supplice en écoutant ses acteurs déclamer ses vers</head>
       </div>
-      <div type="anecdote" xml:id="moliere-lit-tartuffe-chez-ninon-de-lenclos-depot-cassettes">
+      <div ana="#Naturel #Ninon_de_lenclos #Le_tartuffe" type="anecdote" xml:id="moliere-lit-tartuffe-chez-ninon-de-lenclos-depot-cassettes">
         <head>Molière lit <hi rend="i">Le Tartuffe</hi> chez Ninon de Lenclos qui lui raconte une aventure semblable concernant le dépôt de deux cassettes</head>
       </div>
-      <div type="anecdote" xml:id="moliere-deconseille-metier-comedien">
+      <div ana="#Comedien #Vocation #Sacrifice" type="anecdote" xml:id="moliere-deconseille-metier-comedien">
         <head>Molière tente de détourner un jeune homme de la profession de comédien</head>
       </div>
-      <div type="anecdote" xml:id="thebaide-jouee-en-province">
-        <head><hi rend="i">Thébaïde</hi> jouée par la troupe de Molière à Bordeaux</head>
-      </div>
-      <div type="anecdote" xml:id="domestique-detruit-traduction-lucrece">
+      <div ana="#Philosophie" type="anecdote" xml:id="domestique-detruit-traduction-lucrece">
         <head>Un domestique de Molière détruit par mégarde sa traduction de Lucrèce</head>
       </div>
-      <div type="anecdote" xml:id="mousquetaires-provoquent-tumulte">
+      <div ana="#Philosophie" type="anecdote" xml:id="mousquetaires-provoquent-tumulte">
         <head>Les mousquetaires et les autres corps de la maison du roi, furieux de se voir privés du droit d’aller à la comédie sans payer, entrent de force au Palais-Royal, provoquant un tumulte</head>
       </div>
-      <div type="anecdote" xml:id="valet-de-chambre-humilie-moliere">
+      <div ana="#Comedien" type="anecdote" xml:id="valet-de-chambre-humilie-moliere">
         <head>Un valet de chambre refuse de faire le lit du roi avec Molière</head>
       </div>
-      <div type="anecdote" xml:id="moliere-perd-valise-province">
+      <div ana="#Province #Monsieur_de_pourceaugnac" type="anecdote" xml:id="moliere-perd-valise-province">
         <head>Molière perd sa valise en province</head>
       </div>
-      <div type="anecdote" xml:id="moliere-se-venge-des-limousins">
+      <div ana="#Naturel #Satire #Public #Province #Monsieur_de_pourceaugnac" type="anecdote" xml:id="moliere-se-venge-des-limousins">
         <head>Molière se venge du mauvais accueil des Limousins dans <hi rend="i">Monsieur de Pourceaugnac</hi></head>
       </div>
-      <div type="anecdote" xml:id="moliere-tire-vers-misanthrope-saillie-boileau">
+      <div ana="#Naturel #Boileau #Le_misanthrope" type="anecdote" xml:id="moliere-tire-vers-misanthrope-saillie-boileau">
         <head>Molière tire des vers du <hi rend="i">Misanthrope</hi> d’une saillie de Boileau </head>
       </div>
-      <div type="anecdote" xml:id="original-marquis-tarte-creme-agresse-moliere">
+      <div ana="#Naturel #Satire #Public #Sacrifice #L_ecole_des_femmes" type="anecdote" xml:id="original-marquis-tarte-creme-agresse-moliere">
         <head>L’original du marquis <hi rend="i">Tarte à la crème</hi> de <hi rend="i">La Critique de L’École des femmes</hi> agresse Molière</head>
       </div>
-      <div type="anecdote" xml:id="pere-obstacle-vocation">
+      <div ana="#Vocation #Famille #Comedien" type="anecdote" xml:id="pere-obstacle-vocation">
         <head>Le père de Molière, obstacle à sa vocation</head>
       </div>
-      <div type="anecdote" xml:id="grand-pere-origine-vocation">
+      <div ana="#Vocation #Famille #Comedien" type="anecdote" xml:id="grand-pere-origine-vocation">
         <head>Le grand-père de Molière, à l’origine de sa vocation</head>
       </div>
-      <div type="anecdote" xml:id="amour-origine-vocation">
+      <div ana="#Vocation #Amour #Comedien #Madeleine" type="anecdote" xml:id="amour-origine-vocation">
         <head>Molière se consacre au théâtre par amour</head>
       </div>
-      <div type="anecdote" xml:id="moliere-se-venge-de-benserade">
+      <div ana="#Benserade" type="anecdote" xml:id="moliere-se-venge-de-benserade">
         <head>Molière se venge de Benserade, en l’humiliant devant la Cour</head>
       </div>
-      <div type="anecdote" xml:id="moliere-se-venge-de-sa-logeuse-par-satire-medecine">
+      <div ana="#Satire #Médecine #Armande" type="anecdote" xml:id="moliere-se-venge-de-sa-logeuse-par-satire-medecine">
         <head>Molière se venge de sa logeuse, femme d’un médecin, par la satire de la médecine</head>
       </div>
-      <div type="anecdote" xml:id="moliere-peint-medecins-d-apres-medecins-de-la-cour">
+      <div ana="#Naturel #Satire #L_amour_medecin" type="anecdote" xml:id="moliere-peint-medecins-d-apres-medecins-de-la-cour">
         <head>Molière peint les quatre médecins de <hi rend="i">L’Amour médecin</hi>, d’après les médecins de la Cour</head>
       </div>
-      <div type="anecdote" xml:id="spectatrice-deplore-que-amphitryon-enseigne-a-pecher">
+      <div ana="#Correction #Public #Amphitryon" type="anecdote" xml:id="spectatrice-deplore-que-amphitryon-enseigne-a-pecher">
         <head>Une spectatrice d'<hi rend="i">Amphitryon</hi> déplore que la pièce enseigne à pécher</head>
       </div>
-      <div type="anecdote" xml:id="roi-adoube-beauval">
+      <div ana="#Comedien #Mlle_Beauval #Louis_XIV #Le_malade_imaginaire" type="anecdote" xml:id="roi-adoube-beauval">
         <head>Louis XIV adoube Mlle Beauval, après que Molière l’a maintenue dans le rôle de Nicole malgré la demande du roi</head>
       </div>
-      <div type="anecdote" xml:id="moliere-tire-fluxion-harpagon-de-son-mal">
+      <div ana="#Naturel #Maladie #L_avare" type="anecdote" xml:id="moliere-tire-fluxion-harpagon-de-son-mal">
         <head>Molière tire la réplique de Frosine sur la fluxion de poitrine d’Harpagon de son propre mal</head>
       </div>
-      <div type="anecdote" xml:id="moliere-adapte-role-bejart">
+      <div ana="#Naturel #Comedien #L_avare" type="anecdote" xml:id="moliere-adapte-role-bejart">
         <head>Molière adapte les rôles à l’acteur : le cas de Béjart, estropié</head>
       </div>
-      <div type="anecdote" xml:id="moliere-peint-bourgeois-gentilhomme-d-apres-original">
+      <div ana="#Naturel #Satire #Le_bourgeois_gentilhomme" type="anecdote" xml:id="moliere-peint-bourgeois-gentilhomme-d-apres-original">
         <head>Molière peint le Bourgeois gentilhomme d’après un original</head>
       </div>
-      <div type="anecdote" xml:id="moliere-peint-lucile-d-apres-armande">
+      <div ana="#Naturel #Armande #Le_bourgeois_gentilhomme" type="anecdote" xml:id="moliere-peint-lucile-d-apres-armande">
         <head>Molière peint Lucile d’après Armande Béjart (<hi rend="i">Le Bourgeois gentilhomme</hi>)</head>
       </div>
-      <div type="anecdote" xml:id="ambassadeur-siam-commente-comedies">
+      <div ana="#Le_bourgeois_gentilhomme #L_avare" type="anecdote" xml:id="ambassadeur-siam-commente-comedies">
         <head>L’ambassadeur de Siam assiste aux représentations du <hi rend="i">Bourgeois gentilhomme</hi> et de <hi rend="i">L’Avare</hi> et les commente</head>
       </div>
-      <div type="anecdote" xml:id="original-cocu-imaginaire-se-plaint">
+      <div ana="#Naturel #Satire #Sganarelle_ou_cocu_imaginaire" type="anecdote" xml:id="original-cocu-imaginaire-se-plaint">
         <head>Un bourgeois de Paris, convaincu d’être l’original du Cocu imaginaire, s’en plaint</head>
       </div>
-      <div type="anecdote" xml:id="moliere-tire-scene-comtesse-escarbagnas-d-une-scene-chez-ninon">
+      <div ana="#Naturel #Satire #Ninon_de_lenclos #La_comtesse_escarbagnas" type="anecdote" xml:id="moliere-tire-scene-comtesse-escarbagnas-d-une-scene-chez-ninon">
         <head>Molière tire la scène de la récitation de la leçon dans <hi rend="i">La Comtesse d’Escarbagnas</hi> d’une scène qui se passa chez Ninon de Lenclos</head>
       </div>
-      <div type="anecdote" xml:id="moliere-joue-devant-cour-1658">
+      <div ana="#Comedien #Improvisation #Louis_XIV" type="anecdote" xml:id="moliere-joue-devant-cour-1658">
         <head>Molière et sa troupe jouent pour la première fois devant la Cour, le 24 octobre 1658</head>
       </div>
-      <div type="anecdote" xml:id="moliere-declare-qu-il-suffit-d-etudier-monde">
+      <div ana="#Succes #Observateur #Les_precieuses_ridicules" type="anecdote" xml:id="moliere-declare-qu-il-suffit-d-etudier-monde">
         <head>Molière déclare après le succès des <hi rend="i">Précieuses</hi> qu’il lui suffit désormais d’étudier le monde</head>
       </div>
-      <div type="anecdote" xml:id="moliere-tire-replique-tarte-a-la-creme-scandale-spectateur">
+      <div ana="#Naturel #Satire #Public #L_ecole_des_femmes" type="anecdote" xml:id="moliere-tire-replique-tarte-a-la-creme-scandale-spectateur">
         <head>Molière tire la réplique <hi rend="i">Tarte à la crème</hi> de la réaction scandalisée d’un spectateur de <hi rend="i">L’École des femmes</hi></head>
       </div>
-      <div type="anecdote" xml:id="moliere-a-envisage-de-traiter-sujet-visionnaires">
+      <div ana="#Observateur" type="anecdote" xml:id="moliere-a-envisage-de-traiter-sujet-visionnaires">
         <head>Molière a envisagé de traiter le sujet des <hi rend="i">Visionnaires</hi></head>
       </div>
-      <div type="anecdote" xml:id="chapelle-inspirateur-de-moliere">
+      <div ana="#Plagiat #Chapelle" type="anecdote" xml:id="chapelle-inspirateur-de-moliere">
         <head>Chapelle prétend être l’inspirateur de Molière</head>
       </div>
-      <div type="anecdote" xml:id="boileau-fournit-scene-trissotin-vadius">
+      <div ana="#Naturel #Satire #Boileau #Gilles_Boileau #Cotin #Les_femmes_savantes" type="anecdote" xml:id="boileau-fournit-scene-trissotin-vadius">
         <head>Boileau fournit à Molière la scène de Trissotin et de Vadius, en lui racontant une querelle entre Gilles Boileau et Cotin (<hi rend="i">Les Femmes savantes</hi>)</head>
       </div>
-      <div type="anecdote" xml:id="moliere-neutralise-original-dandin">
+      <div ana="#Naturel #Satire #George_Dandin" type="anecdote" xml:id="moliere-neutralise-original-dandin">
         <head>Molière neutralise un homme influent, qui pourrait se persuader qu’il est l’original de George Dandin</head>
       </div>
-      <div type="anecdote" xml:id="moliere-tire-nom-fleurant-veritable-apothicaire">
+      <div ana="#Naturel #Le_malade_imaginaire" type="anecdote" xml:id="moliere-tire-nom-fleurant-veritable-apothicaire">
         <head>Molière tire le nom de l’apothicaire du <hi rend="i">Malade imaginaire</hi> de celui d’un garçon apothicaire, rencontré par hasard et nommé Fleurant</head>
       </div>
-      <div type="anecdote" xml:id="boileau-fournit-latin-macaronique">
+      <div ana="#Boileau #Ninon_de_lenclos #Le_malade_imaginaire" type="anecdote" xml:id="boileau-fournit-latin-macaronique">
         <head>Boileau fournit à Molière le latin macaronique du troisième intermède du <hi rend="i">Malade imaginaire</hi> au cours d’un dîner avec Ninon de Lenclos et Mme de La Sablière</head>
       </div>
-      <div type="anecdote" xml:id="moliere-modifie-vers-malade-imaginaire">
+      <div ana="#Public #Le_malade_imaginaire" type="anecdote" xml:id="moliere-modifie-vers-malade-imaginaire">
         <head>Molière modifie un vers du <hi rend="i">Malade imaginaire</hi> qui choqua le public lors de la première représentation</head>
       </div>
-      <div type="anecdote" xml:id="moliere-fait-bon-mot-jeu-beauval">
+      <div ana="#Bon_mot #Naturel #Beauval #Le_malade_imaginaire" type="anecdote" xml:id="moliere-fait-bon-mot-jeu-beauval">
         <head>Molière fait un bon mot sur le jeu naturel de Beauval dans le rôle de Diafoirus (<hi rend="i">Le Malade imaginaire</hi>)</head>
       </div>
-      <div type="anecdote" xml:id="moliere-tire-mariage-force-aventure-chevalier-grammont">
+      <div ana="#Naturel #Cles #Le_mariage force" type="anecdote" xml:id="moliere-tire-mariage-force-aventure-chevalier-grammont">
         <head>Molière tire l’intrigue du <hi rend="i">Mariage forcé</hi> de l’aventure du chevalier de Grammont et de Mlle Hamilton</head>
       </div>
-      <div type="anecdote" xml:id="rose-invente-chanson-pour-accuser-moliere-de-plagiat">
+      <div ana="#Plagiat #Le_medecin_malgre_lui" type="anecdote" xml:id="rose-invente-chanson-pour-accuser-moliere-de-plagiat">
         <head>L’académicien Toussaint Rose invente une chanson latine sur l’air de la chanson de Sganarelle afin d’accuser Molière de plagiat (<hi rend="i">Le Médecin malgré lui</hi>)</head>
       </div>
-      <div type="anecdote" xml:id="moliere-tire-caractere-sganarelle-et-martine-couple-perruquier">
+      <div ana="#Naturel #Satire #Le_medecin_malgre_lui" type="anecdote" xml:id="moliere-tire-caractere-sganarelle-et-martine-couple-perruquier">
         <head>Molière peint les caractères de Sganarelle et Martine dans la première scène du <hi rend="i">Médecin malgré lui</hi> d'après ceux d’un perruquier et de sa femme</head>
       </div>
-      <div type="anecdote" xml:id="moliere-programme-misanthrope-et-medecin-apres-echec">
+      <div ana="#Echec #Le_medecin_malgre_lui #Le_misanthrope" type="anecdote" xml:id="moliere-programme-misanthrope-et-medecin-apres-echec">
         <head>Molière remet à l’affiche <hi rend="i">Le Misanthrope</hi> avec <hi rend="i">Le Médecin malgré lui</hi>, après l’échec de la pièce</head>
       </div>
-      <div type="anecdote" xml:id="public-vexe-fait-mauvais-accueil-misanthrope">
+      <div ana="#Echec #Public #Le_misanthrope" type="anecdote" xml:id="public-vexe-fait-mauvais-accueil-misanthrope">
         <head>Le public, vexé d’avoir admiré le sonnet d’Oronte, ridiculisé par Alceste, fait un mauvais accueil au <hi rend="i">Misanthrope</hi></head>
       </div>
-      <div type="anecdote" xml:id="moliere-fait-allusion-libelle-dans-misanthrope">
+      <div ana="#Le_tartuffe #Le_misanthrope" type="anecdote" xml:id="moliere-fait-allusion-libelle-dans-misanthrope">
         <head>Molière fait allusion, dans <hi rend="i">Le Misanthrope</hi>, à un libelle paru contre <hi rend="i">Le Tartuffe</hi></head>
       </div>
-      <div type="anecdote" xml:id="moliere-promet-mieux-apres-misanthrope">
+      <div ana="#Le_tartuffe #Le_misanthrope" type="anecdote" xml:id="moliere-promet-mieux-apres-misanthrope">
         <head>Molière promet de faire mieux après <hi rend="i">Le Misanthrope</hi></head>
       </div>
-      <div type="anecdote" xml:id="baron-demontre-efficacite-declamation-chanson-misanthrope">
+      <div ana="#Comedien #Jeu #Baron #Le_misanthrope" type="anecdote" xml:id="baron-demontre-efficacite-declamation-chanson-misanthrope">
         <head>Baron démontre l’efficacité de la déclamation grâce à la chanson du <hi rend="i">Misanthrope</hi></head>
       </div>
-      <div type="anecdote" xml:id="moliere-tire-misanthrope-piece-italienne">
+      <div ana="#Plagiat #Farce #Le_misanthrope" type="anecdote" xml:id="moliere-tire-misanthrope-piece-italienne">
         <head>Molière tire <hi rend="i">Le Misanthrope</hi> d’une pièce créée à Naples et dont l’acteur de la comédie italienne, Angelo lui a rapporté le sujet</head>
       </div>
-      <div type="anecdote" xml:id="moliere-justifie-farces-par-interet-acteurs">
+      <div ana="#Farce #Sacrifice" type="anecdote" xml:id="moliere-justifie-farces-par-interet-acteurs">
         <head>Molière allègue l’intérêt de ses acteurs pour justifier ses farces</head>
       </div>
-      <div type="anecdote" xml:id="moliere-fait-bon-mot-pere-maimbourg">
+      <div ana="#Bon_mot #Le_tartuffe" type="anecdote" xml:id="moliere-fait-bon-mot-pere-maimbourg">
         <head>Molière répond aux détracteurs du <hi rend="i">Tartuffe</hi> en faisant un bon mot sur le Père Maimbourg</head>
       </div>
-      <div type="anecdote" xml:id="moliere-tire-replique-pauvre-homme-d-un-mot-du-roi">
+      <div ana="#Naturel #Louis_XIV #Le_tartuffe" type="anecdote" xml:id="moliere-tire-replique-pauvre-homme-d-un-mot-du-roi">
         <head>Molière tire la réplique du « pauvre homme » de la réponse que fit Louis XIV à un courtisan, qui lui décrivait le repas copieux d’un évêque censé jeûner</head>
       </div>
-      <div type="anecdote" xml:id="moliere-tire-nom-tartuffe-scene-chez-nonce">
+      <div ana="#Observateur #Le_tartuffe" type="anecdote" xml:id="moliere-tire-nom-tartuffe-scene-chez-nonce">
         <head>Molière tire le nom « Tartuffe » d’une scène à laquelle il assiste chez le nonce du pape</head>
       </div>
-      <div type="anecdote" xml:id="moliere-declare-s-etre-repenti-d-avoir-ecrit-tartuffe">
+      <div ana="#Succes #Sacrifice #Le_tartuffe" type="anecdote" xml:id="moliere-declare-s-etre-repenti-d-avoir-ecrit-tartuffe">
         <head>Après que <hi rend="i">Le Tartuffe</hi> a été remis au théâtre et applaudi, Molière déclare s’être plusieurs fois repenti de l’avoir écrit</head>
       </div>
-      <div type="anecdote" xml:id="menage-fait-eloge-tartuffe-a-lamoignon">
+      <div ana="#Eloge #Menage #Le_tartuffe" type="anecdote" xml:id="menage-fait-eloge-tartuffe-a-lamoignon">
         <head>Ménage fait l’éloge du <hi rend="i">Tartuffe</hi> au premier président Lamoignon</head>
       </div>
-      <div type="anecdote" xml:id="moliere-s-emporte-contre-armande-role-elmire">
+      <div ana="#Naturel #Jalousie #Armande #Le_tartuffe" type="anecdote" xml:id="moliere-s-emporte-contre-armande-role-elmire">
         <head>Molière s’emporte contre Armande Béjart, dont la parure ne convient pas au rôle d'Elmire, convalescente(<hi rend="i">Le Tartuffe</hi>)</head>
       </div>
-      <div type="anecdote" xml:id="acteurs-tournent-en-derision-ordre-eveque-en-annoncant-tartuffe">
+      <div ana="#Comedien #Le_tartuffe" type="anecdote" xml:id="acteurs-tournent-en-derision-ordre-eveque-en-annoncant-tartuffe">
         <head>Des acteurs de province tournent en dérision l’ordre qu’ils reçoivent de quitter la ville en annonçant <hi rend="i">Le Tartuffe</hi> pour le lendemain</head>
       </div>
-      <div type="anecdote" xml:id="corneille-incapable-expliquer-ses-vers">
+      <div ana="#Corneille #Baron" type="anecdote" xml:id="corneille-incapable-expliquer-ses-vers">
         <head>Corneille, invité à souper chez Molière, est incapable d’expliquer à Baron ses propres vers et illustre ainsi le propos de Boileau sur le « galimatias double »</head>
       </div>
-      <div type="anecdote" xml:id="Voltaire-enfant-lit-amphitryon">
+      <div ana="#Eloge #Voltaire #Amphitryon" type="anecdote" xml:id="Voltaire-enfant-lit-amphitryon">
         <head>Voltaire lit à onze ans <hi rend="i">Amphitryon</hi>, qui le fait beaucoup rire</head>
       </div>
-      <div type="anecdote" xml:id="roi-prusse-fait-eloge-misanthrope">
+      <div ana="#Eloge #Le_misanthrope" type="anecdote" xml:id="roi-prusse-fait-eloge-misanthrope">
         <head>Le roi de Prusse, assistant à la représentation du <hi rend="i">Cercle</hi> de Poinsinet, fait l’éloge du <hi rend="i">Misanthrope</hi></head>
       </div>
-      <div type="anecdote" xml:id="comedien-armand-raconte-histoire-tartuffe">
+      <div ana="#Jeu #Le_tartuffe" type="anecdote" xml:id="comedien-armand-raconte-histoire-tartuffe">
         <head>Le comédien Armand fait pleurer ses camarades en leur racontant l’histoire du <hi rend="i">Tartuffe</hi></head>
       </div>
-      <div type="anecdote" xml:id="moliere-joue-cotin-sous-nom-tricotin">
+      <div ana="#Satire #Cotin #Les_femmes_savantes" type="anecdote" xml:id="moliere-joue-cotin-sous-nom-tricotin">
         <head>Molière fait d’abord la satire de Cotin sous le nom de Tricotin, ensuite transformé en Trissotin (<hi rend="i">Les Femmes savantes</hi>)</head>
       </div>
-      <div type="anecdote" xml:id="menage-refuse-de-croire-satire-femmes-savantes">
+      <div ana="#Satire #Menage #Les_femmes_savantes" type="anecdote" xml:id="menage-refuse-de-croire-satire-femmes-savantes">
         <head>Ménage refuse de croire que Molière fait la satire de Mme de Rambouillet, de sa fille et de lui-même dans <hi rend="i">Les Femmes savantes</hi></head>
       </div>
-      <div type="anecdote" xml:id="bel-esprit-fait-bon-mot-sur-jeunes-auteurs">
+      <div ana="#Eloge" type="anecdote" xml:id="bel-esprit-fait-bon-mot-sur-jeunes-auteurs">
         <head>Un bel esprit fait un bon mot sur les jeunes auteurs qui pensent que Molière a vieilli</head>
       </div>
-      <div type="anecdote" xml:id="moliere-ne-peut-affronter-tonitruant-fourcroy">
+      <div ana="#Philosophie" type="anecdote" xml:id="moliere-ne-peut-affronter-tonitruant-fourcroy">
         <head>Molière, avec sa voix ténue, ne peut affronter son ami, l’avocat tonitruant Fourcroy</head>
       </div>
-      <div type="anecdote" xml:id="moliere-tire-scene-vadius-trissotin-dispute-cotin-menage">
+      <div ana="#Naturel #Satire #Observateur #Cotin #Menage #Les_femmes_savantes" type="anecdote" xml:id="moliere-tire-scene-vadius-trissotin-dispute-cotin-menage">
         <head>Molière tire la scène entre Trissotin et Vadius d’une dispute entre Cotin et Ménage qui eut lieu chez Mademoiselle (<hi rend="i">Les Femmes savantes</hi>)</head>
       </div>
-      <div type="anecdote" xml:id="malouin-impute-mort-moliere-satire-medecine">
+      <div ana="#Satire #Medecine #Mort" type="anecdote" xml:id="malouin-impute-mort-moliere-satire-medecine">
         <head>Malouin, le médecin de la reine, suggère que Molière a payé la satire de la médecine par la façon dont il est mort</head>
       </div>
-      <div type="anecdote" xml:id="boileau-reproche-a-moliere-jargon-paysan">
+      <div ana="#Farce #Boileau" type="anecdote" xml:id="boileau-reproche-a-moliere-jargon-paysan">
         <head>Boileau reproche à Molière le jargon qu’utilisent, dans ses pièces, les paysans et quelques autres personnages</head>
       </div>
-      <div type="anecdote" xml:id="moliere-pousse-brouette-et-se-couvre-de-boue">
+      <div ana="#Farce" type="anecdote" xml:id="moliere-pousse-brouette-et-se-couvre-de-boue">
         <head>Molière décide de pousser la brouette qui le transporte pour aller plus vite, sans s’apercevoir qu’il se couvre de boue</head>
       </div>
-      <div type="anecdote" xml:id="moliere-refuse-supprimer-trait-comique-flandrin">
+      <div ana="#Naturel #Satire #Le_misanthrope" type="anecdote" xml:id="moliere-refuse-supprimer-trait-comique-flandrin">
         <head>Molière refuse de supprimer le trait comique sur le grand flandrin comme le demande Henriette d'Angleterre, parce qu’il a un original (<hi rend="i">Le Misanthrope</hi>)</head>
       </div>
-      <div type="anecdote" xml:id="moliere-affirme-primat-justesse-sur-perfection">
+      <div ana="#Naturel #Boileau" type="anecdote" xml:id="moliere-affirme-primat-justesse-sur-perfection">
         <head>Molière refuse de corriger un vers de Boileau, au nom du primat du naturel sur la perfection</head>
       </div>
-      <div type="anecdote" xml:id="moliere-meilleur-predicateur-que-joly">
+      <div ana="#Comedien" type="anecdote" xml:id="moliere-meilleur-predicateur-que-joly">
         <head>Pour décrier le prédicateur Claude Joly, on disait que Molière était meilleur prédicateur et Joly meilleur comédien</head>
       </div>
-      <div type="anecdote" xml:id="moliere-peint-timante-d-apres-saint-gilles">
+      <div ana="#Naturel #Satire #La_Fontaine #Le_misanthrope" type="anecdote" xml:id="moliere-peint-timante-d-apres-saint-gilles">
         <head>Molière peint Timante d’après Saint-Gilles, qui prit le parti de Bouillon contre La Fontaine dans le débat sur la traduction de la nouvelle « Joconde » de l’Arioste (<hi rend="i">Le Misanthrope</hi>)</head>
       </div>
-      <div type="anecdote" xml:id="moliere-peint-bourgeois-gentilhomme-d-apres-gandouin">
+      <div ana="#Naturel #Satire #Le_bourgeois_gentilhomme" type="anecdote" xml:id="moliere-peint-bourgeois-gentilhomme-d-apres-gandouin">
         <head>Molière peint le Bourgeois gentilhomme d’après un chapelier nommé Gandouin</head>
       </div>
-      <div type="anecdote" xml:id="baron-defend-moliere-en-denigrant-racine">
+      <div ana="#Maitre #Philosophie #Baron #Racine" type="anecdote" xml:id="baron-defend-moliere-en-denigrant-racine">
         <head>Baron prend la défense de Molière en dénigrant Racine devant un de ses amis</head>
       </div>
-      <div type="anecdote" xml:id="moliere-observe-assis-dans-coche">
+      <div ana="#Observateur #Province" type="anecdote" xml:id="moliere-observe-assis-dans-coche">
         <head>Molière demeure des heures durant, assis à bord du coche d’Auxerre, observant les gens alentour</head>
       </div>
-      <div type="anecdote" xml:id="moliere-dit-que-lutin-souffle-vers-a-corneille">
+      <div ana="#Corneille" type="anecdote" xml:id="moliere-dit-que-lutin-souffle-vers-a-corneille">
         <head>Molière dit à propos de Corneille qu’un lutin vient lui inspirer des vers sublimes avant de l’abandonner</head>
       </div>
-      <div type="anecdote" xml:id="boileau-surnomme-moliere-contemplateur">
+      <div ana="#Observateur #Boileau" type="anecdote" xml:id="boileau-surnomme-moliere-contemplateur">
         <head>Boileau surnomme Molière « le contemplateur »</head>
       </div>
-      <div type="anecdote" xml:id="roi-donne-sujet-amants-magnifiques">
+      <div ana="#Cles #Louis_XIV #Les_amants_magnifiques" type="anecdote" xml:id="roi-donne-sujet-amants-magnifiques">
         <head>Louis XIV donne à Molière le sujet des <hi rend="i">Amants magnifiques</hi></head>
       </div>
-      <div type="anecdote" xml:id="moliere-tire-scene-Harpagon-Cleante-aventure-Malon-de-Bercy-et-fils">
+      <div ana="#Naturel #Satire #L_avare" type="anecdote" xml:id="moliere-tire-scene-Harpagon-Cleante-aventure-Malon-de-Bercy-et-fils">
         <head>Molière tire la scène où Cléante découvre que l’usurier à qui il est contraint d’emprunter est son père d’une aventure vécue par Malon de Bercy et son fils (<hi rend="i">L’Avare</hi>)</head>
       </div>
-      <div type="anecdote" xml:id="armande-se-jette-aux-pieds-roi-pour-sepulture">
+      <div ana="#Comedien #Enterrement #Armande #Louis_XIV" type="anecdote" xml:id="armande-se-jette-aux-pieds-roi-pour-sepulture">
         <head>Armande Béjart se jette aux pieds de Louis XIV pour donner une sépulture à son mari</head>
       </div>
-      <div type="anecdote" xml:id="armande-et-baron-changent-aversion-en-desir">
+      <div ana="#Jalousie #Armande #Baron #Psyche" type="anecdote" xml:id="armande-et-baron-changent-aversion-en-desir">
         <head>Armande Béjart et Baron changent leur aversion en désir en jouant les rôles de Psyché et d’Amour</head>
       </div>
-      <div type="anecdote" xml:id="moliere-interrompu-dans-lecture-tartuffe-chez-dame-janseniste">
+      <div ana="#Le_tartuffe" type="anecdote" xml:id="moliere-interrompu-dans-lecture-tartuffe-chez-dame-janseniste">
         <head>Molière, venu lire Le Tartuffe chez une dame proche des jansénistes, est interrompu avant d’en avoir commencé la lecture</head>
       </div>
-      <div type="anecdote" xml:id="moliere-tire-replique-don-juan-reponse-prince-allemagne">
+      <div ana="#Naturel #Le_festin_de_pierre" type="anecdote" xml:id="moliere-tire-replique-don-juan-reponse-prince-allemagne">
         <head>Molière tire la réplique de Don Juan sur 2 et 2 font 4 de la réponse d’un prince d’Allemagne à son confesseur qui lui demandait s’il croyait</head>
       </div>
-      <div type="anecdote" xml:id="moliere-peint-tartuffe-d-apres-abbe-pons">
+      <div ana="#Naturel #Satire #Le_tartuffe" type="anecdote" xml:id="moliere-peint-tartuffe-d-apres-abbe-pons">
         <head>Molière peint le personnage de Tartuffe d’après l’abbé Pons</head>
       </div>
-      <div type="anecdote" xml:id="moliere-peint-george-dandin-d-apres-sellier-rue-montorgueil">
+      <div ana="#Naturel #Satire #George_Dandin" type="anecdote" xml:id="moliere-peint-george-dandin-d-apres-sellier-rue-montorgueil">
         <head>Molière peint George Dandin d’après un sellier de la rue Montorgueil appelé George Dandin</head>
       </div>
-      <div type="anecdote" xml:id="moliere-tire-scene-malade-imaginaire-dialogue-colletet-et-fils">
+      <div ana="#Naturel #Satire #Le_malade_imaginaire" type="anecdote" xml:id="moliere-tire-scene-malade-imaginaire-dialogue-colletet-et-fils">
         <head>Molière tire la scène entre Diafoirus et son fils des quelques mots prononcés par Guillaume Colletet et son fils dans une compagnie (<hi rend="i">Le Malade imaginaire</hi>)</head>
       </div>
-      <div type="anecdote" xml:id="acteur-kemble-refuse-appartenance-moliere-France">
+      <div ana="#Eloge" type="anecdote" xml:id="acteur-kemble-refuse-appartenance-moliere-France">
         <head>L’acteur Kemble refuse d’admettre que Molière appartienne à la seule nation française et non à l’univers</head>
       </div>
-      <div type="anecdote" xml:id="moliere-peint-don-juan-d-apres-grignan">
+      <div ana="#Naturel #Satire #Observateur #Le_festin_de_pierre" type="anecdote" xml:id="moliere-peint-don-juan-d-apres-grignan">
         <head>Molière peint Don Juan d’après le comte de Grignan, après l’avoir longuement observé en silence</head>
       </div>
-      <div type="anecdote" xml:id="sillery-regrette-de-n-avoir-pas-donne-portrait-avare-a-moliere">
+      <div ana="#Naturel #Satire #L_avare" type="anecdote" xml:id="sillery-regrette-de-n-avoir-pas-donne-portrait-avare-a-moliere">
         <head>Le marquis de Sillery regrette de ne pas avoir raconté à Molière la visite qu’il fit à un vieil avare</head>
       </div>
-      <div type="anecdote" xml:id="moliere-tire-histoire-agnes-de-celle-d-armande">
+      <div ana="#Naturel #Mariage #Armande #L_ecole_des_femmes" type="anecdote" xml:id="moliere-tire-histoire-agnes-de-celle-d-armande">
         <head>Molière tire l’histoire d’Agnès de celle d’Armande (<hi rend="i">L’École des femmes</hi>)</head>
       </div>
-      <div type="anecdote" xml:id="lamoignon-reproche-defendre-religion">
+      <div ana="#Le_tartuffe" type="anecdote" xml:id="lamoignon-reproche-defendre-religion">
         <head>Le premier président Lamoignon reproche à Molière, venu plaider pour son <hi rend="i">Tartuffe</hi>, non d’attaquer la religion mais de la défendre</head>
       </div>
-      <div type="anecdote" xml:id="moliere-exclu-genealogie-famille">
+      <div ana="#Comedien #Famille" type="anecdote" xml:id="moliere-exclu-genealogie-famille">
         <head>Un parent de Molière l’exclut du tableau généalogique de la famille</head>
       </div>
-      <div type="anecdote" xml:id="moliere-peint-leonor-d-apres-armande">
+      <div ana="#Naturel #Mariage #Armande #L_ecole_des_maris" type="anecdote" xml:id="moliere-peint-leonor-d-apres-armande">
         <head>Molière peint Léonor d’après Armande (<hi rend="i">L’École des maris</hi>)</head>
       </div>
-      <div type="anecdote" xml:id="moliere-et-ami-echangent-profession">
+      <div ana="#Comedien #Vocation" type="anecdote" xml:id="moliere-et-ami-echangent-profession">
         <head>Molière reçu avocat devient comédien en même temps qu’un ami comédien se fait avocat</head>
       </div>
-      <div type="anecdote" xml:id="moliere-approuve-vers-boileau">
+      <div ana="#Modestie #Boileau" type="anecdote" xml:id="moliere-approuve-vers-boileau">
         <head>Molière approuve le vers de Boileau « Il plaît à tout le monde et ne saurait se plaire »</head>
       </div>
-      <div type="anecdote" xml:id="moliere-fait-aparte-sur-la-fontaine">
+      <div ana="#La_Fontaine #Boileau" type="anecdote" xml:id="moliere-fait-aparte-sur-la-fontaine">
         <head>Molière ou Boileau fait un aparté concernant La Fontaine en présence de celui-ci pour prouver la vraisemblance du procédé</head>
       </div>
-      <div type="anecdote" xml:id="moliere-deni-justice-la-fontaine">
+      <div ana="#La_Fontaine" type="anecdote" xml:id="moliere-deni-justice-la-fontaine">
         <head>Molière, coupable d’un déni de justice envers La Fontaine</head>
       </div>
-      <div type="anecdote" xml:id="moliere-fait-bruler-exemplaires-apologie-misanthrope">
+      <div ana="#Le_misanthrope" type="anecdote" xml:id="moliere-fait-bruler-exemplaires-apologie-misanthrope">
         <head>Molière fait jeter au feu tous les exemplaires de l’apologie du <hi rend="i">Misanthrope</hi></head>
       </div>
-      <div type="anecdote" xml:id="avare-tire-principes-economie-d-harpagon">
+      <div ana="#Public #Correction #L_avare" type="anecdote" xml:id="avare-tire-principes-economie-d-harpagon">
         <head>Un avare est très satisfait de trouver dans la pièce de Molière de nouveaux principes d’économie</head>
       </div>
-      <div type="anecdote" xml:id="moliere-veut-tirer-comedie-aventure-medecin-et-barbier">
+      <div ana="#Naturel #Satire #Medecine" type="anecdote" xml:id="moliere-veut-tirer-comedie-aventure-medecin-et-barbier">
         <head>Molière veut tirer parti d’une aventure arrivée à un médecin une comédie intitulée <hi rend="i">Le Médecin fouetté et le Barbier cocu</hi></head>
       </div>
-      <div type="anecdote" xml:id="moliere-eleve-scaramouche">
+      <div ana="#Education #Farce" type="anecdote" xml:id="moliere-eleve-scaramouche">
         <head>Molière, élève de Scaramouche</head>
       </div>
     </body>
