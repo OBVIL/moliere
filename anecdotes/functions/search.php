@@ -18,7 +18,7 @@ function search($db) {
     anecdotes.short_title AS anecdote_short_title
     FROM occurrences, books, anecdotes";
     $sql .= " WHERE books.id = occurrences.book AND anecdotes.id = occurrences.anecdote";
-    $sql .= " AND occurrences.book IN (SELECT books.id FROM books WHERE books.date > " . $_POST["after"] . " AND books.date < " . $_POST["before"] . ")";
+    $sql .= " AND occurrences.book IN (SELECT books.id FROM books WHERE books.date >= " . $_POST["after"] . " AND books.date <= " . $_POST["before"] . ")";
     
     if ($_POST["content"]) {
         
