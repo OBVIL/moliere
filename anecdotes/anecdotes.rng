@@ -44,8 +44,6 @@
                 <a:documentation>Boileau ou Racine proclame Molière le premier des grands écrivains de son siècle devant Louis XIV</a:documentation>
                                 <value>eloge-composition-caractere</value>
                 <a:documentation>Boileau fait l'éloge du talent de Molière à composer un caractère</a:documentation>
-                                <value>chapelle-travaillant-pour-moliere</value>
-                <a:documentation>Chapelle travaillant pour Molière</a:documentation>
                                 <value>moliere-condisciple-conti</value>
                 <a:documentation>Molière, condisciple du prince de Conti</a:documentation>
                                 <value>conde-recherche-compagnie-moliere</value>
@@ -70,12 +68,8 @@
                 <a:documentation>Molière fait demander à Rohault son chapeau pour l’acteur jouant le maître de philosophie dans <i>Le Bourgeois gentilhomme</i></a:documentation>
                                 <value>moliere-doit-misanthrope-a-corneille</value>
                 <a:documentation>Molière n’aurait pas écrit <i>Le Misanthrope</i> sans <i>Le Menteur</i> de Corneille</a:documentation>
-                                <value>dispute-princesse-elide</value>
-                <a:documentation>Dispute conjugale après la représentation de <i>La Princesse d’Élide</i> à Versailles</a:documentation>
                                 <value>moliere-et-chapelle-disputent-philosophie-devant-minime</value>
                 <a:documentation>Molière et Chapelle disputent philosophie devant un frère minime</a:documentation>
-                                <value>doleance-a-travers-sosie</value>
-                <a:documentation>Doléance secrète de Molière contre les « chaînes » du roi par le truchement de Sosie</a:documentation>
                                 <value>duel-comediennes</value>
                 <a:documentation>Duel entre Mlle Beaupré et Mlle Des-Urlis, après la représentation de <i>La Comtesse d’Escarbagnas</i></a:documentation>
                                 <value>echec-avare-attribue-a-prose</value>
@@ -102,8 +96,6 @@
                 <a:documentation>Le prince de Conti instaure un impôt dont les habitants de Pézenas doivent s’acquitter pour indemniser la troupe de Molière</a:documentation>
                                 <value>menage-loue-femmes-savantes</value>
                 <a:documentation>Ménage fait l'éloge des <i>Femmes savantes</i> chez Mme de Rambouillet</a:documentation>
-                                <value>correction-auteur-precieux-voltaire</value>
-                <a:documentation>Voltaire propose à La Harpe d’intercaler dans <i>Les Précieuses</i> la phrase d’un auteur pour que celui-ci s’en corrige</a:documentation>
                                 <value>moliere-heros-intrigue-galante-province</value>
                 <a:documentation>Molière, héros d'une intrigue galante en province</a:documentation>
                                 <value>moliere-jaloux-baron-melicerte</value>
@@ -216,16 +208,12 @@
                 <a:documentation>Boileau reproche à Molière de continuer à jouer</a:documentation>
                                 <value>spectateurs-se-revoltent-contre-sort-dandin</value>
                 <a:documentation>Les spectateurs s'insurgent contre le sort de George Dandin</a:documentation>
-                                <value>bejart-role-boiteux</value>
-                <a:documentation>Rôle adapté à l’acteur : insulte « ce chien de boiteux-là » et Béjart, estropié</a:documentation>
                                 <value>moliere-adapte-role-acteur-hubert</value>
                 <a:documentation>Molière adapte les rôles à l’acteur : le cas d’Hubert, couard</a:documentation>
                                 <value>moliere-secourt-mondorge</value>
                 <a:documentation>Molière secourt le comédien Mondorge</a:documentation>
                                 <value>moliere-sejourne-a-vienne</value>
                 <a:documentation>Molière et sa troupe séjournent à Vienne</a:documentation>
-                                <value>silence-moliere-societe</value>
-                <a:documentation>Silence de Molière en société</a:documentation>
                                 <value>armande-donne-soufflet-a-baron</value>
                 <a:documentation>Armande Béjart donne un soufflet à Baron</a:documentation>
                                 <value>moliere-recoit-amis-souper-auteuil</value>
@@ -236,8 +224,6 @@
                 <a:documentation>Molière lit <i>Le Tartuffe</i> chez Ninon de Lenclos qui lui raconte une aventure semblable concernant le dépôt de deux cassettes</a:documentation>
                                 <value>moliere-deconseille-metier-comedien</value>
                 <a:documentation>Molière tente de détourner un jeune homme de la profession de comédien</a:documentation>
-                                <value>thebaide-jouee-en-province</value>
-                <a:documentation><i>Thébaïde</i> jouée par la troupe de Molière à Bordeaux</a:documentation>
                                 <value>domestique-detruit-traduction-lucrece</value>
                 <a:documentation>Un domestique de Molière détruit par mégarde sa traduction de Lucrèce</a:documentation>
                                 <value>mousquetaires-provoquent-tumulte</value>
@@ -435,6 +421,7 @@
           <group>
             <attribute name="type">
               <value>commentStart</value>
+              <a:documentation>Début d’un commentaire</a:documentation>
             </attribute>
             <attribute name="corresp">
               <choice>                <value>#moliere-fait-acheter-habit-cotin</value>
@@ -449,7 +436,6 @@
                                 <value>#boileau-fait-eloge-avare</value>
                                 <value>#boileau-ou-racine-consacre-moliere-devant-roi</value>
                                 <value>#eloge-composition-caractere</value>
-                                <value>#chapelle-travaillant-pour-moliere</value>
                                 <value>#moliere-condisciple-conti</value>
                                 <value>#conde-recherche-compagnie-moliere</value>
                                 <value>#moliere-confie-souffrance-chapelle</value>
@@ -462,9 +448,7 @@
                                 <value>#racine-fait-eloge-misanthrope</value>
                                 <value>#moliere-fait-demander-chapeau-rohault</value>
                                 <value>#moliere-doit-misanthrope-a-corneille</value>
-                                <value>#dispute-princesse-elide</value>
                                 <value>#moliere-et-chapelle-disputent-philosophie-devant-minime</value>
-                                <value>#doleance-a-travers-sosie</value>
                                 <value>#duel-comediennes</value>
                                 <value>#echec-avare-attribue-a-prose</value>
                                 <value>#moliere-defend-bonhomme-la-fontaine</value>
@@ -478,7 +462,6 @@
                                 <value>#moliere-dement-applications-femmes-savantes</value>
                                 <value>#impot-habitants-pezenas-indemnise-troupe</value>
                                 <value>#menage-loue-femmes-savantes</value>
-                                <value>#correction-auteur-precieux-voltaire</value>
                                 <value>#moliere-heros-intrigue-galante-province</value>
                                 <value>#moliere-jaloux-baron-melicerte</value>
                                 <value>#roi-differe-louanges-bourgeois-gentilhomme</value>
@@ -535,17 +518,14 @@
                                 <value>#montausier-se-targue-de-ressembler-au-misanthrope</value>
                                 <value>#boileau-reproche-a-moliere-de-continuer-a-jouer</value>
                                 <value>#spectateurs-se-revoltent-contre-sort-dandin</value>
-                                <value>#bejart-role-boiteux</value>
                                 <value>#moliere-adapte-role-acteur-hubert</value>
                                 <value>#moliere-secourt-mondorge</value>
                                 <value>#moliere-sejourne-a-vienne</value>
-                                <value>#silence-moliere-societe</value>
                                 <value>#armande-donne-soufflet-a-baron</value>
                                 <value>#moliere-recoit-amis-souper-auteuil</value>
                                 <value>#moliere-au-supplice-diction-acteurs</value>
                                 <value>#moliere-lit-tartuffe-chez-ninon-de-lenclos-depot-cassettes</value>
                                 <value>#moliere-deconseille-metier-comedien</value>
-                                <value>#thebaide-jouee-en-province</value>
                                 <value>#domestique-detruit-traduction-lucrece</value>
                                 <value>#mousquetaires-provoquent-tumulte</value>
                                 <value>#valet-de-chambre-humilie-moliere</value>
@@ -644,6 +624,18 @@
                 </choice>
           </attribute>
           </group>
+          <group>
+            <attribute name="type">
+              <value>anecdoteEnd</value>
+              <a:documentation>Fin d’une anecdote</a:documentation>
+            </attribute>
+          </group>
+          <group>
+            <attribute name="type">
+              <value>commentEnd</value>
+              <a:documentation>Fin d’un commentaire</a:documentation>
+            </attribute>
+          </group>	  
         </choice>
       </element>
     </define>

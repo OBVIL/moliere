@@ -30,6 +30,7 @@
           <group>
             <attribute name="type">
               <value>commentStart</value>
+              <a:documentation>Début d’un commentaire</a:documentation>
             </attribute>
             <attribute name="corresp">
               <choice><?php foreach($anecdotes as $key => $anecdote){?>
@@ -37,6 +38,18 @@
                 <?php }?></choice>
           </attribute>
           </group>
+          <group>
+            <attribute name="type">
+              <value>anecdoteEnd</value>
+              <a:documentation>Fin d’une anecdote</a:documentation>
+            </attribute>
+          </group>
+          <group>
+            <attribute name="type">
+              <value>commentEnd</value>
+              <a:documentation>Fin d’un commentaire</a:documentation>
+            </attribute>
+          </group>	  
         </choice>
       </element>
     </define>
