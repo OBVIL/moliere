@@ -268,9 +268,6 @@
       <div ana="#Comedien #Mort" type="anecdote" xml:id="femme-du-peuple-nomme-moliere-avec-mepris">
         <head>Une femme du peuple nomme Molière avec mépris lors de son enterrement</head>
       </div>
-      <div ana="#Mlle_De_Brie" type="anecdote" xml:id="marotte-fille-chambre-de-brie">
-        <head>Mlle Ragueneau, surnommée Marotte, fille de chambre de Mlle de Brie (lien avec <hi rend="i">Le Roman comique</hi>)</head>
-      </div>
       <div ana="#Province #Grands #Conti" type="anecdote" xml:id="maitresse-conti-fait-appeler-moliere">
         <head>La maîtresse du prince de Conti, Mme Calvimont, fait venir la troupe de Molière à Pézenas</head>
       </div>
@@ -346,9 +343,6 @@
       <div ana="#Province" type="anecdote" xml:id="villedieu-actrice-dans-troupe-de-moliere">
         <head>Mme de Villedieu prétend avoir fait partie de la troupe de Molière</head>
       </div>
-      <div ana="#Corneille" type="anecdote" xml:id="passion-corneille-du-parc">
-        <head>Passion de Corneille pour Mlle Du Parc</head>
-      </div>
       <div ana="#Naturel #Satire #Grands #Louis_XIV #Les_facheux" type="anecdote" xml:id="roi-suggere-personnage-chasseur">
         <head>Louis XIV suggère à Molière le personnage du chasseur (<hi rend="i">Les Fâcheux</hi>)</head>
       </div>
@@ -367,8 +361,8 @@
       <div ana="#Vocation #Grands #Conti" type="anecdote" xml:id="moliere-refuse-poste-conti">
         <head>Molière refuse le poste de secrétaire offert par le prince de Conti</head>
       </div>
-      <div ana="#Comedien" type="anecdote" xml:id="pression-troupe-festin-pierre">
-        <head>Pression exercée par la troupe pour créer un <hi rend="i">Festin de Pierre</hi></head>
+      <div ana="#Sacrifice" type="anecdote" xml:id="pression-troupe-festin-pierre">
+        <head>Molière écrit <hi rend="i">Le Festin de Pierre</hi> sous la pression de sa troupe</head>
       </div>
       <div ana="#Bon_mot #Amour #Mlle_De_Brie" type="anecdote" xml:id="moliere-fait-bon-mot-amour-pour-de-brie">
         <head>Molière fait un bon mot sur les raisons de son amour pour Mlle de Brie</head>

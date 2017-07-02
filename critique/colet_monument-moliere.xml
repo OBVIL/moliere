@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../teibook/teibook.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../anecdotes/anecdotes.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/xsl" href="../../teipub/xsl/tei2html.xsl"?>
 <!--odt2tei: 2015-03-17T11:09:17+01:00-->
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
@@ -318,16 +318,16 @@
           <l>Au cœur il est frappé par ceux qu’il persiflait</l>
           <l>Avec cette arme occulte et lâche, le pamphlet…<pb n="14"/></l>
           <p/>
-          <l>Mais, le couvrant toujours de son pouvoir suprême,</l>
-          <l>Louis est le vengeur du poète qu’il aime.</l>
-          <l>A la table royale il le convie un jour ;</l>
-          <l>Il fait plus : à Versaille, entouré de sa cour,</l>
+          <l><milestone type="commentStart" corresp="#moliere-mange-avec-roi"/>Mais, le couvrant toujours de son pouvoir suprême,</l>
+          <l>Louis est le vengeur du poète qu’il aime.<milestone type="commentEnd"/></l>
+          <l><milestone type="anecdoteStart" xml:id="moliere-mange-avec-roi"/>A la table royale il le convie un jour ;<milestone type="anecdoteEnd"/></l>
+          <l><milestone type="commentStart" corresp="#moliere-mange-avec-roi"/>Il fait plus : à Versaille, entouré de sa cour,</l>
           <l>Avec cette princesse, alors heureuse et belle</l>
           <l>Qu’un cri de Bossuet devait rendre immortelle<note place="bottom">Louis XIV teint sur les fonts baptismaux le premier enfant de Molière, avec Henriette d’Angleterre. Cette enfant qui portait le nom de Louis ne vécut pas.</note>,</l>
           <l>De Molière outragé, que son grand cœur défend,</l>
           <l>Sur les fonts de baptême il veut tenir l’enfant,</l>
           <l>Et le fils d’un acteur, malgré l’intolérance,</l>
-          <l>À reçu devant Dieu le nom du roi de France.</l>
+          <l>A reçu devant Dieu le nom du roi de France.<milestone type="commentEnd"/></l>
         </div>
         <div>
           <head>IV.</head>

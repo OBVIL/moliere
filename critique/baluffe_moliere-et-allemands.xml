@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../teibook/teibook.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../anecdotes/anecdotes.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/xsl" href="../../teipub/xsl/tei2html.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
@@ -163,9 +163,9 @@
             place="bottom">Je prépare depuis plusieurs années un grand ouvrage sur <hi rend="i"
                   >Molière et la société languedocienne au <num>xvii<hi rend="sup"
               >e</hi></num> siècle</hi>, qui paraîtra prochainement.</note> : œuvre et vie qui constituent précisément le plus fameux événement littéraire de notre histoire locale.</p>
-        <p>— Dans les archives municipales de la commune de Montagnac, de laquelle dépendaient et le château de la Grange-des-Prés, où le prince de Conti recevait Molière, et le château de Lavagnac, où, selon une légende populaire assez répandue, la baronne de Florac aurait eu une <pb
+        <p>— Dans les archives municipales de la commune de Montagnac, de laquelle dépendaient et le château de la Grange-des-Prés, où le prince de Conti recevait Molière, et<milestone type="anecdoteStart" xml:id="moliere-heros-intrigue-galante-province"/> le château de Lavagnac, où, selon une légende populaire assez répandue, la baronne de Florac aurait eu une <pb
             n="9"
-            />intrigue galante avec Molière, dans ces archives et sur le Registre mortuaire, entre deux actes de décès relatifs au père et à la sœur du baron de Florac (23 août 1654, 15 janvier 1655) et Pacte de décès du prince de Conti (23 février 1666) se trouve consignée, également, la mort obscure d’un obscur plébéien, qui n’était rien et qui était beaucoup, car c’était mon aïeul. <quote>« Le 17 juin 1656 »</quote>, c’est-à-dire vers l’époque où Molière était dans ces parages, <quote>« Jean Baluffe, d’Autignac »</quote>, mourait à Montagnac <quote>« en revenant des bains de Balaruc »</quote>, la station thermale fort à la mode alors<note
+        />intrigue galante avec Molière,<milestone type="anecdoteEnd"/> dans ces archives et sur le Registre mortuaire, entre deux actes de décès relatifs au père et à la sœur du baron de Florac (23 août 1654, 15 janvier 1655) et l'acte de décès du prince de Conti (23 février 1666) se trouve consignée, également, la mort obscure d’un obscur plébéien, qui n’était rien et qui était beaucoup, car c’était mon aïeul. <quote>« Le 17 juin 1656 »</quote>, c’est-à-dire vers l’époque où Molière était dans ces parages, <quote>« Jean Baluffe, d’Autignac »</quote>, mourait à Montagnac <quote>« en revenant des bains de Balaruc »</quote>, la station thermale fort à la mode alors<note
             place="bottom">Voir de nombreuses <hi rend="i">lettres</hi> de M<hi rend="sup"
             >me</hi> de Sévigné sur Balaruc.</note>. Le hasard seul a-t-il associé ainsi par la mort cet inconnu à de personnages qui vécurent dans l’intimité de Molière, et le défunt n’avait-il jamais approché, connu, aimé, applaudi, fêté, comme eux et peut-être avec eux, ce même Molière, si populaire alors dans le Bas-Languedoc ? Pensez-en ce que vous voudrez ; mais il est certain qu’un de mes aïeux n’aurait eu qu’à ouvrir les yeux pour voir Molière, qu’à étendre la main pour effleurer et serrer la main de Molière !</p>
         <p>— Autre détail domestique dont l’intérêt privé a trait à Molière de plus près. La communauté d’Abeilhan, où de temps immémorial résidait la famille de ma mère<note
