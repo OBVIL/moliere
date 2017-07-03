@@ -59,6 +59,7 @@ if (isset($_POST["post"])) {
     include ("tpl/table.tpl.php");
     //include("viz/afc.php");
 }
+
 ?>
     </body>
 </html>
