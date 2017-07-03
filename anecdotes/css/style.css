@@ -52,7 +52,10 @@ td, th{
   white-space: nowrap;
     
 }
-.matrix thead th  > div.th-container {
+.matrix td.first-author{
+  white-space: nowrap;
+    
+}.matrix thead th  > div.th-container {
     transform: 
       translate(0px, 7px)
       rotate(270deg);
