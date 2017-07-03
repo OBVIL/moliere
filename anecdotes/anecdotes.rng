@@ -126,8 +126,6 @@
                 <a:documentation>Ménage abjure le jargon des précieuses (<i>Les Précieuses ridicules</i>)</a:documentation>
                                 <value>femme-du-peuple-nomme-moliere-avec-mepris</value>
                 <a:documentation>Une femme du peuple nomme Molière avec mépris lors de son enterrement</a:documentation>
-                                <value>marotte-fille-chambre-de-brie</value>
-                <a:documentation>Mlle Ragueneau, surnommée Marotte, fille de chambre de Mlle de Brie (lien avec <i>Le Roman comique</i>)</a:documentation>
                                 <value>maitresse-conti-fait-appeler-moliere</value>
                 <a:documentation>La maîtresse du prince de Conti, Mme Calvimont, fait venir la troupe de Molière à Pézenas</a:documentation>
                                 <value>dacier-supprime-dissertation-amphitryon</value>
@@ -178,8 +176,6 @@
                 <a:documentation>Parmesan réclamé par Molière à l’agonie</a:documentation>
                                 <value>villedieu-actrice-dans-troupe-de-moliere</value>
                 <a:documentation>Mme de Villedieu prétend avoir fait partie de la troupe de Molière</a:documentation>
-                                <value>passion-corneille-du-parc</value>
-                <a:documentation>Passion de Corneille pour Mlle Du Parc</a:documentation>
                                 <value>roi-suggere-personnage-chasseur</value>
                 <a:documentation>Louis XIV suggère à Molière le personnage du chasseur (<i>Les Fâcheux</i>)</a:documentation>
                                 <value>moliere-nie-plagiat-pedant-joue</value>
@@ -193,7 +189,7 @@
                                 <value>moliere-refuse-poste-conti</value>
                 <a:documentation>Molière refuse le poste de secrétaire offert par le prince de Conti</a:documentation>
                                 <value>pression-troupe-festin-pierre</value>
-                <a:documentation>Pression exercée par la troupe pour créer un <i>Festin de Pierre</i></a:documentation>
+                <a:documentation>Molière écrit <i>Le Festin de Pierre</i> sous la pression de sa troupe</a:documentation>
                                 <value>moliere-fait-bon-mot-amour-pour-de-brie</value>
                 <a:documentation>Molière fait un bon mot sur les raisons de son amour pour Mlle de Brie</a:documentation>
                                 <value>art-affranchir-regles</value>
@@ -477,7 +473,6 @@
                                 <value>#moliere-utilise-memoires-et-tablettes</value>
                                 <value>#menage-abjure-jargon-precieuses</value>
                                 <value>#femme-du-peuple-nomme-moliere-avec-mepris</value>
-                                <value>#marotte-fille-chambre-de-brie</value>
                                 <value>#maitresse-conti-fait-appeler-moliere</value>
                                 <value>#dacier-supprime-dissertation-amphitryon</value>
                                 <value>#moliere-perd-maitrise-ane</value>
@@ -503,7 +498,6 @@
                                 <value>#moliere-tire-nom-escarbagnas-dame-angouleme</value>
                                 <value>#parmesan-agonie</value>
                                 <value>#villedieu-actrice-dans-troupe-de-moliere</value>
-                                <value>#passion-corneille-du-parc</value>
                                 <value>#roi-suggere-personnage-chasseur</value>
                                 <value>#moliere-nie-plagiat-pedant-joue</value>
                                 <value>#regent-force-moliere-a-avouer-plagiat</value>

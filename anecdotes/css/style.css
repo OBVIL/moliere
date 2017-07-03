@@ -37,7 +37,7 @@ td, th{
 }
 
 .matrix thead th.book-author {
-  height: 142px;
+  height: 200px;
   vertical-align: bottom;
   white-space: nowrap;
 }
@@ -48,7 +48,10 @@ td, th{
 
   white-space: nowrap;
 }
-
+.matrix td.anecdote-title{
+  white-space: nowrap;
+    
+}
 .matrix thead th  > div.th-container {
     transform: 
       translate(0px, 7px)
