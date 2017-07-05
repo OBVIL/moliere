@@ -5,8 +5,16 @@
 ../critique/cousin-d-avalon_molierana
 ../critique/casse-de-saint-prosper_essai-comedie
 ../critique/auger_introduction-oeuvres
+../critique/auger_notices-02
+../critique/auger_notices-03
+../critique/auger_notices-04
+../critique/auger_notices-05
+../critique/auger_notices-06
+../critique/auger_notices-07
+../critique/auger_notices-08
 ../critique/etienne_notice-tartuffe
 ../critique/aime-martin_introduction-oeuvres
+../critique/auger_notices-09
 ../critique/picard_notice-moliere
 ../../critique/roederer/roederer_memoires-societe-polie
 ../critique/saugeon_alceste-celimene

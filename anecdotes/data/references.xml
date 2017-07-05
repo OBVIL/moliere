@@ -694,6 +694,9 @@
       <div ana="#Education #Farce" type="anecdote" xml:id="moliere-eleve-scaramouche">
         <head>Molière, élève de Scaramouche</head>
       </div>
+      <div ana="#Cles #Louis_XIV #La_princesse-elide" type="anecdote" xml:id="moliere-fait-allusion-amours-louis-XIV-la-valliere">
+        <head>Molière fait allusion aux amours de Louis XIV et de Mme de La Vallière dans <hi rend="i">La Princesse d'Elide</hi></head>
+      </div>
     </body>
   </text>
 </TEI>
