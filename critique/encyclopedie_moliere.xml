@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../anecdotes/anecdotes.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="fr">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="fre">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Molière dans l’<hi rend="i">Encyclopédie</hi> de Diderot et d’Alembert (compilation)</title>
       </titleStmt>
+      <editionStmt>
+        <edition>ARTFL Project</edition>
+      </editionStmt>
       <publicationStmt>
-        <distributor>
-          <name>ARTFL Project</name>
-          <address>
-<addrLine>Department of Romance Languages</addrLine>
-<addrLine>University of Chicago</addrLine>
-</address>
-        </distributor>
+          <publisher>University of Chicago. Department of Romance Languages</publisher>
+          <date when="2018"/>
       </publicationStmt>
       <sourceDesc>
-        <bibl><author>Diderot, Denis &amp; Alembert, Jean d’</author>, <title>Encyclopédie, Dictionnaire raisonné des sciences, des arts et des métiers, par une Société de Gens de lettres</title>, <pubPlace>Paris</pubPlace>, <publisher>Le Breton</publisher>, <date>1751-1765c</date>.</bibl>
+        <bibl><author>Diderot, Denis &amp; Alembert, Jean d’</author>, <title>Encyclopédie. Dictionnaire raisonné des sciences, des arts et des métiers, par une Société de Gens de lettres</title>, <pubPlace>Paris</pubPlace>, <publisher>Le Breton</publisher>, <date>1751-1765c</date>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
