@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../anecdotes/anecdotes.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<TEI xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
+<fileDesc>
+<titleStmt>
+    <title>>« Molière », in <hi rend="i">Les Hommes illustres</hi></title>
+<author key="Perrault, Charles (1628-1703)">Charles Perrault</author>
+</titleStmt>
+<editionStmt>
+<edition>OBVIL</edition>
+<respStmt>
+<name>Eric Thiébaud</name>
+<resp>Stylage sémantique</resp>
+</respStmt>
+<respStmt>
+<name>Wordpro</name>
+<resp>Numérisation et encodage TEI</resp>
+</respStmt>
+</editionStmt>
+<publicationStmt>
+<publisher>Sorbonne Université, LABEX OBVIL</publisher>
+<date when="2018" />
+<idno type="tei">http://obvil.paris-sorbonne.fr/corpus/moliere/critique/perrault_moliere_orig.xml</idno>
+    <idno type="html">http://obvil.paris-sorbonne.fr/corpus/moliere/critique/perrault_moliere_orig.html</idno>
+    <idno type="txt">http://obvil.paris-sorbonne.fr/corpus/moliere/critique/perrault_moliere_orig.txt</idno>
+    <idno type="epub">http://obvil.paris-sorbonne.fr/corpus/moliere/critique/perrault_moliere_orig.epub</idno>
+<availability status="restricted">
+<licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+<p>Copyright © 2018 Sorbonne Université, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+<p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+<p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+<p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+<p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures, la diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+</licence>
+</availability>
+</publicationStmt>
+<sourceDesc>
+    <bibl><author>Charles Perrault</author>, <title><hi rend="i">« Molière », in </hi>Les Hommes illustres qui ont paru en France pendant ce siècle</title>, <pubPlace>Paris</pubPlace>, <publisher>Antoine Dezaillier</publisher>, <date>1696</date>, pp. <biblScope unit="page">79-80</biblScope>. Source : <ref target="https://archive.org/details/gri_hommesillust01perr">Internet Archive</ref>.</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<creation>
+<date when="1696" />
+</creation>
+<langUsage>
+<language ident="fre">fre</language>
+</langUsage>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
+<div type="chapter" xml:id="jean-baptiste-poquelin-de-moliere">
+<pb n="79" />
+    <head>JEAN-BAPTISTE POQUELIN<lb/>DE MOLIERE.</head>
+    <p>Molière naquit avec une telle inclination pour la Comédie qu’il ne fut pas possible de l’empêcher de se faire Comédien. À peine eut-il achevé ses Études, où il réussit parfaitement, qu’il se joignit avec plusieurs jeunes gens de son âge et de son goût, et prit la résolution de former une Troupe de Comédiens pour aller dans les Provinces jouer la Comédie. Son Père bon Bourgeois de Paris et Tapissier du Roi, fâché du parti que son Fils avait pris, le fit solliciter par tout ce qu’il avait d’Amis de quitter cette pensée, promettant s’il voulait revenir chez lui, de lui acheter une Charge telle qu’il la souhaiterait ; pourvu qu’elle n’excédât pas ses forces. Ni les prières, ni les remontrances de ses Amis soutenues de ces promesses ne purent rien sur son Esprit. Ce bon Père lui envoya ensuite le Maître chez qui il l’avait mis en pension pendant les premières années de ses Études, espérant que par l’autorité que ce Maître avait eue sur lui pendant ces temps-là, il pourrait le ramener à son devoir ; mais bien loin que le Maître lui persuadât de quitter la Profession de Comédien, le jeune Molière lui persuada d’embrasser la même Profession, et d’être le Docteur de leur Comédie, lui ayant représente que le peu de Latin qu’il savait le rendrait capable d’en bien faire le Personnage, et que la vie qu’ils mèneraient, serait bien plus agréable que celle d’un Homme qui tient des Pensionnaires.</p>
+    <p>Sa Troupe étant formée il alla jouer à Rouen, et de là à Lyon, où ayant plu au Prince de Conti, qui jeune alors et non encore dans les sentiments de Piété qui l’ont porté à écrire si solidement et si chrétiennement contre la Comédie, les prit pour ses Comédiens et leur donna des Appointements. De là ils vinrent à Paris, où ils jouèrent devant le Roi et toute la Cour. Il est vrai que la Troupe ne réussit pas cette première fois : mais Molière fit un Compliment au Roi, si spirituel, si délicat et si bien tourné, et joua si bien son rôle dans la petite Comedie qu’il donna ensuite de la grande, qu’il emporta tous les suffrages, et obtint la permission de jouer à Paris. Il satisfit fort le Public sur tout par les Pièces de sa Composition, qui étant d’un genre tout nouveau attirèrent une grande affluence de Spectateurs.</p>
+    <p>Jusques-là il y avait eu de l’esprit et de la plaisanterie dans nos Comédies, mais il y ajouta une grande naïveté avec des Images si vives des mœurs de son siècle, et des Caractères si bien marqués, que les Représentations semblaient moins être des Comédies que la vérité même, chacun s’y reconnaissait et plus encore son voisin, dont on est plus aise de voir les défauts que les siens propres. On y prit un plaisir singulier, et même on peut dire qu’elles furent d’une grande utilité pour bien des Gens.</p>
+    <p>Molière avait remarqué que les Français avoient deux défauts bien considérables ; l’un, que presque tous les jeunes Gens avoient du dégoût pour la Profession de leurs Pères, et que ceux qui n’étaient que Bourgeois voulaient vivre en Gentilshommes et ne rien faire ; ce qui ne manque point de les ruiner <pb n="80" />en peu de temps ; et l’autre, que les femmes avaient une violente inclination à devenir, ou du moins à paraître Savantes, ce qui ne s’accorde point avec l’esprit du ménage, si nécessaire pour conserver le bien dans les familles. Il s’attacha à jeter du ridicule sur ces deux vices, ce qui a eu un effet beaucoup au-delà de tout ce qu’on pouvait en espérer. Il composa deux Pièces contre le premier de ces désordres, dont l’une est intitulée : <hi rend="i">Le Bourgeois Gentilhomme</hi>, et l’autre : <hi rend="i">Le Marquis de Pourceaugnac</hi>. Il y a apparence que les jeunes gens en profitèrent, du moins s’aperçut-on que les airs outrés de Cavalier qu’ils se donnaient diminuèrent à vue d’œil. Contre le défaut qui regarde les femmes il fit aussi deux Comédies ; l’une intitulée : <hi rend="i">Les Précieuses ridicules</hi> ; et l’autre : <hi rend="i">Les Femmes savantes</hi>. Ces Comédies firent tant de honte aux Dames qui se piquaient trop de bel Esprit que toute la Nation des Précieuses s’éteignit en moins de quinze jours, ou du moins elles se déguisèrent si bien là-dessus qu’on n’en trouva plus, ni à la Cour, ni à la Ville, et même depuis ce temps-là elles ont été plus en garde contre la réputation de Savantes et de Précieuses, que contre celle de Galantes et de Déréglées.</p>
+    <p>Il fit aussi deux Comédies contre les Hypocrites et les Faux-dévots, savoir, <hi rend="i">Le Festin de Pierre</hi>, Pièce imitée sur celle des Italiens du même nom, et le <hi rend="i">Tartuffe</hi> de son Invention. Cette Pièce lui fit des affaires, parce qu’on en faisait des applications à des Personnes de grande considération, et aussi parce qu’on prétendit que la vertu et le vice en cette matière se prenant aisément l’un pour l’autre, le ridicule tombait presque également sur tous les deux, et donnait lieu de se moquer des Personnes de Piété et de leurs remontrances. Cependant après quelques obstacles qui furent levés aussitôt, il eut permission entière de la jouer publiquement.</p>
+    <p>Il attaqua encore les mauvais Médecins par deux Pièces fort Comiques, dont l’un est le <hi rend="i">Médecin malgré lui</hi>, et l’autre le <hi rend="i">Malade imaginaire</hi>. On peut dire qu’il se méprit un peu dans cette dernière Pièce, et qu’il ne se contint pas dans les bornes du pouvoir de la Comédie ; car au lieu de se contenter de blâmer les mauvais Médecins, il attaqua la Médecine en elle-même, la traita de Science frivole, et posa pour principe qu’il est ridicule à un Homme de vouloir en guérir un autre. La Comédie s’est toujours moquée des Rodomonts et de leurs rodomontades ; mais jamais elle n’a raillé, ni les vrais braves, ni la vraie bravoure. Elle s’est réjouie des Pédants et de la Pédanterie, mais elle n’a jamais blâmé, ni les Savants, ni les Sciences. Suivant cette règle il n’a pu trop mal-traiter les Charlatants et les ignorants Médecins, mais il devait en demeurer-là et ne pas tourner en ridicule les bons Médecins, que l’écriture même nous enjoint d’honorer. Quoiqu’il en soit depuis les anciens Poètes Grecs et Latins qu’il a égalés et peut-être surpassés dans le Comique, aucun autre n’a eu tant de talent ni de réputation.</p>
+    <p>Il mourut le 13 février de l’année 1673 âgé de 52 ou 53 ans. Il a ramassé en lui seul tous les talents nécessaires à un Comédien. Il a été si excellent Acteur pour le Comique, quoique très médiocre pour le sérieux, qu’il n’a peu être imité que très imparfaitement par ceux qui ont joué son rôle après sa mort. Il a aussi entendu admirablement les habits des Acteurs en leur donnant leur véritable caractère, et il a eu encore le don de leur distribuer si bien les Personnages et de les instruire ensuite si parfaitement qu’ils semblaient moins des Acteurs de Comédie que les vraies Personnes qu’ils représentaient.</p>
+</div>
+</body>
+</text>
+</TEI>
