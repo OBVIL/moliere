@@ -2,9 +2,9 @@
 /**
  * Différents affichages pour l‘application Molière de l’OBVIL
  */
-include( dirname(dirname(__FILE__)).'/Dramagraph/Biblio.php' );
-include( dirname(dirname(__FILE__)).'/Dramagraph/Net.php' );
-include( dirname(dirname(__FILE__)).'/Dramagraph/Table.php' );
+include(dirname(dirname(__FILE__)).'/Dramagraph/Biblio.php');
+include(dirname(dirname(__FILE__)).'/Dramagraph/Net.php');
+include(dirname(dirname(__FILE__)).'/Dramagraph/Table.php');
 class Moliere
 {
   public static $pdo;
@@ -15,14 +15,14 @@ class Moliere
   /**
    * Constructeur
    */
-  public function __construct( $sqlitefile, $basepre='' )
+  public function __construct($sqlitefile, $basepre='')
   {
     self::$pdo = new PDO('sqlite:'.$sqlitefile);
-    self::$pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION );
+    self::$pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
     self::$qobj = self::$pdo->prepare("SELECT cont FROM object WHERE playcode = ? AND type = ?");
     if (isset($_SERVER['PATH_INFO'])) self::$pathinfo = $_SERVER['PATH_INFO'];
     //trim first slash of pathinfo
-    self::$pathinfo = ltrim( self::$pathinfo, '/' );
+    self::$pathinfo = ltrim(self::$pathinfo, '/');
     self::$basehref = $basepre.str_repeat("../", substr_count(self::$pathinfo, '/'));
   }
 
@@ -30,7 +30,7 @@ class Moliere
    * Entête html pour piece
    * $basehref URL relative au contexte de l’application
    */
-  static function dramahead( )
+  static function dramahead()
   {
     $dramagraph = self::$basehref.'../Dramagraph/';
     echo '
@@ -52,14 +52,14 @@ class Moliere
   /**
    * Navigation par selecteur
    */
-   static function select( $playcode )
+   static function select($playcode)
    {
      echo '
      <div style="position: fixed; margin-left: 45%; bottom: 10px;  ">
        <a href="#" class="but" title="Tête de page">▲</a>
      </div>';
      echo '<form action="#" onsubmit="var option = this.play.options[this.play.selectedIndex]; if (!option.value) this.action = \'.\'; else this.action = option.value; this.play.disabled = true; console.log(this.action); this.submit() ">'."\n";
-     echo Dramagraph_Biblio::select( Moliere::$pdo, $playcode );
+     echo Dramagraph_Biblio::select(Moliere::$pdo, $playcode);
      echo '</form>'."\n";
    }
   /**
@@ -75,7 +75,7 @@ class Moliere
   /**
    * Texte de la pièce
    */
-  static function text( $playcode )
+  static function text($playcode)
   {
     self::$qobj->execute(array($playcode, 'graph'));
     echo current(self::$qobj->fetch(PDO::FETCH_NUM));

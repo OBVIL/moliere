@@ -1,18 +1,18 @@
 <?php
 ini_set('display_errors', '1');
 error_reporting(-1);
-include( dirname(dirname(__FILE__))."/Teinte/Web.php" );
-include( dirname(dirname(__FILE__))."/Teinte/Base.php" );
+include(dirname(dirname(__FILE__))."/Teinte/Web.php");
+include(dirname(dirname(__FILE__))."/Teinte/Base.php");
 $basehref = Teinte_Web::basehref(); //
 $teinte = $basehref."../Teinte/";
 
 $path = Teinte_Web::pathinfo(); // document demandé
 // chercher le doc dans la base
-$branches = explode( '/', $path );
-$docid = end( $branches );
+$branches = explode('/', $path);
+$docid = end($branches);
 
 
-// les pièces commencent par moliere, laisser la main au script pour le théâtre
+// pièces de moliere
 if (strpos($path, 'moliere') === 0 || strpos($path, 'theatre') === 0) {
   $conf = array(
     "playcode" => $docid, // relatif à la politique d’URL décidée ici
@@ -24,7 +24,7 @@ if (strpos($path, 'moliere') === 0 || strpos($path, 'theatre') === 0) {
   include (dirname(__FILE__).'/theatre.php');
   exit();
 }
-// devanciers et contemporains
+// pièces de devanciers et contemporains
 if (strpos($path, 'contexte') === 0) {
   $conf = array(
     "playcode" => $docid, // relatif à la politique d’URL décidée ici
@@ -40,35 +40,50 @@ if (strpos($path, 'contexte') === 0) {
   include (dirname(__FILE__).'/theatre.php');
   exit();
 }
+// pièces avec molière comme personnage
+if (strpos($path, 'personnage') === 0) {
+  $conf = array(
+    "playcode" => $docid, // relatif à la politique d’URL décidée ici
+    "url" => Teinte_Web::basehref()."personnage/",
+    "title" => "Molière, personnage de théâtre",
+    "sqlite"=> "moliere-personnage.sqlite", // nom de la base sqlite
+    "abstract" => '
+<div style="padding: 1em">
+<h1>Molière, personnage de théâtre</h1>
+'."\n",
+  );
+  include (dirname(__FILE__).'/theatre.php');
+  exit();
+}
 
 
 
-header( 'content-type: text/html; charset=utf-8' );
-if ( !file_exists( $f=dirname(__FILE__)."/conf.php" ) ) {
+header('content-type: text/html; charset=utf-8');
+if (!file_exists($f=dirname(__FILE__)."/conf.php")) {
   echo '<h1>Problème de configuration, fichier conf.php introuvable.</h1>';
 }
 else {
-  $conf = include( $f );
+  $conf = include($f);
 }
 
-if ( !file_exists( $conf['sqlite'] )) {
+if (!file_exists($conf['sqlite'])) {
   echo '<h1>Première installation ? Allez voir la page <a href="pull.php">pull.php</a> pour transformer vos fichiers XML.</h1>';
   exit();
 }
-$base = new Teinte_Base( $conf['sqlite'] );
+$base = new Teinte_Base($conf['sqlite']);
 $query = $base->pdo->prepare("SELECT * FROM doc WHERE code = ?; ");
-$query->execute( array( $docid ) );
+$query->execute(array($docid));
 $doc = $query->fetch();
 
 $q = null;
-if ( isset($_REQUEST['q']) ) $q=$_REQUEST['q'];
+if (isset($_REQUEST['q'])) $q=$_REQUEST['q'];
 
 ?><!DOCTYPE html>
 <html>
   <head>
     <meta charset="UTF-8" />
     <title><?php
-if( $doc ) echo $doc['title'].' — ';
+if($doc) echo $doc['title'].' — ';
 echo $conf['title'];
     ?></title>
     <link rel="stylesheet" type="text/css" href="<?= $teinte ?>tei2html.css" />
@@ -79,13 +94,13 @@ echo $conf['title'];
     <div id="center">
       <header id="header">
         <h1><?php
-          if ( !$path && $base->search ) {
+          if (!$path && $base->search) {
             echo '<a href="?">'.$conf['title'].'</a>';
           }
-          else if ( !$path ) {
+          else if (!$path) {
             echo '<a class="home" href="'.$basehref.'?">Molière</a>';
           }
-          else if ( trim( $path, "/" ) == "critique" ) {
+          else if (trim($path, "/") == "critique") {
             echo '<a href="'.$basehref.'">Molière, accueil</a>';
           }
           else {
@@ -97,7 +112,7 @@ echo $conf['title'];
       <div id="contenu">
         <aside id="aside">
           <?php
-if ( $doc ) {
+if ($doc) {
   echo '
 <nav id="download"><small>Télécharger :</small>
     <a target="_blank" href="http://obvil.github.io/moliere/critique/'.$doc['code'].'.xml" title="Livre électronique">tei</a>,
@@ -114,12 +129,12 @@ if ( $doc ) {
 </header>
 <form action="#mark1">
   <a title="Retour aux résultats" href="'.$basehref.'critique/?'.$_COOKIE['lastsearch'].'"><img src="'.$basehref.'../theme/img/fleche-retour-corpus.png" alt="←"/></a>
-  <input name="q" value="'.str_replace( '"', '&quot;', $base->p['q'] ).'"/><button type="submit">🔎</button>
+  <input name="q" value="'.str_replace('"', '&quot;', $base->p['q']).'"/><button type="submit">🔎</button>
 </form>
 ';
 
   // table des matières, quand il y en a une
-   if ( file_exists( $f="toc/".$doc['code']."_toc.html" ) ) readfile( $f );
+   if (file_exists($f="toc/".$doc['code']."_toc.html")) readfile($f);
 }
 // accueil ? formulaire de recherche général
 else {
@@ -135,7 +150,7 @@ else {
   echo '<p> </p>';
   echo'
 <form action="">
-  <input style="width: 100%;" name="q" class="text" placeholder="Rechercher de mots" value="'.str_replace( '"', '&quot;', $base->p['q'] ).'"/>
+  <input style="width: 100%;" name="q" class="text" placeholder="Rechercher de mots" value="'.str_replace('"', '&quot;', $base->p['q']).'"/>
   <div><label>De <input placeholder="année" name="start" class="year" value="'.$base->p['start'].'"/></label> <label>à <input class="year" placeholder="année" name="end" value="'.$base->p['end'].'"/></label></div>
   <button type="reset" onclick="return Form.reset(this.form)">Effacer</button>
   <button type="submit" style="float: right; ">Rechercher</button>
@@ -152,7 +167,7 @@ else {
           <div id="article" class="<?php echo $doc['class']; ?>">
             <?php
 // page d’accueil
-if ( !$path ) {
+if (!$path) {
   echo '
   <h1>OBVIL - corpus Molière</h1>
   <div class="clear">
@@ -163,17 +178,17 @@ if ( !$path ) {
   </div>
   ';
 }
-else if ( $doc ) {
-  $html = file_get_contents( "article/".$doc['code']."_art.html" );
-  if ( $q ) echo $base->hilite( $doc['id'], $q, $html );
+else if ($doc) {
+  $html = file_get_contents("article/".$doc['code']."_art.html");
+  if ($q) echo $base->hilite($doc['id'], $q, $html);
   else echo $html;
 }
-else if ( $base->search ) {
-  $base->biblio( array( "no", "date", "author", "title", "occs" ), "SEARCH" );
+else if ($base->search) {
+  $base->biblio(array("no", "date", "author", "title", "occs"), "SEARCH");
 }
 // pas de livre demandé, page de couverture
 else {
-  $base->biblio( array( "date", "author", "title" ) );
+  $base->biblio(array("date", "author", "title"));
 }
             ?>
             <a id="gotop" href="#top">▲</a>
