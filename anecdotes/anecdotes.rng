@@ -47,7 +47,7 @@
               <ref name="bibl"/>
               XSD cos -->
               <ref name="anchor"/>
-              <ref name="quote-c"/>
+              <ref name="quote.c"/>
               <ref name="function"/>
               <ref name="indexable"/>
               <ref name="lb"/>
