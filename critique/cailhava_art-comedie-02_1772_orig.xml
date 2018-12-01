@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../anecdotes/anecdotes.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml">
+    <?xml-model href="../anecdotes/anecdotes.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <TEI xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0">
@@ -1085,7 +1086,7 @@
                     les plus grands Maîtres, &amp; chantés par des voix enchanteresses ; pour donner
                     lieu à des <hi rend="i">ballets</hi> exécutés par les plus belles Dames de la
                     Cour &amp; les Seigneurs les mieux faits. Le Roi même ne dédaignoit pas de les
-                    embellir en y faisant admirer son port &amp; ses graces<note type="numero"
+                    embellir en y faisant admirer son port &amp; ses graces<note
                         place="bottom"><p>Le Roi cessa de danser dans les ballets de la Cour dès
                             qu’il eut vu jouer <hi rend="i">Britannicus</hi> ; il fut frappé des
                             vers que <hi rend="i">Narcisse</hi> débite à <hi rend="i">Néron</hi>,
@@ -1274,7 +1275,7 @@
                 <p>Il est des femmes qui ne paroissent belles qu’à la faveur d’une toilette très
                     recherchée, &amp; qu’il faut bien se garder de surprendre avant qu’une <hi
                         rend="i">Marton</hi> savante dans l’art de <hi rend="i">Latour</hi><note
-                        type="numero" place="bottom"><p>Très fameux Peintre en pastel, &amp; qui
+                        place="bottom"><p>Très fameux Peintre en pastel, &amp; qui
                             mérite toute sa réputation.</p></note> ait arrangé <pb n="44"/>l’<hi
                         rend="i">iris</hi><note place="bottom"><p>Arc-en-ciel.</p></note> de leur
                     teint. Nous en voyons qui, très jolies sans le secours de l’art, prennent
@@ -1484,7 +1485,7 @@
                     jettent celui à qui ils s’adressent, de l’impatience qu’ils lui causent, &amp;
                     des efforts qu’il fait pour se débarrasser d’eux. L’acteur persécuté &amp; les
                     importuns se prêtent mutuellement du comique &amp; le doublent<note
-                        type="numero" place="bottom"><p>L’arrivée des divers personnages est mieux
+                        place="bottom"><p>L’arrivée des divers personnages est mieux
                             motivée dans <hi rend="i">le Mercure galant</hi> que dans <hi rend="i"
                                 >les Fâcheux</hi>. Dans la premiere, ils ont une raison pour aller
                             chez l’Auteur dont ils implorent le secours. Le hasard seul conduit
@@ -1896,7 +1897,7 @@
                                 >Philosophe marié</hi>. Mais je plais, il suffit.</p>
                         <label type="speaker">La Muse.</label>
                         <p>Croyez-moi, on affichera peut-être bientôt chez votre Libraire :</p>
-                        <l>Ci gît au magasin la plus belle des pieces<note type="numero"
+                        <l>Ci gît au magasin la plus belle des pieces<note
                                 place="bottom"><p>Parodie de deux vers de la piece même, mais qui ne
                                     les vaut pas :</p>
                                 <quote>
@@ -2160,7 +2161,7 @@
                         chérit.</p>
                     <quote>
                         <l> L’an que chez toi <hi rend="i">Sigismond</hi> paroîtra<note
-                                type="numero" place="bottom"><p><hi rend="i">Boissi</hi>, qui est
+                                place="bottom"><p><hi rend="i">Boissi</hi>, qui est
                                     aussi l’auteur de <hi rend="i">la Vie est un songe</hi>, ne se
                                     ménage point.</p></note>,</l>
                         <l> Que je te plains, ô troupe d’Italie !</l>
@@ -2192,7 +2193,7 @@
                         vers suivants la rabattent.</p>
                     <quote>
                         <l>Le spectateur pour toi sera si débonnaire,</l>
-                        <l>Que du <hi rend="i">froid complaisant</hi><note type="numero"
+                        <l>Que du <hi rend="i">froid complaisant</hi><note
                                 place="bottom"><p>Comédie en cinq actes, par <hi rend="i">de
                                         Launay</hi>.</p></note> respectant la fadeur,</l>
                         <pb n="73"/><l> Il entendra la piece entiere</l>
@@ -2314,7 +2315,7 @@
                     qu’à cette punition, &amp; jure d’observer la sentence avec la plus grande
                     exactitude.</p>
                 <label>FAIRE VAUT MIEUX QUE DIRE,<lb/><hi rend="i">Par Pierre</hi> Gringore<note
-                        type="numero" place="bottom"><p>La devise de cet Auteur étoit : <hi rend="i"
+                        place="bottom"><p>La devise de cet Auteur étoit : <hi rend="i"
                                 >Tout par raison, raison par-tout, par-tout raison. Gringore</hi>
                             étoit modeste.</p></note>, <hi rend="i">Héraut d’armes du Duc de
                         Lorraine</hi>.</label>
@@ -2687,7 +2688,7 @@
                     guinguettes ; celles de la troisieme, à l’<hi rend="i">Opéra Comique</hi>,
                     lorsque tout-à-fait gelé, morfondu par des sentences qu’on veut bien appeller
                         <hi rend="i">philosophiques</hi>, il sera obligé de se réchauffer<note
-                        type="numero" place="bottom"><p><hi rend="i">M. Piron</hi> donna en 1741 un
+                        place="bottom"><p><hi rend="i">M. Piron</hi> donna en 1741 un
                                 <hi rend="i">Opéra comique allégorique</hi>, qui est la licence
                             même. <hi rend="i">Rosette</hi>, qui ouvre la scene, est enchantée ; sa
                             mere lui a promis la clef des champs &amp; une houlette, dès que sa rose
@@ -2751,7 +2752,7 @@
                 <pb n="91"/>
                 <head>CHAPITRE VIII.<lb/><hi rend="i">Du Genre gracieux.</hi></head>
                 <p><hi rend="sc">Ce genre</hi>, accrédité par <hi rend="i">les Graces</hi><note
-                        type="numero" place="bottom"><p>Petite piece en un acte &amp; en prose, de
+                        place="bottom"><p>Petite piece en un acte &amp; en prose, de
                                 <hi rend="i">M. de Saint-Foix</hi> : elle est charmante.</p></note>
                     &amp; par <hi rend="i">Zénéide</hi><note place="bottom"><p>Comédie en un acte
                             &amp; en vers, représentée le 13 Mai 1743 : elle est de <hi rend="i">M.
@@ -2767,7 +2768,7 @@
                     voluptueux aux situations les plus indécentes. Je vais faire connoître le <hi
                         rend="i">genre pastoral</hi>, son enfance &amp; ses progrès.</p>
                 <p>Nos premiers Peres crurent faire une œuvre pie en renouvellant sous les yeux du
-                    spectateur <hi rend="i">la Nativité de notre Seigneur</hi><note type="numero"
+                    spectateur <hi rend="i">la Nativité de notre Seigneur</hi><note
                         place="bottom"><p>On voit dans l’ancien théâtre plusieurs pieces sous ce
                             titre.</p></note>. Ils introduisirent sur la scene les Bergers de
                     Bethléem, &amp; leur firent débiter, devant <hi rend="i">Jésus, Marie</hi> &amp;
@@ -2940,7 +2941,7 @@
                     Continuons, &amp; lisons l’extrait suivant qui nous fera bientôt trouver en pays
                     de connoissance.</p>
                 <label>LA BERGERIE,<lb/><hi rend="i">Pastorale de</hi> Montchrestien<note
-                        type="numero" place="bottom"><p><hi rend="i">Antoine de Montchrestien</hi>,
+                        place="bottom"><p><hi rend="i">Antoine de Montchrestien</hi>,
                             sieur de <hi rend="i">Vasteville</hi>, né à <hi rend="i">Falaise</hi>,
                             &amp; fils d’un Apothicaire de cette ville, s’adonna à la poésie. Un
                             jour il eut querelle avec le <hi rend="i">Comte de Gourville</hi>, qui
@@ -3736,7 +3737,7 @@
                         son temps, au ton général qu’il trouveroit établi : les changements arrivés
                         dans les usages lui indiqueroient ce qu’il faut saisir, ce qu’il faut
                         éviter : il ne s’aviseroit pas d’évoquer les manes burlesques<note
-                            type="numero" place="bottom"><p>On pourroit chicaner l’Auteur sur
+                            place="bottom"><p>On pourroit chicaner l’Auteur sur
                                 l’épithete de <hi rend="i">burlesques</hi>, qu’il donne <hi rend="i"
                                     >aux manes des frippons d’Athenes</hi>. Les intriguants
                                 athéniens étoient des coquins, des scélérats très adroits, très
@@ -4125,7 +4126,7 @@
                 <p>Revenons à la différence qu’il y a d’un intriguant à une intriguante. Les
                     fourberies du <hi rend="i">Dave</hi> de <hi rend="i">Térence</hi> seroient trop
                     fortes chez la <hi rend="i">Laurette</hi> de <hi rend="i">Quinault</hi><note
-                        type="numero" place="bottom"><p><hi rend="i">Quinault</hi>, né à Paris en
+                        place="bottom"><p><hi rend="i">Quinault</hi>, né à Paris en
                             1635 ; il étoit fils d’un Boulanger : c’est à quoi <hi rend="i"
                                 >Furetiere</hi> fait allusion en disant : <quote>« <hi rend="i"
                                     >Quinault</hi> est la meilleure pâte d’homme que Dieu ait jamais
@@ -5452,7 +5453,7 @@
                         rend="i">ressemblance</hi> avec celui qui doit en être la victime, &amp; que
                     la piece tombera. C’est ici qu’un exemple me devient très nécessaire.
                     Heureusement, je l’ai tout prêt. M. <hi rend="i">Palissot</hi><note
-                        type="numero" place="bottom"><p>Connu par le poëme de <hi rend="i">la
+                        place="bottom"><p>Connu par le poëme de <hi rend="i">la
                                 Dunciade</hi>, &amp; par quatre comédies remplies de détails très
                             agréables. Sa derniere est <hi rend="i">l’Homme dangereux</hi>.
                             L’Auteur, grand amateur de <hi rend="i">mystifications</hi>, s’étoit
@@ -6439,7 +6440,7 @@
                 <p>On veut unir deux amants qui ne se connoissent pas. L’amant forme le dessein de
                     démêler le caractere de sa future avant de l’épouser : celle-ci a la même
                     intention. Le premier donne ses <pb n="217"/>habits à son domestique &amp; prend
-                    les siens ; la future fait le même échange avec sa soubrette<note type="numero"
+                    les siens ; la future fait le même échange avec sa soubrette<note
                         place="bottom"><p>Cette piece est tirée d’une comédie danoise intitulée <hi
                                 rend="i">Harni</hi> &amp; <hi rend="i">Périne</hi>, &amp; qui est
                             remplie de choses très plaisantes. J’en donnerois un précis dans ce
@@ -7690,7 +7691,7 @@
                         rend="i">caractere</hi> plus ou moins théâtral ? Elles voient une nuance,
                     elles cherchent un titre ; &amp; quand leur imagination a arrangé deux ou trois
                     mauvaises scenes à peine propres à faire un <hi rend="i">proverbe</hi><note
-                        type="numero" place="bottom"><p>Espece de drame composé ordinairement par
+                        place="bottom"><p>Espece de drame composé ordinairement par
                             des especes d’Auteurs, joué par des especes de comédiens, trouvé sublime
                             par des especes de connoisseurs, &amp; qui ameute contre les véritables
                             drames, contre les véritables auteurs, contre les véritables acteurs,
@@ -8893,7 +8894,7 @@
                     de les peindre sous prétexte que les <hi rend="i">mœurs</hi> ont changé depuis
                         <hi rend="i">Moliere</hi>. Quelle différence mettra-t-il entre son héroïne
                     &amp; <hi rend="i">Philaminte, Armande</hi> &amp; <hi rend="i">Belise</hi><note
-                        type="numero" place="bottom"><p>Personnages des <hi rend="i">Femmes
+                        place="bottom"><p>Personnages des <hi rend="i">Femmes
                                 savantes</hi> de <hi rend="i">Moliere</hi>.</p></note> ? Elle
                     recevra de beaux esprits à sa toilette, dans un sallon élégant, &amp; sur-tout
                     dans sa salle à manger, <pb n="303"/>au lieu de les recevoir dans un cabinet
@@ -8904,7 +8905,7 @@
                     <l>Par nos loix prose &amp; vers, tout nous sera soumis :</l>
                     <l>Nul n’aura de l’esprit, hors nous &amp; nos amis.</l>
                     <l>Nous chercherons par-tout à trouver à redire,</l>
-                    <l>Et ne verrons que nous qui sachent bien écrire<note type="numero"
+                    <l>Et ne verrons que nous qui sachent bien écrire<note
                             place="bottom"><p>Vers de la même piece, acte III, scene
                         II.</p></note>.</l>
                 </quote>
@@ -8957,7 +8958,7 @@
                     <pb n="304"/><l> Qu’il a toujours, malgré ses remontrances,</l>
                     <l>Heurté le fondement de toutes les Sciences,</l>
                     <l>La Grammaire, qui sait régenter jusqu’aux Rois,</l>
-                    <l>Et les fait, la main haute, obéir à ses loix<note type="numero"
+                    <l>Et les fait, la main haute, obéir à ses loix<note
                             place="bottom"><p>Vers des <hi rend="i">Femmes savantes</hi>, acte II,
                                 scene VI.</p></note>.</l>
                 </quote>
@@ -8980,7 +8981,7 @@
                     <l>Est celui que je prends pour l’époux qu’il lui faut ;</l>
                     <l>Et je sais mieux que vous juger de ce qu’il vaut.</l>
                     <l>La contestation est ici superflue,</l>
-                    <l>Et de tout point chez moi l’affaire est résolue<note type="numero"
+                    <l>Et de tout point chez moi l’affaire est résolue<note
                             place="bottom"><p>Vers des <hi rend="i">Femmes savantes</hi>, acte II,
                                 scene VIII.</p></note>.</l>
                 </quote>
@@ -9221,7 +9222,7 @@
                         >Regnier</hi>.</p>
                 <quote>
                     <l>Heureux ! si ses discours, craints du chaste lecteur,</l>
-                    <l>Ne se sentoient des lieux où fréquentoit l’Auteur<note type="numero"
+                    <l>Ne se sentoient des lieux où fréquentoit l’Auteur<note
                             place="bottom"><p><hi rend="i">Boileau</hi>, dans ses premieres
                                 éditions, étoit tombé presque dans le défaut qu’il reprochoit à <hi
                                     rend="i">Regnier</hi>. Il disoit :</p>
@@ -9309,7 +9310,7 @@
                     <p>Il est donc plus dévot que moi.</p>
                     <pb n="317"/><label type="speaker">Crispin.</label>
                     <p>S’il venoit une ordonnance qui fît de l’<hi rend="i">Hercule</hi><note
-                            type="numero" place="bottom"><p>C’est le titre d’un ancien livre de
+                            place="bottom"><p>C’est le titre d’un ancien livre de
                                 Politique, &amp; dont on ne fait aucun cas.</p></note> un livre
                         évangélique, je crois que mon maître pourroit devenir un grand
                         prédicateur.</p>
@@ -9346,7 +9347,7 @@
                     <label type="speaker">Herman.</label>
                     <p>Pourquoi non ? Vous imaginez-vous que j’aie envie de mourir potier d’étain ?
                         Vous le verrez avant qu’il soit six mois. Je me flatte qu’après que j’aurai
-                        parcouru le <hi rend="i">Héraut de l’Europe</hi><note type="numero"
+                        parcouru le <hi rend="i">Héraut de l’Europe</hi><note
                             place="bottom"><p>Livre de Politique, en allemand, <hi rend="i"
                                     >Europæischer Herold</hi>.</p></note>, on me forcera d’accepter
                         une place dans la Magistrature. Pour le <hi rend="i">Politique après le
@@ -9400,7 +9401,7 @@
                     <p>Voici où est l’Allemagne.</p>
                     <label type="speaker">Léandre.</label>
                     <p>Cela est juste. Je le puis connoître par le Danube qui court là. <stage>(En
-                            appuyant sur la table, il renverse une cruche à biere<note type="numero"
+                            appuyant sur la table, il renverse une cruche à biere<note
                                 place="bottom"><p>Ce trait est imité dans <hi rend="i">la Soirée des
                                         Boulevards</hi>. Un Gascon renverse un verre d’eau, &amp;
                                     s’écrie : <hi rend="i">Ah ! sandis ! voilà la Garonne qui
@@ -9706,7 +9707,7 @@
                         >vices</hi> qui le frappent tous les jours dans la société, que s’il ne les
                     connoissoit que par tradition : de telles pieces bien faites réunissent le
                     double avantage de frapper toujours les connoisseurs &amp; le commun des
-                    hommes : elles ont sans cesse les graces de la nouveauté<note type="numero"
+                    hommes : elles ont sans cesse les graces de la nouveauté<note
                         place="bottom"><p>On m’objectera que nous voyons jouer <hi rend="i">les
                                 Précieuses</hi> avec plaisir, quoique les modeles n’existent plus.
                             Je puis répondre qu’ils ont cessé d’exister depuis si peu de temps, que
@@ -10287,7 +10288,7 @@
                     pas dédaignées quand elles ont peint leur <hi rend="i">Misanthrope</hi> haïssant
                     le genre humain parcequ’il en avoit éprouvé des noirceurs, &amp; distribuant un
                     trésor à deux armées ennemies pour leur fournir le moyen de s’égorger<note
-                        type="numero" place="bottom"><p><hi rend="i">Timon</hi>, ou <hi rend="i">le
+                        place="bottom"><p><hi rend="i">Timon</hi>, ou <hi rend="i">le
                                 Misanthrope Anglois</hi>.</p></note>.</p>
                 <p>Il est cependant un écueil que je suis obligé de faire remarquer à ceux qui
                     voudroient mettre <hi rend="i">le Misanthrope par air</hi> sur la scene. Les
@@ -11573,7 +11574,7 @@
                     n’en <pb n="396"/>croyez pas ses léthargies, croyez-en <hi rend="i"
                     >Lisette</hi> ; elle est digne de foi. C’est elle qui prend soin</p>
                 <quote>
-                    <l>De ses bouillons de bouche, &amp; des postérieurs<note type="numero"
+                    <l>De ses bouillons de bouche, &amp; des postérieurs<note
                             place="bottom"><p>Vers du <hi rend="i">Légataire</hi>.</p></note>.</l>
                 </quote>
                 <label>ACTE I. <hi rend="sc">Scene</hi> I.</label>
@@ -11665,7 +11666,7 @@
                     les moyens de les développer aux yeux du spectateur charmé. L’un est sans
                     contredit bien inférieur à l’autre ; cela doit être ainsi, le public s’y attend,
                     mais la résistance qu’il oppose à sa défaite vaut la victoire que l’autre
-                    remporte : elle lui fait autant d’honneur<note type="numero" place="bottom"
+                    remporte : elle lui fait autant d’honneur<note place="bottom"
                             ><p>La comparaison, quoiqu’imparfaite, comme elles le sont toutes, rend,
                             je crois, mon idée. Cependant je ne l’aurois pas risquée si <hi rend="i"
                                 >Boileau</hi> n’eût déja comparé <hi rend="i">Moliere</hi> à un
@@ -11736,7 +11737,7 @@
                     deux caracteres contrastent encore moins que ceux du <hi rend="i"
                         >Dissipateur</hi> &amp; de <hi rend="i">l’Honnête Fripponne</hi> ; ils ne
                     sont qu’opposés. C’est le caractere du timide, du modeste <hi rend="i"
-                        >Philinte</hi>, qui contraste bien avec celui du héros<note type="numero"
+                        >Philinte</hi>, qui contraste bien avec celui du héros<note
                         place="bottom"><p>L’Auteur convient lui-même du contraste.</p>
                         <label>ACTE I. <hi rend="sc">Scene</hi> IV.</label>
                         <quote>
@@ -12219,7 +12220,7 @@
                         titre</hi>.</p>
                 <p>La piece que je présente pour exemple est <hi rend="i">l’Orpheline léguée</hi>,
                     comédie en trois actes &amp; en vers libres par <hi rend="i">M. Saurin</hi><note
-                        type="numero" place="bottom"><p>M. <hi rend="i">Saurin</hi> est auteur de
+                        place="bottom"><p>M. <hi rend="i">Saurin</hi> est auteur de
                             plusieurs tragédies, des <hi rend="i">Mœurs du temps</hi>, petite
                             comédie charmante, &amp; du <hi rend="i">Joueur Anglois</hi> ou <hi
                                 rend="i">Beverley</hi>.</p></note>, de l’Académie Françoise.
@@ -14351,7 +14352,7 @@
                     <l>Lorsque le désespoir aveugle nos esprits,</l>
                     <l>En vain de la raison le flambeau nous éclaire :</l>
                     <pb n="487"/><l>L’homme prudent échoue où l’heureux téméraire</l>
-                    <l>Voit ses vœux insensés par le sort accomplis<note type="numero"
+                    <l>Voit ses vœux insensés par le sort accomplis<note
                             place="bottom"><p>Quoique les comédies des Anglois soient presque toutes
                                 en prose, ils finissent ordinairement tous leurs actes par quelques
                                 vers qui renferment une sentence.</p></note>.</l>
@@ -14842,7 +14843,7 @@
                     hommage ennuyeux.</p>
                 <p>Le <hi rend="i">Comte de Tonnerre</hi>, si connu par son bon goût, &amp; par son
                     intrigue avec la fameuse <hi rend="i">Chamelé</hi>
-                    <pb n="505"/>qu’il enleva à <hi rend="i">Racine</hi><note type="numero"
+                    <pb n="505"/>qu’il enleva à <hi rend="i">Racine</hi><note
                         place="bottom"><p>Le poëte tragique fut désespéré de perdre le cœur de son
                             héroïne favorite. L’infidélité de l’actrice donna lieu à ces quatre
                             vers :</p>
@@ -14927,7 +14928,7 @@
                     <l>Sans bruit au petit pas se retire chez soi.</l>
                     <l>Cette vie innocente est-elle condamnée ?</l>
                     <l>Ne faire qu’un repas dans toute une journée !</l>
-                    <l>Un malade, entre nous, se conduiroit-il mieux<note type="numero"
+                    <l>Un malade, entre nous, se conduiroit-il mieux<note
                             place="bottom"><p>J’ai donné la préférence à ces deux tirades de <hi
                                     rend="i">Regnard</hi> : non qu’elles soient les plus
                                 instructives des théâtres connus ; mais elles sont peut-être les
@@ -15840,7 +15841,7 @@
                         <l>Moquons-nous de cela, méprisons les alarmes,</l>
                         <l>Et mettons sous nos pieds les soupirs &amp; les larmes.</l>
                         <pb n="540"/><l>Si ma femme a failli, qu’elle pleure bien fort :</l>
-                        <l>Mais pourquoi moi pleurer, puisque je n’ai pas tort<note type="numero"
+                        <l>Mais pourquoi moi pleurer, puisque je n’ai pas tort<note
                                 place="bottom"><p><hi rend="i">Moliere</hi> a, dit-on, composé cette
                                     scene &amp; celle de <hi rend="i">Chrisalde</hi>, dans <hi
                                         rend="i">l’Ecole des Femmes</hi>, pour s’étourdir sur le

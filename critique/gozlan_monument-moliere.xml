@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../anecdotes/anecdotes.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml">
+  <?xml-model href="../anecdotes/anecdotes.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <!--odt2tei: 2015-03-17T11:09:17+01:00-->
@@ -7,7 +8,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Du monument de Molière</title>
+        <title>Du monument de Molière (<hi rend="i">Revue de Paris</hi>)</title>
         <author key="Gozlan, Léon (1803-1866)">Léon Gozlan</author>
       </titleStmt>
       <editionStmt>
@@ -24,9 +25,7 @@
       <publicationStmt>
         <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
         <date when="2015"/>
-        <!--
-            <idno>http://obvil.paris-sorbonne.fr</idno>
-            -->
+       <idno>http://obvil.paris-sorbonne.fr/corpus/moliere/critique/gozlan_monument-moliere</idno>
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
             <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
@@ -38,7 +37,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><author>Léon Gozlan</author>, <title>Du monument de Molière</title>, in <hi rend="i">La Revue de Paris</hi>, <pubPlace>Paris</pubPlace>, <date>1838</date>.</bibl>
+        <bibl><author>Léon Gozlan</author>, <title><hi rend="i">« Du monument de Molière », </hi>Revue de Paris</title>, <biblScope>nouvelle série, année 1838, tome LIV</biblScope>, <date>juin 1838</date>, <biblScope>p. 120-126</biblScope>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>

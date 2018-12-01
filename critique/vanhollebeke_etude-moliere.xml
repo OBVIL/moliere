@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../anecdotes/anecdotes.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml">
+  <?xml-model href="../anecdotes/anecdotes.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <!--odt2tei: 2015-03-17T11:09:17+01:00-->
@@ -7,7 +8,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Étude sur Molière. Molière et ses contemporains dans le Misanthrope... </title>
+        <title>Molière et ses contemporains dans <hi rend="i">Le Misanthrope</hi> (<hi rend="i">Revue trimestrielle</hi>)</title>
         <author key="Van Hollebeke, B. (….-….)">B. Van Hollebeke</author>
       </titleStmt>
       <editionStmt>
@@ -24,10 +25,8 @@
       <publicationStmt>
         <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
         <date when="2015"/>
-        <!--
-            <idno>http://obvil.paris-sorbonne.fr</idno>
-            -->
-        <availability status="restricted">
+       <idno>http://obvil.paris-sorbonne.fr/corpus/moliere/critique/vanhollebeke_etude-moliere</idno>
+      <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
             <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
             <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
@@ -38,7 +37,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><author>B. Van Hollebeke</author>, <title>« Étude sur Molière. Molière et ses contemporains dans le Misanthrope... »</title>, in <hi rend="i">La Revue trimestrielle</hi>, <pubPlace>Paris</pubPlace>, <date>1862</date>.</bibl>
+        <bibl><author>B. Van Hollebeke</author>, <title><hi rend="i">« Étude sur Molière. Molière et ses contemporains dans </hi>Le Misanthrope<hi rend="i">)... », </hi>Revue trimestrielle</title>, <pubPlace>Bruxelles</pubPlace>, <biblScope>vol. 34, 9e année, tome II</biblScope>, <date>1862</date>, <biblScope>p. 292-316</biblScope>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>

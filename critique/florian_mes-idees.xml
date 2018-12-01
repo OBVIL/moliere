@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../anecdotes/anecdotes.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml">
+  <?xml-model href="../anecdotes/anecdotes.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <!--odt2tei: 2015-03-17T11:09:17+01:00-->
@@ -7,7 +8,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Nouveaux mélanges de poésie et de littérature</title>
+        <title>Mes idées sur nos auteurs comiques. Molière [posthume]</title>
         <author key="Florian, Jean-Pierre Claris de (1755-1794)">Jean Pierre Claris de
           Florian</author>
       </titleStmt>
@@ -25,9 +26,7 @@
       <publicationStmt>
         <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
         <date when="2015"/>
-        <!--
-            <idno>http://obvil.paris-sorbonne.fr</idno>
-            -->
+        <idno>http://obvil.paris-sorbonne.fr/corpus/moliere/critique/florian_mes-idees</idno>
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
             <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
@@ -49,13 +48,15 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><author>Jean Pierre Claris de Florian</author>, <title>Nouveaux mélanges de poésie et
-            de littérature</title>, <date>1820</date>, p. <biblScope unit="page">134-160</biblScope>.</bibl>
+        <bibl><author>Jean Pierre Claris de Florian</author>, <title><hi rend="i">« Mes idées sur
+              nos auteurs comiques. Molière » [posthume], in </hi>Nouveaux mélanges de poésie et de
+            littérature</title>, <pubPlace>Paris</pubPlace>, <publisher>Ant. Aug.
+            Renouard</publisher>, <date>1820</date>,p. 134-160.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
       <creation>
-        <date when="1820"/>
+        <date notAfter="1794"/>
       </creation>
       <langUsage>
         <language ident="fr"/>

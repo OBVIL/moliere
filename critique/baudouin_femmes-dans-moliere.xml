@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../anecdotes/anecdotes.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml">
+  <?xml-model href="../anecdotes/anecdotes.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
@@ -7,7 +8,7 @@
     <fileDesc>
       <titleStmt>
         <title>Les femmes dans Molière</title>
-        <author>Félix-Marie Baudouin</author>
+        <author key="Baudouin, Félix-Marie">Félix-Marie Baudouin</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
@@ -39,7 +40,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>Félix-Marie Baudouin, <title>Les Femmes dans Molière</title>, <pubPlace>Rouen</pubPlace>, <publisher>imprimerie E. Cagniard</publisher>, <date>1865</date>.</bibl>
+        <bibl>Félix-Marie Baudouin, <title>Les Femmes dans Molière</title>, <pubPlace>Rouen</pubPlace>, <publisher>imprimerie E. Cagniard</publisher>, <date>1865</date>, 20 p.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>

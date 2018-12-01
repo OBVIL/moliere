@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../anecdotes/anecdotes.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml">
+  <?xml-model href="../anecdotes/anecdotes.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <!--Odette: 2018-02-12T14:58:17+01:00-->
@@ -7,7 +8,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Molière : drame en cinq actes en prose, imité de Goldoni [graphie modernisée]</title>
+        <title>Molière : drame en cinq actes en prose, imité de Goldoni [graphies modernisées]</title>
         <author key="Mercier, Louis-Sébastien (1740-1814)">Louis-Sébastien Mercier</author>
       </titleStmt>
       <editionStmt>
@@ -35,7 +36,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><author>Louis-Sébastien Mercier</author>, <title>Molière : drame en cinq actes en prose ; imité de Goldoni, par M. Mercier</title>, <pubPlace>Amsterdam, Paris</pubPlace>, <publisher>s. n., chez les libraires qui vendent des nouveautés</publisher>, <date>1776</date>, pp. <biblScope unit="page">xvj-220</biblScope>. Source : <ref target="https://books.google.fr/books?id=69tVAAAAcAAJ">Google Books</ref>.</bibl>
+        <bibl><author>Louis-Sébastien Mercier</author>, <title>Molière : drame en cinq actes en prose ; imité de Goldoni, par M. Mercier</title>, <pubPlace>Amsterdam, Paris</pubPlace>, <publisher>s. n., chez les libraires qui vendent des nouveautés</publisher>, <date>1776</date>, <biblScope>xvj-220 p.</biblScope> Source : <ref target="https://books.google.fr/books?id=69tVAAAAcAAJ">Google Livres</ref>. Graphies modernisées.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>

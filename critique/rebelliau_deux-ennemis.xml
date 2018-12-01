@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../anecdotes/anecdotes.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml">
+  <?xml-model href="../anecdotes/anecdotes.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <!--odt2tei: 2015-03-17T11:09:17+01:00-->
@@ -7,7 +8,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Deux ennemis de la Compagnie du Saint-Sacrement : Molière et Port Royal</title>
+        <title>Deux ennemis de la Compagnie du Saint-Sacrement : Molière et Port-Royal (<hi rend="i">Revue des deux mondes</hi>)</title>
         <author key="Rébelliau, Alfred (1858-1934)">Alfred Rébelliau</author>
       </titleStmt>
       <editionStmt>
@@ -24,9 +25,7 @@
       <publicationStmt>
         <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
         <date when="2015"/>
-        <!--
-            <idno>http://obvil.paris-sorbonne.fr</idno>
-            -->
+       <idno>http://obvil.paris-sorbonne.fr/corpus/moliere/critique/rebelliau_deux-ennemis</idno>
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
             <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
@@ -38,7 +37,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><author>Alfred Rébelliau</author>, <title>« Deux ennemis de la Compagnie du Saint-Sacrement : Molière et Port Royal »</title>, in <hi rend="i">La Revue des Deux Mondes</hi>, <pubPlace>Paris</pubPlace>, <date>1909</date>.</bibl>
+        <bibl><author>Alfred Rébelliau</author>, <title><hi rend="i">« Deux ennemis de la Compagnie du Saint-Sacrement : Molière et Port-Royal », </hi>Revue des deux mondes</title>, <pubPlace>Paris</pubPlace>, <biblScope>5e période, tome LIII</biblScope>, <date>15 octobre 1909</date>, <biblScope>p. 892-923</biblScope>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>

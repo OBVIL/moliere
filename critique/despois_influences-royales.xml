@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../anecdotes/anecdotes.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml">
+  <?xml-model href="../anecdotes/anecdotes.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <!--odt2tei: 2015-03-17T11:09:17+01:00-->
@@ -7,7 +8,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Des influences royales en littérature</title>
+        <title>Des influences royales en littérature (<hi rend="i">Revue des deux mondes</hi>)</title>
         <author key="Despois, Eugène (1818-1876)">Eugène Despois</author>
       </titleStmt>
       <editionStmt>
@@ -24,9 +25,7 @@
       <publicationStmt>
         <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
         <date when="2015"/>
-        <!--
-            <idno>http://obvil.paris-sorbonne.fr</idno>
-            -->
+        <idno>http://obvil.paris-sorbonne.fr/corpus/moliere/critique/despois_influences-royales</idno>
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
             <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
@@ -38,7 +37,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><author>Eugène Despois</author>, <title>Des influences royales en littérature. I. Louis XIV</title>, in <hi rend="i">Revue des deux mondes</hi>, 23<hi rend="sup">e</hi> année, 2<hi rend="sup">e</hi> série de la nouvelle période, t. <biblScope unit="volume">II</biblScope>, <date>1853</date>, pp. <biblScope unit="page">1229-1246</biblScope>.</bibl>
+        <bibl><author>Eugène Despois</author>, <title><hi rend="i">« Des influences royales en littérature. I. Louis XIV », Revue des deux mondes</hi></title>, <biblScope>23e année, 2e série de la nouvelle période, tome II</biblScope>, <date>1853</date>, <biblScope>p. 1229-1246</biblScope>.</bibl>
       </sourceDesc>      
     </fileDesc>
     <profileDesc>

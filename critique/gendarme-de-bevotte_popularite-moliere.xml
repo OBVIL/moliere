@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../anecdotes/anecdotes.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml">
+  <?xml-model href="../anecdotes/anecdotes.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>La popularité de Molière</title>
+        <title>La popularité de Molière (<hi rend="i">La Grande Revue</hi>)</title>
         <author key="Gendarme de Bévotte, Georges (1867-1938)">Georges Gendarme de Bévotte</author>
       </titleStmt>
       <editionStmt>
@@ -31,7 +32,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><author>Georges Gendarme de Bévotte</author>, « La popularité de Molière », <hi rend="i">La Grande Revue</hi>, volume 107, janvier <date>1922</date>, p. <biblScope unit="page">353-364</biblScope>.</bibl>
+        <bibl><author>Georges Gendarme de Bévotte</author>, <title>La Grande Revue</title>, <biblScope>volume 107</biblScope>, <date>janvier 1922</date>, <biblScope>p. 353-364</biblScope>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>

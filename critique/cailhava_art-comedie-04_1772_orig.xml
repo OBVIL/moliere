@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../anecdotes/anecdotes.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml">
+    <?xml-model href="../anecdotes/anecdotes.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <TEI xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0">
@@ -1187,7 +1188,7 @@
                             >Crispin</hi>, un malheureux réduit au métier <pb n="37"/>de valet,
                         guérisse les folies les plus enracinées avec trois mots que lui apprit jadis
                         un Juif ? <hi rend="i">Albert</hi> n’auroit-il pas réellement besoin qu’on
-                        éprouvât sur lui l’efficacité des mots magiques<note type="numero"
+                        éprouvât sur lui l’efficacité des mots magiques<note
                             place="bottom"><p>Une Noble Vénitienne, nommée <hi rend="i">Catharina
                                     Corner</hi>, fit jouer à Venise, en 1766, une comédie dans
                                 laquelle l’héroïne de la piece, appellée <hi rend="i">Elise</hi>,
@@ -1260,7 +1261,7 @@
                         avec elle pour entendre les raisons de son mari. Ils trouvent le frere qui
                         se moque de leurs reproches, &amp; les maltraite si bien en protestant de ne
                         pas les connoître, qu’il passe pour fou dans leur esprit, &amp; qu’ils
-                        projettent de le mettre entre les mains d’un Médecin<note type="numero"
+                        projettent de le mettre entre les mains d’un Médecin<note
                             place="bottom"><p>Le Médecin demande à Menechme s’il dort, s’il mange,
                                 s’il rêve, &amp; trouve dans toutes ses réponses des preuves de
                                 folie. <hi rend="i">Moliere</hi> n’auroit-il pas eu cette scene
@@ -1383,7 +1384,7 @@
                                 scene ».</quote> A la bonne heure : <pb n="44"/>mais puisque la
                             décence lui a fait abandonner un plan excellent pour nous en présenter
                             un mauvais, il devoit du moins le remplir avec des personnages
-                                honnêtes<note type="numero" place="bottom"><p>Nous avons comparé
+                                honnêtes<note place="bottom"><p>Nous avons comparé
                                     dans le second volume la philosophie de <hi rend="i"
                                         >Regnard</hi> à celle de <hi rend="i">Moliere</hi> : nous y
                                     avons suffisamment prouvé que toutes les pieces de <hi rend="i"
@@ -1408,7 +1409,7 @@
                             voir son nom à la tête d’une Epître, l’auroit-il aveuglé sur les défauts
                             de l’ouvrage ? Quoi qu’il en soit, le Satyrique François n’imitoit pas
                             de la sorte <hi rend="i">Horace</hi> &amp; <hi rend="i"
-                                >Juvenal</hi><note type="numero" place="bottom"><p>Nous avons dans
+                                >Juvenal</hi><note place="bottom"><p>Nous avons dans
                                     le nouveau Théâtre Italien une piece en vers, intitulée <hi
                                         rend="i">Les deux Arlequins</hi>, qui pour le plan se
                                     rapproche beaucoup de <hi rend="i">Plaute</hi>, &amp; laisse
@@ -1463,7 +1464,7 @@
                     <p>On ne dit pas si le Précepteur eut soin de se faire quelques legs, ou s’il
                         crut connoître assez bien le cœur de la dame pour se fier à sa
                         reconnoissance. Quoi qu’il en soit, <hi rend="i">Crispin</hi>, commençant à
-                        se léguer une somme, est très plaisant<note type="numero" place="bottom"
+                        se léguer une somme, est très plaisant<note place="bottom"
                                 ><p>La fripponnerie a dicté la même ruse à bien des personnes, qui
                                 surement n’avoient lu ni vu représenter <hi rend="i">le
                                     Légataire</hi>. Il n’y a pas plus de douze ans qu’à Castres en
@@ -1570,7 +1571,7 @@
                         <l>Nous grimpons l’un &amp; l’autre au sommet des rochers,</l>
                         <l>Plus élevés cent fois que les plus hauts clochers.</l>
                     </quote>
-                    <p>Le Curé de <hi rend="i">Fontenelle</hi><note type="numero" place="bottom"
+                    <p>Le Curé de <hi rend="i">Fontenelle</hi><note place="bottom"
                                 ><p>Dans <hi rend="i">les Mondes</hi>.</p></note>, qui voit des
                         clochers dans la lune, n’auroit pas mieux dit.</p>
                     <p>Encore une incursion sur les terres de <hi rend="i">Regnard</hi>, &amp; nous
@@ -1779,7 +1780,7 @@
                             Fâcheux</hi> de <hi rend="i">Moliere, Acte III. Scene III. Ormin</hi>
                         prie <hi rend="i">Eraste</hi> d’appuyer un projet de son invention, qui doit
                         augmenter de quatre cents millions les revenus du Roi, &amp; finit par lui
-                        demander deux pistoles à reprendre sur le droit d’avis<note type="numero"
+                        demander deux pistoles à reprendre sur le droit d’avis<note
                             place="bottom"><quote>
                                 <label type="speaker">Ormin.</label>
                                 <p>Si vous vouliez me prêter deux pistoles, que vous reprendriez sur
@@ -2661,7 +2662,7 @@
                         nous paroître aussi téméraire que ridicule d’avoir voulu lutter avec lui.
                         Quel nom donner à <hi rend="i">Regnard</hi>, lui qui, en mettant aux prises
                             <hi rend="i">M. Galonier</hi> &amp; son <hi rend="i">Joueur</hi>, &amp;
-                        n’a pas rougi de singer ses deux prédécesseurs<note type="numero"
+                        n’a pas rougi de singer ses deux prédécesseurs<note
                             place="bottom"><p><hi rend="i">Regnard, Dufresny, Palaprat, Brueys</hi>
                                 &amp; <hi rend="i">d’Ancourt</hi> travailloient tous en même temps.
                                 Nous les aurions sans cesse confondus, si nous eussions suivi la
@@ -2815,7 +2816,7 @@
                         à sa piece ; &amp; si nous ne voulons pas lui dire, avec <hi rend="i"
                             >Dorante, qu’il est trop fanfaron pour un homme de qualité</hi>,
                         soutenons-lui hardiment que les gens d’une certaine façon savent être
-                        fanfarons avec plus de décence<note type="numero" place="bottom"><p>Nous
+                        fanfarons avec plus de décence<note place="bottom"><p>Nous
                                 avons vu que <hi rend="i">Regnard</hi> a mis aussi dans son <hi
                                     rend="i">Joueur</hi> un Marquis fanfaron, &amp; qu’il l’a rendu
                                 tout-à-fait ridicule.</p></note>. Du reste il n’est point
@@ -3095,7 +3096,7 @@
             <div type="chapter" xml:id="livre-04_chapitre-04">
                 <head>CHAPITRE IV. <lb/><hi rend="sc">Brueys</hi> &amp; <hi rend="sc">Palaprat</hi>,
                         <hi rend="i">imitateurs, comparés avec</hi> Térence, Blanchet<note
-                        type="numero" place="bottom"><p><hi rend="i">Pierre Blanchet</hi>, né à
+                        place="bottom"><p><hi rend="i">Pierre Blanchet</hi>, né à
                             Poitiers en 1458, suivit le Palais dans sa jeunesse. Il composa des
                             satyres, des rondeaux, des farces. Il reçut l’ordre de Prêtrise à
                             quarante ans, &amp; mourut à Poitiers en 1519.</p></note>, un Auteur
@@ -3119,7 +3120,7 @@
                         regles à la cinquieme, &amp; ne valut aux acteurs que 75 livres 7 sols. Elle
                         est tirée d’une farce jouée l’an 1470, &amp; qui décele le plus grand génie
                         dans son Auteur. Les différentes éditions, traductions ou imitations qu’on
-                        en a faites<note type="numero" place="bottom"><p><hi rend="i">Maître Pierre
+                        en a faites<note place="bottom"><p><hi rend="i">Maître Pierre
                                     Patelin</hi>, à cinq personnages. — <hi rend="i">Le nouveau
                                     Patelin</hi>, à trois personnages. — <hi rend="i">Le Testament
                                     de Patelin</hi>, à quatre personnages. — <hi rend="i">Maître
@@ -3614,7 +3615,7 @@
                         au Poëte Latin, puisque les Ediles lui en donnerent huit mille pieces,
                         c’est-à-dire, deux cents écus, qui en ce temps-là étoient une somme
                         considérable. <pb n="116"/>Elle fut jouée deux fois dans un jour<note
-                            type="numero" place="bottom"><p><hi rend="i">Eunuchus quidem bis die
+                            place="bottom"><p><hi rend="i">Eunuchus quidem bis die
                                     acta est, meruitque pretium quantum nulla antea cujusdam
                                     comœdia, id est octo millia nummûm ; propterea summa quoque
                                     titulo adscribitur.</hi></p></note> pendant la fête de Cybele.
@@ -4097,7 +4098,7 @@
                     <p/>
                     <p><hi rend="i">La Fontaine</hi> a fait un <hi rend="i">Eunuque</hi> ; nous
                         n’analyserons pas sa piece, parceque le <hi rend="i">bon-homme</hi><note
-                            type="numero" place="bottom"><p><hi rend="i">Racine</hi> &amp; <hi
+                            place="bottom"><p><hi rend="i">Racine</hi> &amp; <hi
                                     rend="i">Boileau</hi> railloient beaucoup <hi rend="i">la
                                     Fontaine</hi> dans un souper : ils l’appelloient le <hi rend="i"
                                     >bon-homme. Moliere</hi> dit à son voisin : <quote>« qu’ils
@@ -4122,7 +4123,7 @@
                     le placer qu’après <hi rend="i">Dufresny, Brueys</hi> &amp; <hi rend="i"
                         >Palaprat</hi> : mais personne n’ignore que <hi rend="i">l’Impromptu de la
                         Garnison</hi> fut envoyé de Namur aux Comédiens ; que <hi rend="i">la folle
-                        Enchere</hi> est d’une Dame<note type="numero" place="bottom"><p>Dans une
+                        Enchere</hi> est d’une Dame<note place="bottom"><p>Dans une
                             préface qui précédoit la premiere édition de cette piece, on lisoit :
                                 <quote>« Cette petite comédie a extrêmement diverti tous ceux qui
                                 ont vu les représentations, &amp; je me suis <hi rend="i"
@@ -4428,7 +4429,7 @@
                     <p>L’analyse de ces deux pieces doit non seulement prouver la mal-adresse, le
                         peu de goût de <hi rend="i">d’Ancourt</hi>, elle peut encore nous faire
                         juger de la gaucherie avec laquelle les Auteurs les plus spirituels<note
-                            type="numero" place="bottom"><p>Je dis <hi rend="i">les Auteurs</hi>,
+                            place="bottom"><p>Je dis <hi rend="i">les Auteurs</hi>,
                                 parceque <hi rend="i">Thomas Corneille, Boisrobert, Montfleury</hi>,
                                 &amp; mille autres, qui tous avoient du mérite, ont cependant cru
                                 enrichir notre scene en traduisant mot à mot des pieces étrangeres ;
@@ -4457,7 +4458,7 @@
                             >d’Ancourt</hi> la fit traîner jusqu’à la cinquieme représentation.
                         L’Auteur a transporté dans sa comédie presque tous les personnages &amp; une
                         partie de l’intrigue des <hi rend="i">Façons du temps</hi>, piece en cinq
-                        actes de <hi rend="i">Saint-Yon</hi><note type="numero" place="bottom"
+                        actes de <hi rend="i">Saint-Yon</hi><note place="bottom"
                                 ><p>Cette piece fut jouée à Paris le Jeudi 13 Décembre 1685 ; elle
                                 eut neuf représentations. Elle n’a jamais été imprimée en France ;
                                 elle le fut en Hollande en 1696, sous le nom de <hi rend="i"
@@ -4648,7 +4649,7 @@
                         locataire, son idée est bien plus singuliere. D’ailleurs la raison que l’un
                         &amp; l’autre alleguent est sans contredit bien plus plaisante adressée au
                         propriétaire de la maison, qu’à un homme pour lequel la chose doit être très
-                            indifférente<note type="numero" place="bottom"><p><hi rend="i"
+                            indifférente<note place="bottom"><p><hi rend="i"
                                     >Regnard</hi>, dans son <hi rend="i">Retour imprévu</hi>,
                                 emploie l’idée de <hi rend="i">Saint-Yon</hi> ; mais il ne la met
                                 pas en action. <hi rend="i">Merlin</hi> se contente d’y dire que son
@@ -5301,7 +5302,7 @@
                         voit sur les remparts une foule de jeunes filles qui jouoient à de petits
                         jeux innocents ; il en distingue une qui lui paroît beaucoup plus jolie que
                         les autres, il en devient amoureux ; il apprend qu’elle est fille d’un
-                        Huissier nommé Pillard<note type="numero" place="bottom"><p>Le beau nom pour
+                        Huissier nommé Pillard<note place="bottom"><p>Le beau nom pour
                                 un homme qui est huissier &amp; cabaretier en même
                             temps !</p></note>, qui est cabaretier dans la ville. Il prend un
                         appartement chez le pere de sa belle, pour tâcher de la séduire : mais ses
@@ -5345,7 +5346,7 @@
                         femme dans une maison où l’Ecclésiastique la tenoit secrètement. La Cour
                         vouloit qu’on fît le procès à la femme à cause de la cruauté qu’elle avoit
                         eue de ne pas se présenter tandis qu’on poursuivoit son mari. L’époux lui
-                            pardonna<note type="numero" place="bottom"><p>Ces deux Histoires sont
+                            pardonna<note place="bottom"><p>Ces deux Histoires sont
                                 rapportées très au long dans le recueil des Causes célebres, avec
                                 tous les détails des Procès auxquels elles ont donné
                             lieu.</p></note>.</p>
@@ -5796,7 +5797,7 @@
                         l’imitation de <hi rend="i">M. Destouches</hi> ne nous laisse rien à
                         desirer.</p>
                     <label><hi rend="i">Extrait de la Nouvelle intitulée le Curieux
-                            impertinent</hi><note type="numero" place="bottom"><p><hi rend="i"
+                            impertinent</hi><note place="bottom"><p><hi rend="i"
                                     >Cervantes</hi> a jugé à propos d’insérer sa <hi rend="i"
                                     >Nouvelle</hi> dans le roman de <hi rend="i">Don
                                 Quichotte</hi> ; c’est dans la traduction de cet ouvrage que nous
@@ -6112,7 +6113,7 @@
                         qui a porté la lettre de <hi rend="i">Lisimon</hi> :</p>
                     <quote>
                         <l>Ah ! le maudit courier ! la foudre l’accompagne !</l>
-                        <l>Qu’il est à la malheure arrivé de Bretagne<note type="numero"
+                        <l>Qu’il est à la malheure arrivé de Bretagne<note
                                 place="bottom"><p><hi rend="i">Moliere</hi> dit dans <hi rend="i"
                                         >l’Etourdi, acte <hi rend="sc">ii</hi>, scene <hi rend="sc"
                                             >xiii.</hi></hi></p>
@@ -6289,10 +6290,10 @@
                             <hi rend="i">Timon</hi> ou <hi rend="i">le Misanthrope</hi>. Nous le
                         prouverons quand nous aurons rapporté une scene prise dans <hi rend="i"
                             >Plaute</hi> ou dans <hi rend="i">Regnard</hi>. Le Lecteur doit se
-                        rappeller que chez le premier<note type="numero" place="bottom"><p><hi
+                        rappeller que chez le premier<note place="bottom"><p><hi
                                     rend="i">Les Captifs.</hi></p></note> un captif accusé de
                         mensonge persuade à son patron que son accusateur est frénétique ; &amp; que
-                        chez le dernier<note type="numero" place="bottom"><p><hi rend="i">Le Retour
+                        chez le dernier<note place="bottom"><p><hi rend="i">Le Retour
                                     imprévu.</hi></p></note>
                         <hi rend="i">Merlin</hi> emploie la même ruse, en mettant aux prises son
                         maître avec <hi rend="i">Madame Bertrand</hi>. Voyons <hi rend="i"
@@ -6556,7 +6557,7 @@
                         a très mal fait de ne pas laisser à son modele ce qui, loin de peindre le
                         caractere annoncé, pouvoit au contraire l’éclipser ; il a copié
                         servilement : c’est tout ce qu’il auroit pu faire, s’il eût intitulé la
-                        piece <hi rend="i">Dufresne</hi><note type="numero" place="bottom"><p>Quand
+                        piece <hi rend="i">Dufresne</hi><note place="bottom"><p>Quand
                                     <hi rend="i">Dufresne</hi> ne vouloit pas faire la grace au
                                 public de paroître à ses yeux, il députoit son laquais vers les
                                 comédiens, en lui disant : <quote>« Un tel, allez dire à ces gens
@@ -6720,7 +6721,7 @@
                     s’être étudié à faire tout le contraire, puisque ses <hi rend="i">Adelphes</hi>
                     sont très propres à corrompre les mœurs, à autoriser le <pb n="219"
                     />libertinage, <hi rend="i">&amp; qu’ils ont l’air barbare au milieu de
-                        Paris</hi><note type="numero" place="bottom"><p><hi rend="i">Baron</hi>
+                        Paris</hi><note place="bottom"><p><hi rend="i">Baron</hi>
                             place la scene à Paris.</p></note>.</p>
                 <div type="section" xml:id="livre-04_chapitre-06_section-01">
                     <head>LE JALOUX, <hi rend="i">en cinq actes, &amp; en vers</hi>.</head>
@@ -7007,7 +7008,7 @@
                         demande les deux chaises. <hi rend="i">Arlequin</hi> ne devine pas que <hi
                             rend="i">la Princesse</hi> veut le faire asseoir à côté d’elle : il est
                         surpris qu’elle ait besoin de deux <pb n="228"/>sieges, il lui dit de
-                        prendre garde au proverbe<note type="numero" place="bottom"><p>Entre deux
+                        prendre garde au proverbe<note place="bottom"><p>Entre deux
                                 selles le cul à terre.</p></note>. Je ne sais si <hi rend="i"
                             >Baron</hi> a connu la scene italienne ; mais elle est plaisante, &amp;
                         les siennes sont ennuyeuses. La femme d’<hi rend="i">Arlequin</hi> a besoin
@@ -7279,7 +7280,7 @@
                         les apparences sont contre elle ; elle dit ensuite à son amant que s’il veut
                         la croire innocente sur sa parole, elle est prête à lui donner la main, mais
                         que s’il exige des preuves de son innocence, il doit s’attendre à la perdre
-                        pour toujours. Nous avons vu<note type="numero" place="bottom"><p>Tome III,
+                        pour toujours. Nous avons vu<note place="bottom"><p>Tome III,
                                 chap. V.</p></note> le parti que <hi rend="i">Moliere</hi> a tiré de
                         cette situation ; nous avons admiré dans l’italien la scene originale : nous
                         sommes convenus que dans ce moment les deux Auteurs étoient sublimes.
@@ -7824,7 +7825,7 @@
                     <p><hi rend="i">Chrémès</hi> n’est pas caché, dans la piece latine ; <hi
                             rend="i">Simon</hi> n’y tousse point ; &amp; nous louerions <hi rend="i"
                             >Baron</hi> d’avoir animé sa scene par ce changement, si après <hi
-                            rend="i">Elmire</hi><note type="numero" place="bottom"><p>Personnage du
+                            rend="i">Elmire</hi><note place="bottom"><p>Personnage du
                                     <hi rend="i">Tartufe</hi>. Elle tousse lorsqu’<hi rend="i"
                                     >Orgon</hi> est caché sous la table.</p></note> on pouvoit
                         tousser de bonne grace sur le théâtre.</p>
@@ -8474,7 +8475,7 @@
                     ni par les critiques outrés, quand même il seroit en état de se dépouiller de
                     tout esprit de parti &amp; <pb n="278"/>de porter un jugement sain, il doit
                     attendre, pour le prononcer, que la voix publique l’ait confirmé<note
-                        type="numero" place="bottom"><p>Quand nous avons cité quelques Auteurs
+                        place="bottom"><p>Quand nous avons cité quelques Auteurs
                             vivants, dans les premiers volumes de cet ouvrage, nous avons toujours
                             laissé au Lecteur le droit de prononcer, ou nous n’avons parlé que de
                             choses peu conséquentes.</p></note>.</p>
@@ -8495,7 +8496,7 @@
                     démontré que les imitations étoient permises principalement sur la scene : j’ai
                     prouvé que tous les bons Poëtes comiques, depuis <hi rend="i">Plaute</hi>
                     jusqu’à <hi rend="i">la Chaussée</hi>, doivent leur plus grande gloire à leurs
-                    imitations. Je veux faire voir que tous nos Dramatiques<note type="numero"
+                    imitations. Je veux faire voir que tous nos Dramatiques<note
                         place="bottom"><p>Les vrais tragiques ne sont pas de notre
                         ressort.</p></note> vivants sont imitateurs <pb n="279"/>à leur tour. Quel
                     d’entre eux voudroit le cacher, ou rougiroit de l’avouer ? Aucun sans doute n’a
@@ -8941,7 +8942,7 @@
                         faire. Ces Dames m’envelopperent, tout habillé que j’étois, je crois, avec
                         plus de cent aunes de toile coupée comme des langes : elles ne pouvoient pas
                         se lasser de faire avec ce linge des tours autour de moi. Quand je fus bien
-                            emmaillotté<note type="numero" place="bottom"><p>J’ai lu la même
+                            emmaillotté<note place="bottom"><p>J’ai lu la même
                                 histoire différemment tournée ; il n’y est point question de
                                 Cléopatre : la brune &amp; la blonde disent à leur traître qu’une
                                 campagnarde du voisinage croit aux géants, &amp; qu’on lui a promis
@@ -9039,7 +9040,7 @@
                         d’un fourbe, admire le fruit qu’il a retiré de ses voyages, &amp; lui donne
                         par écrit son consentement pour épouser <hi rend="i">Julie</hi>. Alors <hi
                             rend="i">Damis</hi> se démasque, avoue qu’il n’est ni antiquaire, ni
-                        nouvelliste, ni voyageur. Les trois Tuteurs sont furieux<note type="numero"
+                        nouvelliste, ni voyageur. Les trois Tuteurs sont furieux<note
                             place="bottom"><p>Cette piece étoit en deux actes lorsqu’on la
                                 représenta : on dit dans un <hi rend="i">avis de l’Editeur</hi> :
                                     <quote>« L’Auteur a revu cette piece &amp; l’a augmentée d’un
@@ -9052,7 +9053,7 @@
                     <label><hi rend="i">Ressemblance dans le fond du sujet &amp; de
                         l’intrigue.</hi></label>
                     <label><hi rend="i">Précis de l’Amant Prothée, comédie en trois actes, en prose,
-                            par</hi> M. Lacroix<note type="numero" place="bottom"><p>Fils d’un
+                            par</hi> M. Lacroix<note place="bottom"><p>Fils d’un
                                 Armurier du Roi : <hi rend="i">l’Amant Prothée</hi> est son seul
                                 ouvrage.</p></note>.</label>
                     <p rend="hanging">Lélio est amoureux d’Isabelle, fille de M. Baroquin. Ce
@@ -9246,7 +9247,7 @@
                     <p><hi rend="i">Cidalise</hi> entre sur la scene en ordonnant à <hi rend="i"
                             >Marton</hi> d’aller renfermer son <hi rend="i">Platon</hi>.</p>
                     <p>La mere avoue à sa fille qu’elle ne l’aime pas précisément parcequ’elle est
-                        sa fille, mais en qualité d’<hi rend="i">être</hi><note type="numero"
+                        sa fille, mais en qualité d’<hi rend="i">être</hi><note
                             place="bottom"><p>On lisoit dans une maison particuliere <hi rend="i"
                                     >les Philosophes</hi> : à ce mot d’<hi rend="i">être</hi>, un
                                 des Auditeurs partit d’un grand éclat de rire, &amp; ne cessa de
@@ -9681,7 +9682,7 @@
                     <label><hi rend="sc">Histoire de la Piece.</hi></label>
                     <quote>
                         <p>« Le sixieme volume de l’Encyclopédie venoit de paroître, &amp; j’étois
-                                allé<note type="numero" place="bottom"><p><hi rend="i"
+                                allé<note place="bottom"><p><hi rend="i"
                                         >M. Diderot</hi> parle.</p></note> chercher à la campagne du
                             repos &amp; de la santé, lorsqu’un événement, non moins intéressant par
                             les circonstances que par les personnes, devint l’étonnement &amp;
@@ -9906,12 +9907,12 @@
                     <quote>
                         <p>« <hi rend="i">Charles Goldoni</hi> a écrit en italien une comédie ou
                             plutôt une farce en trois actes, qu’il a intitulée <hi rend="i">l’Ami
-                                sincere</hi><note type="numero" place="bottom"><p>La piece est
+                                sincere</hi><note place="bottom"><p>La piece est
                                     intitulée en italien, <hi rend="i">Il vero
                                 Amico</hi>.</p></note>. C’est un tissu des caracteres de <hi
                                 rend="i">l’Ami vrai</hi>, &amp; de <hi rend="i">l’Avare</hi> de <hi
                                 rend="i">Moliere</hi>. La cassette &amp; le vol y sont ; &amp; la
-                            moitié des scenes se passe dans la maison d’un pere avare.</p>
+                            moitié des scenes se passe dans la maisond’un pere avare.</p>
                         <p>« Je laissai là toute cette portion de l’intrigue ; car je n’ai dans <hi
                                 rend="i">le Fils naturel</hi> ni avare, ni pere, ni vol, ni
                             cassette ».</p>
@@ -10207,7 +10208,7 @@
                             Chevalier, le Marquis, &amp; le gros Abbé. J’ai pris soin de vous
                             assembler un tas d’originaux qui composent la noble famille où j’entre.
                             Vous verrez premiérement ma belle-mere Madame Abraham : vous connoissez
-                            tous, pour votre malheur, cette vieille folle<note type="numero"
+                            tous, pour votre malheur, cette vieille folle<note
                                 place="bottom"><p><hi rend="i">Madame Abraham</hi> est
                                 usuriere.</p></note>. Vous verrez ma petite future Mademoiselle
                             Benjamine, dont le précieux vous fera mourir de rire. Vous verrez mon
@@ -10520,7 +10521,7 @@
                         <l rend="hanging">Esclaves de l’honneur, ennemis du repos,</l>
                         <l rend="hanging">Achetent la richesse au prix de leurs travaux :</l>
                         <l rend="hanging">Le fourbe bien plus vîte arrive à la fortune<note
-                                type="numero" place="bottom"><p>Nous avons déja dit, je crois, que
+                                place="bottom"><p>Nous avons déja dit, je crois, que
                                     les Anglois finissent tous leurs actes, quoiqu’en prose, avec
                                     quelques vers sententieux : en voilà la preuve.</p></note>.</l>
                     </quote>
@@ -10965,7 +10966,7 @@
                             En effet, est-il un seul jour de notre vie, où nous ne soyons perdus
                             dans l’obscurité ? Les fourbes nous y tiennent par leurs subtiles
                             inventions, les sots par leur ignorance, les Théologiens<note
-                                type="numero" place="bottom"><p>Quelle licence !</p></note> par
+                                place="bottom"><p>Quelle licence !</p></note> par
                             leurs mysteres, les Avocats par leurs chicanes, les gens d’Etat par
                             leurs intrigues. Que dis-je ? cette raison même que nous vantons si
                             fort, qu’est-ce autre chose qu’une lanterne obscure, qui nous sert
@@ -11085,7 +11086,7 @@
                             vaquer... elle étoit déja promise. Une seconde ; j’arrive précisément
                             trop tard d’une demi-heure. Une troisieme ; elle appaise la faim d’un
                             créancier. Une quatrieme ; elle paie les gages d’un flatteur. Une
-                            cinquieme ; cela corrompt une voix<note type="numero" place="bottom"><p
+                            cinquieme ; cela corrompt une voix<note place="bottom"><p
                                     rend="hanging">Aux Elections du Parlement.</p></note>. Une
                             sixieme enfin ; l’on continue à me promettre. Mais après avoir ainsi
                             dormi toute l’année, j’ai vu finir mon rêve, &amp; je me suis apperçu
@@ -11133,13 +11134,13 @@
                             petites actions, de belles Dames ne rien faire qui vaille. J’ai vu les
                             honnêtes Avocats de Westminster, <pb n="366"/>&amp; les vertueux
                             habitants de la Bourse, les fous politiques des cafés, &amp; les graves
-                            Législateurs de Bedlam<note type="numero" place="bottom"><p
+                            Législateurs de Bedlam<note place="bottom"><p
                                     rend="hanging">Hôpital des Fous.</p></note>. J’ai vu des
                             tragédies plaisantes, &amp; des comédies lugubres, de la dévotion à un
                             opéra, de la gaieté à un sermon. J’ai vu des beaux habits à S.
-                                James<note type="numero" place="bottom"><p rend="hanging">La
+                                James<note place="bottom"><p rend="hanging">La
                                     Cour.</p></note>, &amp; de longs mémoires à Ludgate-hill<note
-                                type="numero" place="bottom"><p rend="hanging">Cour de Justice pour
+                                place="bottom"><p rend="hanging">Cour de Justice pour
                                     les Débiteurs.</p></note>. J’ai vu de la grandeur pauvre, &amp;
                             de la pauvreté riche ; de hautes dignités avec une basse flatterie ;
                             beaucoup d’orgueil, point de mérite. Enfin j’ai vu des sots titrés, des
@@ -11430,7 +11431,7 @@
                         à <hi rend="i">Agathe</hi>, autant pour <hi rend="i">Lucas</hi> &amp; <hi
                             rend="i">Cateau : Sully</hi> applaudit à cette générosité : <hi rend="i"
                             >le Roi</hi> veut rester l’ami de <hi rend="i">Michaud</hi> : tout le
-                        monde bénit un si grand Prince<note type="numero" place="bottom"><p>Tout le
+                        monde bénit un si grand Prince<note place="bottom"><p>Tout le
                                 monde sait que <hi rend="i">le Roi &amp; le Fermier</hi> de la
                                 comédie italienne est imité de la Piece angloise.</p></note>.</p>
                     <label>A FEMME AVARE, GALANT ESCROC,</label>
@@ -11536,7 +11537,7 @@
                             petite</hi>. Le <hi rend="i">Chevalier</hi> rejette bien loin une
                         pareille idée. Le <hi rend="i">Comte</hi> le persiffle sur sa discrétion,
                         lui reproche d’<hi rend="i">être amoureux comme un roman</hi><note
-                            type="numero" place="bottom"><p>Dufresny emploie la même idée dans l’<hi
+                            place="bottom"><p>Dufresny emploie la même idée dans l’<hi
                                     rend="i">Esprit de contradiction</hi>.</p></note>, &amp; veut le
                         marier pour l’en punir. Il le renvoie en lui disant qu’il lui vient une idée
                         excellente : il projette d’avoir Madame <hi rend="i">Gasparin</hi>, en lui
@@ -12253,7 +12254,7 @@
                         <p>En quelle musique voulez-vous que je le chante ? Musique italienne,
                             françoise, angloise, allemande, suisse, turque, chinoise ? car je
                             compose en toutes ces musiques, sans les avoir apprises que par les
-                                mathématiques<note type="numero" place="bottom"><p>Dans <hi rend="i"
+                                mathématiques<note place="bottom"><p>Dans <hi rend="i"
                                         >la Matinée à la mode</hi>, scene <hi rend="sc">viii</hi>,
                                     Forlise dit à Dorilas : Etes-vous Musicien ? Oui,
                                     géométriquement, répond Dorilas.</p></note>. Oh ! cela fait de
@@ -12707,7 +12708,7 @@
                 </quote>
                 <p>Un jeune Acteur, nommé <hi rend="i">Desforges</hi>, &amp; présentement en
                     province, a long-temps lu dans les <pb n="418"/>sociétés de Paris une piece<note
-                        type="numero" place="bottom"><p>Elle est intitulée <hi rend="i">les deux
+                        place="bottom"><p>Elle est intitulée <hi rend="i">les deux
                                 Portraits</hi>.</p></note> bien ressemblante aux <hi rend="i"
                         >Fausses Infidélités</hi>. Comme elle est manuscrite, &amp; que l’Auteur a
                     pu ou peut y faire des changements à chaque instant, nous n’en donnerons point
@@ -12733,7 +12734,7 @@
                         volant</hi>, ou <hi rend="i">Arlequin cru fou, Sultane &amp; Mahomet</hi>,
                     piece en trois actes, dans le même genre que la précédente. La fable de ces deux
                         <hi rend="i">Drames graves, sérieux, imposants</hi>, &amp; <pb n="419"
-                    />dignes du célebre <hi rend="i">Carlin</hi><note type="numero" place="bottom"
+                    />dignes du célebre <hi rend="i">Carlin</hi><note place="bottom"
                             ><p>Arlequin de la Comédie italienne, unique par le naturel de ses
                             graces &amp; de son jeu. Un jour en le voyant sur la scene varier ses
                             lazzis, je ne pus m’empêcher de m’écrier : <hi rend="i">C’est un petit
@@ -12762,7 +12763,7 @@
                         rend="i">Nanine</hi> de <hi rend="i">M. de Voltaire</hi>, laquelle <hi
                         rend="i">Nanine</hi> est imitée de <hi rend="i">Paméla</hi>, roman anglois,
                     lequel roman est une imitation de <hi rend="i">Grisélidis</hi>, &amp;c.
-                        &amp;c.<note type="numero" place="bottom"><p>Il y a sur l’histoire de <hi
+                        &amp;c.<note place="bottom"><p>Il y a sur l’histoire de <hi
                                 rend="i">Grisélidis</hi> un <hi rend="i">Roman</hi>, des <hi
                                 rend="i">Contes</hi>, &amp; plusieurs <hi rend="i"
                                 >Tragi-comédies</hi>, sur-tout un <hi rend="i">Mystere</hi> composé
@@ -13514,7 +13515,7 @@
                             paroît. Elle se trouble, prie Don Alvar d’empêcher qu’elle ne soit
                             suivie par le cavalier qui vient. Don Alvar exécute ses ordres : Enrique
                             indigné lui fait mettre l’épée à la main : Alvar le blesse, est
-                            poursuivi par trois <hi rend="i">braves</hi><note type="numero"
+                            poursuivi par trois <hi rend="i">braves</hi><note
                                 place="bottom"><p>Brave vient du mot espagnol <hi rend="i"
                                         >bravo</hi>, qui signifie un homme brave, mais qui veut dire
                                     encore un <hi rend="i">coupe-jarret</hi>. Les Italiens nomment
@@ -14147,7 +14148,7 @@
                     Princesse, <hi rend="i">ce poignard</hi> qu’elle lui fait voir <hi rend="i">sous
                         le chevet du lit</hi>, afin de lui persuader que le Roi l’a épousée pour la
                     tuer la premiere nuit de ses noces, tout cela ne nous rappelle-t-il pas ces
-                    contes d’<hi rend="i">Ogre</hi><note type="numero" place="bottom"><p>Monstre
+                    contes d’<hi rend="i">Ogre</hi><note place="bottom"><p>Monstre
                             imaginaire.</p></note> avec lesquels les <hi rend="i">Bonnes</hi>
                     amusent ou endorment les petits enfants ? <hi rend="i">Eumélie</hi>, abandonnée
                     dans le bois aux deux parents de <hi rend="i">Margiste</hi> qui doivent la tuer,
@@ -14193,7 +14194,7 @@
                     que du <hi rend="i">Bourru bienfaisant</hi>, comédie en trois actes &amp; en
                     prose, la seule que <hi rend="i">M. Goldoni</hi> ait donnée sur le théâtre
                     françois. Le caractere principal m’a paru ressembler beaucoup au caractere de
-                        <pb n="468"/><hi rend="i">Freeport</hi><note type="numero" place="bottom"
+                        <pb n="468"/><hi rend="i">Freeport</hi><note place="bottom"
                             ><p>On prononce Friport.</p></note>, personnage de l’<hi rend="i"
                         >Ecossoise</hi>, ou <hi rend="i">le Café</hi>, comédie en prose &amp; en
                     cinq actes de <hi rend="i">M. de Voltaire</hi>.</p>
@@ -14569,7 +14570,7 @@
                     d’imagination si elles n’étoient remplies de caracteres imaginaires.</p>
                 <pb n="481"/>
                 <p>Veut-on une preuve bien convaincante de l’état déplorable où notre scene est
-                    réduite ? voyons <hi rend="i">Poinsinet</hi><note type="numero" place="bottom"
+                    réduite ? voyons <hi rend="i">Poinsinet</hi><note place="bottom"
                             ><p>Il a fait le <hi rend="i">Cercle</hi>, comédie d’un acte &amp; en
                             prose.</p></note> se faire regarder, avec une petite piece décousue
                     &amp; pillée çà &amp; là, comme l’espoir de la scene françoise.</p>
@@ -14646,7 +14647,7 @@
                     récompenses ; les arts de pur agrément y sont même accueillis avec la plus
                     grande distinction, couronnés des mains de la fortune : soyons donc justement
                     étonnés d’y voir les Lettres dédaignées : soyons surpris sur-tout que l’art
-                        dramatique<note type="numero" place="bottom"><p>J’entends par art dramatique
+                        dramatique<note place="bottom"><p>J’entends par art dramatique
                             l’art du Poëte tragique ou comique, &amp; non celui du Comédien. On
                             parle d’établir une Ecole dramatique, dans laquelle les jeunes Acteurs
                             s’exerceront avant de figurer sur le théâtre de Paris. Ce sera fort bien
@@ -14700,7 +14701,7 @@
                         nues : il faut te modeler à notre taille, à nos gestes. Sois notre esclave.
                         Si tu te glisses dans le sanctuaire des arts, que ce soit sous nos
                         auspices ; ou, loin de nous, loin du théâtre, ton audace infructueuse<note
-                            type="numero" place="bottom"><p>Un privilege exclusif n’est pas moins
+                            place="bottom"><p>Un privilege exclusif n’est pas moins
                                 préjudiciable à l’art du Comédien qu’a celui du Poëte. Supposons une
                                 troupe dont tous les Acteurs soient autant de <hi rend="i"
                                     >Roscius</hi>. Chacun d’eux est parfait dans son genre. Il ne le
@@ -14768,7 +14769,7 @@
                     d’ailleurs, mais qui étoient avant-hier occupées de toute autre chose que de la
                     comédie, peuvent aujourd’hui, moyennant leur ordre de réception, avoir acquis
                     tout de suite la connoissance nécessaire pour juger les productions de l’art le
-                    plus compliqué &amp; le plus étonnant<note type="numero" place="bottom"><p>Je
+                    plus compliqué &amp; le plus étonnant<note place="bottom"><p>Je
                             souffre pour les Comédiens de voir le public se faire un jeu de casser
                             leurs arrêts. Ce n’est pas qu’il n’y ait parmi eux de bons Juges ; mais
                             il est impossible que les détails, lus avec prétention, n’éblouissent la
@@ -14801,7 +14802,7 @@
                         <hi rend="i">Moliere</hi>, de <hi rend="i">Corneille</hi>, &amp; qui les
                     approchent de plus près : gémissez en secret ; mais gardez-vous d’insister si
                     vous desirez qu’on vous joue par grace dans les petits jours, ou pendant les
-                    chaleurs de l’été<note type="numero" place="bottom"><p>L’été est, dit-on, une
+                    chaleurs de l’été<note place="bottom"><p>L’été est, dit-on, une
                             saison morte pour la comédie. Cependant la moindre nouvelle piece
                             procure des chambrées complettes, même dans les plus grandes chaleurs,
                             &amp; lorsque la moitié de Paris est à la campagne. Il est vrai que les
@@ -14874,7 +14875,7 @@
                     l’immortalité. La nature le destinoit à illustrer sa patrie : le discrédit des
                     Lettres, les privileges tyranniques d’une seule troupe en font quelquefois une
                     des sangsues de l’Etat, ou du moins un homme inutile.</p>
-                <p>Tout veut qu’on élargisse la carriere de l’immortalité<note type="numero"
+                <p>Tout veut qu’on élargisse la carriere de l’immortalité<note
                         place="bottom"><p>Le théâtre italien, tel qu’il est monté présentement, ne
                             peut faire que la réputation des Musiciens ; les Poëtes y sont
                             totalement sacrifiés : aussi aura-t-il bientôt besoin d’une nouvelle
@@ -14918,7 +14919,7 @@
                         rend="i">l’Ambigu comique</hi>, &amp; voir des sauts périlleux chez <hi
                         rend="i">Nicolet</hi>. Sachez l’amuser, il vous donnera la préférence, &amp;
                     le goût triomphera <pb n="495"/>sans peine de la futilité la plus déshonorante
-                    pour la nation<note type="numero" place="bottom"><p>Admettons deux troupes,
+                    pour la nation<note place="bottom"><p>Admettons deux troupes,
                             l’art du Comédien y gagnera autant que celui du Poëte. Les Acteurs se
                             piqueront d’émulation. Loin de s’endormir dans le sein de l’indolence,
                             ils feront continuellement de nouveaux efforts. L’un sera vainqueur
@@ -14939,7 +14940,7 @@
                     dommage, grand Dieu ! si ce siecle n’eût eu qu’une seule troupe ! L’un des
                     génies que nous venons de nommer l’auroit occupée ; les autres se seroient
                     découragés, &amp; la France eût perdu cent chefs-d’œuvre qui lui feront à jamais
-                    le plus grand honneur<note type="numero" place="bottom"><p>Qui nous assurera
+                    le plus grand honneur<note place="bottom"><p>Qui nous assurera
                             même que les <hi rend="i">Scuderi</hi>, les <hi rend="i"
                             >Montfleuri</hi>, les <hi rend="i">Scarron</hi>, les <hi rend="i"
                                 >Desmarets</hi>, les <hi rend="i">Boursault</hi>, &amp; peut-être
@@ -14955,7 +14956,7 @@
                     les Muses qui la donnent, &amp; leur facilite des ressources pour varier les
                     fêtes de la Cour, ou pour les rendre plus brillantes, soit en y appellant les
                     deux troupes séparément, soit en réunissant l’élite de l’une &amp; de
-                        l’autre<note type="numero" place="bottom"><p>Le célebre <hi rend="i"
+                        l’autre<note place="bottom"><p>Le célebre <hi rend="i"
                                 >Préville</hi> a un frere qui lui ressemble presque parfaitement,
                             &amp; qui jouoit des rôles françois à la comédie italienne. Ils ont
                             souvent fait les plaisirs de la Cour en y représentant <hi rend="i">les
@@ -14967,7 +14968,7 @@
                     laquelle ils souffrent que deux ou trois esprits remuants profitent des abus
                     anciens pour en glisser de nouveaux, qu’ils en imposent à leurs supérieurs trop
                     occupés d’affaires plus importantes, qu’ils bouleversent les anciens
-                        réglements<note type="numero" place="bottom"><p>Les Comédiens affichent dans
+                        réglements<note place="bottom"><p>Les Comédiens affichent dans
                             leurs corridors les ordres du Roi, qui défendent à toute personne, de
                             quelle qualité &amp; condition qu’elle soit, d’entrer au spectacle sans
                             payer. Pourquoi ne rendent-ils pas leurs réglements aussi publics ?
@@ -14997,7 +14998,7 @@
                     Ville les drames ont désormais besoin de s’étayer de la musique &amp; de toutes
                     les contorsions d’une pantomime ridicule. Deux Poëtes couronnés des mains de la
                     Muse tragique <pb n="498"/>viennent d’être honorés des bienfaits<note
-                        type="numero" place="bottom"><p>M. <hi rend="i">de Belloy</hi> vient
+                        place="bottom"><p>M. <hi rend="i">de Belloy</hi> vient
                             d’obtenir une pension de douze cents livres ; M. <hi rend="i"
                                 >Lemierre</hi> une de cent pistoles. Il seroit un moyen bien simple
                             pour mettre les Auteurs dramatiques à leur aise : le voici. Qu’on
@@ -15015,7 +15016,7 @@
                             fois ses planches, pourroit aisément satisfaire les souscripteurs de la
                             Province : &amp; les contre-factions, toujours imparfaites, ne seroient
                             plus à craindre.</p></note> du maître : les Comédiens ont ordre de ne
-                    plus confier aux doubles<note type="numero" place="bottom"><p>Ce qu’on appelle
+                    plus confier aux doubles<note place="bottom"><p>Ce qu’on appelle
                             doublure au théâtre, est la chose la plus funeste aux pieces, la plus
                             désagréable pour le public, &amp; la plus nuisible à la caisse des
                             Comédiens. Premiérement, le public, qui voudroit toujours voir ses

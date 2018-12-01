@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../anecdotes/anecdotes.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml">
+  <?xml-model href="../anecdotes/anecdotes.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <!--odt2tei: 2015-03-17T11:09:17+01:00-->
@@ -8,8 +9,8 @@
     <fileDesc>
       <titleStmt>
         <title>Anecdotes dramatiques [extraits sur Molière]</title>
-        <author key="Clément, Jean Marie Bernard (1742-1812)">Clément J. M. B.</author>
-        <author key="La Porte, Joseph de (1714-1779)">Abbé Joseph de La Porte</author>
+        <author key="Clément, Jean Marie Bernard (1742-1812)">Jean Marie Bernard Clément</author>
+        <author key="La Porte, Joseph de (1714-1779)">Joseph de La Porte</author>
         <editor>Alexandra Dias Vieira</editor>
       </titleStmt>
       <editionStmt>
@@ -22,9 +23,7 @@
       <publicationStmt>
         <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
         <date when="2015"/>
-        <!--
-            <idno>http://obvil.paris-sorbonne.fr/corpus/critique/la-grange_preface/</idno>
-            -->
+        <idno>http://obvil.paris-sorbonne.fr//corpus/moliere/critique/clement-laporte_anecdotes-dramatiques_moliere</idno>
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
             <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
@@ -36,7 +35,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><author>Clément</author> et <author>La Porte</author>, <title>Anecdotes dramatiques</title>, <pubPlace>Paris</pubPlace>, <publisher>Veuve Duchesne</publisher>, <date>1775</date>.</bibl>
+        <bibl><author>Clément</author> et <author>La Porte</author>, <title>Anecdotes dramatiques</title>, Paris : Veuve Duchesne, 1775 (3 volumes)</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -504,14 +503,12 @@
       </div>
       <div xml:id="I356">
         <head>Tome I, p. 356<term rend="index" type="Œuvre " key="Molière, 1672, Les Femmes savantes"/></head>
-        <p><milestone type="anecdoteStart" xml:id="moliere-fait-acheter-habit-cotin"/>Molière fit acheter un des habits de Cotin* pour le faire porter à celui qui faisait le personnage dans sa Pièce.<milestone type="anecdoteEnd"/><milestone type="anecdoteStart" xml:id="moliere-joue-cotin-sous-nom-tricotin"/>Molière joua d’abord Cotin* sous le nom de Tricotin, que plus malicieusement, sous prétexte de mieux déguiser, il changea depuis en Trissotin, équivalant à trois fois sot.<milestone type="anecdoteEnd"/><milestone type="commentStart" corresp="#moliere-fait-acheter-habit-cotin moliere-joue-cotin-sous-nom-tricotin"/> Jamais homme, excepté Montmaur*, n’a tant été turlupiné que le pauvre Cotin*. On fit en 1682, peu de temps après sa mort, ces quatre vers :</p>
+        <p><milestone type="anecdoteStart" xml:id="moliere-fait-acheter-habit-cotin"/>Molière fit acheter un des habits de Cotin* pour le faire porter à celui qui faisait le personnage dans sa Pièce.<milestone type="anecdoteEnd"/><milestone type="anecdoteStart" xml:id="moliere-joue-cotin-sous-nom-tricotin"/>Molière joua d’abord Cotin* sous le nom de Tricotin, que plus malicieusement, sous prétexte de mieux déguiser, il changea depuis en Trissotin, équivalant à trois fois sot.<milestone type="anecdoteEnd"/><milestone type="commentStart" corresp="#moliere-fait-acheter-habit-cotin"/><milestone type="commentStart" corresp="#moliere-joue-cotin-sous-nom-tricotin"/> Jamais homme, excepté Montmaur*, n’a tant été turlupiné que le pauvre Cotin*. On fit en 1682, peu de temps après sa mort, ces quatre vers :</p>
         <quote>
-          <lg>
-            <l>Savez-vous en quoi Cotin*</l>
-            <l><space rend="tab"></space>Diffère de Trissotin ?</l>
-            <l><space rend="tab"></space>Cotin* a fini ses jours,</l>
-            <l><space rend="tab"></space>Trissotin vivra toujours.</l>
-          </lg>
+          <l>Savez-vous en quoi Cotin*</l>
+          <l><space rend="tab"/>    Diffère de Trissotin ?</l>
+          <l><space rend="tab"/>    Cotin* a fini ses jours,</l>
+          <l><space rend="tab"/>    Trissotin vivra toujours.</l>
         </quote><milestone type="commentEnd"/>
         <p><milestone type="commentStart" corresp="#menage-refuse-de-croire-satire-femmes-savantes"/>À l’égard de Vadius, le Public a été persuadé que c’était Ménage*. Et Richelet<note place="bottom"><hi rend="sc">Richelet</hi>, César Pierre (Cheminon v. 1626 – Paris 1698) : lexicographe français. Il est l’auteur d’un <hi rend="i">Dictionnaire français</hi> (1680), témoignage précieux sur la langue du XVIIe siècle, notamment sur la langue familière, et d’une <hi rend="i">Versification française</hi> (1671). (Le Petit robert des noms propres 2007).</note>, aux mots <hi rend="i">s’adresser et reprocher</hi>, ne l’a pas dissimulé. <milestone type="commentEnd"/><milestone type="anecdoteStart" xml:id="menage-refuse-de-croire-satire-femmes-savantes"/>Ménage* disait à ce sujet : « On dit que les <hi rend="i">Femmes Savantes</hi> de Molière, sont Mesdames de…<note place="bottom"><p>Madame de Rambouillet, Catherine de Vivonne, et sa fille Madame la duchesse de Montausier, Julie d’Angennes.</p><p rend="noindent"><hi rend="sc">Angennes</hi>, Julie d’ (Paris 1607- id. 1671) : fille de la marquise de Rambouillet et épouse de Charles de Montausier, qui fit composer pour elle <hi rend="i">La Guirlande de Julie</hi>. (Le Petit Robert des noms propres 2007)</p></note> et l’on me veut faire accroire que je suis le Savant qui parle d’un ton doux. Ce sont des choses cependant que Molière désavouait. »<milestone type="anecdoteEnd"/></p>
         <bibl type="embed" corresp="../cousin-d-avalon_molierana/ana25.js"><ref target="../cousin-d-avalon_molierana/ana25">1801, <title>Moliérana</title>, 25, p. 52-53</ref></bibl>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../anecdotes/anecdotes.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml">
+  <?xml-model href="../anecdotes/anecdotes.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <!--odt2tei: 2015-03-17T11:09:17+01:00-->
@@ -7,7 +8,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>La philosophie dans le théâtre de Molière</title>
+        <title>La philosophie dans le théâtre de Molière (<hi rend="i">Revue chrétienne</hi>)</title>
         <author key="Doumergue, Émile (1844-1937)">Émile Doumergue</author>
       </titleStmt>
       <editionStmt>
@@ -24,10 +25,8 @@
       <publicationStmt>
         <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
         <date when="2015"/>
-        <!--
-            <idno>http://obvil.paris-sorbonne.fr</idno>
-            -->
-        <availability status="restricted">
+        <idno>http://obvil.paris-sorbonne.fr/corpus/moliere/critique/doumergue_philosophie-moliere</idno>
+         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
             <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
             <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
@@ -38,7 +37,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><author>Émile Doumergue</author>, <title>La Philosophie dans le théâtre de Molière</title>, in <hi rend="i">La Revue chrétienne</hi>, <pubPlace>Paris</pubPlace>, <date>1870</date>.</bibl>
+        <bibl><author>Émile Doumergue</author>, <title><hi rend="i">« La philosophie dans le théâtre de Molière », </hi>Revue chrétienne</title>, <biblScope>17e année</biblScope>, <date>1870</date>, <biblScope>p. 326-347</biblScope>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -53,7 +52,7 @@
   <text>
     <body>
       <div>
-        <head>LA PHILOSOPHIE DANS LE THÉÂTRE DE MOLIÈRE (<note place="bottom">Voir la <hi rend="i">Revue chrétienne</hi> du 5 décembre 1869.    </note>)</head>
+        <head>La philosophie dans le théâtre de Molière<note place="bottom">Voir la <hi rend="i">Revue chrétienne</hi> du 5 décembre 1869.    </note></head>
         <p><pb n="326"/>La première partie de notre étude nous a d’abord montré que Molière n’avait attaqué la religion ni directement ni indirectement. Puis, nous avons cherché à dessiner l’attitude qu’il avait prise pendant sa vie, en face de cette « seule chose nécessaire. » Plein de respect pour elle, nous l’avons vu lui prêter, intentionnellement, l’appui de sa satire, sans que nous ayons cru devoir le ranger pour cela au nombre de ses plus fervents disciples.</p>
         <p>Mais ce résultat, à moitié négatif, en réclame un autre plus précis, plus positif. Molière croît en Dieu et le défend, — et cette foi n’a pas chez lui une origine religieuse. Molière professe une morale, comme nous le verrons, assez facile à caractériser dans son ensemble, — et ce n’est pas davantage la religion qui lui en a fourni le principe. D'où viennent donc, et son idée de Dieu, et le principe de sa morale ?</p>
         <p>C'est ce que nous allons essayer de découvrir, en imitant la marche que nous avons suivie tout à l’heure, et en commençant, maintenant, par nous demander quelle a été la position de Molière, en face de la philosophie de son époque.</p>
@@ -307,7 +306,7 @@
         <p>1° Où il nie l’existence des idées innées <hi rend="i">(Cinquièmes objections</hi>, p. 275);</p>
         <p>2° Où il établit l’existence des atomes, bien qu’il leur refuse l’éternité (Damiron, p. 421);</p>
         <p>3° Où il déclare que toute science est des sens ou vient des sens (Damiron, p. 400 ; <hi rend="i">Cinquièmes objections</hi>, p. 274) ;</p>
-        <p>4<hi rend="sup">°</hi> Où à propos de la pensée, il trouve qu’elle pourrait bien convenir à la matière <hi rend="i">(Cinquièmes objections</hi>, p. 325, p. 259) ;</p>
+        <p>4° Où à propos de la pensée, il trouve qu’elle pourrait bien convenir à la matière <hi rend="i">(Cinquièmes objections</hi>, p. 325, p. 259) ;</p>
         <p>5° Où sur l’âme il déclare qu’il « balbutiera » seulement, où il admet en l’homme deux âmes, l’une matérielle, l’autre raisonnable, mais où il échoue quand il veut prouver que l’âme raisonnable n’est pas matérielle comme l’autre (Damiron, p. 478, 479, 480) ;</p>
         <p>6° Où sur Dieu il déclare que nous ne le concevons que sous la forme corporelle <quote>: « <hi rend="i">Sub idea viri alicujus senis venerabilis</hi> »</quote> (Log., p. 93);</p>
         <p>En sorte qu’en dernière analyse nous ne concevons rien : <quote>« <hi rend="i">Quod nihil ornnino habeat corporeitatis., — quia mens nostra, quamdiu est illigate corpori, haurit per sensus notiones rerum</hi>; »</quote></p>

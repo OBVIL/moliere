@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../anecdotes/anecdotes.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml">
+  <?xml-model href="../anecdotes/anecdotes.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
@@ -23,9 +24,7 @@
       <publicationStmt>
         <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
         <date when="2015"/>
-        <!--
-            <idno>http://obvil.paris-sorbonne.fr</idno>
-            -->
+        <idno>http://obvil.paris-sorbonne.fr/corpus/moliere/critique/moland_vie-de-moliere</idno>
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
             <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
@@ -47,7 +46,9 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><author>Louis Moland</author>, <title>Vie de J.-B. P. Molière : Histoire de son théâtre et de sa troupe</title>, <pubPlace>Paris</pubPlace>, <publisher>Garnier Frères</publisher>, <date>1892</date>.</bibl>
+        <bibl><author>Louis Moland</author>, <title>Vie de J.-B. P. Molière : Histoire de son
+            théâtre et de sa troupe</title>, <pubPlace>Paris</pubPlace>, <publisher>Garnier
+            Frères</publisher>, <date>1892</date>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -3444,19 +3445,19 @@
             théâtre de six pieds de hauteur, de huit toises de largeur et de profondeur. »</quote>
           Telle était la scène où la comédie française allait prendre son vigoureux essor.</p>
         <p>Molière s’établit sans perdre de temps dans son droit, et commença à représenter en
-          public le samedi 2 novembre 1658<note place="bottom"><p>Dans la préface de 1682, Lagrange dit
-            le 3 novembre. Sur son registre, il a écrit : <quote>« Le jour des Trépassés, 3
-              novembre. »</quote> Le jour des Morts en 1658 fut un samedi. Loret termine la lettre
-            de ce jour par ces deux vers :
+          public le samedi 2 novembre 1658<note place="bottom"><p>Dans la préface de 1682, Lagrange
+              dit le 3 novembre. Sur son registre, il a écrit : <quote>« Le jour des Trépassés, 3
+                novembre. »</quote> Le jour des Morts en 1658 fut un samedi. Loret termine la lettre
+              de ce jour par ces deux vers :</p>
             <quote>
               <lg>
                 <l>Fait à Paris et non à Loches</l>
                 <l>Le jour des Morts au son des cloches.</l>
               </lg>
-            </quote> Le dimanche appartenait aux
-            Italiens.</note>. Il persista d’abord à vouloir jouer la <pb n="118" xml:id="p118"
-          />tragédie, si l’on en croit Le Boulanger de Chalussay, qui, probablement, est véridique
-          sur ce point.</p>
+            </quote>
+            <p> Le dimanche appartenait aux Italiens.</p></note>. Il persista d’abord à vouloir
+          jouer la <pb n="118" xml:id="p118"/>tragédie, si l’on en croit Le Boulanger de Chalussay,
+          qui, probablement, est véridique sur ce point.</p>
         <quote>
           <l>Là, par <hi rend="i">Héraclius</hi> nous ouvrons un théâtre</l>
           <l>Où je crois tout charmer et tout rendre idolâtre.</l>

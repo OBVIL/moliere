@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../anecdotes/anecdotes.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml">
+  <?xml-model href="../anecdotes/anecdotes.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Petite comédie de la critique littéraire ou Molière selon trois écoles philosophiques</title>
+        <title>Petite comédie de la critique littéraire, ou Molière selon trois écoles philosophiques</title>
         <author key="Stapfer, Paul (1840-1917)">Paul Stapfer</author>
       </titleStmt>
       <editionStmt>
@@ -39,7 +40,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><author>Paul Stapfer</author>, <title>Petite comédie de la critique littéraire ou Molière selon trois écoles philosophiques</title>, <pubPlace>Paris</pubPlace>, <publisher>M. Lévy frères</publisher>, 1866. Graphies modernisées. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k299356z">Gallica</ref>.</bibl>
+        <bibl><author>Paul Stapfer</author>, <title>Petite comédie de la critique littéraire, ou Molière selon trois écoles philosophiques</title>, <pubPlace>Paris</pubPlace>, <publisher>M. Lévy frères</publisher>, <date>1866</date>, <biblScope>371 p.</biblScope> Graphies modernisées. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k299356z">Gallica</ref>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>

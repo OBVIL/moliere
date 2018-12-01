@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../anecdotes/anecdotes.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml">
+  <?xml-model href="../anecdotes/anecdotes.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <!--odt2tei: 2015-03-17T11:09:17+01:00-->
@@ -7,7 +8,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Revue dramatique - 14 juillet 1886</title>
+        <title>Revue dramatique : <hi rend="i">Les Fâcheux</hi>, <hi rend="i">Psyché</hi> (<hi rend="i">Revue des deux mondes</hi>)</title>
         <author key="Ganderax, Louis (1855-1941)">Louis Ganderax</author>
       </titleStmt>
       <editionStmt>
@@ -24,9 +25,7 @@
       <publicationStmt>
         <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
         <date when="2015"/>
-        <!--
-            <idno>http://obvil.paris-sorbonne.fr</idno>
-            -->
+        <idno>http://obvil.paris-sorbonne.fr/corpus/moliere/critique/ganderax_facheux-psyche</idno>
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
             <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
@@ -38,7 +37,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><author>Louis Ganderax</author>, <title>Revue dramatique - 14 juillet 1886</title>, <pubPlace>Paris</pubPlace>, <date>1886</date>.</bibl>
+        <bibl><author>Louis Ganderax</author>, <title><hi rend="i">« Revue dramatique - 14 juillet 1886 », </hi>Revue des deux mondes</title>, <biblScope>3e période, tome 76</biblScope>, <date>juillet-août 1886</date>, p. 457-466.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>

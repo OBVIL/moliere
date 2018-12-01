@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../anecdotes/anecdotes.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml">
+  <?xml-model href="../anecdotes/anecdotes.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="faguet_rousseau-contre-moliere" xml:lang="fr">
@@ -25,9 +26,9 @@
         </respStmt>
       </editionStmt>
       <publicationStmt>
+        <publisher>Labex OBVIL, Université Paris-Sorbonne</publisher>
         <idno>http://obvil.paris-sorbonne.fr/corpus/critique/faguet_rousseau-contre-moliere/</idno>
         <date when="2013"/>
-        <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
             <p>Copyright © 2013 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
@@ -39,7 +40,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><author>Emile Faguet</author>, <title>Rousseau contre Molière</title>,<publisher>Société française d'imprimerie et de librairie</publisher>, <pubPlace>Paris</pubPlace>, <date>1910</date>.</bibl>
+        <bibl><author>Émile Faguet</author>, <title>Rousseau contre Molière</title>, <pubPlace>Paris</pubPlace>, <publisher>Société française d'imprimerie et de librairie</publisher>, <date>1910</date>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>

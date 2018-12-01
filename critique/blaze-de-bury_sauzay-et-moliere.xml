@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../anecdotes/anecdotes.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml">
+  <?xml-model href="../anecdotes/anecdotes.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>M. Eugène Sauzay et Molière.</title>
+        <title>M. Eugène Sauzay et Molière (<hi rend="i">Revue des deux mondes</hi>)</title>
         <author key="Blaze de Bury, Henri (1813-1888)">Henri Blaze de Bury</author>
       </titleStmt>
       <editionStmt>
@@ -31,7 +32,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><author>F. de Lagenevais [Blaze de Bury Henri (1813-1888)]</author>, « Revue musicale. M. Eugène Sauzay et Molière », <title>Revue des deux mondes</title>, 3<hi rend="sup">e</hi> période, t. <biblScope unit="volume">XLIX</biblScope>, 1<hi rend="sup">er</hi> janvier <date>1882</date>, p. <biblScope unit="page">207-209</biblScope>.</bibl>
+        <bibl><author>F. de Lagenevais [Henri Blaze de Bury]</author>, « Revue musicale. M. Eugène Sauzay et Molière », <title>Revue des deux mondes</title>, 3<hi rend="sup">e</hi> période, tome XLIX, <date>1er janvier 1882</date>, p. 207-209.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>

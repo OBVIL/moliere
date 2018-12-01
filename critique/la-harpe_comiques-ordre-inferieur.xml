@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../anecdotes/anecdotes.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml">
+  <?xml-model href="../anecdotes/anecdotes.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <!--odt2tei: 2015-03-17T11:09:17+01:00-->
@@ -7,7 +8,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Des Comiques d’un ordre inférieur dans le siècle de Louis XIV</title>
+        <title>Des comiques d’un ordre inférieur dans le siècle de Louis XIV (<hi rend="i">Lycée</hi>, t. II, chap. VII)</title>
         <author key="La Harpe, Jean François de (1739-1803)">Jean-François de La Harpe</author>
       </titleStmt>
       <editionStmt>
@@ -24,9 +25,7 @@
       <publicationStmt>
         <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
         <date when="2015"/>
-        <!--
-            <idno>http://obvil.paris-sorbonne.fr</idno>
-            -->
+        <idno>http://obvil.paris-sorbonne.fr/corpus/moliere/critique/la-harpe_comiques-ordre-inferieur</idno>
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
             <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
@@ -38,7 +37,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><author>Jean-François de La Harpe</author>, <title>« Des Comiques d’un ordre inférieur dans le siècle de Louis XIV »</title> [1800], in <hi rend="i">Cours de littérature ancienne et moderne</hi>, t. <biblScope unit="volume">II</biblScope>, chap. VII, <pubPlace>Paris</pubPlace>, <publisher>Depelafol</publisher>, <date>1825</date>, pp. <biblScope unit="page">294-331</biblScope>.</bibl>
+        <bibl><author>Jean-François de La Harpe</author>, <title><hi rend="i">« Des Comiques d’un ordre inférieur dans le siècle de Louis XIV » [1800], in </hi>Lycée, ou Cours de littérature ancienne et moderne</title>, <pubPlace>Paris</pubPlace>, <publisher>Depelafol</publisher>, <date>1825</date>, <biblScope>tome II, chap. VII, p. 294-331</biblScope>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>

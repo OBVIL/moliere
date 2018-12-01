@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../anecdotes/anecdotes.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml">
+  <?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <!--odt2tei: 2015-03-17T11:09:17+01:00-->
@@ -7,8 +8,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Conférences de l'Hôtel de Ville de Versailles 1864-1865. Les Femmes dans la comédie
-          de Molière. Deux conférences.</title>
+        <title>Les femmes dans la comédie de Molière : deux conférences</title>
         <author key="Aderer, Adolphe (1832-1886)">Adolphe Aderer</author>
       </titleStmt>
       <editionStmt>
@@ -25,9 +25,7 @@
       <publicationStmt>
         <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
         <date when="2015"/>
-        <!--
-            <idno>http://obvil.paris-sorbonne.fr</idno>
-            -->
+        <idno>http://obvil.paris-sorbonne.fr/corpus/moliere/critique/aderer_femmes-comedies</idno>
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
             <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
@@ -50,12 +48,9 @@
       </publicationStmt>
       <sourceDesc>
         <bibl>
-          <author>Par M. A. Aderer, Professeur de rhétorique au lycée impérial de Versailles</author>, 
-          <title>Conférences de l'Hôtel de Ville de Versailles 1864-1865. Les Femmes dans la comédie
-            de Molière. Deux conférences</title>, 
-          <pubPlace>Saint-Cloud</pubPlace>, 
-          <publisher>Imprimerie de Madame veuve BELIN</publisher>, 
-          <date>1865</date>.
+          <author>Adolphe Aderer</author>, <title>Conférences de l'Hôtel de Ville de Versailles 1864-1865. Les Femmes dans la comédie
+            de Molière. Deux conférences</title>, <pubPlace>Saint-Cloud</pubPlace>, <publisher>Imprimerie de Madame veuve BELIN, </publisher>
+          <date>1865</date>
         </bibl>
       </sourceDesc>
     </fileDesc>

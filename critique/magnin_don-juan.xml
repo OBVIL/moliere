@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../anecdotes/anecdotes.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml">
+  <?xml-model href="../anecdotes/anecdotes.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <!--odt2tei: 2015-03-17T11:09:17+01:00-->
@@ -7,7 +8,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Le Don Juan de Molière au Théâtre-français</title>
+        <title>Le Don Juan de Molière au Théâtre-Français (<hi rend="i">Revue des deux mondes</hi>)</title>
         <author key="Magnin, Charles (1793-1862)">Charles Magnin</author>
       </titleStmt>
       <editionStmt>
@@ -24,9 +25,7 @@
       <publicationStmt>
         <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
         <date when="2015"/>
-        <!--
-            <idno>http://obvil.paris-sorbonne.fr</idno>
-            -->
+        <idno>http://obvil.paris-sorbonne.fr/corpus/moliere/critique/magnin_don-juan</idno>
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
             <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
@@ -38,7 +37,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><author>Charles Magnin</author>, <title>« Le Don Juan de Molière au Théâtre-français »</title>, in <hi rend="i">La Revue des deux mondes</hi>, <date>1847</date>, pp. <biblScope unit="page">557-567</biblScope>.</bibl>
+        <bibl><author>Charles Magnin</author>, <title><hi rend="i">« Le Don Juan de Molière au Théâtre-Français », </hi>Revue des deux mondes</title>, <biblScope>nouvelle série, tome XVII</biblScope>, <date>1er février 1847</date>, <biblScope>p. 557-567</biblScope>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -53,7 +52,7 @@
   <text>
     <body>
       <div>        
-        <head>Le Don Juan de Molière au Théâtre-français</head>
+        <head>Le Don Juan de Molière au Théâtre-Français</head>
         <p><pb n="557" xml:id="p557"/> Le 15 janvier 1844, l’édilité parisienne, assistée de l’Institut et suivie de tous les amis de la poésie et du théâtre, inaugurait, au milieu d’acclamations respectueuses, le monument réparateur et tardif élevé par une souscription nationale au prince de la comédie moderne. Cette année, à pareil jour, les sociétaires du Théâtre-Français ont eu l’heureuse idée de célébrer le 225<hi rend="sup">e</hi> anniversaire de la naissance de Molière par une autre ovation non moins éclatante, quoique toute littéraire, par la reprise (on pourrait dire par la résurrection) d’un de ses chefs-d’œuvre, <hi rend="i">le Festin de Pierre</hi>. Il était bien temps, en effet, de restituer à l’auteur du <hi rend="i">Misanthrope</hi> ce précieux joyau de sa couronne dramatique, vendu par sa veuve et soustrait, depuis cent soixante-dix ans, aux applaudissements de la foule. L’ombre du grand homme, qu’un poète jeune et de bonne espérance a évoquée ingénieusement ce soir-là, aurait pu se montrer fière et reconnaissante de ce nouvel hommage, préférable peut-être même au premier ; car, si les statues publiques sont la digne et seule récompense à offrir à la mémoire des grands généraux et des grands citoyens, nous n’imaginons pour les poètes et pour les artistes aucun hommage plus désirable et plus flatteur que le culte intelligent de leurs ouvrages.</p>
         <p><pb n="558" xml:id="p558"/> Grace donc à cette heureuse pensée, conçue et menée à bonne fin par la Comédie-Française, nous avons pu voir, enfin, représenter avec tout l’éclat, tout le talent, toute la pompe même de décorations et de costumes qu’un spectacle aussi singulier exige, le pur et vrai <hi rend="i">Don Juan</hi> de Molière, ce drame en prose et pourtant si poétique, où la réalité s’unit au merveilleux, la fantaisie à l’observation, l’ironie sceptique à la crédulité légendaire ; drame sans modèle en France et resté sans, postérité comme <hi rend="i">le Cid</hi>, et dont les beautés irrégulières font clairement prévoir ce qu’aurait produit en ce genre la muse française, s’il avait pu lui convenir de puiser plus fréquemment aux sources romantiques.</p>
         <p>Quoi qu’il en soit, quatre ans après la mort de Molière, par suite d’un arrangement pris par Armande Béjart avec la troupe de la rue Mazarine<note place="bottom">On peut voir une quittance de M<hi rend="sup">lle</hi> Molière donnée à la troupe de la rue Mazarine, pour l’achat du <hi rend="i">Festin de Pierre</hi>, dans <hi rend="i">l’Histoire du théâtre-Français</hi>, t. XII, p. 61.</note><anchor xml:id="cite_ref-1"/>, on vit tout à coup la prose si énergique et si nerveuse de <hi rend="i">Don Juan</hi> s’aligner en assez bons alexandrins sous la plume honnête de Thomas Corneille, et ce qu’on a peine à concevoir, cette médiocre copie s’est maintenue, jusqu’à nos jours, en possession du théâtre, à l’exclusion de l’original. Quelle a donc pu être la cause ou le prétexte de cet arrêt d’expropriation rendu contre un grand génie au profit d’un talent de second ou de troisième ordre ? On a souvent répété, d’après La Serre<note place="bottom"><hi rend="i">Mémoire sur la vie et les ouvrages de Molière</hi>.</note>, que le <hi rend="i">Don Juan</hi> de Molière n’avait obtenu à sa naissance qu’un assez faible succès, à cause surtout du préjugé qui régnait alors contre les comédies en prose. Dans la chaire du Lycée, M. de La Harpe, avec l’intrépidité d’étourderie qui le distinguait, et qui a fait école, a été bien plus loin encore. Il affirme que, de tous les <hi rend="i">Don Juan</hi> du <num>xvii<hi rend="sup">e</hi></num> siècle, celui de Molière fut le seul qui ne réussit pas. <quote>« Ce n’est pas, ajoute-t-il, qu’il ne valût beaucoup mieux que tous les autres ; mais il était en prose, et c’était alors <hi rend="i">une nouveauté sans exemple</hi>. »</quote> Le critique oublie le théâtre entier de La Rivey, <hi rend="i">le Pédant joué</hi> de Cyrano, <hi rend="i">les Précieuses</hi>, et tant d’autres exemples. N’importe ; il continue : <quote>« On n’imaginait pas qu’une comédie pût n’être pas en vers, et <hi rend="i">la pièce tomba</hi>. »</quote> Le registre manuscrit de La Grange, conservé dans les archives du Théâtre-Français, et consulté si fructueusement par le dernier biographe de Molière, donne un démenti formel à cette assertion. On y voit que, bien loin d’avoir éprouvé une chute, <hi rend="i">le Festin de Pierre</hi> composa le spectacle à lui seul pendant quinze jours consécutifs, et fit faire à la comédie un égal nombre de recettes très productives : celle, entre autres, de la cinquième représentation s’éleva à 2,390 livres, somme très considérable pour le temps. Ce qui troubla tout d’abord et interrompit bientôt le succès de <hi rend="i">Don Juan</hi>, ce furent les tempêtes soulevées par le cinquième acte, où le libertin, à bout de vices, se drape dans le <pb n="559" xml:id="p559"/> manteau court de Tartuffe. On ne peut se faire une idée de la fureur du parti dévot, quand il vit s’élever contre lui sur la scène un nouvel adversaire, non moins habile et non moins redoutable que n’avait été Pascal. Un avocat au parlement de Paris, un sieur de Rochemont, s’oublia jusqu’à remontrer au roi, dans un odieux libelle, <quote>« que l’empereur Théodose condamna aux bêtes des farceurs qui tournoient en dérision nos cérémonies, dans des pièces qui n’approchoient point de l’emportement qui paroît au <hi rend="i">Festin de Pierre</hi><note place="bottom">Louis XIV aurait bien dû sommer ce savant homme de produire quelques extraits de ces pièces du <num>v<hi rend="sup">e</hi></num> siècle. Leur production eût été un merveilleux service rendu aux lettres.</note>. »</quote> On aimerait à rencontrer, dans les écrits contemporains, des renseignements exacts sur cette lutte du génie contre les mauvaises passions, lutte qui commença par le <hi rend="i">Festin de Pierre</hi>, et dans laquelle jamais Molière ne faiblit, ni, ce qui est plus admirable encore, ne dépassa les justes bornes. Malheureusement on ne trouve presque rien sur <hi rend="i">Don Juan</hi> dans les recueils et les correspondances qui tenaient alors la place de nos journaux. <hi rend="i">Le Mercure galant</hi> ne commence qu’un peu plus tard. Loret, l’auteur de <hi rend="i">la Muse historique</hi>, était au moment de clore sa <hi rend="i">Gazette en vers</hi>, si l’on peut appeler vers un bavardage rimé tel que le sien. Déjà malade, il ne put, dans la lettre qui parut le 14 février, la veille même de la première représentation de <hi rend="i">Don Juan</hi>, que faire l’annonce de cette pièce, un peu cri style de paillasse :</p>

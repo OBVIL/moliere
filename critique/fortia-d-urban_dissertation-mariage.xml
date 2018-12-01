@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../anecdotes/anecdotes.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml">
+  <?xml-model href="../anecdotes/anecdotes.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
@@ -7,7 +8,7 @@
     <fileDesc>
       <titleStmt>
         <title>Sur le mariage de Molière et sur Esprit de Raimond de Mormoiron, comte de Modène</title>
-        <author key="Fortia d'Urban, Agricol-Joseph-François-Xavier-Pierre-Esprit-Simon-Paul-Antoine (1756-1843)">Agricol-Joseph Fortia d’Urban</author>
+        <author key="Fortia d'Urban, Agricol-Joseph (1756-1843)">Agricol-Joseph Fortia d’Urban</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
@@ -31,7 +32,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><author>Fortia d'Urban, Agricol-Joseph-François-Xavier-Pierre-Esprit-Simon-Paul-Antoine (1756-1843)</author>, « Sur le mariage de Molière et sur Esprit de Raimond de Mormoiron, comte de Modène », in <title>Dissertation sur le passage du Rhône et des alpes par Annibal, l’an 218 avant notre ère</title>, 3<hi rend="sup">e</hi> éd., <pubPlace>Paris</pubPlace>, <publisher>Treuttel et Wurtz</publisher>, <date>novembre 1821</date>, p. <biblScope unit="page">131-151</biblScope>.</bibl>
+        <bibl><author>Agricol-Joseph Fortia d'Urban</author>, « Sur le mariage de Molière et sur Esprit de Raimond de Mormoiron, comte de Modène », in <title>Dissertation sur le passage du Rhône et des alpes par Annibal, l’an 218 avant notre ère</title>, 3<hi rend="sup">e</hi> éd., <pubPlace>Paris</pubPlace>, <publisher>Treuttel et Wurtz</publisher>, <date>novembre 1821</date>, p. 131-151.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>

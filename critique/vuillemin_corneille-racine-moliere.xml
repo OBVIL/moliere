@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../anecdotes/anecdotes.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml">
+  <?xml-model href="../anecdotes/anecdotes.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <!--odt2tei: 2015-03-17T11:09:17+01:00-->
@@ -7,7 +8,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Corneille, Racine et Molière</title>
+        <title>Corneille, Racine et Molière (<hi rend="i">Revue chrétienne</hi>)</title>
         <author key="Vuillemin, L. (….-….)">L. Vuillemin</author>
       </titleStmt>
       <editionStmt>
@@ -24,9 +25,7 @@
       <publicationStmt>
         <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
         <date when="2015"/>
-        <!--
-            <idno>http://obvil.paris-sorbonne.fr</idno>
-            -->
+        <idno>http://obvil.paris-sorbonne.fr/corpus/moliere/critique/vuillemin_corneille-racine-moliere</idno>
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
             <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
@@ -38,7 +37,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><author>L. Vuillemin</author>, <title>« Corneille, Racine et Molière »</title>, in <hi rend="i">La Revue chrétienne</hi>, <pubPlace>Paris</pubPlace>, <date>1862</date>.</bibl>
+        <bibl><author>L. Vuillemin</author>, <title><hi rend="i">« Corneille, Racine et Molière, d’après un cours donné à Lausanne par Eugène Rambert »</hi>, Revue chrétienne</title>, <biblScope>9e année</biblScope>, <date>1862</date>, <biblScope>p. 249-266</biblScope>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>

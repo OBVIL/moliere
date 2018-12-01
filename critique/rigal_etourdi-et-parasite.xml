@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../anecdotes/anecdotes.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml">
+  <?xml-model href="../anecdotes/anecdotes.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <!--odt2tei: 2015-03-17T11:09:17+01:00-->
@@ -7,7 +8,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>De Jodelle à Molière : tragédie, comédie, tragi-comédie</title>
+        <title><hi rend="i">L’Étourdi</hi> de Molière et <hi rend="i">Le Parasite</hi> de Tristan L’Hermite (<hi rend="i">De Jodelle à Molière</hi>)</title>
         <author key="Rigal, Eugène (1856-1920)">Eugène Rigal</author>
       </titleStmt>
       <editionStmt>
@@ -24,9 +25,7 @@
       <publicationStmt>
         <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
         <date when="2015"/>
-        <!--
-            <idno>http://obvil.paris-sorbonne.fr</idno>
-            -->
+        <idno>http://obvil.paris-sorbonne.fr/corpus/moliere/critique/rigal_etourdi-et-parasite</idno>
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
             <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
@@ -38,7 +37,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><author>Eugène Rigal</author>, <title>De Jodelle à Molière : tragédie, comédie, tragi-comédie, « <hi rend="i">L’Étourdi</hi> de Molière et <hi rend="i">Le Parasite</hi> de Tristan L’Hermite »</title>, <pubPlace>Paris</pubPlace>, <publisher>Hachette</publisher>, <date>1911</date>.</bibl>
+        <bibl><author>Eugène Rigal</author>, <title><hi rend="i">« </hi>L’Étourdi<hi rend="i"> de Molière et </hi>Le Parasite<hi rend="i"> de Tristan L’Hermite », in </hi>De Jodelle à Molière : tragédie, comédie, tragi-comédie</title>, <pubPlace>Paris</pubPlace>, <publisher>Hachette</publisher>, <date>1911</date>, <biblScope>p. 291-302</biblScope>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>

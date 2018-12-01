@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../anecdotes/anecdotes.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml">
+  <?xml-model href="../anecdotes/anecdotes.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
@@ -31,7 +32,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><author>François de Fénelon</author>, « Projet d’un traité sur la comédie », dans <title>Réflexions sur la grammaire, la rhétorique, la poétique et l’histoire</title>, <pubPlace>Paris</pubPlace>, <publisher>J.-B. Coignard</publisher>, <date>1716</date>.</bibl>
+        <bibl><author>François de Salignac de La Mothe-Fénelon</author>, <title><hi rend="i">« Projet d’un traité sur la comédie », in </hi>Réflexions sur la grammaire, la rhétorique, la poétique et l’histoire</title>, <pubPlace>Paris</pubPlace>, <publisher>J.-B. Coignard</publisher>, <date>1716</date>, <biblScope>p. 110-119</biblScope>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>

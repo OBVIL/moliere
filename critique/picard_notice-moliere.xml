@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../anecdotes/anecdotes.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml">
+  <?xml-model href="../anecdotes/anecdotes.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Notice sur Molière — Histoire de la troupe de Molière (Œuvres complètes, tome I)</title>
+        <title>Notice sur Molière — Histoire de la troupe de Molière (<hi rend="i">Œuvres complètes</hi>, tome I)</title>
         <author key="Picard, Louis-Benoît (1769-1828)">Louis-Benoît Picard</author>
       </titleStmt>
       <editionStmt>

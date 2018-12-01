@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../anecdotes/anecdotes.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml">
+  <?xml-model href="../anecdotes/anecdotes.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
@@ -39,7 +40,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><author>Jean-Jacques Weiss</author>, <title>Molière</title>, préface par le prince Georges Stirbey, <pubPlace>Paris</pubPlace>, <publisher>C. Lévy</publisher>, <date>1900</date>, pp. <biblScope unit="page">XX-283</biblScope>. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k204391w">Gallica</ref>.</bibl>
+        <bibl><author>Jean-Jacques Weiss</author>, <title>Molière</title>, préface par le prince Georges Stirbey, <pubPlace>Paris</pubPlace>, <publisher>C. Lévy</publisher>, <date>1900</date>, <biblScope unit="page">XX-283 p.</biblScope>. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k204391w">Gallica</ref>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>

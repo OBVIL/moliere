@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../anecdotes/anecdotes.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml">
+  <?xml-model href="../anecdotes/anecdotes.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <!--odt2tei: 2015-03-17T11:09:17+01:00-->
@@ -7,7 +8,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Chapitre IX - Histoire de la littérature française</title>
+        <title>Histoire de la littérature française. Tome IV, livre III, chapitre IX</title>
         <author key="Nisard, Désiré (1806-1888)">Désiré Nisard</author>
       </titleStmt>
       <editionStmt>
@@ -24,9 +25,7 @@
       <publicationStmt>
         <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
         <date when="2015"/>
-        <!--
-            <idno>http://obvil.paris-sorbonne.fr</idno>
-            -->
+        <idno>http://obvil.paris-sorbonne.fr/corpus/moliere/critique/nisard_moliere</idno>
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
             <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
@@ -38,7 +37,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><author>Désiré Nisard</author>, <title>Histoire de la littérature française</title>,<date>1850</date>, t. <biblScope unit="volume">IV</biblScope>, livre III, chapitre IX, pp. <biblScope unit="page">75-132</biblScope>.</bibl>
+        <bibl><author>Désiré Nisard</author>, <title>Histoire de la littérature française</title>, <pubPlace>Bruxelles</pubPlace>, <publisher>Méline, Cans et Cie</publisher>, <date>1850</date>, <biblScope>tome IV, livre III, chap. IX, p. 75-132</biblScope>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -314,7 +313,7 @@
         <p><milestone type="commentStart" corresp="#moliere-nie-plagiat-pedant-joue"/>C’est ainsi que Molière imite. Les envieux se scandalisaient de ses emprunts. On ne pousse pas plus de cris quand on a pris le voleur la main dans le sac. Ils croyaient lui ôter tout ce qu’ils restituaient aux originaux ; ils n’ont fait qu’ajouter à ses titres de propriété. Un auteur dérobe le bien d’autrui, quand il n’égale pas ce qu’il emprunte. C’est la vieille image du geai paré des plumes du paon. <milestone type="commentEnd"/><milestone type="anecdoteStart" xml:id="moliere-nie-plagiat-pedant-joue"/>Il reprend son bien, comme disait Molière, quand ce qu’il invente est de même force, ou plus fort que ce qu’il emprunte.<milestone type="anecdoteEnd"/><milestone type="commentStart" corresp="#moliere-nie-plagiat-pedant-joue"/> Il n’y a pas d’imitation là où, faute du trait imité, une belle scène serait incomplète, un personnage boiteux. Molière n’emprunte que ce qui est dans la nature. Il le fait sien, en le rapprochant, par les choses qu’il y change ou y ajoute, de l’éternel modèle. Si l’observation est la marque du génie dans le poète comique, en quoi y a-t-il moins de génie à reconnaître la nature dans l’auteur qu’on lit, qu’à la surprendre sur l’original qui passe ? L’imitation est aussi innocente de plagiat dans les pages du poète que sur la toile du peintre ; tout ce qui rend la nature y est fait de génie.<milestone type="commentEnd"/></p>
       </div>
       <div>
-        <head><pb n="129" xml:id="p129"/>VI.</head>
+        <pb n="129" xml:id="p129"/><head>VI.</head>
         <argument>
           <p>Pourquoi des trois grands poètes dramatiques du <num>xvii<hi rend="sup">e</hi></num> siècle Molière a-t-il le moins perdu au théâtre ?</p>
         </argument>

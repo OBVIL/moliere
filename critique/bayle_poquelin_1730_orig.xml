@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../anecdotes/anecdotes.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml">
+  <?xml-model href="../anecdotes/anecdotes.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <!--Odette: 2018-02-26T17:13:52+01:00-->
@@ -7,7 +8,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>title : Poquelin (<hi rend="i">Dictionnaire historique</hi>, 4<hi rend="sup">e</hi> éd.) [graphies originales]</title>
+        <title>Poquelin (<hi rend="i">Dictionnaire historique</hi>, 4<hi rend="sup">e</hi> éd.) [graphies originales]</title>
         <author key="Bayle, Pierre (1647-1706)">Pierre Bayle</author>
       </titleStmt>
       <editionStmt>

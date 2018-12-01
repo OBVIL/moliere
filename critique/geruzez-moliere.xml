@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../anecdotes/anecdotes.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml">
+  <?xml-model href="../anecdotes/anecdotes.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Molière — La Fontaine (<hi rend="i">Histoire de la littérature française</hi>, extrait)</title>
+        <title>Molière — La Fontaine (<hi rend="i">Histoire de la littérature française</hi>, livre V, chap. I)</title>
         <author key="Géruzez, Eugène (1799-1865)">Eugène Géruzez</author>
       </titleStmt>
       <editionStmt>
@@ -31,7 +32,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><author>Eugène Géruzez</author>, « Molière — La Fontaine », livre V (Siècle de Louis XIV), chapitre I de <title>Histoire de la littérature française : du Moyen Âge aux Temps modernes</title>, <pubPlace>Paris</pubPlace>, <publisher>J. Delalain</publisher>, <date>1852</date>, pp. <biblScope unit="page">333-352</biblScope>.</bibl>
+        <bibl><author>Eugène Géruzez</author>, <title><hi rend="i">« Molière — La Fontaine », in </hi>Histoire de la littérature française : du Moyen Âge aux Temps modernes</title>, <pubPlace>Paris</pubPlace>, <publisher>J. Delalain</publisher>, <date>1852</date>, <biblScope>livre V, chap. I, p. 333-352</biblScope>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>

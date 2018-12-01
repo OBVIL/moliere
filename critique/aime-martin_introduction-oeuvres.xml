@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml">
 <?xml-model href="../anecdotes/anecdotes.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
@@ -24,9 +25,7 @@
       <publicationStmt>
         <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
         <date when="2015"/>
-        <!--
-            <idno>http://obvil.paris-sorbonne.fr</idno>
-            -->
+            <idno>http://obvil.paris-sorbonne.fr/corpus/moliere/critique/aime-martin_introduction-oeuvres</idno>
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
             <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
@@ -48,8 +47,8 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><author>Louis-Aimé Martin</author>, <title>Œuvres de Molière, avec les notes de tous
-            les commentateurs</title>, t. <biblScope unit="volume">I</biblScope>, <pubPlace>Paris</pubPlace>, <publisher>Lefèvre
+        <bibl><author>Louis-Aimé Martin</author>, <title>Oeuvres de Molière, avec les notes de tous
+            les commentateurs</title>, tome premier, <pubPlace>Paris</pubPlace>, <publisher>Lefèvre
             et Furne</publisher>, <date>1845</date>.</bibl>
       </sourceDesc>
     </fileDesc>

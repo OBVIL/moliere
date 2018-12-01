@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../anecdotes/anecdotes.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml">
+  <?xml-model href="../anecdotes/anecdotes.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
@@ -4818,8 +4819,8 @@
             laisse là en disant : “Voyons comme il s’en tirera quand il sera seul” ; et il ne fait
             rien qui vaille, et le lutin s’en amuse. »</quote><milestone type="anecdoteEnd"/></p>
         <p><milestone type="commentStart"
-            corresp="#boileau-fournit-latin-macaronique moliere-lit-tartuffe-chez-ninon-de-lenclos-depot-cassettes"
-          />Chéri par des hommes dont les talents, dont le génie firent la gloire de leur siècle et
+            corresp="#boileau-fournit-latin-macaronique"
+          /><milestone type="comment-Start" corresp="#moliere-lit-tartuffe-chez-ninon-de-lenclos-depot-cassettes"/>Chéri par des hommes dont les talents, dont le génie firent la gloire de leur siècle et
           sont l’admiration du nôtre, Molière ne fut pas recherché avec moins d’empressement par
           deux femmes qui se sont acquis une égale réputation : l’une, par son inconstance en
           amour ; l’autre, par sa fidélité envers ses amis ; toutes deux par leur grâce et leur
@@ -5800,8 +5801,7 @@
           />peut porter à croire qu’il ait eu jamais le dessein de fuir devant de tels ennemis, ou
           le regret de se les être attirés.<milestone type="commentEnd"/><milestone
             type="commentStart"
-            corresp="#moliere-declare-s-etre-repenti-d-avoir-ecrit-tartuffe moliere-fait-bon-mot-pere-maimbourg"
-          /> On le vit au contraire solliciter sans relâche des permissions du Roi dans des placets
+            corresp="#moliere-declare-s-etre-repenti-d-avoir-ecrit-tartuffe"/><milestone type="commentStart" corresp="#moliere-fait-bon-mot-pere-maimbourg"></milestone> On le vit au contraire solliciter sans relâche des permissions du Roi dans des placets
           qui respiraient une noble fermeté et une tranquille indépendance, et ajouter dans ces
           écrits, par des traits et des sarcasmes nouveaux, à tous les griefs que la cabale pouvait
           avoir déjà contre lui. <milestone type="commentEnd"/><milestone type="anecdoteStart"
@@ -5918,8 +5918,8 @@
           />Nos Elmires ignorent probablement cette anecdote, ou du moins les soins de
           l’amour-propre l’emportent chez elles sur leur respect pour les intentions de
             l’auteur.<milestone type="commentEnd"/><milestone type="commentStart"
-            corresp="#moliere-s-emporte-contre-armande-role-elmire moliere-au-supplice-diction-acteurs"
-          /> Il est vrai que, s’il fallait les observer toutes fidèlement, la représentation de ce
+            corresp="#moliere-s-emporte-contre-armande-role-elmire"
+          /><milestone type="commentStart" corresp="#moliere-au-supplice-diction-acteurs"/> Il est vrai que, s’il fallait les observer toutes fidèlement, la représentation de ce
           chef-d’œuvre serait aujourd’hui impossible : il n’est guère d’acteurs qui eussent le droit
           d’y prendre un rôle.<milestone type="commentEnd"/><milestone type="commentStart"
             corresp="#moliere-au-supplice-diction-acteurs"/> L’anecdote suivante fait connaître les

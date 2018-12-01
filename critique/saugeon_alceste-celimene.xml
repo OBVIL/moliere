@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../anecdotes/anecdotes.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml">
+  <?xml-model href="../anecdotes/anecdotes.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <!--odt2tei: 2015-03-17T11:09:17+01:00-->
@@ -7,7 +8,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Une étude sur Molière. Alceste et Célimène</title>
+        <title>Une étude sur Molière. Alceste et Célimène (<hi rend="i">La Revue de Bordeaux et Gironde unies</hi>)</title>
         <author key="Saugeon (….-….)">Saugeon</author>
       </titleStmt>
       <editionStmt>
@@ -24,9 +25,7 @@
       <publicationStmt>
         <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
         <date when="2015"/>
-        <!--
-            <idno>http://obvil.paris-sorbonne.fr</idno>
-            -->
+        <idno>http://obvil.paris-sorbonne.fr/corpus/moliere/critique/saugeon_alceste-celimene</idno>
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
             <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
@@ -38,7 +37,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><author>Saugeon</author>, <title>« Une étude sur Molière. Alceste et Célimène »</title>, in <hi rend="i">La Revue de Bordeaux et Gironde unies</hi>, <pubPlace>Bordeaux</pubPlace>, <date>1836-1837</date>.</bibl>
+        <bibl><author>J.-M.-M. Saugeon</author>, <title><hi rend="i">« Une étude sur Molière. Alceste et Célimène », </hi>La Revue de Bordeaux et Gironde unies</title>, <pubPlace>Bordeaux</pubPlace>, <biblScope>1re année de l'Association, 5e année de La Gironde</biblScope>, <date>1836-1837</date>, <biblScope>p. 65-76</biblScope>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>

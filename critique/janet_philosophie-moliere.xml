@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../anecdotes/anecdotes.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml">
+  <?xml-model href="../anecdotes/anecdotes.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>La philosophie de Molière</title>
+        <title>La philosophie de Molière (<hi rend="i">Revue des deux mondes</hi>)</title>
         <author key="Janet, Paul (1823-1899)">Paul Janet</author>
       </titleStmt>
       <editionStmt>
@@ -31,7 +32,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><author>Janet, Paul</author>, « La philosophie de Molière », <title>Revue des deux mondes</title>, 3<hi rend="sup">e</hi> période, t. <biblScope unit="tome">XLIV</biblScope>, 15 mars <date>1881</date>, p. <biblScope unit="page">323-362</biblScope>.</bibl>
+        <bibl><author>Paul Janet</author>, <title><hi rend="i">« La philosophie de Molière », </hi>Revue des deux mondes</title>, <biblScope>3<hi rend="sup">e</hi> période, tome XLIV</biblScope>, <date>15 mars 1881</date>, <biblScope>p. 323-362</biblScope>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>

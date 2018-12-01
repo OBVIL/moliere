@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../anecdotes/anecdotes.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml">
+  <?xml-model href="../anecdotes/anecdotes.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <!--odt2tei: 2015-03-17T11:09:17+01:00-->
@@ -7,7 +8,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>La Science du coeur humain, ou la Psychologie des sentiments et des passions, d'après les œuvres de Molière</title>
+        <title>La Science du coeur humain, ou la Psychologie des sentiments et des passions, d'après les oeuvres de Molière</title>
         <author key="Despine, Prosper (1812-1892)">Prosper Despine</author>
       </titleStmt>
       <editionStmt>
@@ -24,9 +25,7 @@
       <publicationStmt>
         <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
         <date when="2015"/>
-        <!--
-            <idno>http://obvil.paris-sorbonne.fr</idno>
-            -->
+        <idno>http://obvil.paris-sorbonne.fr/corpus/moliere/critique/despine_science-coeur</idno>
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
             <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
@@ -38,7 +37,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><author>Prosper Despine</author>, <title> La Science du cœur humain, ou la Psychologie des sentiments et des passions, d'après les œuvres de Molière</title>, in <hi rend="i">Œuvres de Molière</hi>, t. <biblScope unit="volume">I</biblScope>, <pubPlace>Paris</pubPlace>, <publisher>F. Savy</publisher>, <date>1884</date>.</bibl>
+        <bibl><author>Prosper Despine</author>, <title>La Science du coeur humain, ou la Psychologie des sentiments et des passions, d'après les oeuvres de Molière</title>, in <hi rend="i">Œuvres de Molière</hi>, tome I, <pubPlace>Paris</pubPlace>, <publisher>F. Savy</publisher>, <date>1884</date>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>

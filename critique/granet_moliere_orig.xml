@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../anecdotes/anecdotes.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml">
+    <?xml-model href="../anecdotes/anecdotes.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <TEI xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
@@ -37,7 +38,7 @@
 </availability>
 </publicationStmt>
 <sourceDesc>
-    <bibl>François <author>Granet</author>, <title><hi rend="i">« Vie de Moliere », in </hi>Réflexions sur les ouvrages de litérature</title>, t. <biblScope unit="volume">IX</biblScope>, <pubPlace>Paris</pubPlace>, <publisher>Briasson</publisher>, <date>1739</date>, pp. <biblScope unit="page">252-262</biblScope>. Source : <ref target="http://books.google.fr/books?id=iMymOvyC9tMC">Google Books</ref>.</bibl>
+    <bibl><author>François François Granet</author>, <title><hi rend="i">« Vie de Moliere », in </hi>Réflexions sur les ouvrages de litérature, <hi rend="i">tome IX</hi></title>, <pubPlace>Paris</pubPlace>, <publisher>Briasson</publisher>, <date>1739</date>, <biblScope>p. 252-262</biblScope>. Source : <ref target="http://books.google.fr/books?id=iMymOvyC9tMC">Google Livres</ref>.</bibl>
 </sourceDesc>
 </fileDesc>
 <profileDesc>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../anecdotes/anecdotes.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml">
+  <?xml-model href="../anecdotes/anecdotes.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <!--odt2tei: 2015-03-17T11:09:17+01:00-->
@@ -24,9 +25,7 @@
       <publicationStmt>
         <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
         <date when="2015"/>
-        <!--
-            <idno>http://obvil.paris-sorbonne.fr</idno>
-            -->
+        <idno>http://obvil.paris-sorbonne.fr/corpus/moliere/critique/casse-de-saint-prosper_essai-comedie</idno>
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
             <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
@@ -38,7 +37,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><author>Antoine-Jean Cassé de Saint-Prosper</author>, <title>Essai sur la comédie, suivi d’analyses du Misanthrope et du Tartufe</title>, <pubPlace>Paris</pubPlace>, <publisher>J. Gratiot</publisher>, <date>1812</date>.</bibl>
+        <bibl><author>Antoine-Jean Cassé de Saint-Prosper</author>, <title>Essai sur la comédie, suivi d’analyses du Misanthrope et du Tartufe</title>, <pubPlace>Paris</pubPlace>, <publisher>J. Gratiot</publisher>, <date>1812</date>, <biblScope>32 p.</biblScope></bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -53,7 +52,6 @@
   <text>
     <body>
       <div>
-        <head>Essai sur la comédie</head>
         <head>Avertissement</head>
         <p>Il manquait à la littérature française un commentaire complet des comédies de Molière. Bret a bien publié une édition des œuvres de ce grand comique, avec des notes grammaticales et quelques recherches historiques ; il y a joint aussi des observations de Voltaire sur chaque pièce de l’auteur du Misanthrope ; mais ces observations, composées précipitamment, se ressentent de la rapidité avec laquelle elles ont été faites. Laharpe dans son Cours de Littérature n’a consacré que cent pages à l’examen du théâtre le plus parfait que nous connaissions.</p>
         <p>Le nouveau Commentaire que je me propose de faire paraître, sera le plus complet ou plutôt le seul qui ait encore été fait sur Molière.</p>
