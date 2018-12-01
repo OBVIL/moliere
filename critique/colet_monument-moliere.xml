@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../anecdotes/anecdotes.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml">
+  <?xml-model href="../anecdotes/anecdotes.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <!--odt2tei: 2015-03-17T11:09:17+01:00-->
@@ -24,9 +25,7 @@
       <publicationStmt>
         <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
         <date when="2015"/>
-        <!--
-            <idno>http://obvil.paris-sorbonne.fr</idno>
-            -->
+        <idno>http://obvil.paris-sorbonne.fr/corpus/moliere/critique/colet_monument-moliere</idno>
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
             <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
@@ -53,15 +52,15 @@
   <text>
     <body>
       <div>
-        <head>HISTOIRE DU MONUMENT ÉLEVÉ À MOLIERE.</head>
+        <head>Histoire du monument élevé à Molière.</head>
         <p>Lorsqu’un grand peuple élève des statues à ceux qui l’ont fait grand, il fait quelque chose de plus que d’honorer le génie ; il consacre sa propre gloire.</p>
-        <p>Celte consécration par la sculpture, de la gloire nationale qui chez les anciens imprimait de nobles idées à la multitude, est presque nouvelle en France. Nous reproduisions les héros de l’antiquité et nous négligions les nôtres. Aussi le peuple restait-il dans l’ignorance de ses propres vertus ; excepté les statues de quelques-uns de ses rois, la sculpture ne lui racontait rien de son histoire : les beaux-arts n’avaient point encore personnifié la France dans ses grands hommes. Celle personnification est de date toute moderne.</p>
+        <p>Cette consécration par la sculpture, de la gloire nationale qui chez les anciens imprimait de nobles idées à la multitude, est presque nouvelle en France. Nous reproduisions les héros de l’antiquité et nous négligions les nôtres. Aussi le peuple restait-il dans l’ignorance de ses propres vertus ; excepté les statues de quelques-uns de ses rois, la sculpture ne lui racontait rien de son histoire : les beaux-arts n’avaient point encore personnifié la France dans ses grands hommes. Celle personnification est de date toute moderne.</p>
         <p>Un écrivain dont les ouvrages sont une source inépuisable d’idées neuves et patriotiques, Bernardin de Saint-Pierre le premier s’aperçut de cette étrange anomalie. Il s’étonnait, en parcourant nos jardins et nos places publiques, de n’y voir que les images des divinités du paganisme, les statues des Grecs et des Romains, et des inscriptions toutes modernes dans une langue morte depuis deux mille ans. <quote>« Quoi, disait-il, des symboles mythologiques à des chrétiens, des inscriptions latines à des Français ! Nous continuons la gloire des. anciens aux dépens de la nôtre, aux dépens de notre esprit national ! En vérité l’avenir croira que les Romains étaient dans le dix-huitième siècle les maîtres de notre pays »</quote><note place="bottom"><hi rend="i">Etudes de la Nature</hi>, I. 3, 215.</note>.</p>
         <p>Frappé de cet oubli, Bernardin de Saint-pierre songe à le réparer. C’était le caractère de son génie ; la vue du mal lui donnait l’idée du bien. Il imagine donc un Élisée où s’élèveraient des monuments consacrés aux bienfaiteurs du genre humain. Cet Élisée, il l’embellit de tous les arbres étrangers apportés en Europe depuis deux siècles, et dont les fleurs et les fruits font aujourd’hui nos délices.<pb n="1"/></p><pb n="801" xml:id="p801"/>
-        <p>A l’ombre de chaque arbre il place 1’image de celui qui nous l’a donné. Là se trouvent aussi les statues de Fénelon, de La Fontaine, de Racine : on y voit Catinat et Duquesne, Buffon et Linné, Bernard Palissy, ce pauvre potier qui fut martyr de la science, et Descartes dont la méthode a sauvé une seconde fois le monde ; enfin toutes les gloires utiles, toutes les infortunes glorieuses, car tel est le sort de l’humanité qu’il n’y a pas un monument élevé au génie et à la vertu qui ne réveille le souvenir de quelque grande douleur.</p>
+        <p>À l’ombre de chaque arbre il place 1’image de celui qui nous l’a donné. Là se trouvent aussi les statues de Fénelon, de La Fontaine, de Racine : on y voit Catinat et Duquesne, Buffon et Linné, Bernard Palissy, ce pauvre potier qui fut martyr de la science, et Descartes dont la méthode a sauvé une seconde fois le monde ; enfin toutes les gloires utiles, toutes les infortunes glorieuses, car tel est le sort de l’humanité qu’il n’y a pas un monument élevé au génie et à la vertu qui ne réveille le souvenir de quelque grande douleur.</p>
         <p>On voit combien cette idée était féconde. D’abord elle rappelait les beaux-arts à leur plus haute mission, celle d’instruire les peuples de leur histoire, et par leur histoire, de la vertu. La statuaire devenait ainsi une école de patriotisme et de sagesse ; elle développait le sentiment du beau, elle vulgarisait l’héroïsme, et les généreux dévouements, elle plaçait dans la mémoire de tout un peuple, les images vivantes de ces génies aimés de Dieu qui nous ont versé l’amour et la lumière.</p>
         <p>Noble et puissante institution ouverte à tous les bienfaiteurs des hommes quels que fussent leur langue et leur pays, et qui faisait de la France le centre moral de l’univers. Le but de Bernardin de Saint-Pierre, en créant cet Élisée, était donc de personnifier dans tout ce qu’il avait de grand, non plus un peuple, mais le genre humain. Que les hautes intelligences apparaissent à l’orient ou à l’occident, n’importe, les idées n’ont point de patrie : Télémaque et l’Esprit des Lois appartiennent à la France par la langue ; ils appartiennent au monde par le bien qu’ils ont fait au monde, et Dieu a voulu que les fruits de la vertu et du génie fussent le patrimoine de l’humanité.</p>
-        <p>Aujourd’hui les vœux de Bernardin de Saint-Pierre sont en partie réalisés. Ce qu’ils avaient de patriotique a été compris ; la nationalité universelle des belles âmes le sera plus lard. Alors l’Élysée s’ouvrira et tous les hommes vertueux et bienfaisants, quel que soit leur pays, seront réputés concitoyens. En attendant nous marchons vers un état meilleur. Déjà les Grecs et les Romains sont rentrés dans nos musées : ils serviront aux progrès de l’art, après avoir servi aux progrès de la pensée. A leur place s’élèvent de toutes parts les images de nos pères et de nos aïeux. Le voyageur, en parcourant nos villes rajeunies, ne croira plus qu’au dix-huitième siècle les Romains aient été nos maîtres, il reconnaîtra la France aux monuments qu’elle consacre à ses propres enfants. Celle France comprend enfin qu’elle n’est montée au rang des premiers peuples du monde que parce que le monde l’a personnifiée dans la personne de ces grands hommes. Déjà Cambrai, Dijon, Meaux, Bordeaux, Montbart, Périgneux, ont orné leurs places publiques des glorieuses images de Bossuet, de Fénelon, de Buffon, de Montesquieu et de Montaigne. Château-Thierry s’est ressouvenu de La Fontaine, et Laferté-Milon de Racine. A Caen, je vois Malherbe ; à Clermont, Pascal ; à Rouen, Corneille, un seul Corneille, la cité ingrate a cru pouvoir séparer les deux frères. D’autres villes m’offrent l’une Guttenberg, l’autre Cuvier, l’autre Duguesclin. Arles, devançant la postérité, s’empare de la plus grande renommée politique et poétique du siècle, en élevant une statue à notre Lamartine. Le Havre attend le bronze de Bernardin de Saint-Pierre, confié au génie inspiré de David. Marseille n’oubliera pas Betzunce ; Lyon n’a point oublié Jacquard, le pauvre ouvrier qui l’enrichit.</p>
+        <p>Aujourd’hui les vœux de Bernardin de Saint-Pierre sont en partie réalisés. Ce qu’ils avaient de patriotique a été compris ; la nationalité universelle des belles âmes le sera plus lard. Alors l’Élysée s’ouvrira et tous les hommes vertueux et bienfaisants, quel que soit leur pays, seront réputés concitoyens. En attendant nous marchons vers un état meilleur. Déjà les Grecs et les Romains sont rentrés dans nos musées : ils serviront aux progrès de l’art, après avoir servi aux progrès de la pensée. A leur place s’élèvent de toutes parts les images de nos pères et de nos aïeux. Le voyageur, en parcourant nos villes rajeunies, ne croira plus qu’au dix-huitième siècle les Romains aient été nos maîtres, il reconnaîtra la France aux monuments qu’elle consacre à ses propres enfants. Celle France comprend enfin qu’elle n’est montée au rang des premiers peuples du monde que parce que le monde l’a personnifiée dans la personne de ces grands hommes. Déjà Cambrai, Dijon, Meaux, Bordeaux, Montbart, Périgneux, ont orné leurs places publiques des glorieuses images de Bossuet, de Fénelon, de Buffon, de Montesquieu et de Montaigne. Château-Thierry s’est ressouvenu de La Fontaine, et Laferté-Milon de Racine. À Caen, je vois Malherbe ; à Clermont, Pascal ; à Rouen, Corneille, un seul Corneille, la cité ingrate a cru pouvoir séparer les deux frères. D’autres villes m’offrent l’une Guttenberg, l’autre Cuvier, l’autre Duguesclin. Arles, devançant la postérité, s’empare de la plus grande renommée politique et poétique du siècle, en élevant une statue à notre Lamartine. Le Havre attend le bronze de Bernardin de Saint-Pierre, confié au génie inspiré de David. Marseille n’oubliera pas Belzunce ; Lyon n’a point oublié Jacquard, le pauvre ouvrier qui l’enrichit.</p>
         <p>Et toi Bayard, le voilà donc enfin dans la patrie, je reconnais la noble figure. C’est bien toi qui plaignais Bourbon de combattre contre la France, au moment où tu mourais pour elle !</p>
         <p>Certes il y a quelque chose dé beau dans ce mouvement universel et populaire, car ce ne sont pas seulement les riches cités qui se montrent reconnaissantes envers leurs concitoyens : de simples bourgs, de chétifs hameaux prennent l’initiative et réclament leurs parts de l’honneur national.</p>
         <p>Ainsi vient de s’élever sur le pont du petit village de Mausé<note place="bottom">Département des Deux-Sèvres, à quatre lieues de Niort.</note>, le buste de René Caillié, ce jeune paysan qui, sans autre lumière que son génie, sans autre appui que son héroïque volonté, après des fatigues inouïes, résolut la grande question géographique du siècle, par la découverte de Tembouctou<note place="bottom">Le préfet des Deux-Sèvres, M. de Saint-Georges, pour subvenir aux frais de ce Monument, fil un appel général aux citoyens. Un empressement vif et spontané répondit à cet appel. De vieux laboureurs, qui n’avaient jamais quitté leur commune, accoururent à la ville pour y apporter leur offrande. Une pauvre vieille femme surtout se lit remarquer : toute tremblante, elle déposa son obole en détournant la tête et en s’essuyant les yeux, car elle avait vu Caillié tout enfant et elle disait : celui-ci était le camarade de mon fils ; il était le dernier parmi nous, et voilà qu’aujourd’hui il est le premier. Nous l’honorons et nous le bénissons tous.</note>.</p>
@@ -96,8 +95,8 @@
         </byline>
       </div>
       <div>
-        <head>LE MONUMENT DE MOLIÈRE,
-<lb/>POÈME</head>
+        <head>Le monument de Molière,
+<lb/>poème</head>
         <argument><p>Couronné par l’Académie Française.</p></argument>
         <epigraph>
           <p>Molière......C’est mon homme.</p>
@@ -531,7 +530,7 @@
         </div>
       </div>
       <div>
-        <head>NOTES</head>
+        <head>Notes.</head>
         <div>
           <head>Note A.</head>
           <table>
@@ -595,7 +594,7 @@
         </div>
       </div>
       <div>
-        <head>PRÉFECTURE DU DÉPARTEMENT DE LA SEINE.
+        <head>Préfecture du département de la Seine.
       <lb/>Extrait des registres des procès-verbaux des séances du Conseil municipal de la ville de Paris.
           <lb/>SEANCE DU 21 JUIN</head>
         <byline>Présents : MM. Aubé, Beau, Besson, Boulay de la Meurthe, Bouvatier,Cottier, Ferron, Gatre, Grillon, Hérard, Husson, Jouet, Lahure, Lambert, Ste-Croix, Languetin, Legros, Lehon, Micheau, Moreau, Orfila, Périer, Perret, Presches, Say, Ternaux et Tayer.</byline>
