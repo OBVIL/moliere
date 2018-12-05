@@ -24,15 +24,15 @@
       <publicationStmt>
         <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
         <date when="2016"/>
-        <idno>http://obvil.paris-sorbonne.fr/corpus/critique/taschereau_vie-moliere/</idno>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/moliere/critique/taschereau_vie-moliere/</idno>
         <idno type="tei"
-          >http://obvil.paris-sorbonne.fr/corpus/critique/taschereau_vie-moliere.xml</idno>
+          >http://obvil.paris-sorbonne.fr/corpus/moliere/critique/taschereau_vie-moliere.xml</idno>
         <idno type="html"
-          >http://obvil.paris-sorbonne.fr/corpus/critique/taschereau_vie-moliere.html</idno>
+          >http://obvil.paris-sorbonne.fr/corpus/moliere/critique/taschereau_vie-moliere.html</idno>
         <idno type="text"
-          >http://obvil.paris-sorbonne.fr/corpus/critique/taschereau_vie-moliere.txt</idno>
+          >http://obvil.paris-sorbonne.fr/corpus/moliere/critique/taschereau_vie-moliere.txt</idno>
         <idno type="epub"
-          >http://obvil.paris-sorbonne.fr/corpus/critique/taschereau_vie-moliere.epub</idno>
+          >http://obvil.paris-sorbonne.fr/corpus/moliere/critique/taschereau_vie-moliere.epub</idno>
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
             <p>Copyright © 2016 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
