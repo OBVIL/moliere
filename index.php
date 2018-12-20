@@ -16,7 +16,7 @@ $docid = end($branches);
 if (strpos($path, 'moliere') === 0 || strpos($path, 'theatre') === 0) {
   $conf = array(
     "playcode" => $docid, // relatif à la politique d’URL décidée ici
-    "url" => Teinte_Web::basehref()."moliere/",
+    "url" => Teinte_Web::basehref()."moliere",
     "title" => "Molière",
     "sqlite" => "moliere.sqlite", // nom de la base sqlite
     "bibcols" => array('created', 'issued', 'title'),
