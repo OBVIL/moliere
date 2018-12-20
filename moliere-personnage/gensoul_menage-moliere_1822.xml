@@ -72,7 +72,7 @@
         </castList>
         <stage>La Scène se passe sur le théâtre de la Comédie-Française.</stage>
       </div1>
-      <div1>
+      <div1 type="prologue">
         <head>Prologue</head>
         <pb/>
         <div2 type="scene">

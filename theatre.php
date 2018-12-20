@@ -28,17 +28,11 @@ if (!$conf['playcode']) {
     <div id="center">
       <header id="header">
         <h1><?php
-          if (trim($path, "/") == "moliere" || trim($path, "/") == "contexte") {
+          if (!$conf['playcode']) {
             echo '<a href="'.$basehref.'">Molière, accueil</a>';
           }
-          else if (strpos($path, "moliere") !== false) {
-            echo '<a class="home" href="'.$basehref.'theatre/">Théâtre de Molière</a>';
-          }
-          else if (strpos($path, "contexte") !== false) {
-            echo '<a href="'.$basehref.'context/">Comédies moliéresques</a>';
-          }
-          else {
-            echo '<a href="'.$basehref.'">Molière</a>';
+          else{
+            echo '<a href="'.$conf['url'].'">'.$conf['title'].'</a>';
           }
         ?></h1>
         <a class="logo" href="http://obvil.paris-sorbonne.fr/projets/projet-moliere"><img class="logo" src="<?php echo $basehref; ?>../theme/img/logo-obvil.png" alt="OBVIL"></a>
@@ -49,7 +43,8 @@ if (!$conf['playcode']) {
       <?php
 if (!$conf['playcode']) {
   echo $conf['abstract'];
-  Dramagraph_Biblio::table(Moliere::$pdo);
+  if (!isset($conf['bibcols'])) $conf['bibcols']=null;
+  Dramagraph_Biblio::table(Moliere::$pdo, $conf['bibcols']);
 }
 else {
   echo '<h1>'.$play['author']."<br/>".$play['title'].'</h1>';

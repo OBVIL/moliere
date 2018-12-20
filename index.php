@@ -19,7 +19,8 @@ if (strpos($path, 'moliere') === 0 || strpos($path, 'theatre') === 0) {
     "url" => Teinte_Web::basehref()."moliere/",
     "title" => "Molière",
     "sqlite" => "moliere.sqlite", // nom de la base sqlite
-    "abstract" => '',
+    "bibcols" => array('created', 'issued', 'title'),
+    "abstract" => '<h1>Théâtre de Molière</h1>',
   );
   include (dirname(__FILE__).'/theatre.php');
   exit();
@@ -31,6 +32,7 @@ if (strpos($path, 'contexte') === 0) {
     "url" => Teinte_Web::basehref()."contexte/",
     "title" => "Devanciers et contemporains",
     "sqlite"=> "contexte.sqlite", // nom de la base sqlite
+    "bibcols" => array('author', 'created', 'issued', 'title', 'publisher'),
     "abstract" => '
 <div style="padding: 1em">
 <h1>Devanciers et contemporains de Molière</h1>
@@ -47,9 +49,11 @@ if (strpos($path, 'personnage') === 0) {
     "url" => Teinte_Web::basehref()."personnage/",
     "title" => "Molière, personnage de théâtre",
     "sqlite"=> "moliere-personnage.sqlite", // nom de la base sqlite
+    "bibcols" => array('author', 'created', 'issued', 'title', 'publisher'),
     "abstract" => '
 <div style="padding: 1em">
 <h1>Molière, personnage de théâtre</h1>
+</div>
 '."\n",
   );
   include (dirname(__FILE__).'/theatre.php');
@@ -138,24 +142,6 @@ if ($doc) {
 }
 // accueil ? formulaire de recherche général
 else {
-  echo '
-<nav id="download"><small>Télécharger :</small>
-    <a target="_blank" href="http://obvil.github.io/moliere/" title="Livre électronique">tei</a>,
-    <a target="_blank" href="'.$basehref.'epub/" title="Livre électronique">epub</a>,
-    <a target="_blank" href="'.$basehref.'kindle/" title="Mobi, format propriétaire Amazon">kindle</a>,
-    <a target="_blank" href="'.$basehref.'markdown/" title="Markdown">texte brut</a>,
-    <a target="_blank" href="'.$basehref.'iramuteq/" title="Markdown">iramuteq</a>,
-    <a target="_blank" href="'.$basehref.'html/">html</a>.
-</nav>';
-  echo '<p> </p>';
-  echo'
-<form action="">
-  <input style="width: 100%;" name="q" class="text" placeholder="Rechercher de mots" value="'.str_replace('"', '&quot;', $base->p['q']).'"/>
-  <div><label>De <input placeholder="année" name="start" class="year" value="'.$base->p['start'].'"/></label> <label>à <input class="year" placeholder="année" name="end" value="'.$base->p['end'].'"/></label></div>
-  <button type="reset" onclick="return Form.reset(this.form)">Effacer</button>
-  <button type="submit" style="float: right; ">Rechercher</button>
-</form>
-  ';
 }
           ?>
         </aside>
@@ -174,7 +160,8 @@ if (!$path) {
     <a href="./moliere" class="square couleur1">Théâtre</a>
     <a href="./critique/" class="square couleur2">Critique</a>
     <a href="./contexte/" class="square couleur3">Devanciers et contemporains</a>
-    <a href="http://obvil-dev.paris-sorbonne.fr/corpus/moliere/anecdotes/index.php" class="square couleur4">Anecdotes</a>
+    <a href="./personnage/" class="square couleur4">Molière personnage</a>
+    <a href="http://obvil-dev.paris-sorbonne.fr/corpus/moliere/anecdotes/index.php" class="square couleur2">Anecdotes</a>
   </div>
   ';
 }
