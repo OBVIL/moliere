@@ -26,14 +26,7 @@
             <publicationStmt>
                 <publisher>Sorbonne Université, LABEX OBVIL</publisher>
                 <date when="2018"/>
-                <idno type="tei"
-                    >http://obvil.paris-sorbonne.fr/corpus/moliere/critique/cailhava_art-comedie-01_1772_orig.xml</idno>
-                <idno type="html"
-                    >http://obvil.paris-sorbonne.fr/corpus/moliere/critique/cailhava_art-comedie-01_1772_orig.html</idno>
-                <idno type="txt"
-                    >http://obvil.paris-sorbonne.fr/corpus/moliere/critique/cailhava_art-comedie-01_1772_orig.txt</idno>
-                <idno type="epub"
-                    >http://obvil.paris-sorbonne.fr/corpus/moliere/critique/cailhava_art-comedie-01_1772_orig.epub</idno>
+                <idno>http://obvil.paris-sorbonne.fr/corpus/moliere/critique/cailhava_art-comedie-01_1772_orig/</idno>
                 <availability status="restricted">
                     <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
                         <p>Copyright © 2018 Sorbonne Université, agissant pour le Laboratoire

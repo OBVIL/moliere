@@ -3,7 +3,7 @@
   <?xml-model href="../anecdotes/anecdotes.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -20,7 +20,7 @@
       <publicationStmt>
         <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
         <date when="2015"/>
-        <idno>http://obvil.paris-sorbonne.fr/corpus/moliere/critique/janet_philosophie-molière</idno>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/moliere/critique/janet_philosophie-moliere/</idno>
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
             <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
@@ -32,7 +32,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><author>Paul Janet</author>, <title><hi rend="i">« La philosophie de Molière », </hi>Revue des deux mondes</title>, <biblScope>3<hi rend="sup">e</hi> période, tome XLIV</biblScope>, <date>15 mars 1881</date>, <biblScope>p. 323-362</biblScope>.</bibl>
+        <bibl><author>Paul Janet</author>, <title><hi rend="i">« La philosophie de Molière », </hi>Revue des deux mondes</title>, 3<hi rend="sup">e</hi> période, tome XLIV, <date>15 mars 1881</date>, <biblScope>pp. 323-362</biblScope>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -40,7 +40,7 @@
         <date when="1881"/>
       </creation>
       <langUsage>
-        <language ident="fr"/>
+        <language ident="fre"/>
       </langUsage>
     </profileDesc>
   </teiHeader>

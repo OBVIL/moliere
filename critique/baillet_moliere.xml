@@ -23,11 +23,8 @@
 </editionStmt>
 <publicationStmt>
     <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-<date when="2018" />
-<idno type="tei">http://obvil.paris-sorbonne.fr/corpus/moliere/critique/baillet_moliere.xml</idno>
-    <idno type="html">http://obvil.paris-sorbonne.fr/corpus/moliere/critique/baillet_moliere.html</idno>
-    <idno type="txt">http://obvil.paris-sorbonne.fr/corpus/moliere/critique/baillet_moliere.txt</idno>
-    <idno type="epub">http://obvil.paris-sorbonne.fr/corpus/moliere/critique/baillet_moliere.epub</idno>
+<date when="2018"/>
+<idno>http://obvil.paris-sorbonne.fr/corpus/moliere/critique/baillet_moliere/</idno>
 <availability status="restricted">
 <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
 <p>Copyright © 2018 Sorbonne Université, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>

@@ -16,7 +16,7 @@
       <publicationStmt>
         <publisher>University of Chicago. Department of Romance Languages</publisher>
         <date when="2018"/>
-        <idno>http://obvil.paris-sorbonne.fr/corpus/moliere/critique/encyclopedie_moliere</idno>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/moliere/critique/encyclopedie_moliere/</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl><author>Diderot, Denis &amp; Alembert, Jean d’</author>, <title>Encyclopédie.
@@ -27,7 +27,7 @@
     </fileDesc>
     <profileDesc>
       <langUsage>
-        <language ident="fr"/>
+        <language ident="fre"/>
       </langUsage>
       <creation>
         <date notBefore="1751" notAfter="1765">1751-1765c</date>

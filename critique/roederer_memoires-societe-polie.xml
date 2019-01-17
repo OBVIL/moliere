@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../../moliere/anecdotes/anecdotes.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -22,11 +22,7 @@
       <publicationStmt>
         <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
         <date when="2016"/>
-        <idno>http://obvil.paris-sorbonne.fr/corpus/critique/roederer_memoires-societe-polie</idno>
-        <idno type="tei">http://obvil.paris-sorbonne.fr/corpus/critique/roederer_memoires-societe-polie.xml</idno>
-        <idno type="html">http://obvil.paris-sorbonne.fr/corpus/critique/roederer_memoires-societe-polie.html</idno>
-        <idno type="text">http://obvil.paris-sorbonne.fr/corpus/critique/roederer_memoires-societe-polie.txt</idno>
-        <idno type="epub">http://obvil.paris-sorbonne.fr/corpus/critique/roederer_memoires-societe-polie.epub</idno>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/critique/roederer_memoires-societe-polie/</idno>
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
             <p>Copyright © 2016 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
@@ -46,7 +42,7 @@
         <date when="1835">1835</date>
       </creation>
       <langUsage>
-        <language ident="fr"/>
+        <language ident="fre"/>
       </langUsage>
     </profileDesc>
   </teiHeader>

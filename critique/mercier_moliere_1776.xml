@@ -4,7 +4,7 @@
 <?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <!--Odette: 2018-02-12T14:58:17+01:00-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -21,10 +21,7 @@
       <publicationStmt>
         <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
         <date when="2018"/>
-        <idno type="xml">http://obvil.paris-sorbonne.fr/corpus/moliere/critique/mercier_moliere_1776_reg-v2.xml</idno>
-        <idno type="html">http://obvil.paris-sorbonne.fr/corpus/moliere/critique/mercier_moliere_1776_reg-v2.html</idno>
-        <idno type="txt">http://obvil.paris-sorbonne.fr/corpus/moliere/critique/mercier_moliere_1776_reg-v2.txt</idno>
-        <idno type="epub">http://obvil.paris-sorbonne.fr/corpus/moliere/critique/mercier_moliere_1776_reg-v2.epub</idno>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/moliere/critique/mercier_moliere_1776/</idno>
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
             <p>Copyright © 2018 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>

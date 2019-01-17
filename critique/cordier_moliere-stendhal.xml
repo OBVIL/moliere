@@ -4,12 +4,12 @@
 <?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <!--odt2tei: 2015-03-17T11:09:17+01:00-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Molière jugé par Stendhal</title>
-        <author key="Cordier, Henri (1849-1925)"> Henri Cordier</author>
+        <author key="Cordier, Henri (1849-1925)">Henri Cordier</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
@@ -25,7 +25,7 @@
       <publicationStmt>
         <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
         <date when="2015"/>
-        <idno>http://obvil.paris-sorbonne.fr/corpus/moliere/critique/cordier_moliere-stendhal</idno>
+        <idno>http://obvil.paris-sorbonne.fr/corpus/moliere/critique/cordier_moliere-stendhal/</idno>
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
             <p>Copyright © 2014 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
@@ -57,7 +57,7 @@
         <date when="1898"/>
       </creation>
       <langUsage>
-        <language ident="fr"/>
+        <language ident="fre"/>
       </langUsage>
     </profileDesc>
   </teiHeader>

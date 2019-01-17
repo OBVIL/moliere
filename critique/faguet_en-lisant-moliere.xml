@@ -3,7 +3,7 @@
   <?xml-model href="../anecdotes/anecdotes.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -25,14 +25,6 @@
         <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
         <date when="2015"/>
         <idno>http://obvil.paris-sorbonne.fr/corpus/moliere/critique/faguet_en-lisant-moliere/</idno>
-        <idno type="tei"
-          >http://obvil.paris-sorbonne.fr/corpus/moliere/critique/faguet_en-lisant-moliere.xml</idno>
-        <idno type="html"
-          >http://obvil.paris-sorbonne.fr/corpus/moliere/critique/faguet_en-lisant-moliere.html</idno>
-        <idno type="text"
-          >http://obvil.paris-sorbonne.fr/corpus/moliere/critique/faguet_en-lisant-moliere.txt</idno>
-        <idno type="epub"
-          >http://obvil.paris-sorbonne.fr/corpus/moliere/critique/faguet_en-lisant-moliere.epub</idno>
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
             <p>Copyright © 2015 Université Paris-Sorbonne, agissant pour le Laboratoire d’Excellence
@@ -65,7 +57,7 @@
         <date when="1914">1914</date>
       </creation>
       <langUsage>
-        <language ident="fr"/>
+        <language ident="fre"/>
       </langUsage>
     </profileDesc>
   </teiHeader>
