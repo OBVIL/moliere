@@ -3327,7 +3327,7 @@
               comédie pour eux à Molière ; sur quoi <hi rend="sc">M. le Duc</hi> a dit qu’il
               suffisait de leur donner Gros-René bien enfariné, parce qu’ils n’entendaient point le
               français. »</quote></note>.</p>
-        <p><milestone type="anecdoteStart" xml:id="moliere-donne-sujet-thebaide"/>Bien que Molière
+        <p><!--<milestone type="anecdoteStart" xml:id="moliere-donne-sujet-thebaide"/>-->Bien que Molière
           eût tout l’avantage dans ces luttes sur les comédiens rivaux, il ne voyait pas sans dépit
           leurs représentations plus suivies que les siennes et les auteurs tragiques leur confier
           de préférence leurs ouvrages. Il résolut de monter une tragédie qui pût, mieux que ne
@@ -3339,8 +3339,8 @@
           d’avance, il songea à Racine, qui, l’année précédente, lui avait apporté son <hi rend="i"
             >Théagène et Chariclée</hi>. Il l’engagea à traiter le sujet de <hi rend="i">La
             Thébaïde</hi>, pour lequel Molière eut toujours, comme nous l’avons déjà vu, une
-          prédilection souvent malheureuse. Le jeune poète se mit à l’ouvrage.<milestone
-            type="anecdoteEnd"/><milestone type="commentStart"
+          prédilection souvent malheureuse. Le jeune poète se mit à l’ouvrage.<!--<milestone
+            type="anecdoteEnd"/>--><milestone type="commentStart"
             corresp="#moliere-donne-sujet-thebaide"/> La Grange-Chancel raconte avoir entendu des
           amis de Racine assurer que, pressé par le temps, il emprunta, sans presque y rien changer,
           deux récits à l’<hi rend="i">Antigone</hi> de Rotrou. D’autres écrivains ont dit qu’il ne
@@ -5808,8 +5808,8 @@
         <p><milestone type="commentStart" corresp="#moliere-peint-tartuffe-d-apres-abbe-roquette"
           />J.-B. Rousseau, dans une de ses lettres à Brossette, dit que <quote>« l’aventure du
             Tartuffe se passa chez la duchesse de Longueville »</quote>. <milestone
-            type="commentEnd"/><milestone type="anecdoteStart"
-            xml:id="moliere-peint-tartuffe-d-apres-abbe-roquette"/>L’abbé de Choisy nous apprend
+            type="commentEnd"/><!--<milestone type="anecdoteStart"
+            xml:id="moliere-peint-tartuffe-d-apres-abbe-roquette"/>-->L’abbé de Choisy nous apprend
           dans ses <hi rend="i">Mémoires</hi> que Molière, en traçant son principal rôle, eut en vue
           l’abbé de Roquette, depuis évêque d’Autun, un des plus empressés courtisans de cette dame,
           le même dont on a fait valoir les droits à la propriété de ses sermons dans cette
@@ -5820,7 +5820,7 @@
           <l>Moi qui sais qu’il les achète,</l>
           <l>Je soutiens qu’ils sont à lui.</l>
         </quote>
-        <milestone type="anecdoteEnd"/>
+        <!--<milestone type="anecdoteEnd"/>-->
         <p><milestone type="commentStart" corresp="#moliere-peint-tartuffe-d-apres-abbe-roquette"
           />Madame de Sévigné, sans nous faire connaître davantage l’aventure en question, confirme
           pleinement l’assertion de l’abbé de Choisy quand elle écrit : <quote>« Il a fallu dîner
@@ -7693,7 +7693,7 @@
           <l>Ce monsieur Loyal porte un air bien déloyal.</l>
         </quote>
         <milestone type="commentEnd"/>
-        <p><milestone type="anecdoteStart" xml:id="boileau-fournit-latin-macaronique"/>Il est assez
+        <p><!--<milestone type="anecdoteStart" xml:id="boileau-fournit-latin-macaronique"/>-->Il est assez
           bien établi que le latin macaronique de la burlesque cérémonie par laquelle Molière eut
           l’idée de terminer son <hi rend="i">Malade imaginaire</hi> fut improvisé en commun à un
           souper chez madame de La Sablière, où se trouvaient, entre autres convives, avec Ninon de
@@ -7703,7 +7703,7 @@
             Mauvillain<note resp="author"><hi rend="i">Les Médecins au temps de Molière</hi>, par
             M. Maurice Reynaud ; Paris, 1863, in-18, p. 485, note.</note>, qui fournit à cette
           collaboration le programme d’une réception de docteur à la Faculté et bon nombre
-          d’expressions techniques.<milestone type="anecdoteEnd"/></p>
+          d’expressions techniques.<!--<milestone type="anecdoteEnd"/>--></p>
         <p><milestone type="anecdoteStart" xml:id="moliere-se-sacrifie-pour-sa-troupe"/>Le jour de
           la quatrième représentation du spectacle nouveau, le 17 février 1673, premier anniversaire
           de la mort de Madeleine Béjart, sa belle-sœur, Molière, qui remplissait le rôle d’Argan,

@@ -303,7 +303,7 @@
             pouvoir triompher ?»</p>
         </quote>
         <milestone type="anecdoteEnd"/>
-        <p><milestone type="anecdoteStart" xml:id="moliere-confie-souffrance-chapelle"/>Évidemment
+        <p><!--<milestone type="anecdoteStart" xml:id="moliere-confie-souffrance-chapelle"/>-->Évidemment
           Molière n’est pas un de ces moqueurs à l’âme sèche et à l’esprit dénigrant, au banc
           desquels il convient de ne pas s’asseoir. Rien de plus attachant, rien de plus instructif
           pour celui qui désire connaître le cœur humain, que cette alliance du génie comique et de
