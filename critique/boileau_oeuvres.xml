@@ -48,7 +48,8 @@
     <body>
       <div>
         <head>SATIRE II<lb/>À MONSIEUR <lb/>DE MOLIÈRE</head>
-        <l><pb n="14"/> Rare et fameux Esprit, dont la fertile veine</l>
+        <pb n="14" xml:id="p14"/>
+        <l>Rare et fameux Esprit, dont la fertile veine</l>
         <l>Ignore en écrivant le travail et la peine ;</l>
         <l>Pour qui tient Apollon tous ses trésors ouverts,</l>
         <l>Et qui sais à quel coin se marquent les bons vers.</l>
@@ -63,7 +64,8 @@
         <l>Dans ce rude métier, où mon esprit se tue,</l>
         <l>En vain pour la trouver, je travaille, et je sue.</l>
         <l>Souvent j’ai beau rêver du matin jusqu’au soir,</l>
-        <l><pb n="15"/> Quand je veux dire <hi rend="i">blanc</hi>, la quinteuse dit <hi rend="i">noir</hi> :</l>
+        <pb n="15" xml:id="p15"/>
+        <l>Quand je veux dire <hi rend="i">blanc</hi>, la quinteuse dit <hi rend="i">noir</hi> :</l>
         <l>Si je veux d’un galant dépeindre la figure,</l>
         <l>Ma plume pour rimer trouve l’Abbé de Pure :</l>
         <l>Si je pense exprimer un Auteur sans défauts,</l>
@@ -89,7 +91,8 @@
         <l>Si je voulais vanter un objet <hi rend="i">Nonpareil</hi> ;</l>
         <l>Je mettrais à l’instant, <hi rend="i">Plus beau que le Soleil.</hi></l>
         <l>Enfin parlant toujours d’<hi rend="i">Astres</hi>, et de <hi rend="i">Merveilles</hi></l>
-        <l><pb n="16"/> De <hi rend="i">Chef-d’œuvres des Cieux</hi>, de <hi rend="i">Beautés sans pareilles</hi>,</l>
+        <pb n="16" xml:id="p16"/>
+        <l>De <hi rend="i">Chef-d’œuvres des Cieux</hi>, de <hi rend="i">Beautés sans pareilles</hi>,</l>
         <l>Avec tous ces beaux mots souvent mis aux hasard,</l>
         <l>Je pourrais aisément, sans génie, et sans art,</l>
         <l>Et transposant cent fois et le Nom et le Verbe,</l>
@@ -114,7 +117,8 @@
         <l>Sait donner une borne à son Ambition,</l>
         <l>Et suivant des grandeurs la présence importune,</l>
         <l>Je ne vais point au Louvre adorer la Fortune :</l>
-        <l><pb n="17"/> Et je serais heureux, si, pour me consumer,</l>
+        <pb n="17" xml:id="p17"/>
+        <l>Et je serais heureux, si, pour me consumer,</l>
         <l>Un destin envieux ne m’avait fait rimer.</l>
         <l>Mais depuis le moment que cette frénésie,</l>
         <l>De ses noires vapeurs troubla ma fantaisie,</l>
@@ -139,7 +143,8 @@
         <l>Un Sot en écrivant fait tout avec plaisir :</l>
         <l>Il n’a point en ses vers l’embarras de choisir :</l>
         <l>Et toujours amoureux de ce qu’il vient d’écrire,</l>
-        <l><pb n="18"/> Ravi d’étonnement, en soi-même il s’admire.</l>
+        <pb n="18" xml:id="p18"/>
+        <l>Ravi d’étonnement, en soi-même il s’admire.</l>
         <l>Mais un esprit sublime, en vain veut s’élever</l>
         <l>À ce degré parfait qu’il tâche de trouver :</l>
         <l>Et toujours mécontent de ce qu’il vient de faire :</l>
@@ -151,7 +156,8 @@
       </div>
       <div>
         <head>ÉPÎTRE VII<lb/>À MONSIEUR<lb/>RACINE</head>
-        <l><pb n="155"/> Que tu sais bien, Racine, à l’aide d’un Acteur</l>
+        <pb n="155" xml:id="p155"/>
+        <l>Que tu sais bien, Racine, à l’aide d’un Acteur</l>
         <l>Émouvoir, étonner, ravir un Spectateur !</l>
         <l>Jamais Iphigénie en Aulide immolée</l>
         <l>N’a coûté tant de pleurs à la Grèce assemblée,</l>
@@ -168,7 +174,8 @@
         <l>La mort seule ici bas, en terminant sa vie,</l>
         <l>Peut calmer sur son nom l’injustice et l’envie,</l>
         <l>Faire au poids du droit sens peser tous ses écrits,</l>
-        <l><pb n="156"/> Et donner à ses vers leur légitime prix.</l>
+        <pb n="156" xml:id="p156"/>
+        <l>Et donner à ses vers leur légitime prix.</l>
         <l>Avant qu’un peu de terre obtenu par prière</l>
         <l>Pour jamais sous la tombe eût enfermé Molière,</l>
         <l>Mille de ces beaux traits aujourd’hui si vantés</l>
@@ -194,7 +201,8 @@
         <l>Suis les pas de Sophocle, et seul de tant d’Esprits</l>
         <l>De Corneille vieilli sais consoler Paris,</l>
         <l>Cesse de t’étonner, si l’Envie animée</l>
-        <l><pb n="157"/> Attachant à ton nom sa rouille envenimée,</l>
+        <pb n="157" xml:id="p157"/>
+        <l>Attachant à ton nom sa rouille envenimée,</l>
         <l>La calomnie en main, quelquefois te poursuit.</l>
         <l>En cela comme en tout le Ciel qui nous conduit,</l>
         <l>Racine, fait briller la profonde sagesse.</l>
@@ -220,7 +228,8 @@
         <l>Sitôt que sur un vice ils pensent me confondre,</l>
         <l>C’est en m’en guérissant que je sais leur répondre :</l>
         <l>Et plus en criminel ils pensent m’ériger,</l>
-        <l><pb n="158"/> Plus croissant en vertu je songe à me venger.</l>
+        <pb n="158" xml:id="p158"/>
+        <l>Plus croissant en vertu je songe à me venger.</l>
         <l>Imite mon exemple ; et lorsqu’une Cabale,</l>
         <l>Un tas de vains Auteurs follement te ravale,</l>
         <l>Profite de leur haine, et de leur mauvais sens :</l>
@@ -245,7 +254,8 @@
         <l>Que la Rochefoucaut, Marsillac, et Pompone,</l>
         <l>Et mille autres qu’ici je ne puis faire entrer,</l>
         <l>À leurs traits délicats se laissent pénétrer.</l>
-        <l><pb n="159"/> Et plût au Ciel encor, pour couronner l’ouvrage</l>
+        <pb n="159" xml:id="p159"/>
+        <l>Et plût au Ciel encor, pour couronner l’ouvrage</l>
         <l>Que Montauzier voulût leur donner son suffrage.</l>
         <l>C’est à de tels Lecteurs que j’offre mes écrits.</l>
         <l>Mais pour un tas grossier de frivoles Esprits</l>
@@ -256,7 +266,8 @@
       </div>
       <div>
         <head>L’Art poétique, chant III, v. 359-428</head>
-        <l><pb n="257"/> Que la Nature donc soit votre étude unique,</l>
+        <pb n="257" xml:id="p257"/>
+        <l>Que la Nature donc soit votre étude unique,</l>
         <l>Auteurs, qui prétendez aux honneurs du Comique.</l>
         <l>Quiconque voit bien l’Homme, et d’un esprit profond</l>
         <l>De tant de cœurs cachés a pénétré le fond ;</l>
@@ -270,7 +281,8 @@
         <l>Dans chaque âme est marquée à de différents traits.</l>
         <l>Un geste la découvre, un rien la fait paraître :</l>
         <l>Mais tout esprit n’a pas des yeux pour la connaître.</l>
-        <l><pb n="258"/> Le temps qui change tout, change aussi nos humeurs.</l>
+        <pb n="258" xml:id="p258"/>
+        <l>Le temps qui change tout, change aussi nos humeurs.</l>
         <l>Chaque Âge a ses plaisirs, son esprit, et ses mœurs.</l>
         <l>Un jeune homme toujours bouillant dans ses caprices</l>
         <l>Est prompt à recevoir l’impression des vices,</l>
@@ -294,7 +306,8 @@
         <l>Peut-être de son Art eût remporté le prix ;</l>
         <l>Si moins ami du peuple en ses doctes peintures,</l>
         <l>Il n’eût point fait souvent grimacer ses figures,</l>
-        <l><pb n="259"/> Quitté pour le bouffon, l’agréable et le fin,</l>
+        <pb n="259" xml:id="p259"/>
+        <l>Quitté pour le bouffon, l’agréable et le fin,</l>
         <l>Et sans honte à Térence allié Tabarin.</l>
         <l>Dans ce sac ridicule où <note place="bottom">Comédie de Molière.</note> Scapin s’enveloppe,</l>
         <l>Je ne reconnais plus l’Auteur du Misanthrope.</l>
@@ -319,7 +332,8 @@
         <l>Ce n’est pas un portrait, une image semblable ;</l>
         <l>C’est un Amant, un Fils, un Père véritable.</l>
         <l>J’aime sur le Théâtre un agréable Auteur</l>
-        <l><pb n="260"/> Qui, sans se diffamer aux yeux du Spectateur,</l>
+        <pb n="260" xml:id="p260"/>
+        <l>Qui, sans se diffamer aux yeux du Spectateur,</l>
         <l>Plaît par la raison seule, et jamais ne la choque.</l>
         <l>Mais pour un faux Plaisant, à grossière équivoque,</l>
         <l>Qui pour me divertir n’a que la saleté ;</l>
