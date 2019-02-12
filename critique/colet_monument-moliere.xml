@@ -21,6 +21,10 @@
           <name>Chayma Soltani</name>
           <resp>Structuration et encodage TEI</resp>
         </respStmt>
+        <respStmt>
+          <name>Côme Saignol</name>
+          <resp>Structuration et encodage TEI</resp>
+        </respStmt>
       </editionStmt>
       <publicationStmt>
         <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
@@ -37,7 +41,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><author>Louise Colet</author>, <title>Le monument de Molière précédé de l'Histoire du monument élevé à Molière par M. Aimé Martin</title>, <pubPlace>Paris</pubPlace>, <publisher>Paulin</publisher>, <date>1843</date>.</bibl>
+        <bibl><author>Louise Colet</author>, <title>Le monument de Molière précédé de l'Histoire du monument élevé à Molière par M. Aimé Martin</title>, <pubPlace>Paris</pubPlace>, <publisher>Paulin</publisher>, <date>1843</date>. Source : <ref target="https://books.google.fr/books?id=gvRNAAAAcAAJ">Google</ref>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -52,30 +56,34 @@
   <text>
     <body>
       <div>
+        <pb n="p5" xml:id="p5"/>
         <head>Histoire du monument élevé à Molière.</head>
         <p>Lorsqu’un grand peuple élève des statues à ceux qui l’ont fait grand, il fait quelque chose de plus que d’honorer le génie ; il consacre sa propre gloire.</p>
         <p>Cette consécration par la sculpture, de la gloire nationale qui chez les anciens imprimait de nobles idées à la multitude, est presque nouvelle en France. Nous reproduisions les héros de l’antiquité et nous négligions les nôtres. Aussi le peuple restait-il dans l’ignorance de ses propres vertus ; excepté les statues de quelques-uns de ses rois, la sculpture ne lui racontait rien de son histoire : les beaux-arts n’avaient point encore personnifié la France dans ses grands hommes. Celle personnification est de date toute moderne.</p>
         <p>Un écrivain dont les ouvrages sont une source inépuisable d’idées neuves et patriotiques, Bernardin de Saint-Pierre le premier s’aperçut de cette étrange anomalie. Il s’étonnait, en parcourant nos jardins et nos places publiques, de n’y voir que les images des divinités du paganisme, les statues des Grecs et des Romains, et des inscriptions toutes modernes dans une langue morte depuis deux mille ans. <quote>« Quoi, disait-il, des symboles mythologiques à des chrétiens, des inscriptions latines à des Français ! Nous continuons la gloire des. anciens aux dépens de la nôtre, aux dépens de notre esprit national ! En vérité l’avenir croira que les Romains étaient dans le dix-huitième siècle les maîtres de notre pays »</quote><note place="bottom"><hi rend="i">Etudes de la Nature</hi>, I. 3, 215.</note>.</p>
-        <p>Frappé de cet oubli, Bernardin de Saint-pierre songe à le réparer. C’était le caractère de son génie ; la vue du mal lui donnait l’idée du bien. Il imagine donc un Élisée où s’élèveraient des monuments consacrés aux bienfaiteurs du genre humain. Cet Élisée, il l’embellit de tous les arbres étrangers apportés en Europe depuis deux siècles, et dont les fleurs et les fruits font aujourd’hui nos délices.<pb n="1"/></p><pb n="801" xml:id="p801"/>
+        <p>Frappé de cet oubli, Bernardin de Saint-pierre songe à le réparer. C’était le caractère de son génie ; la vue du mal lui donnait l’idée du bien. Il imagine donc un Élisée où s’élèveraient des monuments consacrés aux bienfaiteurs du genre humain. Cet Élisée, il l’embellit de tous les arbres étrangers apportés en Europe depuis deux siècles, et dont les fleurs et les fruits font aujourd’hui nos délices.<pb n="1" xml:id="p1"/></p>
+        <pb n="p6" xml:id="p6"/>
         <p>À l’ombre de chaque arbre il place 1’image de celui qui nous l’a donné. Là se trouvent aussi les statues de Fénelon, de La Fontaine, de Racine : on y voit Catinat et Duquesne, Buffon et Linné, Bernard Palissy, ce pauvre potier qui fut martyr de la science, et Descartes dont la méthode a sauvé une seconde fois le monde ; enfin toutes les gloires utiles, toutes les infortunes glorieuses, car tel est le sort de l’humanité qu’il n’y a pas un monument élevé au génie et à la vertu qui ne réveille le souvenir de quelque grande douleur.</p>
         <p>On voit combien cette idée était féconde. D’abord elle rappelait les beaux-arts à leur plus haute mission, celle d’instruire les peuples de leur histoire, et par leur histoire, de la vertu. La statuaire devenait ainsi une école de patriotisme et de sagesse ; elle développait le sentiment du beau, elle vulgarisait l’héroïsme, et les généreux dévouements, elle plaçait dans la mémoire de tout un peuple, les images vivantes de ces génies aimés de Dieu qui nous ont versé l’amour et la lumière.</p>
         <p>Noble et puissante institution ouverte à tous les bienfaiteurs des hommes quels que fussent leur langue et leur pays, et qui faisait de la France le centre moral de l’univers. Le but de Bernardin de Saint-Pierre, en créant cet Élisée, était donc de personnifier dans tout ce qu’il avait de grand, non plus un peuple, mais le genre humain. Que les hautes intelligences apparaissent à l’orient ou à l’occident, n’importe, les idées n’ont point de patrie : Télémaque et l’Esprit des Lois appartiennent à la France par la langue ; ils appartiennent au monde par le bien qu’ils ont fait au monde, et Dieu a voulu que les fruits de la vertu et du génie fussent le patrimoine de l’humanité.</p>
         <p>Aujourd’hui les vœux de Bernardin de Saint-Pierre sont en partie réalisés. Ce qu’ils avaient de patriotique a été compris ; la nationalité universelle des belles âmes le sera plus lard. Alors l’Élysée s’ouvrira et tous les hommes vertueux et bienfaisants, quel que soit leur pays, seront réputés concitoyens. En attendant nous marchons vers un état meilleur. Déjà les Grecs et les Romains sont rentrés dans nos musées : ils serviront aux progrès de l’art, après avoir servi aux progrès de la pensée. A leur place s’élèvent de toutes parts les images de nos pères et de nos aïeux. Le voyageur, en parcourant nos villes rajeunies, ne croira plus qu’au dix-huitième siècle les Romains aient été nos maîtres, il reconnaîtra la France aux monuments qu’elle consacre à ses propres enfants. Celle France comprend enfin qu’elle n’est montée au rang des premiers peuples du monde que parce que le monde l’a personnifiée dans la personne de ces grands hommes. Déjà Cambrai, Dijon, Meaux, Bordeaux, Montbart, Périgneux, ont orné leurs places publiques des glorieuses images de Bossuet, de Fénelon, de Buffon, de Montesquieu et de Montaigne. Château-Thierry s’est ressouvenu de La Fontaine, et Laferté-Milon de Racine. À Caen, je vois Malherbe ; à Clermont, Pascal ; à Rouen, Corneille, un seul Corneille, la cité ingrate a cru pouvoir séparer les deux frères. D’autres villes m’offrent l’une Guttenberg, l’autre Cuvier, l’autre Duguesclin. Arles, devançant la postérité, s’empare de la plus grande renommée politique et poétique du siècle, en élevant une statue à notre Lamartine. Le Havre attend le bronze de Bernardin de Saint-Pierre, confié au génie inspiré de David. Marseille n’oubliera pas Belzunce ; Lyon n’a point oublié Jacquard, le pauvre ouvrier qui l’enrichit.</p>
+        <pb n="p7" xml:id="p7"/>
         <p>Et toi Bayard, le voilà donc enfin dans la patrie, je reconnais la noble figure. C’est bien toi qui plaignais Bourbon de combattre contre la France, au moment où tu mourais pour elle !</p>
         <p>Certes il y a quelque chose dé beau dans ce mouvement universel et populaire, car ce ne sont pas seulement les riches cités qui se montrent reconnaissantes envers leurs concitoyens : de simples bourgs, de chétifs hameaux prennent l’initiative et réclament leurs parts de l’honneur national.</p>
         <p>Ainsi vient de s’élever sur le pont du petit village de Mausé<note place="bottom">Département des Deux-Sèvres, à quatre lieues de Niort.</note>, le buste de René Caillié, ce jeune paysan qui, sans autre lumière que son génie, sans autre appui que son héroïque volonté, après des fatigues inouïes, résolut la grande question géographique du siècle, par la découverte de Tembouctou<note place="bottom">Le préfet des Deux-Sèvres, M. de Saint-Georges, pour subvenir aux frais de ce Monument, fil un appel général aux citoyens. Un empressement vif et spontané répondit à cet appel. De vieux laboureurs, qui n’avaient jamais quitté leur commune, accoururent à la ville pour y apporter leur offrande. Une pauvre vieille femme surtout se lit remarquer : toute tremblante, elle déposa son obole en détournant la tête et en s’essuyant les yeux, car elle avait vu Caillié tout enfant et elle disait : celui-ci était le camarade de mon fils ; il était le dernier parmi nous, et voilà qu’aujourd’hui il est le premier. Nous l’honorons et nous le bénissons tous.</note>.</p>
         <p>Ainsi s’élèvera bientôt sur la petite place de Miramont<note place="bottom">Petit bourg du département de Lot-et-Garonne, à 8 lieues d’Agen, et dont Marmande est le chef-lieu. C’est le conseil municipal de Miramont qui a pris l’initiative pour la statue de M. de Martignac : il a volé une somme, et le chef-lieu a suivi le mouvement. </note>, ombragé par les arbres qu’il aimait, la statue de M. de Martignac, de ce généreux et brillant orateur, de ce martyr de l’héroïsme évangélique, du grand homme qui fit acte de chrétien en donnant sa vie pour le salut de son ennemi.</p>
         <p>De pareilles apothéoses signalent une nouvelle ère. L’impulsion est donnée, les monuments se multiplient, le pays veut se connaître, et grâce à cet élan généreux, toutes les gloires vont grandir en devenant populaires. Noble triomphe d’une noble pensée ! Cet élysée que l’auteur des études voulait placer dans une île de la Seine, près du pont de Neuilly, le voilà qui se déroule sur la France entière. Il a passé de ville en ville, il ira de bocage en bocage, et le vieux tilleul qui verse son ombre sur l’église champêtre, ne sera plus le seul monument du hameau, lorsque ce hameau aura connu un bienfaiteur, ou qu’il aura vu naître un grand homme.</p>
-        <p>Au milieu de cet entraînement universel, qui le croirait ? Paris seul gardait le silence. Ce n’est pas qu’il fût ingrat, ce n’est pas que le Ciel lui eût refusé sa part de beaux génies. Un peuple de statues sorties tout à coup des murs de son Hôtel de Ville vient aujourd’hui même témoigner de la reconnaissance et de l’intelligence de celle reine des cités. C’est son panthéon qu’elle élève : elle a trouvé dans ses grands hommes la garde d’honneur qui doit veiller éternellement aux portes de son palais. Et cependant H y a peu d’années encore, la noble ville se taisait. Occupée d’élargir ses rues, de planter ses quais, d’établir ses trottoirs, de multiplier ses marchés et ses fontaines, absorbée dans le désir bienfaisant de répandre partout la salubrité et la gaîté, toute parée de son bien-être et de sa magnificence, elle sembla un moment oublier sa gloire. Ni Boileau, ni Voltaire, tous deux nés dans la cour de la Sainte-Chapelle, où priait Saint Louis, ni Molière, lui-même, le simple enfant de Paris, élevé sous les piliers des Halles, ne se présentèrent à sa mémoire. Alors elle put paraître ingrate, et elle le fut en effet, mais pour Molière seulement ; car il faut bien le dire, et comment le dire sans amertume ! le monument qu’on lui consacre aujourd’hui est dû plutôt à une rencontre fortuite, à un de ces accidents imprévus qu’on qualifie de hasard, qu’à un mouvement spontané de reconnaissance nationale.<pb n="2"/></p>
-        <p>La reconnaissance ne pouvait manquer, elle se fit jour, mais plus tard : pour être oubliée d’un conseil municipal, la gloire de Molière n’en vivait pas moins dans toutes les âmes<note place="bottom"><p>Et en effet, au moment même où le Conseil Municipal de Paris oubliait Molière, le Roi de Saxe lui consacrait une statue monumentale. Voici ce qu’on lit dans les journaux du 7 juillet 1843 :<quote>« Le célèbre sculpteur Haenel vient de terminer les modèles de trois statues colossales, de Beethoven, de Shakespeare et de MOLIERE. La statue de Beethoven sera coulée en bronze et érigée à Bonn (Prusse), ville natale du grand compositeur. Les statues de Shakespeare et de Molière sont assises, et elles seront exécutées en marbre de Carare, pour orner la façade du nouveau théâtre de Dresde. » </quote></p></note>.</p>
+        <p>Au milieu de cet entraînement universel, qui le croirait ? Paris seul gardait le silence. Ce n’est pas qu’il fût ingrat, ce n’est pas que le Ciel lui eût refusé sa part de beaux génies. Un peuple de statues sorties tout à coup des murs de son Hôtel de Ville vient aujourd’hui même témoigner de la reconnaissance et de l’intelligence de celle reine des cités. C’est son panthéon qu’elle élève : elle a trouvé dans ses grands hommes la garde d’honneur qui doit veiller éternellement aux portes de son palais. Et cependant H y a peu d’années encore, la noble ville se taisait. Occupée d’élargir ses rues, de planter ses quais, d’établir ses trottoirs, de multiplier ses marchés et ses fontaines, absorbée dans le désir bienfaisant de répandre partout la salubrité et la gaîté, toute parée de son bien-être et de sa <pb n="p8" xml:id="p8"/>magnificence, elle sembla un moment oublier sa gloire. Ni Boileau, ni Voltaire, tous deux nés dans la cour de la Sainte-Chapelle, où priait Saint Louis, ni Molière, lui-même, le simple enfant de Paris, élevé sous les piliers des Halles, ne se présentèrent à sa mémoire. Alors elle put paraître ingrate, et elle le fut en effet, mais pour Molière seulement ; car il faut bien le dire, et comment le dire sans amertume ! le monument qu’on lui consacre aujourd’hui est dû plutôt à une rencontre fortuite, à un de ces accidents imprévus qu’on qualifie de hasard, qu’à un mouvement spontané de reconnaissance nationale.</p>
+        <p>La reconnaissance ne pouvait manquer, elle se fit jour, mais plus tard : pour être oubliée d’un conseil municipal, la gloire de Molière n’en vivait pas moins dans toutes les âmes<note place="bottom"><p>Et en effet, au moment même où le Conseil Municipal de Paris oubliait Molière, le Roi de Saxe lui consacrait une statue monumentale. Voici ce qu’on lit dans les journaux du 7 juillet 1843 :<quote>« Le célèbre sculpteur Haenel vient de terminer les modèles de trois statues colossales, de Beethoven, de Shakespeare et de MOLIERE. La statue de Beethoven sera coulée en bronze et érigée à Bonn (Prusse), ville natale du grand compositeur. Les statues de Shakespeare et de Molière sont assises, et elles seront exécutées en marbre de Carare, pour orner la façade du nouveau théâtre de Dresde. »</quote></p></note></p>
         <p>Bien plus, des écrivains du grand siècle, Molière est peut-être le seul dont le peuple ait gardé la mémoire. Les autres appartiennent essentiellement au monde instruit et poli ; lui, appartient à tout le monde : il est du peuple, de la bourgeoisie et de la cour, mais il est surtout du peuple. Et comment le peuple l’aurait-il oublié, lui, l’enfant du peuple, le plus gracieux, le plus charmant des amuseurs, le plus profond, le plus joyeux des philosophes ? Encore aujourd’hui, après cent soixante-dix ans, n’est-ce pas le seul poète qui le divertisse, le seul qui l’instruise, le seul qui parle son langage ? N’est-il pas son ami, l’ami peuple, son moraliste, son fou, son sage, son législateur ? Un législateur qui le fait rire, qui le corrige en l’amusant, le plus joyeux des législateurs, élevé à la toute puissance par lu grâce de son génie et de sa gaîté ? Voilà ce que les mortels n’ont été appelés à voir deux fois ni sur le trône de notre bon Henri IV, ni sur le trône que, suivant la belle expression de Chamfort, Molière a laissé vacant.</p>
-        <p>Si le temps me le permettait, je voudrais dire ici quelle influence Molière a exercée sur la moralité et sur les mœurs de la société entière. Il faudrait peindre d’abord les habitudes grossières du peuple à cette époque, sa brutalité sensuelle, son langage cynique, sou égoïsme impudent qui le ravalait au niveau de la bêle : puis à côté de ce portrait vigoureux, il faudrait placer le portrait vivant de la classe bien élevée : là se rencontrent les sentiments délicats, la naïveté charmante, l’innocence et la pudeur dans leur expression la plus gracieuse. Corneille avait peint l’amour héroïque, Molière peignit l’amour aimable dans ses caprices, dans ses jeux, dans sa grâce, et jusque dans ses emportements. Ses jeunes gens aiment pour le seul plaisir d’aimer, comme si la vie n’était rien sans l’amour, comme si l’amour était toute la vie. Tableau charmant qu’il oppose au tableau de l’amour grossier du populaire, faisant rire de l’un, faisant admirer l’autre, corrigeant les premiers par les derniers, et triomphant de tous les vices que peut atteindre son ardente raillerie. On a dit que Molière avait été obligé de former son public. L’éloge est plus grand qu’on ne pense, car on n’a pas vu que former un public à des chefs-d’œuvre, c’était faire une nation.<pb n="3"/></p>
-        <p>Elle eu effet celui qui sut rendre sensible à une foule grossière, les traits les plus fins de l’esprit, les sentiments les plus délicats du cœur, qui lui fit comprendre, craindre et éviter le ridicule, connaître, aimer et rechercher les convenances ; celui qui épura son goût jusqu’au point de lui rendre familières les sublimes beautés du <hi rend="i">Tartufe</hi> et du <hi rend="i">Misanthrope</hi>, que fit-il autre chose que de former une nation : les délicatesses du goût sont les premiers éléments de la vertu.</p>
+        <p>Si le temps me le permettait, je voudrais dire ici quelle influence Molière a exercée sur la moralité et sur les mœurs de la société entière. Il faudrait peindre d’abord les habitudes grossières du peuple à cette époque, sa brutalité sensuelle, son langage cynique, sou égoïsme impudent qui le ravalait au niveau de la bêle : puis à côté de ce portrait vigoureux, il faudrait placer le portrait vivant de la classe bien élevée : là se rencontrent les sentiments délicats, la naïveté charmante, l’innocence et la pudeur dans leur expression la plus gracieuse. Corneille avait peint l’amour héroïque, Molière peignit l’amour aimable dans ses caprices, dans ses jeux, dans sa grâce, et jusque dans ses emportements. Ses jeunes gens aiment pour le seul plaisir d’aimer, comme si la vie n’était rien sans l’amour, comme si l’amour était toute la vie. Tableau charmant qu’il oppose au tableau de l’amour grossier du populaire, faisant rire de l’un, faisant admirer l’autre, corrigeant les premiers par les derniers, et triomphant de tous les vices que <pb n="p9" xml:id="p9"/>peut atteindre son ardente raillerie. On a dit que Molière avait été obligé de former son public. L’éloge est plus grand qu’on ne pense, car on n’a pas vu que former un public à des chefs-d’œuvre, c’était faire une nation.</p>
+        <p>Et en effet celui qui sut rendre sensible à une foule grossière, les traits les plus fins de l’esprit, les sentiments les plus délicats du cœur, qui lui fit comprendre, craindre et éviter le ridicule, connaître, aimer et rechercher les convenances ; celui qui épura son goût jusqu’au point de lui rendre familières les sublimes beautés du <hi rend="i">Tartufe</hi> et du <hi rend="i">Misanthrope</hi>, que fit-il autre chose que de former une nation : les délicatesses du goût sont les premiers éléments de la vertu.</p>
         <p>Mais ce n’est là qu’une très petite partie de Molière. Pour le comprendre tout entier, il ne suffit pas de connaître ses ouvrages, il faut connaître sa vie. Sans cette étude préliminaire, on ne saura jamais comment le fils du tapissier destiné par sa naissance à meubler les appartements du roi, put devenir un profond philosophe et un grand poète comique. Je dis un profond philosophe, car la philosophie ne se concentre pas seulement dans l’étude des notions abstraites de la pensée, elle comprend encore la connaissance morale que l’homme a de lui-même et celle de ses relations avec ses semblables. La poésie au contraire est le don de tout imiter, de tout sentir et de tout peindre. Elle donne des images à la pensée et des émotions au sentiment ; elle est la lumière divine qui tombe du ciel sur les œuvres du génie, car je ne saurais définir autrement l’inspiration. Le poète et le philosophe sont donc deux hommes bien caractérisés, bien distincts, et ce sont ces deux hommes que l’on retrouve dans Molière.</p>
         <p>Comment se sont-ils développés ? Je le vois à la cour observant les ridicules des grands, et Louis XIV lui-même lui désignant ses modèles. Je le vois au milieu de sa troupe, cette troupe à laquelle il devait tout donner même sa vie, observant Beauval, Brécourt, Du Croisy, les Béjart, et pour les forcer au naturel, glissant dans les rôles qu’il leur confie quelques traits de leur propre caractère. Mais le peuple, le vrai peuple, où l’a-t-il observé ? Je le vois enfant dans la rue Saint-Honoré ou sous les piliers des Halles, jouant avec les libres enfants de Paris, et s’incarnant cet esprit goffe et facétieux dont plus tard il devait reproduire le type ; je le vois courant sur le pont Neuf, et s’inspirant de cette muse grotesque qui animait alors les tréteaux de Gauthier Garguille et de Turlupin. Voilà la source non de sa gaîté franche et railleuse, mais du trait bouffon qui dans ses pièces fait éternellement éclater le rire. L’esprit populaire et parisien vivait en lui.</p>
-        <p>Ce grand homme expira le 17 février 1673, en sortant du théâtre du Palais-Royal où il venait de représenter pour la quatrième fois le personnage du <hi rend="i">Malade Imaginaire.</hi> Des prêtres fanatiques lui refusèrent les derniers secours de la religion ; d’autres prêtres lui refusèrent la sépulture. Il fallut les prières de sa veuve et un ordre du roi, pour obtenir qu’un peu de terre couvrît sa cendre ; il fallut jeter de l’argent à un peuple fanatisé et furieux qui insultait à sa mémoire et menaçait de troubler ses funérailles ; il fallut que le convoi funèbre, qui emportait sa dépouille mortelle, se glissât furtivement la nuit dans les rues de Paris, comme s’il cachait un coupable, comme si ce cercueil allait dérober sa place au cimetière. Les prières mêmes pour le repos du martyr, car il mourut martyr du devoir<note place="bottom"><p>Un témoin raconte que le matin même du jour où Molière expira presque sous les yeux du public, madame Molière et le jeune Baron firent tous leurs efforts, en voyant son état de faiblesse pour l’empêcher de monter sur la scène, mais tout fut inutile : un homme, leur dit-il, souffre beaucoup avant de mourir. Je sens bien que je finis, mais il y a là cinquante pauvres ouvriers qui n’ont que leur journée pour vivre, que feront-ils si je ne joue pas. Je me reprocherai d’avoir négligé de leur donner du pain un seul jour, le pouvant faire absolument. Il joua donc, et cet effort lui coûta la vie.</p><p/></note>, les prières mêmes durent être cachées, et c’est un fait prouvé par les registres de l’archevêché qu’il y eut défense à toutes les paroisses du diocèse et aux églises des réguliers de faire aucun service solennel en faveur de celui à qui la France vient d’élever une statue.</p>
+        <p>Ce grand homme expira le 17 février 1673, en sortant du théâtre du Palais-Royal où il venait de représenter pour la quatrième fois le personnage du <hi rend="i">Malade Imaginaire.</hi> Des prêtres fanatiques lui refusèrent les derniers secours de la religion ; d’autres prêtres lui refusèrent la sépulture. Il fallut les prières de sa veuve et un ordre du roi, pour obtenir qu’un peu de terre couvrît sa cendre ; il fallut jeter de l’argent à un peuple fanatisé et furieux qui insultait à sa mémoire et menaçait de troubler ses funérailles ; il fallut que le convoi funèbre, qui emportait sa dépouille mortelle, se glissât furtivement la nuit dans les rues de Paris, comme s’il cachait un coupable, comme si ce cercueil allait dérober <pb n="p10" xml:id="p10"/>sa place au cimetière. Les prières mêmes pour le repos du martyr, car il mourut martyr du devoir<note place="bottom"><p>Un témoin raconte que le matin même du jour où Molière expira presque sous les yeux du public, madame Molière et le jeune Baron firent tous leurs efforts, en voyant son état de faiblesse pour l’empêcher de monter sur la scène, mais tout fut inutile : un homme, leur dit-il, souffre beaucoup avant de mourir. Je sens bien que je finis, mais il y a là cinquante pauvres ouvriers qui n’ont que leur journée pour vivre, que feront-ils si je ne joue pas. Je me reprocherai d’avoir négligé de leur donner du pain un seul jour, le pouvant faire absolument. Il joua donc, et cet effort lui coûta la vie.</p><p/></note>, les prières mêmes durent être cachées, et c’est un fait prouvé par les registres de l’archevêché qu’il y eut défense à toutes les paroisses du diocèse et aux églises des réguliers de faire aucun service solennel en faveur de celui à qui la France vient d’élever une statue.</p>
         <p>Tel fut le sort de Molière. Là s’arrête sa vie, mais ne s’arrêtent pas les. tribulations. L’histoire des monuments consacrés à sa mémoire est pleine de vicissitudes et de singularités. Ses malheurs continuent en quelque sorte après sa mon, et lorsque les persécutions ne peuvent plus s’attacher à l’homme, elles s’attachent à sa statue.</p>
-        <p>Cette statue ne devait s’élever que bien tard. Mais qu’importe le temps à une gloire immortelle ! le temps, c’est notre juge, il grandit tout ce qu’il ne tue pas. D’abord il se fit un silence de près de cent années. Le peuple alors n’était pas assez instruit pour comprendre ses grands hommes. Il riait aux pièces de Molière, mais sans reconnaissance pour son génie. L’idée ne lui venait pas que le pays pût devoir quelque chose à ce farceur qui, rejeté avec exécration hors de l’Eglise, n’était pour les sept huitièmes de la France qu’un réprouvé. L’anathème de Bossuet pesait de tout son poids sur le comédien, et instruisait le peuple à le mépriser et à le maudire<note place="bottom"><p><quote>« La postérité saura peut-être la fin de ce poète comédien qui en jouant son <hi rend="i">Malade Imaginaire</hi> ou son <hi rend="i">Médecin par Force</hi> reçut la dernière atteinte de la maladie dont il mourut « peu d’heures après, et passa des plaisanteries du théâtre, parmi lesquelles il rendit presque le dernier soupir, au tribunal de celui qui dit : <hi rend="i">malheur à vous qui riez, car vous pleurerez.</hi> » </quote>Le cœur se serre en lisant ces exécrables paroles, et pour l’honneur de l’humanité, on voudrait les effacer des œuvres du grand homme qui eut le malheur de les écrire. Voyez <hi rend="i">Œuvres de Bossuet</hi><hi rend="b"/>, t. 37, p. 545, édition de Lebel.</p></note>. Ce n’était donc pas du peuple que devait sortir la voix qui demande justice ! 11 fallait qu’une autorité éclatante et puissante se portât en avant de la multitude. L’impulsion devait venir d’en haut comme la lumière, et c’est de là qu’elle vint en effet. L’Académie française prit l’initiative. Les temps étaient venus, et en 1769, dans un concours public et solennel elle appela l’éloge de celui qu’elle regrettait de n’avoir pu compter parmi ses membres. Ah ! ce fut un jour glorieux pour le pays que celui où le premier corps littéraire de l’Europe, une assemblée d’hommes également illustres par la vertu et par le génie, après une étude consciencieuse de la vie et des ouvrages de Molière, vint dire à la France : cet homme qu’on abreuva de mépris, cet homme dont on outragea les cendres, nous appelons sur lui la reconnaissance du monde et nous proclamons son éloge. Les conséquences morales de ce noble élan furent immenses. L’intelligence du pays représentée par l’Académie, avait porté son jugement. Elle effaçait l’ingratitude par l’admiration, et l’anathème tombait devant l’apothéose !<pb n="4"/></p>
+        <p>Cette statue ne devait s’élever que bien tard. Mais qu’importe le temps à une gloire immortelle ! le temps, c’est notre juge, il grandit tout ce qu’il ne tue pas. D’abord il se fit un silence de près de cent années. Le peuple alors n’était pas assez instruit pour comprendre ses grands hommes. Il riait aux pièces de Molière, mais sans reconnaissance pour son génie. L’idée ne lui venait pas que le pays pût devoir quelque chose à ce farceur qui, rejeté avec exécration hors de l’Eglise, n’était pour les sept huitièmes de la France qu’un réprouvé. L’anathème de Bossuet pesait de tout son poids sur le comédien, et instruisait le peuple à le mépriser et à le maudire<note place="bottom"><p><quote>« La postérité saura peut-être la fin de ce poète comédien qui en jouant son <hi rend="i">Malade Imaginaire</hi> ou son <hi rend="i">Médecin par Force</hi> reçut la dernière atteinte de la maladie dont il mourut « peu d’heures après, et passa des plaisanteries du théâtre, parmi lesquelles il rendit presque le dernier soupir, au tribunal de celui qui dit : <hi rend="i">malheur à vous qui riez, car vous pleurerez.</hi> »</quote>Le cœur se serre en lisant ces exécrables paroles, et pour l’honneur de l’humanité, on voudrait les effacer des œuvres du grand homme qui eut le malheur de les écrire. Voyez <hi rend="i">Œuvres de Bossuet</hi><hi rend="b"/>, t. 37, p. 545, édition de Lebel.</p></note>. Ce n’était donc pas du peuple que devait sortir la voix qui demande justice ! 11 fallait qu’une autorité éclatante et puissante se portât en avant de la multitude. L’impulsion devait venir d’en haut comme la lumière, et c’est de là qu’elle vint en effet. L’Académie française prit l’initiative. Les temps étaient venus, et en 1769, dans un concours public et solennel elle appela l’éloge de celui qu’elle regrettait de n’avoir pu compter parmi ses membres. Ah ! ce fut un jour glorieux pour le pays que celui où le premier corps littéraire de l’Europe, une assemblée d’hommes également illustres par la vertu et par le génie, après une étude consciencieuse de la vie et des ouvrages de Molière, vint dire à la France : cet homme qu’on abreuva de mépris, cet homme dont on outragea les cendres, nous appelons sur lui la reconnaissance du monde et nous proclamons son éloge. Les conséquences morales de ce noble élan furent immenses. L’intelligence du pays représentée par l’Académie, avait porté son jugement. Elle effaçait l’ingratitude par l’admiration, et l’anathème tombait devant l’apothéose !</p>
+        <pb n="p11" xml:id="p11"/>
         <p>En 1778, l’année même de la mort de Voltaire, l’Académie, continuant son œuvre, plaçait le buste de Molière dans le lieu de ses séances. Plus tard elle inaugura sa statue, et le hasard voulut que la statue de celui qui n’avait pas été jugé digne même d’une prière, s’élevât chrétiennement à côté de la statue de Bossuet.</p>
         <p>En 1779, une maison de la rue de la Tonnellerie fut ornée du buste de Molière. Une inscription indiquait que Molière était né dans cette maison en 1620. C’était une double erreur. Molière est né rue Saint-Honoré, près de la rue de l’Arbre-Sec, le 16 janvier 1622. Le buste et l’inscription existent encore.</p>
         <p>Enfin un autre buste de Molière décore le foyer de la Comédie française.</p>
@@ -84,519 +92,528 @@
         <p>Une seulement mérite d’être citée, par l’opposition qu’elle éprouva et qui caractérise l’époque. Des artistes et des gens de lettres avaient eu la pensée d’élever la statue de Molière sur la place de l’Odéon. L’un d’eux, habile sculpteur, M. Gatteaux proposait d’exécuter le modèle gratuitement. Ce projet fut soumis au Ministre de l’intérieur qui refusa son approbation. "Les places publiques de Paris, étant exclusivement consacrées aux monuments érigés en l’honneur des « souverains<note place="bottom">Consultez l’excellent rapport sur la fontaine de Molière, fait au conseil municipal de Paris dans sa séance du 11 juin 1839, par M. Boulay de la Meurthe.</note>. » Ce fut sa réponse, et cette réponse est une date : on était alors en dix-huit cent vingt-neuf.</p>
         <p>Enfin le jour de la justice approchait. Le conseil municipal de Paris venait de voler la construction d’une fontaine à l’angle de la rue Traversière<note place="bottom">Aujourd’hui rue Fontaine-Molière.</note> et de la rue Richelieu. Personne n’avait songé à Molière, lorsqu’un artiste dramatique amoureux de son art, comme sont tous les artistes supérieurs, M. Regnier, s’avisa de remarquer dans une lettre adressée à M. de Rambuteau, préfet de Paris, que la fontaine, dont on venait de décider l’érection, se trouvait placée à la proximité du théâtre français et précisément en face de la maison où Molière avait rendu le dernier soupir. M. Regnier, fort de cette double circonstance, terminait en demandant que le monument projeté fût consacré à la mémoire de celui qui fut le père de la comédie française.</p>
         <p>Celle lettre écrite avec autant de modestie que de convenance<note place="bottom">Voir la note A a la fin de la brochure.</note>, trouva partout de la sympathie. M. de Rambuteau prit fait et cause et devint l’avocat de la ville de Paris, auprès du conseil municipal un peu confus de son inadvertance, mais qui, on doit le dire à sa louange, devint le promoteur le plus zélé du projet qu’il n’avait pas conçu. Et voilà cependant comme les choses vont en France. Si la maison où mourut Molière ne s’était trouvée en face du carrefour où la Ville voulait reconstruire une fontaine, et si un acteur de la comédie française n’avait fait cette remarque, Molière serait encore aujourd’hui sans monument.</p>
-        <p>L’histoire des hommages rendus à Molière se partage en deux époques bien tranchées.<pb n="5"/></p>
-        <p>L’époque académique et l’époque populaire : L’une conduisait à l’autre. L’époque populaire commence seulement aujourd’hui. Elle s’est manifestée par une souscription nationale, à laquelle tous les états, toutes les classes de la société, se sont empressés de concourir. Les souscriptions de ce genre sont des symptômes certains d’intelligence : elles disent qu’une idée, ou qu’un sentiment vient de pénétrer dans la foule : elles sont grandes et puissantes, parce qu’elles proclament la reconnaissance d’un peuple.</p>
+        <p>L’histoire des hommages rendus à Molière se partage en deux époques bien <pb n="p12" xml:id="p12"/>tranchées. L’époque académique et l’époque populaire : L’une conduisait à l’autre. L’époque populaire commence seulement aujourd’hui. Elle s’est manifestée par une souscription nationale, à laquelle tous les états, toutes les classes de la société, se sont empressés de concourir. Les souscriptions de ce genre sont des symptômes certains d’intelligence : elles disent qu’une idée, ou qu’un sentiment vient de pénétrer dans la foule : elles sont grandes et puissantes, parce qu’elles proclament la reconnaissance d’un peuple.</p>
         <p>Certes l’Académie française, en voyant cette manifestation spontanée d’une noble pensée, dut être fière de son ouvrage, car c’était bien là son ouvrage : elle avait donné l’impulsion. Et quelle joie de reconnaître dans le pays tout entier cette intelligence du bon goût, cette sympathique admiration qu’elle avait eu l’honneur d’exprimer la première.</p>
         <p>Le monument de Molière est donc un monument tout national<note place="bottom">Voir sur l’architecture du monument la note B à la fin de la brochure.</note>. Il s’élève à frais communs ; c’est sa gloire et la nôtre. Nous y avons tous contribué, et la ville de Paris, et le Roi, et le peuple, et les académies, et les députés, et les membres du conseil municipal, et les hommes de goût, et enfin les artistes de tous les théâtres. Parmi ces derniers, mademoiselle Mars s’est surtout montrée généreuse : c’était son droit. Molière lui devait trop et elle devait trop à Molière, pour ne pas l’aimer doublement. Comment se serait-elle montrée ingrate, cette dont le naturel, la grâce, l’intelligence exquise, étaient devenus comme la seconde couronne du poète. Les interprètes du génie sont presque aussi rares que le génie même, et ici l’interprète se montra toujours digne de l’œuvre. N’était-ce donc pas devoir beaucoup à Molière ?</p>
         <p>C’est une femme aussi qui a remporté la palme offerte par l’Académie française au meilleur poème sur le monument dont nous venons d’esquisser l’histoire. Cette muse charmante, il faut le dire, n’a chanté ni le monument, ni la statue, comme semblait le demander le programme, elle a fait mieux, elle a chanté Molière ; elle a dit en vers harmonieux dans un rythme varié et puissant les illusions, les souffrances, les talents de ce rare génie ; la passion cruelle qui fit le tourment de sa vie, et le charme de ses beaux ouvrages ; en un mot, elle a compris le poète, elle a peint sou âme, elle nous a donné l’homme tout entier. Après cette belle poésie, restait encore à faire l’histoire du monument, à justifier le programme académique. L’aimable lauréat nous a appelé à cette œuvre, péristyle modeste, qu’elle veut bien placer à la tête de son ouvrage, et que les lecteurs avides de beaux vers ne sauraient traverser trop rapidement.</p>
-        <byline>
-          <hi rend="sc">L. Aimé Martin.</hi>
-          <pb n="7"/>
-        </byline>
+        <byline><hi rend="sc">L. Aimé Martin.</hi></byline>
       </div>
       <div>
-        <head>Le monument de Molière,
-<lb/>poème</head>
-        <argument><p>Couronné par l’Académie Française.</p></argument>
+        <head>Le monument de Molière,<lb/>poème</head>
+        <argument>
+          <p>Couronné par l’Académie Française.</p>
+        </argument>
         <epigraph>
-          <p>Molière......C’est mon homme.</p>
-          <p>La Fontaine. — <hi rend="i">(Lettre à M, de Maucroix.)</hi></p>
+          <p>Molière…… C’est mon homme.</p>
+          <p>La Fontaine. — <hi rend="i">(Lettre à M. de Maucroix.)</hi></p>
         </epigraph>
         <div>
+          <pb n="15" xml:id="p15"/>
           <head>I.</head>
           <label rend="center"/>
           <l>Aux dernières lueurs d’un jour froid qui pâlit<note place="bottom">Molière est mort le 17 février vers six heures du soir en 1673, âgé de 51 ans. A quatre heures, il avait joué dans le <hi rend="i">Malade Imaginaire.</hi> Après la représentation, se trouvant fort mal, il rentra dans sa maison, rue de Richelieu (qui porte aujourd’hui le n. 34). Il expira au bout de quelques heures entre les bras de deux sœurs de Charité qui quêtaient pour les pauvres et auxquelles il donnait l’hospitalité chez lui.</note>,</l>
-          <l>Deux sœurs de charité se penchaient près d’un lit,</l>
-          <l>Et de leurs soins touchants la douceur infinie</l>
-          <l/>
-          <l>D’un poète mourant consolait l’agonie.</l>
-          <l>Un vif éclair brillait aux yeux du moribond ;</l>
-          <l>Sa bouche s’agitait, et sur son large front,</l>
-          <l>Des images, tantôt riantes, tantôt sombres,</l>
-          <l>S’échappant de son cœur, glissaient comme des ombres.</l>
-          <l>Parfois se soulevant, il appelait tout bas</l>
-          <l>Quelqu’un qu’il attendait et qui n’arrivait pas :</l>
-          <l>Et seules l’entourant à cette heure dernière,</l>
-          <l>Les deux sœurs près de lui demeuraient en prière.<pb n="8"/></l>
-          <l/>
-          <l>Autour du lit funèbre, on voyait, dispersés,</l>
-          <l>Des livres, des papiers, des travaux commencés,</l>
-          <l>Et sur les murs pendaient, parmi de vieux volumes,</l>
-          <l>Des attributs bouffons et d’étranges costumes ;</l>
-          <l>Le mourant, l’œil fixé sur ces objets divers,</l>
-          <l>Semblait se raminer ; il murmurait des vers.</l>
-          <l>Puis, se ressouvenant que son heure était proche,</l>
-          <l>Il écoutait des sœurs quelque pieux reproche,</l>
-          <l>Répétait leur prière, et, leur disant adieu,</l>
-          <l>Tranquille il élevait sa belle âme vers Dieu !</l>
-          <l>Bientôt son œil s’éteint, son visage est plus pâle,</l>
-          <l>Les accents de sa voix sont brisés par le râle,</l>
-          <l>Un dernier sentiment sur son front vient errer :</l>
-          <l>Il écoute, il sourit !..</l>
-          <l>Il venait d’expirer,</l>
-          <l>Lorsqu’au pied de sa couche une femme éperdue</l>
-          <l>Accourt, se précipite, et, tombant étendue</l>
-          <l>Près de ce corps sans vie, elle fait retentir</l>
-          <l>Des sanglots où se mêle un tardif repentir ;</l>
-          <l>Puis, à côté des sœurs se mettant en prière,</l>
-          <l>Elle pleure à genoux celui qui fut Molière !…</l>
+          <lg>
+            <l>Deux sœurs de charité se penchaient près d’un lit,</l>
+            <l>Et de leurs soins touchants la douceur infinie</l>
+            <l>D’un poète mourant consolait l’agonie.</l>
+            <l>Un vif éclair brillait aux yeux du moribond ;</l>
+            <l>Sa bouche s’agitait, et sur son large front,</l>
+            <l>Des images, tantôt riantes, tantôt sombres,</l>
+            <l>S’échappant de son cœur, glissaient comme des ombres.</l>
+            <l>Parfois se soulevant, il appelait tout bas</l>
+            <l>Quelqu’un qu’il attendait et qui n’arrivait pas :</l>
+            <l>Et seules l’entourant à cette heure dernière,</l>
+            <l>Les deux sœurs près de lui demeuraient en prière.</l>
+          </lg>
+          <pb n="16" xml:id="p16"/>
+          <lg>
+            <l>Autour du lit funèbre, on voyait, dispersés,</l>
+            <l>Des livres, des papiers, des travaux commencés,</l>
+            <l>Et sur les murs pendaient, parmi de vieux volumes,</l>
+            <l>Des attributs bouffons et d’étranges costumes ;</l>
+            <l>Le mourant, l’œil fixé sur ces objets divers,</l>
+            <l>Semblait se raminer ; il murmurait des vers.</l>
+            <l>Puis, se ressouvenant que son heure était proche,</l>
+            <l>Il écoutait des sœurs quelque pieux reproche,</l>
+            <l>Répétait leur prière, et, leur disant adieu,</l>
+            <l>Tranquille il élevait sa belle âme vers Dieu !</l>
+          </lg>
+          <lg>
+            <l>Bientôt son œil s’éteint, son visage est plus pâle,</l>
+            <l>Les accents de sa voix sont brisés par le râle,</l>
+            <l>Un dernier sentiment sur son front vient errer :</l>
+            <l>Il écoute, il sourit !…</l>
+            <l>Il venait d’expirer,</l>
+            <l>Lorsqu’au pied de sa couche une femme éperdue</l>
+            <l>Accourt, se précipite, et, tombant étendue</l>
+            <l>Près de ce corps sans vie, elle fait retentir</l>
+            <l>Des sanglots où se mêle un tardif repentir ;</l>
+            <l>Puis, à côté des sœurs se mettant en prière,</l>
+            <l>Elle pleure à genoux celui qui fut Molière !…</l>
+          </lg>
         </div>
         <div>
           <head>II.</head>
-          <l>Molière ! noble enfant du peuple de Paris,</l>
-          <l>De ce siècle si grand un des plus grands esprits,</l>
-          <l>Né de parents obscurs, dans les bruits de la Halle<note place="bottom">Les parents de Molière avaient leur boutique de tapissier sous les piliers des Halles, mate Molière est né rue Saint-Honoré.</note>,</l>
-          <l>Il a dû son bon sens, sa verve originale,</l>
-          <l>A ce contact du peuple, à ces libres instincts,</l>
-          <l>Qui, dans un plus haut rang, trop souvent sont éteints ;</l>
-          <l>D’un esprit sain et fort, d’un cœur plein de droiture,</l>
-          <l>Nul préjugé d’abord n’a faussé sa nature,<pb n="9"/></l>
-          <p/>
-          <l>A l’étude en naissant n’étant point asservi,</l>
-          <l>C’est son propre génie, enfant, qu’il a suivi.</l>
-          <l>Mais bientôt un désir inconnu le pénètre :</l>
-          <l>Tout ce que l’homme apprend, il voudrait le connaître,</l>
-          <l>Il doute de lui-même et brûle de savoir</l>
-          <l>Comment d’autres ont vu ce qu’il croit entrevoir.</l>
-          <l>Alors à quatorze ans il vient demander place</l>
-          <l>Sur les bancs du collège ; il étonne, il dépasse</l>
-          <l>Tous ses jeunes rivaux. Là, de l’antiquité</l>
-          <l>Il apprend à goûter la sévère beauté ;</l>
-          <l>Il parle, dans ce monde où l’étude l’exile,</l>
-          <l>La langue de Platon et celle de Virgile ;</l>
-          <l>Il interroge et suit, comme ses précurseurs,</l>
-          <l>Les poètes hardis et les profonds penseurs.</l>
-          <l>Puis, lorsque son esprit errant de livre en livre,</l>
-          <l>Manque enfin de pâture… alors il songe à vivre,</l>
-          <l>Et la vie apparaît à son cœur de vingt ans</l>
-          <l>Belle, riche, éternelle : il est maître du temps !…</l>
-          <p/>
-          <l>Que fera-t-il de sa jeunesse ?</l>
-          <l>Fleuve, dont l’onde enchanteresse</l>
-          <l>Semble se dérouler sans fin !</l>
-          <l>Trésors d’amour et de science,</l>
-          <l>Plaisirs, dont l’inexpérience</l>
-          <l>Nous compose un philtre divin !</l>
-          <l>Séduit par tout ce qu’il espère,</l>
-          <l>Dans l’humble sillon de son père</l>
-          <l>Pourra-t-il arrêter ses pas ?</l>
-          <l>Non ! son vol est tracé d’avance :</l>
-          <l>Le génie est une puissance</l>
-          <l>Que les hommes n’enchaînent pas !…<pb n="10"/></l>
-          <p/>
-          <l>A son ardente inquiétude</l>
-          <l>Que dompta si longtemps l’étude,</l>
-          <l>Il faut enfin un élément ;</l>
-          <l>A cette âme, où l’instinct l’emporte,</l>
-          <l>Il faut la vie errante et forte,</l>
-          <l>La passion, le mouvement !</l>
-          <l>L’art qui l’attire dans ses voies</l>
-          <l>Lui montre de faciles joies,</l>
-          <l>Folles amours, jours sans lien,</l>
-          <l>Succès, revers, pauvreté même,</l>
-          <l>Et, libre comme le Bohême,</l>
-          <l>Il part obscur comédien !</l>
-          <p/>
-          <l>De province en province il entraîne joyeuse</l>
-          <l>La troupe qu’il attache à sa jeunesse heureuse ;</l>
-          <l>Pour des cœurs de vingt ans quel plus riant destin ?</l>
-          <l>D’intrigues, de hasards, quel fertile butin !</l>
-          <l>Qu’ils sont gais ces labeurs si pleins d’insouciance</l>
-          <l>Que le public charmé chaque soir récompense !</l>
-          <l>Au riche en l’égayant on arrache un peu d’or,</l>
-          <l>Et le pauvre a sa part du modeste trésor.</l>
-          <p/>
-          <l>Du théâtre bouffon la gaîté familière</l>
-          <l>D’abord a défrayé la verve de Molière.</l>
-          <l>Son génie incertain, aux farces se pliant,</l>
-          <l>Se forme sous le masque et s’essaie en riant ;</l>
-          <l>Mais bientôt ce grand cœur dédaigne un art futile ;</l>
-          <l>Aux hommes qu’il amuse il voudrait être utile ;</l>
-          <l>En lui deux sentiments profonds ont éclaté.</l>
-          <l>L’amour vrai de son art et de l’humanité !</l>
-          <l>Il fera parmi nous monter l’art dramatique,</l>
-          <l>Plus haut que ne l’ont vu Home et la Grèce antique,</l>
-          <l>Et de l’humanité courageux défenseur,</l>
-          <l>Des vices de son siècle il sera le censeur.</l>
-          <l>Longtemps ce grand dessein a mûri dans sa tête ;</l>
-          <l>Rien n’échappe au penseur, tout émeut le poète ;<pb n="11"/></l>
-          <l>Pour les combattre un jour son âme a médité</l>
-          <l>Les fatales erreurs de la société :</l>
-          <p/>
-          <l>Il voit le faux Dévot, enseignant l’imposture,</l>
-          <l>Au nom de Dieu prêcher une morale impure ;</l>
-          <l>Le Philosophe, an lieu d’éclairer le savoir,</l>
-          <l>En faire un puits obscur où l’on ne peut rien voir ;</l>
-          <l>Courtisan ridicule et chargé de bassesse,</l>
-          <l>Il voit le Gentilhomme avilir la noblesse.</l>
-          <l>Enfin, en descendant des vices aux travers,</l>
-          <l>Tous les faux sentiments sont par lui découverts :</l>
-          <l>Le Bourgeois, dédaignant les vertus paternelles,</l>
-          <l>Cherche parmi les grands de dangereux modèles,</l>
-          <l>Le Valet qui naquit probe, sincère et bon,</l>
-          <l>Veut imiter son maître et devient un fripon ;</l>
-          <l>Le Médecin, gonflé d’orgueil et d’ignorance,</l>
-          <l>Assassine les gens au nom de la science ;</l>
-          <l>Dans sa prose ou ses vers un mauvais Écrivain</l>
-          <l>Substitue à la langue un jargon fade et vain ;</l>
-          <l>Et la Femme, suivant de pédantesques traces,</l>
-          <l>Immole aux faux savoir son esprit et ses grâces !</l>
-          <p/>
-          <l>Des fourbes et des sots le règne est respecté !</l>
-          <l>Pourra-t-il, détrônant leur fausse royauté,</l>
-          <l>Proclamer la morale et le bon goût pour règle ?</l>
-          <p/>
-          <l>Ah ! cet essor nouveau qu’embrasse son œil d’aigle,</l>
-          <l>Ce n’est plus un vain jeu de baladin, d’acteur,</l>
-          <l>C’est l’art du moraliste et du législateur.</l>
-          <l>En sévères leçons changeant la comédie,</l>
-          <l>Comment faire accepter la vérité hardie ?</l>
-          <l>Sans fortune, sans nom, sans faveur, sans appui,</l>
-          <l>Que faire du démon qu’il sent grandir en lui ?<pb n="12"/></l>
+          <lg>
+            <l>Molière ! noble enfant du peuple de Paris,</l>
+            <l>De ce siècle si grand un des plus grands esprits,</l>
+            <l>Né de parents obscurs, dans les bruits de la Halle<note place="bottom">Les parents de Molière avaient leur boutique de tapissier sous les piliers des Halles, mate Molière est né rue Saint-Honoré.</note>,</l>
+            <l>Il a dû son bon sens, sa verve originale,</l>
+            <l>A ce contact du peuple, à ces libres instincts,</l>
+            <l>Qui, dans un plus haut rang, trop souvent sont éteints ;</l>
+            <l>D’un esprit sain et fort, d’un cœur plein de droiture,</l>
+            <l>Nul préjugé d’abord n’a faussé sa nature,</l>
+            <pb n="17" xml:id="p17"/>
+            <l>À l’étude en naissant n’étant point asservi,</l>
+            <l>C’est son propre génie, enfant, qu’il a suivi.</l>
+            <l>Mais bientôt un désir inconnu le pénètre :</l>
+            <l>Tout ce que l’homme apprend, il voudrait le connaître,</l>
+            <l>Il doute de lui-même et brûle de savoir</l>
+            <l>Comment d’autres ont vu ce qu’il croit entrevoir.</l>
+            <l>Alors à quatorze ans il vient demander place</l>
+            <l>Sur les bancs du collège ; il étonne, il dépasse</l>
+            <l>Tous ses jeunes rivaux. Là, de l’antiquité</l>
+            <l>Il apprend à goûter la sévère beauté ;</l>
+            <l>Il parle, dans ce monde où l’étude l’exile,</l>
+            <l>La langue de Platon et celle de Virgile ;</l>
+            <l>Il interroge et suit, comme ses précurseurs,</l>
+            <l>Les poètes hardis et les profonds penseurs.</l>
+            <l>Puis, lorsque son esprit errant de livre en livre,</l>
+            <l>Manque enfin de pâture… alors il songe à vivre,</l>
+            <l>Et la vie apparaît à son cœur de vingt ans</l>
+            <l>Belle, riche, éternelle : il est maître du temps !…</l>
+          </lg>
+          <lg>
+            <l>Que fera-t-il de sa jeunesse ?</l>
+            <l>Fleuve, dont l’onde enchanteresse</l>
+            <l>Semble se dérouler sans fin !</l>
+            <l>Trésors d’amour et de science,</l>
+            <l>Plaisirs, dont l’inexpérience</l>
+            <l>Nous compose un philtre divin !</l>
+            <l/>
+            <l>Séduit par tout ce qu’il espère,</l>
+            <l>Dans l’humble sillon de son père</l>
+            <l>Pourra-t-il arrêter ses pas ?</l>
+            <l>Non ! son vol est tracé d’avance :</l>
+            <l>Le génie est une puissance</l>
+            <l>Que les hommes n’enchaînent pas !…</l>
+            <l/>
+            <l>À son ardente inquiétude</l>
+            <l>Que dompta si longtemps l’étude,</l>
+            <pb n="18" xml:id="p18"/>
+            <l>Il faut enfin un élément ;</l>
+            <l>À cette âme, où l’instinct l’emporte,</l>
+            <l>Il faut la vie errante et forte,</l>
+            <l>La passion, le mouvement !</l>
+            <l/>
+            <l>L’art qui l’attire dans ses voies</l>
+            <l>Lui montre de faciles joies,</l>
+            <l>Folles amours, jours sans lien,</l>
+            <l>Succès, revers, pauvreté même,</l>
+            <l>Et, libre comme le Bohême,</l>
+            <l>Il part obscur comédien !</l>
+          </lg>
+          <lg>
+            <l>De province en province il entraîne joyeuse</l>
+            <l>La troupe qu’il attache à sa jeunesse heureuse ;</l>
+            <l>Pour des cœurs de vingt ans quel plus riant destin ?</l>
+            <l>D’intrigues, de hasards, quel fertile butin !</l>
+            <l>Qu’ils sont gais ces labeurs si pleins d’insouciance</l>
+            <l>Que le public charmé chaque soir récompense !</l>
+            <l>Au riche en l’égayant on arrache un peu d’or,</l>
+            <l>Et le pauvre a sa part du modeste trésor.</l>
+          </lg>
+          <lg>
+            <l>Du théâtre bouffon la gaîté familière</l>
+            <l>D’abord a défrayé la verve de Molière.</l>
+            <l>Son génie incertain, aux farces se pliant,</l>
+            <l>Se forme sous le masque et s’essaie en riant ;</l>
+            <l>Mais bientôt ce grand cœur dédaigne un art futile ;</l>
+            <l>Aux hommes qu’il amuse il voudrait être utile ;</l>
+            <l>En lui deux sentiments profonds ont éclaté.</l>
+            <l>L’amour vrai de son art et de l’humanité !</l>
+            <l>Il fera parmi nous monter l’art dramatique,</l>
+            <l>Plus haut que ne l’ont vu Home et la Grèce antique,</l>
+            <l>Et de l’humanité courageux défenseur,</l>
+            <l>Des vices de son siècle il sera le censeur.</l>
+            <l>Longtemps ce grand dessein a mûri dans sa tête ;</l>
+            <l>Rien n’échappe au penseur, tout émeut le poète ;</l>
+            <pb n="19" xml:id="p19"/>
+            <l>Pour les combattre un jour son âme a médité</l>
+            <l>Les fatales erreurs de la société :</l>
+          </lg>
+          <lg>
+            <l>Il voit le faux Dévot, enseignant l’imposture,</l>
+            <l>Au nom de Dieu prêcher une morale impure ;</l>
+            <l>Le Philosophe, an lieu d’éclairer le savoir,</l>
+            <l>En faire un puits obscur où l’on ne peut rien voir ;</l>
+            <l>Courtisan ridicule et chargé de bassesse,</l>
+            <l>Il voit le Gentilhomme avilir la noblesse.</l>
+            <l>Enfin, en descendant des vices aux travers,</l>
+            <l>Tous les faux sentiments sont par lui découverts :</l>
+            <l>Le Bourgeois, dédaignant les vertus paternelles,</l>
+            <l>Cherche parmi les grands de dangereux modèles,</l>
+            <l>Le Valet qui naquit probe, sincère et bon,</l>
+            <l>Veut imiter son maître et devient un fripon ;</l>
+            <l>Le Médecin, gonflé d’orgueil et d’ignorance,</l>
+            <l>Assassine les gens au nom de la science ;</l>
+            <l>Dans sa prose ou ses vers un mauvais Écrivain</l>
+            <l>Substitue à la langue un jargon fade et vain ;</l>
+            <l>Et la Femme, suivant de pédantesques traces,</l>
+            <l>Immole aux faux savoir son esprit et ses grâces !</l>
+          </lg>
+          <lg>
+            <l>Des fourbes et des sots le règne est respecté !</l>
+            <l>Pourra-t-il, détrônant leur fausse royauté,</l>
+            <l>Proclamer la morale et le bon goût pour règle ?</l>
+          </lg>
+          <lg>
+            <l>Ah ! cet essor nouveau qu’embrasse son œil d’aigle,</l>
+            <l>Ce n’est plus un vain jeu de baladin, d’acteur,</l>
+            <l>C’est l’art du moraliste et du législateur.</l>
+            <l>En sévères leçons changeant la comédie,</l>
+            <l>Comment faire accepter la vérité hardie ?</l>
+            <l>Sans fortune, sans nom, sans faveur, sans appui,</l>
+            <l>Que faire du démon qu’il sent grandir en lui ?</l>
+          </lg>
         </div>
         <div>
+          <pb n="20" xml:id="p20"/>
           <head>III.</head>
-          <l>Alors, par droit divin, les princes de la terre</l>
-          <l>Avaient aux yeux du peuple un sacré caractère ;</l>
-          <l>La volonté d’un seul était l’unique loi ;</l>
-          <l>Tout, jusqu’au goût public, suivait le goût du roi.</l>
-          <p/>
-          <p>C’est ce maître absolu que pour auxiliaire</p>
-          <l>Dans l’œuvre qu’il médite ose espérer Molière.</l>
-          <l>Louis quatorze avait des instincts généreux,</l>
-          <l>Pour réformer les mœurs il s’appuira sur eux.</l>
-          <l>Dans le but qu’il poursuit dès lors rien ne l’arrête :</l>
-          <l>Il enchaîne l’orgueil dans son cœur de poète,</l>
-          <l>Humblement de 6on père il accepte l’emploi,</l>
-          <l>Et Molière à la cour est tapissier du roi !</l>
-          <p/>
-          <l>Il s’insinue ainsi ; sous ce modeste titre,</l>
-          <l>Des plaisirs de Versaille il est bientôt l’arbitre.</l>
-          <l>Contre le genre faux qui domine partout</l>
-          <l>Du monarque d’abord il excite le goût.</l>
-          <l>Puis, lorsque, secondé par une troupe habile</l>
-          <l>Il a fait applaudir et sa verve et son style,</l>
-          <l>Audacieux et franc, comme les novateurs,</l>
-          <l>Il ose de son art aborder les hauteurs.</l>
-          <l>Sûr du concours du roi que son génie amuse,</l>
-          <l>Il choisit hardiment la Vérité pour muse.</l>
-          <l>On le voit, affrontant leurs dédains méprisants,</l>
-          <l>Devant toute la cour jouer les courtisans.</l>
-          <l>Frappé de ce tableau, pour lui si véridique,</l>
-          <l>Louis quatorze absout le profond Satyrique ;</l>
-          <l>Bientôt même à Molière il fournit des portraits.</l>
-          <l>Dont avec lui parfois il esquisse les traits.<pb n="13"/></l>
-          <p/>
-          <l>Le voyez-vous caché dans la chambre royale,</l>
-          <l>A l’écart, épiant la foule qui s’étale ?</l>
-          <l>Il suit les courtisans de son regard moqueur,</l>
-          <l>Au travers de leur masque il pénètre leur cœur ;</l>
-          <l>Observateur discret il devine en silence</l>
-          <l>Quelle servilité cache leur insolence ;</l>
-          <l>Puis il rit de trouver parfois sur son chemin</l>
-          <l>Leur impuissant mépris qu’il châtira demain.</l>
-          <p/>
-          <l>C’est ainsi qu’il créa, protégé par le trône,</l>
-          <l>Ces chefs-d’œuvre hardis dont notre esprit s’étonne ;</l>
-          <l>Après les grands seigneurs, il raille tour à tour,</l>
-          <l>Rambouillet, son Cenacle et les Rimeurs de cour.</l>
-          <l>Enfin, comme Pascal, dans <hi rend="i">Tartufe</hi><hi rend="b"/>, il flagelle</l>
-          <l>D’hypocrites puissants l’audace et le faux zèle,</l>
-          <l>Et, par un noble élan qu’on tente d’étouffer,</l>
-          <l>Le roi cède au poète et le fait triompher !</l>
-          <p/>
-          <l>Il triomphe !.. à sa gloire il a plié les âmes ;</l>
-          <l>Mais que d’inimitiés, que de haineuses trames,</l>
-          <l>Contre ce grand génie alors on voit s’ourdir !</l>
-          <l>Ceux qui devant le roi, forcés de l’applaudir,</l>
-          <l>N’osent pas à la cour montrer leur rage hostile,</l>
-          <l>Esclaves révoltés, l’insultent à la ville ;</l>
-          <l>Les poètes sifflés et les mauvais acteurs,</l>
-          <l>Unis aux courtisans, se font ses détracteurs ;</l>
-          <l>Non contents d’outrager et de nier sa gloire,</l>
-          <l>Ils forgent sur ses mœurs une impudique histoire<note place="bottom">On l’accusa d’avoir épousé sa propre fille. Il dédaigna toujours de répondre à cette accusation. L'acte de mariage de Molière, récemment découvert par Mr. Beffara, prouve que Molière avait épousé la sœur et non la fille de Magdelaine Béjart avec laquelle on suppose qu’il avait eut des relations.</note> ;</l>
-          <l>Au cœur il est frappé par ceux qu’il persiflait</l>
-          <l>Avec cette arme occulte et lâche, le pamphlet…<pb n="14"/></l>
-          <p/>
-          <l><milestone type="commentStart" corresp="#moliere-mange-avec-roi"/>Mais, le couvrant toujours de son pouvoir suprême,</l>
-          <l>Louis est le vengeur du poète qu’il aime.<milestone type="commentEnd"/></l>
-          <l><milestone type="anecdoteStart" xml:id="moliere-mange-avec-roi"/>A la table royale il le convie un jour ;<milestone type="anecdoteEnd"/></l>
-          <l><milestone type="commentStart" corresp="#moliere-mange-avec-roi"/>Il fait plus : à Versaille, entouré de sa cour,</l>
-          <l>Avec cette princesse, alors heureuse et belle</l>
-          <l>Qu’un cri de Bossuet devait rendre immortelle<note place="bottom">Louis XIV teint sur les fonts baptismaux le premier enfant de Molière, avec Henriette d’Angleterre. Cette enfant qui portait le nom de Louis ne vécut pas.</note>,</l>
-          <l>De Molière outragé, que son grand cœur défend,</l>
-          <l>Sur les fonts de baptême il veut tenir l’enfant,</l>
-          <l>Et le fils d’un acteur, malgré l’intolérance,</l>
-          <l>A reçu devant Dieu le nom du roi de France.<milestone type="commentEnd"/></l>
+          <lg>
+            <l>Alors, par droit divin, les princes de la terre</l>
+            <l>Avaient aux yeux du peuple un sacré caractère ;</l>
+            <l>La volonté d’un seul était l’unique loi ;</l>
+            <l>Tout, jusqu’au goût public, suivait le goût du roi.</l>
+          </lg>
+          <lg>
+            <l>C’est ce maître absolu que pour auxiliaire</l>
+            <l>Dans l’œuvre qu’il médite ose espérer Molière.</l>
+            <l>Louis quatorze avait des instincts généreux,</l>
+            <l>Pour réformer les mœurs il s’appuira sur eux.</l>
+            <l>Dans le but qu’il poursuit dès lors rien ne l’arrête :</l>
+            <l>Il enchaîne l’orgueil dans son cœur de poète,</l>
+            <l>Humblement de 6on père il accepte l’emploi,</l>
+            <l>Et Molière à la cour est tapissier du roi !</l>
+          </lg>
+          <lg>
+            <l>Il s’insinue ainsi ; sous ce modeste titre,</l>
+            <l>Des plaisirs de Versaille il est bientôt l’arbitre.</l>
+            <l>Contre le genre faux qui domine partout</l>
+            <l>Du monarque d’abord il excite le goût.</l>
+            <l>Puis, lorsque, secondé par une troupe habile</l>
+            <l>Il a fait applaudir et sa verve et son style,</l>
+            <l>Audacieux et franc, comme les novateurs,</l>
+            <l>Il ose de son art aborder les hauteurs.</l>
+            <l>Sûr du concours du roi que son génie amuse,</l>
+            <l>Il choisit hardiment la Vérité pour muse.</l>
+            <l>On le voit, affrontant leurs dédains méprisants,</l>
+            <l>Devant toute la cour jouer les courtisans.</l>
+            <l>Frappé de ce tableau, pour lui si véridique,</l>
+            <l>Louis quatorze absout le profond Satyrique ;</l>
+            <l>Bientôt même à Molière il fournit des portraits.</l>
+            <l>Dont avec lui parfois il esquisse les traits.</l>
+          </lg>
+          <lg>
+            <l>Le voyez-vous caché dans la chambre royale,</l>
+            <l>A l’écart, épiant la foule qui s’étale ?</l>
+            <l>Il suit les courtisans de son regard moqueur,</l>
+            <l>Au travers de leur masque il pénètre leur cœur ;</l>
+            <pb n="21" xml:id="p21"/>
+            <l>Observateur discret il devine en silence</l>
+            <l>Quelle servilité cache leur insolence ;</l>
+            <l>Puis il rit de trouver parfois sur son chemin</l>
+            <l>Leur impuissant mépris qu’il châtira demain.</l>
+          </lg>
+          <lg>
+            <l>C’est ainsi qu’il créa, protégé par le trône,</l>
+            <l>Ces chefs-d’œuvre hardis dont notre esprit s’étonne ;</l>
+            <l>Après les grands seigneurs, il raille tour à tour,</l>
+            <l>Rambouillet, son Cenacle et les Rimeurs de cour.</l>
+            <l>Enfin, comme Pascal, dans <hi rend="i">Tartufe</hi><hi rend="b"/>, il flagelle</l>
+            <l>D’hypocrites puissants l’audace et le faux zèle,</l>
+            <l>Et, par un noble élan qu’on tente d’étouffer,</l>
+            <l>Le roi cède au poète et le fait triompher !</l>
+          </lg>
+          <lg>
+            <l>Il triomphe !… à sa gloire il a plié les âmes ;</l>
+            <l>Mais que d’inimitiés, que de haineuses trames,</l>
+            <l>Contre ce grand génie alors on voit s’ourdir !</l>
+            <l>Ceux qui devant le roi, forcés de l’applaudir,</l>
+            <l>N’osent pas à la cour montrer leur rage hostile,</l>
+            <l>Esclaves révoltés, l’insultent à la ville ;</l>
+            <l>Les poètes sifflés et les mauvais acteurs,</l>
+            <l>Unis aux courtisans, se font ses détracteurs ;</l>
+            <l>Non contents d’outrager et de nier sa gloire,</l>
+            <l>Ils forgent sur ses mœurs une impudique histoire<note place="bottom">On l’accusa d’avoir épousé sa propre fille. Il dédaigna toujours de répondre à cette accusation. L'acte de mariage de Molière, récemment découvert par Mr. Beffara, prouve que Molière avait épousé la sœur et non la fille de Magdelaine Béjart avec laquelle on suppose qu’il avait eut des relations.</note> ;</l>
+            <l>Au cœur il est frappé par ceux qu’il persiflait</l>
+            <l>Avec cette arme occulte et lâche, le pamphlet…</l>
+          </lg>
+          <lg>
+            <l><milestone type="commentStart" corresp="#moliere-mange-avec-roi"/>Mais, le couvrant toujours de son pouvoir suprême,</l>
+            <l>Louis est le vengeur du poète qu’il aime.<milestone type="commentEnd"/></l>
+            <l><milestone type="anecdoteStart" xml:id="moliere-mange-avec-roi"/>A la table royale il le convie un jour ;<milestone type="anecdoteEnd"/></l>
+            <l><milestone type="commentStart" corresp="#moliere-mange-avec-roi"/>Il fait plus : à Versaille, entouré de sa cour,</l>
+            <pb n="22" xml:id="p22"/>
+            <l>Avec cette princesse, alors heureuse et belle</l>
+            <l>Qu’un cri de Bossuet devait rendre immortelle<note place="bottom">Louis XIV teint sur les fonts baptismaux le premier enfant de Molière, avec Henriette d’Angleterre. Cette enfant qui portait le nom de Louis ne vécut pas.</note>,</l>
+            <l>De Molière outragé, que son grand cœur défend,</l>
+            <l>Sur les fonts de baptême il veut tenir l’enfant,</l>
+            <l>Et le fils d’un acteur, malgré l’intolérance,</l>
+            <l>A reçu devant Dieu le nom du roi de France.<milestone type="commentEnd"/></l>
+          </lg>
         </div>
         <div>
           <head>IV.</head>
-          <l>Pourtant, toujours en proie à ce conflit brûlant</l>
-          <l>Qui consumait sa vie et doublait son talent,</l>
-          <l>Il n’était pas heureux ; car la gloire et la haine</l>
-          <l>Sont un double fardeau qui pèse à l’âme humaine !</l>
-          <l>Dans un amour profond il avait cru trouver</l>
-          <l>Ce pur délassement que l’on aime à rêver</l>
-          <l>Après les grands travaux ; Oasis bien-aimée</l>
-          <l>Où l’âme se retire et repose calmée,</l>
-          <l>Où l’orgueil, que le monde irritait de ses coups,</l>
-          <l>Cède au baume enivrant d’un sentiment plus doux.</l>
-          <p/>
-          <l>Une enfant gracieuse et belle<note place="bottom">Armande Béjart, jeune sœur d’Armande Béjart et actrice comme elle de la troupe de Molière.</note>,</l>
-          <l>Gomme Agnès ou comme Isabelle,</l>
-          <l>Sous ses regards avait grandi ;</l>
-          <l>Partout il plaça son image :</l>
-          <l>Heureux en lui rendant hommage</l>
-          <l>De voir son modèle applaudi.</l>
-          <p/>
-          <l>Toutes ces riantes figures,</l>
-          <l>Toutes ces jeunes filles pures,</l>
-          <l>Cœurs charmants aux fraîches amours :</l>
-          <l>Lucile, Angélique, Henriette,</l>
-          <l>Folle, aimante, sage ou coquette,</l>
-          <l>C’est elle ! c’est elle toujours !<pb n="15"/></l>
-          <p/>
-          <l>Elle ! telle qu’il l’a rêvée !..</l>
-          <l>Par ce grand génie élevée,</l>
-          <l>Elle excelle aussi dans son art ;</l>
-          <l>Pour former son intelligence,</l>
-          <l>D’une mère il eut l’indulgence</l>
-          <l>Et les tendres soins d’un vieillard.</l>
-          <p/>
-          <l>Il l’aimait..., ce fut sa faiblesse.</l>
-          <l>Tant de beauté, tant de jeunesse,</l>
-          <l>L’enivrèrent à son déclin ;</l>
-          <l>Il lui donna gloire et richesse,</l>
-          <l>Pour avoir de l’enchanteresse Un peu d’amour...</l>
-          <l>Ce fut en vain !</l>
-          <l>A peine de l’hymen a-t-il formé la chaîne,</l>
-          <l>Que la naïve enfant se change en Célimène ;</l>
-          <l>Alors plus de repos pour ce grand cœur blessé :</l>
-          <l>Il regrette aujourd’hui les tourments du passé.</l>
-          <l>Se vengeant du mari, dont ils torturent l’âme,</l>
-          <l>Les grands seigneurs raillés font la cour à sa femme.</l>
-          <l>Il est jaloux..... ; il veut se venger, la haïr......</l>
-          <l>Il pardonne A l’amour il ne sait qu’obéir !</l>
-          <l>Il souffre, mais toujours son art se développe :</l>
-          <l>Inspiré par ses maux, il fait le <hi rend="i">Misanthrope</hi><note place="bottom">On a longtemps supposé que le duc de Montausier avait inspiré à Molière le caractère du <hi rend="i">Misanthrope</hi>, mais une étude plus approfondie de notre grand poète dramatique a prouvé qu’il s’était peint lui-même dans ce caractère. Les notes si précieuses de M. Aimé Martin (dans la belle édition de Molière publiée par le libraire Lefebvre) ne laissent aucun doute à ce sujet.</note>,</l>
-          <l>Il puise un nouveau feu dans ses transports brûlans ;</l>
-          <l>Son amertume éclate en sublimes élans,</l>
-          <l>Sa verve est incisive : il fronde, il rit, il joue,</l>
-          <l>La mort est dans son cœur, le fard est sur sa joue....</l>
-          <l>L’artiste se surpasse et l’homme disparaît.<pb n="16"/></l>
-          <p/>
-          <l>Ah ! quand nous pénétrons dans ce drame secret,</l>
-          <l>Notre esprit s’épouvante et notre cœur se serre</l>
-          <l>De voir tant de gaîté couvrir tant de misère,</l>
-          <l>Et nous donnons des pleurs à l’héroïque effort</l>
-          <l>Qui le pousse au théâtre une heure avant sa mort !</l>
+          <lg>
+            <l>Pourtant, toujours en proie à ce conflit brûlant</l>
+            <l>Qui consumait sa vie et doublait son talent,</l>
+            <l>Il n’était pas heureux ; car la gloire et la haine</l>
+            <l>Sont un double fardeau qui pèse à l’âme humaine !</l>
+            <l>Dans un amour profond il avait cru trouver</l>
+            <l>Ce pur délassement que l’on aime à rêver</l>
+            <l>Après les grands travaux ; Oasis bien-aimée</l>
+            <l>Où l’âme se retire et repose calmée,</l>
+            <l>Où l’orgueil, que le monde irritait de ses coups,</l>
+            <l>Cède au baume enivrant d’un sentiment plus doux.</l>
+          </lg>
+          <lg>
+            <l>Une enfant gracieuse et belle<note place="bottom">Armande Béjart, jeune sœur d’Armande Béjart et actrice comme elle de la troupe de Molière.</note>,</l>
+            <l>Gomme Agnès ou comme Isabelle,</l>
+            <l>Sous ses regards avait grandi ;</l>
+            <l>Partout il plaça son image :</l>
+            <l>Heureux en lui rendant hommage</l>
+            <l>De voir son modèle applaudi.</l>
+            <l/>
+            <l>Toutes ces riantes figures,</l>
+            <l>Toutes ces jeunes filles pures,</l>
+            <l>Cœurs charmants aux fraîches amours :</l>
+            <l>Lucile, Angélique, Henriette,</l>
+            <l>Folle, aimante, sage ou coquette,</l>
+            <l>C’est elle ! c’est elle toujours !</l>
+            <pb n="23" xml:id="p23"/>
+            <l>Elle ! telle qu’il l’a rêvée !..</l>
+            <l>Par ce grand génie élevée,</l>
+            <l>Elle excelle aussi dans son art ;</l>
+            <l>Pour former son intelligence,</l>
+            <l>D’une mère il eut l’indulgence</l>
+            <l>Et les tendres soins d’un vieillard.</l>
+            <l/>
+            <l>Il l’aimait…, ce fut sa faiblesse.</l>
+            <l>Tant de beauté, tant de jeunesse,</l>
+            <l>L’enivrèrent à son déclin ;</l>
+            <l>Il lui donna gloire et richesse,</l>
+            <l>Pour avoir de l’enchanteresse</l>
+            <l>Un peu d’amour… Ce fut en vain !</l>
+          </lg>
+          <lg>
+            <l>À peine de l’hymen a-t-il formé la chaîne,</l>
+            <l>Que la naïve enfant se change en Célimène ;</l>
+            <l>Alors plus de repos pour ce grand cœur blessé :</l>
+            <l>Il regrette aujourd’hui les tourments du passé.</l>
+            <l>Se vengeant du mari, dont ils torturent l’âme,</l>
+            <l>Les grands seigneurs raillés font la cour à sa femme.</l>
+            <l>Il est jaloux…… ; il veut se venger, la haïr……</l>
+            <l>Il pardonne A l’amour il ne sait qu’obéir !</l>
+            <l>Il souffre, mais toujours son art se développe :</l>
+            <l>Inspiré par ses maux, il fait le <hi rend="i">Misanthrope</hi><note place="bottom">On a longtemps supposé que le duc de Montausier avait inspiré à Molière le caractère du <hi rend="i">Misanthrope</hi>, mais une étude plus approfondie de notre grand poète dramatique a prouvé qu’il s’était peint lui-même dans ce caractère. Les notes si précieuses de M. Aimé Martin (dans la belle édition de Molière publiée par le libraire Lefebvre) ne laissent aucun doute à ce sujet.</note>,</l>
+            <l>Il puise un nouveau feu dans ses transports brûlans ;</l>
+            <l>Son amertume éclate en sublimes élans,</l>
+            <l>Sa verve est incisive : il fronde, il rit, il joue,</l>
+            <l>La mort est dans son cœur, le fard est sur sa joue…</l>
+            <l>L’artiste se surpasse et l’homme disparaît.</l>
+          </lg>
+          <lg>
+            <l>Ah ! quand nous pénétrons dans ce drame secret,</l>
+            <pb n="24" xml:id="p24"/>
+            <l>Notre esprit s’épouvante et notre cœur se serre</l>
+            <l>De voir tant de gaîté couvrir tant de misère,</l>
+            <l>Et nous donnons des pleurs à l’héroïque effort</l>
+            <l>Qui le pousse au théâtre une heure avant sa mort !</l>
+          </lg>
         </div>
         <div>
           <head>V.</head>
-          <l><space>  </space>Si vous fûtes si grands, ô Molière ! ô Shakspeare !</l>
-          <l>Si tant de vérité dans vos œuvres respire,</l>
-          <l>C’est que par votre voix la nature a parlé :</l>
-          <l>Vos héros ont l’amour dont vous avez brûlé,</l>
-          <l>Vos haines sont en eux, comme vos sympathies ;</l>
-          <l>Toutes les passions que vous avez senties,</l>
-          <l>Tous les secrets instincts par vos cœurs observés,</l>
-          <l>En types immortels vous les avez gravés ;</l>
-          <l>L’art ne fut pas pour vous cette stérile étude</l>
-          <l>Qui peuple d’un rhéteur la froide solitude ;</l>
-          <l>L’art, vous l’avez trouvé, lorsque pauvres, errants,</l>
-          <l>Vous viviez au hasard mêlés à tous les rangs ;</l>
-          <l>Personnages actifs des scènes toujours vraies,</l>
-          <l>Qui passaient sous vos yeux ou tragiques ou gaies ;</l>
-          <l>L’art a jailli pour vous, nouveau, libre, animé,</l>
-          <l>De tous les sentiments dont l’homme est consumé ;</l>
-          <l>Vous avez découvert sa science profonde</l>
-          <l>Non dans les livres morts, mais au livre du monde.</l>
-          <p/>
-          <l>La gloire est à ce prix : hélas ! pour l’obtenir,</l>
-          <l>La vie est l’hécatombe offerte à l’avenir ;</l>
-          <l>L’âme va s’épuisant jour par jour tout entière,</l>
-          <l><space>  </space>Puis tout à coup se brise..…</l>
-          <p/>
-          <l>Ainsi mourut Molière !<pb n="17"/></l>
-          <l>Son âme remontait à peine vers les cieux,</l>
-          <l>Que tous ses ennemis, que tous les envieux</l>
-          <l>Se lèvent à la fois ; une implacable haine,</l>
-          <l>La haine des dévots, contre lui se déchaîne :</l>
-          <l>« Il a pu nous railler et nous braver vivant,</l>
-          <l>« Il n’est plus, disent-ils, jetons sa cendre au vent ;</l>
-          <l>« Que l’impie au saint lieu n’ait pas de sépulture ! »</l>
-          <l>Mille hypocrites voix grossissent ce murmure ;</l>
-          <l>Le peuple qu’il aimait et dont il est sorti,</l>
-          <l>Insensé, contre lui le peuple prend parti ;</l>
-          <l>Il vient, du fanatisme aveugle auxiliaire,</l>
-          <l>Frapper de ses clameurs la maison mortuaire.</l>
-          <p/>
-          <l>Mais tandis qu’au dehors ces cris retentissaient,</l>
-          <l>Près du corps de Molière en larmes se pressaient</l>
-          <l>Ses amis accourus, sa troupe désolée</l>
-          <l>Par qui sa noble vie est alors rappelée,</l>
-          <l>Qui redit ses bienfaits et pleure, en révélant</l>
-          <l>La bonté de son cœur égale à son talent ;</l>
-          <l>Quelques vieux serviteurs, et les pauvres encore</l>
-          <l>Qui recevaient de lui des secours qu’on ignore.</l>
-          <l>Tous en le bénissant l’appellent à la fois,    <hi rend="sub">4</hi></l>
-          <l>Et les bruits du dehors sont couverts par leurs voix.</l>
-          <p/>
-          <l>Dominant le clergé, la volonté royale</l>
-          <l>Veille encor sur Molière et met fin au scandale ;</l>
-          <l>Puis, sans pompe, le soir, tous ses amis en deuil</l>
-          <l>Parmi les morts obscurs vont cacher son cercueil<note place="bottom">L’enterrement fut fait par deux prêtres qui accompagnèrent le corps sans chanter. Molière fut inhumé le soir, dans le cimetière qui est derrière la chapelle de Saint-Joseph, rue Montmartre ; tous ses amis étaient présents. 22 ans plus tard, La Fontaine fut enterré dans le même cimetière.</note>.</l>
+          <lg>
+            <l>Si vous fûtes si grands, ô Molière ! ô Shakspeare !</l>
+            <l>Si tant de vérité dans vos œuvres respire,</l>
+            <l>C’est que par votre voix la nature a parlé :</l>
+            <l>Vos héros ont l’amour dont vous avez brûlé,</l>
+            <l>Vos haines sont en eux, comme vos sympathies ;</l>
+            <l>Toutes les passions que vous avez senties,</l>
+            <l>Tous les secrets instincts par vos cœurs observés,</l>
+            <l>En types immortels vous les avez gravés ;</l>
+            <l>L’art ne fut pas pour vous cette stérile étude</l>
+            <l>Qui peuple d’un rhéteur la froide solitude ;</l>
+            <l>L’art, vous l’avez trouvé, lorsque pauvres, errants,</l>
+            <l>Vous viviez au hasard mêlés à tous les rangs ;</l>
+            <l>Personnages actifs des scènes toujours vraies,</l>
+            <l>Qui passaient sous vos yeux ou tragiques ou gaies ;</l>
+            <l>L’art a jailli pour vous, nouveau, libre, animé,</l>
+            <l>De tous les sentiments dont l’homme est consumé ;</l>
+            <l>Vous avez découvert sa science profonde</l>
+            <l>Non dans les livres morts, mais au livre du monde.</l>
+          </lg>
+          <lg>
+            <l>La gloire est à ce prix : hélas ! pour l’obtenir,</l>
+            <l>La vie est l’hécatombe offerte à l’avenir ;</l>
+            <l>L’âme va s’épuisant jour par jour tout entière,</l>
+            <l>Puis tout à coup se brise..…</l>
+            <l>Ainsi mourut Molière !</l>
+          </lg>
+          <lg>
+            <l>Son âme remontait à peine vers les cieux,</l>
+            <l>Que tous ses ennemis, que tous les envieux</l>
+            <l>Se lèvent à la fois ; une implacable haine,</l>
+            <l>La haine des dévots, contre lui se déchaîne :</l>
+            <pb n="25" xml:id="p25"/>
+            <l>« Il a pu nous railler et nous braver vivant,</l>
+            <l>« Il n’est plus, disent-ils, jetons sa cendre au vent ;</l>
+            <l>« Que l’impie au saint lieu n’ait pas de sépulture ! »</l>
+            <l>Mille hypocrites voix grossissent ce murmure ;</l>
+            <l>Le peuple qu’il aimait et dont il est sorti,</l>
+            <l>Insensé, contre lui le peuple prend parti ;</l>
+            <l>Il vient, du fanatisme aveugle auxiliaire,</l>
+            <l>Frapper de ses clameurs la maison mortuaire.</l>
+          </lg>
+          <lg>
+            <l>Mais tandis qu’au dehors ces cris retentissaient,</l>
+            <l>Près du corps de Molière en larmes se pressaient</l>
+            <l>Ses amis accourus, sa troupe désolée</l>
+            <l>Par qui sa noble vie est alors rappelée,</l>
+            <l>Qui redit ses bienfaits et pleure, en révélant</l>
+            <l>La bonté de son cœur égale à son talent ;</l>
+            <l>Quelques vieux serviteurs, et les pauvres encore</l>
+            <l>Qui recevaient de lui des secours qu’on ignore.</l>
+            <l>Tous en le bénissant l’appellent à la fois,    <hi rend="sub">4</hi></l>
+            <l>Et les bruits du dehors sont couverts par leurs voix.</l>
+          </lg>
+          <lg>
+            <l>Dominant le clergé, la volonté royale</l>
+            <l>Veille encor sur Molière et met fin au scandale ;</l>
+            <l>Puis, sans pompe, le soir, tous ses amis en deuil</l>
+            <l>Parmi les morts obscurs vont cacher son cercueil<note place="bottom">L’enterrement fut fait par deux prêtres qui accompagnèrent le corps sans chanter. Molière fut inhumé le soir, dans le cimetière qui est derrière la chapelle de Saint-Joseph, rue Montmartre ; tous ses amis étaient présents. 22 ans plus tard, La Fontaine fut enterré dans le même cimetière.</note>.</l>
+          </lg>
         </div>
         <div>
           <head>VI.</head>
-          <l>Deux siècles ont passé ; ses œuvres immortelles</l>
-          <l>Semblent, après ce temps, plus jeunes et plus belles ;</l>
-          <l>Dans l’art qu’il a créé toujours original,</l>
-          <l>Chez aucun peuple encor il n’a trouvé d’égal ;<pb n="17"/></l>
-          <l>Par ses rivaux vaincus sa gloire est confirmée :</l>
-          <l>Chacun de leurs efforts accroît sa renommée ;</l>
-          <l>Tout a changé, les lois, les usages, le goût ;</l>
-          <l>Il peignit la nature et survécut à tout !</l>
-          <l>Et cependant, malgré l’universel hommage,</l>
-          <l>Dans Paris, de Molière on cherche en vain l’image.</l>
-          <l>Que de jours écoulés, avant qu’un monument</l>
-          <l>Ait convié la France à son couronnement !</l>
-          <l>Mais cette heure viendra ; vieille et fidèle amie,</l>
-          <l>Revendiquant sa gloire, enfin l’Académie</l>
-          <l>Qui l’avait vainement appelé dans son sein,</l>
-          <l>La première a conçu ce glorieux dessein<note place="bottom">La première statue élevée à Molière, l’a été par l’Académie française ; mais, ainsi qu’on a pu le voir dans la notice de M. Aimé Martin qui précède ce poème, l’idée du monument appartient à un de nos acteurs comiques les plus distingués, M. Regnier, digne interprète de Molière et sociétaire du théâtre Français.</note>.</l>
-          <l>Déjà le marbre est prêt ; vis-à-vis la demeure</l>
-          <l>Témoin de ses travaux et de sa dernière heure,</l>
-          <l>Du haut du monument il pourra voir encor</l>
-          <l>Ce théâtre où sa gloire en naissant prit l’essor ;</l>
-          <l>Là, chaque âge est venu, de ce rare génie,</l>
-          <l>Applaudir le bon sens, l’audace et l’ironie ;</l>
-          <l>Ce style inimitable et ce vrai goût du beau,</l>
-          <l>Cette ferme raison qui, radieux flambeau,</l>
-          <l>Dans les replis du cœur projette sa lumière,</l>
-          <l>Enfin cet art divin qu’atteignit seul Molière.</l>
-          <p/>
-          <l>Quand la foule du siècle, en tumulte à ses pieds</l>
-          <l>Passera.… tout à coup si vous vous animiez</l>
-          <l>Comme le commandeur, marbre de sa statue,</l>
-          <l>Et si sa voix parlait à cette foule émue,</l>
-          <l>Que dirait-il ? Hélas ! pour nous, fils orgueilleux,</l>
-          <l>Il aurait des leçons comme pour nos aïeux :</l>
-          <l>De notre âge on verrait sa sévère justice</l>
-          <l>Censurer chaque erreur, combattre chaque vice ;<pb n="18"/></l>
-          <l>Il oserait railler sous leur masque moral</l>
-          <l>L’intrigant philanthrope et le faux libéral ;</l>
-          <l>L’avocat tout gonflé de sa creuse faconde ;</l>
-          <l>L’utopiste en travail de refaire le monde ;</l>
-          <l>Le souple ambitieux au pouvoir toujours prêt,</l>
-          <l>Ne servant pas l’État mais son propre intérêt ;</l>
-          <l>Le parvenu, malgré l’égalité conquise,</l>
-          <l>Parant d’un vieux blason sa moderne sottise ;</l>
-          <l>A la fraude exercé, l’avide industriel</l>
-          <l>Mettant en <hi rend="i">actions</hi>, l’eau, la terre et le ciel ;</l>
-          <l>Anonyme assassin, l’abject folliculaire</l>
-          <l>Calomniant au prix d’un infâme salaire ;</l>
-          <l>La femme, en homme libre osant se transformer,</l>
-          <l>Oubliant que sa force est de plaire et d’aimer !</l>
-          <l>Enfin, si tu vivais de nos jours, ô Molière,</l>
-          <l>Tu maudirais surtout, de ta voix rude et fière,</l>
-          <l>L’amour de l’or, ardente et vile passion</l>
-          <l>Qui consume et qui perd la génération !</l>
-          <l>Cet amour a tué l’amour de la patrie ;</l>
-          <l>Par son impur poison la jeunesse est flétrie ;</l>
-          <l>L’or, des plus beaux instincts fait dévier le cours :</l>
-          <l>Plus d’élans généreux, plus de nobles amours.....</l>
-          <l>Le poète lui-même, aurais-tu pu le croire ;</l>
-          <l>Aime l’or, ô Molière, encore plus que la gloire :</l>
-          <l>Cet appât du vulgaire a gagné les esprits,</l>
-          <l>Tous encensent l’idole et s’en montrent épris.</l>
-          <p/>
-          <l>Lève-toi, dis à ceux qui gouvernent la France :</l>
-          <quote>
+          <lg>
+            <l>Deux siècles ont passé ; ses œuvres immortelles</l>
+            <l>Semblent, après ce temps, plus jeunes et plus belles ;</l>
+            <l>Dans l’art qu’il a créé toujours original,</l>
+            <l>Chez aucun peuple encor il n’a trouvé d’égal ;</l>
+            <pb n="26" xml:id="p26"/>
+            <l>Par ses rivaux vaincus sa gloire est confirmée :</l>
+            <l>Chacun de leurs efforts accroît sa renommée ;</l>
+            <l>Tout a changé, les lois, les usages, le goût ;</l>
+            <l>Il peignit la nature et survécut à tout !</l>
+            <l>Et cependant, malgré l’universel hommage,</l>
+            <l>Dans Paris, de Molière on cherche en vain l’image.</l>
+            <l>Que de jours écoulés, avant qu’un monument</l>
+            <l>Ait convié la France à son couronnement !</l>
+            <l>Mais cette heure viendra ; vieille et fidèle amie,</l>
+            <l>Revendiquant sa gloire, enfin l’Académie</l>
+            <l>Qui l’avait vainement appelé dans son sein,</l>
+            <l>La première a conçu ce glorieux dessein<note place="bottom">La première statue élevée à Molière, l’a été par l’Académie française ; mais, ainsi qu’on a pu le voir dans la notice de M. Aimé Martin qui précède ce poème, l’idée du monument appartient à un de nos acteurs comiques les plus distingués, M. Regnier, digne interprète de Molière et sociétaire du théâtre Français.</note>.</l>
+            <l>Déjà le marbre est prêt ; vis-à-vis la demeure</l>
+            <l>Témoin de ses travaux et de sa dernière heure,</l>
+            <l>Du haut du monument il pourra voir encor</l>
+            <l>Ce théâtre où sa gloire en naissant prit l’essor ;</l>
+            <l>Là, chaque âge est venu, de ce rare génie,</l>
+            <l>Applaudir le bon sens, l’audace et l’ironie ;</l>
+            <l>Ce style inimitable et ce vrai goût du beau,</l>
+            <l>Cette ferme raison qui, radieux flambeau,</l>
+            <l>Dans les replis du cœur projette sa lumière,</l>
+            <l>Enfin cet art divin qu’atteignit seul Molière.</l>
+          </lg>
+          <lg>
+            <l>Quand la foule du siècle, en tumulte à ses pieds</l>
+            <l>Passera.… tout à coup si vous vous animiez</l>
+            <l>Comme le commandeur, marbre de sa statue,</l>
+            <l>Et si sa voix parlait à cette foule émue,</l>
+            <l>Que dirait-il ? Hélas ! pour nous, fils orgueilleux,</l>
+            <l>Il aurait des leçons comme pour nos aïeux :</l>
+            <l>De notre âge on verrait sa sévère justice</l>
+            <l>Censurer chaque erreur, combattre chaque vice ;</l>
+            <pb n="27" xml:id="p27"/>
+            <l>Il oserait railler sous leur masque moral</l>
+            <l>L’intrigant philanthrope et le faux libéral ;</l>
+            <l>L’avocat tout gonflé de sa creuse faconde ;</l>
+            <l>L’utopiste en travail de refaire le monde ;</l>
+            <l>Le souple ambitieux au pouvoir toujours prêt,</l>
+            <l>Ne servant pas l’État mais son propre intérêt ;</l>
+            <l>Le parvenu, malgré l’égalité conquise,</l>
+            <l>Parant d’un vieux blason sa moderne sottise ;</l>
+            <l>A la fraude exercé, l’avide industriel</l>
+            <l>Mettant en <hi rend="i">actions</hi>, l’eau, la terre et le ciel ;</l>
+            <l>Anonyme assassin, l’abject folliculaire</l>
+            <l>Calomniant au prix d’un infâme salaire ;</l>
+            <l>La femme, en homme libre osant se transformer,</l>
+            <l>Oubliant que sa force est de plaire et d’aimer !</l>
+            <l>Enfin, si tu vivais de nos jours, ô Molière,</l>
+            <l>Tu maudirais surtout, de ta voix rude et fière,</l>
+            <l>L’amour de l’or, ardente et vile passion</l>
+            <l>Qui consume et qui perd la génération !</l>
+            <l>Cet amour a tué l’amour de la patrie ;</l>
+            <l>Par son impur poison la jeunesse est flétrie ;</l>
+            <l>L’or, des plus beaux instincts fait dévier le cours :</l>
+            <l>Plus d’élans généreux, plus de nobles amours……</l>
+            <l>Le poète lui-même, aurais-tu pu le croire ;</l>
+            <l>Aime l’or, ô Molière, encore plus que la gloire :</l>
+            <l>Cet appât du vulgaire a gagné les esprits,</l>
+            <l>Tous encensent l’idole et s’en montrent épris.</l>
+          </lg>
+          <lg>
+            <l>Lève-toi, dis à ceux qui gouvernent la France :</l>
             <l>« Osez combattre aussi le vice et l’ignorance ;</l>
             <l>Imitez du grand Roi l’exemple glorieux,</l>
             <l>Enflammez pour le bien les cœurs ambitieux.</l>
             <l>Si quelque Satyrique à la sainte colère</l>
             <l>Flagelle comme moi les abus qu’on tolère,</l>
             <l>Vous-mêmes, du génie encouragez l’effort :</l>
-            <l>En s’appuyant sur lui le pouvoir est plus fort,<pb n="19"/></l>
+            <l>En s’appuyant sur lui le pouvoir est plus fort,</l>
+            <pb n="28" xml:id="p28"/>
             <l>Aux nations, c’est lui qui trace la carrière ;</l>
             <l>Devant le siècle en marche il porte la lumière ;</l>
             <l>Sentinelle avancée ! il voit les temps venir,</l>
             <l>Et toujours au génie appartient l’avenir ! »</l>
-          </quote>
+          </lg>
           <byline>MADAME LOUISE COLET.</byline>
-          <dateline>Paris, février 1842.<pb n="20"/></dateline>
+          <dateline>Paris, février 1842.</dateline>
         </div>
       </div>
       <div>
+        <pb n="29" xml:id="p29"/>
         <head>Notes.</head>
         <div>
           <head>Note A.</head>
-          <table>
-            <row>
-              <cell>« Monsieur le Préfet,</cell>
-            </row>
-            <row>
-              <cell> Le <hi rend="i">Journal des Débats</hi>, dans son numéro du 14 février, annonce la prochaine construction d’une fontaine à l’angle des rues Traversière et Richelieu. Permettez-moi, M. le Préfet, de saisir cette occasion pour rappeler à votre souvenir que c’est précisément en face de la fontaine projetée, dans la. maison du passage Hulot, rue Richelieu, que Molière a rendu le dernier soupir ; et veuillez excuser la liberté que je prends de vous faire remarquer que, si l’on considère cette circonstance et la proximité du Théâtre-Français, il serait impossible de trouver aucun emplacement où il fût plus convenable d’élever à ce grand homme un monument que Paris, sa ville natale, s’étonne encore de ne pas posséder.</cell>
-            </row>
-            <row>
-              <cell> Ne serait-il pas possible de combiner le projet dont l’exécution est confiée au talent de M. Visconti avec celui que j’ai l’honneur de vous soumettre ? Quand vos fonctions vous le permettent, M. le Préfet, vous venez assister à nos représentations, vous applaudisses aux chefs d’œuvre de notre scène ; le vœu que j’exprime doit être compris par vous, et j’espère que vous l’estimerez digne de votre attention.</cell>
-            </row>
-            <row>
-              <cell> Les modifications que l’on serait obligé de faire subir au projet arrêté entraîneraient indubitablement de nouvelles dépenses ; mais cette difficulté serait, je le crois, facilement écartée. N’est-ce pas à l’aide de dons volontaires que la ville de Rouen a élevé une statue de bronze à Corneille ? Assurément une souscription destinée à élever la statue de Molière n’aurait pas moins de succès dans Paris ; les corps littéraires et les théâtres s’empresseraient de s’inscrire collectivement ; les auteurs et les acteurs apporteraient leurs offrandes individuelles. Tous ceux qui aiment les arts et qui révèrent la mémoire de Molière accueilleraient cette souscription avec faveur et s’intéresseraient à ce qu’elle fût rapidement productive. Du moins c’est ma conviction, et je souhaite vivement que vous la partagiez.</cell>
-            </row>
-            <row>
-              <cell> D’autres que moi, Monsieur le Préfet, auraient sans doute plus de titres pour vous entretenir de ce projet, qui avait déjà préoccupé le célèbre Le Kain ; mais si la France entière s’enorgueillit du nom de Molière, il sera toujours plus particulièrement cher aux comédiens. Molière fut, tout à la fois, leur camarade et leur père, et je crois obéir a un sentiment respectueux et presque filial, en vous proposant de réunir au projet de l’administration celui d’un monument que nous serions si glorieux de voir enfin élever au grand génie qui, depuis près de deux siècles, attend cette justice !<pb n="21"/></cell>
-            </row>
-            <row>
-              <cell> J’ai l’honneur d’être, Monsieur le Préfet, votre très humble et très obéissant serviteur,</cell>
-            </row>
-            <row>
-              <cell>REGNIER,</cell>
-            </row>
-            <row>
-              <cell> Sociétaire du Théâtre-Français. »</cell>
-            </row>
-            <row>
-              <cell/>
-            </row>
-            <row>
-              <cell>Paris, 14 mars.</cell>
-            </row>
-            <row>
-              <cell>« Monsieur,</cell>
-            </row>
-            <row>
-              <cell> J’ai reçu la lettre que vous m’avez fait l’honneur de m’écrire au sujet de la fontaine que l’administration municipale va faire construire à l’angle formé par la jonction des deux rues Traversière et de Richelieu. Vous exprimez, à cette occasion, le désir de voir s’élever à Molière un monument que sa ville natale s’étonne de ne pas encore posséder, et vous pensez que l’on pourrait d’autant mieux profiter de la circonstance que c’est précisément en face de la fontaine projetée, dans la maison Hulot, que ce grand homme a rendu le dernier soupir.</cell>
-            </row>
-            <row>
-              <cell> Je m’associe de vœu et d’intention à un pareil projet, et, autant que personne au monde, je me réjouirais de voir la ville de Paris rendre enfin à Molière le même hommage que d’autres villes de France ont déjà rendu à Montaigne et à Pascal, à Corneille et à Racine, à Bossuet et à Fénelon. Mais il ne dépend pas de moi, monsieur, de changer ni le caractère ni la destination d’un monument dont le conseil municipal a voté la dépense et approuvé les plans. Toutefois, comme en mainte circonstance le principe du concours des particuliers a été admis par l’administration dans les vues d’intérêt général, j’aime à croire que la ville pourrait accepter, pour être concurremment employé avec les fonds votés par elle, le produit d’une souscription qui aurait été ouverte dans une pensée aussi louable, et j’oserais presque dire aussi parisienne, que celle que vous m’avez fait l’honneur de me soumettre. Aussi n’hésiterai-je pas à en foire l’objet d’une proposition au conseil municipal, avec la confiance que les hommes honorables qui y siègent, fidèles interprètes des sympathies de leurs concitoyens, accueilleront favorablement l’idée de payer un juste tribut d’admiration à l’un des plus beaux génies de la France, et peut-être à la plus grande des illustrations parisiennes.</cell>
-            </row>
-            <row>
-              <cell> Agréez, Monsieur, l’assurance de ma considération très distinguée,</cell>
-            </row>
-            <row>
-              <cell> Le pair de France, préfet de la Seine</cell>
-            </row>
-            <row>
-              <cell> Comte de RAMBUTEAU. »</cell>
-            </row>
-          </table>
+          <div>
+            <p>« Monsieur le Préfet,</p>
+            <p>Le <hi rend="i">Journal des Débats</hi>, dans son numéro du 14 février, annonce la prochaine construction d’une fontaine à l’angle des rues Traversière et Richelieu. Permettez-moi, M. le Préfet, de saisir cette occasion pour rappeler à votre souvenir que c’est précisément en face de la fontaine projetée, dans la. maison du passage Hulot, rue Richelieu, que Molière a rendu le dernier soupir ; et veuillez excuser la liberté que je prends de vous faire remarquer que, si l’on considère cette circonstance et la proximité du Théâtre-Français, il serait impossible de trouver aucun emplacement où il fût plus convenable d’élever à ce grand homme un monument que Paris, sa ville natale, s’étonne encore de ne pas posséder.</p>
+            <p>Ne serait-il pas possible de combiner le projet dont l’exécution est confiée au talent de M. Visconti avec celui que j’ai l’honneur de vous soumettre ? Quand vos fonctions vous le permettent, M. le Préfet, vous venez assister à nos représentations, vous applaudisses aux chefs d’œuvre de notre scène ; le vœu que j’exprime doit être compris par vous, et j’espère que vous l’estimerez digne de votre attention.</p>
+            <p>Les modifications que l’on serait obligé de faire subir au projet arrêté entraîneraient indubitablement de nouvelles dépenses ; mais cette difficulté serait, je le crois, facilement écartée. N’est-ce pas à l’aide de dons volontaires que la ville de Rouen a élevé une statue de bronze à Corneille ? Assurément une souscription destinée à élever la statue de Molière n’aurait pas moins de succès dans Paris ; les corps littéraires et les théâtres s’empresseraient de s’inscrire collectivement ; les auteurs et les acteurs apporteraient leurs offrandes individuelles. Tous ceux qui aiment les arts et qui révèrent la mémoire de Molière accueilleraient cette souscription avec faveur et s’intéresseraient à ce qu’elle fût rapidement productive. Du moins c’est ma conviction, et je souhaite vivement que vous la partagiez.</p>
+            <p>D’autres que moi, Monsieur le Préfet, auraient sans doute plus de titres pour vous entretenir de ce projet, qui avait déjà préoccupé le célèbre Le Kain ; mais si la France entière s’enorgueillit du nom de Molière, il sera toujours plus particulièrement cher aux comédiens. Molière fut, tout à la fois, leur camarade et leur père, et je crois obéir a un sentiment respectueux et presque filial, en vous proposant de réunir au projet de l’admi<pb n="30" xml:id="p30"/>nistration celui d’un monument que nous serions si glorieux de voir enfin élever au grand génie qui, depuis près de deux siècles, attend cette justice !</p>
+            <p>J’ai l’honneur d’être, Monsieur le Préfet, votre très humble et très obéissant serviteur,</p>
+            <byline>REGNIER,<lb/>Sociétaire du Théâtre-Français. »</byline>
+            <dateline>Paris, 14 mars.</dateline></div>
+          <div>
+            <p>« Monsieur,</p>
+            <p>J’ai reçu la lettre que vous m’avez fait l’honneur de m’écrire au sujet de la fontaine que l’administration municipale va faire construire à l’angle formé par la jonction des deux rues Traversière et de Richelieu. Vous exprimez, à cette occasion, le désir de voir s’élever à Molière un monument que sa ville natale s’étonne de ne pas encore posséder, et vous pensez que l’on pourrait d’autant mieux profiter de la circonstance que c’est précisément en face de la fontaine projetée, dans la maison Hulot, que ce grand homme a rendu le dernier soupir.</p>
+            <p>Je m’associe de vœu et d’intention à un pareil projet, et, autant que personne au monde, je me réjouirais de voir la ville de Paris rendre enfin à Molière le même hommage que d’autres villes de France ont déjà rendu à Montaigne et à Pascal, à Corneille et à Racine, à Bossuet et à Fénelon. Mais il ne dépend pas de moi, monsieur, de changer ni le caractère ni la destination d’un monument dont le conseil municipal a voté la dépense et approuvé les plans. Toutefois, comme en mainte circonstance le principe du concours des particuliers a été admis par l’administration dans les vues d’intérêt général, j’aime à croire que la ville pourrait accepter, pour être concurremment employé avec les fonds votés par elle, le produit d’une souscription qui aurait été ouverte dans une pensée aussi louable, et j’oserais presque dire aussi parisienne, que celle que vous m’avez fait l’honneur de me soumettre. Aussi n’hésiterai-je pas à en foire l’objet d’une proposition au conseil municipal, avec la confiance que les hommes honorables qui y siègent, fidèles interprètes des sympathies de leurs concitoyens, accueilleront favorablement l’idée de payer un juste tribut d’admiration à l’un des plus beaux génies de la France, et peut-être à la plus grande des illustrations parisiennes.</p>
+            <p>Agréez, Monsieur, l’assurance de ma considération très distinguée,</p>
+            <byline>Le pair de France, préfet de la Seine<lb/>Comte de RAMBUTEAU. »</byline>
+          </div>
         </div>
         <div>
           <head>Note B.</head>
-          <label rend="center i"/>
           <p>Confié au premier architecte de l’époque, M. Visconti, à qui Paris doit déjà tant de monuments remarquables, et qui a été choisi pour ériger aux Invalides le tombeau de Napoléon, le monument de Molière se divise en deux parties distinctes :</p>
-          <p>Le premier plan se compose d’un piédestal en marbre blanc, dont là base s’élève sur un socle entouré d’un bassin en pierre de Château-Landon, qui reçoit les eaux jaillissantes de trois têtes de lion. Une inscription portant simplement les dates de la naissance et de la mort de Molière, sera gravée sur le piédestal.<pb n="22"/></p>
+          <p>Le premier plan se compose d’un piédestal en marbre blanc, dont là base s’élève sur un socle entouré d’un bassin en pierre de Château-Landon, qui reçoit les eaux jaillissantes de <pb n="31" xml:id="p31"/>trois têtes de lion. Une inscription portant simplement les dates de la naissance et de la mort de Molière, sera gravée sur le piédestal.</p>
           <p>Deux figures allégoriques également en marbre, exécutées par M. Pradier, notre célèbre sculpteur, et représentant : une, la hante comédie, et l’autre la comédie lyrique, sont placées de chaque côté de ce piédestal, qui est couronné par la statue en bronze du grand poète assis, due au ciseau de M. Seurre. La hauteur du piédestal et de la figure est de 8 mètres sur une largeur de 10 mètres.</p>
           <p>Le second plan, contre lequel est adossé le monument ci-dessus détaillé est en pierre dure pour le soubassement et en pierre tendre pour la partie supérieure. Ce frontispice, dont la donnée principale a été de dissimuler un immense pignon, resté à découvert par la démolition successive de plusieurs maisons, se compose d’un soubassement portant une niche décorée à droite et à gauche de colonnes corinthiennes surmontées de leur entablement. Un fronton circulaire au centre duquel est un génie couronnant le nom de Molière, termine ce petit monument, dont le caractère se rapproche de l’époque de Louis XIV. Les façades latérales sont du même style. La hauteur totale est de 16 mètres sur une largeur de 10 mètres.</p>
         </div>
       </div>
       <div>
-        <head>Préfecture du département de la Seine.
-      <lb/>Extrait des registres des procès-verbaux des séances du Conseil municipal de la ville de Paris.
-          <lb/>SEANCE DU 21 JUIN</head>
+        <head>Préfecture du département de la Seine.<lb/>Extrait des registres des procès-verbaux des séances du Conseil municipal de la ville de Paris.<lb/>SEANCE DU 21 JUIN</head>
         <byline>Présents : MM. Aubé, Beau, Besson, Boulay de la Meurthe, Bouvatier,Cottier, Ferron, Gatre, Grillon, Hérard, Husson, Jouet, Lahure, Lambert, Ste-Croix, Languetin, Legros, Lehon, Micheau, Moreau, Orfila, Périer, Perret, Presches, Say, Ternaux et Tayer.</byline>
         <salute>Le conseil,</salute>
         <p>Vu le mémoire en date du 30 mai 1839, par lequel, prenant en considération le vœu émis par un comité de souscripteurs, M. le préfet propose de convertir la fontaine à reconstruire à l’angle des rues Traversière et de Richelieu, en un monument dédié à Molière, d’adopter le projet présenté et de pourvoir à son exécution au moyen de traités passés avec des entrepreneurs connus.</p>
@@ -610,7 +627,8 @@
         <p>Pour le soete en marbre, à 2,000  </p>
         <p>Pour travaux divers, honoraires de l’architecte et dépenses imprévues, à 11,975  </p>
         <p>Pour fontainerie, à 9,000  </p>
-        <p>TOTAL : 131,128 f.<pb n="23"/></p>
+        <p>TOTAL : 131,128 f.</p>
+        <pb n="32" xml:id="p32"/>
         <p>Vu un nouveau devis du surcroît de dépense qui résulterait de l’emploi du marbre substitué à la pierre comme matière des deux statues accessoires, conformément à l’avis de la commission des beaux arts, faisant monter ce surcroît à 18,880 f. </p>
         <p>Ce qui porterait la dépense totale à  150,008 </p>
         <p>Vu, touchant les voies et moyens :</p>
@@ -627,7 +645,7 @@
         <p>Considérant qu’étant réservée la question de la matière à employer pour l’œuvre du statuaire, il y a lieu de modifier les chiffres ci-dessus visés, d’en retrancher les sommes de 10,953 fr. et de 18,880 fr., pour fourniture de marbre, et de réduire cette de 33,000 f., prix de la sculpture des statues, à 22,000 f., qui suffiront pour payer les modèles en plâtre, lesquels doivent être faits à l’avance par le sculpteur dans la grandeur de l’exécution, quelle que soit la matière dont il devra ultérieurement être fait usage, ce qui réduit la dépense actuelle à 109,175 francs.</p>
         <p>En ce qui touche les voies et moyens :</p>
         <p>Considérant qu’ils se composent déjà de 81,000 f., suivant le détail ci-dessus, parmi lesquels figurent les fonds provenant de la souscription, dont il y a lieu d’autoriser le versement à la caisse municipale.</p>
-        <p>Considérant, en ce qui concerne la part que la ville de Paris est appelée à prendre dans la souscription du monument de Molière, que ce grand homme, dont les arts n’ont pas encore suffisamment honoré la mémoire, est né à Paris, qu’il y a fait ses études, qu’il y a passé presque toute sa vie, qu’il y a exercé sa profession, qu’il y a écrit ses chefs-d’œuvre, qu’il y est mort, et, qu’en un mot, il n’y a pas un des rayons de sa gloire qui ne brille sur sa ville natale ;<pb n="24"/></p>
+        <p>Considérant, en ce qui concerne la part que la ville de Paris est appelée à prendre dans la souscription du monument de Molière, que ce grand homme, dont les arts n’ont pas encore suffisamment honoré la mémoire, est né à Paris, qu’il y a fait ses études, qu’il y a passé presque toute sa vie, qu’il y a exercé sa profession, qu’il y a écrit ses chefs-d’œuvre, qu’il y <pb n="33" xml:id="p33"/>est mort, et, qu’en un mot, il n’y a pas un des rayons de sa gloire qui ne brille sur sa ville natale ;</p>
         <p>Que lorsqu’il est question de lui ériger un monument digne de cette gloire, Paris, qui déjà y a contribué par les souscriptions particulières des chefs et des employés de son administration, de ses conseillers municipaux, d’un grand nombre de ses habitants, et notamment des sociétaires de la Comédie française, et, à leur exemple, des artistes des autres théâtres de la capitale ; Paris, disons-nous, ne veut pas, en tant que commune, rester étranger à cette Œuvre ;</p>
         <p>Considérant que la souscription de Paris, jointe aux 81,000 f. déjà disponibles, rend possible de commencer, dès à présent, les travaux ;</p>
         <p>Considérant, en ce qui touche le mode d’exécution de ces travaux, qu’ils ne sont pas de nature à être soumis à une adjudication, et qu’il convient qu’il y soit pourvu au moyen de traités passés avec des entrepreneurs connus ;</p>
@@ -637,8 +655,7 @@
         <p>3° Il autorise le versement à la Caisse Municipale des fonds provenant de la souscription, pour être employés, concurremment avec l’allocation municipale, à l’exécution du monument.</p>
         <p>4° Indépendamment des crédits ci-dessus rappelés, la ville de Paris souscrit pour trente mille francs audit monument ; cette somme sera imputée sur les fonds libres de 1839.</p>
         <p>5° Le Conseil invite M. le préfet à faire toutes les diligences nécessaires pour commencer les travaux le plus têt possible.</p>
-        <p>6° Ces travaux ne seront pas soumis à l’adjudication ; il en sera traité avec des entrepreneurs connus.<pb n="25"/></p>
-      
+        <p>6° Ces travaux ne seront pas soumis à l’adjudication ; il en sera traité avec des entrepreneurs connus.</p>
       </div>
     </body>
   </text>
