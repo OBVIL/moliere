@@ -8,7 +8,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Le monument de Molière précédé de l'Histoire du monument élevé à Molière par M. Aimé Martin</title>
+        <title>Le monument de Molière précédé de l’Histoire du monument élevé à Molière par M. Aimé Martin</title>
         <author key="Colet, Louise (1810-1876)">Louise Colet</author>
       </titleStmt>
       <editionStmt>
@@ -41,7 +41,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><author>Louise Colet</author>, <title>Le monument de Molière précédé de l'Histoire du monument élevé à Molière par M. Aimé Martin</title>, <pubPlace>Paris</pubPlace>, <publisher>Paulin</publisher>, <date>1843</date>. Source : <ref target="https://books.google.fr/books?id=gvRNAAAAcAAJ">Google</ref>.</bibl>
+        <bibl><author>Louise Colet</author>, <title>Le monument de Molière précédé de l’Histoire du monument élevé à Molière par M. Aimé Martin</title>, <pubPlace>Paris</pubPlace>, <publisher>Paulin</publisher>, <date>1843</date>. Source : <ref target="https://books.google.fr/books?id=gvRNAAAAcAAJ">Google</ref>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -345,7 +345,7 @@
             <l>Les poètes sifflés et les mauvais acteurs,</l>
             <l>Unis aux courtisans, se font ses détracteurs ;</l>
             <l>Non contents d’outrager et de nier sa gloire,</l>
-            <l>Ils forgent sur ses mœurs une impudique histoire<note place="bottom">On l’accusa d’avoir épousé sa propre fille. Il dédaigna toujours de répondre à cette accusation. L'acte de mariage de Molière, récemment découvert par Mr. Beffara, prouve que Molière avait épousé la sœur et non la fille de Magdelaine Béjart avec laquelle on suppose qu’il avait eut des relations.</note> ;</l>
+            <l>Ils forgent sur ses mœurs une impudique histoire<note place="bottom">On l’accusa d’avoir épousé sa propre fille. Il dédaigna toujours de répondre à cette accusation. L’acte de mariage de Molière, récemment découvert par Mr. Beffara, prouve que Molière avait épousé la sœur et non la fille de Magdelaine Béjart avec laquelle on suppose qu’il avait eut des relations.</note> ;</l>
             <l>Au cœur il est frappé par ceux qu’il persiflait</l>
             <l>Avec cette arme occulte et lâche, le pamphlet…</l>
           </lg>

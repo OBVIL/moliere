@@ -10,7 +10,7 @@ from philologic.Loader import Loader, handle_command_line, setup_db_dir
 
 
 ## Flush buffer output
-sys.stdout = os.fdopen(sys.stdout.fileno(), 'w', 0)
+sys.stdout = os.fdopen(sys.stdout.fileno(), ’w’, 0)
 
 ## Parse command line
 dbname, files, workers, console_output, log, debug = handle_command_line(sys.argv)
@@ -22,14 +22,14 @@ dbname, files, workers, console_output, log, debug = handle_command_line(sys.arg
 ##########################
 
 # Set the filesytem path to the root web directory for your PhiloLogic install.
-database_root = '/var/www/obvil/html/philologic/'
+database_root = ’/var/www/obvil/html/philologic/’
 # /var/www/html/philologic/ is conventional for linux,
 # /Library/WebServer/Documents/philologic for Mac OS.
 # Please follow the instructions in INSTALLING before use.
 
 # Set the URL path to the same root directory for your philologic install.
-url_root = 'http://obvil-dev.paris-sorbonne.fr/philologic/'
-# http://localhost/philologic/ is appropriate if you don't have a DNS hostname.
+url_root = ’http://obvil-dev.paris-sorbonne.fr/philologic/’
+# http://localhost/philologic/ is appropriate if you don’t have a DNS hostname.
 
 if database_root is None or url_root is None:
     print >> sys.stderr, "Please configure the loader script before use.  See INSTALLING in your PhiloLogic distribution."
@@ -38,16 +38,16 @@ if database_root is None or url_root is None:
 # template_dir = database_root + "_system_dir/_install_dir/"
 template_dir = database_root + "www/"
 
-# The load process will fail if you haven't set up the template_dir at the correct location.
+# The load process will fail if you haven’t set up the template_dir at the correct location.
 
 # Define default object level
-default_object_level = 'doc'
+default_object_level = ’doc’
 
 # Define navigable objects
-navigable_objects = ('doc', 'div1', 'div2', 'div3')
+navigable_objects = (’doc’, ’div1’, ’div2’, ’div3’)
 
 # Data tables to store.
-tables = ['toms', 'pages', 'words']
+tables = [’toms’, ’pages’, ’words’]
 
 # Define filters as a list of functions to call, either those in Loader or outside
 filters = [normalize_unicode_raw_words,make_word_counts,generate_words_sorted,make_object_ancestors(*navigable_objects),
@@ -55,13 +55,13 @@ filters = [normalize_unicode_raw_words,make_word_counts,generate_words_sorted,ma
 post_filters = [word_frequencies,normalized_word_frequencies,metadata_frequencies,normalized_metadata_frequencies]
 
 ## Define text objects to generate plain text files for various machine learning tasks
-## For instance, this could be ['doc', 'div1']
+## For instance, this could be [’doc’, ’div1’]
 plain_text_obj = []
 if plain_text_obj:
     filters.extend([store_in_plain_text(*plain_text_obj)])
 
 extra_locals = {"db_url": url_root + dbname}
-extra_locals['default_object_level'] = default_object_level
+extra_locals[’default_object_level’] = default_object_level
 
 ###########################
 ## Set-up database load ###
@@ -69,7 +69,7 @@ extra_locals['default_object_level'] = default_object_level
 
 xpaths =  [("doc","."),("div",".//div"),("div",".//div1"),("div",".//div2"),("div",".//div3"),("page",".//pb")]         
 
-metadata_xpaths = [ # metadata per type.  '.' is in this case the base element for the type, as specified in XPaths above.
+metadata_xpaths = [ # metadata per type.  ’.’ is in this case the base element for the type, as specified in XPaths above.
     # MUST MUST MUST BE SPECIFIED IN OUTER TO INNER ORDER--DOC FIRST, WORD LAST
     ("doc", "./teiHeader//titleStmt/title","title"),
     ("doc", "./teiHeader//titleStmt/author/@key","author"),
@@ -93,8 +93,8 @@ extra_locals["word_regex"] = word_regex
 extra_locals["punct_regex"] = punct_regex
 
 ################################
-## Don't edit unless you know ##
-## what you're doing          ##
+## Don’t edit unless you know ##
+## what you’re doing          ##
 ################################
 
 os.environ["LC_ALL"] = "C" # Exceedingly important to get uniform sort order.
