@@ -5,302 +5,306 @@
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <TEI xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
-<fileDesc>
-<titleStmt>
-<title>[Anecdotes et remarques sur Molière] (<hi rend="i">Récréations littéraires</hi>) [graphies originales]</title>
-<author key="Cizeron-Rival, François-Louis (1726-1795)">François-Louis Cizeron-Rival</author>
-</titleStmt>
-<editionStmt>
-<edition>OBVIL</edition>
-<respStmt>
-<name>Eric Thiébaud</name>
-<resp>Stylage sémantique</resp>
-</respStmt>
-<respStmt>
-<name>Wordpro</name>
-<resp>Numérisation et encodage TEI</resp>
-</respStmt>
-</editionStmt>
-<publicationStmt>
-    <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-<date when="2018" />
-<idno>http://obvil.paris-sorbonne.fr/corpus/moliere/critique/cizeron-rival_moliere_orig/</idno>
-<availability status="restricted">
-<licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
-<p>Copyright © 2018 Sorbonne Université, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
-<p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
-<p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
-<p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
-<p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures, la diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
-</licence>
-</availability>
-</publicationStmt>
-<sourceDesc>
-    <bibl>François-Louis <author>Cizeron-Rival</author>, <title><hi rend="i">[Anecdotes et remarques sur Molière], in </hi>Récréations littéraires, ou Anecdotes et remarques sur différents sujets recueillies par M. C. R*** (Cizeron-Rival)</title>, <pubPlace>Paris</pubPlace>, <publisher>Dessaint</publisher>, <date>1765</date>, p. <biblScope unit="page">1-26</biblScope>. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k6529019v/f21.image">Gallica</ref>.</bibl>
-</sourceDesc>
-</fileDesc>
-<profileDesc>
-<creation>
-<date when="1765" />
-</creation>
-<langUsage>
-<language ident="fre">fre</language>
-</langUsage>
-</profileDesc>
-</teiHeader>
-<text>
-<body>
-<div type="section" xml:id="introduction">
-<pb n="1" />
-    <head>[Introduction]</head>
-<p>Ce furent les Précieuses Ridicules qui mirent Moliere en réputation. La piece ayant eu, comme tout le monde fait, l’approbation de tout Paris, on l’envoya à la Cour, qui étoit alors au voyage des Pyrénées, où elle fut très-bien reçue. Et cela enfla le courage de l’Auteur. <hi rend="i">Je n’ai plus que faire</hi>, dit-il, <hi rend="i">d’étudier Plaute &amp; Térence, ni d’éplucher les fragments de Ménandre ; je n’ai qu’à étudier le monde</hi>.</p>
-<p>Moliere, peu de temps après s’être <pb n="2" />brouillé avec M. Racine, donna sa Comédie de l’Avare, où M. Despréaux fut un des plus assidus. « <hi rend="i">Je vous vis derniérement</hi>, lui dit Racine, <hi rend="i">à la Piece de M. Moliere, &amp; vous ryez tout seul sur le Théatre. Je vous estime trop</hi>, lui répondit son ami, <hi rend="i">pour croire que vous ni ayez pas ri, du moins intérieurement</hi>. »</p>
-<p>M. Despréaux préféroit l’Avare de Moliere à celui de Plaute, qui est outré en plusieurs endroits, &amp; entre dans des détails bas &amp; ridicules. Au contraire celui du Comique Moderne est dans la nature, &amp; une des meilleures Pieces de l’Auteur. C’est ainsi qu’en jugeoit le Législateur de notre Parnasse. Quoique le Misanthrope soit peut-être la meilleure Comédie que nous ayons aujourd’hui, le Public hésita durant quelques jours à l’avouer pour excellente ; mais les personnes d’un goût exquis prévirent même d’abord quel parti il prendroit dans la suite. On sait les louanges que le Duc de Montausier donna au Misanthrope après la premiere représentation. Despréaux après avoir vu la troisieme, soutint à Racine, qui n’étoit pas fâché du danger où la réputation de Moliere sembloit être exposée, que cette Comédie <pb n="3" />auroit bientôt un succès des plus éclatants. Le Public justifia bien la prédiction de l’Auteur de l’Art Poétique ; &amp; depuis long-temps les François citent le Misanthrope comme l’honneur de leur Scene Comique. C’est la Piece françoise, que nos voisins ont adoptée avec la plus grande prédilection.</p>
-</div>
-    <div type="section" xml:id="I">
-        <head>I.</head>
-<p>Il est dit dans la Comédie de George-Dandin, (Acte 1. Scene 5.) que <hi rend="i">Bertrand de Sottenville</hi> eut le crédit de vendre tout son bien pour faire le voyage d’outre-mer. Lors de la représentation de cette Piece, tout le monde fit l’application de cet endroit à M. de la Feuillade, qui en ce temps-là s’avisa de mener en Candie à ses dépens une centaine de Gentilshommes équipés pour combattre contre les Turcs, pendant le siege de cette Isle.</p>
-    </div>
-    <div type="section" xml:id="II">
-        <head>II.</head>
-        <label><hi rend="i">Analyse de la jalousie du Barbouillé, farce en un Acte, par Moliere.</hi> (<hi rend="i">non Imprimée.</hi>)</label>
-<p><quote>« Le <hi rend="i">Barbouillé</hi> commence par se plaindre des chagrins que lui donne sa méchante femme. Il va consulter le Docteur sur les moyens de la mettre à la raison. Celui-ci parlant toujours, ne lui donne pas le temps de <pb n="4" />s’expliquer. La femme arrive, &amp; le Docteur continuant toujours ses tirades, les impatiente l’un &amp; l’autre au point de lui dire des injures. Entr’autres choses, la femme lui dit qu’il est un <hi rend="i">Ane</hi>, &amp; qu’elle est aussi Docteur que lui ; &amp; le Docteur lui répond : Toi Docteur ? Vraiment je crois que tu es un plaisant Docteur. Des genres tu n’aimes que le masculin : à l’égard des conjugaisons, de la Syntaxe, &amp; de la quantité...... Tu n’aimes que.... Jugez »</quote> dit Rousseau à M. Brossette <quote>« jugez par cet échantillon du beau ton de plaisanterie de ce temps-là. »</quote></p>
-<p>Ils s’en vont, hormis la femme qui demeure pour attendre son galant avec qui elle est surprise par le mari qui amene avec lui son beau-pere Villebrequin. Elle donne des coups de bâton au Barbouillé, feignant de les donner au galant : son pere &amp; elle se tournent contre le mari, qui continue ses invectives. Le Docteur met la tête à la fenêtre, &amp; leur fait à tous des réprimandes : il descend pour mettre la paix entr’eux ; ils se sauvent tous pour se dérober à la volubilité de sa langue, &amp; le Barbouillé plus impatienté que les <pb n="5" />autres, pendant qu’il poursuit ses déclamations, lui attache une corde au pied, &amp; l’ayant fait tomber, le traîne à écorche-cul jusques dans la coulisse, avec quoi finit la Comédie. Tout cela est revêtu du style le plus bas &amp; le plus ignoble que l’on puisse imaginer.</p>
-    </div>
-    <div type="section" xml:id="III">
-        <head>III.</head>
-        <p>Lorsque Moliere fait dire à Chrisalde, dans l’Ecole des Femmes (Acte I, Scene I.) :</p>
-<quote>
-<lg>
-<l>Je sais un Paysan, qu’on appelloit Gros-Pierre,</l>
-<l>Qui n’ayant pour tout bien qu’un seul quartier de terre.</l>
-<l>Y fit tout à l’entour faire un fossé bourbeux,</l>
-<l>Et de Monsieur de l’Isle en prit le nom pompeux.</l>
-</lg>
-</quote>
-<p>Il a eu en vue Thomas Corneille qui, après avoir porté long-temps le nom de <hi rend="i">Corneille le jeune</hi>, se fit appeller dans la suite Corneille de l’<hi rend="i">Isle</hi>. C’est ce que j’apprends de l’Abbé d’Aubignac, dans sa <hi rend="i">quatrieme Dissertation concernant le Poëme Epique</hi>.</p>
-    </div>
-    <div type="section" xml:id="IV">
-        <head>IV.</head>
-        <p>Dans la Comédie des Fâcheux, qui est une des plus belles de Moliere, le Fâcheux Chasseur qu’il introduit dans une des Scenes de cette Piece, est M. le Marquis de Soyecourt. Ce fut le Roi lui-même qui lui donna le sujet, &amp; voici comme. Au sortir de la premiere représentation de cette Comédie, qui se fit chez Mr. Fouquet ; <pb n="6" />le Roi dit à Moliere, en lui montrant M. de Soyecourt : Voilà un grand original que tu n’as pas encore copié. C’en fut assez dit : cette Scene fut faite &amp; apprise en moins de vingt-quatre heures, &amp; le Roi eut le plaisir de la voir en sa place, à la représentation suivante. (<hi rend="i">Menagiana</hi>, Tome. III. page 24.)</p>
-    </div>
-    <div type="section" xml:id="V">
-        <head>V.</head>
-        <p>Moliere s’est servi pour la composition de la premiere Scene &amp; pour l’exposition de toute la Piece dont je viens de parler, de la Satyre IX du premier livre d’Horace ; <hi rend="i">Ibam forte via sacra</hi>, &amp;c ; mais il imagina un motif, une intrigue ou action, &amp; un dénouement. (<hi rend="i">Riccoboni, observation sur la Comédie &amp; le génie de Moliere.</hi>)</p>
-    </div>
-    <div type="section" xml:id="VI">
-        <head>VI.</head>
-        <p>Le fameux Comte de Grammont a fourni à Moliere l’idée de son <hi rend="i">Mariage forcé</hi>. Ce Seigneur pendant son séjour à la Cour d’Angleterre, avoit fort aimé Mlle. Hamilton : leurs amours même avoient fait du bruit, &amp; il répassoit en France sans avoir conclu avec elle ; les deux freres de la Demoiselle le joignirent à Douvres dans le dessein de faire avec lui le coup de pistolet. Du plus loin qu’ils l’apperçurent, ils lui crierent : Comte de Grammont, <pb n="7" />Comte de Grammont, n’avez-vous rien oublié à Londres ? Pardonnez-moi, répondit le Comte, qui devinoit leur intention, j’ai oublié d’épouser votre sœur, &amp; j’y retourne avec vous pour finir cette affaire. (<hi rend="i">Ana, ou Bigarrure Calotine premiere partie page</hi> 18.)</p>
-    </div>
-    <div type="section" xml:id="VII">
-        <head>VII.</head>
-        <p>La troisieme nouvelle de la troisieme journée du Decameron de Bocace, a fourni à Moliere l’idée de sa Comédie de l’Ecole des Maris. (<hi rend="i">Riccoboni, observations sur la Comédie &amp; le génie de Moliere.</hi>)</p>
-    </div>
-    <div type="section" xml:id="VIII">
-        <head>VIII.</head>
-        <p>La Piece Espagnole d’<hi rend="i">Agostino Moreto</hi>, intitulée <hi rend="i">El desden con el desden</hi>. dont Moliere a tiré sa <hi rend="i">Princesse d’Elide</hi>, est une preuve de la justesse de son esprit. Dans cette Comédie <hi rend="i">le coup de Théatre</hi> ou <hi rend="i">surprise de pensée</hi> que je crois la plus belle qu’on puisse trouver, &amp; que je donnerois pour modele en ce genre, n’étoit que bonne dans l’original, mais elle est devenue sublime entre les mains de Moliere. (<hi rend="i">Riccoboni, idem.</hi>)</p>
-    </div>
-    <div type="section" xml:id="IX">
-        <head>IX.</head>
-        <p>Moliere avoit hazardé quelques Traits dans sa Piece du <hi rend="i">Festin de Pierre</hi>, qui blesserent les gens scrupuleux, &amp; qu’il supprima à la seconde représentation de cette Piece. Entr’autres celui-ci. <pb n="8" />Don Juan dans une Scene avec un pauvre qui lui demandoit l’aumône, ayant appris de lui qu’il passoit sa vie à prier Dieu &amp; qu’il n’avoit pas souvent de quoi manger, ajoutoit : <hi rend="i">Tu passes ta vie à prier Dieu, il te laisse mourir de faim, prend cet argent, je te le donne pour l’amour de l’humanité</hi>.</p>
-    </div>
-    <div type="section" xml:id="X">
-        <head>X.</head>
-<label><hi rend="i">Extrait d’un in-4°. de la Bibliotheque de St. Victor. N°. 688. QQ. ce volume est rempli de Notes Manuscrites de la main de M. de Tralage.</hi></label>
-<p>Le Sieur Angelo, (Docteur de l’ancienne Troupe Italienne) m’a dit, (c’est ce M. de Tralage qui parle) que Moliere qui étoit de ses amis, l’ayant un jour rencontré dans le jardin du Palais Royal, après avoir parlé des nouvelles de Théatre &amp; d’autres, le même sieur Angelo, dit à Moliere, qu’il avoit vu représenter en Italie, (à Naples) une Piece intitulée le <hi rend="i">Misanthrope</hi> : &amp; que l’on devroit traiter ce sujet ; il le lui rapporta tout en entier, &amp; même quelques endroits particuliers qui lui avoient parus remarquables, &amp; entr’autres ce caractere d’un homme <pb n="9" />de Cour fainéant, qui s’amuse à cracher dans un puits pour faire des ronds. Moliere l’écouta avec beaucoup d’attention, &amp; quinze jours après le sieur Angelo fut surpris de voir dans l’affiche de la troupe de Moliere, la Comédie du Misanthrope, annoncée &amp; promise, &amp; trois semaines après, on représenta cette Piece. Je lui répondis là-dessus, qu’il n’étoit pas possible qu’une aussi belle Piece que celle-là, en cinq actes &amp; dont les vers sont fort beaux, eût été faire en aussi peu de temps ; il me repliqua que cela paroissoit incroyable, mais que tout ce qu’il venoit de me dire étoit très-véritable, n’ayant aucun intérêt de déguiser la verité.</p>
-<p><hi rend="i">Nota.</hi> Ce discours d’Angelo est si fort éloigné de la vraisemblance, que ce seroit abuser de la patience du lecteur d’en donner la réfutation ; aussi ne l’a t’on employé que pour prévenir des personnes, qui trouvant ce passage dans le volume que l’on vient de citer, pourroient l’altérer dans leur récit, &amp; donner le change à un certain Public, toujours disposé à diminuer la gloire des grands hommes. (<hi rend="i">Voyez l’Histoire du Théatre François.</hi>)</p>
-    </div>
-    <div type="section" xml:id="XI">
-        <head>XI.</head>
-        <p>Moliere, étoit designe pour remplir <pb n="10" />la premiere place vacante à l’Académie Françoise ; la compagnie s’étoit arrangée au sujet de sa profession. Moliere n’auroit plus joué que dans les rôles du haut comique, mais sa mort précipitée le priva d’une place bien méritée, &amp; l’Académie d’un sujet si digne de la remplir.</p>
-<p>Ce fait a été plusieurs fois attesté par M. de la Motte, de l’Académie Françoise ; &amp; nous ne doutons point, disent MM. Parfaict dans leur Histoire du Théatre François, qu’en lisant ceci, beaucoup de ses amis ne se rappellent de le lui avoir ouï dire.</p>
-    </div>
-    <div type="section" xml:id="XII">
-        <head>XII.</head>
-        <p>On ne prétend rien diminuer du mérite &amp; de la gloire de Moliere, en disant que le fond de la fable de sa Comédie de <hi rend="i">l’Avare</hi> est pris en partie de l’<hi rend="i">Aulularia</hi> de Plaute, &amp; en partie de la <hi rend="i">Sporta del Gelli</hi>, qui a suivi le Poëte latin ; que le premier Acte est imité d’une Comédie Italienne à l’inpromptu, intitulée l’<hi rend="i">Amante Tradito</hi>, &amp; jouée à Paris sous le nom de <hi rend="i">Lelio &amp; d’Arlequin, valets dans la même maison</hi> : que la premiere Scene du second Acte est tirée du <hi rend="i">Dottor Bachettone</hi>, Canevas Italien ; que la Scene 5<hi rend="sup">me.</hi> du même Acte est toute copiée <hi rend="i">de le case <pb n="11" />Svaliggiate</hi>, ou <hi rend="i">Gli interompimenti di Pantalone</hi>, Canevas pareillement joué à l’inpromptu, que la Scene seconde du troisieme Acte est toute entiere dans la <hi rend="i">Cameriera Nobile</hi>, Comédie Italienne aussi jouée à l’inpromptu : que toute la Scene 7<hi rend="sup">me.</hi> du même Acte se trouve dans le <hi rend="i">Case Svaliggiate</hi>, dont nous venons de parler ; &amp; qu’enfin la seconde &amp; la troisieme Scene du cinquieme Acte paroissent entiérement imitées de l’<hi rend="i">Amante Tradito</hi>, quoique l’idée de celle-ci soit dans Plaute. Les Italiens, qui ont enchéri sur ce modele, ont fourni à Moliere les lazzis, les plaisanteries, &amp; même une partie du détail : si on ajoute ce qui est dans Plaute &amp; dans Gelli, on ne trouvera pas dans toute la Comédie de l’Avare, quatre Scenes qui soient inventées par Moliere.</p>
-<p>Un ouvrage, dit M. Riccoboni dont je tire cet article, un ouvrage aussi singulier &amp; aussi difficile, car je suis presque certain qu’il a plus coûté à Moliere que deux Comédies de son invention, mérite l’attention, &amp; même l’admiration des connoisseurs.</p>
-    </div>
-    <div type="section" xml:id="XIII">
-        <head>XIII.</head>
-        <p>La premiere Scene de la <hi rend="i">Sœur</hi>, Comédie de Rotrou, est l’original sur lequel Moliere a composé la premiere <pb n="12" />Scene de ses Fourberies de Scapin. Moliere a encore fait usage de la troisieme Scene du premier Acte de la <hi rend="i">Sœur</hi>, dans la seconde Scene du premier Acte de ses mêmes Fourberies. Mais la comparaison que l’on peut faire des deux Scene de Rotrou avec les deux de Moliere, loin de faire tort à ce dernier, doit faire sentir la finesse de son goût, &amp; combien les plus foibles idées devenoient supérieures entre ses mains. On en peut dire autant des deux Scenes qu’il a prises dans <hi rend="i">le Pédant Joué</hi>, de Cyrano de Bergerac.</p>
-    </div>
-    <div type="section" xml:id="XIV">
-        <head>XIV.</head>
-        <p>Le Martial dont la Comtesse d’Escarbagnas dit : <hi rend="i">Quoi ? Martial, fait-il des vers ? Je pensois qu’il ne fît que des gants ?</hi> Ce Martial, dis-je, étoit un Marchand Parfumeur, &amp; joignoit à cette qualité celle de Valet de Chambre de <hi rend="i">Monsieur</hi>. (frere du Roi.)</p>
-    </div>
-    <div type="section" xml:id="XV">
-        <head>XV.</head>
-        <p>Moliere a joué dans ses Femmes Savantes l’Hotel de Rembouillet, qui étoit le rendez-vous de tous les beaux esprits. Moliere y eut un grand accès, &amp; y étoit fort bien venu ; mais lui ayant été dit quelques railleries piquantes de la part de Cotin &amp; de Ménage, il n’y mit plus le pied, &amp; joua Cotin sous le nom de Trissotin, &amp; Ménage sous celui de Vadius, qui, à ce que l’on prétend, <pb n="13" />eurent une querelle à peu près semblable à celle que l’on voit si plaisamment dépeinte dans les Femmes Savantes. Cotin avoit introduit Ménage chez Mde. de Rambouillet. Ce dernier allant voir cette Dame. Après la premiere représentation des Femmes Savantes, ou elle s’étoit trouvée ; elle ne put s’empêcher de lui dire : Quoi ? Monsieur, vous souffrirez que cette impertinent de Moliere nous joue de la sorte ? <hi rend="i">Ménage</hi> ne lui fit point d’autre réponse que celle-ci : <hi rend="i">Madame j’ai vu la Piece, elle est parfaitement belle, on n’y peut rien trouver à rédire, ni à critiquer</hi>. Bel exemple de modération d’un Auteur du siecle passé, qui sera peu imité par les Auteurs du siecle présent. (<hi rend="i">Carpenteriana page</hi> 38.)</p>
-    </div>
-    <div type="section" xml:id="XVI">
-        <head>XVI.</head>
-        <p>Le Latin Macaronique qui fait tant rire à la fin du Malade Imaginaire, fut fourni à Moliere par son ami Despréaux, en dînant ensemble avec Mlle. Ninon de l’Enclos &amp; Mde. de la Sabliere. (<hi rend="i">Bolœana, par M. de Monchenay.</hi>)</p>
-    </div>
-    <div type="section" xml:id="XVII">
-        <head>XVII.</head>
-        <p>La premiere fois que le Malade Imaginaire fut joué, Beralde répondoit aux invectives de M. Fleurant : <hi rend="i">Allez, Monsieur, on voit bien que vous avez coutume de ne parler qu’à des culs</hi>. <pb n="14" />Tous les Auditeurs qui étoient à cette représentation s’en indignerent, au lieu qu’on fut ravi à la suivante d’entendre dire : <hi rend="i">Allez, Monsieur, on voit bien que vous n’avez pas accoutumé de parler à de parler à des visages</hi>. C’est dire la même chose ; mais c’est la dire plus finement. (<hi rend="i">Lettres de Boursault.</hi>)</p>
-    </div>
-    <div type="section" xml:id="XVIII">
-        <head>XVIII.</head>
-        <p>XIX. La fille que Moliere avoit euë de son Mariage avec Mlle. Béjart, fut nommée <hi rend="i">Esprit-Marie Magdelaine Poquelin Moliere</hi>. Elle étoit grande, bienfaite, peu jolie mais elle réparoit ce défaut par beaucoup d’esprit. Lasse d’attendre un parti du choix de sa mere, elle se laissa enlever par le sieur Claude Rachel, Ecuyer sieur de Montalant. Mademoiselle Moliere, remariée pour lors à Guerin d’Etriché, fit quelques poursuites, mais des amis communs accommoderent l’affaire. M. &amp; Mde. de Montalant sont morts à Argenteuil près de Paris, sans postérité.</p>
-    </div>
-    <div type="section" xml:id="XIX">
-        <head>XIX.</head>
-        <p>Le sieur Béjart, beau-frere de Moliere étoit demeuré estropié d’une blessure qu’il reçut au pied en séparant deux de ses amis qui se battoient dans la Place du Palais Royal. (En croisant leurs épées avec la sienne, &amp; les rabattant, l’une lui piqua un pied) Moliere, <pb n="15" />qui peu de temps après donna sa Comédie de l’<hi rend="i">Avare</hi>, chargea Béjart du rôle de la <hi rend="i">Fleche</hi>, de qui <hi rend="i">Harpagon</hi>, dit par allusion : <hi rend="i">Je ne me plais point à voir ce chien de boiteux là</hi>. Comme Béjart faisoit beaucoup de plaisir, on boita aussi-tôt sur tous les théatres de Province ; non-seulement dans le rôle de la Fleche, où cela devenoit nécessaire, mais indifféremment dans tous ceux que Béjart remplissoit à Paris.</p>
-    </div>
-    <div type="section" xml:id="XX">
-        <head>XX.</head>
-        <p>Moliere dans sa Comédie du Bourgeois Gentilhomme, a donné, dit-on, le portrait de Mademoiselle Moliere, (Acte III. Scene IX.) sous le personnage de Lucille. Il y a grande apparence que cette Anecdote est vraie, car ce portrait est très-ressemblant à tous ceux qu’on a fait de cette Actrice.</p>
-    </div>
-    <div type="section" xml:id="XXI">
-        <head>XXI.</head>
-        <p>Mademoiselle Moliere, ou pour mieux dire Mlle. Guerin, a quitté le Théatre assez âgée, (morte le 3 Novembre 1700.) Elle jouoit à merveille les rôles que Moliere, son mari, avoit fait pour elle, &amp; ceux des Femmes Coquettes &amp; Satyriques. Elle remplissoit aussi fort bien les seconds rôles Tragiques. Sans être belle, elle étoit piquantes &amp; capable d’inspirer une grande passion. (<hi rend="i">Note de M. Grandval, le pere.</hi>)</p>
-    </div>
-    <div type="section" xml:id="XXII">
-        <pb n="16" />
-        <head>XXII.</head>
-<p>Moliere fuyoit la peine ; &amp; ce fut M. Despréaux, qui lui corrigea ces deux vers de la premiere Scene des Femmes Savantes, que le Poëte Comique avoit faits ainsi :</p>
-<quote>
-<l>Quand sur une personne on prétend s’ajuster,</l>
-<l>C’est par les beaux côtés, qu’il la faut imiter.</l>
-</quote>
-<p>M. Despréaux trouva du jargon dans ces deux vers, &amp; les rétablit de cette façon :</p>
-<quote>
-<l>Quand sur une personne on prétend se régler,</l>
-<l>C’est par ses beaux endroits, qu’il lui faut ressembler.</l>
-<p>(Bolœana, page 23.)</p>
-</quote>
-    </div>
-    <div type="section" xml:id="XXIII">
-        <head>XXIII.</head>
-        <p>Le mariage de Moliere avec la jeune Mademoiselle Béjart se fit en 1662. On en trouve à peu près la date dans l’Inpromptu de Versailles, représenté le 14 d’Octobre 1663.</p>
-<quote>
-<sp>
-<speaker><hi rend="sc">Moliere.</hi></speaker>
-<p>Taisez-vous ma femme, vous êtes une bête.</p>
-</sp>
-<sp>
-<speaker>Mlle. <hi rend="sc">Moliere.</hi></speaker>
-<p>Grand merci, Monsieur mon mari, Voilà ce que c’est ; le mariage change bien les gens : &amp; vous ne m’auriez pas dit cela il y a dix-huit mois.</p>
-</sp>
-</quote>
-    </div>
-    <div type="section" xml:id="XXIV">
-        <head>XXIV.</head>
-        <p>C’est sur le mariage de Mlle. Moliere avec le Comédien Guerin d’Etriché, <pb n="17" />(en 1677 ou 1678. pour le plus tard.) que l’on fit ces quatre vers, en forme de portrait.</p>
-<quote>
-<lg>
-<l>Les graces &amp; les ris, regnent sur son visage ;</l>
-<l>Elle a l’air tout charmant, &amp; l’esprit tout de feu.</l>
-<l>Elle avoit un mari d’esprit qu’elle aimoit peu,</l>
-<l>Elle en a un de chair, qu’elle aime davantage.</l>
-</lg>
-</quote>
-    </div>
-    <div type="section" xml:id="XXV">
-        <head>XXV.</head>
-        <p>Monsieur Despréaux ne se lassoit point d’admirer Moliere, qu’il appelloit toujours le <hi rend="i">Contemplateur</hi>. Il disoit que la nature sembloit lui avoir révélé tous ses secrets, du moins pour ce qui regarde les mœurs &amp; les caracteres des hommes. Il regrettoit fort qu’on eût perdu sa petite Comédie du Docteur Amoureux, parce qu’il y a toujours quelque chose de saillant &amp; d’instructif dans ses moindres ouvrages, (<hi rend="i">Bolœana</hi>)</p>
-    </div>
-    <div type="section" xml:id="XXVI">
-        <head>XXVI.</head>
-        <p>Moliere récitoit en Comédien sur le Théatre &amp; hors du Théatre : mais il parloit en honnête homme, rioit en honnête homme, avoit tous les sentiments d’une honnête homme ; en un mot, il n’avoit rien contre lui que sa profession, qu’il continuoit plus pour le profit de ses camarades que pour le sien propre. <hi rend="i">idem.</hi></p>
-    </div>
-    <div type="section" xml:id="XXVII">
-        <head>XXVII.</head>
-        <p>M. Despréaux m’a dit, (c’est M. de Monchenay qui parle) <pb n="18" />que lisant à Moliere sa Satyre, qui commence par :</p>
-<quote>
-<lg>
-<l>D’où vient, cher le Vayer que l’homme le moins sage</l>
-<l>Croit toujours seul avoir la raison en partage,</l>
-<l>Et qu’il n’est point de fou qui pour bonnes raisons</l>
-<l>Ne loge son voisin aux petites-Maisons.</l>
-</lg>
-</quote>
-<p>Moliere lui fit entendre qu’il avoit eu dessein de traiter ce sujet-là : mais qu’il demandoit d’être traité avec la derniere délicatesse : qu’il ne falloit point sur-tout faire comme Desmarets, dans ses Visionnaires qui a justement mis sur le Théatre des fous dignes des Petites-Maisons. Car, qu’un homme s’imagine être Alexandre, &amp; autres caracteres de pareille nature, cela ne peut arriver, que la cervelle ne soit tout-à-fait altérée : mais le dessein du Poëte Comique étoit de dépeindre plusieurs fous de société, qui tous auroient des manies pour lesquelles on ne renferme point, &amp; qui ne laisseroient pas de se faire le procès les uns aux autres, comme s’ils étoient moins fous pour avoir de différentes folies. Moliere avoit peut-être en vue cette idée, quand à la fin de sa premiere Scene de l’Ecole des Femmes, il fait dire d’Arnolphe par Chrisalde :</p>
-<pb n="19" /><quote>
-<l><hi rend="i">Ma foi, je le tien fou de toutes les manieres,</hi></l>
-</quote>
-<p>Arnolphe dit de son côté de Chrisalde :</p>
-<quote>
-<l><hi rend="i">Il est un peu blessé sur certaines matieres.</hi></l>
-</quote>
-    </div>
-    <div type="section" xml:id="XXVIII">
-        <head>XXVIII.</head>
-        <p>Moliere étoit fort ami du célebre Avocat Fourcroi, homme très-rédoutable par la capacité &amp; par l’étendue de ses poumons. Ils eurent une dispute à table en présence de Mr. Despréaux ; Moliere se tournant du côté du <hi rend="i">Satyrique</hi>, lui dit : <hi rend="i">Qu’est-ce que la raison avec un filet de voix contre une gueule comme cela ?</hi></p>
-    </div>
-    <div type="section" xml:id="XXIX">
-        <head>XXIX.</head>
-        <p>Deux mois avant la mort de Moliere, M. Despréaux alla le voir, &amp; le trouva fort incommodé de sa toux, &amp; faisant des efforts de poitrine qui sembloient le menacer d’une fin prochaine. Moliere assez froid naturellement ; fit plus d’amitié que jamais à M. Despréaux. Cela l’engagea à lui dire : mon pauvre M. Moliere, vous voilà dans un pitoyable état. La contention continuelle de votre esprit, l’agitation continuelle de vos poumons sur votre Théatre, tout enfin devroit vous déterminer à renoncer à la représentation. N’y-a-t-il que vous dans la troupe, qui puisse exécuter les premiers rôles ? Contentez vous de composer, <pb n="20" />&amp; laissez l’action théatrale à quelqu’un de vos camarades. Cela vous fera plus d’honneur dans le public, qui regardera vos Acteurs comme vos gagistes ; vos Acteurs d’ailleurs qui ne sont pas des plus souples avec vous, sentiront mieux votre supériorité. <hi rend="i">Ah, Monsieur</hi> ! répondit Moliere, <hi rend="i">que me dites-vous là ? Il y a un honneur pour moi à ne point quitter</hi>. Plaisant point d’honneur, disoit en soi-même le Satyrique, qui consiste à se noircir tous les jours le visage pour se faire une moustache de <hi rend="i">Sganarelle</hi>, &amp; à dévouer son dos à toutes les bastonnades de la Comédie : Quoi ! Cet homme, le premier de notre temps pour l’esprit, &amp; pour les sentiments d’un vrai Philosophe, cet ingénieux censeur de toutes les folies humaines, en a une plus extraordinaire que celles dont il se moque tous les jours ! Cela montre bien le peu que sont les hommes.</p>
-    </div>
-    <div type="section" xml:id="XXX">
-        <head>XXX.</head>
-        <p>Racine, après avoir donné son Alexandre à la troupe de Moliere pour le jouer, le retira pour le donner aux Comédiens de l’Hôtel de Bourgogne. Il eut chez eux tout le succès possible : ce qui déplut fort à Moliere ; outre que Racine lui avoit débauché la <pb n="21" /><hi rend="i">Dupare</hi>, qui étoit la plus fameuse de ses Actrices, &amp; qui depuis joua à ravir dans le rôle d’<hi rend="i">Andromaque</hi>. De-là vint la brouillerie de Moliere &amp; de Racine, qui s’étudioient tous deux à soutenir leur Théatre avec une pareille émulation. Peu de temps après la désertion du <hi rend="i">Poëte Tragique</hi>, Moliere donna son Avare, ou M. Despréaux fut des plus assidus. <hi rend="i">Je vous vis derniérement, lui dit Racine, à la piece de Moliere, &amp; vous ryez tout seul sur le Théatre. Je vous estime trop</hi>, lui répondit son ami, <hi rend="i">pour croire que vous n’y ayez pas ri, du moins intérieurement</hi>,</p>
-<p>M. Despréaux préféroit l’Avare de Moliere à celui de Plaute, qui est outré dans plusieurs endroits, &amp; entre dans des détails bas &amp; ridicules. Au contraire celui du Comique Moderne est dans la nature &amp; une des meilleures Pieces de l’Auteur ; C’est ainsi qu’en jugeoit M. Despréaux.</p>
-    </div>
-    <div type="section" xml:id="XXXI">
-        <head>XXXI.</head>
-        <p>Moliere étant pressé par le Roi au sujet de la Comédie des <hi rend="i">Fâcheux</hi> eut recours à Chapelle pour lui faire la Scene de <hi rend="i">Caritidès</hi>, que Moliere trouva si froide qu’il n’en conserva pas un seul mot ; &amp; fit de son chef cette belle Scene que nous admirons dans le <pb n="22" />Fâcheux. Et sur ce que Chapelle tiroit vanité du bruit qui courut dans le monde, qu’il travailloit avec Moliere, ce fameux Auteur lui fit dire par M. Despréaux qu’il ne favorisât pas ces bruits là, qu’autrement il l’obligeroit à montrer sa misérable Scéne de <hi rend="i">Caritidès</hi> ou il n’avoit pas trouvé la moindre lueur de plaisanterie.</p>
-    </div>
-    <div type="section" xml:id="XXXII">
-        <head>XXXII.</head>
-        <p>Il y a une Anecdote assez plaisante au sujet de la Chanson : <hi rend="i">Qu’ils sont doux, bouteille ma mie</hi> ! &amp;c. que chante Sganarelle dans la Comédie du <hi rend="i">Médecin malgré-lui</hi>. M. Roze de l’Académie Françoise, &amp; Secretaire du cabinet du Roi, fit des paroles latines sur cet air ; d’abord, pour se divertir, &amp; ensuite pour faire une petite malice à Moliere, à qui il reprocha chez M. le Duc de Montauzier, d’être plagiaire : ce qui donna lieu à une fort vive &amp; &amp; plaisante dispute. M. Roze soutenant, en chantant les paroles latines, que Moliere les avoit traduites en François d’une Epigramme Latine imitée de l’<hi rend="i">Anthologie</hi>, dont l’air en question semble fait exprès. Voici les paroles.</p>
-<quote>
-<lg>
-    <l>     Quam dulces !</l>
-    <l>     Amphora amœna !</l>
-    <l>     Quam dulces !</l>
-    <pb n="23" /><l>     Sunt tuæ voces !</l>
-<l>Dùm fundis merum in Calices,</l>
-<l>Utinam semper esses plena :</l>
-<l>Ah ! Ah ! cara mea lagena,</l>
-    <l>     Vacua cur jaces ?</l>
-</lg>
-<bibl>(Lettre sur Moliere insérée dans le Mercure de France en Décembre 1739. premier volume page 2914.)</bibl>
-</quote>
-    </div>
-    <div type="section" xml:id="XXXIII">
-        <head>XXXIII.</head>
-        <p>Le Perruquier dont parle M. Despréaux dans son Lutrin (chant II.) s’appelloit Didier l’<hi rend="i">Amour</hi>. Sa premiere femme étoit un clabaudeuse éternelle, qu’il savoit étriller sans s’émouvoir. Moliere a merveilleusement bien peint leur caractere dans la premiere Scene de son Médecin Malgré-lui. (<hi rend="i">Menagiana, de</hi> 1729.)</p>
-    </div>
-    <div type="section" xml:id="XXXIV">
-        <head>XXXIV.</head>
-        <p>XXXIV. Lorsque Moliere sut mort sa femme alla à Versailles se jeter aux pieds du Roi pour se plaindre de l’injure que l’on faisoit à la mémoire de son mari en lui réfusant la sépulture : mais elle fit fort mal sa cour en lui disant au Roi que <hi rend="i">si son mari étoit criminel, ses crimes avoient été autorisés par sa Majesté même</hi>. Pour surcroît de malheur, la Moliere avoit mené avec elle le Curé d’Auteuil pour rendre témoignage des bonnes mœurs du défunt, qui louoit une maison dans ce Village. Ce Curé, au lieu de parler en faveur <pb n="24" />de Moliere, entreprit mal à propos de se justifier lui-même d’une accusation de <hi rend="i">Jansénisme</hi> dont il croyoit qu’on l’avoit chargé auprès de sa Majesté. Ce contretemps acheva de tout gâter : le Roi les renvoya brusquement l’un &amp; l’autre, en disant à la Moliere que l’affaire dont elle lui parloit, dépendoit du Ministere de M. l’Archevêque. (<hi rend="i">Note manuscrite de M. Brossette. Non imprimée.</hi> 1.)</p>
-    </div>
-    <div type="section" xml:id="XXXV">
-        <head>XXXV.</head>
-        <p>Moliere s’étoit copié lui même en quelques endroits de sa Comédie du Misanthrope, sur tout dans la Scene où <hi rend="i">Oronte</hi> fait des protestations d’amitié &amp; de grandes offres de service à <hi rend="i">Alceste</hi> ; &amp; ou <hi rend="i">Alceste</hi> répond à chaque fois, d’un air froid &amp; embarrassé : <hi rend="i">Monsieur</hi>..... (<hi rend="i">Non imprimée</hi> 2.)</p>
-<p>Dans la même Comédie, il y a aussi un trait de M. Despréaux. Moliere vouloit le détourner de l’acharnement qu’il faisoit paroître dans ses Satyres contre <hi rend="i">Chapelain</hi> ; disant, que Chapelain étoit en grande considération dans le monde ; qu’il étoit particuliérement aimé de M. Colbert ; &amp; que ces railleries outrées pourroient lui faire des affaires auprès de ce Ministre, &amp; du Roi même. Ces réflexions trop sérieuses ayant mis <pb n="25" />notre Poëte en mauvaise humeur : <hi rend="i">Ho ! le Roi &amp; M. Colbert feront ce qu’il leur plaira</hi>, dit-il brusquement ; <hi rend="i">mais à moins que le Roi ne m’ordonne expressément de trouver bons les vers de Chapelain, je soutiendrai toujours, qu’un homme, après avoir fait la Pucelle, mérite d’être pendu</hi>. Moliere se mit à rire de cette saillie, &amp; l’employa ensuite fort à propos : (<hi rend="i">Acte II. Scene derniere.</hi>)</p>
-<quote>
-<lg>
-<l>Hors qu’un commandement exprès du Roi ne vienne,</l>
-<l>De trouver bons les vers dont on se met en peine :</l>
-<l>Je soutiendrai toujours, morbleu, qu’ils sont mauvais,</l>
-<l>Et qu’un homme est pendable après les avoir faits.</l>
-</lg>
-<p>(<hi rend="i">Note Manuscrite de M. Brossette.</hi>)</p>
-</quote>
-    </div>
-    <div type="section" xml:id="XXXVII">
-        <head>XXXVII.</head>
-        <p>La Comédie de l’Amour-Médecin est la premiere où Moliere ait joué les Médecins &amp; la Médecine. Et pour rendre la plaisanterie plus agréable au Roi devant qui elle fut représentée à Versailles, il y joua les premiers Médecins de la Cour avec des masques faits tout exprès. Ces Médecins étoient Messieurs des <hi rend="i">Fougerais, Esprit, Guenaut &amp; d’Aquin</hi> ; &amp; comme Moliere vouloit déguiser leurs noms, il pria M. Despréaux de leur en faire de convenables. Il en fit en effet qui étoient tirés du Grec, &amp; qui marquoient le caractere <pb n="26" />de chacun de ces Médecins. Il donna à M. de Fougerais le nom de <hi rend="i">Desfonandrès</hi> qui signifie <hi rend="i">tueur d’hommes</hi>. A M. Esprit qui bredouilloit, celui de <hi rend="i">Bahis</hi> qui signifie <hi rend="i">jappant, aboyant. Macroton</hi> fut le nom qu’il donna à M. Guenaut, parce qu’il parloit fort lentement. Et enfin celui de <hi rend="i">Tomès</hi>, qui signifie un Saigneur à M. d’Aquin qui aimoit beaucoup la saignée. (<hi rend="i">non imprimée</hi> 3.)</p>
-<quote>
-<lg>
-<l><hi rend="i">Desfonandrès</hi> du Grec φενω <hi rend="i">Occido</hi> &amp; de ανδρὲς</l>
-<l>Vir : Ανδροφόνω <hi rend="i">Homicida</hi>.</l>
-<l><hi rend="i">Bahis</hi> de Βαΰζα, vocem Caninam edo, latro.</l>
-<l>Macroton, de μακρὸς, <hi rend="i">Longus</hi> &amp; de Τονος <hi rend="i">Tonus</hi></l>
-<l>Tomés de Τομη sectio, ou bien de Τομός <hi rend="i">Seindens</hi>.</l>
-</lg>
-<bibl>(<hi rend="i">Note Manuscrite de M. Brossette.</hi>)</bibl>
-</quote>
-    </div>
-    <div type="section" xml:id="XXXVIII">
-        <head>XXXVIII.</head>
-        <p>Toutes les Pieces du Théatre de Moliere ont été traduites en Italien sous le titre suivant :</p>
-<p>Le Opere di G. B. P. di Moliere, divise in quattro volumi, e arrichite di bellissime figure, da Nic. di castelli, secret. di S.A.S.E. di Brand. 1698. in Lipsia a spese dell’autore, e appresso Gio-Ludovico Gleditsels.</p>
-<p>Cette traduction doit être regardée comme un ouvrage très-médiocre.</p>
-</div>
-</body>
-</text>
+        <fileDesc>
+            <titleStmt>
+                <title>[Anecdotes et remarques sur Molière] (<hi rend="i">Récréations littéraires</hi>) [graphies originales]</title>
+                <author key="Cizeron-Rival, François-Louis (1726-1795)">François-Louis Cizeron-Rival</author>
+            </titleStmt>
+            <editionStmt>
+                <edition>OBVIL</edition>
+                <respStmt>
+                    <name>Eric Thiébaud</name>
+                    <resp>Stylage sémantique</resp>
+                </respStmt>
+                <respStmt>
+                    <name>Wordpro</name>
+                    <resp>Numérisation et encodage TEI</resp>
+                </respStmt>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Sorbonne Université, LABEX OBVIL</publisher>
+                <date when="2018"/>
+                <idno>http://obvil.paris-sorbonne.fr/corpus/moliere/critique/cizeron-rival_moliere_orig/</idno>
+                <availability status="restricted">
+                    <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+                        <p>Copyright © 2018 Sorbonne Université, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+                        <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+                        <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+                        <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+                        <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures, la diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>François-Louis <author>Cizeron-Rival</author>, <title><hi rend="i">[Anecdotes et remarques sur Molière], in </hi>Récréations littéraires, ou Anecdotes et remarques sur différents sujets recueillies par M. C. R*** (Cizeron-Rival)</title>, <pubPlace>Paris</pubPlace>, <publisher>Dessaint</publisher>, <date>1765</date>, p. <biblScope unit="page">1-26</biblScope>. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k6529019v/f21.image">Gallica</ref>.</bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <creation>
+                <date when="1765"/>
+            </creation>
+            <langUsage>
+                <language ident="fre">fre</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="section" xml:id="introduction">
+                <pb n="1" xml:id="p1"/>
+                <head>[Introduction]</head>
+                <p>Ce furent les Précieuses Ridicules qui mirent Moliere en réputation. La piece ayant eu, comme tout le monde fait, l’approbation de tout Paris, on l’envoya à la Cour, qui étoit alors au voyage des Pyrénées, où elle fut très-bien reçue. Et cela enfla le courage de l’Auteur. <hi rend="i">Je n’ai plus que faire</hi>, dit-il, <hi rend="i">d’étudier Plaute &amp; Térence, ni d’éplucher les fragments de Ménandre ; je n’ai qu’à étudier le monde</hi>.</p>
+                <p>Moliere, peu de temps après s’être <pb n="2" xml:id="p2"/>brouillé avec M. Racine, donna sa Comédie de l’Avare, où M. Despréaux fut un des plus assidus. « <hi rend="i">Je vous vis derniérement</hi>, lui dit Racine, <hi rend="i">à la Piece de M. Moliere, &amp; vous ryez tout seul sur le Théatre. Je vous estime trop</hi>, lui répondit son ami, <hi rend="i">pour croire que vous ni ayez pas ri, du moins intérieurement</hi>. »</p>
+                <p>M. Despréaux préféroit l’Avare de Moliere à celui de Plaute, qui est outré en plusieurs endroits, &amp; entre dans des détails bas &amp; ridicules. Au contraire celui du Comique Moderne est dans la nature, &amp; une des meilleures Pieces de l’Auteur. C’est ainsi qu’en jugeoit le Législateur de notre Parnasse. Quoique le Misanthrope soit peut-être la meilleure Comédie que nous ayons aujourd’hui, le Public hésita durant quelques jours à l’avouer pour excellente ; mais les personnes d’un goût exquis prévirent même d’abord quel parti il prendroit dans la suite. On sait les louanges que le Duc de Montausier donna au Misanthrope après la premiere représentation. Despréaux après avoir vu la troisieme, soutint à Racine, qui n’étoit pas fâché du danger où la réputation de Moliere sembloit être exposée, que cette Comédie <pb n="3" xml:id="p3"/>auroit bientôt un succès des plus éclatants. Le Public justifia bien la prédiction de l’Auteur de l’Art Poétique ; &amp; depuis long-temps les François citent le Misanthrope comme l’honneur de leur Scene Comique. C’est la Piece françoise, que nos voisins ont adoptée avec la plus grande prédilection.</p>
+            </div>
+            <div type="section" xml:id="I">
+                <head>I.</head>
+                <p>Il est dit dans la Comédie de George-Dandin, (Acte 1. Scene 5.) que <hi rend="i">Bertrand de Sottenville</hi> eut le crédit de vendre tout son bien pour faire le voyage d’outre-mer. Lors de la représentation de cette Piece, tout le monde fit l’application de cet endroit à M. de la Feuillade, qui en ce temps-là s’avisa de mener en Candie à ses dépens une centaine de Gentilshommes équipés pour combattre contre les Turcs, pendant le siege de cette Isle.</p>
+            </div>
+            <div type="section" xml:id="II">
+                <head>II.</head>
+                <label><hi rend="i">Analyse de la jalousie du Barbouillé, farce en un Acte, par Moliere.</hi> (<hi rend="i">non Imprimée.</hi>)</label>
+                <p><quote>« Le <hi rend="i">Barbouillé</hi> commence par se plaindre des chagrins que lui donne sa méchante femme. Il va consulter le Docteur sur les moyens de la mettre à la raison. Celui-ci parlant toujours, ne lui donne pas le temps de <pb n="4" xml:id="p4"/>s’expliquer. La femme arrive, &amp; le Docteur continuant toujours ses tirades, les impatiente l’un &amp; l’autre au point de lui dire des injures. Entr’autres choses, la femme lui dit qu’il est un <hi rend="i">Ane</hi>, &amp; qu’elle est aussi Docteur que lui ; &amp; le Docteur lui répond : Toi Docteur ? Vraiment je crois que tu es un plaisant Docteur. Des genres tu n’aimes que le masculin : à l’égard des conjugaisons, de la Syntaxe, &amp; de la quantité...... Tu n’aimes que.... Jugez »</quote> dit Rousseau à M. Brossette <quote>« jugez par cet échantillon du beau ton de plaisanterie de ce temps-là. »</quote></p>
+                <p>Ils s’en vont, hormis la femme qui demeure pour attendre son galant avec qui elle est surprise par le mari qui amene avec lui son beau-pere Villebrequin. Elle donne des coups de bâton au Barbouillé, feignant de les donner au galant : son pere &amp; elle se tournent contre le mari, qui continue ses invectives. Le Docteur met la tête à la fenêtre, &amp; leur fait à tous des réprimandes : il descend pour mettre la paix entr’eux ; ils se sauvent tous pour se dérober à la volubilité de sa langue, &amp; le Barbouillé plus impatienté que les <pb n="5" xml:id="p5"/>autres, pendant qu’il poursuit ses déclamations, lui attache une corde au pied, &amp; l’ayant fait tomber, le traîne à écorche-cul jusques dans la coulisse, avec quoi finit la Comédie. Tout cela est revêtu du style le plus bas &amp; le plus ignoble que l’on puisse imaginer.</p>
+            </div>
+            <div type="section" xml:id="III">
+                <head>III.</head>
+                <p>Lorsque Moliere fait dire à Chrisalde, dans l’Ecole des Femmes (Acte I, Scene I.) :</p>
+                <quote>
+                    <lg>
+                        <l>Je sais un Paysan, qu’on appelloit Gros-Pierre,</l>
+                        <l>Qui n’ayant pour tout bien qu’un seul quartier de terre.</l>
+                        <l>Y fit tout à l’entour faire un fossé bourbeux,</l>
+                        <l>Et de Monsieur de l’Isle en prit le nom pompeux.</l>
+                    </lg>
+                </quote>
+                <p>Il a eu en vue Thomas Corneille qui, après avoir porté long-temps le nom de <hi rend="i">Corneille le jeune</hi>, se fit appeller dans la suite Corneille de l’<hi rend="i">Isle</hi>. C’est ce que j’apprends de l’Abbé d’Aubignac, dans sa <hi rend="i">quatrieme Dissertation concernant le Poëme Epique</hi>.</p>
+            </div>
+            <div type="section" xml:id="IV">
+                <head>IV.</head>
+                <p>Dans la Comédie des Fâcheux, qui est une des plus belles de Moliere, le Fâcheux Chasseur qu’il introduit dans une des Scenes de cette Piece, est M. le Marquis de Soyecourt. Ce fut le Roi lui-même qui lui donna le sujet, &amp; voici comme. Au sortir de la premiere représentation de cette Comédie, qui se fit chez Mr. Fouquet ; <pb n="6" xml:id="p6"/>le Roi dit à Moliere, en lui montrant M. de Soyecourt : Voilà un grand original que tu n’as pas encore copié. C’en fut assez dit : cette Scene fut faite &amp; apprise en moins de vingt-quatre heures, &amp; le Roi eut le plaisir de la voir en sa place, à la représentation suivante. (<hi rend="i">Menagiana</hi>, Tome. III. page 24.)</p>
+            </div>
+            <div type="section" xml:id="V">
+                <head>V.</head>
+                <p>Moliere s’est servi pour la composition de la premiere Scene &amp; pour l’exposition de toute la Piece dont je viens de parler, de la Satyre IX du premier livre d’Horace ; <hi rend="i">Ibam forte via sacra</hi>, &amp;c ; mais il imagina un motif, une intrigue ou action, &amp; un dénouement. (<hi rend="i">Riccoboni, observation sur la Comédie &amp; le génie de Moliere.</hi>)</p>
+            </div>
+            <div type="section" xml:id="VI">
+                <head>VI.</head>
+                <p>Le fameux Comte de Grammont a fourni à Moliere l’idée de son <hi rend="i">Mariage forcé</hi>. Ce Seigneur pendant son séjour à la Cour d’Angleterre, avoit fort aimé Mlle. Hamilton : leurs amours même avoient fait du bruit, &amp; il répassoit en France sans avoir conclu avec elle ; les deux freres de la Demoiselle le joignirent à Douvres dans le dessein de faire avec lui le coup de pistolet. Du plus loin qu’ils l’apperçurent, ils lui crierent : Comte de Grammont, <pb n="7" xml:id="p7"/>Comte de Grammont, n’avez-vous rien oublié à Londres ? Pardonnez-moi, répondit le Comte, qui devinoit leur intention, j’ai oublié d’épouser votre sœur, &amp; j’y retourne avec vous pour finir cette affaire. (<hi rend="i">Ana, ou Bigarrure Calotine premiere partie page</hi> 18.)</p>
+            </div>
+            <div type="section" xml:id="VII">
+                <head>VII.</head>
+                <p>La troisieme nouvelle de la troisieme journée du Decameron de Bocace, a fourni à Moliere l’idée de sa Comédie de l’Ecole des Maris. (<hi rend="i">Riccoboni, observations sur la Comédie &amp; le génie de Moliere.</hi>)</p>
+            </div>
+            <div type="section" xml:id="VIII">
+                <head>VIII.</head>
+                <p>La Piece Espagnole d’<hi rend="i">Agostino Moreto</hi>, intitulée <hi rend="i">El desden con el desden</hi>. dont Moliere a tiré sa <hi rend="i">Princesse d’Elide</hi>, est une preuve de la justesse de son esprit. Dans cette Comédie <hi rend="i">le coup de Théatre</hi> ou <hi rend="i">surprise de pensée</hi> que je crois la plus belle qu’on puisse trouver, &amp; que je donnerois pour modele en ce genre, n’étoit que bonne dans l’original, mais elle est devenue sublime entre les mains de Moliere. (<hi rend="i">Riccoboni, idem.</hi>)</p>
+            </div>
+            <div type="section" xml:id="IX">
+                <head>IX.</head>
+                <p>Moliere avoit hazardé quelques Traits dans sa Piece du <hi rend="i">Festin de Pierre</hi>, qui blesserent les gens scrupuleux, &amp; qu’il supprima à la seconde représentation de cette Piece. Entr’autres celui-ci. <pb n="8" xml:id="p8"/>Don Juan dans une Scene avec un pauvre qui lui demandoit l’aumône, ayant appris de lui qu’il passoit sa vie à prier Dieu &amp; qu’il n’avoit pas souvent de quoi manger, ajoutoit : <hi rend="i">Tu passes ta vie à prier Dieu, il te laisse mourir de faim, prend cet argent, je te le donne pour l’amour de l’humanité</hi>.</p>
+            </div>
+            <div type="section" xml:id="X">
+                <head>X.</head>
+                <label>
+                    <hi rend="i">Extrait d’un in-4°. de la Bibliotheque de St. Victor. N°. 688. QQ. ce volume est rempli de Notes Manuscrites de la main de M. de Tralage.</hi>
+                </label>
+                <p>Le Sieur Angelo, (Docteur de l’ancienne Troupe Italienne) m’a dit, (c’est ce M. de Tralage qui parle) que Moliere qui étoit de ses amis, l’ayant un jour rencontré dans le jardin du Palais Royal, après avoir parlé des nouvelles de Théatre &amp; d’autres, le même sieur Angelo, dit à Moliere, qu’il avoit vu représenter en Italie, (à Naples) une Piece intitulée le <hi rend="i">Misanthrope</hi> : &amp; que l’on devroit traiter ce sujet ; il le lui rapporta tout en entier, &amp; même quelques endroits particuliers qui lui avoient parus remarquables, &amp; entr’autres ce caractere d’un homme <pb n="9" xml:id="p9"/>de Cour fainéant, qui s’amuse à cracher dans un puits pour faire des ronds. Moliere l’écouta avec beaucoup d’attention, &amp; quinze jours après le sieur Angelo fut surpris de voir dans l’affiche de la troupe de Moliere, la Comédie du Misanthrope, annoncée &amp; promise, &amp; trois semaines après, on représenta cette Piece. Je lui répondis là-dessus, qu’il n’étoit pas possible qu’une aussi belle Piece que celle-là, en cinq actes &amp; dont les vers sont fort beaux, eût été faire en aussi peu de temps ; il me repliqua que cela paroissoit incroyable, mais que tout ce qu’il venoit de me dire étoit très-véritable, n’ayant aucun intérêt de déguiser la verité.</p>
+                <p><hi rend="i">Nota.</hi> Ce discours d’Angelo est si fort éloigné de la vraisemblance, que ce seroit abuser de la patience du lecteur d’en donner la réfutation ; aussi ne l’a t’on employé que pour prévenir des personnes, qui trouvant ce passage dans le volume que l’on vient de citer, pourroient l’altérer dans leur récit, &amp; donner le change à un certain Public, toujours disposé à diminuer la gloire des grands hommes. (<hi rend="i">Voyez l’Histoire du Théatre François.</hi>)</p>
+            </div>
+            <div type="section" xml:id="XI">
+                <head>XI.</head>
+                <p>Moliere, étoit designe pour remplir <pb n="10" xml:id="p10"/>la premiere place vacante à l’Académie Françoise ; la compagnie s’étoit arrangée au sujet de sa profession. Moliere n’auroit plus joué que dans les rôles du haut comique, mais sa mort précipitée le priva d’une place bien méritée, &amp; l’Académie d’un sujet si digne de la remplir.</p>
+                <p>Ce fait a été plusieurs fois attesté par M. de la Motte, de l’Académie Françoise ; &amp; nous ne doutons point, disent MM. Parfaict dans leur Histoire du Théatre François, qu’en lisant ceci, beaucoup de ses amis ne se rappellent de le lui avoir ouï dire.</p>
+            </div>
+            <div type="section" xml:id="XII">
+                <head>XII.</head>
+                <p>On ne prétend rien diminuer du mérite &amp; de la gloire de Moliere, en disant que le fond de la fable de sa Comédie de <hi rend="i">l’Avare</hi> est pris en partie de l’<hi rend="i">Aulularia</hi> de Plaute, &amp; en partie de la <hi rend="i">Sporta del Gelli</hi>, qui a suivi le Poëte latin ; que le premier Acte est imité d’une Comédie Italienne à l’inpromptu, intitulée l’<hi rend="i">Amante Tradito</hi>, &amp; jouée à Paris sous le nom de <hi rend="i">Lelio &amp; d’Arlequin, valets dans la même maison</hi> : que la premiere Scene du second Acte est tirée du <hi rend="i">Dottor Bachettone</hi>, Canevas Italien ; que la Scene 5<hi rend="sup">me.</hi> du même Acte est toute copiée <hi rend="i">de le case <pb n="11" xml:id="p11"/>Svaliggiate</hi>, ou <hi rend="i">Gli interompimenti di Pantalone</hi>, Canevas pareillement joué à l’inpromptu, que la Scene seconde du troisieme Acte est toute entiere dans la <hi rend="i">Cameriera Nobile</hi>, Comédie Italienne aussi jouée à l’inpromptu : que toute la Scene 7<hi rend="sup">me.</hi> du même Acte se trouve dans le <hi rend="i">Case Svaliggiate</hi>, dont nous venons de parler ; &amp; qu’enfin la seconde &amp; la troisieme Scene du cinquieme Acte paroissent entiérement imitées de l’<hi rend="i">Amante Tradito</hi>, quoique l’idée de celle-ci soit dans Plaute. Les Italiens, qui ont enchéri sur ce modele, ont fourni à Moliere les lazzis, les plaisanteries, &amp; même une partie du détail : si on ajoute ce qui est dans Plaute &amp; dans Gelli, on ne trouvera pas dans toute la Comédie de l’Avare, quatre Scenes qui soient inventées par Moliere.</p>
+                <p>Un ouvrage, dit M. Riccoboni dont je tire cet article, un ouvrage aussi singulier &amp; aussi difficile, car je suis presque certain qu’il a plus coûté à Moliere que deux Comédies de son invention, mérite l’attention, &amp; même l’admiration des connoisseurs.</p>
+            </div>
+            <div type="section" xml:id="XIII">
+                <head>XIII.</head>
+                <p>La premiere Scene de la <hi rend="i">Sœur</hi>, Comédie de Rotrou, est l’original sur lequel Moliere a composé la premiere <pb n="12" xml:id="p12"/>Scene de ses Fourberies de Scapin. Moliere a encore fait usage de la troisieme Scene du premier Acte de la <hi rend="i">Sœur</hi>, dans la seconde Scene du premier Acte de ses mêmes Fourberies. Mais la comparaison que l’on peut faire des deux Scene de Rotrou avec les deux de Moliere, loin de faire tort à ce dernier, doit faire sentir la finesse de son goût, &amp; combien les plus foibles idées devenoient supérieures entre ses mains. On en peut dire autant des deux Scenes qu’il a prises dans <hi rend="i">le Pédant Joué</hi>, de Cyrano de Bergerac.</p>
+            </div>
+            <div type="section" xml:id="XIV">
+                <head>XIV.</head>
+                <p>Le Martial dont la Comtesse d’Escarbagnas dit : <hi rend="i">Quoi ? Martial, fait-il des vers ? Je pensois qu’il ne fît que des gants ?</hi> Ce Martial, dis-je, étoit un Marchand Parfumeur, &amp; joignoit à cette qualité celle de Valet de Chambre de <hi rend="i">Monsieur</hi>. (frere du Roi.)</p>
+            </div>
+            <div type="section" xml:id="XV">
+                <head>XV.</head>
+                <p>Moliere a joué dans ses Femmes Savantes l’Hotel de Rembouillet, qui étoit le rendez-vous de tous les beaux esprits. Moliere y eut un grand accès, &amp; y étoit fort bien venu ; mais lui ayant été dit quelques railleries piquantes de la part de Cotin &amp; de Ménage, il n’y mit plus le pied, &amp; joua Cotin sous le nom de Trissotin, &amp; Ménage sous celui de Vadius, qui, à ce que l’on prétend, <pb n="13" xml:id="p13"/>eurent une querelle à peu près semblable à celle que l’on voit si plaisamment dépeinte dans les Femmes Savantes. Cotin avoit introduit Ménage chez Mde. de Rambouillet. Ce dernier allant voir cette Dame. Après la premiere représentation des Femmes Savantes, ou elle s’étoit trouvée ; elle ne put s’empêcher de lui dire : Quoi ? Monsieur, vous souffrirez que cette impertinent de Moliere nous joue de la sorte ? <hi rend="i">Ménage</hi> ne lui fit point d’autre réponse que celle-ci : <hi rend="i">Madame j’ai vu la Piece, elle est parfaitement belle, on n’y peut rien trouver à rédire, ni à critiquer</hi>. Bel exemple de modération d’un Auteur du siecle passé, qui sera peu imité par les Auteurs du siecle présent. (<hi rend="i">Carpenteriana page</hi> 38.)</p>
+            </div>
+            <div type="section" xml:id="XVI">
+                <head>XVI.</head>
+                <p>Le Latin Macaronique qui fait tant rire à la fin du Malade Imaginaire, fut fourni à Moliere par son ami Despréaux, en dînant ensemble avec Mlle. Ninon de l’Enclos &amp; Mde. de la Sabliere. (<hi rend="i">Bolœana, par M. de Monchenay.</hi>)</p>
+            </div>
+            <div type="section" xml:id="XVII">
+                <head>XVII.</head>
+                <p>La premiere fois que le Malade Imaginaire fut joué, Beralde répondoit aux invectives de M. Fleurant : <hi rend="i">Allez, Monsieur, on voit bien que vous avez coutume de ne parler qu’à des culs</hi>. <pb n="14" xml:id="p14"/>Tous les Auditeurs qui étoient à cette représentation s’en indignerent, au lieu qu’on fut ravi à la suivante d’entendre dire : <hi rend="i">Allez, Monsieur, on voit bien que vous n’avez pas accoutumé de parler à de parler à des visages</hi>. C’est dire la même chose ; mais c’est la dire plus finement. (<hi rend="i">Lettres de Boursault.</hi>)</p>
+            </div>
+            <div type="section" xml:id="XVIII">
+                <head>XVIII.</head>
+                <p>XIX. La fille que Moliere avoit euë de son Mariage avec Mlle. Béjart, fut nommée <hi rend="i">Esprit-Marie Magdelaine Poquelin Moliere</hi>. Elle étoit grande, bienfaite, peu jolie mais elle réparoit ce défaut par beaucoup d’esprit. Lasse d’attendre un parti du choix de sa mere, elle se laissa enlever par le sieur Claude Rachel, Ecuyer sieur de Montalant. Mademoiselle Moliere, remariée pour lors à Guerin d’Etriché, fit quelques poursuites, mais des amis communs accommoderent l’affaire. M. &amp; Mde. de Montalant sont morts à Argenteuil près de Paris, sans postérité.</p>
+            </div>
+            <div type="section" xml:id="XIX">
+                <head>XIX.</head>
+                <p>Le sieur Béjart, beau-frere de Moliere étoit demeuré estropié d’une blessure qu’il reçut au pied en séparant deux de ses amis qui se battoient dans la Place du Palais Royal. (En croisant leurs épées avec la sienne, &amp; les rabattant, l’une lui piqua un pied) Moliere, <pb n="15" xml:id="p15"/>qui peu de temps après donna sa Comédie de l’<hi rend="i">Avare</hi>, chargea Béjart du rôle de la <hi rend="i">Fleche</hi>, de qui <hi rend="i">Harpagon</hi>, dit par allusion : <hi rend="i">Je ne me plais point à voir ce chien de boiteux là</hi>. Comme Béjart faisoit beaucoup de plaisir, on boita aussi-tôt sur tous les théatres de Province ; non-seulement dans le rôle de la Fleche, où cela devenoit nécessaire, mais indifféremment dans tous ceux que Béjart remplissoit à Paris.</p>
+            </div>
+            <div type="section" xml:id="XX">
+                <head>XX.</head>
+                <p>Moliere dans sa Comédie du Bourgeois Gentilhomme, a donné, dit-on, le portrait de Mademoiselle Moliere, (Acte III. Scene IX.) sous le personnage de Lucille. Il y a grande apparence que cette Anecdote est vraie, car ce portrait est très-ressemblant à tous ceux qu’on a fait de cette Actrice.</p>
+            </div>
+            <div type="section" xml:id="XXI">
+                <head>XXI.</head>
+                <p>Mademoiselle Moliere, ou pour mieux dire Mlle. Guerin, a quitté le Théatre assez âgée, (morte le 3 Novembre 1700.) Elle jouoit à merveille les rôles que Moliere, son mari, avoit fait pour elle, &amp; ceux des Femmes Coquettes &amp; Satyriques. Elle remplissoit aussi fort bien les seconds rôles Tragiques. Sans être belle, elle étoit piquantes &amp; capable d’inspirer une grande passion. (<hi rend="i">Note de M. Grandval, le pere.</hi>)</p>
+            </div>
+            <div type="section" xml:id="XXII">
+                <pb n="16" xml:id="p16"/>
+                <head>XXII.</head>
+                <p>Moliere fuyoit la peine ; &amp; ce fut M. Despréaux, qui lui corrigea ces deux vers de la premiere Scene des Femmes Savantes, que le Poëte Comique avoit faits ainsi :</p>
+                <quote>
+                    <l>Quand sur une personne on prétend s’ajuster,</l>
+                    <l>C’est par les beaux côtés, qu’il la faut imiter.</l>
+                </quote>
+                <p>M. Despréaux trouva du jargon dans ces deux vers, &amp; les rétablit de cette façon :</p>
+                <quote>
+                    <l>Quand sur une personne on prétend se régler,</l>
+                    <l>C’est par ses beaux endroits, qu’il lui faut ressembler.</l>
+                    <p>(Bolœana, page 23.)</p>
+                </quote>
+            </div>
+            <div type="section" xml:id="XXIII">
+                <head>XXIII.</head>
+                <p>Le mariage de Moliere avec la jeune Mademoiselle Béjart se fit en 1662. On en trouve à peu près la date dans l’Inpromptu de Versailles, représenté le 14 d’Octobre 1663.</p>
+                <quote>
+                    <sp>
+                        <speaker><hi rend="sc">Moliere.</hi></speaker>
+                        <p>Taisez-vous ma femme, vous êtes une bête.</p>
+                    </sp>
+                    <sp>
+                        <speaker>Mlle. <hi rend="sc">Moliere.</hi></speaker>
+                        <p>Grand merci, Monsieur mon mari, Voilà ce que c’est ; le mariage change bien les gens : &amp; vous ne m’auriez pas dit cela il y a dix-huit mois.</p>
+                    </sp>
+                </quote>
+            </div>
+            <div type="section" xml:id="XXIV">
+                <head>XXIV.</head>
+                <p>C’est sur le mariage de Mlle. Moliere avec le Comédien Guerin d’Etriché, <pb n="17" xml:id="p17"/>(en 1677 ou 1678. pour le plus tard.) que l’on fit ces quatre vers, en forme de portrait.</p>
+                <quote>
+                    <lg>
+                        <l>Les graces &amp; les ris, regnent sur son visage ;</l>
+                        <l>Elle a l’air tout charmant, &amp; l’esprit tout de feu.</l>
+                        <l>Elle avoit un mari d’esprit qu’elle aimoit peu,</l>
+                        <l>Elle en a un de chair, qu’elle aime davantage.</l>
+                    </lg>
+                </quote>
+            </div>
+            <div type="section" xml:id="XXV">
+                <head>XXV.</head>
+                <p>Monsieur Despréaux ne se lassoit point d’admirer Moliere, qu’il appelloit toujours le <hi rend="i">Contemplateur</hi>. Il disoit que la nature sembloit lui avoir révélé tous ses secrets, du moins pour ce qui regarde les mœurs &amp; les caracteres des hommes. Il regrettoit fort qu’on eût perdu sa petite Comédie du Docteur Amoureux, parce qu’il y a toujours quelque chose de saillant &amp; d’instructif dans ses moindres ouvrages, (<hi rend="i">Bolœana</hi>)</p>
+            </div>
+            <div type="section" xml:id="XXVI">
+                <head>XXVI.</head>
+                <p>Moliere récitoit en Comédien sur le Théatre &amp; hors du Théatre : mais il parloit en honnête homme, rioit en honnête homme, avoit tous les sentiments d’une honnête homme ; en un mot, il n’avoit rien contre lui que sa profession, qu’il continuoit plus pour le profit de ses camarades que pour le sien propre. <hi rend="i">idem.</hi></p>
+            </div>
+            <div type="section" xml:id="XXVII">
+                <head>XXVII.</head>
+                <p>M. Despréaux m’a dit, (c’est M. de Monchenay qui parle) <pb n="18" xml:id="p18"/>que lisant à Moliere sa Satyre, qui commence par :</p>
+                <quote>
+                    <lg>
+                        <l>D’où vient, cher le Vayer que l’homme le moins sage</l>
+                        <l>Croit toujours seul avoir la raison en partage,</l>
+                        <l>Et qu’il n’est point de fou qui pour bonnes raisons</l>
+                        <l>Ne loge son voisin aux petites-Maisons.</l>
+                    </lg>
+                </quote>
+                <p>Moliere lui fit entendre qu’il avoit eu dessein de traiter ce sujet-là : mais qu’il demandoit d’être traité avec la derniere délicatesse : qu’il ne falloit point sur-tout faire comme Desmarets, dans ses Visionnaires qui a justement mis sur le Théatre des fous dignes des Petites-Maisons. Car, qu’un homme s’imagine être Alexandre, &amp; autres caracteres de pareille nature, cela ne peut arriver, que la cervelle ne soit tout-à-fait altérée : mais le dessein du Poëte Comique étoit de dépeindre plusieurs fous de société, qui tous auroient des manies pour lesquelles on ne renferme point, &amp; qui ne laisseroient pas de se faire le procès les uns aux autres, comme s’ils étoient moins fous pour avoir de différentes folies. Moliere avoit peut-être en vue cette idée, quand à la fin de sa premiere Scene de l’Ecole des Femmes, il fait dire d’Arnolphe par Chrisalde :</p>
+                <pb n="19" xml:id="p19"/>
+                <quote>
+                    <l><hi rend="i">Ma foi, je le tien fou de toutes les manieres,</hi></l>
+                </quote>
+                <p>Arnolphe dit de son côté de Chrisalde :</p>
+                <quote>
+                    <l><hi rend="i">Il est un peu blessé sur certaines matieres.</hi></l>
+                </quote>
+            </div>
+            <div type="section" xml:id="XXVIII">
+                <head>XXVIII.</head>
+                <p>Moliere étoit fort ami du célebre Avocat Fourcroi, homme très-rédoutable par la capacité &amp; par l’étendue de ses poumons. Ils eurent une dispute à table en présence de Mr. Despréaux ; Moliere se tournant du côté du <hi rend="i">Satyrique</hi>, lui dit : <hi rend="i">Qu’est-ce que la raison avec un filet de voix contre une gueule comme cela ?</hi></p>
+            </div>
+            <div type="section" xml:id="XXIX">
+                <head>XXIX.</head>
+                <p>Deux mois avant la mort de Moliere, M. Despréaux alla le voir, &amp; le trouva fort incommodé de sa toux, &amp; faisant des efforts de poitrine qui sembloient le menacer d’une fin prochaine. Moliere assez froid naturellement ; fit plus d’amitié que jamais à M. Despréaux. Cela l’engagea à lui dire : mon pauvre M. Moliere, vous voilà dans un pitoyable état. La contention continuelle de votre esprit, l’agitation continuelle de vos poumons sur votre Théatre, tout enfin devroit vous déterminer à renoncer à la représentation. N’y-a-t-il que vous dans la troupe, qui puisse exécuter les premiers rôles ? Contentez vous de composer, <pb n="20" xml:id="p20"/>&amp; laissez l’action théatrale à quelqu’un de vos camarades. Cela vous fera plus d’honneur dans le public, qui regardera vos Acteurs comme vos gagistes ; vos Acteurs d’ailleurs qui ne sont pas des plus souples avec vous, sentiront mieux votre supériorité. <hi rend="i">Ah, Monsieur</hi> ! répondit Moliere, <hi rend="i">que me dites-vous là ? Il y a un honneur pour moi à ne point quitter</hi>. Plaisant point d’honneur, disoit en soi-même le Satyrique, qui consiste à se noircir tous les jours le visage pour se faire une moustache de <hi rend="i">Sganarelle</hi>, &amp; à dévouer son dos à toutes les bastonnades de la Comédie : Quoi ! Cet homme, le premier de notre temps pour l’esprit, &amp; pour les sentiments d’un vrai Philosophe, cet ingénieux censeur de toutes les folies humaines, en a une plus extraordinaire que celles dont il se moque tous les jours ! Cela montre bien le peu que sont les hommes.</p>
+            </div>
+            <div type="section" xml:id="XXX">
+                <head>XXX.</head>
+                <p>Racine, après avoir donné son Alexandre à la troupe de Moliere pour le jouer, le retira pour le donner aux Comédiens de l’Hôtel de Bourgogne. Il eut chez eux tout le succès possible : ce qui déplut fort à Moliere ; outre que Racine lui avoit débauché la <pb n="21" xml:id="p21"/><hi rend="i">Dupare</hi>, qui étoit la plus fameuse de ses Actrices, &amp; qui depuis joua à ravir dans le rôle d’<hi rend="i">Andromaque</hi>. De-là vint la brouillerie de Moliere &amp; de Racine, qui s’étudioient tous deux à soutenir leur Théatre avec une pareille émulation. Peu de temps après la désertion du <hi rend="i">Poëte Tragique</hi>, Moliere donna son Avare, ou M. Despréaux fut des plus assidus. <hi rend="i">Je vous vis derniérement, lui dit Racine, à la piece de Moliere, &amp; vous ryez tout seul sur le Théatre. Je vous estime trop</hi>, lui répondit son ami, <hi rend="i">pour croire que vous n’y ayez pas ri, du moins intérieurement</hi>,</p>
+                <p>M. Despréaux préféroit l’Avare de Moliere à celui de Plaute, qui est outré dans plusieurs endroits, &amp; entre dans des détails bas &amp; ridicules. Au contraire celui du Comique Moderne est dans la nature &amp; une des meilleures Pieces de l’Auteur ; C’est ainsi qu’en jugeoit M. Despréaux.</p>
+            </div>
+            <div type="section" xml:id="XXXI">
+                <head>XXXI.</head>
+                <p>Moliere étant pressé par le Roi au sujet de la Comédie des <hi rend="i">Fâcheux</hi> eut recours à Chapelle pour lui faire la Scene de <hi rend="i">Caritidès</hi>, que Moliere trouva si froide qu’il n’en conserva pas un seul mot ; &amp; fit de son chef cette belle Scene que nous admirons dans le <pb n="22" xml:id="p22"/>Fâcheux. Et sur ce que Chapelle tiroit vanité du bruit qui courut dans le monde, qu’il travailloit avec Moliere, ce fameux Auteur lui fit dire par M. Despréaux qu’il ne favorisât pas ces bruits là, qu’autrement il l’obligeroit à montrer sa misérable Scéne de <hi rend="i">Caritidès</hi> ou il n’avoit pas trouvé la moindre lueur de plaisanterie.</p>
+            </div>
+            <div type="section" xml:id="XXXII">
+                <head>XXXII.</head>
+                <p>Il y a une Anecdote assez plaisante au sujet de la Chanson : <hi rend="i">Qu’ils sont doux, bouteille ma mie</hi> ! &amp;c. que chante Sganarelle dans la Comédie du <hi rend="i">Médecin malgré-lui</hi>. M. Roze de l’Académie Françoise, &amp; Secretaire du cabinet du Roi, fit des paroles latines sur cet air ; d’abord, pour se divertir, &amp; ensuite pour faire une petite malice à Moliere, à qui il reprocha chez M. le Duc de Montauzier, d’être plagiaire : ce qui donna lieu à une fort vive &amp; &amp; plaisante dispute. M. Roze soutenant, en chantant les paroles latines, que Moliere les avoit traduites en François d’une Epigramme Latine imitée de l’<hi rend="i">Anthologie</hi>, dont l’air en question semble fait exprès. Voici les paroles.</p>
+                <quote>
+                    <lg>
+                        <l>     Quam dulces !</l>
+                        <l>     Amphora amœna !</l>
+                        <l>     Quam dulces !</l>
+                        <pb n="23" xml:id="p23"/>
+                        <l>     Sunt tuæ voces !</l>
+                        <l>Dùm fundis merum in Calices,</l>
+                        <l>Utinam semper esses plena :</l>
+                        <l>Ah ! Ah ! cara mea lagena,</l>
+                        <l>     Vacua cur jaces ?</l>
+                    </lg>
+                    <bibl>(Lettre sur Moliere insérée dans le Mercure de France en Décembre 1739. premier volume page 2914.)</bibl>
+                </quote>
+            </div>
+            <div type="section" xml:id="XXXIII">
+                <head>XXXIII.</head>
+                <p>Le Perruquier dont parle M. Despréaux dans son Lutrin (chant II.) s’appelloit Didier l’<hi rend="i">Amour</hi>. Sa premiere femme étoit un clabaudeuse éternelle, qu’il savoit étriller sans s’émouvoir. Moliere a merveilleusement bien peint leur caractere dans la premiere Scene de son Médecin Malgré-lui. (<hi rend="i">Menagiana, de</hi> 1729.)</p>
+            </div>
+            <div type="section" xml:id="XXXIV">
+                <head>XXXIV.</head>
+                <p>XXXIV. Lorsque Moliere sut mort sa femme alla à Versailles se jeter aux pieds du Roi pour se plaindre de l’injure que l’on faisoit à la mémoire de son mari en lui réfusant la sépulture : mais elle fit fort mal sa cour en lui disant au Roi que <hi rend="i">si son mari étoit criminel, ses crimes avoient été autorisés par sa Majesté même</hi>. Pour surcroît de malheur, la Moliere avoit mené avec elle le Curé d’Auteuil pour rendre témoignage des bonnes mœurs du défunt, qui louoit une maison dans ce Village. Ce Curé, au lieu de parler en faveur <pb n="24" xml:id="p24"/>de Moliere, entreprit mal à propos de se justifier lui-même d’une accusation de <hi rend="i">Jansénisme</hi> dont il croyoit qu’on l’avoit chargé auprès de sa Majesté. Ce contretemps acheva de tout gâter : le Roi les renvoya brusquement l’un &amp; l’autre, en disant à la Moliere que l’affaire dont elle lui parloit, dépendoit du Ministere de M. l’Archevêque. (<hi rend="i">Note manuscrite de M. Brossette. Non imprimée.</hi> 1.)</p>
+            </div>
+            <div type="section" xml:id="XXXV">
+                <head>XXXV.</head>
+                <p>Moliere s’étoit copié lui même en quelques endroits de sa Comédie du Misanthrope, sur tout dans la Scene où <hi rend="i">Oronte</hi> fait des protestations d’amitié &amp; de grandes offres de service à <hi rend="i">Alceste</hi> ; &amp; ou <hi rend="i">Alceste</hi> répond à chaque fois, d’un air froid &amp; embarrassé : <hi rend="i">Monsieur</hi>..... (<hi rend="i">Non imprimée</hi> 2.)</p>
+                <p>Dans la même Comédie, il y a aussi un trait de M. Despréaux. Moliere vouloit le détourner de l’acharnement qu’il faisoit paroître dans ses Satyres contre <hi rend="i">Chapelain</hi> ; disant, que Chapelain étoit en grande considération dans le monde ; qu’il étoit particuliérement aimé de M. Colbert ; &amp; que ces railleries outrées pourroient lui faire des affaires auprès de ce Ministre, &amp; du Roi même. Ces réflexions trop sérieuses ayant mis <pb n="25" xml:id="p25"/>notre Poëte en mauvaise humeur : <hi rend="i">Ho ! le Roi &amp; M. Colbert feront ce qu’il leur plaira</hi>, dit-il brusquement ; <hi rend="i">mais à moins que le Roi ne m’ordonne expressément de trouver bons les vers de Chapelain, je soutiendrai toujours, qu’un homme, après avoir fait la Pucelle, mérite d’être pendu</hi>. Moliere se mit à rire de cette saillie, &amp; l’employa ensuite fort à propos : (<hi rend="i">Acte II. Scene derniere.</hi>)</p>
+                <quote>
+                    <lg>
+                        <l>Hors qu’un commandement exprès du Roi ne vienne,</l>
+                        <l>De trouver bons les vers dont on se met en peine :</l>
+                        <l>Je soutiendrai toujours, morbleu, qu’ils sont mauvais,</l>
+                        <l>Et qu’un homme est pendable après les avoir faits.</l>
+                    </lg>
+                    <p>(<hi rend="i">Note Manuscrite de M. Brossette.</hi>)</p>
+                </quote>
+            </div>
+            <div type="section" xml:id="XXXVII">
+                <head>XXXVII.</head>
+                <p>La Comédie de l’Amour-Médecin est la premiere où Moliere ait joué les Médecins &amp; la Médecine. Et pour rendre la plaisanterie plus agréable au Roi devant qui elle fut représentée à Versailles, il y joua les premiers Médecins de la Cour avec des masques faits tout exprès. Ces Médecins étoient Messieurs des <hi rend="i">Fougerais, Esprit, Guenaut &amp; d’Aquin</hi> ; &amp; comme Moliere vouloit déguiser leurs noms, il pria M. Despréaux de leur en faire de convenables. Il en fit en effet qui étoient tirés du Grec, &amp; qui marquoient le caractere <pb n="26" xml:id="p26"/>de chacun de ces Médecins. Il donna à M. de Fougerais le nom de <hi rend="i">Desfonandrès</hi> qui signifie <hi rend="i">tueur d’hommes</hi>. A M. Esprit qui bredouilloit, celui de <hi rend="i">Bahis</hi> qui signifie <hi rend="i">jappant, aboyant. Macroton</hi> fut le nom qu’il donna à M. Guenaut, parce qu’il parloit fort lentement. Et enfin celui de <hi rend="i">Tomès</hi>, qui signifie un Saigneur à M. d’Aquin qui aimoit beaucoup la saignée. (<hi rend="i">non imprimée</hi> 3.)</p>
+                <quote>
+                    <lg>
+                        <l><hi rend="i">Desfonandrès</hi> du Grec φενω <hi rend="i">Occido</hi> &amp; de ανδρὲς</l>
+                        <l>Vir : Ανδροφόνω <hi rend="i">Homicida</hi>.</l>
+                        <l><hi rend="i">Bahis</hi> de Βαΰζα, vocem Caninam edo, latro.</l>
+                        <l>Macroton, de μακρὸς, <hi rend="i">Longus</hi> &amp; de Τονος <hi rend="i">Tonus</hi></l>
+                        <l>Tomés de Τομη sectio, ou bien de Τομός <hi rend="i">Seindens</hi>.</l>
+                    </lg>
+                    <bibl>(<hi rend="i">Note Manuscrite de M. Brossette.</hi>)</bibl>
+                </quote>
+            </div>
+            <div type="section" xml:id="XXXVIII">
+                <head>XXXVIII.</head>
+                <p>Toutes les Pieces du Théatre de Moliere ont été traduites en Italien sous le titre suivant :</p>
+                <p>Le Opere di G. B. P. di Moliere, divise in quattro volumi, e arrichite di bellissime figure, da Nic. di castelli, secret. di S.A.S.E. di Brand. 1698. in Lipsia a spese dell’autore, e appresso Gio-Ludovico Gleditsels.</p>
+                <p>Cette traduction doit être regardée comme un ouvrage très-médiocre.</p>
+            </div>
+        </body>
+    </text>
 </TEI>
