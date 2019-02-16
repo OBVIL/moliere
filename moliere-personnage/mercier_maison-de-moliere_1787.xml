@@ -88,19 +88,19 @@
         <div type="scene">
           <head>Scène première.</head>
           <sp who="moliere">
-            <speaker>MOLIÈRE, <hi rend="i">seul, assis devant une table, la plume à la main.</hi></speaker>
-            <p>Combien la carrière de l’Homme de Lettres est encore rétrécie par les usages tyranniques, auxquels on veut l’assujettir ! On attend de lui de nouveaux Ouvrages, et on le subordonne à toutes les misères des sociétés ! On veut qu’il représente dans le monde, et qu’il compose au cabinet ; c’est-à-dire, que l’on exige tout à la fois qu’il soit Auteur et homme oisif, deux choses incompatibles… Quand je ne voudrais pas écrire, le genre humain m’y forcerait par ses extravagances… Il me faut rêver à mon <hi rend="i">Malade imaginaire</hi>, à mon <hi rend="i">Envieux</hi>, à mon <hi rend="i">Homme de Cour…</hi> Oh ! Je garde celui-ci pour le dernier… Si la mort ne me surprend point, on verra un miroir…. Il est des choses que l’on pense quelquefois trop fortement pour pouvoir les écrire, et ce sont celles-là qui sont ordinairement perdues pour la postérité. J’oserai dire ce qu’on n’a pas encore dit ! Il faut pour cela du courage ! Oh ! J’en ai. Une voix secrète me dit que je dois livrer la guerre aux vices. Toujours libre et maître de ma pensée…. Le silence me favorise… Voici le vrai temps de la méditation… Revoyons mon plan, car c’est du plan surtout que dépend tout le reste…. Ah ! J’allais oublier… j’ai trouvé, pour ma chère traduction, une image heureuse qui rend bien mieux… (<hi rend="i">Il cherche dans ses papiers</hi>.) Où donc est mon cahier ?… Il était là… Je ne le trouve point. (<hi rend="i">Il appelle</hi>.) Lesbin, Lesbin !… Ce drôle-là est fait pour tourmenter ma vie… Lesbin, Lesbin, Lesbin !</p>
+            <speaker>MOLIÈRE, <stage>seul, assis devant une table, la plume à la main.</stage>.</speaker>
+            <p>Combien la carrière de l’Homme de Lettres est encore rétrécie par les usages tyranniques, auxquels on veut l’assujettir ! On attend de lui de nouveaux Ouvrages, et on le subordonne à toutes les misères des sociétés ! On veut qu’il représente dans le monde, et qu’il compose au cabinet ; c’est-à-dire, que l’on exige tout à la fois qu’il soit Auteur et homme oisif, deux choses incompatibles… Quand je ne voudrais pas écrire, le genre humain m’y forcerait par ses extravagances… Il me faut rêver à mon <hi rend="i">Malade imaginaire</hi>, à mon <hi rend="i">Envieux</hi>, à mon <hi rend="i">Homme de Cour…</hi> Oh ! Je garde celui-ci pour le dernier… Si la mort ne me surprend point, on verra un miroir… Il est des choses que l’on pense quelquefois trop fortement pour pouvoir les écrire, et ce sont celles-là qui sont ordinairement perdues pour la postérité. J’oserai dire ce qu’on n’a pas encore dit ! Il faut pour cela du courage ! Oh ! J’en ai. Une voix secrète me dit que je dois livrer la guerre aux vices. Toujours libre et maître de ma pensée… Le silence me favorise… Voici le vrai temps de la méditation… Revoyons mon plan, car c’est du plan surtout que dépend tout le reste… Ah ! J’allais oublier… j’ai trouvé, pour ma chère traduction, une image heureuse qui rend bien mieux… (<hi rend="i">Il cherche dans ses papiers</hi>.) Où donc est mon cahier ?… Il était là… Je ne le trouve point. (<hi rend="i">Il appelle</hi>.) Lesbin, Lesbin !… Ce drôle-là est fait pour tourmenter ma vie… Lesbin, Lesbin, Lesbin !</p>
           </sp>
         </div>
         <div type="scene">
           <head>Scène II.</head>
           <stage rend="center">Molière, Lesbin.</stage>
           <sp who="lesbin">
-            <speaker>LESBIN, <hi rend="i">accourant</hi></speaker>
-            <p>Monsieur…..</p>
+            <speaker>LESBIN, <stage>accourant</stage>.</speaker>
+            <p>Monsieur…</p>
           </sp>
           <sp who="moliere">
-            <speaker>MOLIÈRE, <hi rend="i">en colère.</hi></speaker>
+            <speaker>MOLIÈRE, <stage>en colère.</stage>.</speaker>
             <p>Tu es entré dans mon cabinet ?</p>
           </sp>
           <sp who="lesbin">
@@ -113,14 +113,14 @@
           </sp>
           <sp who="lesbin">
             <speaker>LESBIN</speaker>
-            <p>Eh ! Pardi, Monsieur, ranger vos livres, vos papiers, qui sont là jetés pêle-mêle…..</p>
+            <p>Eh ! Pardi, Monsieur, ranger vos livres, vos papiers, qui sont là jetés pêle-mêle…</p>
           </sp>
           <sp who="moliere">
             <speaker>MOLIÈRE</speaker>
             <p>Mes papiers !… Tu t’es donc avisé d’y toucher ?… Réponds-moi… Tu m’as pris un cahier comme celui-ci.</p>
           </sp>
           <sp who="lesbin">
-            <speaker>LESBIN, <hi rend="i">riant bêtement</hi></speaker>
+            <speaker>LESBIN, <stage>riant bêtement</stage>.</speaker>
             <p>Ne voilà-t-il pas un grand mal ?… Si c’était du papier blanc, à la bonne heure, vous pourriez gronder comme vous faites : quoique nous ne sachions pas lire, nous apercevons bien ce que c’est qu’une belle écriture…</p>
           </sp>
           <sp who="moliere">
@@ -160,7 +160,7 @@
           <head>Scène III.</head>
           <p/>
           <sp who="moliere">
-            <speaker>MOLIÈRE, <hi rend="i">seul</hi></speaker>
+            <speaker>MOLIÈRE, <stage>seul</stage>.</speaker>
             <p>L’imbécile ! Il en aura fait quelque enveloppe… Au moins je respire ; j’appréhendais fort qu’il ne s’en fût servi pour faire du feu… Un Poème, auquel je travaille depuis tant d’années !…</p>
           </sp>
         </div>
@@ -174,7 +174,7 @@
             <p>Le voilà, le voilà votre papier, bien employé, je m’en vante… Grondez, grondez présentement, si nous sommes en faute.</p>
           </sp>
           <sp who="moliere">
-            <speaker>MOLIÈRE, <hi rend="i">dans la plus grande colère</hi></speaker>
+            <speaker>MOLIÈRE, <stage>dans la plus grande colère</stage>.</speaker>
             <p>Ah ! Le bourreau ! Le bourreau ! Je ne m’y retrouverai jamais… J’en perdrai la tête… Pour cela, je suis bien malheureux… Que de temps ! Que de soins ! Que de peines perdues !</p>
           </sp>
           <sp who="lesbin">
@@ -186,7 +186,7 @@
             <p>Va-t-en, butor, esprit bouché… va-t-en… Retire-toi sur le champ, de peur que je ne t’assomme…</p>
           </sp>
           <sp who="lesbin">
-            <speaker>LESBIN, <hi rend="i">à part</hi></speaker>
+            <speaker>LESBIN, <stage>à part</stage>.</speaker>
             <p>Il a le diable au corps, avec son chiffon de papier.</p>
           </sp>
           <sp who="moliere">
@@ -202,15 +202,15 @@
             <p>Si tu ne t’en vas pas tout de suite… Prends garde… Réplique, réplique un seul mot.</p>
           </sp>
           <sp who="lesbin">
-            <speaker>LESBIN, <hi rend="i">ramassant les morceaux de papier</hi></speaker>
-            <p>Mais attendez du moins que j’emporte tout…. <hi rend="i">(À la porte.)</hi> Donnez-vous bien de la peine à mettre sa perruque en papillotes !… Voilà comme on vous traite.<hi rend="i"/></p>
+            <speaker>LESBIN, <stage>ramassant les morceaux de papier</stage>.</speaker>
+            <p>Mais attendez du moins que j’emporte tout… <hi rend="i">(À la porte.)</hi> Donnez-vous bien de la peine à mettre sa perruque en papillotes !… Voilà comme on vous traite.<hi rend="i"/></p>
           </sp>
         </div>
         <div type="scene">
           <head>Scène V.</head>
           <p/>
           <sp who="moliere">
-            <speaker>MOLIÈRE, <hi rend="i">seul</hi></speaker>
+            <speaker>MOLIÈRE, <stage>seul</stage>.</speaker>
             <p>C’en est donc fait de mon Poème chéri… Je faisais cette traduction avec tant de volupté ! J’avais rendu plusieurs morceaux si heureusement !… Il règne dans ce Lucrèce une si belle philosophie, si bien d’accord avec mes pensées !… Ah ! Qu’il me faut de courage pour supporter cet accident ! Mais je me suis trop abandonné à ma première vivacité… Il ne m’eût peut-être pas été impossible d’en retrouver la plus grande partie… Oui, en rassemblant avec patience les fragments… Et d’ailleurs, à quoi sert de brûler l’autre moitié… Lesbin, Lesbin !…</p>
           </sp>
         </div>
@@ -219,7 +219,7 @@
           <stage rend="center">MOLIÈRE, LESBIN</stage>
           <p/>
           <sp who="lesbin">
-            <speaker>LESBIN, <hi rend="i">derrière le Théâtre</hi></speaker>
+            <speaker>LESBIN, <stage>derrière le Théâtre</stage>.</speaker>
             <p>Monsieur.</p>
           </sp>
           <sp who="moliere">
@@ -227,7 +227,7 @@
             <p>Rapporte-moi tout ce que tu as ramassé, et jusqu’au moindre petit morceau ; entends-tu ? Que rien ne se perde !</p>
           </sp>
           <sp who="lesbin">
-            <speaker>LESBIN, <hi rend="i">entrant</hi></speaker>
+            <speaker>LESBIN, <stage>entrant</stage>.</speaker>
             <p>Quoi ! Monsieur, ce que vous venez de déchirer tout à l’heure ?</p>
           </sp>
           <sp who="moliere">
@@ -239,7 +239,7 @@
             <p>Ah ça ! Monsieur, si vous le faites exprès, vous n’avez qu’à dire… Vos lubies à la fin me feront tourner la cervelle.</p>
           </sp>
           <sp who="moliere">
-            <speaker>MOLIÈRE, <hi rend="i">avec une colère concentrée</hi></speaker>
+            <speaker>MOLIÈRE, <stage>avec une colère concentrée</stage>.</speaker>
             <p>Je parie qu’il a déjà tout brûlé.</p>
           </sp>
           <sp who="lesbin">
@@ -259,7 +259,7 @@
             <p>Oui, oui, maraud, oui, je te l’ai dit : tu as bien fait ; à merveille, butor… Va-t-en et laisse-moi en repos : sortiras-tu bien vite.</p>
           </sp>
           <sp who="lesbin">
-            <speaker>LESBIN, <hi rend="i">en sortant</hi></speaker>
+            <speaker>LESBIN, <stage>en sortant</stage>.</speaker>
             <p>Oh ! Que de patience il faut avoir !</p>
           </sp>
         </div>
@@ -344,7 +344,7 @@
             <p>Mais le Roi, à ce qu’il me semble, avait déjà interdit une fois cette Comédie : il y avait donc une témérité inouïe à violer son ordre, et vous êtes coupable…</p>
           </sp>
           <sp who="moliere">
-            <speaker>MOLIÈRE, <hi rend="i">vivement</hi></speaker>
+            <speaker>MOLIÈRE, <stage>vivement</stage>.</speaker>
             <p>Je ne suis point coupable. Le Roi, après la défense, avait voulu lire la Pièce : l’ayant lue, il l’avait approuvée ; sa justice avait daigné lever l’interdiction. Malheureusement la permission n’était que verbale : il partit pour la Flandre, où ses conquêtes l’occupent tout entier ; mes ennemis ont profité de son éloignement pour m’opposer de nouveaux obstacles. Mais j’ai dépêché vers Sa Majesté un homme intelligent et zélé, et j’attends, d’un moment à l’autre, la permission telle qu’on l’exige.</p>
           </sp>
           <sp who="chapelle">
@@ -392,7 +392,7 @@
             <p>On se les donne : moi, né pour l’indépendance et la liberté, plus sensible aux plaisirs qu’à la gloire, j’ai préféré les douceurs d’une vie libre et voluptueuse à la contention, ou plutôt à l’inutilité de l’étude. Imitez-moi… La promenade, la conversation, la table ; voilà ce qui s’appelle vivre… Le reste est folie. Quelle sorte de jouissance trouvez-vous dans cette gloire, que vous me vantez à tout propos ?</p>
           </sp>
           <sp who="moliere">
-            <speaker>MOLIÈRE, <hi rend="i">souriant</hi></speaker>
+            <speaker>MOLIÈRE, <stage>souriant</stage>.</speaker>
             <p>Oh ! C’est là notre secret.</p>
           </sp>
           <sp who="chapelle">
@@ -440,7 +440,7 @@
           <head>Scène VIII.</head>
           <p/>
           <sp who="moliere">
-            <speaker>MOLIÈRE, <hi rend="i">seul</hi></speaker>
+            <speaker>MOLIÈRE, <stage>seul</stage>.</speaker>
             <p>Et nous sommes amis, quoique aussi opposés dans nos goûts !… Mais on passe si rapidement sur la terre, qu’on n’a que le temps de prendre ses amis, et non de les choisir… Isabelle ne vient point… Elle seule écarte les chagrins qui m’assiègent ; et quand je la vois, il me semble que tout s’éclaire autour de moi.</p>
           </sp>
         </div>
@@ -449,11 +449,11 @@
           <stage rend="center">MOLIÈRE, ISABELLE.</stage>
           <p/>
           <sp who="isabelle">
-            <speaker>ISABELLE, <hi rend="i">se montrant</hi></speaker>
+            <speaker>ISABELLE, <stage>se montrant</stage>.</speaker>
             <p>Puis-je entrer ?</p>
           </sp>
           <sp who="moliere">
-            <speaker>MOLIÈRE, <hi rend="i">allant à elle</hi></speaker>
+            <speaker>MOLIÈRE, <stage>allant à elle</stage>.</speaker>
             <p>Hé ! Je ne désire, je ne veux, je n’appelle que vous… Mais qu’y a-t-il ?… Vous tremblez…</p>
           </sp>
           <sp who="isabelle">
@@ -489,7 +489,7 @@
             <p>Allez, vous êtes une enfant… Ne fûtes vous pas dans tous les temps l’objet de ma tendresse ?</p>
           </sp>
           <sp who="isabelle">
-            <speaker>ISABELLE, <hi rend="i">effrayée</hi></speaker>
+            <speaker>ISABELLE, <stage>effrayée</stage>.</speaker>
             <p>O ciel !… Je vous l’avais bien dit, qu’elle était toujours sur mes pas… Je l’entends… Elle va me maltraiter, si elle nous rencontre tête à tête.</p>
           </sp>
           <sp who="moliere">
@@ -510,7 +510,7 @@
           <p/>
             <stage>LA BÉJART, <hi rend="i">dans le fond</hi>, MOLIÈRE, ISABELLE, <hi rend="i">faisant le rôle de Marianne</hi>.</stage>
           <sp who="moliere">
-            <speaker>MOLIÈRE, <hi rend="i">faisant le rôle d’Orgon</hi></speaker>
+            <speaker>MOLIÈRE, <stage>faisant le rôle d’Orgon</stage>.</speaker>
             <p>C’est parler sagement ; dites-moi donc, ma fille,</p>
             <p>Qu’en toute sa personne un haut mérite brille,</p>
             <p>Qu’il touche votre cœur, et qu’il vous serait doux,</p>
@@ -549,7 +549,7 @@
             <p>De voir par votre choix devenir mon époux ?</p>
           </sp>
           <sp who="moliere">
-            <speaker>MOLIÈRE, <hi rend="i">du ton de la réprimande</hi></speaker>
+            <speaker>MOLIÈRE, <stage>du ton de la réprimande</stage>.</speaker>
             <p>Mademoiselle, mademoiselle, vous avez une tête, une tête !… Soyez donc, je vous prie, plus attentive, et appuyez davantage… Votre étourderie pourrait s’étendre jusque sur la scène, et le parterre alors… Vous le savez, il prend de l’humeur… Recommencez ; je ne suis pas content de ce ton-là… Allons, point de mines ; songez, mademoiselle, que c’est pour votre bien.</p>
           </sp>
           <sp who="isabelle">
@@ -579,11 +579,11 @@
             <p>Ah ! Pardonnez-lui, Madame ; je n’ai que ma pièce en tête, et j’avais fait prier Mademoiselle de vouloir bien descendre, afin qu’en cas de succès auprès du Roi, rien ne pût retarder la représentation.</p>
           </sp>
           <sp who="labejart">
-            <speaker>LA BÉJART, <hi rend="i">à sa fille</hi></speaker>
+            <speaker>LA BÉJART, <stage>à sa fille</stage>.</speaker>
             <p>Sortez, Mademoiselle.</p>
           </sp>
           <sp who="isabelle">
-            <speaker>ISABELLE, <hi rend="i">à voix basse</hi></speaker>
+            <speaker>ISABELLE, <stage>à voix basse</stage>.</speaker>
             <p>Vous me grondez, et c’est assurément pour rien.</p>
           </sp>
           <sp who="labejart">
@@ -714,12 +714,12 @@
           <stage>en habit de campagne.</stage>
           <p/>
           <sp who="lathorilliere">
-            <speaker>LA THORILLIÈRE, <hi rend="i">embrassant Molière</hi></speaker>
+            <speaker>LA THORILLIÈRE, <stage>embrassant Molière</stage>.</speaker>
             <p>Bonnes nouvelles ! Bonnes nouvelles ! (<hi rend="i">Tirant un portefeuille</hi>.) Tenez, voici l’ordre signé de la main du Roi, qui révoque, qui anéantit la fatale interdiction.</p>
           </sp>
           <sp who="moliere">
-            <speaker>MOLIÈRE, <hi rend="i">lui sautant au cou</hi></speaker>
-            <p>Vous me rendez l’âme, la vie, le courage…. Ah ! Mon cher ami ! Ah ! Le grand Monarque ! Je consacre ma vie entière à ses divertissements…. Je suis payé, récompensé de tous mes travaux…. Holà quelqu’un. (<hi rend="i">Lesbin paraît</hi>.)</p>
+            <speaker>MOLIÈRE, <stage>lui sautant au cou</stage>.</speaker>
+            <p>Vous me rendez l’âme, la vie, le courage… Ah ! Mon cher ami ! Ah ! Le grand Monarque ! Je consacre ma vie entière à ses divertissements… Je suis payé, récompensé de tous mes travaux… Holà quelqu’un. (<hi rend="i">Lesbin paraît</hi>.)</p>
           </sp>
         </div>
         <div type="scene">
@@ -728,7 +728,7 @@
           <p/>
           <sp who="moliere">
             <speaker>MOLIÈRE <hi rend="i">à Lesbin</hi></speaker>
-            <p>Allez vite ; que l’on arrache les affiches, que l’on en fasse de nouvelles, que l’on annonce pour ce soir <hi rend="i">la représentation de l’Imposteur….</hi> Ah ! ah ! Messieurs les fourbes, je vous tiens ! Voici mon tour !… Quelle rumeur dans leur sainte cohorte ! (<hi rend="i">À Lesbin</hi>.) Eh ! Va donc !</p>
+            <p>Allez vite ; que l’on arrache les affiches, que l’on en fasse de nouvelles, que l’on annonce pour ce soir <hi rend="i">la représentation de l’Imposteur…</hi> Ah ! ah ! Messieurs les fourbes, je vous tiens ! Voici mon tour !… Quelle rumeur dans leur sainte cohorte ! (<hi rend="i">À Lesbin</hi>.) Eh ! Va donc !</p>
           </sp>
 
           <sp who="lesbin">
@@ -749,11 +749,11 @@
             <p>Je ris déjà en voyant leurs physionomies s’allonger, quand ils liront les affiches nouvelles. (<hi rend="i">À la Béjart</hi>.) Et vous, Madame, ne perdez pas un seul instant ; allez répéter votre rôle avec votre fille… Songez surtout à notre dernière conversation ; elle roulait sur les convenances toujours trop oubliées sur la scène.</p>
           </sp>
           <sp who="labejart">
-            <speaker>LA BÉJART, <hi rend="i">un peu piquée</hi></speaker>
+            <speaker>LA BÉJART, <stage>un peu piquée</stage>.</speaker>
             <p>Je sais… je sais, Molière…</p>
           </sp>
           <sp who="moliere">
-            <speaker>MOLIÈRE, <hi rend="i">frappant du pied</hi></speaker>
+            <speaker>MOLIÈRE, <stage>frappant du pied</stage>.</speaker>
             <p>Vous savez… vous savez… De grâce songez-y ; point de parure, point d’ajustement : le public n’a pas besoin de vos atours ; ne savez-vous pas que vous êtes incommodée dans la pièce ?</p>
           </sp>
           <sp who="labejart">
@@ -790,7 +790,7 @@
             <p>Bravez tous ces ennemis, qui disparaîtront demain. Vous avez créé la Comédie : vous en avez fait un miroir immortel, devant lequel le vice et le ridicule ont reculé de surprise et d’effroi. Eh ! Ne vous rappelez-vous plus ces applaudissements qui ont soutenu, encouragé vos premiers efforts ?</p>
           </sp>
           <sp who="moliere">
-            <speaker>MOLIÈRE, <hi rend="i">avec une joie concentrée</hi></speaker>
+            <speaker>MOLIÈRE, <stage>avec une joie concentrée</stage>.</speaker>
             <p>Ce dont je me souviendrai toujours avec une douce émotion, mon ami, c’est la voix de ce vieillard qui, perçant le bruit tumultueux du parterre, me cria, à ma première pièce : <hi rend="i">Courage, courage, Molière, voilà la bonne comédie.</hi> En vérité, c’est à cet homme-là que je dois tous mes succès.</p>
           </sp>
           <sp who="lathorilliere">
@@ -799,7 +799,7 @@
           </sp>
           <sp who="moliere">
             <speaker>MOLIÈRE</speaker>
-            <p>Oui, oui, courage ; il me manque en vérité…. Les indignes rivaux qui m’opposent de viles parades, que le public applaudit, tout en les méprisant…</p>
+            <p>Oui, oui, courage ; il me manque en vérité… Les indignes rivaux qui m’opposent de viles parades, que le public applaudit, tout en les méprisant…</p>
           </sp>
           <sp who="lathorilliere">
             <speaker>LA THORILLIÈRE</speaker>
@@ -873,7 +873,7 @@
           </sp>
           <sp who="pirlon">
             <speaker>PIRLON</speaker>
-            <p>Ah ! La Forest, La Forest !… vous ne connaissez pas le monde…. Vous êtes loin de soupçonner les scélérates ruses de votre maître. Sachez qu’il est agité de l’esprit malin qui l’inspire nuit et jour…</p>
+            <p>Ah ! La Forest, La Forest !… vous ne connaissez pas le monde… Vous êtes loin de soupçonner les scélérates ruses de votre maître. Sachez qu’il est agité de l’esprit malin qui l’inspire nuit et jour…</p>
           </sp>
           <sp who="laforest">
             <speaker>LA FOREST</speaker>
@@ -908,8 +908,8 @@
             <p>Cet ordre dont il se vante, il a eu l’audace de le supposer. Oh ! Il paiera de sa tête cette témérité, et les personnes qui tiennent à lui, seront toutes enveloppées dans sa disgrâce.</p>
           </sp>
           <sp who="laforest">
-            <speaker>LA FOREST, <hi rend="i">jetant un cri</hi></speaker>
-            <p>Miséricorde !…. Ah ! Monsieur, je vous assurons que nous sommes bien innocente de tout ce qu’il a fait.</p>
+            <speaker>LA FOREST, <stage>jetant un cri</stage>.</speaker>
+            <p>Miséricorde !… Ah ! Monsieur, je vous assurons que nous sommes bien innocente de tout ce qu’il a fait.</p>
           </sp>
           <sp who="pirlon">
             <speaker>PIRLON</speaker>
@@ -961,7 +961,7 @@
             <p>Eh ! Qui s’en empêcherait ?… C’est parfois si drôle.</p>
           </sp>
           <sp who="pirlon">
-            <speaker>PIRLON, <hi rend="i">avec véhémence</hi></speaker>
+            <speaker>PIRLON, <stage>avec véhémence</stage>.</speaker>
             <p>Allez, vous êtes la complice de ses œuvres.</p>
           </sp>
           <sp who="laforest">
@@ -987,7 +987,7 @@
           </sp>
           <sp who="pirlon">
             <speaker>PIRLON</speaker>
-            <p>Ce vieillard, dont je vous parle, écoutez bien, n’a ni enfant, ni héritier…. Vous devez le préférer à Molière, qui mène une vie si scandaleuse.</p>
+            <p>Ce vieillard, dont je vous parle, écoutez bien, n’a ni enfant, ni héritier… Vous devez le préférer à Molière, qui mène une vie si scandaleuse.</p>
           </sp>
           <sp who="laforest">
             <speaker>LA FOREST</speaker>
@@ -1006,7 +1006,7 @@
             <p>Voici une bague, ma fille, dont je veux vous faire présent ; prenez… Je vous assure que tout le monde est révolté de sa conduite.</p>
           </sp>
           <sp who="laforest">
-            <speaker>LA FOREST, <hi rend="i">prenant la bague</hi></speaker>
+            <speaker>LA FOREST, <stage>prenant la bague</stage>.</speaker>
             <p>Il est bien vrai que le monde jase un tantinet.</p>
           </sp>
           <sp who="pirlon">
@@ -1018,7 +1018,7 @@
             <p>Qu’est-ce que cela veut dire, s’il vous plaît ?</p>
           </sp>
           <sp who="pirlon">
-            <speaker>PIRLON, <hi rend="i">d’un air cafard</hi></speaker>
+            <speaker>PIRLON, <stage>d’un air cafard</stage>.</speaker>
             <p>Là, de ces petites caresses…</p>
           </sp>
           <sp who="laforest">
@@ -1026,7 +1026,7 @@
             <p>Non, non, Monsieur, il a toujours respecté notre vertu ; et d’ailleurs, quoique pauvre servante, j’aurions…</p>
           </sp>
           <sp who="pirlon">
-            <speaker>PIRLON, <hi rend="i">lui présentant un étui</hi></speaker>
+            <speaker>PIRLON, <stage>lui présentant un étui</stage>.</speaker>
             <p>Prenez cet étui… Je vous dispense de répondre sur ce chapitre… Toute fille… je m’entends… Mais ces deux femmes, la mère, la fille : songez-y bien, ne mentez point ici ; ce n’est plus pour votre compte… Rappelez-vous tout ce que vous avez entendu, tout ce que vous avez soupçonné, tout ce qu’on a pu dire, imaginer, répéter…</p>
           </sp>
           <sp who="laforest">
@@ -1034,7 +1034,7 @@
             <p>Mais il les aime toutes deux, à ce qu’on dit autour de nous.</p>
           </sp>
           <sp who="pirlon">
-            <speaker>PIRLON, <hi rend="i">avec exclamation</hi></speaker>
+            <speaker>PIRLON, <stage>avec exclamation</stage>.</speaker>
             <p>Toutes deux !… Hé ! L’infâme… le pécheur !</p>
           </sp>
           <sp who="laforest">
@@ -1050,7 +1050,7 @@
             <p>Oui, cela arrive parfois… Si l’on vient à l’interrompre, lorsqu’il est rencogné dans son cabinet, où il griffonne des heures entières ; allez, allez, c’est alors un beau train.</p>
           </sp>
           <sp who="pirlon">
-            <speaker>PIRLON, <hi rend="i">avec emphase</hi></speaker>
+            <speaker>PIRLON, <stage>avec emphase</stage>.</speaker>
             <p>Le voilà, le voilà l’homme atrabilaire, misanthrope, insociable, fougueux, emporté, irascible, qui ne sait point mettre un frein à sa colère, et qui veut gourmander les passions d’autrui… Mon enfant, où êtes-vous ? Bon Dieu ! Dans quel séjour ! Il vous arriverait avant peu quelque grand malheur… Et vos profits sont de combien ?…</p>
           </sp>
           <sp who="laforest">
@@ -1058,7 +1058,7 @@
             <p>Cela va à quatre écus par mois.</p>
           </sp>
           <sp who="pirlon">
-            <speaker>PIRLON, <hi rend="i">en levant les épaules</hi></speaker>
+            <speaker>PIRLON, <stage>en levant les épaules</stage>.</speaker>
             <p>Quatre écus par mois ! Vous en aurez dix dans la sainte maison où je veux vous faire entrer dès ce soir…</p>
           </sp>
           <sp who="laforest">
@@ -1086,7 +1086,7 @@
           <head>Scène II.</head>
           <p/>
           <sp who="pirlon">
-            <speaker>PIRLON, <hi rend="i">seul</hi></speaker>
+            <speaker>PIRLON, <stage>seul</stage>.</speaker>
             <p>Molière nous met audacieusement sur la scène, et nous resterions les bras croisés ! Vous en serez puni, Monsieur l’Auteur !… Disons d’abord que c’est un impie, un réprouvé, un scélérat, un débauché : ensuite semons la discorde entre les deux femmes ; mais, pour blesser Molière par l’endroit le plus sensible, dans son orgueil effréné, diabolique, empêchons, empêchons surtout que sa pièce ne soit représentée ; ou si elle l’est, faisons-la tomber sous les sifflets d’une sainte cabale.</p>
           </sp>
         </div>
@@ -1095,7 +1095,7 @@
           <stage rend="center">PIRLON, ISABELLE.</stage>
           <p/>
           <sp who="isabelle">
-            <speaker>ISABELLE, <hi rend="i">en entrant</hi></speaker>
+            <speaker>ISABELLE, <stage>en entrant</stage>.</speaker>
             <p>Ah ! C’est vous, M. Pirlon ?</p>
           </sp>
           <sp who="pirlon">
@@ -1119,7 +1119,7 @@
             <p>Écoutez, ma chère enfant, les moments sont précieux ; fasse le ciel qu’éclairée par mes discours, vous sachiez en profiter… Si Molière rentrait…</p>
           </sp>
           <sp who="isabelle">
-            <speaker>ISABELLE, <hi rend="i">avec intérêt</hi></speaker>
+            <speaker>ISABELLE, <stage>avec intérêt</stage>.</speaker>
             <p>Que dites-vous de Molière ?</p>
           </sp>
           <sp who="pirlon">
@@ -1188,7 +1188,7 @@
           </sp>
           <sp who="pirlon">
             <speaker>PIRLON</speaker>
-            <p>On peut tout me confier…. D’autres secrets bien plus importants m’ont eu pour fidèle dépositaire… Je ne dirai donc rien ; mais c’est à une petite condition.</p>
+            <p>On peut tout me confier… D’autres secrets bien plus importants m’ont eu pour fidèle dépositaire… Je ne dirai donc rien ; mais c’est à une petite condition.</p>
           </sp>
           <sp who="isabelle">
             <speaker>ISABELLE</speaker>
@@ -1207,7 +1207,7 @@
             <p>Choisissez… Vous gardez le silence ?… Adieu…</p>
           </sp>
           <sp who="isabelle">
-            <speaker>ISABELLE, <hi rend="i">l’arrêtant</hi></speaker>
+            <speaker>ISABELLE, <stage>l’arrêtant</stage>.</speaker>
             <p>Monsieur Pirlon, Monsieur Pirlon, je ne jouerai point dans la comédie de l’<hi rend="i">Imposteur</hi> ; je vous le promets ; mais promettez-moi aussi que vous ne direz rien à ma mère.</p>
           </sp>
         </div>
@@ -1261,7 +1261,7 @@
             <p>À son âge ! Elle a fait mieux, elle l’a trouvé.</p>
           </sp>
           <sp who="labejart">
-            <speaker>LA BÉJART, <hi rend="i">vivement.</hi></speaker>
+            <speaker>LA BÉJART, <stage>vivement.</stage>.</speaker>
             <p>Hé ! Quel est-il ?</p>
           </sp>
           <sp who="pirlon">
@@ -1313,7 +1313,7 @@
           <head>Scène VI.</head>
           <p/>
           <sp who="labejart">
-            <speaker>LA BÉJART, <hi rend="i">seule</hi></speaker>
+            <speaker>LA BÉJART, <stage>seule</stage>.</speaker>
             <p>Le perfide ! Et je pourrais conserver de l’amitié pour lui ! Il faut que je m’en sépare, que j’abandonne son Théâtre… Cruelle enfant !… Holà, La Forest !… La Forest ! (<hi rend="i">Elle crie avec emportement.</hi>) La Forest !…</p>
           </sp>
         </div>
@@ -1322,7 +1322,7 @@
           <stage rend="center">LA BÉJART, LA FOREST.</stage>
           <p/>
           <sp who="laforest">
-            <speaker>LA FOREST, <hi rend="i">derrière le Théâtre</hi></speaker>
+            <speaker>LA FOREST, <stage>derrière le Théâtre</stage>.</speaker>
             <p>Un moment, Madame, un moment…</p>
           </sp>
           <sp who="labejart">
@@ -1355,7 +1355,7 @@
           <head>Scène VIII.</head>
           <p/>
           <sp who="labejart">
-            <speaker>LA BÉJART, <hi rend="i">seule</hi></speaker>
+            <speaker>LA BÉJART, <stage>seule</stage>.</speaker>
             <p>Je l’avais toujours craint, que Molière ne prît de l’amour pour ma fille ; mais sa raison ne devait-elle pas le garantir d’un tel sentiment ? Quel bonheur pourrait-il attendre de son union avec une enfant, qui ne connaît point son mérite, qui n’aime, ne désire que l’indépendance, qui ne sentira jamais tout le prix d’un homme tel que lui ? J’ai dû compter sur ses réflexions, et je me flattais qu’elles l’amèneraient enfin à un dessein plus raisonnable. Tantôt encore, il a affecté un ton de sincérité qui en eût imposé à la défiance même. Je l’ai donc mal connu !… Non, je ne l’aurais jamais soupçonné d’une telle noirceur.</p>
           </sp>
         </div>
@@ -1376,7 +1376,7 @@
             <p>C’est à votre conscience à vous le dire ; s’il te reste encore quelque sentiment d’honneur… Je répugnais toujours à te croire un mauvais cœur, fille dénaturée !… Va, sors, épargne-moi le tourment de ta présence.</p>
           </sp>
           <sp who="isabelle">
-            <speaker>ISABELLE, <hi rend="i">se retirant au fond du Théâtre</hi></speaker>
+            <speaker>ISABELLE, <stage>se retirant au fond du Théâtre</stage>.</speaker>
             <p>Que je suis malheureuse d’avoir ajouté foi à ce méchant homme !</p>
           </sp>
         </div>
@@ -1385,7 +1385,7 @@
           <stage rend="center">LA BÉJART, MOLIÈRE.</stage>
           <p/>
           <sp who="moliere">
-            <speaker>MOLIÈRE, <hi rend="i">en entrant</hi></speaker>
+            <speaker>MOLIÈRE, <stage>en entrant</stage>.</speaker>
             <p>Qu’ils menacent, qu’ils tonnent, qu’ils cabalent, ces hommes hardis et souples ; que la haine la plus ardente s’allume dans leurs âmes charitables, je brave leur calomnie, et leurs artifices ; c’est aujourd’hui le jour de mon triomphe : dans une heure, en plein Théâtre, je les livre au mépris universel… Quel que soit le succès, on me saura gré du moins de mon courage. Non, aucun de mes ouvrages ne me flatte autant… (<hi rend="i">Saluant la Béjart</hi>.) Ah ! Je me recommande à vous, Madame… Vous êtes en possession de faire la destinée du pauvre Auteur : il attend tout de votre zèle…</p>
           </sp>
           <sp who="labejart">
@@ -1413,7 +1413,7 @@
             <p>Oui, Madame, vos engagements ; et le Public, lui manque-t-on à ce point ? Répondez.</p>
           </sp>
           <sp who="labejart">
-            <speaker>LA BÉJART, <hi rend="i">d’un ton goguenard</hi></speaker>
+            <speaker>LA BÉJART, <stage>d’un ton goguenard</stage>.</speaker>
             <p>Le Public !… Je vais me trouver mal, m’évanouir pendant trois heures, me faire saigner du bras, du pied ; j’aurai une attestation du Médecin… J’ai déjà un mal de tête affreux, épouvantable, qui m’empêche de voir et d’entendre. (<hi rend="i">Elle appelle</hi>.) Qu’on aille avertir le Docteur, et qu’on bassine mon lit bien chaudement. (<hi rend="i">Elle sort en se plaignant comme si elle était malade</hi>.) Ahi ! ahi ! ahi ! ahi !</p>
           </sp>
         </div>
@@ -1460,7 +1460,7 @@
           </sp>
           <sp who="moliere">
             <speaker>MOLIÈRE</speaker>
-            <p>Et toi aussi ?… Tu veux quitter ma maison, où il ne te manque rien, où tu es traitée comme mon enfant ? Eh ! pourquoi veux-tu sortir ?…. Dis-moi la vérité, et je te pardonne.</p>
+            <p>Et toi aussi ?… Tu veux quitter ma maison, où il ne te manque rien, où tu es traitée comme mon enfant ? Eh ! pourquoi veux-tu sortir ?… Dis-moi la vérité, et je te pardonne.</p>
           </sp>
           <sp who="laforest">
             <speaker>LA FOREST</speaker>
@@ -1471,7 +1471,7 @@
           <head>Scène XII.</head>
           <p/>
           <sp who="moliere">
-            <speaker>MOLIÈRE, <hi rend="i">seul</hi></speaker>
+            <speaker>MOLIÈRE, <stage>seul</stage>.</speaker>
             <p>Mais ceci devient sérieux… Trois femmes révoltées et d’accord entre elles… Quoi, ma Pièce serait retardée dans le moment de l’attente universelle, dans ce moment favorable au succès, et qui ne revient plus quand on lui échappe !… Quel métier, quels tourments !… Ce n’est donc rien d’avoir composé une Pièce de Théâtre ! Après tant de veilles, l’affaire de la représentation est un autre cercle de travaux ; pour un moment flatteur, je suis contrarié des années entières… Et je m’attacherais encore à cet Art, qui enfante tant de désagréments !… Non, non, rentrons dans une sage obscurité… Chapelle a raison, je me tourmente pour des ingrats, et j’oublie follement à vivre, pour l’intérêt d’un Art dont tout le monde veut jouir, et que personne ne seconde.</p>
           </sp>
         </div>
@@ -1480,7 +1480,7 @@
           <stage rend="center">MOLIÈRE, LA THORILLIÈRE.</stage>
           <p/>
           <sp who="lathorilliere">
-            <speaker>LA THORILLIÈRE, <hi rend="i">avec empressement et avec joie</hi></speaker>
+            <speaker>LA THORILLIÈRE, <stage>avec empressement et avec joie</stage>.</speaker>
             <p>C’est un tintamarre à la porte de l’Hôtel, comme on n’en a jamais vu ! On n’entend que ces mots : <hi rend="i">aujourd’hui la première représentation de l</hi>’Imposteur ; <hi rend="i">allons prendre place, ne soyons pas des derniers.</hi> Les Portiers et les barrières suffisent à peine… on se coudoie, on se heurte, on s’écrase…</p>
           </sp>
           <sp who="moliere">
@@ -1520,7 +1520,7 @@
           <head>Scène XIV.</head>
           <p/>
           <sp who="moliere">
-            <speaker>MOLIÈRE, <hi rend="i">seul</hi></speaker>
+            <speaker>MOLIÈRE, <stage>seul</stage>.</speaker>
             <p>Puisse-t-il les ramener à la raison… Car les femmes !… Souvent plus on les prie, moins on en obtient…</p>
           </sp>
         </div>
@@ -1614,7 +1614,7 @@
             <p>Je vous parle pour votre bien, consultez davantage ; qu’est-ce que cela coûte ? Je n’entends autour de moi, je ne vois, je ne lis, je ne rencontre que des gens qui vous reprochent des fautes.</p>
           </sp>
           <sp who="moliere">
-            <speaker>MOLIÈRE, <hi rend="i">impatienté</hi></speaker>
+            <speaker>MOLIÈRE, <stage>impatienté</stage>.</speaker>
             <p>Eh ! Ces gens là n’en font même pas de ces fautes… Qu’ils parlent, qu’ils écrivent. Sachez que si j’écoutais tous les beaux avis que me donnent sans cesse les conseillers du Théâtre, prétendus juges, prétendus connaisseurs, il me faudrait recommencer toutes mes Pièces d’un bout à l’autre au moins sept à huit fois. Mais si je prête volontiers l’oreille à tout le monde, apprenez que je ne fais ensuite qu’à ma tête, et voilà pourquoi je réussis… Adieu. (<hi rend="i">Il sort brusquement</hi>).</p>
           </sp>
         </div>
@@ -1622,8 +1622,8 @@
           <head>Scène XV.</head>
           <p/>
           <sp who="chapelle">
-            <speaker>CHAPELLE, <hi rend="i">seul</hi></speaker>
-            <p>C’est bien là un Auteur qui parle. On lui donne mille traits excellents, dont il ne profite seulement pas. Il faudrait se couper la gorge avec lui pour lui faire faire un chef-d’œuvre. Au fond, c’est un bon humain. Sa Comédie tombera infailliblement : j’en serai fâché ; mais cela le rendra moins entêté…. Si ces diables d’hommes-là, quoiqu’on les aime, réussissaient toujours, il n’y aurait plus moyen de vivre avec eux.</p>
+            <speaker>CHAPELLE, <stage>seul</stage>.</speaker>
+            <p>C’est bien là un Auteur qui parle. On lui donne mille traits excellents, dont il ne profite seulement pas. Il faudrait se couper la gorge avec lui pour lui faire faire un chef-d’œuvre. Au fond, c’est un bon humain. Sa Comédie tombera infailliblement : j’en serai fâché ; mais cela le rendra moins entêté… Si ces diables d’hommes-là, quoiqu’on les aime, réussissaient toujours, il n’y aurait plus moyen de vivre avec eux.</p>
           </sp>
         </div>
       </div>
@@ -1635,8 +1635,8 @@
           <head>Scène première.</head>
           <p/>
           <sp who="moliere">
-            <speaker>MOLIÈRE, <hi rend="i">seul</hi></speaker>
-            <p>Je vais… Je viens… Je ne sais plus ce que je dis… ni ce que je fais…. Quoi ! Après une si longue attente, ma Pièce serait encore remise !… Oh ! Je la ferai plutôt jouer les rôles à la main.</p>
+            <speaker>MOLIÈRE, <stage>seul</stage>.</speaker>
+            <p>Je vais… Je viens… Je ne sais plus ce que je dis… ni ce que je fais… Quoi ! Après une si longue attente, ma Pièce serait encore remise !… Oh ! Je la ferai plutôt jouer les rôles à la main.</p>
           </sp>
         </div>
         <div type="scene">
@@ -1652,7 +1652,7 @@
             <p>Oui ! Mais ce n’a pas été sans peine : soyez tranquille.</p>
           </sp>
           <sp who="moliere">
-            <speaker>MOLIÈRE, <hi rend="i">l’embrassant</hi></speaker>
+            <speaker>MOLIÈRE, <stage>l’embrassant</stage>.</speaker>
             <p>Que je me plais à vous devoir tout, mon cher La Thorillière !</p>
           </sp>
           <sp who="lathorilliere">
@@ -1664,11 +1664,11 @@
             <p>Quoi ?</p>
           </sp>
           <sp who="lathorilliere">
-            <speaker>LA THORILLIÈRE, <hi rend="i">sur le même ton</hi></speaker>
+            <speaker>LA THORILLIÈRE, <stage>sur le même ton</stage>.</speaker>
             <p>Que vous ne direz rien à sa fille… que vous la respecterez.</p>
           </sp>
           <sp who="moliere">
-            <speaker>MOLIÈRE, <hi rend="i">avec surprise</hi></speaker>
+            <speaker>MOLIÈRE, <stage>avec surprise</stage>.</speaker>
             <p>Eh ! Qui songe, mon ami, à offenser cette aimable enfant ?</p>
           </sp>
           <sp who="lathorilliere">
@@ -1688,7 +1688,7 @@
             <p>Pouvez-vous seulement répéter cela, mon ami ? Mais… Mais c’est un rêve…</p>
           </sp>
           <sp who="lathorilliere">
-            <speaker>LA THORILLIÈRE, <hi rend="i">haussant les épaules</hi></speaker>
+            <speaker>LA THORILLIÈRE, <stage>haussant les épaules</stage>.</speaker>
             <p>Il fallait entendre la véhémente déclamation lancée contre vous… Vous ignorez néanmoins le dessous des cartes. J’ai interrogé votre servante ; elle m’a conté le tout bien naïvement… Le perfide Pirlon, en votre absence, s’est introduit chez vous.</p>
           </sp>
           <sp who="moliere">
@@ -1704,11 +1704,11 @@
             <p>Qu’elle reste… C’est un fort bon sujet… Oh ! L’hypocrite me le paiera… (<hi rend="i">Errant sur la Scène comme un homme qui rêve.</hi>) Il me vient une bonne idée… oui, oui… plaisante… comique… neuve…</p>
           </sp>
           <sp who="lathorilliere">
-            <speaker>LA THORILLIÈRE, <hi rend="i">à part, et le regardant avec complaisance</hi></speaker>
+            <speaker>LA THORILLIÈRE, <stage>à part, et le regardant avec complaisance</stage>.</speaker>
             <p>Sa tête travaille… Respectons le moment du génie.</p>
           </sp>
           <sp who="moliere">
-            <speaker>MOLIÈRE, <hi rend="i">s’applaudissant</hi></speaker>
+            <speaker>MOLIÈRE, <stage>s’applaudissant</stage>.</speaker>
             <p>C’est cela même… Voilà ce qu’il faut… Et La Forest a bien assez d’esprit et d’adresse pour cela.</p>
           </sp>
           <sp who="lathorilliere">
@@ -1740,7 +1740,7 @@
           <head>Scène III.</head>
           <p/>
           <sp who="lathorilliere">
-            <speaker>LA THORILLIÈRE, <hi rend="i">seul</hi></speaker>
+            <speaker>LA THORILLIÈRE, <stage>seul</stage>.</speaker>
             <p>Tout à l’amour, et tout à son génie ! Arracher un grand homme au commerce des Muses, l’humilier aux pieds d’une actrice enfant, tourner cette tête, qui donne des leçons à l’Univers, Amour, voilà ton plus beau triomphe.</p>
           </sp>
         </div>
@@ -1762,7 +1762,7 @@
           <stage rend="center">LE MARQUIS DE ***, LE COMTE DE ***, LA THORILLIÈRE.</stage>
           <p/>
           <sp who="lemarquis">
-            <speaker>LE MARQUIS, <hi rend="i">en entrant</hi></speaker>
+            <speaker>LE MARQUIS, <stage>en entrant</stage>.</speaker>
             <p>Où est l’Auteur ?</p>
           </sp>
           <sp who="lecomte">
@@ -1770,7 +1770,7 @@
             <p>Où est Molière ?</p>
           </sp>
           <sp who="lathorilliere">
-            <speaker>LA THORILLIÈRE, <hi rend="i">les saluant profondément</hi></speaker>
+            <speaker>LA THORILLIÈRE, <stage>les saluant profondément</stage>.</speaker>
             <p>Messieurs, il sera bientôt de retour.</p>
           </sp>
           <sp who="lemarquis">
@@ -1820,14 +1820,14 @@
           </sp>
           <sp who="lecomte">
             <speaker>LE COMTE</speaker>
-            <p>Du naïf…. Du noble ! Morbleu, du noble ; dites-lui, de ma part, qu’il renonce aux Bourgeois, ou je me brouille avec lui…</p>
+            <p>Du naïf… Du noble ! Morbleu, du noble ; dites-lui, de ma part, qu’il renonce aux Bourgeois, ou je me brouille avec lui…</p>
           </sp>
           <sp who="lemarquis">
             <speaker>LE MARQUIS</speaker>
             <p>Vous avez raison, Comte… Qu’il ennoblisse ses pinceaux…</p>
           </sp>
           <sp who="lecomte">
-            <speaker>LE COMTE, <hi rend="i">répondant au Marquis</hi></speaker>
+            <speaker>LE COMTE, <stage>répondant au Marquis</stage>.</speaker>
             <p>Il n’est point dans le tourbillon, le cher homme.</p>
           </sp>
           <sp who="lemarquis">
@@ -1835,7 +1835,7 @@
             <p>Autant vaudrait pour lui vivre à la Chine… Il en saurait, ma foi, tout autant.</p>
           </sp>
           <sp who="lecomte">
-            <speaker>LE COMTE, <hi rend="i">d’un air important</hi></speaker>
+            <speaker>LE COMTE, <stage>d’un air important</stage>.</speaker>
             <p>Molière ira-t-il à la postérité ?</p>
           </sp>
           <sp who="lemarquis">
@@ -1855,7 +1855,7 @@
             <p>Il ira un peu plus loin.</p>
           </sp>
           <sp who="lemarquis">
-            <speaker>LE MARQUIS, <hi rend="i">affirmativement</hi></speaker>
+            <speaker>LE MARQUIS, <stage>affirmativement</stage>.</speaker>
             <p>Il n’ira pas : j’ai là-dessus un tact… Si jamais un de nous déroge jusqu’à écrire, en se jouant le matin, je vous garantis qu’il tracera seulement de mémoire des caractères que nos Messieurs les Auteurs de Paris, avec leur vue courte, ne soupçonnent même pas. Molière sera anéanti de manière qu’on n’en parlera plus. Il pourra rouler encore entre les mains de l’épaisse Bourgeoisie, qui aime la grosse gaîté, mais il ne se lira pas dans l’antichambre.</p>
           </sp>
           <sp who="lathorilliere">
@@ -1868,7 +1868,7 @@
           <stage rend="center">LE MARQUIS, LE COMTE, CHAPELLE, LA THORILLIÈRE.</stage>
           <p/>
           <sp who="lemarquis">
-            <speaker>LE MARQUIS, <hi rend="i">à Chapelle</hi></speaker>
+            <speaker>LE MARQUIS, <stage>à Chapelle</stage>.</speaker>
             <p>Arrivez, arrivez, vous qui êtes l’ami de Molière, mais point son adulateur, nous le savons… Mettez-nous d’accord… Molière vivra-t-il dans la postérité ?</p>
           </sp>
           <sp who="chapelle">
@@ -1881,7 +1881,7 @@
           </sp>
           <sp who="chapelle">
             <speaker>CHAPELLE</speaker>
-            <p>À vous dire vrai, je ne sais trop…. S’il voulait m’écouter ; mais il est d’une obstination, dont on n’a point d’idées… C’est toutefois un bon homme, un peu triste, mais ayant un cœur excellent…</p>
+            <p>À vous dire vrai, je ne sais trop… S’il voulait m’écouter ; mais il est d’une obstination, dont on n’a point d’idées… C’est toutefois un bon homme, un peu triste, mais ayant un cœur excellent…</p>
           </sp>
           <sp who="lemarquis">
             <speaker>LE MARQUIS</speaker>
@@ -1912,7 +1912,7 @@
           <head>Scène VII.</head>
           <p/>
           <sp who="lathorilliere">
-            <speaker>LA THORILLIÈRE, <hi rend="i">seul</hi></speaker>
+            <speaker>LA THORILLIÈRE, <stage>seul</stage>.</speaker>
             <p>Hé ! Voilà donc les Juges des œuvres du génie !…</p>
           </sp>
         </div>
@@ -1921,7 +1921,7 @@
           <stage rend="center">LA THORILLIÈRE, LA FOREST.</stage>
           <p/>
           <sp who="laforest">
-            <speaker>LA FOREST, <hi rend="i">arrivant avec précipitation</hi></speaker>
+            <speaker>LA FOREST, <stage>arrivant avec précipitation</stage>.</speaker>
             <p>Entrez, Monsieur, entrez dans cette chambre-là : vous écouterez… Il a machiné contre notre bon Maître ; mais j’allons lui jouer d’un tour…</p>
           </sp>
           <sp who="lathorilliere">
@@ -1929,7 +1929,7 @@
             <p>Bon, je te laisse.</p>
           </sp>
           <sp who="laforest">
-            <speaker>LA FOREST, <hi rend="i">le faisant sortir par une porte opposée</hi></speaker>
+            <speaker>LA FOREST, <stage>le faisant sortir par une porte opposée</stage>.</speaker>
             <p>Entrez donc vite, pour qu’il ait la liberté plénière. Ah ! Ah ! Damné d’hypocrite, avec ton air pénitencieux, tu y viendras !…</p>
           </sp>
         </div>
@@ -1947,10 +1947,10 @@
           </sp>
           <sp who="laforest">
             <speaker>LA FOREST</speaker>
-            <p>Un homme noir est venu demander après lui ; cela avait l’air d’un Huissier…. La justice lui en veut.</p>
+            <p>Un homme noir est venu demander après lui ; cela avait l’air d’un Huissier… La justice lui en veut.</p>
           </sp>
           <sp who="pirlon">
-            <speaker>PIRLON, <hi rend="i">à part</hi></speaker>
+            <speaker>PIRLON, <stage>à part</stage>.</speaker>
             <p>Mon accusation a réussi, bon ! (<hi rend="i">Haut</hi>.) Je vous l’avais bien dit qu’il ferait une mauvaise fin… Voilà ce que l’on gagne à calomnier les gens de bien… La prison.</p>
           </sp>
           <sp who="laforest">
@@ -1962,11 +1962,11 @@
             <p>Eh bien, à tantôt… tantôt… ma fille… Mon Dieu ! Je crains… (<hi rend="i">Il regarde à la porte</hi>.)</p>
           </sp>
           <sp who="laforest">
-            <speaker>LA FOREST, <hi rend="i">d’une voix haute</hi></speaker>
+            <speaker>LA FOREST, <stage>d’une voix haute</stage>.</speaker>
             <p>Parlez haut, parlez sans crainte… Tout le monde est dehors, vous dis-je.</p>
           </sp>
           <sp who="pirlon">
-            <speaker>PIRLON, <hi rend="i">après s’être assis</hi></speaker>
+            <speaker>PIRLON, <stage>après s’être assis</stage>.</speaker>
             <p>Tout le monde est dehors ?</p>
           </sp>
           <sp who="laforest">
@@ -1987,7 +1987,7 @@
           </sp>
           <sp who="laforest">
             <speaker>LA FOREST</speaker>
-            <p>Mais pardi ! Ôtez votre chapeau. (<hi rend="i">Elle prend son chapeau et l’attache à la chaise</hi>.) Ah ! Comme ça vous êtes mieux… On vous voit le front et les yeux…. Si vous permettez que je vous le disions, vous avez ma foi un front charmant, les cheveux bien plantés, très bien.</p>
+            <p>Mais pardi ! Ôtez votre chapeau. (<hi rend="i">Elle prend son chapeau et l’attache à la chaise</hi>.) Ah ! Comme ça vous êtes mieux… On vous voit le front et les yeux… Si vous permettez que je vous le disions, vous avez ma foi un front charmant, les cheveux bien plantés, très bien.</p>
           </sp>
           <sp who="pirlon">
             <speaker>PIRLON</speaker>
@@ -2010,15 +2010,15 @@
             <p>Il fait une chaleur pour la saison…</p>
           </sp>
           <sp who="laforest">
-            <speaker>LA FOREST, <hi rend="i">vivement.</hi></speaker>
+            <speaker>LA FOREST, <stage>vivement.</stage>.</speaker>
             <p>Que n’ôtez-vous aussi ce lourd manteau de dessus vos épaules ?…</p>
           </sp>
           <sp who="pirlon">
-            <speaker>PIRLON, <hi rend="i">se défendant</hi></speaker>
+            <speaker>PIRLON, <stage>se défendant</stage>.</speaker>
             <p>Non, non.</p>
           </sp>
           <sp who="laforest">
-            <speaker>LA FOREST, <hi rend="i">lui arrachant le manteau</hi></speaker>
+            <speaker>LA FOREST, <stage>lui arrachant le manteau</stage>.</speaker>
             <p>Mais vous serez bien plus à votre aise : les hommes sont bien gauches, en vérité ; ils ne savent point s’arranger. Demandez-moi à quoi bon porter un manteau qui déguise une aussi belle taille ?… On ne la voyait pas là-dessous… Laissez, laissez donc, M. Pirlon ; vous êtes fait à peindre au moins !</p>
           </sp>
           <sp who="pirlon">
@@ -2043,7 +2043,7 @@
           </sp>
           <sp who="laforest">
             <speaker>LA FOREST</speaker>
-            <p>Pas encore….. Mais vous êtes un homme perdu, s’il vous rencontre ici, après tout ce que vous avez dit et fait contre lui ; songez, songez bien !</p>
+            <p>Pas encore… Mais vous êtes un homme perdu, s’il vous rencontre ici, après tout ce que vous avez dit et fait contre lui ; songez, songez bien !</p>
           </sp>
           <sp who="pirlon">
             <speaker>PIRLON</speaker>
@@ -2054,7 +2054,7 @@
             <p>Ils l’ont fermé, je n’en avons pas la clef.</p>
           </sp>
           <sp who="pirlon">
-            <speaker>PIRLON, <hi rend="i">effrayé</hi></speaker>
+            <speaker>PIRLON, <stage>effrayé</stage>.</speaker>
             <p>Où me fourrerai-je ?</p>
           </sp>
           <sp who="laforest">
@@ -2062,7 +2062,7 @@
             <p>Venez par ici, j’allons vous cacher quelque part.</p>
           </sp>
           <sp who="pirlon">
-            <speaker>PIRLON, <hi rend="i">errant sur la Scène</hi></speaker>
+            <speaker>PIRLON, <stage>errant sur la Scène</stage>.</speaker>
             <p>De quel côté ?… Eh ! Vite donc.</p>
           </sp>
           <sp who="laforest">
@@ -2070,7 +2070,7 @@
             <p>Venez par ici, par ici.</p>
           </sp>
           <sp who="pirlon">
-            <speaker>PIRLON, <hi rend="i">reculant</hi></speaker>
+            <speaker>PIRLON, <stage>reculant</stage>.</speaker>
             <p>Quoi ! Dans ce bouge ?…</p>
           </sp>
           <sp who="laforest">
@@ -2095,11 +2095,11 @@
           <stage rend="center">LA THORILLIÈRE, LA FOREST.</stage>
           <p/>
           <sp who="lathorilliere">
-            <speaker>LA THORILLIÈRE, <hi rend="i">entrant sur la scène, en riant</hi></speaker>
+            <speaker>LA THORILLIÈRE, <stage>entrant sur la scène, en riant</stage>.</speaker>
             <p>Ah ! Ah ! Ah ! Je n’aurais jamais cru que La Forest eût tant d’esprit.</p>
           </sp>
           <sp who="laforest">
-            <speaker>LA FOREST, <hi rend="i">revenant sur la scène</hi></speaker>
+            <speaker>LA FOREST, <stage>revenant sur la scène</stage>.</speaker>
             <p>Reste là, Cagot…, tu as tendu le piège, et t’y voilà pris, comme le rat dans la ratière.</p>
           </sp>
           <sp who="lathorilliere">
@@ -2123,7 +2123,7 @@
           <head>Scène XI.</head>
           <p/>
           <sp who="lathorilliere">
-            <speaker>LA THORILLIÈRE, <hi rend="i">seul</hi></speaker>
+            <speaker>LA THORILLIÈRE, <stage>seul</stage>.</speaker>
             <p>Molière ne néglige rien pour la gloire de son art… Attentif à tous les détails, qui impriment la vérité et la vie, il ne dédaigne point ce que d’autres rejetteraient avec orgueil… Que la France doit être fière de pouvoir le compter parmi ses enfants !… La nature avare de grands hommes, semble l’être surtout d’un Poète comique.</p>
           </sp>
         </div>
@@ -2132,7 +2132,7 @@
           <stage rend="center">MOLIÈRE, LA THORILLIÈRE.</stage>
           <p/>
           <sp who="moliere">
-            <speaker><hi rend="b">MOLIÈRE</hi>, <hi rend="i">habillé en Tartuffe avec le manteau et le chapeau de Pirlon, la chevelure et les moustaches semblables aux siennes</hi></speaker>
+            <speaker>MOLIÈRE, <stage>habillé en Tartuffe avec le manteau et le chapeau de Pirlon, la chevelure et les moustaches semblables aux siennes</stage>.</speaker>
             <p>Suis-je bien, à votre avis ?</p>
           </sp>
           <sp who="lathorilliere">
@@ -2157,11 +2157,11 @@
             <p>J’irai au Théâtre, Molière ; j’ai bien voulu ne consulter en ce moment que l’intérêt général, mais si je m’aperçois d’un regard, tremblez ! La Comédie, je vous le jure, finira par une scène tragique.</p>
           </sp>
           <sp who="moliere">
-            <speaker>MOLIÈRE, <hi rend="i">prenant le ton hypocrite</hi></speaker>
+            <speaker>MOLIÈRE, <stage>prenant le ton hypocrite</stage>.</speaker>
             <p>Madame, puisque le Ciel vous a révélé cet amour qui me rend si coupable, j’avoue à vos pieds toute l’énormité de mon crime, il est épouvantable !… J’aurais dû commander à mon œil de ne point voir, à mon cœur de ne point sentir, mais je dompterai cet ennemi invisible de mon salut, cet ennemi caché, que je porte en mon sein…</p>
           </sp>
           <sp who="lathorilliere">
-            <speaker>LA THORILLIÈRE, <hi rend="i">à part.</hi></speaker>
+            <speaker>LA THORILLIÈRE, <stage>à part.</stage>.</speaker>
             <p>Qu’il est plaisant !</p>
           </sp>
           <sp who="labejart">
@@ -2203,7 +2203,7 @@
             <p>J’aurai mon tour ; il ne me connaît pas encore : il saura si l’on brave impunément une femme irritée. (<hi rend="i">À sa fille, d’un air menaçant.</hi>) C’est toi, fille ingrate et dissimulée, qui…</p>
           </sp>
           <sp who="lathorilliere">
-            <speaker>LA THORILLIÈRE, <hi rend="i">l’arrêtant.</hi></speaker>
+            <speaker>LA THORILLIÈRE, <stage>l’arrêtant.</stage>.</speaker>
             <p>Ah ! Je voudrais que vous vous vissiez, comme je vous vois, émue, hors d’haleine, livrée à la fureur… Hé ! Comment, pourrez-vous jouer le rôle d’une femme douce, modérée, raisonnable, tranquille ? De grâce calmez-vous.</p>
           </sp>
           <sp who="labejart">
@@ -2211,7 +2211,7 @@
             <p>Maudit métier, qui m’oblige à montrer un visage serein, quand la colère me suffoque… Ah ! Quel supplice !… Mais j’ai laissé mon rôle sur la table.</p>
           </sp>
           <sp who="lathorilliere">
-            <speaker>LA THORILLIÈRE, <hi rend="i">poliment.</hi></speaker>
+            <speaker>LA THORILLIÈRE, <stage>poliment.</stage>.</speaker>
             <p>Je vais…</p>
           </sp>
           <sp who="labejart">
@@ -2237,7 +2237,7 @@
           <stage rend="center">ISABELLE, MOLIÈRE, LA THORILLIÈRE.</stage>
           <p/>
           <sp who="moliere">
-            <speaker>MOLIÈRE, <hi rend="i">revenant sur la pointe du pied</hi></speaker>
+            <speaker>MOLIÈRE, <stage>revenant sur la pointe du pied</stage>.</speaker>
             <p>Vous pleurez, adorable Isabelle ! Ah ! séchez vos larmes… Soyez persuadée que je ne songe qu’aux moyens de terminer votre esclavage, et de commencer mon bonheur.</p>
           </sp>
 
@@ -2263,7 +2263,7 @@
           </sp>
           <sp who="lathorilliere">
             <speaker>LA THORILLIÈRE</speaker>
-            <p>La voici…. Séparez-vous, et affectez la plus froide indifférence.</p>
+            <p>La voici… Séparez-vous, et affectez la plus froide indifférence.</p>
           </sp>
         </div>
         <div type="scene">
@@ -2271,7 +2271,7 @@
           <stage rend="center">Les précédents, LA BÉJART.</stage>
           <p/>
           <sp who="moliere">
-            <speaker>MOLIÈRE, <hi rend="i">présentant la main à la Béjart, d’une manière polie et ferme</hi></speaker>
+            <speaker>MOLIÈRE, <stage>présentant la main à la Béjart, d’une manière polie et ferme</stage>.</speaker>
             <p>Allons, Madame, en haïssant l’Auteur, ne punissez point le public. Si votre jeu allait se ralentir, il s’en apercevrait ; consultez votre gloire, que je crois inséparable de la mienne. Allons. (<hi rend="i">La Béjart lui donne la main sans répondre</hi>.)</p>
           </sp>
         </div>
@@ -2279,7 +2279,7 @@
           <head>Scène XVIII.</head>
           <p/>
           <sp who="lathorilliere">
-            <speaker>LA THORILLIÈRE, <hi rend="i">seul</hi></speaker>
+            <speaker>LA THORILLIÈRE, <stage>seul</stage>.</speaker>
             <p>Fasse le ciel que ces femmes ne gâtent point, par leur discorde, l’éclat d’une représentation qui intéresse à la fois le Spectateur et la recette de la Comédie.</p>
           </sp>
         </div>
@@ -2292,7 +2292,7 @@
           <head>Scène première.</head>
           <p/>
           <sp who="laforest">
-            <speaker>LA FOREST, <hi rend="i">seule</hi></speaker>
+            <speaker>LA FOREST, <stage>seule</stage>.</speaker>
             <p>Je vais, je viens, je monte, je descends, sans savoir ce que j’faisons… La tête me tourne. Oh ! Si cela dure, je deviendrons folle.</p>
           </sp>
         </div>
@@ -2319,7 +2319,7 @@
           </sp>
           <sp who="laforest">
             <speaker>LA FOREST</speaker>
-            <p>Comment non ! Cela me fait une peine….</p>
+            <p>Comment non ! Cela me fait une peine…</p>
           </sp>
           <sp who="lesbin">
             <speaker>LESBIN</speaker>
@@ -2327,7 +2327,7 @@
           </sp>
           <sp who="laforest">
             <speaker>LA FOREST</speaker>
-            <p>Eh bien ! Pécore, c’est là réussir….Tu m’as fait une frayeur…</p>
+            <p>Eh bien ! Pécore, c’est là réussir…Tu m’as fait une frayeur…</p>
           </sp>
           <sp who="lesbin">
             <speaker>LESBIN</speaker>
@@ -2346,7 +2346,7 @@
             <p>Notre pauvre Maître, une fois en sa vie, il sera donc bien content !…</p>
           </sp>
           <sp who="lesbin">
-            <speaker>LESBIN, <hi rend="i">joyeux</hi></speaker>
+            <speaker>LESBIN, <stage>joyeux</stage>.</speaker>
             <p>J’étais présent, là, moi, car tiens, je mouchais bravement les chandelles… Je n’ai jamais vu tant de monde dans la salle. Collé contre une des coulisses, de là je voyais tout, fort étouffé, mais n’importe ; il y avait des gens huppés qui auraient voulu ma place, et qui pestaient tout leur saoul à la porte… Oh ! Quel plaisir de voir aller les mains, et d’entendre rouler les applaudissements !… Ils ont redoublé comme un tonnerre, tout à la fin de la Comédie, et comme pour faire la part à l’Auteur. C’était un bruit à rendre sourd, et j’en suis encore tout étourdi.</p>
           </sp>
           <sp who="laforest">
@@ -2395,7 +2395,7 @@
           <stage rend="center">LA FOREST, PIRLON.</stage>
           <p/>
           <sp who="pirlon">
-            <speaker>PIRLON, <hi rend="i">entrant le dos courbé</hi></speaker>
+            <speaker>PIRLON, <stage>entrant le dos courbé</stage>.</speaker>
             <p>Miséricorde ! Ouf !… Je n’en puis plus !… J’ai les os brisés, disloqués ; je ne pourrai me relever de six semaines… Me tenir deux heures d’horloge dans un misérable bouge, où j’étais forcé d’avoir le dos tout courbé !… Ahi, ahi, ahi !</p>
           </sp>
           <sp who="laforest">
@@ -2435,17 +2435,17 @@
             <p>Tenez, prenez vos nippes : peste, Monsieur l’enjôleur, comme vous êtes dangereux avec votre taille bien faite.</p>
           </sp>
           <sp who="pirlon">
-            <speaker>PIRLON, <hi rend="i">furieux</hi></speaker>
+            <speaker>PIRLON, <stage>furieux</stage>.</speaker>
             <p>Je sors, car je t’étranglerais.</p>
           </sp>
           <sp who="laforest">
-            <speaker>LA FOREST, <hi rend="i">les poings fermés</hi></speaker>
+            <speaker>LA FOREST, <stage>les poings fermés</stage>.</speaker>
             <p>Vous !…</p>
             <p>PIRLON.</p>
             <p>Je reconnais ton sexe maudit ; mais tu verras ce qui revient à qui ose se jouer à nous.</p>
           </sp>
           <sp who="laforest">
-            <speaker>LA FOREST, <hi rend="i">prend un balai et le chasse</hi></speaker>
+            <speaker>LA FOREST, <stage>prend un balai et le chasse</stage>.</speaker>
             <p>Attends, attends. (<hi rend="i">Pirlon se sauve ; elle éclate de rire.</hi>) Ah, ah, ah !…</p>
           </sp>
         </div>
@@ -2454,8 +2454,8 @@
           <stage rend="center">LESBIN, LA FOREST.</stage>
           <p/>
           <sp who="lesbin">
-            <speaker>LESBIN, <hi rend="i">éclatant de rire</hi></speaker>
-            <p>Bon ! Il était grotesque à voir… Il écumait de rage : cela m’a fort diverti….</p>
+            <speaker>LESBIN, <stage>éclatant de rire</stage>.</speaker>
+            <p>Bon ! Il était grotesque à voir… Il écumait de rage : cela m’a fort diverti…</p>
           </sp>
           <sp who="laforest">
             <speaker>LA FOREST</speaker>
@@ -2479,7 +2479,7 @@
           <stage rend="center">PIRLON, LA FOREST, LESBIN.</stage>
           <p/>
           <sp who="pirlon">
-            <speaker>PIRLON, <hi rend="i">suppliant</hi></speaker>
+            <speaker>PIRLON, <stage>suppliant</stage>.</speaker>
             <p>Au nom de Dieu, La Forest, accordez-moi de grâce la permission de rentrer dans mon étroite et obscure prison… Que je m’y réfugie.</p>
           </sp>
           <sp who="laforest">
@@ -2503,7 +2503,7 @@
             <p>Eh bien ! Monsieur Pirlon, que voulez-vous que j’y fassions ? Est-ce que je pouvons rendre le sérieux à tout un peuple qui veut rire ? Il a ses raisons sans doute.</p>
           </sp>
           <sp who="pirlon">
-            <speaker>PIRLON, <hi rend="i">les mains jointes</hi></speaker>
+            <speaker>PIRLON, <stage>les mains jointes</stage>.</speaker>
             <p>Honnête, douce, belle et bonne La Forest, laissez-moi me renfoncer plus avant dans ce misérable bouge : j’irais me cacher jusqu’au centre de la terre.</p>
           </sp>
           <sp who="laforest">
@@ -2519,11 +2519,11 @@
             <p>Fi donc !… Nous ne voulons point tant seulement la regarder… À propos, tenez, reprenez votre bague et votre étui.</p>
           </sp>
           <sp who="pirlon">
-            <speaker>PIRLON, <hi rend="i">reprenant la bague et l’étui</hi></speaker>
+            <speaker>PIRLON, <stage>reprenant la bague et l’étui</stage>.</speaker>
             <p>Mes amis !</p>
           </sp>
           <sp who="lesbin">
-            <speaker>LESBIN, <hi rend="i">fièrement</hi></speaker>
+            <speaker>LESBIN, <stage>fièrement</stage>.</speaker>
             <p>Nous ne sommes point de vos amis… Rayez cela de vos papiers.</p>
           </sp>
           <sp who="pirlon">
@@ -2543,7 +2543,7 @@
             <p>Tenez, entrez dans cette chambre : on ne s’y tient jamais le soir. Quand il ne fera plus jour, vous partirez, pour ne plus revenir, bien entendu. (<hi rend="i">La Forest le fait entrer dans la chambre voisine.</hi>)</p>
           </sp>
           <sp who="pirlon">
-            <speaker>PIRLON, <hi rend="i">entrant dans la chambre</hi></speaker>
+            <speaker>PIRLON, <stage>entrant dans la chambre</stage>.</speaker>
             <p>Ne me trahissez pas, et le ciel vous bénira…</p>
           </sp>
         </div>
@@ -2573,7 +2573,7 @@
           <stage rend="center">Les précédents, LA BÉJART, ISABELLE.</stage>
           <p/>
           <sp who="labejart">
-            <speaker>LA BÉJART, <hi rend="i">remettant son mantelet et ses gants</hi></speaker>
+            <speaker>LA BÉJART, <stage>remettant son mantelet et ses gants</stage>.</speaker>
             <p>Prenez cela et sortez. (<hi rend="i">Lesbin et La Forest sortent.</hi>)</p>
           </sp>
         </div>
@@ -2610,7 +2610,7 @@
             <p>Oui, je t’aimais ; mais tu as payé mes plus tendres soins par la plus noire ingratitude… Retire-toi dans ta chambre, et sauve-moi la peine que me cause ta vue.</p>
           </sp>
           <sp who="isabelle">
-            <speaker>ISABELLE, <hi rend="i">à part en sortant</hi></speaker>
+            <speaker>ISABELLE, <stage>à part en sortant</stage>.</speaker>
             <p>Il me faut tout souffrir d’elle… Mais une fois l’épouse de Molière, je serai à l’abri de ses duretés.</p>
           </sp>
         </div>
@@ -2618,7 +2618,7 @@
           <head>Scène IX.</head>
           <p/>
           <sp who="labejart">
-            <speaker>LA BÉJART, <hi rend="i">seule</hi></speaker>
+            <speaker>LA BÉJART, <stage>seule</stage>.</speaker>
             <p>Je veux parler à Molière, le faire expliquer, l’obliger à renoncer à ma fille, ou de ce pas, je m’engage avec elle pour la Province… Il a l’orgueil d’un Auteur ; mais il apprendra à ses dépens, que c’est notre jeu qui fait tout le prix de ses ouvrages…</p>
           </sp>
         </div>
@@ -2659,7 +2659,7 @@
             <p>Molière, je ne ferai point avec vous assaut de vaines paroles : je quitte votre théâtre, qui me devient odieux, et, dès demain, j’emmène ma fille avec moi ; je l’emmène, vous dis-je, et pour jamais.</p>
           </sp>
           <sp who="moliere">
-            <speaker>MOLIÈRE, <hi rend="i">avec force</hi></speaker>
+            <speaker>MOLIÈRE, <stage>avec force</stage>.</speaker>
             <p>Contre sa volonté, Madame ?… Contre son engagement… Elle doit rester ; elle restera… C’est moi qui vous l’assure.</p>
           </sp>
           <sp who="labejart">
@@ -2679,7 +2679,7 @@
           <head>Scène IX.</head>
           <p/>
           <sp who="moliere">
-            <speaker>MOLIÈRE, <hi rend="i">seul</hi></speaker>
+            <speaker>MOLIÈRE, <stage>seul</stage>.</speaker>
             <p>Eh quoi ! Pas un moment de tranquillité ! Toutes mes jouissances seront troublées par les clameurs d’une femme impérieuse ! Je tremble que sa colère ne s’étende sur l’innocente Isabelle… Elle a déjà tant à souffrir… Ah ! C’est à moi de la délivrer de tout ce qu’elle endure… Mais qui peut au monde racheter une seule de ses larmes ?</p>
           </sp>
         </div>
@@ -2732,7 +2732,7 @@
             <p>Au-delà de ce que je puis vous exprimer.</p>
           </sp>
           <sp who="moliere">
-            <speaker>MOLIÈRE, <hi rend="i">frappant du pied</hi></speaker>
+            <speaker>MOLIÈRE, <stage>frappant du pied</stage>.</speaker>
             <p>C’est un diable !… Voilà la première fois que cela m’arrive, mon cher ami ; j’ai toujours fait les mêmes efforts, en conscience, mais je n’ai pas toujours eu la même victoire… Ah ! Ma chère Isabelle !</p>
           </sp>
           <sp who="lathorilliere">
@@ -2744,7 +2744,7 @@
             <p>Elle pleure à présent !… Un si beau jour ne peut me rendre heureux.</p>
           </sp>
           <sp who="lathorilliere">
-            <speaker>LA THORILLIÈRE, <hi rend="i">attendri.</hi></speaker>
+            <speaker>LA THORILLIÈRE, <stage>attendri.</stage>.</speaker>
             <p>Je le vois trop, hélas !</p>
           </sp>
           <sp who="moliere">
@@ -2752,11 +2752,11 @@
             <p>Je tremble pour elle… Permettez que je vous quitte.</p>
           </sp>
           <sp who="lathorilliere">
-            <speaker>LA THORILLIÈRE, <hi rend="i">d’un ton pénétré</hi></speaker>
+            <speaker>LA THORILLIÈRE, <stage>d’un ton pénétré</stage>.</speaker>
             <p>Est-il possible !… Vous si faible !…</p>
           </sp>
           <sp who="moliere">
-            <speaker>MOLIÈRE, <hi rend="i">se jetant dans ses bras</hi></speaker>
+            <speaker>MOLIÈRE, <stage>se jetant dans ses bras</stage>.</speaker>
             <p>Ah ! Mon ami. (<hi rend="i">En se relevant.</hi>) Je vais appeler… La Forest, La Forest !</p>
           </sp>
         </div>
@@ -2781,11 +2781,11 @@
             <p>Elle l’a maltraitée !…</p>
           </sp>
           <sp who="laforest">
-            <speaker>LA FOREST, <hi rend="i">pleurant à moitié</hi></speaker>
+            <speaker>LA FOREST, <stage>pleurant à moitié</stage>.</speaker>
             <p>Oh ! Pour cela oui, Monsieur… Beaucoup.</p>
           </sp>
           <sp who="moliere">
-            <speaker>MOLIÈRE, <hi rend="i">ému.</hi></speaker>
+            <speaker>MOLIÈRE, <stage>ému.</stage>.</speaker>
             <p>Vous l’entendez ? Il faut que j’implore le Roi… Est-elle au lit ?</p>
           </sp>
           <sp who="laforest">
@@ -2793,7 +2793,7 @@
             <p>Oui, Monsieur ; nous l’avons déshabillée : elle pleurait en vous nommant tout bas.</p>
           </sp>
           <sp who="moliere">
-            <speaker>MOLIÈRE, <hi rend="i">avec transport</hi></speaker>
+            <speaker>MOLIÈRE, <stage>avec transport</stage>.</speaker>
             <p>Elle pleurait !… Oh ! Je vais prendre la poste !… Des chevaux… Des chevaux… Je n’y peux plus tenir… Que fait la Béjart ?</p>
           </sp>
           <sp who="laforest">
@@ -2814,11 +2814,11 @@
             <p>Puissé-je, demain à son réveil, la consoler des rigueurs qu’elle éprouve, et effacer dans son cœur les moindres traces du chagrin…</p>
           </sp>
           <sp who="lathorilliere">
-            <speaker>LA THORILLIÈRE, <hi rend="i">en soupirant.</hi></speaker>
+            <speaker>LA THORILLIÈRE, <stage>en soupirant.</stage>.</speaker>
             <p>Est-il possible que cet homme célèbre, né pour des travaux illustres, fait pour occuper toutes les bouches de la renommée, s’abandonne, comme un homme vulgaire, aux soins minutieux qu’entraîne une passion amoureuse !</p>
           </sp>
           <sp who="moliere">
-            <speaker>MOLIÈRE, <hi rend="i">vivement</hi></speaker>
+            <speaker>MOLIÈRE, <stage>vivement</stage>.</speaker>
             <p>Mon ami, la gloire est pour l’imagination, et non pour le cœur : je veux un sentiment qui remplisse le mien ; j’en ai besoin. Hé ! Pourquoi serais-je ennemi de l’amour et rebelle à la plus douce loi de la Nature !… Oui, je me choisirai pour la vie une douce compagne, qui me consolera dans mes revers, qui me soutiendra dans mes travaux… Quand la critique amère ou injuste s’acharnera contre moi, un sourire de sa bouche me rendra la gaîté. La gloire est belle, mais elle altère et ne rafraîchit point. Eh pourquoi ne pas mélanger l’étude du commerce des grâces ? Je crois devoir aux hommages que j’ai rendus à la beauté, les traits les plus délicats et les plus profonds qui se trouvent dans mes ouvrages.</p>
           </sp>
           <sp who="lathorilliere">
@@ -2831,7 +2831,7 @@
           <stage rend="center">Les précédents, LESBIN.</stage>
           <p/>
           <sp who="lesbin">
-            <speaker>LESBIN, <hi rend="i">entre, portant deux flambeaux</hi></speaker>
+            <speaker>LESBIN, <stage>entre, portant deux flambeaux</stage>.</speaker>
             <p>Monsieur, voilà M. Chapelle, M. le Marquis et M. le Comte.</p>
           </sp>
           <sp who="lathorilliere">
@@ -2848,7 +2848,7 @@
           <stage rend="center">Les précédents, CHAPELLE, LE MARQUIS, LE COMTE.</stage>
           <p/>
           <sp who="lemarquis">
-            <speaker>LE MARQUIS, <hi rend="i">étendant les bras</hi></speaker>
+            <speaker>LE MARQUIS, <stage>étendant les bras</stage>.</speaker>
             <p>Que je vous embrasse, homme admirable !… Ma foi vous avez surpassé mes espérances. Je n’attendais pas cela de vous, je l’avouerai… Vous êtes un auteur unique, un homme à part… Je veux que tout Paris retentisse de votre éloge. (<hi rend="i">À part.</hi>) Il est heureux ; il faut s’attacher à lui.</p>
           </sp>
           <sp who="moliere">
@@ -2868,7 +2868,7 @@
             <p>C’est qu’il y a dans cette Pièce des traits inimitables.</p>
           </sp>
           <sp who="chapelle">
-            <speaker>CHAPELLE, <hi rend="i">à part.</hi></speaker>
+            <speaker>CHAPELLE, <stage>à part.</stage>.</speaker>
             <p>Ils ne sentent pas ce qu’ils disent ; c’est pure forfanterie.</p>
           </sp>
           <sp who="lemarquis">
@@ -2888,7 +2888,7 @@
             <p>On ne saurait être plus obligeant, Messieurs.</p>
           </sp>
           <sp who="chapelle">
-            <speaker>CHAPELLE, <hi rend="i">à part.</hi></speaker>
+            <speaker>CHAPELLE, <stage>à part.</stage>.</speaker>
             <p>Les ignorants suivent toujours à la file d’un succès ; ils n’ont point d’avis à eux.</p>
           </sp>
           <sp who="lemarquis">
@@ -2897,7 +2897,7 @@
           </sp>
           <sp who="moliere">
             <speaker>MOLIÈRE</speaker>
-            <p>Ah ! Monsieur, épargnez-moi….</p>
+            <p>Ah ! Monsieur, épargnez-moi…</p>
           </sp>
           <sp who="lecomte">
             <speaker>LE COMTE</speaker>
@@ -2921,7 +2921,7 @@
           </sp>
           <sp who="lecomte">
             <speaker>LE COMTE</speaker>
-            <p>Je suis rentré l’instant d’après… On en était au plus bel endroit ; l’Exempt paraissait, <hi rend="i">de par le Roi…</hi> Beau moment ! Situation frappante ! Le rôle de l’exempt est supérieurement saisi ; ce morceau est admirablement écrit… Les rimes riches, heureuses, sonores, faciles, étonnantes.</p>
+            <p>Je suis rentré l’instant d’après… On en était au plus bel endroit ; l’Exempt paraissait, <stage>de par le Roi…</stage> Beau moment ! Situation frappante ! Le rôle de l’exempt est supérieurement saisi ; ce morceau est admirablement écrit… Les rimes riches, heureuses, sonores, faciles, étonnantes.</p>
             <p>Remettez-vous, Monsieur, d’une alarme si chaude ;</p>
             <p>Nous vivons sous un Prince ennemi de la fraude.</p>
             <p>Je les citerai au Roi, ces vers-là.</p>
@@ -2931,11 +2931,11 @@
             <p>Voilà ce que vous trouvez de plus beau, Messieurs ?</p>
           </sp>
           <sp who="moliere">
-            <speaker>MOLIÈRE, <hi rend="i">à Chapelle</hi></speaker>
-            <p>Je vois…. L’un a entendu la Pièce au foyer, et l’autre dans la rue.</p>
+            <speaker>MOLIÈRE, <stage>à Chapelle</stage>.</speaker>
+            <p>Je vois… L’un a entendu la Pièce au foyer, et l’autre dans la rue.</p>
           </sp>
           <sp who="chapelle">
-            <speaker>CHAPELLE, <hi rend="i">bas à Molière</hi></speaker>
+            <speaker>CHAPELLE, <stage>bas à Molière</stage>.</speaker>
             <p>Et puis fiez-vous aux éloges !</p>
           </sp>
           <sp who="lemarquis">
@@ -2956,7 +2956,7 @@
           </sp>
           <sp who="moliere">
             <speaker>MOLIÈRE</speaker>
-            <p>Vous me ferez donc l’honneur, Messieurs, de souper chez moi : vous savez que Molière n’est pas riche ; vous ne serez pas magnifiquement traités, mais….</p>
+            <p>Vous me ferez donc l’honneur, Messieurs, de souper chez moi : vous savez que Molière n’est pas riche ; vous ne serez pas magnifiquement traités, mais…</p>
           </sp>
           <sp who="lemarquis">
             <speaker>LE MARQUIS</speaker>
@@ -2967,7 +2967,7 @@
             <p>Je connais un autre original bien plus plaisant, mais par un côté tout contraire… C’est un homme qui varie du matin au soir, qui change d’idées selon le vent, qui ne sait ni ce qu’il doit louer, ni ce qu’il doit blâmer, qui parle de tout au hasard, et qui a la folle prétention de s’imaginer influer sur la renommée d’autrui, et même sur l’opinion publique… Concevez-vous une pareille bizarrerie ?… Prenez, prenez vos tablettes.</p>
           </sp>
           <sp who="moliere">
-            <speaker>MOLIÈRE, <hi rend="i">les tirant de sa poche</hi></speaker>
+            <speaker>MOLIÈRE, <stage>les tirant de sa poche</stage>.</speaker>
             <p>Elles sont déjà bien garnies, Messieurs !</p>
           </sp>
           <sp who="lecomte">
@@ -2975,7 +2975,7 @@
             <p>Notez ceci de préférence, vous dis-je… Vous avez le coup d’œil juste ; vous ferez le pendant de votre Pièce… Vous entrez déjà dans l’inspiration sur ce sujet, n’est-il pas vrai ?</p>
           </sp>
           <sp who="moliere">
-            <speaker>MOLIÈRE, <hi rend="i">d’un ton légèrement ironique</hi></speaker>
+            <speaker>MOLIÈRE, <stage>d’un ton légèrement ironique</stage>.</speaker>
             <p>Oui, oui, Messieurs… Je vois du bon comique, du bon comique, en vérité.</p>
           </sp>
           <sp who="lemarquis">
@@ -3016,8 +3016,8 @@
           <head>Scène XVIII.</head>
           <p/>
           <sp who="lathorilliere">
-            <speaker>LA THORILLIÈRE, <hi rend="i">seul.</hi></speaker>
-            <p>Quelle connaissance des hommes !…. Il la doit à sa philosophie ; chaque jour je l’admire davantage, et cependant je le vois de bien près.</p>
+            <speaker>LA THORILLIÈRE, <stage>seul.</stage>.</speaker>
+            <p>Quelle connaissance des hommes !… Il la doit à sa philosophie ; chaque jour je l’admire davantage, et cependant je le vois de bien près.</p>
           </sp>
         </div>
       </div>
@@ -3031,7 +3031,7 @@
           <head>Scène première.</head>
           <p/>
           <sp who="moliere">
-            <speaker>MOLIÈRE, <hi rend="i">seul, assis devant une table</hi></speaker>
+            <speaker>MOLIÈRE, <stage>seul, assis devant une table</stage>.</speaker>
             <p>Tandis qu’ils disputent sur des matières oiseuses mille fois rebattues, mettons à profit les instants… Il me faudrait des jours de soixante-douze heures, pour tout ce que j’ai à faire ; un Théâtre à soutenir ! Et l’Art ! Qu’il est profond… Chapelle fera les honneurs de ma table… L’oracle des soupers n’est point l’homme de la postérité. Il y a à Paris mille gens qui n’ont d’autre occupation que celle d’importuner ceux qui travaillent. Ils viennent vous assommer de visites éternelles, et sans s’apercevoir qu’ils vous tuent, ils vous entretiennent de fadaises. <hi rend="i">Je vous dérange, Monsieur</hi>, disent-ils, et ils restent : <hi rend="i">Je vous dérange assurément, dites-le moi</hi>, et ils restent encore… Voilà le malheur d’un peu de célébrité ; on n’est plus seul… (<hi rend="i">Peu à peu il tombe dans une réflexion profonde. On frappe à deux ou trois reprises, mais doucement ; Molière n’entend rien. On frappe un peu plus fort ; il s’éveille et s’étonne.</hi>) Qui frappe ici à cette heure ? Depuis longtemps j’entends un bruit sourd… Oui, l’on frappe, et doucement, comme si l’on craignait… Ce n’est point Chapelle. Voyons… (<hi rend="i">Molière va ouvrir.</hi>)</p>
           </sp>
         </div>
@@ -3040,11 +3040,11 @@
           <stage rend="center">MOLIÈRE, ISABELLE.</stage>
           <p/>
           <sp who="moliere">
-            <speaker>MOLIÈRE, <hi rend="i">extrêmement surpris</hi></speaker>
+            <speaker>MOLIÈRE, <stage>extrêmement surpris</stage>.</speaker>
             <p>C’est vous, Isabelle, est-il possible ?</p>
           </sp>
           <sp who="isabelle">
-            <speaker>ISABELLE, <hi rend="i">tremblante</hi></speaker>
+            <speaker>ISABELLE, <stage>tremblante</stage>.</speaker>
             <p>Vous me voyez dans la situation la plus cruelle… Écoutez-moi…</p>
           </sp>
           <sp who="moliere">
@@ -3096,7 +3096,7 @@
             <p>Donnez-moi votre main, que je puisse m’écrier : <hi rend="i">Molière est mon époux</hi> ! Je suis à vous depuis que je vous suis promise ; défendez votre bien. Qui désapprouvera notre amour, lorsqu’il n’a pour but qu’un lien légitime ?</p>
           </sp>
           <sp who="moliere">
-            <speaker>MOLIÈRE, <hi rend="i">fâché.</hi></speaker>
+            <speaker>MOLIÈRE, <stage>fâché.</stage>.</speaker>
             <p>Étrange aventure que je n’ai pu prévoir !… Vous ne songez donc pas que toute surprise est illicite, que vous paraîtrez coupable ; qu’il y a une marche ordonnée et prescrite par les Lois, qu’on ne saurait enfreindre sans remords et sans crime ? Que toute apparence de séduction doit être enfin aussi loin de ma conduite qu’elle l’est de mon cœur ? De grâce, reprenez le chemin de votre appartement.</p>
           </sp>
           <sp who="isabelle">
@@ -3130,7 +3130,7 @@
           <p/>
           <sp who="isabelle">
             <speaker>ISABELLE</speaker>
-            <p>(<hi rend="i">Isabelle entre dans la chambre, y fait quelque pas, et revenant pâle d’effroi, elle rentre sur la Scène en désordre, et jetant un long cri.</hi>) Ah ciel ! Qu’est-ce que je sens ?… Un homme de caché ! Un voleur ! Je me meurs….</p>
+            <p>(<hi rend="i">Isabelle entre dans la chambre, y fait quelque pas, et revenant pâle d’effroi, elle rentre sur la Scène en désordre, et jetant un long cri.</hi>) Ah ciel ! Qu’est-ce que je sens ?… Un homme de caché ! Un voleur ! Je me meurs…</p>
           </sp>
           <sp who="moliere">
             <speaker>MOLIÈRE</speaker>
@@ -3141,12 +3141,12 @@
             <p>Je tombe à vos genoux, Molière… Mais n’imaginez pas que je sois entré ici pour surprendre vos secrets… Puisqu’il faut l’avouer, je fuyais la colère du peuple, soulevé contre moi par la chaleur de vos pinceaux… C’est à la commisération de La Forest que j’ai dû cet asile. Je vois clairement combien je suis en exécration à tout le monde. Oui, je suis trop ressemblant pour pouvoir m’abuser moi-même. N’étendez pas plus loin votre vengeance… Me haïriez-vous au point… ?</p>
           </sp>
           <sp who="moliere">
-            <speaker>MOLIÈRE, <hi rend="i">vivement</hi></speaker>
+            <speaker>MOLIÈRE, <stage>vivement</stage>.</speaker>
             <p>C’est le vice que je hais, et non le vicieux. Pour celui-ci, je me contente de le plaindre… L’hypocrisie est un vice détestable, et que je combattrai sous toutes ses formes : croyez-moi, abjurez votre infâme métier, il ne tardera pas à devenir inutile ; bientôt il ne trompera plus personne, je vous en avertis… Vous pourriez encore si vous le vouliez véritablement, par un sincère repentir, regagner avec le temps la confiance et l’estime des</p>
             <p>hommes.</p>
           </sp>
           <sp who="laforest">
-            <speaker>LA FOREST, <hi rend="i">à part</hi></speaker>
+            <speaker>LA FOREST, <stage>à part</stage>.</speaker>
             <p>On a beau prêcher à qui n’a cœur de bien faire.</p>
           </sp>
           <sp who="pirlon">
@@ -3171,7 +3171,7 @@
           <stage rend="center">Les acteurs précédents, LA BÉJART.</stage>
           <p/>
           <sp who="labejart">
-            <speaker>LA BÉJART, <hi rend="i">entrant furieuse</hi></speaker>
+            <speaker>LA BÉJART, <stage>entrant furieuse</stage>.</speaker>
             <p>(<hi rend="i">À sa fille</hi>.) Tu m’échappes ! (<hi rend="i">À Molière.</hi>) Et toi, traître, tu m’enlèves ma fille ! Elle se dérobe pendant mon sommeil, et tu vantes encore ta probité !… Homme indigne de toute confiance, tu fais la satire des méchants pour mieux les imiter ; ils sont tes modèles ; tu ne les as étudiés que pour leur ressembler !… Séducteur de ma fille, n’es-tu donc protégé par le Roi, que pour la soustraire à l’obéissance ?…</p>
           </sp>
           <sp who="moliere">
@@ -3199,7 +3199,7 @@
             <p>Elle ne l’est pas encore ; mais tu aimes à couvrir de ce nom l’opprobre de ta conduite.</p>
           </sp>
           <sp who="pirlon">
-            <speaker>PIRLON, <hi rend="i">à part</hi></speaker>
+            <speaker>PIRLON, <stage>à part</stage>.</speaker>
             <p>Allons, Pirlon, un effort ; montre-toi tout autre que tu n’as été, et rends justice une fois à la vérité. (<hi rend="i">À la Béjart.</hi>) Madame, j’ai tout entendu ; et l’on ne me soupçonnait pas présent. Je publierai partout que Molière est un honnête homme ; il a vivement reproché à votre fille sa démarche inconsidérée ; il l’a suppliée, à plusieurs reprises, de rentrer chez sa mère ; il a joint les prières les plus vives aux plus pressantes raisons ; il l’a respectée, et l’amour qu’il a pour elle est aussi pur qu’il puisse l’être.</p>
           </sp>
           <sp who="labejart">
@@ -3215,7 +3215,7 @@
             <p>Voyez si un tel témoignage est suspect, Madame : je n’ai jamais voulu braver votre autorité, mais la contraindre dans de justes bornes, pour votre propre repos.</p>
           </sp>
           <sp who="pirlon">
-            <speaker>PIRLON, <hi rend="i">à part</hi></speaker>
+            <speaker>PIRLON, <stage>à part</stage>.</speaker>
             <p>Il vient encore du monde, il fait nuit ; l’occasion est favorable… Vite, sauvons-nous. (<hi rend="i">Il s’enveloppe de son manteau et s’enfuit.</hi>)</p>
           </sp>
         </div>
@@ -3224,7 +3224,7 @@
           <stage rend="center">LE MARQUIS, LE COMTE, CHAPELLE, MOLIÈRE, LA THORILLIÈRE, LA BÉJART, ISABELLE, LA FOREST.</stage>
           <p/>
           <sp who="lemarquis">
-            <speaker>LE MARQUIS, <hi rend="i">en entrant</hi></speaker>
+            <speaker>LE MARQUIS, <stage>en entrant</stage>.</speaker>
             <p>Mais quel vacarme, chez notre Philosophe ! Qu’y a-t-il donc ?… L’Étude est bien bruyante ce soir… Fait-il répéter des rôles de Comédies ?</p>
           </sp>
           <sp who="lecomte">
@@ -3232,7 +3232,7 @@
             <p>Quoi ! Mesdames, pendant la nuit venir relancer un Auteur solitaire jusque dans la silencieuse retraite des Muses !…</p>
           </sp>
           <sp who="chapelle">
-            <speaker>CHAPELLE, <hi rend="i">entre deux vins</hi></speaker>
+            <speaker>CHAPELLE, <stage>entre deux vins</stage>.</speaker>
             <p>Ah ! Mesdames, que je vous sais bon gré de venir l’égayer ! Voilà ce qu’il lui faut : il attrapera par ce moyen le <hi rend="i">vis comica</hi> des Anciens… Car il est parfois si triste, que je me donne au diable pour deviner comment il peut nous faire rire.</p>
           </sp>
           <sp who="lemarquis">
@@ -3288,7 +3288,7 @@
             <p>Croyez-moi, donnez-lui votre fille ; il l’aurait toujours… Faites-vous un mérite de votre complaisance ; tout le monde aujourd’hui ne fait pas la sottise de se marier… (<hi rend="i">À part.</hi>) Elle le mènera avec tout le sublime de la coquetterie.</p>
           </sp>
           <sp who="labejart">
-            <speaker>LA BÉJART, <hi rend="i">à part.</hi></speaker>
+            <speaker>LA BÉJART, <stage>à part.</stage>.</speaker>
             <p>Malheureuse que je suis ! Faut-il que tout conspire contre moi ?</p>
           </sp>
           <sp who="moliere">
@@ -3300,7 +3300,7 @@
             <p>Pardonnez à votre fille, ma mère ! Elle suit le mouvement de son cœur en vous demandant grâce ; pardonnez-lui ce qu’un excès d’amour lui a fait entreprendre ; il ne dérobe rien à d’autres sentiments. Ma tendresse et mon respect pour vous seront toujours les mêmes… Vous m’avez maudite dans votre colère ; révoquez ce dur arrêt ; je serai toujours malheureuse, si ma mère ne m’aime point.</p>
           </sp>
           <sp who="labejart">
-            <speaker>LA BÉJART, <hi rend="i">attendrie</hi></speaker>
+            <speaker>LA BÉJART, <stage>attendrie</stage>.</speaker>
             <p>Vous le voulez, Molière… Viens ma fille, je t’embrasse et te pardonne.</p>
           </sp>
           <sp who="isabelle">
@@ -3316,15 +3316,15 @@
             <p>Mais elle n’est pas si méchante qu’on la faisait… (<hi rend="i">À Molière.</hi>) N’oubliez pas les idées que je vous ai données.</p>
           </sp>
           <sp who="chapelle">
-            <speaker>CHAPELLE, <hi rend="i">bas.</hi></speaker>
+            <speaker>CHAPELLE, <stage>bas.</stage>.</speaker>
             <p>Vous ne la voyez pas toujours… Les femmes ne sont bonnes que par instants.</p>
           </sp>
           <sp who="lathorilliere">
-            <speaker>LA THORILLIÈRE, <hi rend="i">embrassant Molière</hi></speaker>
+            <speaker>LA THORILLIÈRE, <stage>embrassant Molière</stage>.</speaker>
             <p>Ah ! Mon cher ami, soyez aussi heureux que vous méritez de l’être.</p>
           </sp>
           <sp who="chapelle">
-            <speaker>CHAPELLE, <hi rend="i">à Isabelle</hi></speaker>
+            <speaker>CHAPELLE, <stage>à Isabelle</stage>.</speaker>
             <p>S’il vous promet de la constance, il vous tiendra parole ; mais je dirai toujours que le mariage est, surtout pour un homme d’esprit, une étrange bévue… (<hi rend="i">Bas à Molière.</hi>) Vous vous en repentirez, Molière.</p>
           </sp>
           <sp who="moliere">
@@ -3332,7 +3332,7 @@
             <p>(<hi rend="i">Haut.</hi>) Oui, tout comme d’avoir fait des Comédies.</p>
           </sp>
           <sp who="chapelle">
-            <speaker>CHAPELLE, <hi rend="i">malignement</hi></speaker>
+            <speaker>CHAPELLE, <stage>malignement</stage>.</speaker>
             <p>Oh ! Il est des accidents singuliers à l’égard desquels il suffit d’être né sage pour ne pouvoir s’en garantir.</p>
             <p>Fin du cinquième et dernier acte.</p>
           </sp>
@@ -3364,7 +3364,7 @@
           <stage rend="center">Les précédents, LA BÉJART, ISABELLE.</stage>
           <stage/>
           <sp who="labejart">
-            <speaker>LA BÉJART, <hi rend="i">remettant son mantelet et ses gants</hi></speaker>
+            <speaker>LA BÉJART, <stage>remettant son mantelet et ses gants</stage>.</speaker>
             <p>Prenez cela et sortez. (<hi rend="i">Lesbin et La Forest sortent.</hi>)</p>
           </sp>
         </div>
@@ -3406,7 +3406,7 @@
           <head>Scène VI.</head>
           <p/>
           <sp who="labejart">
-            <speaker>LA BÉJART, <hi rend="i">seule</hi></speaker>
+            <speaker>LA BÉJART, <stage>seule</stage>.</speaker>
             <p>Je veux parler à Molière, le faire expliquer, l’obliger à renoncer à ma fille, ou de ce pas, je m’engage avec elle pour la Province… Il a l’orgueil d’un Auteur ; mais il apprendra à ses dépens, que c’est notre jeu qui fait tout le prix de ses ouvrages…</p>
           </sp>
         </div>
@@ -3415,7 +3415,7 @@
           <stage rend="center">MOLIÈRE, LA BÉJART.</stage>
           <stage/>
           <sp who="moliere">
-            <speaker>MOLIÈRE, <hi rend="i">arrivant à pas lents, et d’un air content et recueilli</hi></speaker>
+            <speaker>MOLIÈRE, <stage>arrivant à pas lents, et d’un air content et recueilli</stage>.</speaker>
             <p>Ah ! Madame, que de charmes dans le succès ! De quel poids je suis soulagé ! Heureux travaux, moments délectables ! On ne regrette point ses veilles, quand elles sont ainsi payées.</p>
           </sp>
           <sp who="labejart">
@@ -3431,7 +3431,7 @@
             <p>C’est parler sans contrainte. Molière, je ne ferai point avec vous assaut de vaines paroles : je quitte votre théâtre, qui me devient odieux, et, dès demain, j’emmène ma fille avec moi ; je l’emmène, vous dis-je, et pour jamais.</p>
           </sp>
           <sp who="moliere">
-            <speaker>MOLIÈRE, <hi rend="i">avec force</hi></speaker>
+            <speaker>MOLIÈRE, <stage>avec force</stage>.</speaker>
             <p>Contre sa volonté, Madame ?… Contre son engagement… Elle doit rester ; elle restera… C’est moi qui vous l’assure.</p>
           </sp>
           <sp who="labejart">
@@ -3451,7 +3451,7 @@
           <head>Scène VIII.</head>
           <p/>
           <sp who="moliere">
-            <speaker>MOLIÈRE, <hi rend="i">seul</hi></speaker>
+            <speaker>MOLIÈRE, <stage>seul</stage>.</speaker>
             <p>Eh quoi ! Pas un moment de tranquillité ! Toutes mes jouissances seront troublées par les clameurs d’une femme impérieuse ! Je tremble que sa colère ne s’étende sur l’innocente Isabelle… elle a déjà tant à souffrir… Ah ! C’est à moi de la délivrer de tout ce qu’elle endure…</p>
           </sp>
         </div>
@@ -3504,15 +3504,15 @@
             <p>Au-delà de ce que je puis vous exprimer.</p>
           </sp>
           <sp who="moliere">
-            <speaker>MOLIÈRE, <hi rend="i">frappant du pied</hi></speaker>
+            <speaker>MOLIÈRE, <stage>frappant du pied</stage>.</speaker>
             <p>Voilà la première fois que cela m’arrive, mon cher ami ; j’ai toujours fait les mêmes efforts, en conscience, mais je n’ai pas toujours eu la même victoire… Ah ! Ma chère Isabelle ! Un si beau jour ne peut me rendre heureux.</p>
           </sp>
           <sp who="lathorilliere">
-            <speaker>LA THORILLIÈRE, <hi rend="i">en soupirant.</hi></speaker>
+            <speaker>LA THORILLIÈRE, <stage>en soupirant.</stage>.</speaker>
             <p>Est-il possible que cet homme célèbre, né pour des travaux illustres, fait pour occuper toutes les bouches de la renommée, s’abandonne, comme un homme vulgaire, aux soins minutieux qu’entraîne une passion amoureuse !</p>
           </sp>
           <sp who="moliere">
-            <speaker>MOLIÈRE, <hi rend="i">vivement</hi></speaker>
+            <speaker>MOLIÈRE, <stage>vivement</stage>.</speaker>
             <p>Mon ami, la gloire est pour l’imagination, et non pour le cœur : je veux un sentiment qui remplisse le mien ; j’en ai besoin. Hé ! Pourquoi serais-je ennemi de l’amour et rebelle à la plus douce loi de la Nature !… Je crois devoir aux hommages que j’ai rendus à la beauté, les traits les plus délicats et les plus profonds qui se trouvent dans mes ouvrages.</p>
           </sp>
           <sp who="lathorilliere">
@@ -3532,7 +3532,7 @@
           <head>Scène X.</head>
           <p/>
           <sp who="moliere">
-            <speaker>MOLIÈRE, <hi rend="i">seul</hi></speaker>
+            <speaker>MOLIÈRE, <stage>seul</stage>.</speaker>
             <p>Cruelle femme !… Qu’elle laisse là mes comédies et mon théâtre, et qu’elle ne persécute plus mon Isabelle. Que m’importe, après tout, ma gloire et mon théâtre, s’ils servent à rendre infortunée cette pauvre enfant ?… Puissé-je demain, à son réveil, la consoler des rigueurs qu’elle éprouve, et effacer dans son cœur les moindres traces du chagrin…</p>
           </sp>
         </div>
@@ -3545,7 +3545,7 @@
             <p>C’est vous, Isabelle, est-il possible ?</p>
           </sp>
           <sp who="isabelle">
-            <speaker>ISABELLE, <hi rend="i">tremblante</hi></speaker>
+            <speaker>ISABELLE, <stage>tremblante</stage>.</speaker>
             <p>Vous me voyez dans la situation la plus cruelle… Écoutez-moi…</p>
           </sp>
           <sp who="moliere">
@@ -3582,7 +3582,7 @@
           <stage rend="center">ISABELLE, LA BÉJART, MOLIÈRE.</stage>
           <p/>
           <sp who="labejart">
-            <speaker>LA BÉJART, <hi rend="i">entrant furieuse</hi></speaker>
+            <speaker>LA BÉJART, <stage>entrant furieuse</stage>.</speaker>
             <p><stage>(À sa fille.)</stage> Fille rebelle, tu m’échappes ! <stage>(À Molière.)</stage> Et toi, traître, tu m’enlèves ma fille, et tu vantes encore ta probité !… Homme indigne de toute confiance, tu fais la satire des méchants pour mieux les imiter ; ils sont tes modèles ; tu ne les as étudiés que pour leur ressembler !… Séducteur de ma fille, et par de lâches artifices…</p>
           </sp>
           <sp who="moliere">
@@ -3595,7 +3595,7 @@
           <stage rend="center">ISABELLE, LA THORILLIÈRE, LA BÉJART, MOLIÈRE, CHAPELLE.</stage>
           <p/>
           <sp who="chapelle">
-            <speaker>CHAPELLE, <hi rend="i">en entrant</hi></speaker>
+            <speaker>CHAPELLE, <stage>en entrant</stage>.</speaker>
             <p>Mais quel vacarme, chez notre Philosophe ! Qu’y a-t-il donc ?… L’Étude est bien bruyante ce soir… Fait-il répéter des rôles de Comédie ?</p>
           </sp>
           <sp who="labejart">
@@ -3639,7 +3639,7 @@
             <p>Ma mère, pardonnez à votre fille. Elle suit le mouvement de son cœur en vous demandant grâce ; pardonnez-lui ce qu’un excès d’amour lui a fait entreprendre. Je serai toujours malheureuse, si ma mère ne m’aime point.</p>
           </sp>
           <sp who="labejart">
-            <speaker>LA BÉJART, <hi rend="i">attendrie</hi></speaker>
+            <speaker>LA BÉJART, <stage>attendrie</stage>.</speaker>
             <p>Vous le voulez, Molière… Viens ma fille, je t’embrasse et te pardonne.</p>
           </sp>
           <sp who="isabelle">
@@ -3651,11 +3651,11 @@
             <p>Voilà une fort bonne femme, quoi qu’on en dise…</p>
           </sp>
           <sp who="lathorilliere">
-            <speaker>LA THORILLIÈRE, <hi rend="i">embrassant Molière.</hi></speaker>
+            <speaker>LA THORILLIÈRE, <stage>embrassant Molière.</stage>.</speaker>
             <p>Ah ! Mon cher ami, soyez aussi heureux que vous méritez de l’être.</p>
           </sp>
           <sp who="chapelle">
-            <speaker>CHAPELLE, <hi rend="i">à Isabelle</hi></speaker>
+            <speaker>CHAPELLE, <stage>à Isabelle</stage>.</speaker>
             <p>S’il vous promet de la constance, il vous tiendra parole ; mais je dirai toujours que le mariage est, surtout pour un homme d’esprit, une étrange bévue… <stage>(Bas à Molière</stage><stage>.</stage><stage>) </stage>Vous vous en repentirez.</p>
           </sp>
           <sp who="moliere">
