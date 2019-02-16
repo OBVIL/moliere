@@ -48,12 +48,13 @@
     <body>
       <div>
         <head>Projet d’un traité sur la comédie</head>
-        <p><pb n="110"/> La Comédie représente les mœurs des hommes dans une condition privée. Ainsi elle doit <pb n="111"/>prendre un ton moins haut que la Tragédie. Le <hi rend="i">Socque</hi> est inférieur au <hi rend="i">Cothurne</hi> ; mais certains hommes, dans les moindres conditions, de même que dans les plus hautes, ont par leur naturel un caractère d’arrogance :</p>
+        <pb n="110" xml:id="p110"/>
+        <p>La Comédie représente les mœurs des hommes dans une condition privée. Ainsi elle doit <pb n="111" xml:id="p111"/>prendre un ton moins haut que la Tragédie. Le <hi rend="i">Socque</hi> est inférieur au <hi rend="i">Cothurne</hi> ; mais certains hommes, dans les moindres conditions, de même que dans les plus hautes, ont par leur naturel un caractère d’arrogance :</p>
         <quote rend="i">
           <l>Iratusque Chremes tumido delitigat ore.<note place="margin">Horat. <hi rend="i">Art. Poet. vers. 94.</hi> </note></l>
        </quote>
         <p>J’avoue que les traits plaisants d’Aristophane me paraissent souvent bas. Ils sentent la Farce faite exprès pour amuser, et pour mener le peuple. Qu’y a-t-il de plus ridicule que la peinture d’un roi de Perse, qui marche avec une armée de quarante mille hommes, pour aller sur une montagne d’or satisfaire aux infirmités de la nature.</p>
-        <p>Le respect de l’antiquité doit être grand ; mais je suis autorisé par les Anciens contre les <pb n="112"/>Anciens mêmes. Horace m’apprend à juger de Plaute :</p>
+        <p>Le respect de l’antiquité doit être grand ; mais je suis autorisé par les Anciens contre les <pb n="112" xml:id="p112"/>Anciens mêmes. Horace m’apprend à juger de Plaute :</p>
         <quote rend="i">
           <l>At nostri proavi Plautinos et numeros, et<note place="margin" rend="i">Ibid. vers. 270 et seq.</note></l>
           <l>Laudavere sales, nimium patienter utrumque,</l>
@@ -61,8 +62,9 @@
           <l>Scimus inurbanum lepido seponere dicto.</l>
        </quote>
         <p>Serait-ce la basse plaisanterie de Plaute, que César aurait voulu trouver dans Térence ? <hi rend="i">Vis comica.</hi> Ménandre avait donné à celui-ci un goût pur et exquis. Scipion et Lælius, amis de Térence, distinguaient avec délicatesse en sa faveur ce que Horace nomme <hi rend="i">lepidum</hi>, d’avec ce qui est <hi rend="i">inurbanum</hi>. Ce Poète comique a une naïveté inimitable, qui plaît, et qui attendrit par le simple récit d’un fait très commun :</p>
+        <pb n="113" xml:id="p113"/>
         <quote rend="i">
-          <l><pb n="113"/>Sic cogitabam, Hem, hic parvæ consuetudinis<note place="margin">Terent. <hi rend="i">Andr. Act. I. Scena I.</hi></note></l>
+          <l>Sic cogitabam, Hem, hic parvæ consuetudinis<note place="margin">Terent. <hi rend="i">Andr. Act. I. Scena I.</hi></note></l>
           <l>Causa hujus mortem tam fert familiariter :</l>
           <l>Quid si amasset ? quid mihi hic faciet patri ?</l>
           <l>Effertur. Imus, etc.</l>
@@ -79,11 +81,12 @@
           <l>De Glycerio : Jam ferme moriens me vocat :</l>
           <l>Accessi : vos semotæ : nos soli : incipit,</l>
           <l>Mi Pamphile, hujus formam atque ætatem vides, etc.</l>
-          <l><pb n="114"/>Quod ego te per dextram hanc oro, et ingenium tuum,</l>
+          <pb n="114" xml:id="p114"/>
+          <l>Quod ego te per dextram hanc oro, et ingenium tuum,</l>
           <l> Per tuam fidem, perque hujus solitudinem</l>
           <l>Te obtestor, etc.</l>
           <l>Te isti virum do, amicum, tutorem, patrem, etc.</l>
-          <l>.      .      .      .      .</l>
+          <l>…………………………………………………………………………</l>
           <l>Hanc mi in manum dat, mors continuo ipsam occupat.</l>
           <l>Accepi ; acceptam servabo.</l>
        </quote>
@@ -94,16 +97,17 @@
           <l>Incertus sum : Una haec spes est, ubi ubi est, diu celari non potest.</l>
        </quote>
         <p>Cette passion parle encore ici avec la même vivacité :</p>
+        <pb n="115" xml:id="p115"/>
         <quote rend="i">
-          <l><pb n="115"/>Egone quid velim ? Cum milite<note place="margin" rend="i">Ibid. Act. 1. Scena 2.</note></l>
+          <l>Egone quid velim ? Cum milite<note place="margin" rend="i">Ibid. Act. 1. Scena 2.</note></l>
           <l>Isto præsens, absens ut sies, etc.</l>
        </quote>
         <p>Peut-on désirer un dramatique plus vif et plus ingénu ?</p>
-        <p>Il faut avouer que Molière est un grand Poète comique. Je ne crains pas de dire qu’il a enfoncé plus avant que Térence dans certains caractères. Il a embrassé une plus grande variété de sujets. Il a peint par des traits forts presque tout ce que nous avons de déréglé et de ridicule. Térence se borne à représenter des vieillards avares et ombrageux, de jeunes hommes prodigues et étourdis, des courtisanes avides et impudentes, des parasites bas et flatteurs, des esclaves imposteurs et scélérats. Ces caractères méritaient sans doute d’être traités suivant les mœurs des Grecs et des Romains. De plus, nous n’avons que six Pièces de ce <pb n="116"/>grand Auteur. Mais enfin Molière a ouvert un chemin tout nouveau. Encore une fois, je le trouve grand : mais ne puis-je pas parler en toute liberté sur ses défauts ?</p>
-        <p>En pensant bien, il parle souvent mal. Il se sert des phrases les plus forcées, et les moins naturelles. Térence dit en quatre mots avec la plus élégante simplicité ce que celui-ci ne dit qu’avec une multitude de métaphores, qui approchent du galimatias. J’aime bien mieux sa Prose que ses Vers. Par exemple, l’Avare est moins mal écrit que les Pièces qui sont en Vers. Il est vrai que la versification Française l’a gêné. Il est vrai même qu’il a mieux réussi pour les Vers dans l’Amphitryon, où il a pris la liberté de faire des vers irréguliers. Mais en général il <pb n="117"/>me paraît jusque dans sa Prose ne parler point assez simplement pour exprimer toutes les passions.</p>
+        <p>Il faut avouer que Molière est un grand Poète comique. Je ne crains pas de dire qu’il a enfoncé plus avant que Térence dans certains caractères. Il a embrassé une plus grande variété de sujets. Il a peint par des traits forts presque tout ce que nous avons de déréglé et de ridicule. Térence se borne à représenter des vieillards avares et ombrageux, de jeunes hommes prodigues et étourdis, des courtisanes avides et impudentes, des parasites bas et flatteurs, des esclaves imposteurs et scélérats. Ces caractères méritaient sans doute d’être traités suivant les mœurs des Grecs et des Romains. De plus, nous n’avons que six Pièces de ce <pb n="116" xml:id="p116"/>grand Auteur. Mais enfin Molière a ouvert un chemin tout nouveau. Encore une fois, je le trouve grand : mais ne puis-je pas parler en toute liberté sur ses défauts ?</p>
+        <p>En pensant bien, il parle souvent mal. Il se sert des phrases les plus forcées, et les moins naturelles. Térence dit en quatre mots avec la plus élégante simplicité ce que celui-ci ne dit qu’avec une multitude de métaphores, qui approchent du galimatias. J’aime bien mieux sa Prose que ses Vers. Par exemple, l’Avare est moins mal écrit que les Pièces qui sont en Vers. Il est vrai que la versification Française l’a gêné. Il est vrai même qu’il a mieux réussi pour les Vers dans l’Amphitryon, où il a pris la liberté de faire des vers irréguliers. Mais en général il <pb n="117" xml:id="p117"/>me paraît jusque dans sa Prose ne parler point assez simplement pour exprimer toutes les passions.</p>
         <p>D’ailleurs il a outré souvent les caractères. Il a voulu par cette liberté plaire au Parterre, frapper les spectateurs les moins délicats, et rendre le ridicule plus sensible. Mais quoiqu’on doive marquer chaque passion dans son plus fort degré, et par ses traits les plus vifs, pour en mieux montrer l’excès et la difformité, on n’a pas besoin de forcer la nature et d’abandonner le vraisemblable. Ainsi malgré l’exemple de Plaute, où nous lisons : <quote rend="i">cedo tertiam</quote>, je soutiens contre Molière, qu’un avare, qui n’est point fou, ne va jamais jusqu’à vouloir regarder dans la troisième main de l’homme qu’il soupçonne de l’avoir volé.</p>
-        <p>Un autre défaut de Molière, <pb n="118"/>que beaucoup de gens d’esprit lui pardonnent, et que je n’ai garde de lui pardonner, est qu’il a donné un tour gracieux au vice, avec une austérité ridicule et odieuse à la vertu. Je comprends que ses défenseurs ne manqueront pas de dire qu’il a traité avec honneur la vraie probité, qu’il n’a attaqué qu’une vertu chagrine, et qu’une hypocrisie détestable. Mais, sans entrer dans cette longue discussion, je soutiens que Platon et les autres Législateurs de l’Antiquité païenne n’auraient jamais admis dans leurs Républiques un tel jeu sur les mœurs.</p>
-        <p>Enfin, je ne puis m’empêcher de croire avec M. Despréaux, que Molière, qui peint avec tant de beauté les mœurs de son pays, tombe trop bas, quand il imite le <pb n="119"/>badinage de la Comédie italienne :</p>
+        <p>Un autre défaut de Molière, <pb n="118" xml:id="p118"/>que beaucoup de gens d’esprit lui pardonnent, et que je n’ai garde de lui pardonner, est qu’il a donné un tour gracieux au vice, avec une austérité ridicule et odieuse à la vertu. Je comprends que ses défenseurs ne manqueront pas de dire qu’il a traité avec honneur la vraie probité, qu’il n’a attaqué qu’une vertu chagrine, et qu’une hypocrisie détestable. Mais, sans entrer dans cette longue discussion, je soutiens que Platon et les autres Législateurs de l’Antiquité païenne n’auraient jamais admis dans leurs Républiques un tel jeu sur les mœurs.</p>
+        <p>Enfin, je ne puis m’empêcher de croire avec M. Despréaux, que Molière, qui peint avec tant de beauté les mœurs de son pays, tombe trop bas, quand il imite le <pb n="119" xml:id="p119"/>badinage de la Comédie italienne :</p>
         <quote rend="i">
           <l>Dans ce sac ridicule, où Scapin s’enveloppe,<note place="margin">Despr. <hi rend="i">Art. Poetiq.<lb/>Chant III.</hi></note></l>
           <l>Je ne reconnais plus l’auteur du Misanthrope.</l>
