@@ -61,7 +61,7 @@
             <div1 type="set">
                 <pb n="5" xml:id="p5"/>
                 <head>Molière et Cyrano</head>
-                <stage>Au Jeu de Paume des Métayers, berceau de 1'« Illustre Théâtre », la veille de l'ouverture, 31 décembre 1643. La scène représente une pièce attenant à ce Jeu de Paume, au premier étage, et servant de loge à Madeleine Béjart et à Jean-Baptiste Poquelin. Au fond, large porte à judas donnant sur l'escalier de la rue. À gauche, large fenêtre donnant sur le Jeu de Paume. À droite, au milieu, cheminée, et, de chaque côté de la cheminée, deux petites portes conduisant au Jeu de Paume. Un bahut. Une table.</stage>
+                <stage>Au Jeu de Paume des Métayers, berceau de l’« Illustre Théâtre », la veille de l’ouverture, 31 décembre 1643. La scène représente une pièce attenant à ce Jeu de Paume, au premier étage, et servant de loge à Madeleine Béjart et à Jean-Baptiste Poquelin. Au fond, large porte à judas donnant sur l’escalier de la rue. À gauche, large fenêtre donnant sur le Jeu de Paume. À droite, au milieu, cheminée, et, de chaque côté de la cheminée, deux petites portes conduisant au Jeu de Paume. Un bahut. Une table.</stage>
             </div1>
             <div1 type="act" n="1" xml:id="I">
                 <head>Acte I</head>
@@ -69,12 +69,12 @@
                     <head>Scène première</head>
                     <stage>Madeleine, Poquelin.</stage>
                     <sp xml:id="r1" who="poquelin">
-                        <speaker>Poquelin<stage>, se promène seul, avec agitation, des papiers à la main. La porte s'ouvre, il jette ces papiers dans le bahut et se tourne avec mauvaise humeur vers Madeleine qui entre.</stage></speaker>
-                        <l n="1" xml:id="v1-1" part="I">D'où viens-tu ?</l>
+                        <speaker>Poquelin<stage>, se promène seul, avec agitation, des papiers à la main. La porte s’ouvre, il jette ces papiers dans le bahut et se tourne avec mauvaise humeur vers Madeleine qui entre.</stage></speaker>
+                        <l n="1" xml:id="v1-1" part="I">D’où viens-tu ?</l>
                     </sp>
                     <sp xml:id="r2" who="madeleine">
                         <speaker>Madeleine<stage>, se débarrassant de son manteau.</stage></speaker>
-                        <l n="1" xml:id="v1-2" part="M">Que t'importe ?</l>
+                        <l n="1" xml:id="v1-2" part="M">Que t’importe ?</l>
                     </sp>
                     <pb n="6" xml:id="p6"/>
                     <sp xml:id="r3" who="poquelin">
@@ -90,16 +90,16 @@
                         <l n="3" xml:id="v3-1" part="I">Madeleine !</l>
                         <stage>(Elle se retourne.)</stage>
                         <l n="3" xml:id="v3-2" part="F">Il faudra que ce jeu-là finisse,</l>
-                        <l n="4" xml:id="v4">Car tes façons d'agir me mettent au supplice.</l>
+                        <l n="4" xml:id="v4">Car tes façons d’agir me mettent au supplice.</l>
                         <l n="5" xml:id="v5">Une coquette qui sourit à tout venant !…</l>
-                        <l n="6" xml:id="v6">Tiens ! hier encor… ce rustre à l'air impertinent,</l>
+                        <l n="6" xml:id="v6">Tiens ! hier encor… ce rustre à l’air impertinent,</l>
                         <l n="7" xml:id="v7">Ce financier venu dans notre Jeu de Paume</l>
-                        <l n="8" xml:id="v8">Pendant qu'on répétait… tu reçus comme un baume,</l>
-                        <l n="9" xml:id="v9">Un baume exquis, ses compliments dignes d'un sot…</l>
+                        <l n="8" xml:id="v8">Pendant qu’on répétait… tu reçus comme un baume,</l>
+                        <l n="9" xml:id="v9">Un baume exquis, ses compliments dignes d’un sot…</l>
                     </sp>
                     <sp xml:id="r6" who="madeleine">
                         <speaker>Madeleine</speaker>
-                        <l n="10" xml:id="v10">Eh bien ! j'en ai reçu, Poquelin, et tantôt</l>
+                        <l n="10" xml:id="v10">Eh bien ! j’en ai reçu, Poquelin, et tantôt</l>
                         <l n="11" xml:id="v11-1" part="I">Même, de mieux tournés !</l>
                     </sp>
                     <sp xml:id="r7" who="poquelin">
@@ -109,13 +109,13 @@
                     <sp xml:id="r8" who="madeleine">
                         <speaker>Madeleine</speaker>
                         <l n="11" xml:id="v11-3" part="F">Non, dans la rue !</l>
-                        <l n="12" xml:id="v12">D'un galant cavalier qui, sitôt qu'il m'eut vue,</l>
+                        <l n="12" xml:id="v12">D’un galant cavalier qui, sitôt qu’il m’eut vue,</l>
                         <l n="13" xml:id="v13">Me dit mille douceurs, depuis le Nouveau Pont</l>
-                        <l n="14" xml:id="v14-1" part="I">Jusqu'à notre logis…</l>
+                        <l n="14" xml:id="v14-1" part="I">Jusqu’à notre logis…</l>
                     </sp>
                     <sp xml:id="r9" who="poquelin">
                         <speaker>Poquelin</speaker>
-                        <l n="14" xml:id="v14-2" part="F">Tu n'as pas eu le front,</l>
+                        <l n="14" xml:id="v14-2" part="F">Tu n’as pas eu le front,</l>
                         <l n="15" xml:id="v15-1" part="I">Je pense, de répondre ?</l>
                     </sp>
                     <pb n="7" xml:id="p7"/>
@@ -127,35 +127,35 @@
                         <speaker>Poquelin</speaker>
                         <l n="15" xml:id="v15-3" part="F">Je sens la colère</l>
                         <l n="16" xml:id="v16">Qui me prend… Plaire à tous, et chercher à déplaire</l>
-                        <l n="17" xml:id="v17-1" part="I">À moi seul ! Moi qui t'aime…</l>
+                        <l n="17" xml:id="v17-1" part="I">À moi seul ! Moi qui t’aime…</l>
                         <stage>(Plus doux.)</stage>
-                        <l n="17" xml:id="v17-2" part="F">et qui te l'ai prouvé…</l>
+                        <l n="17" xml:id="v17-2" part="F">et qui te l’ai prouvé…</l>
                     </sp>
                     <sp xml:id="r12" who="madeleine">
-                        <speaker>Madeleine<stage>, l'interrompant.</stage></speaker>
+                        <speaker>Madeleine<stage>, l’interrompant.</stage></speaker>
                         <l n="18" xml:id="v18">Prouvé ? Nous y voilà… Le mot est arrivé !</l>
                         <l n="19" xml:id="v19">Prouvé ?… par ton humeur sombre et mélancolique,</l>
                         <l n="20" xml:id="v20">Et par tes mots grinchus de jaloux tyrannique ?</l>
                         <l n="21" xml:id="v21">Oui… je sais… pour moi tu devins comédien !</l>
-                        <l n="22" xml:id="v22">— L'état de tapissier ne te disait plus rien ! —</l>
+                        <l n="22" xml:id="v22">— L’état de tapissier ne te disait plus rien ! —</l>
                         <l n="23" xml:id="v23-1" part="I">Caprice de ta part…</l>
                     </sp>
                     <sp xml:id="r13" who="poquelin">
                         <speaker>Poquelin<stage>, vivement.</stage></speaker>
                         <l n="23" xml:id="v23-2" part="F">Mais tu fus autre chose</l>
-                        <l n="24" xml:id="v24">Qu'un caprice pour moi ! Tu fus celle qu'on ose</l>
+                        <l n="24" xml:id="v24">Qu’un caprice pour moi ! Tu fus celle qu’on ose</l>
                         <l n="25" xml:id="v25">À peine contempler de loin, puis que, soudain,</l>
                         <l n="26" xml:id="v26">Un bienheureux hasard met sur votre chemin,</l>
-                        <l n="27" xml:id="v27">Dans votre vie, et puisqu'on aime sans partage</l>
-                        <l n="28" xml:id="v28">Et dont on est jaloux, jaloux jusqu'à la rage !…</l>
-                        <l n="29" xml:id="v29">Tu n'as donc pas un cœur à livrer sans retour ?</l>
-                        <l n="30" xml:id="v30">Tu ne m'as donc donné qu'un fantôme d'amour ?</l>
+                        <l n="27" xml:id="v27">Dans votre vie, et puisqu’on aime sans partage</l>
+                        <l n="28" xml:id="v28">Et dont on est jaloux, jaloux jusqu’à la rage !…</l>
+                        <l n="29" xml:id="v29">Tu n’as donc pas un cœur à livrer sans retour ?</l>
+                        <l n="30" xml:id="v30">Tu ne m’as donc donné qu’un fantôme d’amour ?</l>
                     </sp>
                     <sp xml:id="r14" who="madeleine">
                         <speaker>Madeleine<stage>, coquette.</stage></speaker>
                         <l n="31" xml:id="v31">Poquelin, mon ami, vous êtes difficile…</l>
                         <pb n="8" xml:id="p8"/>
-                        <l n="32" xml:id="v32">Et j'en connais plus d'un, dans cette bonne ville,</l>
+                        <l n="32" xml:id="v32">Et j’en connais plus d’un, dans cette bonne ville,</l>
                         <l n="33" xml:id="v33">Qui se contenterait de ce fantôme-là !</l>
                     </sp>
                     <sp xml:id="r15" who="poquelin">
@@ -165,14 +165,14 @@
                     <sp xml:id="r16" who="madeleine">
                         <speaker>Madeleine<stage>, ironique.</stage></speaker>
                         <l n="35" xml:id="v35">Voilà !… Le malheur est, mon cher, que je suis incapable</l>
-                        <l n="36" xml:id="v36-1" part="I">De t'offrir mieux !</l>
+                        <l n="36" xml:id="v36-1" part="I">De t’offrir mieux !</l>
                         <stage>(Un temps.)</stage>
                         <l n="36" xml:id="v36-2" part="F">Et suis-je, après tout, si coupable ?</l>
-                        <l n="37" xml:id="v37">Je suis coquette ? Eh ! oui ! N'est-ce pas notre emploi</l>
+                        <l n="37" xml:id="v37">Je suis coquette ? Eh ! oui ! N’est-ce pas notre emploi</l>
                         <l n="38" xml:id="v38">À nous autres ?… Plier les hommes sous sa loi,</l>
                         <l n="39" xml:id="v39">Les voir tous à genoux mendier un sourire</l>
                         <l n="40" xml:id="v40">Et pour un doux regard être tous en délire.</l>
-                        <l n="41" xml:id="v41">Mais c'est là notre cas à toutes… Le métier</l>
+                        <l n="41" xml:id="v41">Mais c’est là notre cas à toutes… Le métier</l>
                         <l n="42" xml:id="v42-1" part="I">Veut ça… Nous devons plaire !…</l>
                         <stage>(Riant.)</stage>
                         <l n="42" xml:id="v42-2" part="F">Et, pourquoi le nier ?</l>
@@ -180,12 +180,12 @@
                     </sp>
                     <sp xml:id="r17" who="poquelin">
                         <speaker>Poquelin</speaker>
-                        <l n="43" xml:id="v43-2" part="F">C'est ce que je déplore !</l>
+                        <l n="43" xml:id="v43-2" part="F">C’est ce que je déplore !</l>
                         <stage>(Changeant de ton.)</stage>
                         <l n="44" xml:id="v44">Au surplus, à quoi bon nous quereller encore ?</l>
                         <l n="45" xml:id="v45">Tu ne peux te passer de tous tes sots galants ;</l>
                         <l n="46" xml:id="v46">Moi, je ne puis souffrir leurs propos insolents…</l>
-                        <l n="47" xml:id="v47">Ils ne me viendront plus désormais à l'oreille !</l>
+                        <l n="47" xml:id="v47">Ils ne me viendront plus désormais à l’oreille !</l>
                     </sp>
                     <pb n="9" xml:id="p9"/>
                     <sp xml:id="r18" who="madeleine">
@@ -204,7 +204,7 @@
                     <sp xml:id="r21" who="poquelin">
                         <speaker>Poquelin</speaker>
                         <l n="49" xml:id="v49-2" part="F">Aussitôt !</l>
-                        <l n="50" xml:id="v50-1" part="I">Tout à l'heure !…</l>
+                        <l n="50" xml:id="v50-1" part="I">Tout à l’heure !…</l>
                     </sp>
                     <sp xml:id="r22" who="madeleine">
                         <speaker>Madeleine</speaker>
@@ -212,12 +212,12 @@
                     </sp>
                     <sp xml:id="r23" who="poquelin">
                         <speaker>Poquelin</speaker>
-                        <l n="50" xml:id="v50-3" part="F">Quelqu'un bientôt</l>
+                        <l n="50" xml:id="v50-3" part="F">Quelqu’un bientôt</l>
                         <l n="51" xml:id="v51-1" part="I">Saura me remplacer…</l>
                     </sp>
                     <sp xml:id="r24" who="madeleine">
                         <speaker>Madeleine</speaker>
-                        <l n="51" xml:id="v51-2" part="M">Sur l'heure ?…</l>
+                        <l n="51" xml:id="v51-2" part="M">Sur l’heure ?…</l>
                         <stage>(À part.)</stage>
                         <l n="51" xml:id="v51-3" part="F">Il déraisonne !</l>
                         <stage>(À Poquelin.)</stage>
@@ -231,22 +231,22 @@
                     <pb n="10" xml:id="p10"/>
                     <sp xml:id="r26" who="madeleine">
                         <speaker>Madeleine<stage>, persuasive.</stage></speaker>
-                        <l n="54" xml:id="v54">Et pour toi ! Car, enfin, n'as-tu pas, comme nous,</l>
+                        <l n="54" xml:id="v54">Et pour toi ! Car, enfin, n’as-tu pas, comme nous,</l>
                         <l n="55" xml:id="v55">Intérêt à ce que notre « Illustre Théâtre »…</l>
                     </sp>
                     <sp xml:id="r27" who="poquelin">
                         <speaker>Poquelin</speaker>
-                        <l n="56" xml:id="v56-1" part="I">Bah ! Il s'illustrera sans moi…</l>
+                        <l n="56" xml:id="v56-1" part="I">Bah ! Il s’illustrera sans moi…</l>
                     </sp>
                     <sp xml:id="r28" who="madeleine">
                         <speaker>Madeleine<stage>, désolée.</stage></speaker>
-                        <l n="56" xml:id="v56-2" part="F">L'opiniâtre !</l>
-                        <stage>(Elle s'assied, l'air consterné.)</stage>
+                        <l n="56" xml:id="v56-2" part="F">L’opiniâtre !</l>
+                        <stage>(Elle s’assied, l’air consterné.)</stage>
                     </sp>
                     <sp xml:id="r29" who="poquelin">
-                        <speaker>Poquelin<stage>, l'observant, avec amertume.</stage></speaker>
-                        <l n="57" xml:id="v57">Ah ! comme tu t'émeus, quand c'est ton intérêt</l>
-                        <l n="58" xml:id="v58-1" part="I">Qu'on menace…</l>
+                        <speaker>Poquelin<stage>, l’observant, avec amertume.</stage></speaker>
+                        <l n="57" xml:id="v57">Ah ! comme tu t’émeus, quand c’est ton intérêt</l>
+                        <l n="58" xml:id="v58-1" part="I">Qu’on menace…</l>
                     </sp>
                     <sp xml:id="r30" who="madeleine">
                         <speaker>Madeleine<stage>, relevant la tête.</stage></speaker>
@@ -297,7 +297,7 @@
                     </sp>
                     <sp xml:id="r39" who="poquelin">
                         <speaker>Poquelin</speaker>
-                        <l n="66" xml:id="v66-2" part="M">L'auteur est là ?</l>
+                        <l n="66" xml:id="v66-2" part="M">L’auteur est là ?</l>
                     </sp>
                     <sp xml:id="r40" who="madeleine">
                         <speaker>Madeleine</speaker>
@@ -307,7 +307,7 @@
                         <l n="67" xml:id="v67-2" part="M">Il vous rejoint !</l>
                         <stage>(À Poquelin qui va vers la porte.)</stage>
                         <l n="67" xml:id="v67-3" part="F">À propos… ta tirade…</l>
-                        <l n="68" xml:id="v68">Quand Chrispe dit qu'il meurt… du feu ! de la bravade.</l>
+                        <l n="68" xml:id="v68">Quand Chrispe dit qu’il meurt… du feu ! de la bravade.</l>
                         <stage>(Souriant.)</stage>
                         <l n="69" xml:id="v69-1" part="I">Je suis de bon conseil… pour le métier…</l>
                     </sp>
@@ -329,7 +329,7 @@
                     <sp xml:id="r44" who="madeleine">
                         <speaker>Madeleine</speaker>
                         <l n="71" xml:id="v71-3" part="F">Non, ma scène</l>
-                        <l n="72" xml:id="v72-1" part="I">N'est qu'à la fin de l'acte…</l>
+                        <l n="72" xml:id="v72-1" part="I">N’est qu’à la fin de l’acte…</l>
                     </sp>
                     <stage>(Il sort.)</stage>
                 </div2>
@@ -338,7 +338,7 @@
                     <stage>Madeleine.</stage>
                     <sp xml:id="r45" who="madeleine">
                         <speaker>Madeleine<stage>, seule.</stage></speaker>
-                        <l n="72" xml:id="v72-2" part="F">Ouf ! Que l'on a de peine</l>
+                        <l n="72" xml:id="v72-2" part="F">Ouf ! Que l’on a de peine</l>
                         <l n="73" xml:id="v73">À mettre à la raison ce damné Poquelin !</l>
                         <stage>(Songeuse.)</stage>
                         <l n="74" xml:id="v74-1" part="I">Jaloux !</l>
@@ -346,29 +346,29 @@
                         <l n="74" xml:id="v74-2" part="F">Il tombe bien !… Mon cœur est un moulin</l>
                         <l n="75" xml:id="v75-1" part="I">Qui tourne à tous les vents…</l>
                         <stage>(Sérieuse.)</stage>
-                        <l n="75" xml:id="v75-2" part="F">L'important est qu'il reste !</l>
+                        <l n="75" xml:id="v75-2" part="F">L’important est qu’il reste !</l>
                         <pb n="13" xml:id="p13"/>
                         <l n="76" xml:id="v76">Nous quitter brusquement, un jour semblable…Peste !</l>
-                        <l n="77" xml:id="v77-1" part="I">C'eût été du joli !</l>
+                        <l n="77" xml:id="v77-1" part="I">C’eût été du joli !</l>
                         <stage>(On frappe à la porte de la rue.)</stage>
-                        <l n="77" xml:id="v77-2" part="M">Qu'est-ce là ?</l>
+                        <l n="77" xml:id="v77-2" part="M">Qu’est-ce là ?</l>
                         <stage>(Elle regarde par le judas de celte porte.)</stage>
                         <l n="77" xml:id="v77-3" part="F">Quel ennui !</l>
-                        <l n="78" xml:id="v78">L'inconnu que je vis au Pont-Neuf aujourd'hui !</l>
-                        <l n="79" xml:id="v79">Pas beau d'abord… Un nez de longueur insolite…</l>
+                        <l n="78" xml:id="v78">L’inconnu que je vis au Pont-Neuf aujourd’hui !</l>
+                        <l n="79" xml:id="v79">Pas beau d’abord… Un nez de longueur insolite…</l>
                         <l n="80" xml:id="v80">Et puis… pour Poquelin !… Ce serait la faillite,</l>
-                        <l n="81" xml:id="v81-1" part="I">S'il s'en allait !</l>
+                        <l n="81" xml:id="v81-1" part="I">S’il s’en allait !</l>
                         <stage>(On refrappe.)</stage>
                         <l n="81" xml:id="v81-2" part="M">Non ! non !</l>
                         <stage>(On refrappe plus fort. — Réfléchissant.)</stage>
-                        <l n="81" xml:id="v81-3" part="F">Mais l'autre peut l'ouïr…</l>
+                        <l n="81" xml:id="v81-3" part="F">Mais l’autre peut l’ouïr…</l>
                         <stage>(Se décidant.)</stage>
-                        <l n="82" xml:id="v82-1" part="I">Mieux vaut l'expédier !</l>
+                        <l n="82" xml:id="v82-1" part="I">Mieux vaut l’expédier !</l>
                         <stage>(Elle va vers la porte.)</stage>
                     </sp>
                     <sp xml:id="r46" who="cyrano">
                         <speaker>Cyrano<stage>, du dehors.</stage></speaker>
-                        <l n="82" xml:id="v82-2" part="F">Ah çà ! Va-t-on m'ouvrir ?</l>
+                        <l n="82" xml:id="v82-2" part="F">Ah çà ! Va-t-on m’ouvrir ?</l>
                     </sp>
                     <sp xml:id="r47" who="madeleine">
                         <speaker>Madeleine<stage>, en ouvrant, à travers la porte.</stage></speaker>
@@ -383,11 +383,11 @@
                         <l n="84" xml:id="v84">Enfin… Je te revois, ma déesse au doux charme…</l>
                         <stage>(Allant à elle.)</stage>
                         <pb n="14" xml:id="p14"/>
-                        <l n="85" xml:id="v85-1" part="I">Un baiser tout d'abord.</l>
+                        <l n="85" xml:id="v85-1" part="I">Un baiser tout d’abord.</l>
                         <stage>(Elle refuse de ta tête.)</stage>
                         <l n="85" xml:id="v85-2" part="M">Non ?</l>
                         <stage>(Fat.)</stage>
-                        <l n="85" xml:id="v85-3" part="F">J'y perdrais mon nom</l>
+                        <l n="85" xml:id="v85-3" part="F">J’y perdrais mon nom</l>
                         <l n="86" xml:id="v86-1" part="I">De Cyrano !… Le baiser, vite !</l>
                     </sp>
                     <sp xml:id="r49" who="madeleine">
@@ -396,20 +396,20 @@
                     </sp>
                     <sp xml:id="r50" who="cyrano">
                         <speaker>Cyrano</speaker>
-                        <l n="87" xml:id="v87-1" part="I">C'est ce que nous verrons… et bientôt…</l>
+                        <l n="87" xml:id="v87-1" part="I">C’est ce que nous verrons… et bientôt…</l>
                         <stage>(Il marche vers elle.)</stage>
                         <l n="87" xml:id="v87-2" part="F">Une feinte…</l>
-                        <l n="88" xml:id="v88-1" part="I">Et droit sur l'ennemi…</l>
+                        <l n="88" xml:id="v88-1" part="I">Et droit sur l’ennemi…</l>
                     </sp>
                     <sp xml:id="r51" who="madeleine">
-                        <speaker>Madeleine<stage>, lui échappant et se mettant à l'abri derrière la table.</stage></speaker>
-                        <l n="88" xml:id="v88-2" part="F">Qui se met hors d'atteinte !</l>
+                        <speaker>Madeleine<stage>, lui échappant et se mettant à l’abri derrière la table.</stage></speaker>
+                        <l n="88" xml:id="v88-2" part="F">Qui se met hors d’atteinte !</l>
                     </sp>
                     <sp xml:id="r52" who="cyrano">
                         <speaker>Cyrano<stage>, riant.</stage></speaker>
                         <l n="89" xml:id="v89">La friponne ! Elle veut me mettre sur les dents…</l>
                         <l n="90" xml:id="v90-1" part="I">Second assaut…</l>
-                        <stage>(Il va s'élancer, elle l'arrête.)</stage>
+                        <stage>(Il va s’élancer, elle l’arrête.)</stage>
                     </sp>
                     <sp xml:id="r53" who="madeleine">
                         <speaker>Madeleine</speaker>
@@ -417,7 +417,7 @@
                         <stage>(Elle sort de sa retraite.)</stage>
                         <l n="90" xml:id="v90-3" part="F">Je me rends !</l>
                         <l n="91" xml:id="v91-1" part="I">Mais de plein gré.</l>
-                        <stage>(Il veut l'embrasser. Elle se recule.)</stage>
+                        <stage>(Il veut l’embrasser. Elle se recule.)</stage>
                         <l n="91" xml:id="v91-2" part="F">Eh ! là !… Sachez bien que personne</l>
                         <pb n="15" xml:id="p15"/>
                         <l n="92" xml:id="v92">Ne peut prendre un baiser… Un baiser, ça se donne !</l>
@@ -426,30 +426,30 @@
                     </sp>
                     <sp xml:id="r54" who="cyrano">
                         <speaker>Cyrano<stage>, déconfit.</stage></speaker>
-                        <l n="93" xml:id="v93-2" part="M">C'est tout ?</l>
+                        <l n="93" xml:id="v93-2" part="M">C’est tout ?</l>
                     </sp>
                     <sp xml:id="r55" who="madeleine">
-                        <speaker>Madeleine<stage>, d'un ton ferme.</stage></speaker>
-                        <l n="93" xml:id="v93-3" part="F">Maintenant, s'il vous plaît, hors d'ici !</l>
+                        <speaker>Madeleine<stage>, d’un ton ferme.</stage></speaker>
+                        <l n="93" xml:id="v93-3" part="F">Maintenant, s’il vous plaît, hors d’ici !</l>
                     </sp>
                     <sp xml:id="r56" who="cyrano">
                         <speaker>Cyrano</speaker>
-                        <l n="94" xml:id="v94-1" part="I">Et… s'il ne me plaît pas ?</l>
+                        <l n="94" xml:id="v94-1" part="I">Et… s’il ne me plaît pas ?</l>
                     </sp>
                     <sp xml:id="r57" who="madeleine">
                         <speaker>Madeleine</speaker>
                         <l n="94" xml:id="v94-2" part="F">Ce sera tout ainsi !</l>
-                        <l n="95" xml:id="v95">Quand la Béjart s'est mise quelque dessein entête,</l>
-                        <l n="96" xml:id="v96">C'est vite fait : Ni Dieu, ni galant ne l'arrête.</l>
+                        <l n="95" xml:id="v95">Quand la Béjart s’est mise quelque dessein entête,</l>
+                        <l n="96" xml:id="v96">C’est vite fait : Ni Dieu, ni galant ne l’arrête.</l>
                         <stage>(Montrant la porte.)</stage>
-                        <l n="97" xml:id="v97-1" part="I">Qu'attendez-vous ?</l>
+                        <l n="97" xml:id="v97-1" part="I">Qu’attendez-vous ?</l>
                     </sp>
                     <sp xml:id="r58" who="cyrano">
                         <speaker>Cyrano</speaker>
-                        <l n="97" xml:id="v97-2" part="F">J'attends… que je veuille obéir !</l>
-                        <l n="98" xml:id="v98">Car tu m'as mis en goût de ne plus repartir…</l>
+                        <l n="97" xml:id="v97-2" part="F">J’attends… que je veuille obéir !</l>
+                        <l n="98" xml:id="v98">Car tu m’as mis en goût de ne plus repartir…</l>
                         <l n="99" xml:id="v99">On est trop bien ici, ma chère ! Et peux-tu croire</l>
-                        <l n="100" xml:id="v100">Qu'on va battre en retraite au seuil de la victoire ?</l>
+                        <l n="100" xml:id="v100">Qu’on va battre en retraite au seuil de la victoire ?</l>
                     </sp>
                     <sp xml:id="r59" who="madeleine">
                         <speaker>Madeleine, éclatant.</speaker>
@@ -458,7 +458,7 @@
                     </sp>
                     <sp xml:id="r60" who="cyrano">
                         <speaker>Cyrano<stage>, vexé.</stage></speaker>
-                        <l n="103" xml:id="v103-1" part="I">Alors, pourquoi m'ouvrir ?</l>
+                        <l n="103" xml:id="v103-1" part="I">Alors, pourquoi m’ouvrir ?</l>
                     </sp>
                     <pb n="16" xml:id="p16"/>
                     <sp xml:id="r61" who="madeleine">
@@ -473,7 +473,7 @@
                         <speaker>Madeleine</speaker>
                         <l n="104" xml:id="v104-2" part="F">Donné pour être plutôt quitte.</l>
                         <stage>(Très brusque.)</stage>
-                        <l n="105" xml:id="v105">… Et d'ailleurs, vous devez comprendre maintenant,</l>
+                        <l n="105" xml:id="v105">… Et d’ailleurs, vous devez comprendre maintenant,</l>
                         <l n="106" xml:id="v106">Sans tant de longs discours, que vous êtes gênant.</l>
                     </sp>
                     <sp xml:id="r64" who="cyrano">
@@ -482,7 +482,7 @@
                     </sp>
                     <sp xml:id="r65" who="madeleine">
                         <speaker>Madeleine</speaker>
-                        <l n="107" xml:id="v107-2" part="F">On ne peut plus !… Autant que l'on peut l'être !</l>
+                        <l n="107" xml:id="v107-2" part="F">On ne peut plus !… Autant que l’on peut l’être !</l>
                         <l n="108" xml:id="v108-1" part="I">Et la preuve…</l>
                         <stage>(Un peu gênée et se décidant.)</stage>
                         <l n="108" xml:id="v108-2" part="F">Tenez… poussez cette fenêtre…</l>
@@ -497,7 +497,7 @@
                         <l n="109" xml:id="v109-3" part="F">Et puis… plus rien ?</l>
                     </sp>
                     <sp xml:id="r68" who="cyrano">
-                        <speaker>Cyrano<stage>, regardant d'un autre côté.</stage></speaker>
+                        <speaker>Cyrano<stage>, regardant d’un autre côté.</stage></speaker>
                         <l n="110" xml:id="v110-1" part="I">Ah ! par ici, je vois un théâtre…</l>
                     </sp>
                     <sp xml:id="r69" who="madeleine">
@@ -505,11 +505,11 @@
                         <l n="110" xml:id="v110-2" part="F">Le mien,</l>
                         <pb n="17" xml:id="p17"/>
                         <l n="111" xml:id="v111">Lequel ouvre demain au public de la ville…</l>
-                        <l n="112" xml:id="v112">Vous jugerez, dès lors, qu'il m'est fort difficile,</l>
+                        <l n="112" xml:id="v112">Vous jugerez, dès lors, qu’il m’est fort difficile,</l>
                         <l n="113" xml:id="v113">Ayant mille travaux, ce jour, et cent tracas,</l>
                         <l n="114" xml:id="v114">De méditer longtemps, monsieur, sur votre cas,</l>
-                        <l n="115" xml:id="v115">Et, quand ma troupe même à jouer n'est pas prête,</l>
-                        <l n="116" xml:id="v116">De perdre un grand quart d'heure à parler d'amourette !</l>
+                        <l n="115" xml:id="v115">Et, quand ma troupe même à jouer n’est pas prête,</l>
+                        <l n="116" xml:id="v116">De perdre un grand quart d’heure à parler d’amourette !</l>
                     </sp>
                     <sp xml:id="r70" who="cyrano">
                         <speaker>Cyrano</speaker>
@@ -517,15 +517,15 @@
                     </sp>
                     <sp xml:id="r71" who="madeleine">
                         <speaker>Madeleine</speaker>
-                        <l n="117" xml:id="v117-2" part="F">J'en suis toute au regret.</l>
+                        <l n="117" xml:id="v117-2" part="F">J’en suis toute au regret.</l>
                         <stage>(Elle le pousse vers la porte.)</stage>
                     </sp>
                     <sp xml:id="r72" who="cyrano">
                         <speaker>Cyrano<stage>, à part.</stage></speaker>
-                        <l n="118" xml:id="v118">Bah ! tant pis… La mâtine a vraiment trop d'attrait…</l>
+                        <l n="118" xml:id="v118">Bah ! tant pis… La mâtine a vraiment trop d’attrait…</l>
                         <stage>(Se retournant brusquement. Haut.)</stage>
                         <l n="119" xml:id="v119">Quand Cyrano franchit avec succès la porte</l>
-                        <l n="120" xml:id="v120">D'une belle, il faudrait cent hommes pour qu'il sorte…</l>
+                        <l n="120" xml:id="v120">D’une belle, il faudrait cent hommes pour qu’il sorte…</l>
                         <stage>(Se jetant sur un fauteuil.)</stage>
                         <l n="121" xml:id="v121">Je ne sortirai pas !</l>
                     </sp>
@@ -541,12 +541,12 @@
                     </sp>
                     <sp xml:id="r75" who="madeleine">
                         <speaker>Madeleine<stage>, même jeu.</stage></speaker>
-                        <l n="122" xml:id="v122-3" part="F">Il s'est tu !</l>
+                        <l n="122" xml:id="v122-3" part="F">Il s’est tu !</l>
                     </sp>
                     <pb n="18" xml:id="p18"/>
                     <sp xml:id="r76" who="cyrano">
                         <speaker>Cyrano<stage>, même jeu.</stage></speaker>
-                        <l n="123" xml:id="v123-1" part="I">J'adore le théâtre…</l>
+                        <l n="123" xml:id="v123-1" part="I">J’adore le théâtre…</l>
                     </sp>
                     <sp xml:id="r77" who="madeleine">
                         <speaker>Madeleine<stage>, même jeu.</stage></speaker>
@@ -556,10 +556,10 @@
                     </sp>
                     <sp xml:id="r78" who="cyrano">
                         <speaker>Cyrano</speaker>
-                        <l n="124" xml:id="v124-1" part="I">Tu dois aussi l'aimer ?</l>
+                        <l n="124" xml:id="v124-1" part="I">Tu dois aussi l’aimer ?</l>
                     </sp>
                     <sp xml:id="r79" who="madeleine">
-                        <speaker>Madeleine<stage>, s'apprêtant à sortir.</stage></speaker>
+                        <speaker>Madeleine<stage>, s’apprêtant à sortir.</stage></speaker>
                         <l n="124" xml:id="v124-2" part="F">Moi ?… Moi, je vous déteste !</l>
                         <stage>(Cyrano hausse les épaules en souriant. Elle se hâte vers la porte. À part.)</stage>
                         <l n="125" xml:id="v125">Je préfère être loin au moment du contact !</l>
@@ -573,14 +573,14 @@
                         <speaker>Cyrano<stage>, seul, entendant fermer la porte.</stage></speaker>
                         <l n="126" xml:id="v126-1" part="I">Partie !…</l>
                         <stage>(Bruit de Vautre côté, à la porte du Jeu de Paume.)</stage>
-                        <l n="126" xml:id="v126-2" part="M">Et quelqu'un vient…</l>
+                        <l n="126" xml:id="v126-2" part="M">Et quelqu’un vient…</l>
                         <stage>(Réfléchissant.)</stage>
-                        <l n="126" xml:id="v126-3" part="F">L'amant… S'il a du tact,</l>
-                        <l n="127" xml:id="v127-1" part="I">Je l'épargne… Sinon !</l>
+                        <l n="126" xml:id="v126-3" part="F">L’amant… S’il a du tact,</l>
+                        <l n="127" xml:id="v127-1" part="I">Je l’épargne… Sinon !</l>
                         <stage>(Il touche son épie.)</stage>
                         <pb n="19" xml:id="p19"/>
-                        <l n="127" xml:id="v127-2" part="F">… Il n'aura pas à rire !</l>
-                        <stage>(Il se promène, la main sur l'épée, tournant le dos à la porte par où entre Poquelin.)</stage>
+                        <l n="127" xml:id="v127-2" part="F">… Il n’aura pas à rire !</l>
+                        <stage>(Il se promène, la main sur l’épée, tournant le dos à la porte par où entre Poquelin.)</stage>
                     </sp>
                 </div2>
                 <div2 type="scene" n="5" xml:id="I_5">
@@ -594,23 +594,23 @@
                     </sp>
                     <sp xml:id="r82" who="cyrano">
                         <speaker>Cyrano<stage>, se redressant à ce ton de voix, mais sans se retourner, à part.</stage></speaker>
-                        <l n="128" xml:id="v128-3" part="F">Qu'est-ce à dire ?</l>
+                        <l n="128" xml:id="v128-3" part="F">Qu’est-ce à dire ?</l>
                     </sp>
                     <sp xml:id="r83" who="poquelin">
                         <speaker>Poquelin<stage>, plus nerveux.</stage></speaker>
                         <l n="129" xml:id="v129-1" part="I">Que faites-vous céans ?</l>
                     </sp>
                     <sp xml:id="r84" who="cyrano">
-                        <speaker>Cyrano<stage>, l'air furibond, mais sans se retourner encore.</stage></speaker>
-                        <l n="129" xml:id="v129-2" part="M">Ce qu'il me plaît !</l>
+                        <speaker>Cyrano<stage>, l’air furibond, mais sans se retourner encore.</stage></speaker>
+                        <l n="129" xml:id="v129-2" part="M">Ce qu’il me plaît !</l>
                     </sp>
                     <sp xml:id="r85" who="poquelin">
                         <speaker>Poquelin<stage>, marchant vers Cyrano, et insolent.</stage></speaker>
                         <l n="129" xml:id="v129-3" part="F">Faquin !</l>
                     </sp>
                     <sp xml:id="r86" who="cyrano">
-                        <speaker>Cyrano<stage>, pendant qu'il se retourne, tirant l'épée.</stage></speaker>
-                        <l n="130" xml:id="v130-1" part="I">Cornebleu ! l'insolent !</l>
+                        <speaker>Cyrano<stage>, pendant qu’il se retourne, tirant l’épée.</stage></speaker>
+                        <l n="130" xml:id="v130-1" part="I">Cornebleu ! l’insolent !</l>
                     </sp>
                     <sp xml:id="r87" who="poquelin">
                         <speaker>Poquelin<stage>, le reconnaissant, ébahi.</stage></speaker>
@@ -624,8 +624,8 @@
                     </sp>
                     <sp xml:id="r89" who="poquelin">
                         <speaker>Poquelin</speaker>
-                        <l n="131" xml:id="v131-2" part="F">Or çà, vite que je t'embrasse.</l>
-                        <stage>(L'embrassant.)</stage>
+                        <l n="131" xml:id="v131-2" part="F">Or çà, vite que je t’embrasse.</l>
+                        <stage>(L’embrassant.)</stage>
                         <l n="132" xml:id="v132-1" part="I">Ce cher ami !</l>
                     </sp>
                     <sp xml:id="r90" who="cyrano">
@@ -642,8 +642,8 @@
                         <l n="134" xml:id="v134-2" part="M">Et toi non plus…</l>
                     </sp>
                     <sp xml:id="r93" who="poquelin">
-                        <speaker>Poquelin<stage>, l'examinant avec insistance.</stage></speaker>
-                        <l n="134" xml:id="v134-3" part="F">Toujours l'abord hardi !</l>
+                        <speaker>Poquelin<stage>, l’examinant avec insistance.</stage></speaker>
+                        <l n="134" xml:id="v134-3" part="F">Toujours l’abord hardi !</l>
                     </sp>
                     <sp xml:id="r94" who="cyrano">
                         <speaker>Cyrano</speaker>
@@ -658,7 +658,7 @@
                         <l n="136" xml:id="v136-2" part="F">Et Bernier ?… Au fait… je me rappelle…</l>
                     </sp>
                     <sp xml:id="r97" who="poquelin">
-                        <speaker>Poquelin<stage>, l'interrompant.</stage></speaker>
+                        <speaker>Poquelin<stage>, l’interrompant.</stage></speaker>
                         <l n="137" xml:id="v137-1" part="I">Un mot… par quel hasard…</l>
                     </sp>
                     <pb n="21" xml:id="p21"/>
@@ -679,11 +679,11 @@
                     </sp>
                     <sp xml:id="r101" who="poquelin">
                         <speaker>Poquelin<stage>, très ardent.</stage></speaker>
-                        <l n="139" xml:id="v139-2" part="F">Son nom, Cyrano, je t'en prie !</l>
+                        <l n="139" xml:id="v139-2" part="F">Son nom, Cyrano, je t’en prie !</l>
                     </sp>
                     <sp xml:id="r102" who="cyrano">
                         <speaker>Cyrano<stage>, hésitant maintenant.</stage></speaker>
-                        <l n="140" xml:id="v140-1" part="I">C'est que…</l>
+                        <l n="140" xml:id="v140-1" part="I">C’est que…</l>
                     </sp>
                     <sp xml:id="r103" who="poquelin">
                         <speaker>Poquelin<stage>, très froid.</stage></speaker>
@@ -692,16 +692,16 @@
                     </sp>
                     <sp xml:id="r104" who="cyrano">
                         <speaker>Cyrano<stage>, se trahissant.</stage></speaker>
-                        <l n="141" xml:id="v141-2" part="F">Qui t'a dit ?…</l>
+                        <l n="141" xml:id="v141-2" part="F">Qui t’a dit ?…</l>
                     </sp>
                     <sp xml:id="r105" who="poquelin">
                         <speaker>Poquelin<stage>, accablé, avec douleur.</stage></speaker>
-                        <l n="142" xml:id="v142-1" part="I">C'est elle !…</l>
+                        <l n="142" xml:id="v142-1" part="I">C’est elle !…</l>
                     </sp>
                     <sp xml:id="r106" who="cyrano">
                         <speaker>Cyrano<stage>, courant à lui.</stage></speaker>
-                        <l n="142" xml:id="v142-2" part="F">Ah ! Poquelin ! Je ne suis qu'un maudit</l>
-                        <l n="143" xml:id="v143-1" part="I">Fou… Tu l'aimes ?</l>
+                        <l n="142" xml:id="v142-2" part="F">Ah ! Poquelin ! Je ne suis qu’un maudit</l>
+                        <l n="143" xml:id="v143-1" part="I">Fou… Tu l’aimes ?</l>
                     </sp>
                     <sp xml:id="r107" who="poquelin">
                         <speaker>Poquelin</speaker>
@@ -714,25 +714,25 @@
                     </sp>
                     <sp xml:id="r109" who="poquelin">
                         <speaker>Poquelin<stage>, avec rage.</stage></speaker>
-                        <l n="144" xml:id="v144-1" part="I">L'infernale coquette !</l>
+                        <l n="144" xml:id="v144-1" part="I">L’infernale coquette !</l>
                     </sp>
                     <sp xml:id="r110" who="cyrano">
                         <speaker>Cyrano<stage>, approuvant involontairement.</stage></speaker>
                         <l n="144" xml:id="v144-2" part="F">Ah ! ça… la demoiselle</l>
-                        <l n="145" xml:id="v145-1" part="I">Peut se vanter de l'être !…</l>
+                        <l n="145" xml:id="v145-1" part="I">Peut se vanter de l’être !…</l>
                         <stage>(Revenant à la situation.)</stage>
                         <l n="145" xml:id="v145-2" part="F">Au reste, calme-toi…</l>
-                        <l n="146" xml:id="v146">C'est la première fois que j'entre sous son toit…</l>
-                        <l n="147" xml:id="v147-1" part="I">D'honneur !</l>
+                        <l n="146" xml:id="v146">C’est la première fois que j’entre sous son toit…</l>
+                        <l n="147" xml:id="v147-1" part="I">D’honneur !</l>
                     </sp>
                     <sp xml:id="r111" who="poquelin">
                         <speaker>Poquelin</speaker>
-                        <l n="147" xml:id="v147-2" part="M">Eh ! que m'importe !</l>
+                        <l n="147" xml:id="v147-2" part="M">Eh ! que m’importe !</l>
                     </sp>
                     <sp xml:id="r112" who="cyrano">
                         <speaker>Cyrano</speaker>
                         <l n="147" xml:id="v147-3" part="F">Et même, il faut te dire</l>
-                        <l n="148" xml:id="v148-1" part="I">Qu'elle m'a mis dehors…</l>
+                        <l n="148" xml:id="v148-1" part="I">Qu’elle m’a mis dehors…</l>
                     </sp>
                     <sp xml:id="r113" who="poquelin">
                         <speaker>Poquelin<stage>, avec ironie triste.</stage></speaker>
@@ -741,15 +741,15 @@
                     <sp xml:id="r114" who="cyrano">
                         <speaker>Cyrano<stage>, embarrassé.</stage></speaker>
                         <l n="148" xml:id="v148-3" part="F">Tout conspire</l>
-                        <l n="149" xml:id="v149">À me donner les torts… Et, défait, j'eus ces torts.</l>
+                        <l n="149" xml:id="v149">À me donner les torts… Et, défait, j’eus ces torts.</l>
                         <l n="150" xml:id="v150-1" part="I">Car moi seul…</l>
                     </sp>
                     <sp xml:id="r115" who="poquelin">
-                        <speaker>Poquelin<stage>, l'arrêtant.</stage></speaker>
+                        <speaker>Poquelin<stage>, l’arrêtant.</stage></speaker>
                         <l n="150" xml:id="v150-2" part="F">Inutile, ami, tous tes efforts</l>
-                        <l n="151" xml:id="v151">Sont superflus… Je vois qu'elle est incorrigible…</l>
-                        <l n="152" xml:id="v152">Et qu'elle m'a menti… Ce ne m'est plus possible</l>
-                        <l n="153" xml:id="v153">De demeurer ici plus longtemps… Je m'en vais !</l>
+                        <l n="151" xml:id="v151">Sont superflus… Je vois qu’elle est incorrigible…</l>
+                        <l n="152" xml:id="v152">Et qu’elle m’a menti… Ce ne m’est plus possible</l>
+                        <l n="153" xml:id="v153">De demeurer ici plus longtemps… Je m’en vais !</l>
                     </sp>
                     <pb n="23" xml:id="p23"/>
                     <sp xml:id="r116" who="cyrano">
@@ -759,13 +759,13 @@
                     <sp xml:id="r117" who="poquelin">
                         <speaker>Poquelin</speaker>
                         <l n="154" xml:id="v154-2" part="F">Pourquoi ? Tu te trouvais</l>
-                        <l n="155" xml:id="v155">Là sans savoir… Un autre ou toi… c'est même compte.</l>
-                        <l n="156" xml:id="v156-1" part="I">Elle ne m'aime plus … Je pars…</l>
+                        <l n="155" xml:id="v155">Là sans savoir… Un autre ou toi… c’est même compte.</l>
+                        <l n="156" xml:id="v156-1" part="I">Elle ne m’aime plus … Je pars…</l>
                     </sp>
                     <sp xml:id="r118" who="cyrano">
                         <speaker>Cyrano</speaker>
                         <l n="156" xml:id="v156-2" part="F">Mais on raconte</l>
-                        <l n="157" xml:id="v157-1" part="I">Ces choses-là… L'on n'en fait rien…</l>
+                        <l n="157" xml:id="v157-1" part="I">Ces choses-là… L’on n’en fait rien…</l>
                     </sp>
                     <sp xml:id="r119" who="poquelin">
                         <speaker>Poquelin<stage>, très grave.</stage></speaker>
@@ -773,7 +773,7 @@
                     </sp>
                     <sp xml:id="r120" who="cyrano">
                         <speaker>Cyrano<stage>, grave aussi.</stage></speaker>
-                        <l n="158" xml:id="v158-1" part="I">C'est sérieux ?</l>
+                        <l n="158" xml:id="v158-1" part="I">C’est sérieux ?</l>
                     </sp>
                     <sp xml:id="r121" who="poquelin">
                         <speaker>Poquelin</speaker>
@@ -784,14 +784,14 @@
                         <speaker>Cyrano</speaker>
                         <l n="158" xml:id="v158-3" part="F">Il vaut peut-être autant</l>
                         <l n="159" xml:id="v159">Après tout… Loin des yeux, dit un proverbe sage,</l>
-                        <l n="160" xml:id="v160">Loin du cœur. En ayant aujourd'hui ce courage,</l>
-                        <l n="161" xml:id="v161">Ton mal fuira plus vite, ami, j'en suis certain.</l>
-                        <l n="162" xml:id="v162">Et tu t'éveilleras, je gage, un beau matin,</l>
-                        <l n="163" xml:id="v163">Content, libre, guéri… Sur ce… l'heure s'avance…</l>
-                        <l n="164" xml:id="v164">À la « Pomme de pin » l'on doit faire bombance…</l>
+                        <l n="160" xml:id="v160">Loin du cœur. En ayant aujourd’hui ce courage,</l>
+                        <l n="161" xml:id="v161">Ton mal fuira plus vite, ami, j’en suis certain.</l>
+                        <l n="162" xml:id="v162">Et tu t’éveilleras, je gage, un beau matin,</l>
+                        <l n="163" xml:id="v163">Content, libre, guéri… Sur ce… l’heure s’avance…</l>
+                        <l n="164" xml:id="v164">À la « Pomme de pin » l’on doit faire bombance…</l>
                         <l n="165" xml:id="v165-1" part="I">Viens !</l>
                     </sp>
-                    <stage>(On entend, par la fenêtre, un bruit de bravos monter du Jeu de Paume où l'on répète ; Poquelin, qui allait suivre Cyrano vers la porte de la rue, s'arrête soudain.)</stage>
+                    <stage>(On entend, par la fenêtre, un bruit de bravos monter du Jeu de Paume où l’on répète ; Poquelin, qui allait suivre Cyrano vers la porte de la rue, s’arrête soudain.)</stage>
                     <sp xml:id="r123" who="poquelin">
                         <speaker>Poquelin</speaker>
                         <l n="165" xml:id="v165-2" part="M">Un instant !</l>
@@ -825,8 +825,8 @@
                     </sp>
                     <sp xml:id="r129" who="poquelin">
                         <speaker>Poquelin</speaker>
-                        <l n="170" xml:id="v170-2" part="F">Sont ce que j'étais, moi !…</l>
-                        <l n="171" xml:id="v171">C'est vrai… tu ne sais pas… Pour suivre Madeleine…</l>
+                        <l n="170" xml:id="v170-2" part="F">Sont ce que j’étais, moi !…</l>
+                        <l n="171" xml:id="v171">C’est vrai… tu ne sais pas… Pour suivre Madeleine…</l>
                         <l n="172" xml:id="v172-1" part="I">Je fus comédien…</l>
                     </sp>
                     <pb n="25" xml:id="p25"/>
@@ -836,40 +836,40 @@
                     </sp>
                     <sp xml:id="r131" who="poquelin">
                         <speaker>Poquelin<stage>, avec douleur.</stage></speaker>
-                        <l n="173" xml:id="v173">Je n'y monterai plus… Tout mon rêve est détruit…</l>
+                        <l n="173" xml:id="v173">Je n’y monterai plus… Tout mon rêve est détruit…</l>
                         <l n="174" xml:id="v174">Ces applaudissements… Ces bravos ! Ah !… ce bruit…</l>
-                        <stage>(Ardent et s'animant de plus en plus.)</stage>
+                        <stage>(Ardent et s’animant de plus en plus.)</stage>
                         <l n="175" xml:id="v175">Non ! tu ne peux savoir, Cyrano, quelle ivresse</l>
-                        <l n="176" xml:id="v176">On ressent, quand éclate à l'oreille… sans cesse…</l>
+                        <l n="176" xml:id="v176">On ressent, quand éclate à l’oreille… sans cesse…</l>
                         <l n="177" xml:id="v177">Grondant comme un tonnerre et vous serrant le cœur…</l>
                         <l n="178" xml:id="v178">Ce bruit qui vous apprend que vous sortez vainqueur</l>
-                        <l n="179" xml:id="v179">De la lutte engagée avec l'âme des hommes…</l>
+                        <l n="179" xml:id="v179">De la lutte engagée avec l’âme des hommes…</l>
                         <l n="180" xml:id="v180">Que cette âme est à nous — tout petits que nous sommes,</l>
-                        <l n="181" xml:id="v181">Car, selon qu'il nous plut de la transfigurer,</l>
-                        <l n="182" xml:id="v182">Nous l'avons fait sourire ou l'avons fait pleurer !</l>
+                        <l n="181" xml:id="v181">Car, selon qu’il nous plut de la transfigurer,</l>
+                        <l n="182" xml:id="v182">Nous l’avons fait sourire ou l’avons fait pleurer !</l>
                         <l n="183" xml:id="v183">Voir à deux pas de soi, comme en un grand trou sombre</l>
                         <l n="184" xml:id="v184">Tous ces êtres humains, qui paraissent sans nombre,</l>
-                        <l n="185" xml:id="v185">Vivant, dans un éclair, l'existence qu'on veut,</l>
+                        <l n="185" xml:id="v185">Vivant, dans un éclair, l’existence qu’on veut,</l>
                         <l n="186" xml:id="v186">Ardents de notre ardeur, brûlant de notre feu,</l>
                         <l n="187" xml:id="v187">Navrés de notre peine et fous de notre joie…</l>
                         <l n="188" xml:id="v188">Les pétrir à sa guise… en faire notre proie…</l>
                         <l n="189" xml:id="v189">Et les entendre alors — comme un flot de la mer</l>
-                        <l n="190" xml:id="v190">Dont le bruissement monte et grandit dans l'air—</l>
+                        <l n="190" xml:id="v190">Dont le bruissement monte et grandit dans l’air—</l>
                         <l n="191" xml:id="v191">Bénir de leurs deux mains le donneur de magie</l>
                         <l n="192" xml:id="v192">Qui sut, pour un instant, les ravir à leur vie…</l>
                         <l n="193" xml:id="v193">Cette heure exquise, et grande, et que, moi, je connus,</l>
-                        <l n="194" xml:id="v194">Et qui t'échappe. — Hélas !… Je ne la verrai plus !</l>
+                        <l n="194" xml:id="v194">Et qui t’échappe. — Hélas !… Je ne la verrai plus !</l>
                     </sp>
                     <sp xml:id="r132" who="cyrano">
                         <speaker>Cyrano</speaker>
-                        <l n="195" xml:id="v195">Quel ardeur à défendre un état qui, j'avoue,</l>
+                        <l n="195" xml:id="v195">Quel ardeur à défendre un état qui, j’avoue,</l>
                         <pb n="26" xml:id="p26"/>
                         <l n="196" xml:id="v196">A ses plaisirs et ses orgueils… Mais quand on joue,</l>
                         <l n="197" xml:id="v197">Ne faut-il pas compter avec les mauvais jours ?</l>
                     </sp>
                     <sp xml:id="r133" who="poquelin">
                         <speaker>Poquelin</speaker>
-                        <l n="198" xml:id="v198">Paris m'accueillant mal, la province toujours</l>
+                        <l n="198" xml:id="v198">Paris m’accueillant mal, la province toujours</l>
                         <l n="199" xml:id="v199-1" part="I">Me fût restée…</l>
                     </sp>
                     <sp xml:id="r134" who="cyrano">
@@ -878,14 +878,14 @@
                     </sp>
                     <sp xml:id="r135" who="poquelin">
                         <speaker>Poquelin</speaker>
-                        <l n="200" xml:id="v200">… Et que m'importerait ce long pèlerinage</l>
+                        <l n="200" xml:id="v200">… Et que m’importerait ce long pèlerinage</l>
                         <l n="201" xml:id="v201">Si je voyais sans cesse… au terme du chemin…</l>
                         <l n="202" xml:id="v202">Poindre, après le présent sombre, un clair lendemain !</l>
                         <stage>(S’échauffant encore.)</stage>
                         <l n="203" xml:id="v203">Et quand même jamais ne luirait cette aurore…</l>
-                        <l n="204" xml:id="v204">Même désespéré… j'espérerais encore…</l>
-                        <l n="205" xml:id="v205">Puisque j'aurais au cœur un divin cordial,</l>
-                        <l n="206" xml:id="v206">Réchauffant ma misère au feu de l'idéal !</l>
+                        <l n="204" xml:id="v204">Même désespéré… j’espérerais encore…</l>
+                        <l n="205" xml:id="v205">Puisque j’aurais au cœur un divin cordial,</l>
+                        <l n="206" xml:id="v206">Réchauffant ma misère au feu de l’idéal !</l>
                         <stage>(Un temps. Retombant de ce rêve.)</stage>
                         <l n="207" xml:id="v207-1" part="I">Mais à présent !…</l>
                         <stage>(Il demeure pensif et va vers le bahut où il jeta ses cahiers au début.)</stage>
@@ -893,8 +893,8 @@
                     <sp xml:id="r136" who="cyrano">
                         <speaker>Cyrano<stage>, à part.</stage></speaker>
                         <l n="207" xml:id="v207-2" part="F">Et rien toujours sur sa maîtresse !</l>
-                        <l n="208" xml:id="v208">C'est de quitter son art qu'il a l'âme en détresse !…</l>
-                        <l n="209" xml:id="v209-1" part="I">Il faut qu'il reste !</l>
+                        <l n="208" xml:id="v208">C’est de quitter son art qu’il a l’âme en détresse !…</l>
+                        <l n="209" xml:id="v209-1" part="I">Il faut qu’il reste !</l>
                         <stage>(Il voit Poquelin fouiller dans le bahut. Haut.)</stage>
                         <l n="209" xml:id="v209-2" part="F">Mais… que vas-tu chercher là ?</l>
                     </sp>
@@ -915,7 +915,7 @@
                     </sp>
                     <sp xml:id="r140" who="cyrano">
                         <speaker>Cyrano<stage>, railleur.</stage></speaker>
-                        <l n="212" xml:id="v212">Soigneusement caché dans le fond d'une armoire ?…</l>
+                        <l n="212" xml:id="v212">Soigneusement caché dans le fond d’une armoire ?…</l>
                         <l n="213" xml:id="v213">Auteur alors ?… On peut voir quel est ton travail ?…</l>
                         <stage>(Il tend la main.)</stage>
                         <l n="214" xml:id="v214-1" part="I">Donne !</l>
@@ -944,7 +944,7 @@
                         <l n="217" xml:id="v217">Gorgibus dans le sac… Le Docteur amoureux…</l>
                         <pb n="28" xml:id="p28"/>
                         <l n="218" xml:id="v218">Le Fagoteux… bon… bon…Le Pédant !…</l>
-                        <stage>(S'arrêtant.)</stage>
+                        <stage>(S’arrêtant.)</stage>
                         <l n="218" xml:id="v218-3" part="F">Titre heureux…</l>
                         <stage>(Négligemment.)</stage>
                         <l n="219" xml:id="v219">Moi-même je le pris pour une comédie</l>
@@ -952,16 +952,16 @@
                     </sp>
                     <sp xml:id="r145" who="poquelin">
                         <speaker>Poquelin<stage>, souriant.</stage></speaker>
-                        <l n="221" xml:id="v221">Je m'en souviens fort bien… L'histoire de Grangier…</l>
-                        <l n="222" xml:id="v222">Un excellent morceau que j'osai copier…</l>
+                        <l n="221" xml:id="v221">Je m’en souviens fort bien… L’histoire de Grangier…</l>
+                        <l n="222" xml:id="v222">Un excellent morceau que j’osai copier…</l>
                         <stage>(Il lui montre un feuillet.)</stage>
                         <l n="223" xml:id="v223-1" part="I">Là !</l>
                     </sp>
                     <sp xml:id="r146" who="cyrano">
                         <speaker>Cyrano<stage>, regardant.</stage></speaker>
-                        <l n="223" xml:id="v223-2" part="M">C'est vrai !</l>
+                        <l n="223" xml:id="v223-2" part="M">C’est vrai !</l>
                         <stage>(Lisant.)</stage>
-                        <l n="223" xml:id="v223-3" part="F">« Qu'allait-il faire en cette galère ?… »</l>
+                        <l n="223" xml:id="v223-3" part="F">« Qu’allait-il faire en cette galère ?… »</l>
                         <stage>(Le menaçant par plaisanterie.)</stage>
                         <l n="224" xml:id="v224">Voyez-vous cet auteur qui pille son confrère !</l>
                     </sp>
@@ -971,7 +971,7 @@
                     </sp>
                     <sp xml:id="r148" who="cyrano">
                         <speaker>Cyrano<stage>, vivement.</stage></speaker>
-                        <l n="225" xml:id="v225-2" part="F">Mais je ne t'en veux pas</l>
+                        <l n="225" xml:id="v225-2" part="F">Mais je ne t’en veux pas</l>
                         <l n="226" xml:id="v226">Pour avoir pris un grain de sel à mon repas !</l>
                     </sp>
                     <sp xml:id="r149" who="poquelin">
@@ -981,17 +981,17 @@
                         <l n="227" xml:id="v227-2" part="F">Ouvre au hasard ces notes… Prends la peine</l>
                         <l n="228" xml:id="v228">De voir tous ces fragments découpés à main pleine</l>
                         <pb n="29" xml:id="p29"/>
-                        <l n="229" xml:id="v229">Et chez ceux de ce temps, et dans l'antiquité,</l>
-                        <l n="230" xml:id="v230">Et parmi les Français, et chez ceux d'à côté,</l>
-                        <l n="231" xml:id="v231-1" part="I">L'Italie ou l'Espagne…</l>
+                        <l n="229" xml:id="v229">Et chez ceux de ce temps, et dans l’antiquité,</l>
+                        <l n="230" xml:id="v230">Et parmi les Français, et chez ceux d’à côté,</l>
+                        <l n="231" xml:id="v231-1" part="I">L’Italie ou l’Espagne…</l>
                         <stage>(Feuilletant lui-même.)</stage>
-                        <l n="231" xml:id="v231-2" part="F">Ici… c'est du Térence ;</l>
+                        <l n="231" xml:id="v231-2" part="F">Ici… c’est du Térence ;</l>
                         <l n="232" xml:id="v232">Là… du Plaute… Un trait, là, des bouffons de Florence…</l>
-                        <l n="233" xml:id="v233">Plus loin, c'est un extrait des anciens fabliaux…</l>
-                        <l n="234" xml:id="v234">À l'autre page, un mot cueilli sur nos tréteaux…</l>
+                        <l n="233" xml:id="v233">Plus loin, c’est un extrait des anciens fabliaux…</l>
+                        <l n="234" xml:id="v234">À l’autre page, un mot cueilli sur nos tréteaux…</l>
                         <l n="235" xml:id="v235">Les ai-je assez pillés tous en cours de lecture ?</l>
-                        <l n="236" xml:id="v236">Et je n'ai cependant nul remords — je t'assure—</l>
-                        <l n="237" xml:id="v237">D'avoir pillé partout où se trouve mon bien !</l>
+                        <l n="236" xml:id="v236">Et je n’ai cependant nul remords — je t’assure—</l>
+                        <l n="237" xml:id="v237">D’avoir pillé partout où se trouve mon bien !</l>
                     </sp>
                     <sp xml:id="r150" who="cyrano">
                         <speaker>Cyrano<stage>, souriant.</stage></speaker>
@@ -1000,7 +1000,7 @@
                     <sp xml:id="r151" who="poquelin">
                         <speaker>Poquelin<stage>, grave.</stage></speaker>
                         <l n="238" xml:id="v238-2" part="F">Pourvu que je le fasse mien !</l>
-                        <l n="239" xml:id="v239">Pourvu que tout ce vieux, au contact d'une autre âme,</l>
+                        <l n="239" xml:id="v239">Pourvu que tout ce vieux, au contact d’une autre âme,</l>
                         <l n="240" xml:id="v240">Rajeunisse aussitôt et jette une autre flamme !</l>
                         <l n="241" xml:id="v241">Pourvu que mes larcins à leur tour fassent loi !</l>
                         <l n="242" xml:id="v242">Pourvu que sous le masque emprunté je sois Moi !…</l>
@@ -1009,20 +1009,20 @@
                         <speaker>Cyrano</speaker>
                         <l n="243" xml:id="v243">Mais être original est chose difficile…</l>
                         <l n="244" xml:id="v244">Tout est fait ici-bas… Il faut être docile</l>
-                        <l n="245" xml:id="v245">Et suivre jusqu'au bout les sentiers tout tracés !</l>
-                        <l n="246" xml:id="v246">Ou… faire comme moi… qui lorsque j'eus assez</l>
+                        <l n="245" xml:id="v245">Et suivre jusqu’au bout les sentiers tout tracés !</l>
+                        <l n="246" xml:id="v246">Ou… faire comme moi… qui lorsque j’eus assez</l>
                         <l n="247" xml:id="v247">De ce monde vieilli, voulus chercher fortune</l>
                         <l n="248" xml:id="v248">Au soleil et trouver du talent… dans la lune !</l>
                     </sp>
                     <sp xml:id="r153" who="poquelin">
                         <speaker>Poquelin</speaker>
-                        <l n="249" xml:id="v249">À mon sens, Cyrano, personne n'a besoin</l>
+                        <l n="249" xml:id="v249">À mon sens, Cyrano, personne n’a besoin</l>
                         <pb n="30" xml:id="p30"/>
                         <l n="250" xml:id="v250">De chercher du talent ni si haut, ni si loin…</l>
-                        <l n="251" xml:id="v251">Et l'on n'a qu'à jeter les yeux sur cette terre</l>
-                        <l n="252" xml:id="v252">Pour trouver des sujets à n'en savoir que faire…</l>
-                        <l n="253" xml:id="v253">La vie est un grand livre où l'on n'a qu'à puiser,</l>
-                        <l n="254" xml:id="v254">Et l'on peut tout y voir pour, ensuite, en user !</l>
+                        <l n="251" xml:id="v251">Et l’on n’a qu’à jeter les yeux sur cette terre</l>
+                        <l n="252" xml:id="v252">Pour trouver des sujets à n’en savoir que faire…</l>
+                        <l n="253" xml:id="v253">La vie est un grand livre où l’on n’a qu’à puiser,</l>
+                        <l n="254" xml:id="v254">Et l’on peut tout y voir pour, ensuite, en user !</l>
                     </sp>
                     <sp xml:id="r154" who="cyrano">
                         <speaker>Cyrano</speaker>
@@ -1030,102 +1030,102 @@
                     </sp>
                     <sp xml:id="r155" who="poquelin">
                         <speaker>Poquelin</speaker>
-                        <l n="255" xml:id="v255-2" part="F">Le tout est qu'on observe</l>
-                        <l n="256" xml:id="v256">Ce peu qu'on voit… Et puis qu'on le mette en réserve…</l>
+                        <l n="255" xml:id="v255-2" part="F">Le tout est qu’on observe</l>
+                        <l n="256" xml:id="v256">Ce peu qu’on voit… Et puis qu’on le mette en réserve…</l>
                         <l n="257" xml:id="v257">Ces riens accumulés feront un corps plus tard,</l>
                         <l n="258" xml:id="v258-1" part="I">Un corps vivant !</l>
                     </sp>
                     <sp xml:id="r156" who="cyrano">
                         <speaker>Cyrano<stage>, avec doute.</stage></speaker>
-                        <l n="258" xml:id="v258-2" part="F">Vivant ?… Par la force de l'art !…</l>
+                        <l n="258" xml:id="v258-2" part="F">Vivant ?… Par la force de l’art !…</l>
                     </sp>
                     <sp xml:id="r157" who="poquelin">
                         <speaker>Poquelin<stage>, fermement.</stage></speaker>
-                        <l n="259" xml:id="v259">Vivant… parce qu'il fut fait avec de la vie !…</l>
-                        <l n="260" xml:id="v260">Tout ce que j'aperçois autour de moi, l'envie</l>
+                        <l n="259" xml:id="v259">Vivant… parce qu’il fut fait avec de la vie !…</l>
+                        <l n="260" xml:id="v260">Tout ce que j’aperçois autour de moi, l’envie</l>
                         <l n="261" xml:id="v261">Me prend de le graver dans ma tête aussitôt,</l>
-                        <l n="262" xml:id="v262">Comme un voleur cachant de l'or sous son manteau…</l>
+                        <l n="262" xml:id="v262">Comme un voleur cachant de l’or sous son manteau…</l>
                         <l n="263" xml:id="v263">Le vice… la vertu… le désespoir… la joie…</l>
-                        <l n="264" xml:id="v264">Il faut tout dérober aux passants qu'on coudoie…</l>
-                        <l n="265" xml:id="v265">Coquettes médisant tout bas sous l'éventail,</l>
-                        <l n="266" xml:id="v266">Ceux dont l'amour trop franc est un épouvantail,</l>
-                        <l n="267" xml:id="v267">Avare aimant son or jusqu'à la frénésie,</l>
+                        <l n="264" xml:id="v264">Il faut tout dérober aux passants qu’on coudoie…</l>
+                        <l n="265" xml:id="v265">Coquettes médisant tout bas sous l’éventail,</l>
+                        <l n="266" xml:id="v266">Ceux dont l’amour trop franc est un épouvantail,</l>
+                        <l n="267" xml:id="v267">Avare aimant son or jusqu’à la frénésie,</l>
                         <l n="268" xml:id="v268">Faux dévots tout confits dans leur hypocrisie,</l>
                         <l n="269" xml:id="v269">Tous enfin que toi… moi… tout le monde peut voir</l>
-                        <l n="270" xml:id="v270">Et qu'il faut avoir vus… et bien vus… pour savoir</l>
+                        <l n="270" xml:id="v270">Et qu’il faut avoir vus… et bien vus… pour savoir</l>
                         <pb n="31" xml:id="p31"/>
                         <l n="271" xml:id="v271">De quel train va le monde et que ce qui le mène,</l>
-                        <l n="272" xml:id="v272">Demain comme aujourd'hui, c'est la bassesse humaine.</l>
-                        <l n="273" xml:id="v273">Et penses-tu qu'ensuite, en fixant tous ces traits,</l>
+                        <l n="272" xml:id="v272">Demain comme aujourd’hui, c’est la bassesse humaine.</l>
+                        <l n="273" xml:id="v273">Et penses-tu qu’ensuite, en fixant tous ces traits,</l>
                         <l n="274" xml:id="v274">Sans faire le pédant, sans rendre des arrêts</l>
-                        <l n="275" xml:id="v275">Rien qu'en montrant à l'homme au théâtre crédule !</l>
-                        <l n="276" xml:id="v276">Ce qu'il est dans la vie : ou vil, ou ridicule,</l>
-                        <l n="277" xml:id="v277">On n'aura pas fait mieux que d'être original,</l>
-                        <l n="278" xml:id="v278">Puisqu'on a fait du bien, en montrant tout le mal !</l>
+                        <l n="275" xml:id="v275">Rien qu’en montrant à l’homme au théâtre crédule !</l>
+                        <l n="276" xml:id="v276">Ce qu’il est dans la vie : ou vil, ou ridicule,</l>
+                        <l n="277" xml:id="v277">On n’aura pas fait mieux que d’être original,</l>
+                        <l n="278" xml:id="v278">Puisqu’on a fait du bien, en montrant tout le mal !</l>
                         <stage>(Un temps, puis triste et souriant.)</stage>
-                        <l n="279" xml:id="v279">Ah ! Cyrano… tu ris sans doute — et c'est justice !</l>
-                        <l n="280" xml:id="v280">D'entendre ces grands mots à propos d'une esquisse</l>
+                        <l n="279" xml:id="v279">Ah ! Cyrano… tu ris sans doute — et c’est justice !</l>
+                        <l n="280" xml:id="v280">D’entendre ces grands mots à propos d’une esquisse</l>
                         <l n="281" xml:id="v281">Ou deux sans importance… un ou deux canevas</l>
                         <l n="282" xml:id="v282">De farces… Gorgibus !… Le Fagoteux !…Tu vas</l>
-                        <l n="283" xml:id="v283">Me prendre pour un sot qui n'a rien fait, en somme,</l>
-                        <l n="284" xml:id="v284">Et vous a des façons d'oracle et de grand homme…</l>
+                        <l n="283" xml:id="v283">Me prendre pour un sot qui n’a rien fait, en somme,</l>
+                        <l n="284" xml:id="v284">Et vous a des façons d’oracle et de grand homme…</l>
                         <l n="285" xml:id="v285-1" part="I">Tu te dis…</l>
                     </sp>
                     <sp xml:id="r158" who="cyrano">
-                        <speaker>Cyrano<stage>, grave, l'interrompant.</stage></speaker>
-                        <l n="285" xml:id="v285-2" part="F">Je me dis qu'escompter l'avenir</l>
+                        <speaker>Cyrano<stage>, grave, l’interrompant.</stage></speaker>
+                        <l n="285" xml:id="v285-2" part="F">Je me dis qu’escompter l’avenir</l>
                         <l n="286" xml:id="v286">Est un soin inutile — un monde peut finir</l>
                         <l n="287" xml:id="v287">Pour un atome errant en dehors de sa route ! —</l>
-                        <l n="288" xml:id="v288">Mais que si l'on devait triompher de ce doute,</l>
-                        <l n="289" xml:id="v289">Si l'on pouvait prédire à quelqu'un qu'il serait</l>
-                        <l n="290" xml:id="v290">Grand quelque jour, d'après ce qu'il nous apparaît</l>
-                        <l n="291" xml:id="v291">Tout d'abord, et d'après les pensées qu'il révèle,</l>
-                        <l n="292" xml:id="v292">Et sur les mots qu'il dit, et sur l'âme nouvelle</l>
-                        <l n="293" xml:id="v293">Qu'on sent éclore en lui… ce serait certes à toi</l>
-                        <l n="294" xml:id="v294">Qu'il faudrait — oubliant que le hasard fait loi —</l>
+                        <l n="288" xml:id="v288">Mais que si l’on devait triompher de ce doute,</l>
+                        <l n="289" xml:id="v289">Si l’on pouvait prédire à quelqu’un qu’il serait</l>
+                        <l n="290" xml:id="v290">Grand quelque jour, d’après ce qu’il nous apparaît</l>
+                        <l n="291" xml:id="v291">Tout d’abord, et d’après les pensées qu’il révèle,</l>
+                        <l n="292" xml:id="v292">Et sur les mots qu’il dit, et sur l’âme nouvelle</l>
+                        <l n="293" xml:id="v293">Qu’on sent éclore en lui… ce serait certes à toi</l>
+                        <l n="294" xml:id="v294">Qu’il faudrait — oubliant que le hasard fait loi —</l>
                         <l n="295" xml:id="v295">Dire : « Je suis certain de ta gloire future.</l>
                         <l n="296" xml:id="v296">Tu seras grand. Ton nom est de ceux que murmure</l>
                         <pb n="32" xml:id="p32"/>
                         <l n="297" xml:id="v297">Confusément déjà la voix des grands destins.</l>
-                        <l n="298" xml:id="v298">Et que l'humanité, les soirs et les matins,</l>
+                        <l n="298" xml:id="v298">Et que l’humanité, les soirs et les matins,</l>
                         <l n="299" xml:id="v299-1" part="I">Répétera !… »</l>
                         <stage>(Lentement.)</stage>
                         <l n="299" xml:id="v299-2" part="F">Voilà quelle était ma pensée !</l>
                         <stage>(Un petit temps.)</stage>
                         <l n="300" xml:id="v300">Et je pensais aussi que ton âme, blessée</l>
-                        <l n="301" xml:id="v301">Par un chagrin d'amour, aura sa guérison</l>
+                        <l n="301" xml:id="v301">Par un chagrin d’amour, aura sa guérison</l>
                         <l n="302" xml:id="v302">Sans que tu sois forcé de quitter la maison</l>
-                        <l n="303" xml:id="v303">Où je sens que la voix de l'avenir t'appelle…</l>
+                        <l n="303" xml:id="v303">Où je sens que la voix de l’avenir t’appelle…</l>
                     </sp>
                     <sp xml:id="r159" who="poquelin">
                         <speaker>Poquelin<stage>, vivement.</stage></speaker>
-                        <l n="304" xml:id="v304">Non, la déception m'y fut par trop cruelle</l>
-                        <l n="305" xml:id="v305">D'aimer sans être aimé… Je veux sans plus tarder</l>
-                        <l n="306" xml:id="v306">Partir à tout jamais… J'ai soif de m'évader</l>
+                        <l n="304" xml:id="v304">Non, la déception m’y fut par trop cruelle</l>
+                        <l n="305" xml:id="v305">D’aimer sans être aimé… Je veux sans plus tarder</l>
+                        <l n="306" xml:id="v306">Partir à tout jamais… J’ai soif de m’évader</l>
                         <l n="307" xml:id="v307-1" part="I">De cet amour…</l>
                     </sp>
                     <sp xml:id="r160" who="cyrano">
                         <speaker>Cyrano</speaker>
-                        <l n="307" xml:id="v307-2" part="F">Tu n'as donc que ce rêve au monde ?</l>
+                        <l n="307" xml:id="v307-2" part="F">Tu n’as donc que ce rêve au monde ?</l>
                     </sp>
                     <sp xml:id="r161" who="poquelin">
                         <speaker>Poquelin</speaker>
-                        <l n="308" xml:id="v308">Oui !… J'ai pu désirer la gloire sans seconde</l>
-                        <l n="309" xml:id="v309">Que tu me promettais tout à l'heure !… Souvent,</l>
+                        <l n="308" xml:id="v308">Oui !… J’ai pu désirer la gloire sans seconde</l>
+                        <l n="309" xml:id="v309">Que tu me promettais tout à l’heure !… Souvent,</l>
                         <l n="310" xml:id="v310">Le soir, quand tout dormait, ce songe décevant</l>
-                        <l n="311" xml:id="v311">M'a pu hanter — si doux quand on sort de l'enfance</l>
-                        <l n="312" xml:id="v312">Et que l'on est tout plein de noble confiance —</l>
+                        <l n="311" xml:id="v311">M’a pu hanter — si doux quand on sort de l’enfance</l>
+                        <l n="312" xml:id="v312">Et que l’on est tout plein de noble confiance —</l>
                         <l n="313" xml:id="v313">De devenir un jour… qui sait ?… un grand acteur,</l>
                         <l n="314" xml:id="v314">Et qui sait même ?… plus… beaucoup plus… un auteur !</l>
-                        <l n="315" xml:id="v315">C'était trop beau… Soyons, comme Poquelin père,</l>
-                        <l n="316" xml:id="v316">Tapissier… mais moins bon… C'est fini de Molière !…</l>
+                        <l n="315" xml:id="v315">C’était trop beau… Soyons, comme Poquelin père,</l>
+                        <l n="316" xml:id="v316">Tapissier… mais moins bon… C’est fini de Molière !…</l>
                         <l n="317" xml:id="v317-1" part="I">Pauvre et cher nom choisi !…</l>
                     </sp>
                     <pb n="33" xml:id="p33"/>
                     <sp xml:id="r162" who="cyrano">
                         <speaker>Cyrano</speaker>
                         <l n="317" xml:id="v317-2" part="F">Molière !… un nom parfait !</l>
-                        <l n="318" xml:id="v318-1" part="I">Et qu'il te faut garder !…</l>
+                        <l n="318" xml:id="v318-1" part="I">Et qu’il te faut garder !…</l>
                     </sp>
                     <sp xml:id="r163" who="poquelin">
                         <speaker>Poquelin</speaker>
@@ -1137,7 +1137,7 @@
                         <speaker>Cyrano<stage>, cherchant un moyen de le retenir.</stage></speaker>
                         <l n="319" xml:id="v319-2" part="M">Partir !… Partir !…</l>
                         <stage>(Trouvant.)</stage>
-                        <l n="319" xml:id="v319-3" part="F">Mais tout d'abord, j'y pense,</l>
+                        <l n="319" xml:id="v319-3" part="F">Mais tout d’abord, j’y pense,</l>
                         <l n="320" xml:id="v320">As-tu le droit de fuir avec insouciance ?…</l>
                         <l n="321" xml:id="v321">Je croirais mal agir en quittant… sans émoi…</l>
                         <l n="322" xml:id="v322">Ces gens, ces braves gens, qui, tous, comptent surmoi.</l>
@@ -1149,13 +1149,13 @@
                     <sp xml:id="r166" who="cyrano">
                         <speaker>Cyrano</speaker>
                         <l n="323" xml:id="v323-2" part="F">Oui… Qui leur fit la promesse</l>
-                        <l n="324" xml:id="v324">D'être pour eux, dans la fortune ou la détresse,</l>
-                        <l n="325" xml:id="v325">Le chef qui les défend, l'ami qui les soutient,</l>
+                        <l n="324" xml:id="v324">D’être pour eux, dans la fortune ou la détresse,</l>
+                        <l n="325" xml:id="v325">Le chef qui les défend, l’ami qui les soutient,</l>
                         <l n="326" xml:id="v326">Celui qui ne fuit pas quand le malheur survient ?</l>
                     </sp>
                     <sp xml:id="r167" who="poquelin">
                         <speaker>Poquelin<stage>, à voix basse.</stage></speaker>
-                        <l n="327" xml:id="v327-1" part="I">C'est moi !</l>
+                        <l n="327" xml:id="v327-1" part="I">C’est moi !</l>
                     </sp>
                     <sp xml:id="r168" who="cyrano">
                         <speaker>Cyrano</speaker>
@@ -1167,17 +1167,17 @@
                         <l n="327" xml:id="v327-3" part="F">Oui… oui… Ce serait être lâche</l>
                         <l n="328" xml:id="v328">Que les laisser avec tout le poids de la tâche…</l>
                         <stage>(Se reprenant.)</stage>
-                        <l n="329" xml:id="v329-1" part="I">Mais cet amour pourtant m'est odieux…</l>
+                        <l n="329" xml:id="v329-1" part="I">Mais cet amour pourtant m’est odieux…</l>
                     </sp>
                     <sp xml:id="r170" who="cyrano">
                         <speaker>Cyrano</speaker>
                         <l n="329" xml:id="v329-2" part="F">Ingrat !</l>
-                        <l n="330" xml:id="v330">Ton amour ? Mais c'est lui, oui… lui, qui te vaudra</l>
-                        <l n="331" xml:id="v331">Peut-être d'être grand… et cette Madeleine</l>
-                        <l n="332" xml:id="v332">Que tu maudis… c'est le parfum de son haleine</l>
-                        <l n="333" xml:id="v333">Et l'or de ses cheveux et l'éclat de son teint</l>
+                        <l n="330" xml:id="v330">Ton amour ? Mais c’est lui, oui… lui, qui te vaudra</l>
+                        <l n="331" xml:id="v331">Peut-être d’être grand… et cette Madeleine</l>
+                        <l n="332" xml:id="v332">Que tu maudis… c’est le parfum de son haleine</l>
+                        <l n="333" xml:id="v333">Et l’or de ses cheveux et l’éclat de son teint</l>
                         <l n="334" xml:id="v334">Qui te vaudra peut-être un illustre destin,</l>
-                        <l n="335" xml:id="v335">Puisqu'elle t'a cueilli, suivant ta route obscure,</l>
+                        <l n="335" xml:id="v335">Puisqu’elle t’a cueilli, suivant ta route obscure,</l>
                         <l n="336" xml:id="v336">Pour te jeter aux bras de la gloire future,</l>
                         <l n="337" xml:id="v337">Et fut le bon hasard, la sainte occasion</l>
                         <l n="338" xml:id="v338">Qui te conquit, ingrat, à ta vocation !</l>
@@ -1188,21 +1188,21 @@
                     </sp>
                     <sp xml:id="r172" who="cyrano">
                         <speaker>Cyrano</speaker>
-                        <l n="340" xml:id="v340">La souffrance est parfois un levain d'espérance…</l>
+                        <l n="340" xml:id="v340">La souffrance est parfois un levain d’espérance…</l>
                         <l n="341" xml:id="v341">Et quand on veut, ainsi que toi, peindre les maux</l>
                         <l n="342" xml:id="v342">Qui, des rois de la terre aux serfs de nos hameaux,</l>
-                        <l n="343" xml:id="v343">Sont de l'humanité l'éternel apanage,</l>
-                        <l n="344" xml:id="v344">Il n'est pas suffisant de les voir sur la page</l>
-                        <l n="345" xml:id="v345">D'un livre… et d'avoir vu de la souffrance en l'air…</l>
-                        <l n="346" xml:id="v346">Il est bon qu'on les ait ressentis dans sa chair</l>
-                        <l n="347" xml:id="v347">Et que, le cœur meurtri, l'on puisse dire aux autres :</l>
-                        <l n="348" xml:id="v348">« Ces maux étaient les miens avant d'être les vôtres ! »</l>
+                        <l n="343" xml:id="v343">Sont de l’humanité l’éternel apanage,</l>
+                        <l n="344" xml:id="v344">Il n’est pas suffisant de les voir sur la page</l>
+                        <l n="345" xml:id="v345">D’un livre… et d’avoir vu de la souffrance en l’air…</l>
+                        <l n="346" xml:id="v346">Il est bon qu’on les ait ressentis dans sa chair</l>
+                        <l n="347" xml:id="v347">Et que, le cœur meurtri, l’on puisse dire aux autres :</l>
+                        <l n="348" xml:id="v348">« Ces maux étaient les miens avant d’être les vôtres ! »</l>
                     </sp>
                     <pb n="35" xml:id="p35"/>
                     <sp xml:id="r173" who="poquelin">
                         <speaker>Poquelin</speaker>
-                        <l n="349" xml:id="v349">Tu dis vrai… Cet amour… ou bien j'en guérirai,</l>
-                        <l n="350" xml:id="v350">Ou, si j'en dois souffrir… eh bien… je souffrirai.</l>
+                        <l n="349" xml:id="v349">Tu dis vrai… Cet amour… ou bien j’en guérirai,</l>
+                        <l n="350" xml:id="v350">Ou, si j’en dois souffrir… eh bien… je souffrirai.</l>
                         <l n="351" xml:id="v351-1" part="I">Mais je demeure, ami…</l>
                         <stage>(Il lui tend la main.)</stage>
                     </sp>
@@ -1213,15 +1213,15 @@
                     <sp xml:id="r174" who="madeleine">
                         <speaker>Madeleine<stage>, rentre sans bruit, à part.</stage></speaker>
                         <l n="351" xml:id="v351-2" part="F">Bons amis ! quelle aubaine !</l>
-                        <l n="352" xml:id="v352-1" part="I">Moi qui pensais les voir s'égorger…</l>
-                        <stage>(Elle avance et les deux hommes l'aperçoivent.)</stage>
+                        <l n="352" xml:id="v352-1" part="I">Moi qui pensais les voir s’égorger…</l>
+                        <stage>(Elle avance et les deux hommes l’aperçoivent.)</stage>
                     </sp>
                     <sp xml:id="r175" who="poquelin">
                         <speaker>Poquelin</speaker>
                         <l n="352" xml:id="v352-2" part="F">Madeleine,</l>
                         <l n="353" xml:id="v353-1" part="I">Ton galant…</l>
                         <stage>(Insistant.)</stage>
-                        <l n="353" xml:id="v353-2" part="F">Inventé… m'a presque converti.</l>
+                        <l n="353" xml:id="v353-2" part="F">Inventé… m’a presque converti.</l>
                     </sp>
                     <sp xml:id="r176" who="madeleine">
                         <speaker>Madeleine<stage>, joyeuse.</stage></speaker>
@@ -1241,7 +1241,7 @@
                         <speaker>Poquelin<stage>, à Cyrano.</stage></speaker>
                         <l n="356" xml:id="v356">Cela finit ainsi que les turlupinades :</l>
                         <stage>(Se désignant.)</stage>
-                        <l n="357" xml:id="v357-1" part="I">L'amoureux…</l>
+                        <l n="357" xml:id="v357-1" part="I">L’amoureux…</l>
                         <stage>(Cherchant son mot.)</stage>
                         <l n="357" xml:id="v357-2" part="F">Malheureux, battu, même content !…</l>
                     </sp>
