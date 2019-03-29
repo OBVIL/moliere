@@ -24,7 +24,7 @@
                         <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures. La diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
                     </licence>
                 </availability>
-                <idno>http://obvil.paris-sorbonne.fr/corpus/moliere/personnage/jubin_moliere-cyrano_1899</idno>
+                <idno>http://obvil.sorbonne-universite.fr/corpus/moliere/personnage/jubin_moliere-cyrano_1899</idno>
             </publicationStmt>
             <sourceDesc>
                 <bibl><author>Jubin Georges</author>, <title>Molière et Cyrano</title>, <pubPlace>Paris</pubPlace>, <publisher>H. Simonis Empis</publisher>, <date>1899</date>. Source : <ref target="https://books.google.fr/books?id=Uc4nAAAAYAAJ">Google Books</ref>.</bibl>
