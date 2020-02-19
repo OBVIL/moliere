@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml">
-<?xml-model href="../anecdotes/anecdotes.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../anecdotes/anecdotes.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<!--odt2tei: 2015-03-17T11:09:17+01:00-->
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Molière et les deux Thalies, dialogue en vers</title>
-        <author key="Leroy, Aimé (....-....)">Aimé Leroy</author>
+      	<author key="Leroy, Aimé (1793-1848)" ref="https://data.bnf.fr/fr/10220231/aime_leroy/">Aimé Leroy</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
@@ -70,7 +69,7 @@
         <l>Aurait-elle du temps éprouvé les outrages ?</l>
         <l>Son humeur, son esprit serait-il donc changé ?</l>
         <l>Tant pis ; car à ce prix je serais trop vengé !</l>
-        <l><pb n="p. 4"/> Mais que ne puis-je, au gré de mon impatience,</l>
+        <l><pb n="4" xml:id="p4"/>Mais que ne puis-je, au gré de mon impatience,</l>
         <l>La voir sans différer ! Un dieu, par sa puissance,</l>
         <l>Sans doute, en ce moment, vient exaucer mes vœux.</l>
         <l>Le temple de Thalie apparaît à mes yeux ;</l>
@@ -102,7 +101,7 @@
         <l>Mais on ne rit donc plus ?</l>
         <label><hi rend="sc">La Vieille Thalie</hi>.</label>
         <l>Fi ! vous dis-je, Molière ;</l>
-        <l><pb n="p. 5"/> Fi ! je déteste trop la trivialité ;</l>
+        <l><pb n="5" xml:id="p5"/>Fi ! je déteste trop la trivialité ;</l>
         <l>Je souris quelquefois, mais avec dignité.</l>
         <label><hi rend="sc">Molière</hi>.</label>
         <l>Oh ! Oh ! Quel changement ! Dites-moi, je vous prie,</l>
@@ -130,7 +129,7 @@
         <l>On me l’avait bien dit, je ne le croyais pas,</l>
         <l>Qu’on aurait pu changer votre heureux caractère.</l>
         <l>À cet air précieux, à cette mine austère,</l>
-        <l><pb n="p. 6"/> Qui vous reconnaîtrait ? Vous prude ! Ah ! Quel malheur !</l>
+        <l><pb n="6" xml:id="p6"/>Qui vous reconnaîtrait ? Vous prude ! Ah ! Quel malheur !</l>
         <l>Vous n’aviez point jadis cette farouche humeur ;</l>
         <l>Et, soit dit entre nous…</l>
         <label><hi rend="sc">La Vieille Thalie</hi>.</label>
@@ -159,7 +158,7 @@
         <l>Car ce n’est pas ainsi que parle la nature.</l>
         <l>Si vous croyez encor m’avoir sous votre loi,</l>
         <l>Donnez-moi des rivaux qui soient dignes de moi</l>
-        <l><pb n="p. 7"/> Mais non ; pour vous prouver que mon cœur froid, paisible,</l>
+        <l><pb n="7" xml:id="p7"/>Mais non ; pour vous prouver que mon cœur froid, paisible,</l>
         <l>De sentiments jaloux ne vit plus susceptible,</l>
         <l>Après avoir exclu Dorat et Marivaux,</l>
         <l>Quittez ce fier dédain pour vos amants nouveaux ;</l>
@@ -188,7 +187,7 @@
         <l>N’en accusez que vous, si vos admirateurs</l>
         <l>Ont le goût dépravé ; vos goûts forment les leurs :</l>
         <l>Ils sont habitués aux manières charmantes</l>
-        <l><pb n="p. 8"/> De votre cher Dorat, à ses phrases brillantes.</l>
+        <l><pb n="8" xml:id="p8"/>De votre cher Dorat, à ses phrases brillantes.</l>
         <l>Si quelque bon esprit, gai, naturel et rond</l>
         <l>Ose vous faire rire, on crie au <hi rend="i">mauvais ton</hi> ;</l>
         <l>Et ses discours trop vrais excitent le scandale.</l>
@@ -217,7 +216,7 @@
         <l>Mais votre air triste et sombre, autrefois si riant…</l>
         <label><hi rend="sc">La Vieille Thalie</hi>.</label>
         <l>Voulez-vous m’empêcher de pleurer ?</l>
-        <l><pb n="p. 9"/> Nullement.</l>
+        <l><pb n="9" xml:id="p9"/>Nullement.</l>
         <l>Mais pourquoi pleurez-vous ?</l>
         <label><hi rend="sc">La Vieille Thalie</hi>.</label>
         <l>Monsieur, cela m’amuse.</l>
@@ -247,7 +246,7 @@
         <l>Eh ! quoi, lorsqu’elle en fait autant ;</l>
         <l>Qu’elle usurpe mes droits…</l>
         <label><hi rend="sc">Molière</hi>.</label>
-        <l><pb n="p. 10"/> Comment ! Elle fait rire ?</l>
+        <l><pb n="10" xml:id="p10"/>Comment ! Elle fait rire ?</l>
         <label><hi rend="sc">La Vieille Thalie</hi>.</label>
         <l>Trop souvent.</l>
         <label><hi rend="sc">Molière</hi>.</label>
@@ -275,7 +274,7 @@
         <l>Et mes anciens amis et mes amis nouveaux</l>
         <l>Serez reçus chez moi sans nulle différence.</l>
         <label><hi rend="sc">Molière</hi>.</label>
-        <l><pb n="p. 11"/> Je vous suis obligé de tant de déférence.</l>
+        <l><pb n="11" xml:id="p11"/>Je vous suis obligé de tant de déférence.</l>
         <label><hi rend="sc">La Vieille Thalie</hi>.</label>
         <l>Quand avec vous pourtant je reprends ma gaîté,</l>
         <l>Que ce soit entre nous, en petit comité.</l>
@@ -305,7 +304,7 @@
         <l>J’aime mieux l’enterrer que vous donner mon bien.</l>
         <label><hi rend="sc">Molière</hi>.</label>
         <l>L’enterrer ! Ah pardon ! Souffrez que je réplique ;</l>
-        <l><pb n="p. 12"/> Je ne vous ai point fait ma légataire unique.</l>
+        <l><pb n="12" xml:id="p12"/>Je ne vous ai point fait ma légataire unique.</l>
         <l>II faut que chacun vive ; et puisque Marivaux,</l>
         <l>Monsieur Lanoue, enfin, mes illustres rivaux,</l>
         <l>Vous nourrissent si bien de leurs vers, de leur prose,</l>
@@ -332,7 +331,7 @@
         <l>Eh bien ! Passez les ponts.</l>
         <l>Je demeure un peu loin ; mais, je vous en réponds,</l>
         <l>Vous rirez, et dès-lors ma cure est achevée.</l>
-        <l><pb n="p. 13"/> Depuis assez longtemps de drames abreuvée,</l>
+        <l><pb n="13" xml:id="p13"/>Depuis assez longtemps de drames abreuvée,</l>
         <l>Je vivais de mes pleurs ; rien n’est moins étonnant,</l>
         <l>J’avais perdu mon père ; il revient maintenant,</l>
         <l>Et bientôt avec lui ma gaîté naturelle.</l>

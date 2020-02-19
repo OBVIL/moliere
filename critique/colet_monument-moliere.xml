@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml">
-<?xml-model href="../anecdotes/anecdotes.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../anecdotes/anecdotes.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <!--odt2tei: 2015-03-17T11:09:17+01:00-->
@@ -9,7 +9,7 @@
     <fileDesc>
       <titleStmt>
         <title>Le monument de Molière précédé de l’Histoire du monument élevé à Molière par M. Aimé Martin</title>
-        <author key="Colet, Louise (1810-1876)">Louise Colet</author>
+        <author key="Colet, Louise (1810-1876)" ref="">Louise Colet</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
@@ -592,7 +592,7 @@
             <p>Le <hi rend="i">Journal des Débats</hi>, dans son numéro du 14 février, annonce la prochaine construction d’une fontaine à l’angle des rues Traversière et Richelieu. Permettez-moi, M. le Préfet, de saisir cette occasion pour rappeler à votre souvenir que c’est précisément en face de la fontaine projetée, dans la. maison du passage Hulot, rue Richelieu, que Molière a rendu le dernier soupir ; et veuillez excuser la liberté que je prends de vous faire remarquer que, si l’on considère cette circonstance et la proximité du Théâtre-Français, il serait impossible de trouver aucun emplacement où il fût plus convenable d’élever à ce grand homme un monument que Paris, sa ville natale, s’étonne encore de ne pas posséder.</p>
             <p>Ne serait-il pas possible de combiner le projet dont l’exécution est confiée au talent de M. Visconti avec celui que j’ai l’honneur de vous soumettre ? Quand vos fonctions vous le permettent, M. le Préfet, vous venez assister à nos représentations, vous applaudisses aux chefs d’œuvre de notre scène ; le vœu que j’exprime doit être compris par vous, et j’espère que vous l’estimerez digne de votre attention.</p>
             <p>Les modifications que l’on serait obligé de faire subir au projet arrêté entraîneraient indubitablement de nouvelles dépenses ; mais cette difficulté serait, je le crois, facilement écartée. N’est-ce pas à l’aide de dons volontaires que la ville de Rouen a élevé une statue de bronze à Corneille ? Assurément une souscription destinée à élever la statue de Molière n’aurait pas moins de succès dans Paris ; les corps littéraires et les théâtres s’empresseraient de s’inscrire collectivement ; les auteurs et les acteurs apporteraient leurs offrandes individuelles. Tous ceux qui aiment les arts et qui révèrent la mémoire de Molière accueilleraient cette souscription avec faveur et s’intéresseraient à ce qu’elle fût rapidement productive. Du moins c’est ma conviction, et je souhaite vivement que vous la partagiez.</p>
-            <p>D’autres que moi, Monsieur le Préfet, auraient sans doute plus de titres pour vous entretenir de ce projet, qui avait déjà préoccupé le célèbre Le Kain ; mais si la France entière s’enorgueillit du nom de Molière, il sera toujours plus particulièrement cher aux comédiens. Molière fut, tout à la fois, leur camarade et leur père, et je crois obéir a un sentiment respectueux et presque filial, en vous proposant de réunir au projet de l’admi<pb n="30" xml:id="p30"/>nistration celui d’un monument que nous serions si glorieux de voir enfin élever au grand génie qui, depuis près de deux siècles, attend cette justice !</p>
+            <p>D’autres que moi, Monsieur le Préfet, auraient sans doute plus de titres pour vous entretenir de ce projet, qui avait déjà préoccupé le célèbre Le Kain ; mais si la France entière s’enorgueillit du nom de Molière, il sera toujours plus particulièrement cher aux comédiens. Molière fut, tout à la fois, leur camarade et leur père, et je crois obéir a un sentiment respectueux et presque filial, en vous proposant de réunir au projet de l’admi <pb n="30" xml:id="p30"/>nistration celui d’un monument que nous serions si glorieux de voir enfin élever au grand génie qui, depuis près de deux siècles, attend cette justice !</p>
             <p>J’ai l’honneur d’être, Monsieur le Préfet, votre très humble et très obéissant serviteur,</p>
             <byline>REGNIER,<lb/>Sociétaire du Théâtre-Français. »</byline>
             <dateline>Paris, 14 mars.</dateline></div>

@@ -8,7 +8,7 @@
     <fileDesc>
       <titleStmt>
         <title>Molière et <hi rend="i">L’École des femmes</hi></title>
-        <author key="Becque, Henry (1837-1899)">Henry Becque</author>
+      	<author key="Becque, Henry (1837-1899)" ref="https://data.bnf.fr/fr/11890904/henry_becque/">Henry Becque</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>

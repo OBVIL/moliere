@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml">
-<?xml-model href="../anecdotes/anecdotes.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../anecdotes/anecdotes.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<!--odt2tei: 2015-03-17T11:09:17+01:00-->
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Essai sur la comédie, suivi d’analyses du Misanthrope et du Tartuffe</title>
-        <author key="Cassé de Saint-Prosper, Antoine-Jean (1790-1841)">Antoine-Jean Cassé de Saint-Prosper</author>
+      	<author key="Cassé de Saint-Prosper, Antoine-Jean (1790-1841)" ref="https://data.bnf.fr/fr/12449233/antoine-jean_casse_de_saint-prosper/">Antoine-Jean Cassé de Saint-Prosper</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>

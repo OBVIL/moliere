@@ -4,181 +4,289 @@
 <?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <TEI xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-<fileDesc>
-<titleStmt>
-    <title>Jean-Baptiste Pocquelin de Molière (<hi rend="i">Le Parnasse françois</hi>) [graphies originales]</title>
-<author key="Titon du Tillet, Evrard (1677-1762)">Evrard Titon du Tillet</author>
-</titleStmt>
-<editionStmt>
-<edition>OBVIL</edition>
-<respStmt>
-<name>Eric Thiébaud</name>
-<resp>Stylage sémantique</resp>
-</respStmt>
-<respStmt>
-<name>Wordpro</name>
-<resp>Numérisation et encodage TEI</resp>
-</respStmt>
-</editionStmt>
-<publicationStmt>
-<publisher>Sorbonne Université, LABEX OBVIL</publisher>
-<date when="2018" />
-<idno>http://obvil.sorbonne-universite.fr/corpus/moliere/critique/titon-du-tillet_moliere_orig/</idno>
-<availability status="restricted">
-<licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
-<p>Copyright © 2018 Sorbonne Université, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
-<p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
-<p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
-<p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
-<p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures, la diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
-</licence>
-</availability>
-</publicationStmt>
-<sourceDesc>
-    <bibl><author>Evrard Titon du Tillet</author>, <title><hi rend="i">« Jean-Baptiste Pocquelin de Molière », in </hi>Le Parnasse François, dedié au Roi</title>, <pubPlace>Paris</pubPlace>, <publisher>J.-B. Coignard fils</publisher>, <date>1732</date>, pp. <biblScope unit="page">308-320</biblScope>. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k1041669n/f428.image">Gallica</ref>.</bibl>
-</sourceDesc>
-</fileDesc>
-<profileDesc>
-<creation>
-<date when="1732" />
-</creation>
-<langUsage>
-<language ident="fre">fre</language>
-</langUsage>
-</profileDesc>
-</teiHeader>
-<text>
-<body>
-<div type="chapter" xml:id="jean-baptiste-pocquelin-de-moliere">
-<pb n="308" />
-    <head>CII.<lb />JEAN-BAPTISTE POCQUELIN<lb />DE MOLIERE,<lb /><hi rend="i">Le</hi> <hi rend="sc">Prince</hi> <hi rend="i">des Poëtes Comiques en France, &amp; celebre Acteur, né à Paris l’an</hi> 1620. <hi rend="i">mort le</hi> 17. <hi rend="i">Fevrier de l’année</hi> 1673.</head>
-<p>Il étoit fils &amp; petit-fils de Tapissiers Valets-de-Chambre du Roi Louis XIII. qui avoient leur boutique sous les Pilliers des Halles, dans une maison à eux appartenante en propre.</p>
-<p>Son pere ayant en vuë qu’il continuât son commerce, &amp; lui destinant sa Charge, dont il eut même la survivance dans un âge peu avancé, le laissa jusqu’à quatorze ans dans sa boutique, &amp; se contenta de lui faire apprendre à lire &amp; à écrire pour les besoins de sa profession.</p>
-<p>Le petit Pocquelin avoit un grand-pere qui l’aimoit éperdument ; &amp; comme ce bon homme avoit de l’inclination pour la Comédie, il y menoit souvent son petit-fils, à l’Hôtel de Bourgogne. Le pere qui apprehendoit que ce plaisir ne dissipât son fils, &amp; ne lui ôtât toute l’attention qu’il devoit à son métier, demanda un jour à ce bon homme, pourquoi il menoit si souvent son petit-fils au Spectacle ? Avez-vous, lui dit-il avec un peu d’indignation, envie d’en faire un Comédien ? Plût à Dieu, répondit le grand-pere, qu’il fût aussi bon Comédien que Bellerose (c’étoit un fameux Acteur de ce tems-là.) Cette réponse frappa le jeune homme, &amp; sans pourtant qu’il eût d’inclination déterminée, elle lui fit naître du dégoût pour sa profession de Tapissier, s’imaginant, puisque son grand-pere souhaitoit qu’il pût être Comédien, qu’il pouvoit aspirer à quelque chose de plus qu’au métier de son pere.</p>
-<p>Cette prévention s’imprima tellement dans son esprit, qu’il ne restoit dans la boutique qu’avec chagrin : de maniere que revenant un jour de la Comédie, son pere lui demanda pourquoi il étoit si mélancholique depuis quelque tems ? Le jeune Pocquelin ne put tenir contre l’envie qu’il <pb n="309" />avoit de declarer ses sentimens à son pere : il lui avoua franchement qu’il ne pouvoit s’accommoder de sa profession ; mais qu’il lui feroit un plaisir sensible de le faire étudier. Le grand-pere qui étoit present à cet éclaircissement, appuya par de bonnes raisons l’inclination de son petit-fils : le pere s’y rendit, &amp; se détermina à l’envoyer au College des Jesuites.</p>
-<p>Le jeune Pocquelin étoit né avec de si heureuses dispositions pour les études, qu’en cinq années de tems il fit non seulement ses Humanitez, mais encore sa Philosophie.</p>
-<p>Ce fut au College qu’il fit connoissance avec deux hommes illustres, Chapelle &amp; Bernier, qui avoient pour Précepteur le celebre Gassendi, des leçons duquel il sçut profiter.</p>
-<p>Quand le jeune Pocquelin eut achevé ses études, il fut obligé, à cause de l’âge avancé &amp; du peu de santé de son pere, d’exercer sa Charge de Tapissier Valet-de-Chambre pendant quelque tems, &amp; même il fit le voyage de Narbonne à la suite de Louis XIII. Quelques-uns prétendent qu’il se fit recevoir Avocat au retour de ce voyage : cependant le goût qu’il avoit pour la Comédie ne faisoit qu’augmenter, &amp; il ne tarda gueres à témoigner la passion qu’il avoit pour cet Art &amp; pour la déclamation.</p>
-<p>C’étoit assez la coûtume en ce tems-là de representer des Pieces entre amis : quelques Bourgeois de Paris formerent une Troupe, dont Pocquelin étoit : ils jouerent plusieurs Pieces pour se divertir ; mais ces Bourgeois ayant suffisamment rempli leur plaisir, &amp; s’imaginant être de bons Acteurs, s’aviserent de tirer du profit de leurs representations ; ils penserent bien serieusement aux moyens d’exécuter leur dessein ; &amp; après avoir pris toutes leurs mesures, ils s’établirent dans le Jeu de Paulme de la Croix blanche, au fauxbourg Saint Germain. Ce fut alors que Pocquelin prit le nom de <hi rend="sc">Moliere</hi>, qu’il a toûjours porté depuis : mais lorsqu’on lui a demandé ce qui l’avoit engagé à prendre celui-là plûtôt qu’un autre, jamais il n’en a voulu dire la raison, même à ses meilleurs amis.</p>
-<p>Moliere dans les representations de ses Comédies l’emportoit sur tous ses camarades, &amp; faisoit connoître les grands talens qu’il avoit pour la profession de Comédien. M. le Prince de Conti, qui l’avoit fait venir jouer plusieurs fois <pb n="310" />dans son Hôtel à Paris, l’encouragea ; &amp; ce Prince allant en Languedoc pour y tenir les Etats, ordonna à Moliere de le venir trouver avec la Troupe qu’il avoit formée, pour y jouer la Comédie : Moliere partit avec sa Troupe, qui eut bien de l’applaudissement en passant à Lyon en 1653. où il donna au Public l’<hi rend="i">Etourdi</hi>, la premiere de ses Pieces, qui eut autant de succès qu’elle en pouvoit esperer. La Troupe passa en Languedoc, où Moliere fut reçu très-favorablement de M. le Prince de Conti : il y fit representer <hi rend="i">l’Etourdi, le Dépit amoureux</hi> &amp; <hi rend="i">les Précieuses ridicules</hi>. Le Prince de Conti lui confia la conduite des plaisirs &amp; des spectacles qu’il donnoit à la Province ; &amp; ayant remarqué en peu de tems toutes les bonnes qualitez de Moliere, son estime pour lui alla si loin, qu’il voulut le faire son Secretaire, mais celui-ci aimoit l’indépendance ; &amp; il étoit si rempli du dessein de faire valoir les talens qu’il se connoissoit, qu’il pria Monsieur le Prince de Conti de lui laisser continuer la Comédie, &amp; la place qu’on lui proposoit fut donnée à M. Simon. Ses amis le blâmerent de n’avoir pas accepté un Emploi aussi avantageux : Hé, Messieurs, leur dit-il, ne nous deplaçons jamais, je suis un passable Auteur, si j’en crois la voix publique ; je puis être un fort mauvais Secretaire ; je divertis le Prince par les Spectacles que je lui donne, je le rebuterois par un travail serieux &amp; mal conduit : &amp; pensez-vous d’ailleurs, ajouta-t’il, qu’un Misantrope comme moi, capricieux si vous voulez, soit propre près d’un Grand ; je n’ai pas les sentimens assez flexibles pour la domesticité : mais plus que tout cela, que deviendront ces pauvres gens que j’ai amenez de si loin ? qui les conduira ? Ils ont compté sur moi, &amp; je me reprocherois de les abandonner. Moliere enfin étoit ravi de se voir Chef d’une Troupe ; il se faisoit un plaisir sensible de conduire sa petite Republique ; il aimoit à parler en public, &amp; n’en perdoit jamais l’occasion, dont il s’acquittoit très-bien.</p>
-<p>Après quatre ou cinq années de succès dans la Province, Moliere quitta le Languedoc avec l’agrément du Prince de Conti, &amp; amena sa Troupe à Paris : Monsieur, frere unique du Roi, lui accorda sa protection, eut la bonté de le presenter au Roi &amp; à la Reine sa mere, &amp; permit à sa Troupe de prendre le nom de <hi rend="i">Comédiens de</hi> <hi rend="sc">Monsieur</hi> ; il lui donna le Théatre du petit Bourbon, &amp; peu de tems après celui du <pb n="311" />Palais Royal. Le Roi content de Moliere &amp; des Spectacles qu’il faisoit representer par sa Troupe, en fit ses Comédiens, &amp; leur accorda une pension de sept mille livres. Le Roi donna aussi en 1663. une pension particuliere de mille livres à Moliere, qui en remercia Sa Majesté, par une Piece de Vers inserée dans le second volume de ses œuvres.</p>
-<p>Moliere exerçoit toûjours sa Charge de Tapissier Valet-de-Chambre, &amp; le Roi le gracieusoit en toute occasion.</p>
-<p>Voici un trait que j’ai appris de feu Bellocq, Valet-de-Chambre du Roi, homme de beaucoup d’esprit &amp; qui faisoit de très-jolis Vers. Un jour que Moliere se presenta pour faire le lit du Roi, R*** aussi Valet-de-Chambre de Sa Majesté, qui devoit faire le lit avec lui, se retira brusquement, en disant qu’il ne le feroit point avec un Comédien ; Bellocq s’approcha dans le moment, &amp; dit : <hi rend="i">Monsieur de Moliere, vous voulez bien que j’aie l’honneur de faire le lit du Roi avec vous ?</hi> Cette aventure vint aux oreilles du Roi, qui fut très-mécontent du procedé de R***, &amp; lui en fit de vives reprimandes.</p>
-<p>Moliere étoit bien dédommagé de certains airs de dedain de quelques gens grossiers &amp; sans merite, par l’estime &amp; les caresses des plus grands Seigneurs &amp; des personnes d’esprit, qui recherchoient son entretien, &amp; qui étoient charmez de le posseder. Le grand Prince de Condé l’honoroit de son estime &amp; de son amitié, &amp; lui faisoit l’honneur de le faire manger avec lui. Il arriva qu’un jour Moliere étant à la table de ce Prince, les Pages qui y servoient, ne cherchant qu’à badiner &amp; voulant empêcher Moliere de manger les bons morceaux qu’on lui presentoit, lui changeoient d’assiette dans l’instant qu’on les lui servoit ; Moliere s’en étant apperçu, prit promptement une aîle de Perdrix, qu’on ne faisoit que poser sur son assiete, &amp; n’en fit qu’une bouchée jusqu’à l’os, qu’il remit sur l’assiete : le Page qui vint pour lui ôter son assiete, ne fut pas assez alerte, &amp; ne retira que l’os de cette aîle de perdrix, ce qui fit rire Moliere ; M. le Prince lui en demanda la raison ; il lui répondit : Monseigneur, c’est que vos Pages ne sçavent pas lire, il prennent les O pour les L. On rapporte ce petit trait de plaisanterie de la part de Moliere, comme une chose rare à un homme aussi grave que lui dans la conversation.</p>
-<p>Le caractere de Moliere étoit très-serieux ; c’étoit un homme <pb n="312" />qui parloit peu, mais très-à-propos &amp; avec beaucoup de justesse ; c’étoit un vrai Philosophe, plein de probité, desinteressé, ne songeant qu’à plaire à son Prince &amp; aux personnes du premier goût, &amp; qu’à faire subsister sa Troupe. Il avoit un grand nombre d’amis distinguez dans la Republique des Lettres, entr’autres, le Philosophe Rohaut, la Bruiere, les deux Corneilles, Despréaux, Chapelle, Bernier, Fourcroi. Outre la pension de mille livres que le Roi donnoit à Moliere, il lui faisoit encore de tems-en-tems des gratifications : d’ailleurs Moliere jouissoit de plus de vingt-cinq mille livres de rente, ayant quatre parts à la Comédie, une comme Acteur, une pour sa femme qui étoit Comédienne, &amp; deux en qualité d’Auteur.</p>
-<p>Il faisoit un excellent usage de tout son bien, étant fort liberal &amp; aidant les Comédiens qui avoient quelques talens. Il tenoit une bonne table, où les Chapelles, les Fourcrois &amp; plusieurs gens d’esprit &amp; bons convives étoient bien venus. Quoique son temperament très-délicat l’ait obligé de vivre de lait pendant plus de dix années, il restoit cependant quelquefois quatre &amp; cinq heures à table avec les meilleurs convives &amp; les plus grands buveurs, tandis qu’il n’avoit d’autre mets &amp; d’autre boisson que son lait avec un peu de pain ou de biscuit. Il parloit peu, comme on l’a déja dit, mais toûjours avec une grande justesse : il écoutoit attentivement les pensées ingenieuses &amp; les saillies d’esprit des personnes qui étoient à sa table, &amp; il les écrivoit avec un craïon sur des cartes à jouer, qu’il avoit dans sa poche pour cet usage.</p>
-<p>Personne n’a reçu de la nature plus de talent que Moliere pour jouer tout le genre humain, pour trouver du ridicule dans les choses les plus serieuses, &amp; pour l’exposer avec finesse &amp; naïveté aux yeux du Public.</p>
-<p>La nature, les graces Comiques, la politesse du langage &amp; la facilité de s’exprimer paroissent dans tous ses Ecrits.</p>
-<p>Moliere est un des hommes ausquels la France a le plus d’obligation, pour avoir travaillé à en bannir le mauvais goût, &amp; à corriger le ridicule &amp; les défauts des hommes dans chaque état. Les personnes qui tenoient le premier rang dans Paris pour le bel esprit, s’apperçurent à l’arrivée de Moliere en cette Ville, qu’il connoissoit mieux qu’un <pb n="313" />autre le vrai &amp; la belle nature, le faux &amp; le ridicule.</p>
-<p>Voilà ce que dit Ménage<note place="bottom" n="a">Menagiana, tome 2. page 65.</note> : J’étois à la premiere representation le 18. Novembre 1659. des <hi rend="i">Précieuses ridicules</hi> de Moliere au petit Bourbon. Mademoiselle de Rambouillet y étoit, Madame de Grignan, tout l’Hôtel de Rambouillet, Chapelain &amp; plusieurs autres personnes de ma connoissance : la Piece fut jouée avec un applaudissement general, &amp; j’en fus si satisfait en mon particulier, que je vis dès-lors l’effet qu’elle alloit produire. Au sortir de la Comédie prenant Chapelain par la main : Monsieur, lui dis-je, nous approuvions vous &amp; moi toutes les sottises qui viennent d’être critiquées si finement &amp; avec tant de bon sens ; mais croyez-moi, pour me servir de ce que saint Remy dit à Clovis, il nous faudra brûler ce que nous avons adoré, &amp; adorer ce que nous avons brûlé. Cela arriva comme je l’avois prédit, &amp; dès cette premiere representation, l’on revint du galimatias &amp; du stile forcé.</p>
-<p>Le Pere Rapin &amp; tous les sçavans Critiques donnent aussi l’avantage à Moliere sur tous les Poëtes Comiques, &amp; même sur ceux de l’antiquité de la Grece &amp; de l’Italie. En effet où trouve-t’on des Pieces comparables à celle du <hi rend="i">Misantrope</hi>, des <hi rend="i">Femmes sçavantes</hi>, du <hi rend="i">Tartuffe</hi>, de <hi rend="i">l’Avare</hi>, de <hi rend="i">l’Ecole des Maris</hi>, &amp;c. Quand il a voulu imiter les anciens, on voit qu’il les a sur-passez ; l’on en peut juger par son <hi rend="i">Amphitrion</hi> d’avec celui de Plaute, qui est pourtant une des meilleures Comédies de ce Poëte Latin. On admire la maniere ingenieuse dont il a traité le sujet de <hi rend="i">Georges Dandin</hi>, tiré d’un Conte de Bocace, &amp;c. Les moindres choses maniées par ce grand homme paroissent charmantes &amp; merveilleuses.</p>
-<p>Voilà aussi le jugement que le Pere Bouhours fait de Moliere dans le Monument qu’il a consacré à sa memoire.</p>
-<quote>
-<lg>
-    <l><hi rend="i">Ornement du Théatre, incomparable Acteur,</hi></l>
-<l><hi rend="i">Charmant Poëte, Illustre Auteur,</hi></l>
-<l><hi rend="i">C’est toi, dont les plaisanteries</hi></l>
-<l><hi rend="i">Ont guéri des Marquis l’esprit extravagant ;</hi></l>
-<l><hi rend="i">C’est toi, qui par tes momeries,</hi></l>
-<l><hi rend="i">As reprimé l’orgueil du Bourgeois arrogant.</hi></l>
-</lg>
-<lg>
-    <l>    <hi rend="i">Ta Muse en jouant l’Hyppocrite,</hi></l>
-    <l>  <hi rend="i">A redressé les faux dévots ;</hi></l>
-<pb n="314" /><l><hi rend="i">La Précieuse à tes bons mots,</hi></l>
-    <l>  <hi rend="i">A reconnu son faux merite.</hi></l>
-    <l>  <hi rend="i">L’homme ennemi du genre humain,</hi></l>
-    <l>  <hi rend="i">Le Campagnard, qui tout admire,</hi></l>
-    <l>  <hi rend="i">N’ont pas lû tes Ecrits en vain ;</hi></l>
-<l><hi rend="i">Tous deux s’y sont instruits en ne pensant qu’à rire.</hi></l>
-</lg>
-<lg>
-<l><hi rend="i">Enfin tu reformas et la Ville &amp; la Cour ;</hi></l>
-    <l>  <hi rend="i">Mais quelle en fut la recompense ?</hi></l>
-    <l>  <hi rend="i">Les François rougiront un jour</hi></l>
-    <l>  <hi rend="i">De leur peu de reconnoissance :</hi></l>
-    <l>  <hi rend="i">Il leur fallut un Comedien,</hi></l>
-<l><hi rend="i">Qui mît à les polir son art &amp; son étude.</hi></l>
-<l><hi rend="i">Mais, Moliere, à ta gloire il ne manqueroit rien,</hi></l>
-<l><hi rend="i">Si parmi leurs défauts, que tu peignis si bien,</hi></l>
-<l><hi rend="i">Tu les avois repris de leur ingratitude.</hi></l>
-</lg>
-</quote>
-<p>Despréaux ne lui donne pas moins de louange dans sa deuxiéme Satire qu’il lui adresse, où il commence par ces Vers.</p>
-<quote>
-<lg>
-<l><hi rend="i">Rare &amp; sublime esprit, dont la fertile veine</hi></l>
-<l><hi rend="i">Ignore en écrivant le travail &amp; la peine,</hi></l>
-<l><hi rend="i">Pour qui tient Apollon tous ses trésors ouverts</hi></l>
-<l><hi rend="i">Et qui sçait à quel coin se marquent les bons Vers ;</hi></l>
-<l><hi rend="i">Dans les combats d’esprit sçavant Maître d’escrime,</hi></l>
-<l><hi rend="i">Enseigne-moi, Moliere, où tu trouves la rime.</hi></l>
-</lg>
-</quote>
-    <p>Voyez encore les belles Stances que ce même Poëte adresse à Moliere sur sa Comédie de l’<hi rend="i">Ecole des Femmes</hi>.<note place="bottom" n="a">Oeuvres de Despréaux, édition de Geneve, page 433.</note></p>
-<p>Il est vrai que Despréaux après la mort de Moliere, en lui donnant de nouvelles louanges, n’a pas laissé de lui reprocher d’avoir quelquefois donné dans un Comique un peu bas &amp; indigne de lui ; c’est ce qu’on voit au Chant troisiéme de l’Art Poëtique, Vers 391. &amp; les suivans.</p>
-<quote>
-<lg>
-<l><hi rend="i">Etudiez la Cour, et connoissez la Ville,</hi></l>
-<l><hi rend="i">L’une &amp; l’autre est toûjours en modéles fertiles :</hi></l>
-<l><hi rend="i">C’est par-là que Moliere illustrant ses Ecrits,</hi></l>
-<l><hi rend="i">Peut-être de son Art eût remporté le Prix ;</hi></l>
-<l><hi rend="i">Si moins ami du Peuple en ses doctes peintures,</hi></l>
-<l><hi rend="i">Il n’eût point fait souvent grimacer ses figures.</hi></l>
-<l>. . . . . . . . . . . .</l>
-<pb n="315" /><l><hi rend="i">Dans ce sac ridicule, où Scapin s’envelope,</hi></l>
-<l><hi rend="i">Je ne reconnois plus l’Auteur du Misantrope.</hi></l>
-</lg>
-</quote>
-<p>Mais qui peut ignorer les raisons que Moliere a euës de donner dans quelques-unes de ses Pieces quelques Scenes burlesques &amp; d’un Comique un peu trop boufon : il falloit faire subsister une troupe de Comédiens, &amp; attirer le Peuple &amp; l’homme qui ne cherche qu’à rire : les personnes d’érudition &amp; d’un discernement juste &amp; délicat sont en petit nombre, &amp; ne sont pas souvent les mieux traitez de la fortune, &amp; par conséquent hors d’état de faire vivre les Comédiens en allant souvent aux Spectacles occuper les premieres places. Moliere fut obligé de se servir quelquefois d’un plaisant un peu outré, pour attirer un certain monde, &amp; le Peuple, qui venoit en foule apporter un argent très-necessaire à sa Troupe.</p>
-<p>D’ailleurs dans les Spectacles n’est-il pas juste de donner quelque chose au Peuple &amp; aux personnes qui ne se piquent point de bel esprit ? Mais dans quelques Pieces où Moliere a voulu satisfaire le Peuple, n’y trouve-t’on pas des Scenes &amp; même des Actes entiers, qui charment l’homme d’esprit ? On y reconnoît le genie admirable de leur Auteur ; qu’on lise ou qu’on voye representer <hi rend="i">les Fourberies de Scapin, le Malade imaginaire, le Bourgeois Gentilhomme ?</hi> n’y trouve-t’on pas des endroits merveilleux ?</p>
-    <p>Despréaux n’ignoroit pas toutes les raisons que je viens de dire : mais en qualité de Censeur rigide, il vouloit toûjours qu’on ne cherchât à plaire qu’aux personnes d’érudition &amp; du goût le plus délicat : cependant de tous les Poëtes modernes Moliere étoit celui qu’il estimoit &amp; admiroit le plus ; &amp; qu’il trouvoit plus parfait en son genre, que Corneille &amp; Racine dans le leur.<note place="bottom" n="a">Remarques sur le Vers 394. du troisiéme Chant de l’Art Poëtique.</note></p>
-<p>On pourroit partager &amp; distinguer les pieces de Moliere en trois classes ; la premiere seroit pour des genies superieurs &amp; des Maîtres de l’Art ; la seconde, pour des personnes nées avec un goût naturel pour les bonnes choses, &amp; qui ont la pratique du beau monde ; la troisiéme, pour la bonne Bourgeoisie &amp; pour le Peuple : cependant on dira aussi en même tems que les personnes d’un genie superieur &amp; du meilleur goût trouveront toûjours quelques beautez, jusques dans <pb n="316" />les Pieces qu’on pourroit mettre dans la troisiéme classe.</p>
-    <p>Tout ce que je dirois à la gloire de Moliere seroit bien au-dessous des idées que les personnes d’esprit en ont ; il vaut mieux renvoyer à la lecture &amp; à la representation de ses Comédies : elles ont été imprimées differentes fois, &amp; distribuées en plusieurs volumes ; les deux dernieres éditions de Paris, l’une en l’année 1697. &amp; l’autre en 1718. par la Compagnie des Libraires, sont en 8 volumes in-12. elles contiennent les Pieces suivantes, dont voici le catalogue selon l’ordre des tems qu’elles ont été representées. I. <hi rend="i">L’Etourdi, ou les Contre-temps</hi>, Comédie en Vers, cinq Actes, a été jouée la premiere fois à Lyon l’an 1653. &amp; à Paris en 1658. II. <hi rend="i">Le Dépit amoureux</hi>, Comédie en Vers, cinq Actes, representée à Paris au mois de Decembre 1658. III. <hi rend="i">Les Précieuses ridicules</hi>, Comédie en Prose, un Acte, 1658. IV. <hi rend="i">Sganarelle, ou le Cocu imaginaire</hi>, Comédie en Vers, un Acte, 1660. V. <hi rend="i">Dom Garcie, ou le Prince jaloux</hi>, Comédie en Vers, cinq Actes, 1661. VI. <hi rend="i">L’Ecole des Maris</hi>, Comédie en Vers, trois Actes, 1661. VII. <hi rend="i">Le Fâcheux</hi>, Comédie en Vers, trois Actes, précedez d’un Prologue à la gloire du Roi, 1661. VIII. <hi rend="i">L’Ecole des Femmes</hi>, Comédie en Vers, cinq Actes, 1662. IX. <hi rend="i">La Critique de l’Ecole des Femmes</hi>, Comédie en Prose, un Acte, 1663. X. <hi rend="i">L’Impromptu de Versailles</hi>, Comédie en Prose, un Acte, 1663. XI. <hi rend="i">La Princesse d’Elide, ou les Plaisirs de l’Isle enchantée</hi>, Comédie en Prose &amp; en Vers, cinq Actes avec un Prologue, Ballet &amp; Musique, 1664. XII. <hi rend="i">Le Mariage forcé</hi>, Comédie en Prose, un Acte, 1664. XIII. <hi rend="i">L’Amour Medecin</hi>, Comédie en Prose, trois Actes avec un petit Prologue en Vers, 1665. XIV. <hi rend="i">Dom Juan, ou le Festin de Pierre</hi>, Comédie en Prose, cinq Actes, 1665. XV. <hi rend="i">Le Misantrope</hi>, Comédie en Vers, cinq Actes, 1666. XVI. <hi rend="i">Melicerte</hi>, Pastorale heroïque en Vers, deux Actes, 1666. XVII. <hi rend="i">Le Medecin malgré lui</hi>, Comédie en Prose, 1666. XVIII. <hi rend="i">Le Sicilien, ou l’Amour Peintre</hi>, Comédie en Prose, un Acte avec des intermedes, 1667. XIX. <hi rend="i">Le Tartuffe, ou l’Imposteur</hi>,<note place="bottom" n="a">Les trois premiers Actes de la Comédie du <hi rend="i">Tartuffe</hi> avoient été representez à Versailles, dès le mois de Mai 1664. mais elle ne parut en cinq Actes, qu’en 1667.</note> Comédie en Vers, cinq Actes, 1667. XX. <hi rend="i">Amphitrion</hi>, Comédie en Vers, trois Actes avec un Prologue, 1668. XXI. <hi rend="i">L’Avare</hi>, Comédie en Prose, cinq Actes, 1668. XXII. <hi rend="i">George Dandin</hi>, Comédie <pb n="317" />en Prose, un Acte, 1668. XXIII. <hi rend="i">Monsieur de Pourseaugnac</hi>, Comédie, Ballet avec Musique, trois Actes en Prose, 1669. XXIV. <hi rend="i">Le Bourgeois Gentilhomme</hi>, Comédie en Prose avec des Intermédes de Musique &amp; de Danse, cinq Actes, 1670. XXV. <hi rend="i">Les Amans magnifiques</hi>, Comédie en Prose avec Musique &amp; Danse, cinq Actes, 1670. XXVI. <hi rend="i">Les Fourberies de Scapin</hi>, Comédie en Prose, trois Actes, 1671. XXVII. <hi rend="i">Psiché</hi>, Tragédie, Ballet en Vers, un Prologue &amp; cinq Actes, 1672. Pierre Corneille &amp; Quinault ont travaillé à une partie de cette Piece, dont la disposition, le Prologue le premier Acte, la premiere Scene du second &amp; le troisiéme sont de Moliere. XXVIII. <hi rend="i">Les femmes sçavantes</hi>, Comédie en Vers, cinq Actes, 1672. XXIX. <hi rend="i">La Comtesse d’Escarbagnas</hi>, Comédie en Prose, un Acte, 1672. XXX. <hi rend="i">Le Malade imaginaire</hi>, Comédie en Prose, trois Actes avec des Intermedes de Musique &amp; de Danse, &amp; précedez d’un Eglogue &amp; d’un petit Prologue en Vers, accompagnée aussi de Musique &amp; de Danse, 1673. Cette Piece fut le tombeau de son Auteur, qui mourut cinq ou six heures après qu’il y eut joué le rôle du Malade imaginaire.</p>
-<p>La plus grande partie des Pieces de Moliere ont été traduites en diverses Langues ; en Italien, par Nicolo Castelli, imprimées à Leipsic 1692. en Anglois &amp; en Allemand, par des Auteurs de ces pays.</p>
-    <p>Moliere a composé aussi quelques autres ouvrages en Vers, qui marquent bien qu’il étoit capable de traiter d’autre genre de Poësie que celui de la Comédie. Son Poëme intitulé, <hi rend="i">La gloire du Dôme du Val-de-Grace</hi> sur la Peinture, dont Mignard, premier Peintre du Roi, a decoré le Dôme du Chœur de cette superbe Eglise, est admiré des Connoisseurs en Poësie &amp; en Peinture : ce Poëme contient plus de trois cens cinquante Vers ; il le fit pour remercier Mignard, qui avoit fait son Portrait en grand &amp; qui le lui donna gratuitement. Despréaux dans ses Remarques sur sa Satire deuxiéme adressée à Moliere, dit qu’il avoit traduit dans sa jeunesse Lucrece en Vers françois<note place="bottom" n="a">On peut voir la note sur le premier Vers de la seconde Satire de Despréaux à Moliere, où il est parlé de cette traduction de Lucrece.</note> ; c’est ce que Grimarest nous apprend aussi, &amp; qu’il auroit achevé cet ouvrage, sans un malheur qui lui arriva <pb n="318" />Un de ses domestiques, à qui il avoit ordonné de mettre sa perruque sous le papier, prit un cahier de sa traduction pour faire des papillotes : Moliere qui étoit facile à s’indigner, fut si piqué de la destinée de ce cahier, que dans sa colere il jetta sur le champ le reste au feu. A mesure qu’il avoit travaillé, il avoit lu son ouvrage à Monsieur Rohault, qui en avoit été très-satisfait, comme il l’a témoigné à plusieurs personnes. Pour donner plus de goût à sa Traduction, Moliere avoit rendu en Prose toute la matiere Philosophique, &amp; il avoit mis en Vers toutes ces belles descriptions qui se trouvent dans le Poëme de Lucrece.</p>
-<p>Moliere travailla aussi conjointement avec Racine à quelques divertissemens mis en Musique par Lully, tels que <hi rend="i">l’Ydille sur la Paix</hi>, &amp; que <hi rend="i">l’Eglogue de Versailles</hi>.</p>
-<p>Il avoit composé dans la premiere jeunesse du Roi Louis XIV. quelques petites farces pour amuser ce Prince, comme <hi rend="i">les trois Docteurs rivaux</hi>, &amp; <hi rend="i">le Maître d’école</hi>. Il laissa aussi quelques Comédies commencées, que M<hi rend="sup">lle</hi> de Moliere donna à la Grange Comédien.</p>
-<p>Moliere s’étoit marié à la Demoiselle Béjart, fille d’un Comédien &amp; d’une Comédienne de ce nom : il l’aima avec beaucoup de tendresse ; mais comme c’étoit une coquette des plus aimables, qui avoit le talent de plaire à presque toutes les personnes qui la voyoient, &amp; dont l’humeur ne sympatisoit nullement avec celle de Moliere, il eut quelques chagrins domestiques à essuyer. De ce mariage nâquit une fille unique, qui s’est distinguée par son merite &amp; par la beauté &amp; l’agrément de son esprit ; mais qui ne jouit pas d’une fortune opulente. Elle épousa le sieur de Montalan, Gentilhomme, qui a été pendant quelque tems Organiste de l’Eglise de saint André des Arcs.</p>
-<p>La mort (comme on vient de le dire) enleva Moliere presque à la sortie du théatre, où il se força pour jouer le rôle du Malade imaginaire, étant très-incommodé de la poitrine, &amp; n’ayant pas voulu renvoyer un grand nombre de Spectateurs, qu’il avoit vû dans la Salle de la Comédie, avant que de s’aller habiller. Ce fut le Vendredi 17. Février 1673. qu’il termina ses jours, étant dans la cinquante-troisiéme année de son âge. Sa mort affligea Paris &amp; la Cour, &amp; le Roi même en parut fort <pb n="319" />touché. Ce ne fut pas sans difficulté qu’il fut mis en terre sainte au Cimetiere de l’Eglise de saint Joseph, aide de la Paroisse de saint Eustache, sa mort précipitée l’ayant empêché de renoncer au Théatre, &amp; de recevoir ses Sacremens. M. de Harlay, Archevêque de Paris, auquel le Roi fit écrire à ce sujet, ordonna que le corps de Moliere seroit conduit seulement par deux Prêtres qui ne chanteroient point : cependant son convoi n’en fut pas moins nombreux, plusieurs de ses amis, &amp; d’autres personnes zélées pour sa gloire, au nombre de plus de cent, y assisterent ayant chacun un flambeau à la main.</p>
-<p>On composa plusieurs Eloges funebres &amp; des Epitaphes à la memoire de Moliere ; j’en rapporterai ici deux ou trois, dont la premiere est de l’Illustre M. Huet, depuis Evêque d’Avranches.</p>
-<quote>
-<lg>
-<l><hi rend="i">Plaudebat, Moleri, tibi plenis Aula Theatris ;</hi></l>
-    <l>  <hi rend="i">Nunc eadem mœrens post tua fata gemit :</hi></l>
-<l><hi rend="i">Si risum nobis movisses parciùs olim,</hi></l>
-    <l>  <hi rend="i">Parciùs heu ! Lacrymis tingeret ora dolor.</hi></l>
-</lg>
-</quote>
-<p>Un de nos Poëtes Latins lui fit aussi cette Epitaphe.</p>
-<quote>
-<lg>
-<l><hi rend="i">Roscius hîc situs est tristi Molierus in urna,</hi></l>
-    <l>  <hi rend="i">Cui genus humanum ludere ludus erat ;</hi></l>
-<l><hi rend="i">Dum ludit mortem, mors indignata jocantem</hi></l>
-    <l>  <hi rend="i">Corripit, &amp; mimum fingere sæva negat.</hi></l>
-</lg>
-</quote>
-<p>Voici encore une troisiéme Epitaphe en Vers François</p>
-<quote>
-<lg>
-    <l>  <hi rend="i">Cy gît qui parut sur la Scene,</hi></l>
-    <l>  <hi rend="i">Le singe de la vie humaine,</hi></l>
-    <l>  <hi rend="i">Qui n’aura jamais son égal ;</hi></l>
-<l><hi rend="i">Mais voulant de la mort, ainsi que de la vie,</hi></l>
-<l><hi rend="i">Etre l’imitateur, dans une Comédie,</hi></l>
-<l><hi rend="i">Pour trop bien réussir il réussit très-mal ;</hi></l>
-    <l>  <hi rend="i">Car la mort en étant ravie,</hi></l>
-    <l>  <hi rend="i">Trouva si belle la copie,</hi></l>
-    <l>  <hi rend="i">Qu’elle en fit un original.</hi></l>
-</lg>
-</quote>
-<p>Un Abbé crut bien faire sa Cour à Monsieur le Prince de lui presenter l’Epitaphe qu’il avoit faite pour Moliere : Ah ! lui dit ce grand Prince, que celui dont tu me presente <pb n="320" />l’Epitaphe, n’est-il en état de faire la tienne !</p>
-<p>La femme de Moliere fit porter une grande tombe de Pierre, qu’on plaça au milieu du Cimetiere de saint Joseph, où on la voit encore. Cette pierre est fendue par le milieu, ce qui fut occasionné par une action très-belle &amp; très-remarquable de cette Demoiselle. Deux ou trois ans après la mort de son mari il y eut un hiver très-froid ; elle fit voiturer cent voyes de bois dans ledit Cimetiere, &amp; les fit brûler sur la tombe de son mari pour chauffer tous les pauvres du quartier : la grande chaleur du feu ouvrit cette pierre en deux. Voilà ce que j’ai appris, il y a environ vingt ans, d’un ancien Chapelain de saint Joseph, qui me dit avoir assisté à l’enterrement de Moliere, &amp; qu’il n’étoit pas inhumé sous cette tombe ; mais dans un endroit plus éloigné, attenant la maison du Chapelain.</p>
-<p>Je finirai cet article par une particularité assez interessante, en rapportant que Monsieur de Colbert, qui protegeoit toutes les personnes d’un merite distingué, dit un jour devant plusieurs personnes à M. Charles Perrault de l’Académie Françoise, qu’il étoit surpris que Moliere ne fût pas de cette Académie. M. Perrault en parla à plusieurs de ses Confreres, qui marquerent qu’un homme tel que Moliere meritoit des distinctions, &amp; étoit au-dessus des regles ordinaires ; mais que s’il étoit reçu à l’Académie, il falloit qu’il ne jouât plus sur le théatre que des rôles graves &amp; à manteau, &amp; qu’il renonçât aux rôles de valets, qui sont sujets à recevoir quelques coups. Il y a apparence qu’on en parla à Moliere, mais cela n’eut point de suite. <hi rend="i">V.</hi> Grimarest, <hi rend="i">Vie de Moliere</hi>. La Bruiere, <hi rend="i">Caracteres de Theophraste &amp; des mœurs de ce siecle</hi>. Charles Perrault, <hi rend="i">Hommes Illustres en France pendant le dix-septiéme siecle</hi>. Moreri, <hi rend="i">Dictionaire</hi>. Bayle, <hi rend="i">Dictionaire Critique</hi>. Brice, <hi rend="i">Description de Paris</hi>, tome 1. page 459. &amp; les suivantes. Baillet, <hi rend="i">Jugemens des Sçavans sur les Poëtes modernes</hi>, tome 5. n°. 1520. Ce dernier Ecrivain en qualité de Prêtre &amp; d’homme d’une morale très-severe, en parlant des grands talens de Moliere, a declamé un peu trop contre cet Auteur &amp; contre la Comédie.</p>
-<p>A la fin de l’année 1731. on a commencé à Paris une magnifique édition des œuvres de Moliere en 6 volumes in-4°. ornée de très-belles Estampes &amp; de plusieurs Vignettes.</p>
-</div>
-</body>
-</text>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Jean-Baptiste Pocquelin de Molière (<hi rend="i"
+					>Le Parnasse françois</hi>) [graphies originales]</title>
+				<author key="Titon du Tillet, Evrard (1677-1762)" ref="https://data.bnf.fr/fr/12306776/evrard_titon_du_tillet/">Evrard Titon du Tillet</author>
+			</titleStmt>
+			<editionStmt>
+				<edition>OBVIL</edition>
+				<respStmt>
+					<name>Eric Thiébaud</name>
+					<resp>Stylage sémantique</resp>
+				</respStmt>
+				<respStmt>
+					<name>Wordpro</name>
+					<resp>Numérisation et encodage TEI</resp>
+				</respStmt>
+			</editionStmt>
+			<publicationStmt>
+				<publisher>Sorbonne Université, LABEX OBVIL</publisher>
+				<date when="2018"/>
+				<idno>http://obvil.sorbonne-universite.fr/corpus/moliere/critique/titon-du-tillet_moliere_orig/</idno>
+				<availability status="restricted">
+					<licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+						<p>Copyright © 2018 Sorbonne Université, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+						<p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+						<p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+						<p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+						<p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures, la diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+					</licence>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl><author>Evrard Titon du Tillet</author>, <title><hi rend="i"
+							>« Jean-Baptiste Pocquelin de Molière », in </hi>Le Parnasse François, dedié au Roi</title>, <pubPlace>Paris</pubPlace>, <publisher>J.-B. Coignard fils</publisher>, <date>1732</date>, pp. <biblScope
+						unit="page">308-320</biblScope>. Source : <ref
+						target="http://gallica.bnf.fr/ark:/12148/bpt6k1041669n/f428.image">Gallica</ref>.</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when="1732">1732</date>
+			</creation>
+			<langUsage>
+				<language ident="fre">fre</language>
+			</langUsage>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div type="chapter" xml:id="jean-baptiste-pocquelin-de-moliere">
+				<pb n="308"/>
+				<head>CII.<lb/>JEAN-BAPTISTE POCQUELIN<lb/>DE MOLIERE,<lb/><hi rend="i">Le</hi>
+					<hi rend="sc">Prince</hi>
+					<hi rend="i"
+						>des Poëtes Comiques en France, &amp; celebre Acteur, né à Paris l’an</hi> 1620. <hi
+						rend="i">mort le</hi> 17. <hi rend="i">Fevrier de l’année</hi> 1673.</head>
+				<p>Il étoit fils &amp; petit-fils de Tapissiers Valets-de-Chambre du Roi Louis XIII. qui avoient leur boutique sous les Pilliers des Halles, dans une maison à eux appartenante en propre.</p>
+				<p>Son pere ayant en vuë qu’il continuât son commerce, &amp; lui destinant sa Charge, dont il eut même la survivance dans un âge peu avancé, le laissa jusqu’à quatorze ans dans sa boutique, &amp; se contenta de lui faire apprendre à lire &amp; à écrire pour les besoins de sa profession.</p>
+				<p>Le petit Pocquelin avoit un grand-pere qui l’aimoit éperdument ; &amp; comme ce bon homme avoit de l’inclination pour la Comédie, il y menoit souvent son petit-fils, à l’Hôtel de Bourgogne. Le pere qui apprehendoit que ce plaisir ne dissipât son fils, &amp; ne lui ôtât toute l’attention qu’il devoit à son métier, demanda un jour à ce bon homme, pourquoi il menoit si souvent son petit-fils au Spectacle ? Avez-vous, lui dit-il avec un peu d’indignation, envie d’en faire un Comédien ? Plût à Dieu, répondit le grand-pere, qu’il fût aussi bon Comédien que Bellerose (c’étoit un fameux Acteur de ce tems-là.) Cette réponse frappa le jeune homme, &amp; sans pourtant qu’il eût d’inclination déterminée, elle lui fit naître du dégoût pour sa profession de Tapissier, s’imaginant, puisque son grand-pere souhaitoit qu’il pût être Comédien, qu’il pouvoit aspirer à quelque chose de plus qu’au métier de son pere.</p>
+				<p>Cette prévention s’imprima tellement dans son esprit, qu’il ne restoit dans la boutique qu’avec chagrin : de maniere que revenant un jour de la Comédie, son pere lui demanda pourquoi il étoit si mélancholique depuis quelque tems ? Le jeune Pocquelin ne put tenir contre l’envie qu’il <pb
+						n="309"
+					/>avoit de declarer ses sentimens à son pere : il lui avoua franchement qu’il ne pouvoit s’accommoder de sa profession ; mais qu’il lui feroit un plaisir sensible de le faire étudier. Le grand-pere qui étoit present à cet éclaircissement, appuya par de bonnes raisons l’inclination de son petit-fils : le pere s’y rendit, &amp; se détermina à l’envoyer au College des Jesuites.</p>
+				<p>Le jeune Pocquelin étoit né avec de si heureuses dispositions pour les études, qu’en cinq années de tems il fit non seulement ses Humanitez, mais encore sa Philosophie.</p>
+				<p>Ce fut au College qu’il fit connoissance avec deux hommes illustres, Chapelle &amp; Bernier, qui avoient pour Précepteur le celebre Gassendi, des leçons duquel il sçut profiter.</p>
+				<p>Quand le jeune Pocquelin eut achevé ses études, il fut obligé, à cause de l’âge avancé &amp; du peu de santé de son pere, d’exercer sa Charge de Tapissier Valet-de-Chambre pendant quelque tems, &amp; même il fit le voyage de Narbonne à la suite de Louis XIII. Quelques-uns prétendent qu’il se fit recevoir Avocat au retour de ce voyage : cependant le goût qu’il avoit pour la Comédie ne faisoit qu’augmenter, &amp; il ne tarda gueres à témoigner la passion qu’il avoit pour cet Art &amp; pour la déclamation.</p>
+				<p>C’étoit assez la coûtume en ce tems-là de representer des Pieces entre amis : quelques Bourgeois de Paris formerent une Troupe, dont Pocquelin étoit : ils jouerent plusieurs Pieces pour se divertir ; mais ces Bourgeois ayant suffisamment rempli leur plaisir, &amp; s’imaginant être de bons Acteurs, s’aviserent de tirer du profit de leurs representations ; ils penserent bien serieusement aux moyens d’exécuter leur dessein ; &amp; après avoir pris toutes leurs mesures, ils s’établirent dans le Jeu de Paulme de la Croix blanche, au fauxbourg Saint Germain. Ce fut alors que Pocquelin prit le nom de <hi
+						rend="sc"
+					>Moliere</hi>, qu’il a toûjours porté depuis : mais lorsqu’on lui a demandé ce qui l’avoit engagé à prendre celui-là plûtôt qu’un autre, jamais il n’en a voulu dire la raison, même à ses meilleurs amis.</p>
+				<p>Moliere dans les representations de ses Comédies l’emportoit sur tous ses camarades, &amp; faisoit connoître les grands talens qu’il avoit pour la profession de Comédien. M. le Prince de Conti, qui l’avoit fait venir jouer plusieurs fois <pb
+						n="310"
+						/>dans son Hôtel à Paris, l’encouragea ; &amp; ce Prince allant en Languedoc pour y tenir les Etats, ordonna à Moliere de le venir trouver avec la Troupe qu’il avoit formée, pour y jouer la Comédie : Moliere partit avec sa Troupe, qui eut bien de l’applaudissement en passant à Lyon en 1653. où il donna au Public l’<hi
+						rend="i"
+						>Etourdi</hi>, la premiere de ses Pieces, qui eut autant de succès qu’elle en pouvoit esperer. La Troupe passa en Languedoc, où Moliere fut reçu très-favorablement de M. le Prince de Conti : il y fit representer <hi
+						rend="i">l’Etourdi, le Dépit amoureux</hi> &amp; <hi rend="i"
+						>les Précieuses ridicules</hi>. Le Prince de Conti lui confia la conduite des plaisirs &amp; des spectacles qu’il donnoit à la Province ; &amp; ayant remarqué en peu de tems toutes les bonnes qualitez de Moliere, son estime pour lui alla si loin, qu’il voulut le faire son Secretaire, mais celui-ci aimoit l’indépendance ; &amp; il étoit si rempli du dessein de faire valoir les talens qu’il se connoissoit, qu’il pria Monsieur le Prince de Conti de lui laisser continuer la Comédie, &amp; la place qu’on lui proposoit fut donnée à M. Simon. Ses amis le blâmerent de n’avoir pas accepté un Emploi aussi avantageux : Hé, Messieurs, leur dit-il, ne nous deplaçons jamais, je suis un passable Auteur, si j’en crois la voix publique ; je puis être un fort mauvais Secretaire ; je divertis le Prince par les Spectacles que je lui donne, je le rebuterois par un travail serieux &amp; mal conduit : &amp; pensez-vous d’ailleurs, ajouta-t’il, qu’un Misantrope comme moi, capricieux si vous voulez, soit propre près d’un Grand ; je n’ai pas les sentimens assez flexibles pour la domesticité : mais plus que tout cela, que deviendront ces pauvres gens que j’ai amenez de si loin ? qui les conduira ? Ils ont compté sur moi, &amp; je me reprocherois de les abandonner. Moliere enfin étoit ravi de se voir Chef d’une Troupe ; il se faisoit un plaisir sensible de conduire sa petite Republique ; il aimoit à parler en public, &amp; n’en perdoit jamais l’occasion, dont il s’acquittoit très-bien.</p>
+				<p>Après quatre ou cinq années de succès dans la Province, Moliere quitta le Languedoc avec l’agrément du Prince de Conti, &amp; amena sa Troupe à Paris : Monsieur, frere unique du Roi, lui accorda sa protection, eut la bonté de le presenter au Roi &amp; à la Reine sa mere, &amp; permit à sa Troupe de prendre le nom de <hi
+						rend="i">Comédiens de</hi>
+					<hi rend="sc"
+						>Monsieur</hi> ; il lui donna le Théatre du petit Bourbon, &amp; peu de tems après celui du <pb
+						n="311"
+					/>Palais Royal. Le Roi content de Moliere &amp; des Spectacles qu’il faisoit representer par sa Troupe, en fit ses Comédiens, &amp; leur accorda une pension de sept mille livres. Le Roi donna aussi en 1663. une pension particuliere de mille livres à Moliere, qui en remercia Sa Majesté, par une Piece de Vers inserée dans le second volume de ses œuvres.</p>
+				<p>Moliere exerçoit toûjours sa Charge de Tapissier Valet-de-Chambre, &amp; le Roi le gracieusoit en toute occasion.</p>
+				<p>Voici un trait que j’ai appris de feu Bellocq, Valet-de-Chambre du Roi, homme de beaucoup d’esprit &amp; qui faisoit de très-jolis Vers. Un jour que Moliere se presenta pour faire le lit du Roi, R*** aussi Valet-de-Chambre de Sa Majesté, qui devoit faire le lit avec lui, se retira brusquement, en disant qu’il ne le feroit point avec un Comédien ; Bellocq s’approcha dans le moment, &amp; dit : <hi
+						rend="i"
+						>Monsieur de Moliere, vous voulez bien que j’aie l’honneur de faire le lit du Roi avec vous ?</hi> Cette aventure vint aux oreilles du Roi, qui fut très-mécontent du procedé de R***, &amp; lui en fit de vives reprimandes.</p>
+				<p>Moliere étoit bien dédommagé de certains airs de dedain de quelques gens grossiers &amp; sans merite, par l’estime &amp; les caresses des plus grands Seigneurs &amp; des personnes d’esprit, qui recherchoient son entretien, &amp; qui étoient charmez de le posseder. Le grand Prince de Condé l’honoroit de son estime &amp; de son amitié, &amp; lui faisoit l’honneur de le faire manger avec lui. Il arriva qu’un jour Moliere étant à la table de ce Prince, les Pages qui y servoient, ne cherchant qu’à badiner &amp; voulant empêcher Moliere de manger les bons morceaux qu’on lui presentoit, lui changeoient d’assiette dans l’instant qu’on les lui servoit ; Moliere s’en étant apperçu, prit promptement une aîle de Perdrix, qu’on ne faisoit que poser sur son assiete, &amp; n’en fit qu’une bouchée jusqu’à l’os, qu’il remit sur l’assiete : le Page qui vint pour lui ôter son assiete, ne fut pas assez alerte, &amp; ne retira que l’os de cette aîle de perdrix, ce qui fit rire Moliere ; M. le Prince lui en demanda la raison ; il lui répondit : Monseigneur, c’est que vos Pages ne sçavent pas lire, il prennent les O pour les L. On rapporte ce petit trait de plaisanterie de la part de Moliere, comme une chose rare à un homme aussi grave que lui dans la conversation.</p>
+				<p>Le caractere de Moliere étoit très-serieux ; c’étoit un homme <pb n="312"
+					/>qui parloit peu, mais très-à-propos &amp; avec beaucoup de justesse ; c’étoit un vrai Philosophe, plein de probité, desinteressé, ne songeant qu’à plaire à son Prince &amp; aux personnes du premier goût, &amp; qu’à faire subsister sa Troupe. Il avoit un grand nombre d’amis distinguez dans la Republique des Lettres, entr’autres, le Philosophe Rohaut, la Bruiere, les deux Corneilles, Despréaux, Chapelle, Bernier, Fourcroi. Outre la pension de mille livres que le Roi donnoit à Moliere, il lui faisoit encore de tems-en-tems des gratifications : d’ailleurs Moliere jouissoit de plus de vingt-cinq mille livres de rente, ayant quatre parts à la Comédie, une comme Acteur, une pour sa femme qui étoit Comédienne, &amp; deux en qualité d’Auteur.</p>
+				<p>Il faisoit un excellent usage de tout son bien, étant fort liberal &amp; aidant les Comédiens qui avoient quelques talens. Il tenoit une bonne table, où les Chapelles, les Fourcrois &amp; plusieurs gens d’esprit &amp; bons convives étoient bien venus. Quoique son temperament très-délicat l’ait obligé de vivre de lait pendant plus de dix années, il restoit cependant quelquefois quatre &amp; cinq heures à table avec les meilleurs convives &amp; les plus grands buveurs, tandis qu’il n’avoit d’autre mets &amp; d’autre boisson que son lait avec un peu de pain ou de biscuit. Il parloit peu, comme on l’a déja dit, mais toûjours avec une grande justesse : il écoutoit attentivement les pensées ingenieuses &amp; les saillies d’esprit des personnes qui étoient à sa table, &amp; il les écrivoit avec un craïon sur des cartes à jouer, qu’il avoit dans sa poche pour cet usage.</p>
+				<p>Personne n’a reçu de la nature plus de talent que Moliere pour jouer tout le genre humain, pour trouver du ridicule dans les choses les plus serieuses, &amp; pour l’exposer avec finesse &amp; naïveté aux yeux du Public.</p>
+				<p>La nature, les graces Comiques, la politesse du langage &amp; la facilité de s’exprimer paroissent dans tous ses Ecrits.</p>
+				<p>Moliere est un des hommes ausquels la France a le plus d’obligation, pour avoir travaillé à en bannir le mauvais goût, &amp; à corriger le ridicule &amp; les défauts des hommes dans chaque état. Les personnes qui tenoient le premier rang dans Paris pour le bel esprit, s’apperçurent à l’arrivée de Moliere en cette Ville, qu’il connoissoit mieux qu’un <pb
+						n="313"/>autre le vrai &amp; la belle nature, le faux &amp; le ridicule.</p>
+				<p>Voilà ce que dit Ménage<note place="bottom" n="a"
+						>Menagiana, tome 2. page 65.</note> : J’étois à la premiere representation le 18. Novembre 1659. des <hi
+						rend="i"
+					>Précieuses ridicules</hi> de Moliere au petit Bourbon. Mademoiselle de Rambouillet y étoit, Madame de Grignan, tout l’Hôtel de Rambouillet, Chapelain &amp; plusieurs autres personnes de ma connoissance : la Piece fut jouée avec un applaudissement general, &amp; j’en fus si satisfait en mon particulier, que je vis dès-lors l’effet qu’elle alloit produire. Au sortir de la Comédie prenant Chapelain par la main : Monsieur, lui dis-je, nous approuvions vous &amp; moi toutes les sottises qui viennent d’être critiquées si finement &amp; avec tant de bon sens ; mais croyez-moi, pour me servir de ce que saint Remy dit à Clovis, il nous faudra brûler ce que nous avons adoré, &amp; adorer ce que nous avons brûlé. Cela arriva comme je l’avois prédit, &amp; dès cette premiere representation, l’on revint du galimatias &amp; du stile forcé.</p>
+				<p>Le Pere Rapin &amp; tous les sçavans Critiques donnent aussi l’avantage à Moliere sur tous les Poëtes Comiques, &amp; même sur ceux de l’antiquité de la Grece &amp; de l’Italie. En effet où trouve-t’on des Pieces comparables à celle du <hi
+						rend="i">Misantrope</hi>, des <hi rend="i">Femmes sçavantes</hi>, du <hi rend="i"
+						>Tartuffe</hi>, de <hi rend="i">l’Avare</hi>, de <hi rend="i"
+						>l’Ecole des Maris</hi>, &amp;c. Quand il a voulu imiter les anciens, on voit qu’il les a sur-passez ; l’on en peut juger par son <hi
+						rend="i"
+						>Amphitrion</hi> d’avec celui de Plaute, qui est pourtant une des meilleures Comédies de ce Poëte Latin. On admire la maniere ingenieuse dont il a traité le sujet de <hi
+						rend="i"
+					>Georges Dandin</hi>, tiré d’un Conte de Bocace, &amp;c. Les moindres choses maniées par ce grand homme paroissent charmantes &amp; merveilleuses.</p>
+				<p>Voilà aussi le jugement que le Pere Bouhours fait de Moliere dans le Monument qu’il a consacré à sa memoire.</p>
+				<quote>
+					<lg>
+						<l><hi rend="i">Ornement du Théatre, incomparable Acteur,</hi></l>
+						<l><hi rend="i">Charmant Poëte, Illustre Auteur,</hi></l>
+						<l><hi rend="i">C’est toi, dont les plaisanteries</hi></l>
+						<l><hi rend="i">Ont guéri des Marquis l’esprit extravagant ;</hi></l>
+						<l><hi rend="i">C’est toi, qui par tes momeries,</hi></l>
+						<l><hi rend="i">As reprimé l’orgueil du Bourgeois arrogant.</hi></l>
+					</lg>
+					<lg>
+						<l>    <hi rend="i">Ta Muse en jouant l’Hyppocrite,</hi></l>
+						<l>  <hi rend="i">A redressé les faux dévots ;</hi></l>
+						<pb n="314"/>
+						<l><hi rend="i">La Précieuse à tes bons mots,</hi></l>
+						<l>  <hi rend="i">A reconnu son faux merite.</hi></l>
+						<l>  <hi rend="i">L’homme ennemi du genre humain,</hi></l>
+						<l>  <hi rend="i">Le Campagnard, qui tout admire,</hi></l>
+						<l>  <hi rend="i">N’ont pas lû tes Ecrits en vain ;</hi></l>
+						<l><hi rend="i">Tous deux s’y sont instruits en ne pensant qu’à rire.</hi></l>
+					</lg>
+					<lg>
+						<l><hi rend="i">Enfin tu reformas et la Ville &amp; la Cour ;</hi></l>
+						<l>  <hi rend="i">Mais quelle en fut la recompense ?</hi></l>
+						<l>  <hi rend="i">Les François rougiront un jour</hi></l>
+						<l>  <hi rend="i">De leur peu de reconnoissance :</hi></l>
+						<l>  <hi rend="i">Il leur fallut un Comedien,</hi></l>
+						<l><hi rend="i">Qui mît à les polir son art &amp; son étude.</hi></l>
+						<l><hi rend="i">Mais, Moliere, à ta gloire il ne manqueroit rien,</hi></l>
+						<l><hi rend="i">Si parmi leurs défauts, que tu peignis si bien,</hi></l>
+						<l><hi rend="i">Tu les avois repris de leur ingratitude.</hi></l>
+					</lg>
+				</quote>
+				<p>Despréaux ne lui donne pas moins de louange dans sa deuxiéme Satire qu’il lui adresse, où il commence par ces Vers.</p>
+				<quote>
+					<lg>
+						<l><hi rend="i">Rare &amp; sublime esprit, dont la fertile veine</hi></l>
+						<l><hi rend="i">Ignore en écrivant le travail &amp; la peine,</hi></l>
+						<l><hi rend="i">Pour qui tient Apollon tous ses trésors ouverts</hi></l>
+						<l><hi rend="i">Et qui sçait à quel coin se marquent les bons Vers ;</hi></l>
+						<l><hi rend="i">Dans les combats d’esprit sçavant Maître d’escrime,</hi></l>
+						<l><hi rend="i">Enseigne-moi, Moliere, où tu trouves la rime.</hi></l>
+					</lg>
+				</quote>
+				<p>Voyez encore les belles Stances que ce même Poëte adresse à Moliere sur sa Comédie de l’<hi
+						rend="i">Ecole des Femmes</hi>.<note place="bottom" n="a"
+						>Oeuvres de Despréaux, édition de Geneve, page 433.</note></p>
+				<p>Il est vrai que Despréaux après la mort de Moliere, en lui donnant de nouvelles louanges, n’a pas laissé de lui reprocher d’avoir quelquefois donné dans un Comique un peu bas &amp; indigne de lui ; c’est ce qu’on voit au Chant troisiéme de l’Art Poëtique, Vers 391. &amp; les suivans.</p>
+				<quote>
+					<lg>
+						<l><hi rend="i">Etudiez la Cour, et connoissez la Ville,</hi></l>
+						<l><hi rend="i">L’une &amp; l’autre est toûjours en modéles fertiles :</hi></l>
+						<l><hi rend="i">C’est par-là que Moliere illustrant ses Ecrits,</hi></l>
+						<l><hi rend="i">Peut-être de son Art eût remporté le Prix ;</hi></l>
+						<l><hi rend="i">Si moins ami du Peuple en ses doctes peintures,</hi></l>
+						<l><hi rend="i">Il n’eût point fait souvent grimacer ses figures.</hi></l>
+						<l>. . . . . . . . . . . .</l>
+						<pb n="315"/>
+						<l><hi rend="i">Dans ce sac ridicule, où Scapin s’envelope,</hi></l>
+						<l><hi rend="i">Je ne reconnois plus l’Auteur du Misantrope.</hi></l>
+					</lg>
+				</quote>
+				<p>Mais qui peut ignorer les raisons que Moliere a euës de donner dans quelques-unes de ses Pieces quelques Scenes burlesques &amp; d’un Comique un peu trop boufon : il falloit faire subsister une troupe de Comédiens, &amp; attirer le Peuple &amp; l’homme qui ne cherche qu’à rire : les personnes d’érudition &amp; d’un discernement juste &amp; délicat sont en petit nombre, &amp; ne sont pas souvent les mieux traitez de la fortune, &amp; par conséquent hors d’état de faire vivre les Comédiens en allant souvent aux Spectacles occuper les premieres places. Moliere fut obligé de se servir quelquefois d’un plaisant un peu outré, pour attirer un certain monde, &amp; le Peuple, qui venoit en foule apporter un argent très-necessaire à sa Troupe.</p>
+				<p>D’ailleurs dans les Spectacles n’est-il pas juste de donner quelque chose au Peuple &amp; aux personnes qui ne se piquent point de bel esprit ? Mais dans quelques Pieces où Moliere a voulu satisfaire le Peuple, n’y trouve-t’on pas des Scenes &amp; même des Actes entiers, qui charment l’homme d’esprit ? On y reconnoît le genie admirable de leur Auteur ; qu’on lise ou qu’on voye representer <hi
+						rend="i"
+					>les Fourberies de Scapin, le Malade imaginaire, le Bourgeois Gentilhomme ?</hi> n’y trouve-t’on pas des endroits merveilleux ?</p>
+				<p>Despréaux n’ignoroit pas toutes les raisons que je viens de dire : mais en qualité de Censeur rigide, il vouloit toûjours qu’on ne cherchât à plaire qu’aux personnes d’érudition &amp; du goût le plus délicat : cependant de tous les Poëtes modernes Moliere étoit celui qu’il estimoit &amp; admiroit le plus ; &amp; qu’il trouvoit plus parfait en son genre, que Corneille &amp; Racine dans le leur.<note
+						place="bottom" n="a"
+						>Remarques sur le Vers 394. du troisiéme Chant de l’Art Poëtique.</note></p>
+				<p>On pourroit partager &amp; distinguer les pieces de Moliere en trois classes ; la premiere seroit pour des genies superieurs &amp; des Maîtres de l’Art ; la seconde, pour des personnes nées avec un goût naturel pour les bonnes choses, &amp; qui ont la pratique du beau monde ; la troisiéme, pour la bonne Bourgeoisie &amp; pour le Peuple : cependant on dira aussi en même tems que les personnes d’un genie superieur &amp; du meilleur goût trouveront toûjours quelques beautez, jusques dans <pb
+						n="316"/>les Pieces qu’on pourroit mettre dans la troisiéme classe.</p>
+				<p>Tout ce que je dirois à la gloire de Moliere seroit bien au-dessous des idées que les personnes d’esprit en ont ; il vaut mieux renvoyer à la lecture &amp; à la representation de ses Comédies : elles ont été imprimées differentes fois, &amp; distribuées en plusieurs volumes ; les deux dernieres éditions de Paris, l’une en l’année 1697. &amp; l’autre en 1718. par la Compagnie des Libraires, sont en 8 volumes in-12. elles contiennent les Pieces suivantes, dont voici le catalogue selon l’ordre des tems qu’elles ont été representées. I. <hi
+						rend="i"
+						>L’Etourdi, ou les Contre-temps</hi>, Comédie en Vers, cinq Actes, a été jouée la premiere fois à Lyon l’an 1653. &amp; à Paris en 1658. II. <hi
+						rend="i"
+						>Le Dépit amoureux</hi>, Comédie en Vers, cinq Actes, representée à Paris au mois de Decembre 1658. III. <hi
+						rend="i">Les Précieuses ridicules</hi>, Comédie en Prose, un Acte, 1658. IV. <hi
+						rend="i">Sganarelle, ou le Cocu imaginaire</hi>, Comédie en Vers, un Acte, 1660. V. <hi
+						rend="i"
+						>Dom Garcie, ou le Prince jaloux</hi>, Comédie en Vers, cinq Actes, 1661. VI. <hi
+						rend="i">L’Ecole des Maris</hi>, Comédie en Vers, trois Actes, 1661. VII. <hi rend="i"
+						>Le Fâcheux</hi>, Comédie en Vers, trois Actes, précedez d’un Prologue à la gloire du Roi, 1661. VIII. <hi
+						rend="i">L’Ecole des Femmes</hi>, Comédie en Vers, cinq Actes, 1662. IX. <hi rend="i"
+						>La Critique de l’Ecole des Femmes</hi>, Comédie en Prose, un Acte, 1663. X. <hi
+						rend="i">L’Impromptu de Versailles</hi>, Comédie en Prose, un Acte, 1663. XI. <hi
+						rend="i"
+						>La Princesse d’Elide, ou les Plaisirs de l’Isle enchantée</hi>, Comédie en Prose &amp; en Vers, cinq Actes avec un Prologue, Ballet &amp; Musique, 1664. XII. <hi
+						rend="i">Le Mariage forcé</hi>, Comédie en Prose, un Acte, 1664. XIII. <hi rend="i"
+						>L’Amour Medecin</hi>, Comédie en Prose, trois Actes avec un petit Prologue en Vers, 1665. XIV. <hi
+						rend="i"
+						>Dom Juan, ou le Festin de Pierre</hi>, Comédie en Prose, cinq Actes, 1665. XV. <hi
+						rend="i">Le Misantrope</hi>, Comédie en Vers, cinq Actes, 1666. XVI. <hi rend="i"
+						>Melicerte</hi>, Pastorale heroïque en Vers, deux Actes, 1666. XVII. <hi rend="i"
+						>Le Medecin malgré lui</hi>, Comédie en Prose, 1666. XVIII. <hi rend="i"
+						>Le Sicilien, ou l’Amour Peintre</hi>, Comédie en Prose, un Acte avec des intermedes, 1667. XIX. <hi
+						rend="i">Le Tartuffe, ou l’Imposteur</hi>,<note place="bottom" n="a"
+							>Les trois premiers Actes de la Comédie du <hi rend="i"
+						>Tartuffe</hi> avoient été representez à Versailles, dès le mois de Mai 1664. mais elle ne parut en cinq Actes, qu’en 1667.</note> Comédie en Vers, cinq Actes, 1667. XX. <hi
+						rend="i">Amphitrion</hi>, Comédie en Vers, trois Actes avec un Prologue, 1668. XXI. <hi
+						rend="i">L’Avare</hi>, Comédie en Prose, cinq Actes, 1668. XXII. <hi rend="i"
+						>George Dandin</hi>, Comédie <pb n="317"/>en Prose, un Acte, 1668. XXIII. <hi rend="i"
+						>Monsieur de Pourseaugnac</hi>, Comédie, Ballet avec Musique, trois Actes en Prose, 1669. XXIV. <hi
+						rend="i"
+						>Le Bourgeois Gentilhomme</hi>, Comédie en Prose avec des Intermédes de Musique &amp; de Danse, cinq Actes, 1670. XXV. <hi
+						rend="i"
+						>Les Amans magnifiques</hi>, Comédie en Prose avec Musique &amp; Danse, cinq Actes, 1670. XXVI. <hi
+						rend="i">Les Fourberies de Scapin</hi>, Comédie en Prose, trois Actes, 1671. XXVII. <hi
+						rend="i"
+						>Psiché</hi>, Tragédie, Ballet en Vers, un Prologue &amp; cinq Actes, 1672. Pierre Corneille &amp; Quinault ont travaillé à une partie de cette Piece, dont la disposition, le Prologue le premier Acte, la premiere Scene du second &amp; le troisiéme sont de Moliere. XXVIII. <hi
+						rend="i">Les femmes sçavantes</hi>, Comédie en Vers, cinq Actes, 1672. XXIX. <hi
+						rend="i">La Comtesse d’Escarbagnas</hi>, Comédie en Prose, un Acte, 1672. XXX. <hi
+						rend="i"
+					>Le Malade imaginaire</hi>, Comédie en Prose, trois Actes avec des Intermedes de Musique &amp; de Danse, &amp; précedez d’un Eglogue &amp; d’un petit Prologue en Vers, accompagnée aussi de Musique &amp; de Danse, 1673. Cette Piece fut le tombeau de son Auteur, qui mourut cinq ou six heures après qu’il y eut joué le rôle du Malade imaginaire.</p>
+				<p>La plus grande partie des Pieces de Moliere ont été traduites en diverses Langues ; en Italien, par Nicolo Castelli, imprimées à Leipsic 1692. en Anglois &amp; en Allemand, par des Auteurs de ces pays.</p>
+				<p>Moliere a composé aussi quelques autres ouvrages en Vers, qui marquent bien qu’il étoit capable de traiter d’autre genre de Poësie que celui de la Comédie. Son Poëme intitulé, <hi
+						rend="i"
+						>La gloire du Dôme du Val-de-Grace</hi> sur la Peinture, dont Mignard, premier Peintre du Roi, a decoré le Dôme du Chœur de cette superbe Eglise, est admiré des Connoisseurs en Poësie &amp; en Peinture : ce Poëme contient plus de trois cens cinquante Vers ; il le fit pour remercier Mignard, qui avoit fait son Portrait en grand &amp; qui le lui donna gratuitement. Despréaux dans ses Remarques sur sa Satire deuxiéme adressée à Moliere, dit qu’il avoit traduit dans sa jeunesse Lucrece en Vers françois<note
+						place="bottom" n="a"
+						>On peut voir la note sur le premier Vers de la seconde Satire de Despréaux à Moliere, où il est parlé de cette traduction de Lucrece.</note> ; c’est ce que Grimarest nous apprend aussi, &amp; qu’il auroit achevé cet ouvrage, sans un malheur qui lui arriva <pb
+						n="318"
+					/>Un de ses domestiques, à qui il avoit ordonné de mettre sa perruque sous le papier, prit un cahier de sa traduction pour faire des papillotes : Moliere qui étoit facile à s’indigner, fut si piqué de la destinée de ce cahier, que dans sa colere il jetta sur le champ le reste au feu. A mesure qu’il avoit travaillé, il avoit lu son ouvrage à Monsieur Rohault, qui en avoit été très-satisfait, comme il l’a témoigné à plusieurs personnes. Pour donner plus de goût à sa Traduction, Moliere avoit rendu en Prose toute la matiere Philosophique, &amp; il avoit mis en Vers toutes ces belles descriptions qui se trouvent dans le Poëme de Lucrece.</p>
+				<p>Moliere travailla aussi conjointement avec Racine à quelques divertissemens mis en Musique par Lully, tels que <hi
+						rend="i">l’Ydille sur la Paix</hi>, &amp; que <hi rend="i"
+					>l’Eglogue de Versailles</hi>.</p>
+				<p>Il avoit composé dans la premiere jeunesse du Roi Louis XIV. quelques petites farces pour amuser ce Prince, comme <hi
+						rend="i">les trois Docteurs rivaux</hi>, &amp; <hi rend="i"
+						>le Maître d’école</hi>. Il laissa aussi quelques Comédies commencées, que M<hi
+						rend="sup">lle</hi> de Moliere donna à la Grange Comédien.</p>
+				<p>Moliere s’étoit marié à la Demoiselle Béjart, fille d’un Comédien &amp; d’une Comédienne de ce nom : il l’aima avec beaucoup de tendresse ; mais comme c’étoit une coquette des plus aimables, qui avoit le talent de plaire à presque toutes les personnes qui la voyoient, &amp; dont l’humeur ne sympatisoit nullement avec celle de Moliere, il eut quelques chagrins domestiques à essuyer. De ce mariage nâquit une fille unique, qui s’est distinguée par son merite &amp; par la beauté &amp; l’agrément de son esprit ; mais qui ne jouit pas d’une fortune opulente. Elle épousa le sieur de Montalan, Gentilhomme, qui a été pendant quelque tems Organiste de l’Eglise de saint André des Arcs.</p>
+				<p>La mort (comme on vient de le dire) enleva Moliere presque à la sortie du théatre, où il se força pour jouer le rôle du Malade imaginaire, étant très-incommodé de la poitrine, &amp; n’ayant pas voulu renvoyer un grand nombre de Spectateurs, qu’il avoit vû dans la Salle de la Comédie, avant que de s’aller habiller. Ce fut le Vendredi 17. Février 1673. qu’il termina ses jours, étant dans la cinquante-troisiéme année de son âge. Sa mort affligea Paris &amp; la Cour, &amp; le Roi même en parut fort <pb
+						n="319"
+					/>touché. Ce ne fut pas sans difficulté qu’il fut mis en terre sainte au Cimetiere de l’Eglise de saint Joseph, aide de la Paroisse de saint Eustache, sa mort précipitée l’ayant empêché de renoncer au Théatre, &amp; de recevoir ses Sacremens. M. de Harlay, Archevêque de Paris, auquel le Roi fit écrire à ce sujet, ordonna que le corps de Moliere seroit conduit seulement par deux Prêtres qui ne chanteroient point : cependant son convoi n’en fut pas moins nombreux, plusieurs de ses amis, &amp; d’autres personnes zélées pour sa gloire, au nombre de plus de cent, y assisterent ayant chacun un flambeau à la main.</p>
+				<p>On composa plusieurs Eloges funebres &amp; des Epitaphes à la memoire de Moliere ; j’en rapporterai ici deux ou trois, dont la premiere est de l’Illustre M. Huet, depuis Evêque d’Avranches.</p>
+				<quote>
+					<lg>
+						<l><hi rend="i">Plaudebat, Moleri, tibi plenis Aula Theatris ;</hi></l>
+						<l>  <hi rend="i">Nunc eadem mœrens post tua fata gemit :</hi></l>
+						<l><hi rend="i">Si risum nobis movisses parciùs olim,</hi></l>
+						<l>  <hi rend="i">Parciùs heu ! Lacrymis tingeret ora dolor.</hi></l>
+					</lg>
+				</quote>
+				<p>Un de nos Poëtes Latins lui fit aussi cette Epitaphe.</p>
+				<quote>
+					<lg>
+						<l><hi rend="i">Roscius hîc situs est tristi Molierus in urna,</hi></l>
+						<l>  <hi rend="i">Cui genus humanum ludere ludus erat ;</hi></l>
+						<l><hi rend="i">Dum ludit mortem, mors indignata jocantem</hi></l>
+						<l>  <hi rend="i">Corripit, &amp; mimum fingere sæva negat.</hi></l>
+					</lg>
+				</quote>
+				<p>Voici encore une troisiéme Epitaphe en Vers François</p>
+				<quote>
+					<lg>
+						<l>  <hi rend="i">Cy gît qui parut sur la Scene,</hi></l>
+						<l>  <hi rend="i">Le singe de la vie humaine,</hi></l>
+						<l>  <hi rend="i">Qui n’aura jamais son égal ;</hi></l>
+						<l><hi rend="i">Mais voulant de la mort, ainsi que de la vie,</hi></l>
+						<l><hi rend="i">Etre l’imitateur, dans une Comédie,</hi></l>
+						<l><hi rend="i">Pour trop bien réussir il réussit très-mal ;</hi></l>
+						<l>  <hi rend="i">Car la mort en étant ravie,</hi></l>
+						<l>  <hi rend="i">Trouva si belle la copie,</hi></l>
+						<l>  <hi rend="i">Qu’elle en fit un original.</hi></l>
+					</lg>
+				</quote>
+				<p>Un Abbé crut bien faire sa Cour à Monsieur le Prince de lui presenter l’Epitaphe qu’il avoit faite pour Moliere : Ah ! lui dit ce grand Prince, que celui dont tu me presente <pb
+						n="320"/>l’Epitaphe, n’est-il en état de faire la tienne !</p>
+				<p>La femme de Moliere fit porter une grande tombe de Pierre, qu’on plaça au milieu du Cimetiere de saint Joseph, où on la voit encore. Cette pierre est fendue par le milieu, ce qui fut occasionné par une action très-belle &amp; très-remarquable de cette Demoiselle. Deux ou trois ans après la mort de son mari il y eut un hiver très-froid ; elle fit voiturer cent voyes de bois dans ledit Cimetiere, &amp; les fit brûler sur la tombe de son mari pour chauffer tous les pauvres du quartier : la grande chaleur du feu ouvrit cette pierre en deux. Voilà ce que j’ai appris, il y a environ vingt ans, d’un ancien Chapelain de saint Joseph, qui me dit avoir assisté à l’enterrement de Moliere, &amp; qu’il n’étoit pas inhumé sous cette tombe ; mais dans un endroit plus éloigné, attenant la maison du Chapelain.</p>
+				<p>Je finirai cet article par une particularité assez interessante, en rapportant que Monsieur de Colbert, qui protegeoit toutes les personnes d’un merite distingué, dit un jour devant plusieurs personnes à M. Charles Perrault de l’Académie Françoise, qu’il étoit surpris que Moliere ne fût pas de cette Académie. M. Perrault en parla à plusieurs de ses Confreres, qui marquerent qu’un homme tel que Moliere meritoit des distinctions, &amp; étoit au-dessus des regles ordinaires ; mais que s’il étoit reçu à l’Académie, il falloit qu’il ne jouât plus sur le théatre que des rôles graves &amp; à manteau, &amp; qu’il renonçât aux rôles de valets, qui sont sujets à recevoir quelques coups. Il y a apparence qu’on en parla à Moliere, mais cela n’eut point de suite. <hi
+						rend="i">V.</hi> Grimarest, <hi rend="i">Vie de Moliere</hi>. La Bruiere, <hi rend="i"
+						>Caracteres de Theophraste &amp; des mœurs de ce siecle</hi>. Charles Perrault, <hi
+						rend="i">Hommes Illustres en France pendant le dix-septiéme siecle</hi>. Moreri, <hi
+						rend="i">Dictionaire</hi>. Bayle, <hi rend="i">Dictionaire Critique</hi>. Brice, <hi
+						rend="i">Description de Paris</hi>, tome 1. page 459. &amp; les suivantes. Baillet, <hi
+						rend="i"
+					>Jugemens des Sçavans sur les Poëtes modernes</hi>, tome 5. n°. 1520. Ce dernier Ecrivain en qualité de Prêtre &amp; d’homme d’une morale très-severe, en parlant des grands talens de Moliere, a declamé un peu trop contre cet Auteur &amp; contre la Comédie.</p>
+				<p>A la fin de l’année 1731. on a commencé à Paris une magnifique édition des œuvres de Moliere en 6 volumes in-4°. ornée de très-belles Estampes &amp; de plusieurs Vignettes.</p>
+			</div>
+		</body>
+	</text>
 </TEI>

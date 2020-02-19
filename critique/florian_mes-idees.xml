@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml">
-<?xml-model href="../anecdotes/anecdotes.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../anecdotes/anecdotes.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<!--odt2tei: 2015-03-17T11:09:17+01:00-->
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Mes idées sur nos auteurs comiques. Molière [posthume]</title>
-        <author key="Florian, Jean-Pierre Claris de (1755-1794)">Jean Pierre Claris de Florian</author>
+      	<author key="Florian, Jean-Pierre Claris de (1755-1794)" ref="https://data.bnf.fr/fr/11902963/jean-pierre_claris_de_florian/">Jean Pierre Claris de Florian</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
@@ -139,7 +138,7 @@
               du quatrième acte,  d’Arnolphe et de Chrisalde, sur le cocuage, est d’une philosophie
               admirable ; la scène quatrième du cinquième acte, où Arnolphe cherche ridiculement à
               plaire à cette Agnès, contre laquelle il est furieux ; enfin toute la pièce, hors le
-                <pb n="138" xml:id="p138"/> dénoument et quelques expressions basses, est
+                <pb n="138" xml:id="p138"/>dénoument et quelques expressions basses, est
               sublime.</p>
           </div>
           <div>
@@ -165,7 +164,7 @@
             <head>LE MARIAGE FORCÉ.</head>
             <p>Farce charmante et morale ; la première scène de Sganarelle et de Géronimo, où le
               premier demande conseil pour se marier, est pleine de comique et de raison. La scène
-                <pb n="139" xml:id="p139"/> sixième du bavard Pancrace et de Sganarelle est
+                <pb n="139" xml:id="p139"/>sixième du bavard Pancrace et de Sganarelle est
               charmante ; la huitième avec le pyrrhonien Marphurius est aussi jolie ; la seizième,
               où Alcidas veut que Sganarelle se batte ou se marie, est un modèle de bon comique.
               Voilà tout ce qu’il y a à remarquer dans cette pièce.</p>
@@ -203,7 +202,7 @@
           <div>
             <head>LE MISANTHROPE.</head>
             <p>Ce chef-d’œuvre du monde mérite d’être appris par cœur avant que d’être examiné. La
-              première scène du premier acte, où Alceste <pb n="141" xml:id="p141"/> développe son
+              première scène du premier acte, où Alceste <pb n="141" xml:id="p141"/>développe son
               caractère avec son ami, qui en a un totalement opposé ; la deuxième, où Oronte lui
               vient lire un sonnet, sont d’un excellent comique et d’une vérité sublime. La première
               scène du deuxième acte, où Alceste est en opposition avec la coquette Célimène ; la
@@ -221,7 +220,7 @@
           </div>
           <div>
             <head>LE MÉDECIN MALGRÉ LUI.</head>
-            <p>Jolie farce, pleine de vérité. La première et<pb n="142" xml:id="p142"/> la deuxième
+            <p>Jolie farce, pleine de vérité. La première et <pb n="142" xml:id="p142"/>la deuxième
               scène du premier acte, dans lesquelles Sganarelle bat sa femme, le voisin Robert
               voulant l’en empêcher, et celui-ci étant battu par la femme et par le mari ; la scène
               sixième, où l’on fait dire à Sganarelle, à force de coups de bâton, qu’il est
@@ -261,7 +260,7 @@
             <head>AMPHITRYON.</head>
             <p>Une des plus comiques pièces de Molière. Le premier monologue de Sosie, quoique très
               long ; la scène avec Mercure qui lui persuade qu’il est Sosie ; la scène première du
-              deuxième acte entre Amphitryon et Sosie ; la deuxième<pb n="144" xml:id="p144"/> entre
+              deuxième acte entre Amphitryon et Sosie ; la deuxième <pb n="144" xml:id="p144"/>entre
               Alcmène et Amphitryon ; la troisième entre Cléanthis et Sosie, où il s’informe à son
               tour de ce qui s’est passé ; la deuxième du troisième acte, où Mercure se moque
               d’Amphitryon : voilà les scènes à étudier dans ce chef-d’œuvre de comique.</p>
@@ -322,7 +321,7 @@
             <p>Sans le troisième acte, cette farce charmante serait une excellente comédie. La
               première scène du premier acte est un modèle d’exposition ; la scène quatrième, où
               Scapin donne des conseils à Octave ; la sixième, où Scapin raconte à Argante
-              l’histoire du mariage de son<pb n="147" xml:id="p147"/>fils ; dans le deuxième acte,
+              l’histoire du mariage de son <pb n="147" xml:id="p147"/>fils ; dans le deuxième acte,
               la scène cinquième, où Scapin fait cette confession si plaisante ; la scène septième,
               où son maître a besoin de lui, et le supplie de lui pardonnes ; la huitième, où Scapin
               tire de l’argent d’Argante pour rompre le mariage de son fils, et où il lui détaille
@@ -360,7 +359,7 @@
             <p>Jolie farce. Les ridicules de la province y sont bien peints. Les scènes quatrième et
               sixième, où la comtesse gronde et instruit ses gens ; la scène quinzième, où on lit la
               jolie lettre de M. Thibaudier ; la seizième, où il vient lire lui-même les vers qu’il
-              a faits ; les <pb n="149" xml:id="p149"/> deux suivantes, où M. Bobinet amène son
+              a faits ; les <pb n="149" xml:id="p149"/>deux suivantes, où M. Bobinet amène son
               jeune élève : voilà ce qu’il y a de plus comique dans cette pièce.</p>
           </div>
           <div>
@@ -620,7 +619,7 @@
               scène huitième entre Damis et son valet, quand il lui confie sa passion pour
               l’inconnue du Mercure ; au troisième acte, la scène sixième, où Baliveau et Damis se
               rencontrent en répétant leurs rôles, et se reconnaissent, tandis que Francaleu crie
-              bravo ; la scène suivante est superbe ; enfin le <pb n="159" xml:id="p159"/> monologue
+              bravo ; la scène suivante est superbe ; enfin le <pb n="159" xml:id="p159"/>monologue
               qui commence le cinquième acte : tout doit être étudié dans cet ouvrage.</p>
           </div>
           <div>

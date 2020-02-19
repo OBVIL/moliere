@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml">
-<?xml-model href="../anecdotes/anecdotes.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../anecdotes/anecdotes.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<!--odt2tei: 2015-03-17T11:09:17+01:00-->
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>La Science du coeur humain, ou la Psychologie des sentiments et des passions, d’après les oeuvres de Molière</title>
-        <author key="Despine, Prosper (1812-1892)">Prosper Despine</author>
+      	<author key="Despine, Prosper (1812-1892)" ref="https://data.bnf.fr/fr/11899877/prosper_despine/">Prosper Despine</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>

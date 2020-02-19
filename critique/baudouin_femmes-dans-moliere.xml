@@ -8,7 +8,7 @@
     <fileDesc>
       <titleStmt>
         <title>Les femmes dans Molière</title>
-        <author key="Baudouin, Félix-Marie">Félix-Marie Baudouin</author>
+      	<author key="Baudouin, Félix-Marie" ref="https://catalogue.bnf.fr/ark:/12148/cb10543033j">Félix-Marie Baudouin</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
@@ -100,7 +100,7 @@
         <p>Ces paroles de Clitandre, qui s’appliquent si bien à la modeste et gracieuse Henriette, expliquent la vraie pensée de Molière sur ce que doit être la femme ; et servent de correctif à ce qu’a d’exagéré dans l’expression la fameuse tirade, si juste au fond, du bonhomme Chrysale dans la septième scène du deuxième acte.</p>
         <p><quote>Vous devriez</quote>, dit-il à sa sœur en s’adressant en réalité à tout le trio pédantesque,</p>
         <quote>
-          <l><pb n="7" xml:id="p7"/> Ne point aller chercher ce qu’on fait dans la lune,</l>
+          <l><pb n="7" xml:id="p7"/>Ne point aller chercher ce qu’on fait dans la lune,</l>
           <l>Et vous mêler un peu de ce qu’on fait chez vous,</l>
           <l>Où nous voyons aller tout sens dessus dessous.</l>
           <l>Il n’est pas bien honnête, et pour beaucoup de causes,</l>
@@ -290,7 +290,7 @@
           <l>Et ta vertu fait un vacarme</l>
           <l>Qui ne cesse de m’assommer.</l>
        </quote>
-        <p>Molière connaissait trop bien le monde pour n’avoir pas observé quel rôle important jouent dans les familles ces braves filles que nous appelons aujourd’hui <hi rend="i">bonnes</hi>, à cause sans doute qu’elles ne le sont plus, et qui, placées par leur condition dans une situation très <pb n="16" xml:id="p16"/> subordonnée, n’en exercent pas moins une très grande influence sur ceux-là mêmes qui s’appellent leurs maîtres, et que, le plus souvent, elles conduisent à leur gré ; cela était vrai surtout du temps de Molière.</p>
+        <p>Molière connaissait trop bien le monde pour n’avoir pas observé quel rôle important jouent dans les familles ces braves filles que nous appelons aujourd’hui <hi rend="i">bonnes</hi>, à cause sans doute qu’elles ne le sont plus, et qui, placées par leur condition dans une situation très <pb n="16" xml:id="p16"/>subordonnée, n’en exercent pas moins une très grande influence sur ceux-là mêmes qui s’appellent leurs maîtres, et que, le plus souvent, elles conduisent à leur gré ; cela était vrai surtout du temps de Molière.</p>
         <p>Le poète philosophe connaissait trop bien le cœur humain pour ne pas savoir que le bon sens, l’esprit même, sont de toutes les conditions ; et que souvent c’est dans celles où, sous prétexte d’éducation, le pédantisme et l’affectation n’ont pu gâter le naturel, que se trouve la plus saine appréciation des choses et la manière la plus nette et la plus piquante de les exprimer.</p>
         <p>Aussi, que de bon sens dans le parler grossier, mais si juste de la brave et franche Martine, dont le bonhomme Chrysale fait tant de cas, et que, pour obéir à sa femme, il chasse malgré lui en lui disant : <quote><hi rend="i">Va-t-en, ma pauvre enfant</hi></quote>. Que de raison également et d’à-propos dans le langage déjà plus relevé de Nicole, la confidente des chagrins de la bonne et sage M<hi rend="sup">lle</hi> Jourdain, pour qui elle est plutôt une humble amie qu’une servante ! Comme elle rit de bon cœur au nez de son maître, à qui elle est attachée pourtant, mais dont le grotesque accoutrement et la manie gentilhommière lui font perdre le respect.</p>
         <p>Et cette Toinette, du <hi rend="i">Malade imaginaire</hi>, quelle heureuse et fine nature ! Que de malice et de cœur tout à la fois ! Comme elle aime et protège adroitement sa jeune maîtresse ! Comme elle paie de sa monnaie la rusée et méchante Béline ! Avec quelle plaisante persistance elle soutient à Argan qu’<hi rend="i">il est bon, très bon</hi> ; quand lui prétend <hi rend="i">être méchant s’il le veut</hi> ! Quelle est amusante sous la robe de ce soi-disant médecin, que son art a maintenu si jeune, lorsqu’elle conseille à Argan de se faire couper un bras pour que l’autre profite mieux, et qu’elle rapporte tous ses prétendus maux au poumon ! Avec quelle adresse elle démasque cette intrigante belle-mère qui ne voulait rien moins qu’enterrer le mari, dont elle flattait les manies, et dépouiller ses enfants ! Sous la forme d’un lutin, cette alerte et rieuse fille n’est-elle pas, en réalité, l’ange gardien de toute la maisonnée ?</p>

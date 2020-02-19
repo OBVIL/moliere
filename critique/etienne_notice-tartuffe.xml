@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml">
-<?xml-model href="../anecdotes/anecdotes.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../anecdotes/anecdotes.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre">
@@ -8,7 +8,7 @@
     <fileDesc>
       <titleStmt>
         <title>Notice sur le <hi rend="i">Tartuffe</hi></title>
-        <author key="Etienne, Charles-Guillaume (1777-1845)">Charles-Guillaume Étienne</author>
+      	<author key="Etienne, Charles-Guillaume (1777-1845)" ref="https://data.bnf.fr/fr/11901973/charles-guillaume_etienne/">Charles-Guillaume Étienne</author>
         <editor>Claire Bégards</editor>
       </titleStmt>
       <editionStmt>
@@ -20,7 +20,7 @@
       </editionStmt>
       <publicationStmt>
         <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
-        <date when="2014">2014</date>
+        <date when="2014"/>
         <idno>http://obvil.sorbonne-universite.fr/corpus/moliere/critique/etienne_notice-tartuffe/</idno>
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">

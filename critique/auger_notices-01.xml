@@ -8,7 +8,7 @@
     <fileDesc>
       <titleStmt>
         <title>Notices des œuvres de Molière (I) : <hi rend="i">L’Étourdi</hi> ; <hi rend="i">Le Dépit amoureux</hi></title>
-        <author key="Auger, Louis-Simon (1772-1829)">Louis-Simon Auger</author>
+      	<author key="Auger, Louis-Simon (1772-1829)" ref="https://data.bnf.fr/fr/12516826/louis-simon_auger/">Louis-Simon Auger</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>

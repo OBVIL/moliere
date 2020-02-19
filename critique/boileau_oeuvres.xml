@@ -8,7 +8,7 @@
     <fileDesc>
       <titleStmt>
         <title>Œuvres diverses [extraits]</title>
-        <author key="Boileau, Nicolas (1636-1711)">Nicolas Boileau</author>
+      	<author key="Boileau, Nicolas (1636-1711)" ref="https://data.bnf.fr/fr/12040544/nicolas_boileau/">Nicolas Boileau</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>

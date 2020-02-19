@@ -8,7 +8,7 @@
         <fileDesc>
             <titleStmt>
                 <title>Vie de l’auteur (<hi rend="i">Les Œuvres de Monsieur de Molière</hi>) [graphies originales]</title>
-                <author key="Bruzen de La Martinière, Antoine-Augustin (1662-1746)">Antoine-Augustin Bruzen de La Martinière</author>
+            	<author key="Bruzen de La Martinière, Antoine-Augustin (1662-1746)" ref="https://data.bnf.fr/fr/15302117/antoine-augustin_bruzen_de_la_martiniere/">Antoine-Augustin Bruzen de La Martinière</author>
             </titleStmt>
             <editionStmt>
                 <edition>OBVIL</edition>

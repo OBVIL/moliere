@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml">
-<?xml-model href="../anecdotes/anecdotes.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../anecdotes/anecdotes.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<!--odt2tei: 2015-03-17T11:09:17+01:00-->
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Molière et Bourdaloue</title>
-        <author key="Veuillot, Louis (1813-1883)">Louis Veuillot</author>
+      	<author key="Veuillot, Louis (1813-1883)" ref="https://data.bnf.fr/fr/11928103/louis_veuillot/">Louis Veuillot</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
@@ -83,7 +82,7 @@
             papale ».</quote> L’œuvre de Molière dut prouver suffisamment aux enfants spirituels
           d’Elisabeth que le Pape est un chef de bandits, que le cardinal Wiseman fut un traître ;
           que les Newman, les Manning, les Faber, tous les nouveaux convertis, voulaient prendre le
-          bien et la femme de leur <pb n="3" xml:id="p3"/> prochain, crimes jusqu’alors inconnus
+          bien et la femme de leur <pb n="3" xml:id="p3"/>prochain, crimes jusqu’alors inconnus
           dans la loyale Angleterre.</p>
         <p>En quoi pourrait autrement les intéresser cette prétendue comédie, si longue et si fausse
           quand le vivant esprit de la langue française n’y est plus ? J’ai vu pour la première fois
@@ -96,7 +95,7 @@
           qui font cela tous les jours, sans eau bénite. Si le personnage était un médecin, un
           précepteur, un créateur de commandites, un <hi rend="i">intime</hi> quelconque, on ne
           supporterait pas l’invraisemblance et la monotonie de l’histoire.</p>
-        <p>Tartufe se dit dévot, toute la popularité de <pb n="4" xml:id="p4"/> l’ouvrage est là.
+        <p>Tartufe se dit dévot, toute la popularité de <pb n="4" xml:id="p4"/>l’ouvrage est là.
           C’est l’agrément qui subjugue le vulgaire. En considération de cet agrément, le petit
           nombre des bons juges est gagné. Tout passe, tout est bon, tout est vrai, les critiques
           perdent leur temps. <quote>« L’effroi des faux dévots lorsque Tartufe parut, dit un
@@ -150,7 +149,7 @@
           Bourdaloue. Après quelques sévérités apparentes pour le comédien, dont il confesse que
             <quote>« la vie et les mœurs ne sont pas exactement conformes à tous les principes de la
             religion, de la famille et de la propriété, »</quote> il finit cependant par le mettre
-          au-dessus du religieux que l’aveu unanime de <pb n="8" xml:id="p8"/> la postérité a placé
+          au-dessus du religieux que l’aveu unanime de <pb n="8" xml:id="p8"/>la postérité a placé
           dans le grand siècle au premier rang des grands caractères. Il conclut que le ferme
           prédicateur de l’Évangile fut plus courtisan que l’auteur <hi rend="i">d’Amphitryon</hi> !
           Tel est l’art de ces sages. Ils consentent à se priver de glorifier toujours et en tout le
@@ -162,7 +161,7 @@
         <p>Il y a déjà quelques années, j’ai voulu dire là-dessus mon sentiment, que je croyais
           appuyé d’assez bonnes autorités. En mon âme et conscience, ayant étudié le personnage, je
           ne trouvais pas qu’il répondit à l’idée que l’on se doit faire d’un homme de bien. Ce fut
-          une protestation comme celle de ces pauvres chrétiens des <pb n="9" xml:id="p9"/> premiers
+          une protestation comme celle de ces pauvres chrétiens des <pb n="9" xml:id="p9"/>premiers
           siècles, qui parfois, à leurs risques et périls, au milieu de la foule idolâtre, allaient
           insulter les idoles, en attendant qu’il plût au Dieu caché de susciter une main assez
           forte pour les jeter bas. Mon travail parut dans l’<hi rend="i">Univers</hi>, et il eut le
@@ -177,7 +176,7 @@
           parler des hommes plus dignes que moi d’être écoulés. On entendra Bossuet ; il n’a pas
           dédaigné de réfuter quelques sophismes médiocres, mais travaillés avec beaucoup d’art par
           Molière lui-même.</p>
-        <p>Dans mon premier travail, je m’étais contenté <pb n="10" xml:id="p10"/> (le nommer
+        <p>Dans mon premier travail, je m’étais contenté <pb n="10" xml:id="p10"/>(le nommer
           Bourdaloue ; dans celui-ci, je m’applique à lui faire la place qu’il mérite, et elle n’est
           pas inférieure à celle de Molière.</p>
         <p>Il existe d’étranges ressemblances et de puissants contrastes entre Molière et
@@ -191,7 +190,7 @@
           ressemblances. La différence des professions indique le contraste, dont le développement
           fournit la matière de cette étude. C’est Bourdaloue qui est le moraliste, le citoyen,
           l’homme de bien. Comme Bossuet, il a combattu Molière, et il nous a donné la plus forte et
-          la <pb n="11" xml:id="p11"/> meilleure critique du <hi rend="i">Tartufe.</hi> Sa vie, si
+          la <pb n="11" xml:id="p11"/>meilleure critique du <hi rend="i">Tartufe.</hi> Sa vie, si
           différente de celle de l’auteur comique, parle plus haut encore que son sermon.
           Présentement il est le vaincu. Sous le règne de Louis-Philippe, lorsque l’on élevait un
           monument public à Molière, l’idée vint de placer la statue de Bourdaloue sur la fontaine
@@ -206,7 +205,7 @@
       </div>
       <div>
         <head>I. <lb/>Vie de Molière</head>
-        <p><pb n="13" xml:id="p13"/> Il existe un petit livre intitulé : <hi rend="i">Notes
+        <p><pb n="13" xml:id="p13"/>Il existe un petit livre intitulé : <hi rend="i">Notes
             historiques sur la vie de Molière</hi>, fort recommandé des libres penseurs. L’auteur
           est M. Bazin, savant et homme d’esprit, dont on a une <hi rend="i">Histoire de Louis
             XIII</hi>, composée avec beaucoup de patience, écrite avec trop de recherche ; en somme,
@@ -214,7 +213,7 @@
           mort en dehors de toute forme de religion. Son <hi rend="i">Histoire de Louis XIII</hi>
           respire le plus tranquille mépris pour la foi catholique. Engagé dès ses débuts dans
           l’école voltairienne, il n’en, sortit point. A part les lazzis et les grossièretés dont
-          les intelligences un peu délicates veulent s’abstenir, il <pb n="14" xml:id="p14"/> s’est
+          les intelligences un peu délicates veulent s’abstenir, il <pb n="14" xml:id="p14"/>s’est
           permis contre l’Église tout ce que peuvent désirer les derniers disciples de Dulaure.
           D’ailleurs très-dévot à Molière, et c’est par dévotion qu’il a écrit ses <hi rend="i"
             >Notes.</hi></p>
@@ -235,7 +234,7 @@
           quelques jeunes fils comme lui, planta là ses études, sa famille, et s’enrôla comédien. La
           nature l’y poussait sans doute, une belle passion le décida. Ses deux principaux
           compagnons, les frères Béjart, avaient une sœur nommée Madeleine, fille de vingt-sept ans,
-            <pb n="15" xml:id="p15"/> qui n’en était plus à ses débuts. Cette <hi rend="i"
+            <pb n="15" xml:id="p15"/>qui n’en était plus à ses débuts. Cette <hi rend="i"
             >dessalée</hi>, pour parler comme Georges Dandin, devint la maitresse du novice, et les
           deux frères n’en furent que davantage ses amis. Voilà l’entrée en scène du prince de nos
           moralistes. Après une année des sais malheureux dans la capitale, les Béjart virent qu’il
@@ -267,7 +266,7 @@
             aurons beau statuer qu’elle ne l’est pas ; au lieu de la réhabiliter, nous ne ferons que
             nous avilir nous-mêmes. Qu’est-ce que le talent du comédien ? L’art de se contrefaire,
             de revêtir un autre caractère que le sien, de paraître différent de ce qu’on est, de se
-            passionner <pb n="17" xml:id="p17"/> de sang-froid, de dire autre chose que ce qu’on
+            passionner <pb n="17" xml:id="p17"/>de sang-froid, de dire autre chose que ce qu’on
             pense aussi naturellement que si on le pensait réellement, et d’oublier enfin sa propre
             face, à force de prendre celle d’autrui. Qu’est-ce que la profession du comédien ? Un
             métier par lequel il se donne en représentation pour de l’argent, se soumet à
@@ -283,7 +282,7 @@
           cause de son nom. Bossuet, appuyé sur saint Jean Chrysostome, dit plus en moins de mots.
           Il signale la vraie cause du déshonneur de la profession comique, dans cette libérale
           famille du Christ qui ne méprise ni le serf, ni l’esclave, ni le pécheur : le comédien est
-          rejeté parce que lui-même rejette <pb n="18" xml:id="p18"/> la dignité chrétienne. Écoutez
+          rejeté parce que lui-même rejette <pb n="18" xml:id="p18"/>la dignité chrétienne. Écoutez
           saint Chrysostome :</p>
         <quote>
           <p>« C’est pour vous qu’un chrétien se fait <hi rend="i">bouffon</hi>, c’est pour vous
@@ -317,7 +316,7 @@
           trouve ; et s’il ne le trouve pas, il le rêve et le devine. Dira-t-on qu’un tel personnage
           ne serait point comique ? Alors il faut reléguer bien loin du premier rang la muse comique
           et ceux qu’elle inspire, puisque le véritable honneur, la droite raison, la franche vertu
-            <pb n="20" xml:id="p20"/> ne sont point de leur domaine, et qu’ils ne peuvent divertir
+            <pb n="20" xml:id="p20"/>ne sont point de leur domaine, et qu’ils ne peuvent divertir
           et corriger les hommes qu’à la condition de ne leur jamais présenter d’honnêtes gens.</p>
         <p>Mais ces pensées se présenteront plus tard. Achevons la biographie de Molière.</p>
         <p>Après treize ans de courses et d’aventures, âgé de trente-sept ans, il revint à Paris,
@@ -339,7 +338,7 @@
           <l>Qu’ils reçoivent du rare honneur</l>
           <l>De jouer devant un tel Seigneur.</l>
        </quote>
-        <p><pb n="21" xml:id="p21"/> Molière, à trente-sept ans, n’était encore qu’un acteur
+        <p><pb n="21" xml:id="p21"/>Molière, à trente-sept ans, n’était encore qu’un acteur
           médiocre, au moins dans le genre tragique, malgré son obstination à chausser le cothurne ;
           un auteur peu fécond, un satirique très-prudent. On le loue beaucoup de sa hardiesse.
           Bientôt nous le verrons, en effet, terriblement hardi. Mais pour oser, il attendait
@@ -369,7 +368,7 @@
             commençait à faire jour, on écrivit que le ciel était gros de lumière, qu’un souris
             dédaigneux était un bouillon d’orgueil. »</quote> Ces plaisanteries de gens du monde qui
           jouaient avec la langue étaient assez innocentes, et l’on applaudit présentement sur le
-          théâtre même de Molière des gentillesses qui ne les <pb n="23" xml:id="p23"/> valent
+          théâtre même de Molière des gentillesses qui ne les <pb n="23" xml:id="p23"/>valent
           point. Souhaitons que la préciosité des petits journaux, des coulisses et des tabagies, ne
           fasse pas plus de ravages que n’en a fait la préciosité des ruelles. Bret, néanmoins,
           ajoute sur un ton épique : <quote>« Il était essentiel d’arrêter celle contagion… Il était
@@ -402,7 +401,7 @@
           c’est-à-dire un envieux ; son rire a l’éclat strident de la haine. Après l’échec de <hi
             rend="i">Dom Garcie de Navarre</hi>, Molière, comme acteur et comme auteur, renonça
           définitivement aux visées héroïques ; mais l’on vit de plus en plus dans ses œuvres la
-          trace chagrine d’un cœur irrité contre <pb n="25" xml:id="p25"/> la noblesse, contre la
+          trace chagrine d’un cœur irrité contre <pb n="25" xml:id="p25"/>la noblesse, contre la
           décence et contre le devoir.</p>
         <p>Les grands ouvrages de Molière sont tous postérieurs à la chute de <hi rend="i">Dom
             Garcie.</hi> Revenu sur un terrain où il semblait ne pouvoir faire un faux pas, son
@@ -422,7 +421,7 @@
         <p>Mazarin était mort ; Louis XIV, âgé de vingt-trois ans, avait pris possession de son
           royaume :</p>
         <quote>
-          <p>« Ce fut dans les premiers temps qui suivirent <pb n="26" xml:id="p26"/> cette prise de
+          <p>« Ce fut dans les premiers temps qui suivirent <pb n="26" xml:id="p26"/>cette prise de
             possession que se manifesta, de la part du prince pour le poêle, quelque chose de plus
             qu’une protection dédaigneuse et frivole, un certain mouvement d’affection intelligent,
             prompt comme la sympathie, durable autant que l’égoïsme. Du moment où ces deux hommes,
@@ -457,7 +456,7 @@
             vengeance et craignant le désaveu. Un caprice, <hi rend="i">cette fois éclairé</hi>, de
             la puissance souveraine lui en avait communiqué ce qui donne la confiance et la force ;
             son talent lui fournissait le reste. A vrai dire, il y a de Louis XIV deux créations du
-            même <pb n="28" xml:id="p28"/> temps et du même genre, Colbert et Molière.</p>
+            même <pb n="28" xml:id="p28"/>temps et du même genre, Colbert et Molière.</p>
           <p>« Il est facile de trouver dans les œuvres de celui-ci la trace de cette impulsion
             donnée à son génie par un pouvoir qui <hi rend="i">l’excite et l’autorise.</hi> Jusqu’au
             jour où Molière trouve un protecteur dans Louis XIV, nous pourrions presque nous
@@ -475,7 +474,7 @@
               >Tartufe.</hi> »</p>
        </quote>
         <p>Toute la vie littéraire de Molière, à partir de 1601, démontre la parfaite exactitude de
-          ces <pb n="29" xml:id="p29"/> appréciations. Bazin n’est pas un ennemi, au contraire.
+          ces <pb n="29" xml:id="p29"/>appréciations. Bazin n’est pas un ennemi, au contraire.
           Homme de lettres et jaloux de l’honneur de la profession, Bazin ne voit, dans le traité
           qu’il expose, rien que de très glorieux pour la puissance littéraire. Il a grand soin de
           relever la fidélité du roi à remplir les conditions du marché ; et, ce qui fait un
@@ -507,7 +506,7 @@
           aujourd’hui même plus florissante que jamais. Molière ne fit pas moins que les autres, et
           fit même un peu plus. On disait volontiers à Louis XIV (et l’amour-propre national y
           trouvait, en quelque manière, son compte) qu’il était le plus grand des monarques :
-          Molière <pb n="31" xml:id="p31"/> lui dit qu’il en est le plus beau, le compare
+          Molière <pb n="31" xml:id="p31"/>lui dit qu’il en est le plus beau, le compare
           formellement à Dieu<note place="bottom"><p>« Les rois éclairés comme vous, n’ont pas
               besoin qu’on leur marque ce que l’on souhaite, <hi rend="i">ils voient</hi> COMME
               DIEU, <hi rend="i">ce qu’il nous faut</hi>, et <hi rend="i">savent mieux que nous ce
@@ -525,7 +524,7 @@
           aujourd’hui. Il avait un certain goût pour le faste et pouvait amplement le satisfaire ;
           il était somptueusement meublé, somptueusement servi ; il traitait, prêtait, donnait en
           grand seigneur. Mais tout cela était mêlé de détresses intimes contre lesquelles la faveur
-          royale ni la faveur du public ne pouvaient rien. <pb n="32" xml:id="p32"/> En 1662,
+          royale ni la faveur du public ne pouvaient rien. <pb n="32" xml:id="p32"/>En 1662,
           lorsqu’il venait de faire représenter <hi rend="i">Sganarelle</hi> et l’<hi rend="i">École
             des Maris</hi>, Molière, âgé de quarante ans, épousa une toute jeune fille, élevée pour
           devenir l’une des actrices de son théâtre, et choisie dans une famille à lui fort connue.
@@ -541,7 +540,7 @@
           devait être fille de Madeleine Béjart et d’un sieur de Modène, qu’on vit plus tard rentrer
           dans la famille comme parrain du second enfant de l’auteur du <hi rend="i">Tartufe.</hi>
           Mais, d’un autre côté, Bazin prouve mieux encore, et par des hypothèses plus nettes, qu’il
-          y a là, de quelque façon que l’on y regarde, un fait <pb n="33" xml:id="p33"/> assez
+          y a là, de quelque façon que l’on y regarde, un fait <pb n="33" xml:id="p33"/>assez
           sauvage. Lorsque Molière s’avisa de vouloir épouser la Grésinde, on s’aperçut qu’elle
           n’avait point d’état civil. Il fallut lui en faire un. Les Béjarts en vinrent à bout par
           un tour digne des comédies du temps. Laissons parler l’ami Bazin :</p>
@@ -557,7 +556,7 @@
             à faire feu son mari père de l’enfant né en 1645 ; ce qui lui donnait, à elle, une
             fécondité de vingt-huit ans, ce qui assurait à sa petite-fille, devenue sa fille, un
             état légitime, un bon mari, une honnête famille. Voilà, quoique nous n’aimions pas à
-            faire des conjectures, comme il nous semble que les <pb n="34" xml:id="p34"/> choses ont
+            faire des conjectures, comme il nous semble que les <pb n="34" xml:id="p34"/>choses ont
             dû se passer. Et cette hypothèse, si l’on veut, qui a l’avantage de ne blesser aucun
             fait, nous semble confirmée par celui-ci : que le second enfant de Molière, né en 1665,
             eut pour parrain ce même sieur de Modène, qu’on devrait autrement croire bien loin des
@@ -576,7 +575,7 @@
         <p>L’apologie est bonne ! Ce mariage plongeait Molière dans l’ignominie jusqu’au cou. Mais
           du moins il ne changeait pas ses habitudes.</p>
         <p>Molière était alors vraiment très-occupé : il travaillait au <hi rend="i">Tartufe</hi>,
-          pour le plus grand <pb n="35" xml:id="p35"/> progrès de la foi et des mœurs. Suivant les
+          pour le plus grand <pb n="35" xml:id="p35"/>progrès de la foi et des mœurs. Suivant les
           commentateurs et les biographes, il se peignait lui-même dans cette pièce sous les traits
           de Cléante, l’homme bon, juste, tolérant, le « dévot de cœur » qui connaîtra vraie
           religion, qui pratique la vraie morale. Et si quelque bruit des propos que son étrange
@@ -645,7 +644,7 @@
           deux avaient refusé de venir, qu’un troisième n’arriva qu’après la mort. Une relation,
           postérieure de vingt ou trente années, rapporte que Molière logeait dans sa maison, par
           charité, deux religieuses <quote>« de celles qui viennent ordinairement quêter à Paris
-            pendant le carême. »</quote><pb n="39" xml:id="p39"/> Ces religieuses, ajoute la
+            pendant le carême. »</quote><pb n="39" xml:id="p39"/>Ces religieuses, ajoute la
           relation, <quote>« lui donnèrent tout le secours édifiant que l’on pouvait attendre de
             leur charité et il leur fit paraître tous les sentiments d’un bon chrétien et toute la
             résignation qu’il devait à la volonté du Seigneur. »</quote> Ce fut entre leurs bras
@@ -661,7 +660,7 @@
           condamnait jusqu’à la noble passion du Cid ; un autre, nommé Quinault, qui faisait
           pénitence des applaudissements dont il avait été l’objet ; un autre, nommé Jean Racine,
           qui regrettait d’avoir écrit <hi rend="i">Bérénice</hi> et <hi rend="i">Phèdre</hi> ; et
-          quand Racine exprimait ce regret, <pb n="42" xml:id="p42"/> il n’était pas tellement en
+          quand Racine exprimait ce regret, <pb n="42" xml:id="p42"/>il n’était pas tellement en
           décadence qu’il ne pût faire encore <hi rend="i">Esther</hi> et <hi rend="i"
           >Athalie.</hi></p>
         <p>Racine avait trente-huit ans lorsqu’il renonça à travailler pour le théâtre. Il voulut
@@ -678,7 +677,7 @@
             offensant Dieu ; il en aurait fait une pénitence publique s’il lui eût été permis.
             N’étant plus retenu à la cour que par ses charges et non par aucune passion, il
             s’appliqua aux devoirs de la piété avec d’autant plus de soin qu’il éprouvait plus de
-            douleur de n’y avoir pas <pb n="43" xml:id="p43"/> été toujours fidèle… Passants,
+            douleur de n’y avoir pas <pb n="43" xml:id="p43"/>été toujours fidèle… Passants,
             joignez vos prières aux larmes de sa pénitence ! »</quote> On dira que Pleine était
           devenu janséniste et que Tronchon ne fut jamais autre chose ; mais Quinault ne l’était
           pas, et Bossuet écrit qu’il l’a vu cent fois <quote>« déplorer toutes ces fausses
@@ -711,7 +710,7 @@
           le choix des amusements publics ! Mais nous saurons tout à l’heure à qui il en veut.</p>
         <p><quote>« Puisque l’on doit, continue-t-il, discourir des choses et non pas des mots, et
             que la plupart des contrariétés viennent de ne se pas entendre et d’envelopper dans un
-            même mot des <pb n="45" xml:id="p45"/> choses opposées, il ne faut qu’ôter le voile de
+            même mot des <pb n="45" xml:id="p45"/>choses opposées, il ne faut qu’ôter le voile de
             l’équivoque et regarder la comédie en soi pour voir si elle est condamnable. On
             connaîtra sans doute que, n’étant autre qu’un poème ingénieux, qui, par des leçons
             agréables, reprend les défauts des hommes, on ne saurait la censurer sans injustice. Et
@@ -743,7 +742,7 @@
           corrompue. <quote>« Mais, ajoute-t-il, qu’est-ce que dans le monde on ne corrompt point
             tous les jours, et quelle est la chose innocente où les hommes ne puissent porter du
             crime ? La médecine ?… Et cependant il y a eu des temps où elle s’est rendue odieuse, et
-            souvent on en a fait un <pb n="47" xml:id="p47"/> art d’empoisonner les hommes. — La
+            souvent on en a fait un <pb n="47" xml:id="p47"/>art d’empoisonner les hommes. — La
             philosophie ?.. Et pourtant on n’ignore pas que souvent on l’a détournée de son emploi,
             et qu’on l’a occupée publiquement à soutenir l’impiété. — Les choses mêmes les plus
             saintes ?… Nous voyons des scélérats qui, tous les jours, abusent de la piété et la font
@@ -759,7 +758,7 @@
           assure que cette comédie qui a été censurée <quote>« en de certains temps »</quote> n’est
           point du tout la comédie qu’il veut défendre ; et il se faut bien garder de confondre
           celle-là avec celle-ci. Ce sont deux personnes de qui les mœurs sont tout à fait opposées,
-          et qui n’ont rien <pb n="48" xml:id="p48"/> de commun que la ressemblance du nom.
+          et qui n’ont rien <pb n="48" xml:id="p48"/>de commun que la ressemblance du nom.
             <quote>« Ce serait une injustice épouvantable de condamner Olympe, qui est femme de
             bien, parce qu’il y a une Olympe qui a été une débauchée. »</quote> Qui ne voit en effet
           que l’iniquité serait criante <quote> ? « De semblables arrêts, sans doute, ajoute-t-il
@@ -815,7 +814,7 @@
           application si directe et qui les tournait plus galamment. Je n’y vois point cette
           instruction et cette honnêteté de la comédie, dont on nous parle maintenant d’un ton trop
           fier. Est-ce l’Olympe vertueuse ou l’Olympe débauchée qui tient un pareil langage ? Mais
-          voici quelque chose encore de plus caractérisé. <pb n="51" xml:id="p51"/> Louis XIV
+          voici quelque chose encore de plus caractérisé. <pb n="51" xml:id="p51"/>Louis XIV
           commençait à ne plus contenir ses passions. Il avait récemment exilé de la cour la
           duchesse de Navailles, qui s’était opposée à son commerce avec une des filles d’honneur de
           la jeune reine, et personne n’ignorait ses empressements pour Mlle de Lavallière. Or, dans
@@ -845,7 +844,7 @@
           <l>Devant mes yeux, Seigneur, a passé votre enfance,</l>
           <l>Et j’ai, de vos vertus, vu fleurir l’espérance ;</l>
           <l>Mes regards observaient en vous des qualités</l>
-          <l><pb n="52" xml:id="p52"/> Où je reconnaissais le sang dont vous sortez ;</l>
+          <l><pb n="52" xml:id="p52"/>Où je reconnaissais le sang dont vous sortez ;</l>
           <l>J’y découvrais un fond d’esprit et de lumière ;</l>
           <l>Je vous trouvais bien fait, l’air grand et l’âme fière ;</l>
           <l>Votre coeur, votre adresse éclataient chaque jour :</l>
@@ -872,7 +871,7 @@
           <l>Que mon cœur, <hi rend="i">aux brillants</hi> d’une telle victoire</l>
           <l>Vit, de sa liberté, s’évanouir la gloire.</l>
        </quote>
-        <p>Cependant, le prince craint encore de se <pb n="53" xml:id="p53"/> déclarer. Le commode
+        <p>Cependant, le prince craint encore de se <pb n="53" xml:id="p53"/>déclarer. Le commode
           Arbate s’évertue à le faire triompher de sa timidité : <quote>« Quoi, dit-il,</quote></p>
         <quote>
           <l>… Nuls empressements, paroles ni soupirs,</l>
@@ -904,7 +903,7 @@
                   >Bérénice</hi>, donnait cependant d’autres conseils que ceux de
               Molière.</p></note>....</l>
        </quote>
-        <p><pb n="54" xml:id="p54"/> Quelle poésie ! Il faut rendre justice au génie de Molière : il
+        <p><pb n="54" xml:id="p54"/>Quelle poésie ! Il faut rendre justice au génie de Molière : il
           s’est ici refusé au métier qu’on lui imposait, et n’a su jeter que de lourds haillons sur
           les misères de la pensée. Ces pitoyables vers, néanmoins, expliquent bien le crédit
           persévérant du poète auprès du monarque ; mais en même temps ils doivent nuire à sa
@@ -919,7 +918,7 @@
             fréquenter que le théâtre ; et, si l’on veut blâmer toutes les choses qui ne regardent
             pas directement Dieu et notre salut, il est certain que la comédie en doit être ; et je
             ne trouve point mauvais qu’elle soit condamnée avec le reste : mais supposé, comme il
-            est vrai, que les <pb n="55" xml:id="p55"/> exercices de la piété souffrent des
+            est vrai, que les <pb n="55" xml:id="p55"/>exercices de la piété souffrent des
             intervalles, et que les hommes aient besoin de divertissement, je soutiens qu’on ne leur
             en peut trouver un qui soit plus innocent que la comédie. »</quote></p>
         <p>Cette analyse fidèle de l’apologie de la comédie par Molière ne serait pas complète si
@@ -935,7 +934,7 @@
             rend="i">Scaramouche</hi>, avait demandé pourquoi les gens qui se scandalisaient si fort
           de la pièce de Molière ne disaient rien de celle-ci, qui lui paraissait bien mériter
           autant de courroux. A quoi un grand prince (Condé) répondit : <quote>« La raison de cela,
-            c’est que la comédie de Scaramouche <pb n="56" xml:id="p56"/> joue le ciel et la
+            c’est que la comédie de Scaramouche <pb n="56" xml:id="p56"/>joue le ciel et la
             religion dont ces messieurs ne se soucient point : mais celle de Molière les joue
             eux-mêmes ; c’est ce qu’ils ne peuvent souffrir. »</quote> La dénonciation est assez
           claire. Pour Molière, la comédie italienne — la concurrence — est manifestement l’Olympe
@@ -982,7 +981,7 @@
             >Tartufe</hi>, on voit qu’il l’a lue et qu’il en sent l’impertinence.</p>
         <p>Ce qu’il dit de Molière est une réponse directe à quelques assertions de l’illustre
           comédien : <quote>« On répond que le théâtre purifie l’amour ; la scène, toujours honnête
-            dans l’état où elle <pb n="59" xml:id="p59"/> parait aujourd’hui, ôte à celte passion ce
+            dans l’état où elle <pb n="59" xml:id="p59"/>parait aujourd’hui, ôte à celte passion ce
             qu’elle a de grossier et d’illicite ; et ce n’est, après tout, qu’une innocente
             inclination pour la beauté, qui se termine au nœud conjugal. Du moins donc, selon ces
             principes, il faudra bannir du milieu des chrétiens les prostitutions dont les comédies
@@ -998,7 +997,7 @@
             mourut peu d’heures après, et passa des plaisanteries du théâtre, parmi lesquelles il
             rendit presque le dernier soupir, au tribunal de Celui qui dit : <hi rend="i">Malheur à
               vous qui riez, car vous pleurerez</hi> ! Ceux qui ont laissé sur la terre de plus
-            riches <pb n="60" xml:id="p60"/> monuments n’en sont pas plus à couvert de la justice de
+            riches <pb n="60" xml:id="p60"/>monuments n’en sont pas plus à couvert de la justice de
             Dieu : ni les beaux vers ni les beaux chants ne servent de rien devant lui ; et il
             n’épargnera pas ceux qui, en quelque manière que ce soit, auront entretenu la
             convoitise. Ainsi vous n’éviterez pas son jugement, qui que vous soyez, vous qui plaidez
@@ -1017,7 +1016,7 @@
             parure porte à la licence, <hi rend="i">ornatu meretricio</hi>, qui enlèvent les cœurs
             des jeunes gens, qui les engagent par les douceurs de leurs lèvres, par leurs
             entretiens, par leurs chants, par leurs récits. N’est-ce rien que d’armer des
-            chrétiennes contre des âmes faibles. <pb n="61" xml:id="p61"/> de leur donner de <hi
+            chrétiennes contre des âmes faibles. <pb n="61" xml:id="p61"/>de leur donner de <hi
               rend="i">ces flèches qui percent les cœurs</hi>, de les immoler à l’incontinence
             publique d’une manière plus dangereuse qu’on ne le ferait dans les lieux qu’on n’ose
             nommer ? Quelle mère, je ne dis pas chrétienne, mais tant soit peu honnête, n’aimerait
@@ -1051,7 +1050,7 @@
           d’esclaves.</p>
         <p>Bossuet continue. Passant de l’acteur au spectateur, il examine comment la corruption se
           forme dans le cœur de ce dernier. Il décrit pas à pas, fibre par fibre, l’origine, les
-          progrès, les <pb n="63" xml:id="p63"/> ravages du mal. Abrégeons cette belle page de
+          progrès, les <pb n="63" xml:id="p63"/>ravages du mal. Abrégeons cette belle page de
           philosophie chrétienne :</p>
         <quote>
           <p>« Qui saurait connaître ce que c’est en l’homme qu’un certain fond de joie sensuelle,
@@ -1069,7 +1068,7 @@
           <p>« Saint Jacques nous a expliqué ces deux états de noire cœur : <hi rend="i">Chacun de
               nous est tenté par sa concupiscence qui l’attire ; quand la concupiscence a conçu,
               elle enfante le péché ; quand le péché est consommé, il produit la mort.</hi> De ce
-              <pb n="64" xml:id="p64"/> que le péché entièrement formé par un plein consentement de
+              <pb n="64" xml:id="p64"/>que le péché entièrement formé par un plein consentement de
             la volonté engendre seul la mort, il ne s’ensuit pas que les commencements soient
             innocents : pour peu qu’on adhère à ces premières complaisances des sens émus, on aide
             le mal à éclore ; qui saurait faire sentir à un chrétien la première plaie de son cœur
@@ -1084,7 +1083,7 @@
             les trois premières sont l’ouvrage du Créateur : mais c’est au milieu de cet ouvrage de
             Dieu que l’attache forcée au plaisir sensible, c’est-à-dire la concupiscence introduite
             par le péché, établit son siège. C’est celle-là qui est l’ennemie de la sagesse, la
-            source de <pb n="65" xml:id="p65"/> la corruption, la mort des vertus ; les cinq sens
+            source de <pb n="65" xml:id="p65"/>la corruption, la mort des vertus ; les cinq sens
             sont cinq ouvertures par où elle prend son cours sur les objets et par où elle en reçoit
             les impressions ; mais elle est la même partout, parce que c’est partout le même attrait
             du plaisir, la même indocilité des sens, la même captivité et la même attache du cœur
@@ -1100,7 +1099,7 @@
             sent plus, parce qu’elles ont tourné en habitude ; ou bien qu’elles sont extrêmes et
             tiennent déjà quelque chose de la mort, où l’on ne sent rien. Lorsqu’on blâme les
             comédies comme dangereuses, les gens du monde disent tous les jours qu’ils ne sentent
-              <pb n="66" xml:id="p66"/> point le danger. Poussez-les un peu plus avant, ils vous en
+              <pb n="66" xml:id="p66"/>point le danger. Poussez-les un peu plus avant, ils vous en
             diront autant des nudités, et non-seulement de celles des tableaux, mais encore de
             celles des personnes. Ils insultent aux prédicateurs qui en reprennent les femmes,
             jusqu’à dire que les dévêts se confessent par là et trop faibles et trop sensibles :
@@ -1118,7 +1117,7 @@
           qui l’écoutent le dommage et le péril des âmes. Ses arguments paraîtraient de peu de poids
           aujourd’hui ; mais il ne serait pas embarrassé d’en tirer des conséquences politiques et
           économiques qui toucheraient davantage. Le péché des sens ne marche guère sans une
-          compagne redoutable : <pb n="67" xml:id="p67"/> c’est la ruine matérielle du pécheur,
+          compagne redoutable : <pb n="67" xml:id="p67"/>c’est la ruine matérielle du pécheur,
           laquelle de proche en proche donne occasion à tant d’autres ruines. Sans faire un cours
           d’économie sociale à propos de la comédie, on peut entrevoir tout ce que le goût et
           l’habitude du théâtre jette de perturbations dans la famille, et jusque dans l’État. Le
@@ -1134,7 +1133,7 @@
           que ceux qui vont étudier la morale dans les pièces de Molière n’en sortent pas plus
           mauvais : de bonne foi, en sortent-ils meilleurs ? On a toujours vu que les beaux yeux de
           la soubrette et de la jeune première touchaient ces amateurs de la sagesse
-          incomparablement plus que la moralité <pb n="68" xml:id="p68"/> de la comédie, d’ailleurs
+          incomparablement plus que la moralité <pb n="68" xml:id="p68"/>de la comédie, d’ailleurs
           enveloppée et difficile à saisir.</p>
         <p>Il ne faut pas prendre pour sagesse une teinte amère de misanthropie qui reste comme le
           dernier goût de la représentation. Haïr et mépriser les hommes, ce n’est pas encore aimer
@@ -1149,7 +1148,7 @@
           flétrie, pleine de corruptions incurables ; une œuvre manquée ou grotesque, ou même
           méchante, qu’il faut railler pour toute consolation et tout refuge. Ah ! ceux qui savent
           voir le fond du cœur humain ne rient pas et ne désespèrent pas ! Ils ne s’arrêtent pas à
-          moitié route pour bafouer cruellement tant de <pb n="69" xml:id="p69"/> misères ; ils les
+          moitié route pour bafouer cruellement tant de <pb n="69" xml:id="p69"/>misères ; ils les
           illuminent d’un rayon de vérité, devant lequel souvent elles se dissolvent comme des
           fantômes. Et s’ils nous laissent aussi une douleur, ce n’est pas cette douleur sans vertu,
           sans vergogne et sans fruit, dont le ricanement ne nous conseille que l’égoïsme ou la
@@ -1169,7 +1168,7 @@
           <l>Et mille fois un fat finement exprimé,</l>
           <l>Méconnaît le portrait sur lui-même formé.</l>
        </quote>
-        <p><pb n="70" xml:id="p70"/> Tout restera donc comme il est, sinon que Damis épouse
+        <p><pb n="70" xml:id="p70"/>Tout restera donc comme il est, sinon que Damis épouse
           Henriette. De là, que puis-je conclure, moi qui ai pris un billet de parterre pour étudier
           la morale et la recevoir toute vive des lèvres de Mlle Molière ou de Mlle Béjart ? Je
           conclus que je suis dans le monde entouré de fous, de niais, d’égoïstes, de scélérats,
@@ -1199,7 +1198,7 @@
             ce serait comme si je jouais la tragédie : je ne ferais pas mes frais ! »</quote></p>
         <p>C’est la dernière raison qui condamne le théâtre. On a toujours vu d’honnêtes gens se
           préoccuper de cette chimère : Existe-t-il un moyen de purifier le théâtre et de le rendre
-          utile aux mœurs ? Plusieurs ont fait là-dessus de gros <pb n="72" xml:id="p72"/> livres,
+          utile aux mœurs ? Plusieurs ont fait là-dessus de gros <pb n="72" xml:id="p72"/>livres,
           dont aucun n’a obtenu le succès du moindre vaudeville où l’auteur a su produire des
           actrices suffisamment jolies et suffisamment effrontées. Une question ordinairement agitée
           entre ces purificateurs, est de savoir qui porte le plus de préjudice à la morale
@@ -1215,7 +1214,7 @@
           l’obscénité. C’est pourquoi le Théâtre-Français a pris l’usage de donner toujours une
           pièce comique ou bouffonne après la tragédie : <quote>« On vient de jouer <hi rend="i"
               >Polyeucte</hi> ; le théâtre change ; on joue <hi rend="i">l’École des Maris</hi>.
-            Cette satire du mariage achèvera-t-elle les beaux <pb n="73" xml:id="p73"/> sentiments
+            Cette satire du mariage achèvera-t-elle les beaux <pb n="73" xml:id="p73"/>sentiments
             que la vertu de Pauline aurait commencé d’inspirer ? On vient de représenter <hi
               rend="i">Athalie</hi>. J’ai vu la maison du Seigneur, les livres de la Loi, les
             cérémonies du sacre des rois de Judée. J’ai la tête remplie de nouvelles prophéties des
@@ -1235,7 +1234,7 @@
         <quote>
           <l>De Polyeucte la belle âme</l>
           <l>Aurait faiblement attendri ;</l>
-          <l><pb n="74" xml:id="p74"/> Et les vers chrétiens qu’il déclame</l>
+          <l><pb n="74" xml:id="p74"/>Et les vers chrétiens qu’il déclame</l>
           <l>Seraient tombés dans le décri,</l>
           <l>N’eût été l’amour de sa femme</l>
           <l>Pour ce païen son favori,</l>
@@ -1259,7 +1258,7 @@
           mauvais. Les uns et les autres bravent également toute dialectique, toute expérience,
           toute autorité. Il y en a d’une troisième catégorie : ce sont les philosophes et les
           politiques, qui avoueront volontiers que le goût du théâtre est un mal ; mais c’est un mal
-          agréable, <pb n="75" xml:id="p75"/> ils l’érigent en mal nécessaire. Ils établissent une
+          agréable, <pb n="75" xml:id="p75"/>ils l’érigent en mal nécessaire. Ils établissent une
           censure pour mettre le gouvernement, quelquefois un peu la religion, à couvert des
           brocards de la scène, et ils laissent aux mœurs le soin de se tirer d’affaire comme elles
           pourront. Ces trois partis forment à peu près tout le monde ; la chaire de la morale
@@ -1278,7 +1277,7 @@
           ni aucune ignorance, ni aucune férocité. Confiée à des orateurs inhabiles et timides, elle
           a rempli le monde ; <hi rend="i">in omnem terram exivit sonus eorum</hi>. Pour ne parler
           que de son moindre bienfait, elle a créé la plus haute éloquence qui puisse décorer la
-          pensée humaine. Tous les peuples chrétiens, et <pb n="78" xml:id="p78"/> en particulier la
+          pensée humaine. Tous les peuples chrétiens, et <pb n="78" xml:id="p78"/>en particulier la
           France, lui doivent quelques-uns des grands et suprêmes monuments de leur littérature. A
           la France, elle a donné une merveilleuse quantité de chefs-d’œuvre, peut-être
           incomparables, dans lesquels l’art de convaincre se montre et se déploie avec une majesté
@@ -1293,7 +1292,7 @@
           expressément. Seule éloquence qui fasse véritablement honneur à ceux qui l’écoutent, qui
           se dresse devant les hommes pour les combattre et les vaincre et qui croirait les trahir
           et se déshonorer si elle bornait son ambition à les séduire.</p>
-        <p>L’action de la chaire a toujours été et est <pb n="79" xml:id="p79"/> encore aujourd’hui
+        <p>L’action de la chaire a toujours été et est <pb n="79" xml:id="p79"/>encore aujourd’hui
           en France trop forte et trop publique pour que J’aie besoin d’en retracer même une légère
           esquisse. Par la parole, par cette parole surtout, la France est un soldat plus encore que
           par l’épée. Ses prédicateurs ont le renom de ses hommes de guerre. Ils ont été plus encore
@@ -1358,7 +1357,7 @@
           se scandaliser. Il est vrai cependant qu’au milieu de ces splendeurs où il semblait être
           plus qu’un roi et de ces flatteurs qui n’épargnaient rien pour lui persuader qu’il était
           plus qu’un homme, Louis XIV a reçu, comme homme et comme roi, des leçons que les tribuns
-          modernes auraient craint de <pb n="83" xml:id="p83"/> donner aux fantômes couronnés qu’on
+          modernes auraient craint de <pb n="83" xml:id="p83"/>donner aux fantômes couronnés qu’on
           a vus trembler devant eux. L’esprit de faction insulte les rois pour parvenir à les
           détrôner ; la religion leur fait entendre des vérités austères et quelquefois dures pour
           leur apprendre à se maintenir. Il y a une éloquence de parti qui fait son principal effort
@@ -1377,7 +1376,7 @@
           lorsqu’il s’agirait de l’amuser ; il s’écriait :</p>
         <quote>
           <l>Quand il faut le servir, j’ai du cœur pour le faire,</l>
-          <l><pb n="84" xml:id="p84"/> Mais je ne m’en sens point lorsqu’il faut lui déplaire ;</l>
+          <l><pb n="84" xml:id="p84"/>Mais je ne m’en sens point lorsqu’il faut lui déplaire ;</l>
           <l>Je me fais de son ordre une suprême loi.</l>
        </quote>
         <p>Et Molière, avec tout cela, ne perd aucun de ses droits d’apôtre de la vérité, et de
@@ -1394,7 +1393,7 @@
           les princes à qui elle a été annoncée. Si elle est tombée souvent dans un sol infécond, et
           parmi les épines, on ne peut cependant douter qu’elle a produit des fruits précieux et
           immenses. Bossuet, enseignant à ses auditeurs la manière d’apprendre la parole de Dieu,
-          n’y demande que cette <pb n="85" xml:id="p85"/> bonne volonté qu’on y porte d’ordinaire et
+          n’y demande que cette <pb n="85" xml:id="p85"/>bonne volonté qu’on y porte d’ordinaire et
           que Dieu se plaît à bénir : <quote>« Vous verrez, dit-il, partir quelquefois comme un
             trait de flamme qui viendra tout à coup vous percer le cœur et ira droit aux principes
             de vos maladies. Dieu fait dire quelquefois aux prédicateurs quelque chose de tranchant,
@@ -1409,7 +1408,7 @@
         <p>Louis XIV ne fut pas un saint ; de terribles reproches atteignent sa mémoire. Cependant,
           tout compté, il était chrétien, et du nombre de ces grands rois qui, pour employer encore
           une parole de Bossuet, <quote>« comprennent le sérieux de la religion.</quote> » Entouré
-          de flatteries et de <pb n="86" xml:id="p86"/> séductions, il eut le bon sens de ne point
+          de flatteries et de <pb n="86" xml:id="p86"/>séductions, il eut le bon sens de ne point
           fermer les lèvres sacerdotales et le bonheur de ne point repousser ce glaive de lumière
           qui venait courageusement attaquer son cœur hautain.</p>
         <p>Quelques années après sa mort, un religieux, qui avait prêché neuf stations à la cour et
@@ -1457,7 +1456,7 @@
           déjà qu’il ne semblait pas possible d’y ajouter une perfection plus haute, et qu’en effet
           lui-même, en la perfectionnant, l’a peut-être dépouillée de quelques-uns de ses attraits,
           et lui a certainement ôté un peu de sa prestigieuse saveur. <quote><hi rend="i">La parole
-              de Dieu, disait-il, est un ami qui ne <pb n="89" xml:id="p89"/> flatte
+              de Dieu, disait-il, est un ami qui ne <pb n="89" xml:id="p89"/>flatte
             pas</hi></quote>. Il disait vrai ; il ne flattait pas et on le sentait ami. Il était
           doué d’une physionomie spirituelle, d’un <hi rend="i">air revenant</hi> ; le monde le
           recherchait, et sans se livrer au monde, il ne le fuyait pas ; il avait dans le commerce
@@ -1511,7 +1510,7 @@
           Il fait parler les larmes ; il montre les malheureux, les affamés, les mourants, ces
               <quote><hi rend="i">restes de l’homme</hi>, qui, <hi rend="i">parce qu’ils ne voient
               point de bonté, ne savent plus qu’il y a un Dieu</hi></quote>. Il dénonce au roi les
-          charges publiques et <pb n="92" xml:id="p92"/> le supplie d’en alléger le poids,
+          charges publiques et <pb n="92" xml:id="p92"/>le supplie d’en alléger le poids,
               d’<quote><hi rend="i">épargner la misère</hi> </quote>;<hi rend="i"/> il lui rappelle
           qu’il y a des temps où <quote>l’<hi rend="i">homme juste</hi></quote> ne doit pas demander
               <quote><hi rend="i">tout ce qu’il a droit d’exiger</hi></quote>. Interpellant
@@ -1528,7 +1527,7 @@
             <hi rend="i">Tartufe</hi>, années aussi de Mlle de Lavallière et de M<hi rend="sup">me</hi>de Montespan,
           années de guerre, de victoires, de plaisirs et d’enivrements de toutes sortes, il fait des
           allusions transparentes et sévères aux scandales que donne tout cet orgueil de la vie ; il
-          dit à ce roi triomphant qu’il n’est <pb n="93" xml:id="p93"/> qu’un homme, un homme qui
+          dit à ce roi triomphant qu’il n’est <pb n="93" xml:id="p93"/>qu’un homme, un homme qui
           mourra et qui sera jugé. Dans la littérature, Louis XIV était volontiers traité en Dieu,
           Molière y allait plus rondement que les autres : <quote>« Les rois éclairés comme vous.…
               voient,<hi rend="i">comme Dieu</hi>, ce qu’il nous faut. »</quote> — <quote>« O dieux
@@ -1545,7 +1544,7 @@
           roi conquérant, lui dit : La <quote><hi rend="i">paix par inclination, la guerre par
               nécessité</hi> </quote>;<hi rend="i"/> et il lui souhaite la grâce d’être <quote><hi
               rend="i">toujours juste, toujours pacifique.</hi></quote> Au roi qui veut que tout
-          plie sous son ordre : <pb n="94" xml:id="p94"/> — <quote><hi rend="i">« Faisons la volonté
+          plie sous son ordre : <pb n="94" xml:id="p94"/>— <quote><hi rend="i">« Faisons la volonté
               de Dieu et après il fera la nôtre.</hi> Que l’Évangile soit sur votre tête pour vous
             inspirer l’obéissance ; qu’il soit entre vos mains pour l’imprimer dans tous vos
             sujets. »</quote> — <quote>« Arbitre de l’univers et supérieur même à la fortune, si la
@@ -1578,7 +1577,7 @@
           immobiles de chacun semblent craindre de révéler quelle est la vertu qui manque.</p>
         <p>Il n’était pas donné à Bossuet de vaincre l’ennemi qu’il avait si hardiment signalé et
           qu’il attaqua de nouveau plus d’une fois. La digue qu’il voyait déjà fléchissante fut
-          emportée, le torrent <pb n="96" xml:id="p96"/> déborda. Moins de deux ans après, on en
+          emportée, le torrent <pb n="96" xml:id="p96"/>déborda. Moins de deux ans après, on en
           était à la <hi rend="i">Princesse d’Élide</hi>, et bientôt M<hi rend="sup">me</hi>de Montespan, remplaçant
           Mlle de la Vallière, étalerait le faste de l’adultère à la cour du roi très-chrétien, au
           milieu des adulations des grands et des poètes. Les prédicateurs ne restèrent pas muets.
@@ -1610,7 +1609,7 @@
           s’assoupit, meurt à la grâce, s’ensevelit par ses rechutes, et enfin, corrompue,
               <quote><hi rend="i">elle répand au dehors une contagion mortelle, et elle infecte les
               autres</hi></quote>de son mauvais exemple : <quote><hi rend="i">Jam
-            fœtet.</hi>« Ainsi, un père <pb n="98" xml:id="p98"/> vicieux pervertit sans le vouloir
+            fœtet.</hi>« Ainsi, un père <pb n="98" xml:id="p98"/>vicieux pervertit sans le vouloir
             même ses enfants…  Ainsi, une femme sans conscience dérègle toute une maison… Ainsi, un
             homme libertin et sans religion, abusant de son esprit et débitant de fausses
               maximes,<hi rend="i">suffit pour infecter toute une cour.</hi></quote> — <quote>Ah !
@@ -1628,7 +1627,7 @@
             tendresse et adore opiniâtrement ce qui est la cause visible de tous ses
             malheurs. »</quote> Et, ajoutait Bourdaloue, <quote>« combien l’impureté enfante-t-elle
             d’autres désastres que je passe et que <hi rend="i">je ne puis marquer</hi> ! »
-         </quote>Il disait à ses auditeurs, <pb n="99" xml:id="p99"/> comme épouvanté lui-même des
+         </quote>Il disait à ses auditeurs, <pb n="99" xml:id="p99"/>comme épouvanté lui-même des
           reproches qu’il était contraint de leur adresser : <quote>« Dieu, témoin de mes
             intentions, sait avec quel respect pour vos personnes et avec quel zèle pour votre salut
             je parle aujourd’hui : Dieu a ses vues, et <hi rend="i">il faut espérer</hi> que sa
@@ -1662,7 +1661,7 @@
         <p>On ne saurait plus équitablement juger Louis XIV, et mieux expliquer son caractère et ses
           erreurs. C’est là le vrai de l’homme que l’on vit si violemment orgueilleux et si
           noblement pénitent, si faible et si fort, qui fut si sincère chrétien et trop souvent si
-          mauvais catholique. <pb n="101" xml:id="p101"/> En écoutant la belle paraphrase de saint
+          mauvais catholique. <pb n="101" xml:id="p101"/>En écoutant la belle paraphrase de saint
           Paul par Jean Racine :</p>
         <quote>
           <l>Mon Dieu ! quelle guerre cruelle !</l>
@@ -1680,7 +1679,7 @@
           ce monarque, à tant d’égards admirable, à tant d’égards funeste ; et la brève esquisse que
           l’on vient de lire suffit pour démontrer la frivolité ou la mauvaise foi des historiens
           qui osent dire que <quote>« jamais Louis XIV n’entendit sortir, de la bouche des
-            prédicateurs, un <pb n="102" xml:id="p102"/> conseil, jamais une exhortation à
+            prédicateurs, un <pb n="102" xml:id="p102"/>conseil, jamais une exhortation à
             l’humanité, rien <hi rend="i">enfin autre chose que les accents de
             l’adulation</hi>. »</quote> C’est le savant Sismondi qui parle de la sorte.</p>
         <p>Revenons maintenant un peu en arrière, et étudions à part l’orateur et l’homme de bien
@@ -1811,7 +1810,7 @@
           <l>Que j’admirai le plus et qui m’aima le mieux.</l>
        </quote>
         <p>Le talent de Bourdaloue n’eut point les hésitations, les échecs et les lenteurs de celui
-          de Molière. Il parut tout de suite entier et complet. <pb n="111" xml:id="p111"/> On ne
+          de Molière. Il parut tout de suite entier et complet. <pb n="111" xml:id="p111"/>On ne
           lui connut ni commencement ni décadence, non plus qu’à sa gloire. Il fut soudain en
           possession de l’estime et de l’admiration publiques et elles ne le quittèrent plus.</p>
         <p>L’invitation à la Cour, cette sorte de couronnement de la renommée d’un prédicateur, ne
@@ -1826,7 +1825,7 @@
         <p>Le voilà donc dans cette chaire redoutée, sur laquelle l’opinion a aussi sa puissance. Il
           faut braver cette puissance et cependant tâcher de la gagner, puisque, suivant que
           l’opinion donnera ou refusera sa faveur, la parole de vie, et ici et ailleurs, aura plus
-          ou moins d’efficacité. Le roi <pb n="112" xml:id="p112"/> est là ; là est ce monde hautain
+          ou moins d’efficacité. Le roi <pb n="112" xml:id="p112"/>est là ; là est ce monde hautain
           et agité de la cour ; là sont les oreilles difficiles à charmer, les âmes plus difficiles
           à atteindre. Que dire à ces âmes ? l’ambition les domine et elles ont fait une sorte de
           vœu de conquérir les biens et les honneurs de la terre ! L’orateur promène sur la foule
@@ -1891,7 +1890,7 @@
             s’est trouvée bien au-dessous de vos prétentions. Pourquoi ? Parce qu’en travaillant
             pour le monde, vous avez semé dans une terre ingrate, dont vous n’avez dû vous promettre
             et qui n’a pu vous rapporter que très peu de fruits. Il faudrait un discours entier, si
-            je voulais m’étendre <pb n="116" xml:id="p116"/> sur cette morale, <hi rend="i">dont
+            je voulais m’étendre <pb n="116" xml:id="p116"/>sur cette morale, <hi rend="i">dont
               peut-être vous ne serez que trop persuadés</hi>, et qui, par l’abus que vous en
             pourriez faire, vous servirait de prétexte pour autoriser vos chagrins contre le monde,
             et vos plaintes <hi rend="i">souvent très injustes</hi>… Il est vrai, on voit dans le
@@ -1907,7 +1906,7 @@
             que parce qu’ils étaient insatiables. Et moi, je réponds : Mais pourquoi, malgré les
             faveurs dont le monde les comblait, étaient-ils encore insatiables, sinon parce que
             c’est une vérité reconnue, constante, éternelle, que jamais les faveurs du monde,
-            quelque abondantes que nous <pb n="117" xml:id="p117"/> les concevions, ne pourront
+            quelque abondantes que nous <pb n="117" xml:id="p117"/>les concevions, ne pourront
             rassasier le cœur humain ? »</quote></p>
         <p>A ce tableau, prolongé et repris sous toutes les faces et dans tous ses détails avec une
           inépuisable variété de couleurs, l’orateur oppose la paix, la joie, la félicité des saints
@@ -1923,7 +1922,7 @@
             voyons des exemples ; et Dieu, ou pour nous édifier ou pour nous confondre, nous en met
             devant les yeux… Nous ne voyons point de mondains contents du monde, et nous voyons des
             serviteurs de Dieu contents du Dieu auquel ils se sont dévoués. Nous ne voyons point de
-            riches contents de leurs <pb n="118" xml:id="p118"/> richesses, et nous voyons des
+            riches contents de leurs <pb n="118" xml:id="p118"/>richesses, et nous voyons des
             pauvres évangéliques contents de leurs pauvretés. Nous ne voyons point d’ambitieux
             contents de leurs fortunes, et nous voyons des hommes, solidement humbles, contents de
             leur abaissement. Nous ne voyons point de sensuels contents de leurs plaisirs, et nous
@@ -1938,7 +1937,7 @@
           chose lui est arrivée une seconde fois ; mais il semble que pendant cette première
           apparition à la cour, convaincu comme toujours de la vérité qu’il prêche et s’en laissant
           plus émouvoir qu’il ne se le permet ordinairement, il ressente avec une sorte de violence
-          la grâce de la vocation <pb n="119" xml:id="p119"/> qui l’a écarté pour jamais de tant de
+          la grâce de la vocation <pb n="119" xml:id="p119"/>qui l’a écarté pour jamais de tant de
           brillantes et navrantes misères. Que l’on se rappelle en ce moment Molière à la cour ;
           non-seulement dans les pièces et les farces où il était acteur, mais dans ces intermèdes
           où il aimait à paraître sous son nom et comme une sorte de personnage :</p>
@@ -1954,7 +1953,7 @@
             ne les regrettât, vous y entriez à leur place ; et dès là, Seigneur, la privation de ces
             plaisirs était pour moi plus délicieuse que n’en aurait jamais été, ni n’en aurait pu
             être la possession. Or, si dans ce lieu de bannissement et d’exil, où je ne vous vois
-            qu’à travers le sombre voile de la <pb n="120" xml:id="p120"/> foi, vous remplissez déjà
+            qu’à travers le sombre voile de la <pb n="120" xml:id="p120"/>foi, vous remplissez déjà
             mon cœur, que sera-ce dans celte bienheureuse patrie où je vous verrai face à face ? Si,
             en vertu de la profession que j’ai faite, quand j’ai quitté le monde pour vous suivre,
             je me tiens déjà si riche de votre pauvreté, que sera-ce, et que dois-je espérer des
@@ -1987,7 +1986,7 @@
             celle vue, Sire, que j’offre tous les jours à Dieu le sacrifice des autels : trop
             heureux si, pendant que le monde applaudit à Votre Majesté, éloigné que je suis du
             monde, je pouvais attirer sur elle une de ces grâces qui font les rois grands devant
-            Dieu et selon le cœur de Dieu ! Car <pb n="122" xml:id="p122"/> c’est à vous, ô mon
+            Dieu et selon le cœur de Dieu ! Car <pb n="122" xml:id="p122"/>c’est à vous, ô mon
             Dieu ! et à votre grâce, de former des rois de ce caractère, de saints rois ; et <hi
               rend="i">ma consolation</hi> est que celui à qui j’ai l’honneur de porter votre
             parole, par la solidité et par la grandeur de son âme, <hi rend="i">a de quoi
@@ -2028,7 +2027,7 @@
             corresp="#vieillard-parterre-encourage-moliere"/> L’anecdote n’est pas authentique, mais
           il est certain qu’un témoignage semblable fut donné à Bourdaloue en pleine chapelle
           royale. M<hi rend="sup">me</hi>de Sévigné écrit à sa fille, le 15 avril 1672 : <quote>« Le maréchal de
-            Grammont était l’autre jour si <pb n="124" xml:id="p124"/> transporté de la beauté d’un
+            Grammont était l’autre jour si <pb n="124" xml:id="p124"/>transporté de la beauté d’un
             sermon de Bourdaloue, qu’il s’écria tout haut, en un endroit qui le toucha <hi rend="i"
               >Mordieu, il a raison</hi> ! Madame éclata de rire, et le sermon en fut tellement
             interrompu, qu’on ne savait ce qui en arriverait. »</quote><milestone type="commentEnd"
@@ -2045,7 +2044,7 @@
           lui, son devoir, qui est de s’appliquer à l’étude pour enseigner plus dignement, et avec
           plus de fruits la vérité de l’Évangile. Il assiste les mourants, il console les affligés,
           il prêche. On va le chercher dans les hôpitaux pour l’amener dans les palais où la douleur
-            <pb n="125" xml:id="p125"/> l’appelle ; il sort des palais pour rentrer dans sa cellule,
+            <pb n="125" xml:id="p125"/>l’appelle ; il sort des palais pour rentrer dans sa cellule,
           ou pour s’asseoir dans son confessionnal, où l’attendaient les gens du plus bas peuple. Il
           y passait de longues heures, qui étaient pour sa vivacité naturelle des heures de
           supplice, et il quittait cette fonction pour aller prêcher à la cour, dont les
@@ -2076,7 +2075,7 @@
             travers contre l’adultère : sauve qui peut, il va toujours son chemin. »</quote></p>
         <p>Le sermon dont parle M<hi rend="sup">me</hi>de Sévigné est probablement le sermon sur l’impureté. On ne peut
           guère le placer à une autre époque ; car Bourdaloue y parle clairement de la marquise de
-          Brinvilliers, suppliciée en 1676, et des autres <pb n="127" xml:id="p127"/> empoisonneurs,
+          Brinvilliers, suppliciée en 1676, et des autres <pb n="127" xml:id="p127"/>empoisonneurs,
           pour la recherche et le jugement desquels fut instituée, en 1680, 1a chambre ardente. En
           1682 M<hi rend="sup">me</hi>de Montespan n’était plus à la cour.</p>
         <p>Or, ce sermon sur l’impureté n’est pas seulement un admirable morceau d’éloquence
@@ -2091,7 +2090,7 @@
           de cette cour, que Bourdaloue allait parler. Il s’adressait à Louis XIV directement. Mme
           de Montespan était là, maîtresse déclarée, mère de nombreux enfants doublement adultérins,
           que leur père voulait audacieusement légitimer. Auprès de M<hi rend="sup">me</hi>de Montespan, on pouvait
-          voir M<hi rend="sup">me</hi>de Fontanges, parée des mains de sa rivale, ou <pb n="128" xml:id="p128"/> plutôt
+          voir M<hi rend="sup">me</hi>de Fontanges, parée des mains de sa rivale, ou <pb n="128" xml:id="p128"/>plutôt
           de son chef d’emploi, par ce calcul ignominieux qui fit descendre les maîtresses du roi
           d’un degré plus bas dans l’abjection du vice. Derrière M<hi rend="sup">me</hi>de Fontanges, il y en avait
           d’autres, et pour tout dire en un mot, la cour était une espèce de sérail. De désordre
@@ -2140,7 +2139,7 @@
         <p>Entrant dans son sujet, le jésuite tint l’engagement qu’il venait de contracter envers
           ses auditeurs, ou plutôt envers Dieu. Il prit corps à corps le vice, royal, et sans garder
           d’autres ménagements que ceux que lui imposait la dignité de la parole apostolique, il en
-          montra toute la <pb n="131" xml:id="p131"/> laideur, toute la bassesse et toute l’infamie.
+          montra toute la <pb n="131" xml:id="p131"/>laideur, toute la bassesse et toute l’infamie.
           Il fut non-seulement sans complaisance, mais sans pitié pour a « les faiblesses »
           qu’honorait la cour et qu’adoraient et servaient les muses.<quote> « Le Bourdaloue frappe
             comme un sourd, parlant à tort et-à travers contre l’adultère. Sauve qui
@@ -2175,7 +2174,7 @@
               être</hi> . »</quote>
         </p>
         <p>Après avoir montré Nabuchodonosor, changé en brute, le prédicateur évoque la figure de
-            <pb n="133" xml:id="p133"/> Salomon, qui <quote>« n’eut plus de peine à se prosterner
+            <pb n="133" xml:id="p133"/>Salomon, qui <quote>« n’eut plus de peine à se prosterner
             devant des idoles de chair, et qui perdit les plus belles lumières de son esprit, dès
             qu’il eut donné son cœur à D’INFAMES CREATURES. »</quote></p>
         <p>Sauve qui peut ! mais Bourdaloue ne laisse nulle issue, il ne veut pas qu’on échappe. Il
@@ -2191,7 +2190,7 @@
             vos artifices et à la lâcheté de vos cœurs. N’est-il pas étonnant qu’au lieu de cette
             modestie et de cette régularité que Dieu vous avait donnée en partage et que le vice
             même respectait en vous, il y en ait parmi vous d’assez endurcies pour affecter de se
-            distinguer par un enjouement et <pb n="134" xml:id="p134"/> une liberté à quoi tant
+            distinguer par un enjouement et <pb n="134" xml:id="p134"/>une liberté à quoi tant
             d’âmes se laissent prendre comme à l’appât le plus corrupteur ? L’excès du désordre,
             c’est que toutes les bienséances, qui servaient autrefois de rempart à la pureté, soient
             aujourd’hui bannies comme incommodes. Cent choses qui passaient pour scandaleuses, et
@@ -2207,7 +2206,7 @@
             cela est représenté comme une espèce de tyrannie dont le savoir-faire doit affranchir.
             C’est ce qu’on ne se lasse point d’entendre ; et <hi rend="i">tel qui, par sa triste
               destinée, y a le plus d’intérêt, est le premier à s’en divertir.</hi> Imaginez-vous
-            d’ailleurs <pb n="135" xml:id="p135"/> un mari qui, pourvu par le don de Dieu d’une
+            d’ailleurs <pb n="135" xml:id="p135"/>un mari qui, pourvu par le don de Dieu d’une
             femme prudente et accomplie, ne laisse pas de s’entêter d’une passion bizarre ; aime par
             obstination ce qui souvent n’est point aimable, et ne peut aimer par raison ce qui
             mérite tout son amour ; ne se rebute de ce qui lui est permis, que parce qu’il lui est
@@ -2223,7 +2222,7 @@
             théâtre a une grande vertu pour la correction des vices. »</quote> — <quote>« Les plus
             beaux traits d’une sérieuse morale, ajoute-t-il, sont moins puissants, le plus souvent,
             que ceux de la satire ; et rien ne reprend mieux la plupart des hommes que la peinture
-            de leurs défauts. C’est une grande <pb n="136" xml:id="p136"/> atteinte aux vices, que
+            de leurs défauts. C’est une grande <pb n="136" xml:id="p136"/>atteinte aux vices, que
             de les exposer à la risée de tout le monde. On souffre aisément des répréhensions, mais
             on ne souffre point la raillerie. On veut bien être méchant, mais on ne veut point être
             ridicule. »</quote> Assurément, l’argument est faible, et il le paraît surtout après ce
@@ -2238,7 +2237,7 @@
           chaste, mortifié, désintéressé de tout ce qui ne regardait pas la cause de Dieu ; le
           comédien avait acquis cette liberté par l’audace de ses flatteries, et par le zèle avec
           lequel il immolait au roi tout ce qui gênait ses vices.</p>
-        <p>Lorsque Bourdaloue eut prêché le sermon sur <pb n="137" xml:id="p137"/> l’impureté, le
+        <p>Lorsque Bourdaloue eut prêché le sermon sur <pb n="137" xml:id="p137"/>l’impureté, le
           roi quitta la chapelle grave et rêveur. Les courtisans se regardaient sans oser s’adresser
           la parole. Cependant tout le monde était occupé de ce que l’on venait d’entendre ; on
           avait besoin d’en parler, besoin surtout de savoir ce qu’en pensait le maître. Le maître
@@ -2269,7 +2268,7 @@
           écouté et admiré, et il eut la joie d’éclairer, de ramener, de raffermir et de consoler un
           grand nombre d’affligés.</p>
         <p>Cependant, cette estime et ces applaudissements qui l’environnaient produisaient sur son
-            <pb n="139" xml:id="p139"/> âme une impression bien différente de celle que la gloire
+            <pb n="139" xml:id="p139"/>âme une impression bien différente de celle que la gloire
           avait produite, entretenue et comme enracinée et exaspérée dans l’âme de Molière. Molière,
           comme nous l’avons vu, voulait rester sur la scène à tout prix, même au prix de la vie ;
           Bourdaloue voulait se retirer, quitter Paris, se cacher dans quelque maison de province,
@@ -2285,7 +2284,7 @@
               lettre, elle est de la fia de 1700 ou du commencement de 1701.</note> que je vis dans
             la Compagnie, non pour moi, mais pour les autres ; du moins, plus pour les autres que
             pour moi. Mille affaires me détournent et m’empêchent de travailler autant que je
-            voudrais <pb n="140" xml:id="p140"/> à ma perfection, qui néanmoins est la seule chose
+            voudrais <pb n="140" xml:id="p140"/>à ma perfection, qui néanmoins est la seule chose
             nécessaire. Je souhaite de me retirer et de mener désormais une vie plus tranquille ; je
             dis plus tranquille, afin qu’elle soit plus régulière et plus sainte. Je sens que mon
             corps s’affaiblit et tend vers sa fin. J’ai achevé ma course ; et plut à Dieu que je
@@ -2301,7 +2300,7 @@
           demandait. Mais les supérieurs locaux intervinrent encore, suspendirent la permission, et
           enfin la firent retirer. Bourdaloue voulut obéir et demeura. Il continua sa vie
           laborieuse. On voit dans le journal de l’abbé Le Dieu qu’il prêcha le 22 octobre 1702, aux
-            <pb n="141" xml:id="p141"/> Ursulines de Meaux. Bossuet y avait dit la messe et assista
+            <pb n="141" xml:id="p141"/>Ursulines de Meaux. Bossuet y avait dit la messe et assista
           au sermon. Tous deux étaient près de leur fin. Bossuet mourut le 12 avril 1704 ; la même
           année, le 11 mai, Bourdaloue tomba malade et se sentit frappé à mort. II avait entendu des
           confessions et avait prêché la veille, déjà très souffrant depuis quelques semaines. Le
@@ -2320,7 +2319,7 @@
             rend="i">Tartufe</hi>, qui résume et domine toute l’œuvre de Molière et qui forme le
           rayon le plus éclatant de son auréole. Molière est l’ennemi, on dit presque le vainqueur,
           de l’hypocrisie ; c’est par là que son génie est surtout signalé à l’admiration de la
-          foule, et non-seulement son <pb n="144" xml:id="p144"/> génie, mais plus encore son
+          foule, et non-seulement son <pb n="144" xml:id="p144"/>génie, mais plus encore son
           caractère. Sans le <hi rend="i">Tartufe</hi>, on n’aurait pas songé à forger pour lui
           celte espèce de barbarisme académique, qui le met à part et au-dessus des autres écrivains
           et poêles, comme <hi rend="i">grand homme de bien.</hi> Là, il a montré par excellence sa
@@ -2352,7 +2351,7 @@
           religieux qui l’ennuient ; il se vengera, lui, de la religion qui le condamne. Écoutons
           Bazin.</p>
         <quote>
-          <p>« Il y avait alors un parti religieux, sévère. <pb n="146" xml:id="p146"/> grondeur et
+          <p>« Il y avait alors un parti religieux, sévère. <pb n="146" xml:id="p146"/>grondeur et
               <hi rend="i">persécuté</hi>, partant tout disposé à la censure des dérèglements joyeux
             de la cour. Le roi, <hi rend="i">qui donnait en effet l’exemple du désordre</hi>, et à
             qui le parti était suspect par ses anciennes relations avec les chefs de la fronde, ne
@@ -2389,7 +2388,7 @@
               rend="i">hypocrite</hi> et <hi rend="i">dangereux....</hi></p>
           <p>« Toute la cour censurait alors comme Dorine l’austérité <hi rend="i">chagrine</hi> de
             la duchesse de Navailles, qui, pour plaire aux reines (la mère et la femme de Louis
-            XIV), défendit au roi l’entrée des <pb n="148" xml:id="p148"/> appartement des filles
+            XIV), défendit au roi l’entrée des <pb n="148" xml:id="p148"/>appartement des filles
             d’honneur (la vilaine !) et fit placer ces grilles restées fameuses dans l’histoire. Ce
               <hi rend="i">scandaleux</hi> éclat <hi rend="i">n’avait d’autre but</hi> que
             d’empêcher les <hi rend="i">entretiens</hi> du roi avec Mlle Lamotte-Houdancourt à <hi
@@ -2423,7 +2422,7 @@
             pays d’Aunis. Ils souffrirent tout avec noblesse, ne rentrèrent jamais complètement en
             grâce et ne cessèrent pas d’être honorés. »</quote></p>
         <p>Saint-Simon, en terminant le portrait de la duchesse de Navailles, dit qu’une étrange
-          avarice déparait un si beau caractère. Ici, l’avarice <pb n="150" xml:id="p150"/> même
+          avarice déparait un si beau caractère. Ici, l’avarice <pb n="150" xml:id="p150"/>même
           rehausse cette femme courageuse, puisqu’en sacrifiant la faveur du roi, elle en perdait
           les avantages matériels. Voilà quelles gens décriait Molière, et diffament encore, à sa
           suite, des écrivains qui font ce que nous savons, pour un ruban, pour une gratification,
@@ -2494,7 +2493,7 @@
        </quote>
         <p>Le <hi rend="i">Tartufe</hi> parut enfin, et l’immense applaudissement retentit encore.
           Molière ne voulut pas triompher avec modestie. Nous avons déjà parlé de sa préface, où il
-          raille et siffle impitoyablement <pb n="154" xml:id="p154"/> ses vaincus, et leur dit pour
+          raille et siffle impitoyablement <pb n="154" xml:id="p154"/>ses vaincus, et leur dit pour
           son compte avec délices :</p>
         <quote>
           <l>La maison est à moi, c’est à vous d’en sortir.</l>
@@ -2511,7 +2510,7 @@
             avec les médecins. »</quote> Il faut avouer que Bourdaloue était moins familier.</p>
         <p>C’est que le valet de chambre tapissier rendait d’autres services que le prédicateur, des
           services familiers autant que politiques. Il s’était moqué des prudes, des dévotes, des
-          maris trompés, toutes gens que le roi n’aimait point, <pb n="155" xml:id="p155"/> et que
+          maris trompés, toutes gens que le roi n’aimait point, <pb n="155" xml:id="p155"/>et que
           même il était forcé de craindre. Mais</p>
         <quote>
           <l>Je puis vous dissiper ces craintes ridicules,</l>
@@ -2530,7 +2529,7 @@
           Poquelin.</p>
         <p>Voyons quelle sorte de guerre Molière a su faire à l’hypocrisie.</p>
         <p>La perfection d’une comédie n’est pas fout entière dans l’agrément du style et dans la
-          durée du succès. L’art et la raison exigent davantage. <pb n="156" xml:id="p156"/> Ils
+          durée du succès. L’art et la raison exigent davantage. <pb n="156" xml:id="p156"/>Ils
           exigent que le poète rassemble des caractères variés dans une action prompte qui ne
           s’écarte pas de la vraisemblance et qui laisse au spectateur une utile leçon. Il faut que
           les hommes s’y montrent, que les événements s’y passent comme dans l’ordinaire de la vie ;
@@ -2581,7 +2580,7 @@
           esprits plus ouverts, elle se garde mieux des embûches qu’on peut lui tendre. Tout sot que
           soit Orgon, dès que Tartufe paraît, le spectateur a besoin d’être gagné d’avance au
           dessein du poète pour accepter la vraisemblance d’un pareil aveuglement. Une charge si
-          crue implique des dupes <pb n="159" xml:id="p159"/> trop sottes. Certainement nous sommes,
+          crue implique des dupes <pb n="159" xml:id="p159"/>trop sottes. Certainement nous sommes,
           nous autres chrétiens, un troupeau facile à tromper ! Nous supposons volontiers la bonne
           foi ; quantité de gens d’esprit qui font des affaires en savent quelque chose. Néanmoins
           un certain art est encore nécessaire, et Tartufe ne l’a point. Nous nous laissons plus
@@ -2649,7 +2648,7 @@
         <p>Aimable caractère, et propre à relever la vraie dévotion dans l’estime de ceux des
           spectateurs qui n’auront pas eu la fortune de rencontrer Alcidamas et Ariston ! A la
           vérité, Cléante est là, pour débonder encore quelques sentences. Il reprend Orgon,
-          condamne son emportement, et <pb n="163" xml:id="p163"/>  lui conseille de se laisser
+          condamne son emportement, et <pb n="163" xml:id="p163"/> lui conseille de se laisser
           plutôt piper une seconde fois que de faire injure au « vrai zèle ». Mais cette leçon ne
           vient guère à propos, et je doute que le spectateur soit disposé à en faire son profit. Il
           est bien plus croyable que le spectateur concevra les sentiments qu’Orgon vient d’exprimer
@@ -2685,7 +2684,7 @@
           perpétuellement les défauts qui en rendent l’usage plus terrible, reprochez à la vipère
           d’avoir la dent creuse, elle répondra avec orgueil : <quote>« Par ce creux, mon venin
             passe ! »</quote>
-          <pb n="165" xml:id="p165"/> Si dans le <hi rend="i">Tartufe</hi>, Orgon, le vrai chrétien,
+          <pb n="165" xml:id="p165"/>Si dans le <hi rend="i">Tartufe</hi>, Orgon, le vrai chrétien,
           n’était pas un sot facile à rendre injuste et méchant ; si l’honnête Cléante n’était pas
           un tiercelet de libre penseur loquace et modéré, Tartufe ne paraîtrait plus qu’un de ces
           chevaliers d’industrie qui tous les jours s’implantent dans les maisons sous le premier
@@ -2700,7 +2699,7 @@
           elle porterait la poussière et le poids des ans, elle n’aurait plus celte jeunesse que lui
           assure l’éternelle inimitié des révoltes qu’elle flatte, contre les freins qu’elle lime et
           les vertus qu’elle parodie.</p>
-        <p><quote>« Ceux qui ont laissé sur la terre les plus <pb n="166" xml:id="p166"/> riches
+        <p><quote>« Ceux qui ont laissé sur la terre les plus <pb n="166" xml:id="p166"/>riches
             monuments, dit Bossuet, à propos de Molière, n’en sont pas plus à couvert de la justice
             de Dieu : ni les beaux vers ni les beaux chants ne servent de rien devant lui, et il
             n’épargnera pas ceux qui en quelque manière que ce soit auront entretenu la
@@ -2716,7 +2715,7 @@
           contre les jésuites, mais en temps calme et quand les spectateurs ne songent qu’à prendre
           un amusement. J’en ai fait l’expérience.</p>
         <p>C’était un dimanche. L’assemblée, peu nombreuse, n’était point lettrée ; les acteurs
-          remplissaient froidement leur office. A part un <pb n="167" xml:id="p167"/> vénérable
+          remplissaient froidement leur office. A part un <pb n="167" xml:id="p167"/>vénérable
           ministre de la religion réformée, duquel j’avais l’avantage de me trouver voisin, je ne
           voyais véritablement pas que personne pût penser à mal. Les deux premiers actes passèrent
           avec langueur ; la bouffonnerie du <hi rend="i">pauvre homme</hi> fit à peine sourire. On
@@ -2731,7 +2730,7 @@
           comme autant de traits observés sur nature et comme la figure même de la dévotion,
           photographiée sur le fait. Le plaisir alla croissant jusqu’à la fin. L’ecclésiastique
           réformé n’était pas le dernier à manifester son allégresse ; il donna plusieurs fois le
-          signal des applaudissements. C’était ce docteur <pb n="168" xml:id="p168"/> célèbre par
+          signal des applaudissements. C’était ce docteur <pb n="168" xml:id="p168"/>célèbre par
           l’abondance et la facilité de ses bénédictions, qui fait des livres où le christianisme
           est réduit à rien et qui parle doux du haut d’un beau ventre. Il sentait bien, lui, par
           raison logique et philosophique, où portaient les coups de Molière. Du fond de sa stalle
@@ -2762,7 +2761,7 @@
           Tartufe ! Tartufe et demi, si la popularité lui vient et si l’on voit que l’estime
           publique s’attache à lui ! Comment ne serait-on pas heureux de se venger d’un pareil
           homme ? Qui n’aimerait à se prouver que sa fatigante probité n’est que fard et grimace et
-          son crédit le fruit de la fraude ? Qui <pb n="170" xml:id="p170"/> ne trouve, au fond du
+          son crédit le fruit de la fraude ? Qui <pb n="170" xml:id="p170"/>ne trouve, au fond du
           cœur, un peu son compte à se persuader que ce croyant ne croit pas, et que sa vie austère
           est le calcul d’une hypocrisie raffinée ou l’erreur et le supplice d’une imbécillité
           parfaite ?</p>
@@ -2778,7 +2777,7 @@
           l’intérêt religieux ont adressé au <hi rend="i">Tartufe</hi> les mêmes reproches. Louis
           XIV tout le premier, malgré son faible pour l’adroit bouffon qui le flattait à son gré,
           entrevit le dommage que ce spectacle pouvait causer à des principes qu’en les
-          transgressant il respectait encore, et comme homme <pb n="171" xml:id="p171"/> et comme
+          transgressant il respectait encore, et comme homme <pb n="171" xml:id="p171"/>et comme
             roi<note place="bottom">Après la première représentation d’essai du <hi rend="i"
               >Tartufe</hi>encore inachevé, le 12 mai 1661, « le Roi connut <hi rend="i">tant de
               conformité</hi> entre ceux qu’une véritable dévotion met dans le chemin du ciel et
@@ -2803,7 +2802,7 @@
         <p>Molière, comme on l’a déjà vu, trouva l’occasion désirée de constater avec plus d’éclat
           sa victoire. Sous prétexte de défendre ses intentions si pures, il enfonça et retourna le
           fer dans la plaie, au moyen de cette préface sur laquelle nous revenons souvent parce
-          qu’on ne saurait trop <pb n="172" xml:id="p172"/> l’étudier. Pour le talent comme pour la
+          qu’on ne saurait trop <pb n="172" xml:id="p172"/>l’étudier. Pour le talent comme pour la
           bonne foi, c’est une page <hi rend="i">des Provinciales</hi>, dont elle est d’ailleurs une
           imitation, et c’est en même temps un portrait de l’auteur, plus ressemblant,
           quoiqu’involontaire, que le fameux personnage de Cléante. Molière, soutenant qu’il a tout
@@ -2818,7 +2817,7 @@
         <p>Quoi qu’il en soit, la préface du <hi rend="i">Tartufe</hi> est un document considérable
           et qu’il faut regarder de près. Elle a eu l’honneur d’être réfutée par les deux plus
           grands orateurs sacrés du grand siècle. Nous avons entendu Bossuet pour ce qui regarde la
-          comédie en général. Nous allons maintenant <pb n="173" xml:id="p173"/> donner la parole à
+          comédie en général. Nous allons maintenant <pb n="173" xml:id="p173"/>donner la parole à
           Molière sur le sujet particulier de <hi rend="i">Tartufe.</hi> Bourdaloue ensuite
           prononcera le dernier mot de la vraie piété sur le sens de l’œuvre, et nous livrera
           vraiment le secret de la comédie.</p>
@@ -2833,7 +2832,7 @@
               étaient plus puissants</hi>, en France, que tous ceux que j’ai joués jusqu’ici. Les
             marquis, les précieuses, les c.… et les médecins, ont souffert doucement qu’on les ait
             représentés ; et ils ont fait semblant de se divertir, avec tout le monde, des peintures
-            que l’on a faites d’eux. Mais les hypocrites n’ont <pb n="176" xml:id="p176"/> point
+            que l’on a faites d’eux. Mais les hypocrites n’ont <pb n="176" xml:id="p176"/>point
             entendu raillerie ; ils se sont effarouchés d’abord, et ont trouvé étrange que j’eusse
             la hardiesse de jouer leurs grimaces, et de vouloir décrier un métier <hi rend="i">dont
               tant d’honnêtes gens se mêlent.</hi> »</quote> Ceci déjà va bien plus haut que
@@ -2850,7 +2849,7 @@
               criminels<note place="bottom">Nous ignorons quels gestes se permettaient les acteurs
               de Molière. Ceux d’aujourd’hui en font plusieurs qu’un homme si chaste et si
               scrupuleux aurait sans doute peine à trouver innocents.</note> ; et le moindre coup
-            d’œil, le moindre <pb n="177" xml:id="p177"/> branlement de tête, le moindre pas à
+            d’œil, le moindre <pb n="177" xml:id="p177"/>branlement de tête, le moindre pas à
             droite ou à gauche, y cachent des mystères qu’ils trouvent moyen d’expliquer à mon
             désavantage. J’ai eu beau la soumettre aux censures de mes amis et à la censure de tout
             le monde ; les corrections que j’ai pu faire, le jugement du roi et de la reine, qui
@@ -2872,7 +2871,7 @@
             veulent pas démordre, et tous les jours encore ils font crier en public de zélés
             indiscrets, qui me disent des injures pieusement et qui me damnent par
             charité. »</quote>
-          <pb n="178" xml:id="p178"/> Certes, ce langage est d’un homme assez peu embarrassé des
+          <pb n="178" xml:id="p178"/>Certes, ce langage est d’un homme assez peu embarrassé des
           ennemis qu’il s’est voulu faire ! Après avoir constaté et exagéré leurs plaintes, il les
           écrase de la masse de ses partisans ; il leur montre de son côté le roi, la reine, les
           grands princes, MM. les ministres, même les gens de bien…</p>
@@ -2911,7 +2910,7 @@
         <p>Franchement, est-ce que tout cela paraît sincère ? Est-ce que l’on n’y trouve pas un peu
           de <quote>« faux clins d’yeux et d’élans affectés ? »</quote> Est-ce que l’auteur du <hi
             rend="i">Tartufe</hi> ne fait pas trop de protestations, n’a pas trop la main sur la
-          conscience, <pb n="180" xml:id="p180"/> n’appelle pas trop en témoignage les véritables
+          conscience, <pb n="180" xml:id="p180"/>n’appelle pas trop en témoignage les véritables
           gens de bien ? Quand la vraie dévotion lui demande, par tant de voix respectées, à n’être
           pas sa cliente, l’ardeur enragée qu’il met à la défendre paraît suspecte et même ridicule.
           Il se donne toute la physionomie de ces gens qui prennent</p>
@@ -2966,7 +2965,7 @@
           <p>....Prompts, vindicatifs, sans foi, pleins d’artifices</p>
           <p>Et sachant ajuster leur zèle avec leurs vices ?</p>
        </quote>
-        <p>Mais non, il n’y a point de faux moralistes, ni <pb n="183" xml:id="p183"/> de fausse
+        <p>Mais non, il n’y a point de faux moralistes, ni <pb n="183" xml:id="p183"/>de fausse
           morale ; ce sont pures inventions des « hypocrites » qui mettent en avant ces fantômes
           pour détourner les regards et empêcher qu’on ne les joue ! Molière ne relâche rien
           là-dessus. La fausse dévotion est un crime qu’il faut absolument livrer à la muse comique.
@@ -3016,7 +3015,7 @@
           profondeurs dont l’auteur comique ne sait pas même le chemin, il avertit l’hypocrite qui
           se trompe lui-même. Car il existe aussi des hypocrites de cette espèce, des hommes qui,
           s’étant endormis sur le mobile secret de leurs actions, deviennent hypocrites quasi sans
-          le savoir, dans une sorte de bonne <pb n="186" xml:id="p186"/> foi. On ne devient pas
+          le savoir, dans une sorte de bonne <pb n="186" xml:id="p186"/>foi. On ne devient pas
           hypocrite tout d’un coup, ni avare ; on n’est pas hypocrite fatalement, par une pente de
           nature irrémédiable qui constituerait au vice une sorte d’innocence. Il y a les
           acheminements et les raisons de l’hypocrisie.</p>
@@ -3032,7 +3031,7 @@
           providence de comédie, dont tout coquin un peu madré sait se garer, Bourdaloue la remplace
           par la Providence véritable, qui voit tout, à qui rien n’échappe et que sa voix éloquente
           sait rendre présente aux cœurs les plus endurcis. Il crie à l’hypocrite, il lui prouve
-          qu’il a un témoin, que <pb n="187" xml:id="p187"/> ce témoin sera son juge, que ce juge
+          qu’il a un témoin, que <pb n="187" xml:id="p187"/>ce témoin sera son juge, que ce juge
           sera sans pitié. Si l’imposteur est guérissable, voilà l’unique remède qui peut le guérir.
           Tartufe est en prison. Suivons-le, écoutons sa pensée. Il se dit qu’il a été un sot de
           pousser si vite l’affaire de la donation et de se méfier si peu des façons engageantes
@@ -3064,7 +3063,7 @@
           criminelle ; mais Dieu lui inspire un autre dessein, dont il se promet plus de fruit pour
           la réformation des mœurs. L’hypocrisie, dit saint Augustin, est cette ivraie de l’Évangile
           que l’on ne peut arracher sans déraciner en même temps le bon grain ; le père de famille
-          conseille de la laisser croître <pb n="189" xml:id="p189"/> jusqu’à la moisson, pour ne
+          conseille de la laisser croître <pb n="189" xml:id="p189"/>jusqu’à la moisson, pour ne
           risquer point de confondre avec elle les fruits de la grâce et les semences d’une piété
           sincère et véritable. C’est pourquoi, au lieu d’employer son zèle à combattre
           l’hypocrisie, l’orateur entreprend de combattre ceux qui, <quote>« raisonnant mal sur le
@@ -3258,7 +3257,7 @@
         <p>De pareilles ressources de discussion permettent de ne craindre aucun adversaire.
           Employées dans toute autre cause, elles seraient universellement honnies ; contre la
           religion, il n’y a point de mensonge qui ne paraisse légitime, ni de platitude qui puisse
-          manquer le <pb n="199" xml:id="p199"/> succès. Bourdaloue savait qu’il n’arracherait pas
+          manquer le <pb n="199" xml:id="p199"/>succès. Bourdaloue savait qu’il n’arracherait pas
           aux ennemis de la dévotion, le poignard que Molière leur a forgé. Il en a indiqué la
           raison et il va la développer. C’est que, non seulement les « libertins » profitent de
           l’hypocrisie d’autrui pour se prétendre meilleurs que les fidèles, mais encore, elle leur
@@ -3290,7 +3289,7 @@
             plus droites intentions un mauvais tour, et l’on en rira. Ainsi on demeure dans un état
             de vie d’où l’on souhaiterait de sortir, et pour éviter une hypocrisie, du moins pour en
             éviter la réputation et le nom, on tombe, pour ainsi dire, dans une autre. Car si c’est
-            une <pb n="201" xml:id="p201"/> hypocrisie d’avoir les dehors de la piété, sans en avoir
+            une <pb n="201" xml:id="p201"/>hypocrisie d’avoir les dehors de la piété, sans en avoir
             le fond, n’en est-ce pas une d’avoir dans le cœur l’estime de la piété, et d’affecter
             des dehors tout opposés ; de condamner en apparence ce qu’intérieurement on approuve, et
             d’approuver ce qu’intérieurement on condamne ; de se déclarer pour le monde, et d’en
@@ -3305,7 +3304,7 @@
             saint Chrysostome, n’y ayant rien dans le monde de plus méprisable, ni de plus méprisé
             que l’hypocrisie ; et un certain amour-propre qui subsiste en nous jusque dans les plus
             saints états, se trouvant blessé du seul soupçon de ce vice, nous devons aisément et
-            naturellement nous dégoûter de ce <pb n="202" xml:id="p202"/> qui nous expose à ce
+            naturellement nous dégoûter de ce <pb n="202" xml:id="p202"/>qui nous expose à ce
             soupçon. Or, à moins d’une grâce forte qui nous élève au-dessus de nous-mêmes, et qui
             guérisse sur ce point notre faiblesse, nous nous imaginons, et nous croyons même en
             avoir l’expérience, que c’est là le sort de la piété, et qu’il est presque impossible de
@@ -3384,7 +3383,7 @@
           de les contrefaire ; il s’attache plus encore à les présenter au bel esprit et à
           l’incrédule qui leur adressent un salut hypocrite et se hâtent de passer, ne voulant voir
           que le masque sur lequel ils espèrent flétrir ces importunes vertus. Mais ils n’auront pas
-          congé de s’éloigner si vite. <pb n="208" xml:id="p208"/> Bourdaloue les arrête.
+          congé de s’éloigner si vite. <pb n="208" xml:id="p208"/>Bourdaloue les arrête.
           — L’hypocrite, leur dit-il, est déjà condamné par la loi qu’il prétend suivre ; quant à
           vous qui profitez de cette hypocrisie que vous connaissez bien, pour diffamer la vraie
           piété et vous engager plus avant dans les pratiques du vice, cette vertu que vous
@@ -3417,7 +3416,7 @@
             moins témoignage contre son péché, et de ne vouloir pas céder à la force de ce
             témoignage, bien loin de l’excuser, c’est ce qui redouble son crime. — Que sais-je,
             dit-il, ce qui se passe dons l’âme, et si l’intérieur répond à ces beaux dehors qui
-            frappent les yeux ? Et moi je lui dis : Pourquoi <pb n="210" xml:id="p210"/> de deux
+            frappent les yeux ? Et moi je lui dis : Pourquoi <pb n="210" xml:id="p210"/>de deux
             partis prendre le moins favorable ; et sur un vague soupçon pourquoi vouloir que ces
             dehors trompent toujours parce qu’ils trompent quelques fois ? — Ces exemples,
             ajoute-t-il, de vertus véritables et incontestables sont bien rares. — Quoique rares, ce
@@ -3432,7 +3431,7 @@
           tout Molière : <quote>« Soyons humbles, renonçons à nous-mêmes, marchons simplement et de
             bonne foi, et le monde, tout injuste qu’il est, nous fera justice. Tenons-nous où Dieu
             nous a mis, par un saint attachement à ses ordres, et on ne nous confondra pas avec ceux
-            qui falsifient son culte. Faisons luire, suivant la règle <pb n="211" xml:id="p211"/> de
+            qui falsifient son culte. Faisons luire, suivant la règle <pb n="211" xml:id="p211"/>de
             l’Évangile, cette lumière de notre foi par nos œuvres ; et les hommes, glorifiant Dieu
             en nous, seront les premiers à nous rendre témoignage. »</quote> Jusqu’ici c’est, avec
           un accent plus ferme et plus pratique, ce que dit Cléante :</p>
@@ -3451,7 +3450,7 @@
             de sa grâce savez combien il est honorable et avantageux d’être à lui. »</quote> Il
           presse, il n’admet pas d’excuse : <quote>« Quand même il s’agirait d’être persécuté,
             devriez-vous renoncer au parti de Dieu ? Ces persécutions auraient-elles quelque chose
-            de honteux pour vous ? En <pb n="212" xml:id="p212"/> pourriez-vous désirer de plus
+            de honteux pour vous ? En <pb n="212" xml:id="p212"/>pourriez-vous désirer de plus
             glorieuses ? La seule considération de les endurer pour une si digne cause ne
             devrait-elle pas vous remplir non-seulement de force, mais de joie ? <hi rend="i">Si
               quelqu’un rougit de moi devant les hommes, je rougirai de lui devant mon père.</hi>
@@ -3482,7 +3481,7 @@
           qu’un juste effet de sa sottise dont elle s’amuse ? De grâce, laissez donc là cette
           hypocrisie ; ne nous parlez plus de vertu, ni de morale, ni de combat contre les vices.
           Dites-nous simplement que le théâtre excite, caresse et sert vos passions ; qu’il est tout
-          à la fois une forte amorce à vos voluptés et une <pb n="214" xml:id="p214"/> de vos plus
+          à la fois une forte amorce à vos voluptés et une <pb n="214" xml:id="p214"/>de vos plus
           puissantes machines contre les règles gênantes de l’Évangile ; que vous le trouvez bon
           ainsi, que vous le voulez ainsi ; que même sans lui demander expressément de détruire la
           religion, il suffit qu’il vous amuse et que vous prenez peu de souci du reste : alors on
@@ -3498,7 +3497,7 @@
           pas voulu mettre le prix. Interrogeons-le là-dessus directement et faisons-lui la partie
           belle. Je laisse de côté sa misérable vie ; j’oublie ses cohabitantes, les Madelaine et
           les Gresinde Béjart ; j’oublie pareillement les Dorante, les Dorine, les Scapin, les
-          Crispin, <pb n="215" xml:id="p215"/> les Sganarelle et les Mascarille, célèbres enfants de
+          Crispin, <pb n="215" xml:id="p215"/>les Sganarelle et les Mascarille, célèbres enfants de
           sa belle humeur, qui tous ensemble enseignent à peu près tout ce que l’on peut donner
           d’accrocs à tout ce que le monde connaît de devoirs ; j’oublie encore ses rapports de
           poète et de citoyen avec Louis XIV, je prends cela pour innocent, ou je crois qu’il n’a
@@ -3518,7 +3517,7 @@
           <p>Qui soit plus à priser que les parfaits dévots ;</p>
           <p>Aucune chose au monde et plus noble et plus belle.</p>
        </quote>
-        <p><pb n="216" xml:id="p216"/> Voilà une déclaration qu’on ne saurait désirer plus nette.
+        <p><pb n="216" xml:id="p216"/>Voilà une déclaration qu’on ne saurait désirer plus nette.
           Écoutons la suite. Où sont les vrais dévots ?</p>
         <quote>
           <p>Notre siècle, mon frère, en expose à nos yeux</p>
@@ -3547,7 +3546,7 @@
           <p>Voilà mes gens, voilà comme il faut en user,</p>
           <p>Voilà l’exemple enfin qu’il se faut proposer.</p>
        </quote>
-        <p>Le bon apôtre ! Nous les connaissons ses gens. <pb n="217" xml:id="p217"/> Ce sont les
+        <p>Le bon apôtre ! Nous les connaissons ses gens. <pb n="217" xml:id="p217"/>Ce sont les
           chrétiens que tous les ennemis de l’Église supportent, qui laissent tout dire contre la
           loi de Dieu, tout faire contre la foi des peuples. On ne les voit pas surtout se dresser
           contre les gens d’esprit qui s’amusent à la satire. Parce que Dieu est en effet assez fort
@@ -3563,7 +3562,7 @@
           des <hi rend="i">chiens muets</hi>, lorsqu’ils sont prêtres, car il y a aussi des prêtres
           parmi eux. Muets, il faut l’entendre ; muets contre l’incrédulité, contre l’impiété,
           contre l’erreur, non pas toujours muets contre l’ardeur qui ne peut soutenir l’insolence
-          du vice et qui se lève enfin pour prendre la cause <pb n="218" xml:id="p218"/> de Dieu.
+          du vice et qui se lève enfin pour prendre la cause <pb n="218" xml:id="p218"/>de Dieu.
           Ah ! nos gens de bien qui <hi rend="i">« n’attachent leur haine qu’au péché
           seulement</hi>, » savent alors montrer qu’ils peuvent haïr quelque autre chose que le
           péché ! On les voit se départir à l’égard des chrétiens, de la mansuétude invincible
@@ -3579,7 +3578,7 @@
           exagérés qui soutiennent en face au siècle que l’Église ne s’est jamais trompée.… O doux
           Jésus, faites qu’ils deviennent hérétiques ! Et l’anathème, obstinément muet devant les
           plus criantes impiétés, jaillissant enfin de ces lèvres douces, va frapper les chrétiens
-          qui se <pb n="219" xml:id="p219"/> sont révoltés contre les blasphémateurs. Molière
+          qui se <pb n="219" xml:id="p219"/>sont révoltés contre les blasphémateurs. Molière
           applaudit ces alliés inattendus : <hi rend="i">Voilà mes gens, voilà comme il faut en
             user</hi>. Il les a bien connus.</p>
         <p>Bourdaloue aussi les connaît. Il ne se trompe point à leurs misérables sentiments colorés
@@ -3611,7 +3610,7 @@
             prévalent, c’est ce que la politique du siècle a de tout temps inspiré aux mondains, et
             ce que l’esprit de Dieu contredira toujours. Il est de la grandeur de Dieu d’être servi
             par des hommes qui fassent gloire d’être à lui, et il n’y a pas de prudence qui puisse
-            affaiblir la force <pb n="221" xml:id="p221"/> de ce devoir. C’est là le premier
+            affaiblir la force <pb n="221" xml:id="p221"/>de ce devoir. C’est là le premier
             principe sur quoi roule la prudence même et à quoi toute cette vertu doit se rapporter.
             Les intérêts de Dieu, c’est-à-dire ce qui touche son culte, la religion, sa loi, son
             honneur, sa gloire ne peuvent jamais être balancés par nul autre intérêt. Ces mêmes
@@ -3644,7 +3643,7 @@
             l’exemple et le modèle que l’Écriture nous met devant les yeux. »</quote></p>
         <p>Déjà, on le voit, le chrétien de Bourdaloue commence à ne plus ressembler du tout au
           dévot de cœur de Molière. Le contraste va devenir plus éclatant.</p>
-        <p><quote>« Ce n’est pas seulement un roi comme David, <pb n="223" xml:id="p223"/> poursuit
+        <p><quote>« Ce n’est pas seulement un roi comme David, <pb n="223" xml:id="p223"/>poursuit
             l’orateur sacré, qui doit parler de la sorte, mais un seigneur dans ses terres, mais un
             magistrat dans son ressort, mais un supérieur dans sa société, un particulier dans sa
             famille, chacun sans exception dans son état. »</quote> Énumération, pour le dire en
@@ -3659,7 +3658,7 @@
         <p>Il faut donc combattre ; il le faut même pour éviter le scandale ; car les prudents et
           les sages qui soufflent en leur présence le scandale sans émotion passent aisément pour
           indifférents, et celte indifférence est communément prise et interprétée comme une
-          altération secrète des <pb n="224" xml:id="p224"/> intérêts de Dieu. Parlez tant que vous
+          altération secrète des <pb n="224" xml:id="p224"/>intérêts de Dieu. Parlez tant que vous
           voudrez de dévotion « humaine et traitable, » de bonnes actions silencieuses pour corriger
           les actions vicieuses d’autrui ; criez sur tous les tons que c’est ainsi qu’il en faut
           user : <quote>« En user ainsi, répond Bourdaloue, c’est donner aux ennemis de Dieu, à
@@ -3674,7 +3673,7 @@
             rendait le zèle des autres impuissant et inutile. Et pour remonter jusqu’à la source,
             l’indifférence d’un homme qui n’avait pas fait son devoir était la cause originaire d’un
             vaste incendie. De là l’obligation spéciale et redoutable de ceux qui se trouvent élevés
-            en dignité, de ceux qui par leurs talents ou leurs <pb n="225" xml:id="p225"/> emplois
+            en dignité, de ceux qui par leurs talents ou leurs <pb n="225" xml:id="p225"/>emplois
             se sont acquis plus d’autorité, de ceux à qui Dieu semble avoir donné plus de lumière et
             de capacité ; delà, dis-je, cette obligation plus étroite qu’ils ont d’attaquer avec
             plus de force les scandales du siècle, et de leur couper court. »</quote></p>
@@ -3692,7 +3691,7 @@
             consolation de dire à Dieu : Seigneur, j’ai suivi vos ordres et j’ai pris le parti de
             votre loi. Et certes il ne vous appartient point et il ne dépend pas de vous, sous
             prétexte d’un événement futur et incertain, de vous dispenser d’une obligation présente
-            et assurée. <pb n="226" xml:id="p226"/> « Vous me direz qu’il faut user de discrétion,
+            et assurée. <pb n="226" xml:id="p226"/>« Vous me direz qu’il faut user de discrétion,
             et je le dis aussi bien que vous. Il faut de la discrétion, mais une discrétion qui
             aille toujours au terme où le zèle lui-même doit tendre. Tant de discrétion qu’il vous
             plaira, <hi rend="i">pourvu que le vice soit corrige, pourvu que le scandale soit
@@ -3709,7 +3708,7 @@
               donc en faire, si ce n’est pour empêcher ce que vous savez être un véritable désordre
               soit dans l’intérieur de votre famille, soit au dehors.</hi></l>
           <l>« Mais cet éclat troublera la paix : <hi rend="i">Qu’il la trouble</hi> ; c’est en cela
-            même qu’il sera glorieux <pb n="227" xml:id="p227"/> et digne de l’esprit chrétien ! car
+            même qu’il sera glorieux <pb n="227" xml:id="p227"/>et digne de l’esprit chrétien ! car
             il y a une fausse paix qui doit être troublée, et c’est celle qui favorise le péché.
             Quand le Fils de Dieu nous a dit qu’il n’était pas venu apporter la paix sur la terre,
             mais le glaive et la division, que voulait-il par là nous marquer, sinon qu’il y a dans
@@ -3804,7 +3803,7 @@
           tant qu’ils peuvent, ce qui est beaucoup dire. En fait d’extravagance, les Français, une
           fois hors du droit sens, ne le cèdent à personne, particulièrement lorsqu’ils sont doués
           de cet esprit passionné et borné du commentateur. Rien ne va si profond dans l’absurde
-          qu’un sot <pb n="234" xml:id="p234"/> enflammé qui creuse sur lui-même. Enchérissant
+          qu’un sot <pb n="234" xml:id="p234"/>enflammé qui creuse sur lui-même. Enchérissant
           toujours, ils ont érigé le <hi rend="i">Misanthrope</hi>, qui est d’ailleurs un très beau
           morceau de littérature, en je ne sais quelle révélation quasi surhumaine dont il ne
           faudrait parler qu’à genoux.</p>
@@ -3819,7 +3818,7 @@
           fatuité des petits marquis et la fureur de leurs embrassements, la fausse vertu d’Arsinoé,
           la coquetterie de Célimène et même la passion d’Alceste, ce sont de toutes petites choses,
           de tout petits traits de l’homme, de tout petits accidents de la vie frivole et inutile.
-          La pièce nous met simplement <pb n="235" xml:id="p235"/> sous les yeux une collection
+          La pièce nous met simplement <pb n="235" xml:id="p235"/>sous les yeux une collection
           d’oisifs qui s’amusent ou qui se désennuient à médire, et elle serait beaucoup plus
           logiquement intitulée : <hi rend="i">Les Médisants.</hi></p>
         <p>La médisance est un des grands travers, un des grands et redoutables vices du genre
@@ -3850,7 +3849,7 @@
           âpre et aussi lugubre que le voudrait leur fâcheuse humeur. Exiger que les hommes du monde
           ne fassent plus de révérences ou ne rendent plus celles qu’on leur fait, que les grands
           seigneurs ne se croient plus doués d’Apollon, soit pour le sonnet, soit pour le discours
-          politique, que les gens ne se laissent plus pousser l’ongle <pb n="237" xml:id="p237"/> ou
+          politique, que les gens ne se laissent plus pousser l’ongle <pb n="237" xml:id="p237"/>ou
           la barbe, que les jeunes veuves de vingt ans se contentent des seuls feux du seul homme
           qu’elles épouseront, que les juges fassent toujours justice ; exiger cent autres choses
           impossibles, et parce qu’elles sont impossibles, entraîner les gens à la solitude et au
@@ -3866,7 +3865,7 @@
           munie, en guise de préface, d’un compte rendu destiné à en faire goûter le mérite. Cette
           apologie est de la main d’un ancien adversaire, Donneau de Vizé, sorte de journaliste
           auteur, qui avait jusqu’alors assez décrié les pièces de Molière, probablement pour
-          l’incliner à jouer les siennes. En effet, <pb n="238" xml:id="p238"/> Molière se rendit,
+          l’incliner à jouer les siennes. En effet, <pb n="238" xml:id="p238"/>Molière se rendit,
           Alceste <hi rend="i">chanta.</hi> On n’est pas tous les jours disposé à perdre une cause
           pour la seule beauté du fait ! L’auteur du <hi rend="i">Misanthrope</hi> reçut à son
           théâtre je ne sais quelle comédie du critique, et celui-ci devint l’ami de la maison.
@@ -3883,7 +3882,7 @@
             en être <hi rend="i">trop ridicule</hi> ; et qu’il fait rire les honnêtes gens, sans
             dire de plaisanteries fades et basses, comme l’on a accoutumé de voir dans les pièces
             comiques. »</quote></p>
-        <p>On n’avait pas assez ri, le père de Sganarelle <pb n="239" xml:id="p239"/> s’en
+        <p>On n’avait pas assez ri, le père de Sganarelle <pb n="239" xml:id="p239"/>s’en
           inquiétait, et c’est sur quoi Donneau devait surtout faire porter l’avertissement au
           lecteur. Il ajoute donc que les plaisanteries de celte nature fine et sérieuse doivent
           être prisées plus que les autres qui ont plus de succès ? <quote>« Elles me semblent plus
@@ -3900,7 +3899,7 @@
           est à son art plus qu’à son génie. Cet art dont il se flattait de connaître les mystères,
           n’a point de secret qui puisse contraindre l’âme humaine à rire des vices, c’est-à-dire
           des difformités et des misères de l’humanité. Molière a d’ailleurs accru cette difficulté,
-          déjà invincible, en évitant de <pb n="240" xml:id="p240"/> rendre le <hi rend="i"
+          déjà invincible, en évitant de <pb n="240" xml:id="p240"/>rendre le <hi rend="i"
             >Misanthrope</hi> tout à fait ridicule et en lui donnant même un caractère élevé, ce qui
           l’oblige à le faire plaindre et à le laisser malheureux. Il y était en même temps
           contraint et enclin.</p>
@@ -3917,7 +3916,7 @@
             caractère toute sa vie ».</quote>Ainsi Molière, condamnant cette fois la plupart de ses
           ouvrages et l’essentiel de sa profession, a dédaigné de faire rire des lèvres ; il a
           poursuivi un but plus noble, il a voulu faire « rire dans l’âme », et ce but, il l’a
-          manqué. <pb n="241" xml:id="p241"/> Il devait le manquer et connaître l’impuissance de
+          manqué. <pb n="241" xml:id="p241"/>Il devait le manquer et connaître l’impuissance de
           l’art par lequel il prétendait donner la vraie vie à des êtres imaginaires. Que se propose
           la comédie ? Elle veut peindre des passions qu’elle prétend observer, mais qu’en réalité
           elle invente, et elle annonce qu’elle saura les corriger en riant. C’est son affiche : <hi
@@ -3963,7 +3962,7 @@
             rend="i">rire de l’âme</hi> n’éclate point à la vue des passions vraies, ni des
           peintures <hi rend="i">amusantes</hi> qu’on en prétend faire. Lorsqu’il y a du rire, il
           n’y a plus de vraie passion. A cette corde qu’il invente, le poète comique se pend et elle
-          le précipite dans la farce pour ne pas se rompre sous <pb n="244" xml:id="p244"/> le poids
+          le précipite dans la farce pour ne pas se rompre sous <pb n="244" xml:id="p244"/>le poids
           de la vérité. L’avarice, la haine, l’envie, la colère, la paresse et la gourmandise même
           font des actions ridicules et répugnantes ; néanmoins elles sont sérieuses et tristes ;
           l’amour est très sérieux de sa nature, et pas du tout comique lorsqu’on le regarde de
@@ -3980,7 +3979,7 @@
           l’effet moral de l’œuvre, et en même temps il nous révèle que si Molière n’était pas mal
           satisfait du caractère d’Alceste, il se mirait et s’admirait pleinement dans celui de
           Philinte. <quote>« L’ami du Misanthrope est <hi rend="i">si raisonnable</hi>, que <hi
-              rend="i">tout le monde devrait l’imiter</hi> : il n’est <pb n="245" xml:id="p245"/> ni
+              rend="i">tout le monde devrait l’imiter</hi> : il n’est <pb n="245" xml:id="p245"/>ni
               <hi rend="i">trop</hi> ni <hi rend="i">trop peu</hi> critique ; et ne portant les
             choses ni dans l’un ni dans l’autre excès, sa conduite <hi rend="i">doit être admirée de
               tout le monde.</hi> »</quote></p>
@@ -3997,7 +3996,7 @@
           blondes ; il n’a point de procès, il n’est point amoureux, ou il l’est si tranquillement
           et d’une personne si convenable que ce n’est pas la peine d’en parler. Comme les fureurs
           d’Alceste sont sans raison et tiennent principalement à son humeur difficile, les
-          imperturbables sérénités <pb n="246" xml:id="p246"/> de Philinte sont sans vertu et
+          imperturbables sérénités <pb n="246" xml:id="p246"/>de Philinte sont sans vertu et
           reposent uniquement sur son flegme qu’aucune tempête ne secoue. Il n’est point pacifique,
           il est indifférent et heureux. Alceste a du caractère et pas d’esprit, Philinte a de
           l’esprit et pas de caractère : c’est le cas de dire que tous deux ensemble ne pèsent pas
@@ -4015,7 +4014,7 @@
           ceux qui jugent volontiers de ce qu’ils ignorent.</p>
         <quote>
           <l>— Eh bien ? lui dis-je. — Eh bien, me répondit-il avec son ingénuité de savant et de
-            brave homme, tous ces gens-là sont <pb n="247" xml:id="p247"/> des mauvais sujets plus
+            brave homme, tous ces gens-là sont <pb n="247" xml:id="p247"/>des mauvais sujets plus
             ou moins facétieux, plongés dans l’intrigue, et peu retenus en leur langage. Alceste
             n’est qu’un vertueux du paganisme, de ceux qu’on appelle Socrate, Bias, Diogène, etc.,
             mêlé d’une forte partie de ce pharisien de l’Évangile qui prie debout dans le Temple,
@@ -4129,7 +4128,7 @@
           Ainsi l’honnête Philinte résout très mal, sur les données de la sagesse la plus vaine et
           la plus vulgaire, des questions que l’emportement d’Alceste a très mal posées.</p>
         <p>Mais où ce sage de salon, plus misanthrope au fond que son ami, me paraît livrer son
-          secret et <pb n="253" xml:id="p253"/> donner sa mesure, c’est dans l’aphorisme suivant,
+          secret et <pb n="253" xml:id="p253"/>donner sa mesure, c’est dans l’aphorisme suivant,
           tout imprégné de bile insolente contre la pauvre humanité :</p>
         <quote>
           <p>.… Mon esprit n’est pas plus offensé</p>
@@ -4149,7 +4148,7 @@
           l’humanité, le libre arbitre et la Providence ; mais ses comparaisons seraient encore très
           mauvaises et très sottes. Les actes des hommes n’ont aucune parité avec ceux des animaux.
           Les brutes n’agissent que par un instinct déterminé et irresponsable ; la puce ne se
-          propose <pb n="254" xml:id="p254"/> point de tourmenter l’homme et la vipère ne complote
+          propose <pb n="254" xml:id="p254"/>point de tourmenter l’homme et la vipère ne complote
           point de le mettre à mort. Au contraire, les hommes en transgressant les commandements de
           Dieu, en opprimant leurs semblables, en commettant l’iniquité, savent ce qu’ils font et le
           veulent faire ; ils résistent à la voix de leur conscience tandis qu’ils seraient libres
@@ -4199,7 +4198,7 @@
           l’allégresse ; passion désespérée de la fange, haïe, pleine de mépris et de fureur,
           incurable même au dégoût. L’homme de Molière est le jouet de cet amour et la femme qui
           l’inspire n’en peut allumer d’autre : elle est fourbe, frivole, ingrate, audacieuse,
-          corrompue, sensible <pb n="257" xml:id="p257"/> seulement au plaisir et à la vanité. On ne
+          corrompue, sensible <pb n="257" xml:id="p257"/>seulement au plaisir et à la vanité. On ne
           trouve pas dans tout le théâtre de Molière une figure d’épouse ni de mère, ni de vierge,
           ni d’amante : ou ce sont des délurées et des « dessalées » prêtes à risquer toute
           aventure, ou des pecques et des raisonneuses, ou de fades accessoires de comédie qui
@@ -4217,7 +4216,7 @@
           prolonger le moment qui précède la fin, et qui s’offre crûment sans spécifier le cas ; une
           raisonneuse, Éliante, qui, malgré sa raison ou ses raisonnements, trouve aussi le rude
           Alceste fort à son goût, le lui dit aussi, et, refusée, s’accommode de Philinte, lequel
-          est instruit de <pb n="258" xml:id="p258"/> tout et n’en est pas autrement importuné ;
+          est instruit de <pb n="258" xml:id="p258"/>tout et n’en est pas autrement importuné ;
           enfin une coquette achevée, mais surtout une méchante langue incomparable, la fameuse et
           retentissante Célimène, de qui Alceste est amoureux. Celle-ci réunit à peu près tous les
           défauts épars sur les autres créations féminines de Molière. Il fit jouer ce rôle par sa
@@ -4232,7 +4231,7 @@
           autre côté je ne trouve pas que ce coup de génie soit un trait de caractère. Alceste est
           orgueilleux, non point bas et corrompu ; il ne peut donc devenir si profondément l’esclave
           de cet attrait vengeur par lequel la corruption se soumet à la corruption et en est
-          inexorablement <pb n="259" xml:id="p259"/> flagellée. Molière a oublié deux choses de
+          inexorablement <pb n="259" xml:id="p259"/>flagellée. Molière a oublié deux choses de
           grande conséquence : la première, que son <hi rend="i">Misanthrope</hi> n’est pas un vieux
           comédien, professeur émérite de mœurs galantes ; la seconde, que ce misanthrope, tel qu’il
           l’a dépeint, n’a pas mérité d’être et ne saurait devenir l’un des amants et l’un des
@@ -4248,7 +4247,7 @@
           suffirait à lui donner la leçon qu’il mérite. Je ne veux pas être complaisant pour le
           crime, je cherche à n’être que juste envers l’imperfection.</p>
         <p>A prendre le monde un peu dans le goût de Philinte, c’est-à-dire tel qu’il est, je crois
-          qu’on <pb n="260" xml:id="p260"/> y voit beaucoup de femmes dignes de respect et
+          qu’on <pb n="260" xml:id="p260"/>y voit beaucoup de femmes dignes de respect et
           d’affection qui sont cependant atteintes de coquetterie. Si je ne craignais de dire un
           trop gros mot, et si je pouvais m’assurer qu’on ne doute pas que je fais les exceptions
           raisonnables, j’ajouterais que toute femme est coquette de nature, comme tout homme est
@@ -4263,7 +4262,7 @@
           résoudre le matin de ne pas plaire du tout ; très aisément et très sincèrement touchées de
           repentir quand elles s’aperçoivent qu’elles ont trop plu, mais d’un repentir qui n’est pas
           ordinairement sans douceur et sans un peu d’envie de recommencer. Sont-ce des saintes ?
-          Pas encore<pb n="261" xml:id="p261"/> Sont-ce des Célimènes ? Pas du tout. Ce sont de
+          Pas encore <pb n="261" xml:id="p261"/>Sont-ce des Célimènes ? Pas du tout. Ce sont de
           pauvres, de faibles, d’aimables créatures qui cèdent et résistent à l’instinct ; c’est la
           petite et fragile humanité, penchant à la chute, restant debout. Celui qui est sans péché
           ne jettera pas la première pierre sur cette misère qui demande pourtant la force, sans la
@@ -4278,7 +4277,7 @@
           hommes peuvent être haïssables, ce sont ceux qui disent que le mal est le bien, enseignant
           ainsi à faire le mal avec sécurité. Célimène est de cette espèce infâme et monstrueuse.
           Elle ne se borne pas à pratiquer le mal, elle le professe et trouve qu’elle fait bien,
-          qu’elle est dans son droit. On accordera <pb n="262" xml:id="p262"/> qu’il y a une
+          qu’elle est dans son droit. On accordera <pb n="262" xml:id="p262"/>qu’il y a une
           distance entre le mouvement premier de la nature, qui veut plaire, et le conseil du péché,
           qui se propose de séduire. Non pas que ce soit chose tout à fait innocente que vouloir
           plaire : la nature n’est pas innocente ! mais enfin je la comprends, je la plains, et
@@ -4308,7 +4307,7 @@
           entende parler de celte humeur fière et intraitable que personne ne peut enchaîner ni
           seulement adoucir. Elle le rencontre, c’est l’affaire d’un entretien, d’un mot peut-être ;
           elle lui donne des rivaux, le voilà pris, et elle-même se laisse engager. Cependant
-          l’aventure se noue, les caractères et les cœurs se <pb n="264" xml:id="p264"/> déclarent.
+          l’aventure se noue, les caractères et les cœurs se <pb n="264" xml:id="p264"/>déclarent.
           L’un est blessé, l’autre n’est qu’effleuré ; l’un souffre, l’autre s’intéresse tout au
           plus, ou seulement s’amuse ; l’un veut lier à jamais, l’autre s’est seulement proposé de
           rôder autour de l’amour, et veut rester libre. C’est ce qu’on appelle le jeu des
@@ -4324,7 +4323,7 @@
           frivolité, et touchée de cet amour vrai et de cette souffrance dont elle est cause,
           s’interroge et réfléchit. En face d’Alceste, il y a de quoi réfléchir. Quel mari sera ce
           bourru, déjà si difficile et si impérieux amant ? Célimène se pose la question des cœurs
-          médiocres et médiocrement épris : elle se demande <pb n="265" xml:id="p265"/> si elle sera
+          médiocres et médiocrement épris : elle se demande <pb n="265" xml:id="p265"/>si elle sera
           heureuse dans la dépendance de cet honnête homme contrariant. Je ne la loue ni ne la
           blâme. Elle a le droit d’être médiocre et de médiocrement aimer. Pendant trois mois de
           l’année 1865, toutes les âmes sensibles de France ont adoré une héroïne de roman nommée
@@ -4355,7 +4354,7 @@
           pique lorsque le Misanthrope lui annonce qu’il ne lui demandera plus de le consoler, et se
           fait aussitôt ramasser par Philinte, devenu subitement imprévoyant ; la prude Arsinoé se
           met au rabais sans nulle pruderie ; les galants hommes de cour font à Célimène une scène
-          de rustres achevés ; la coquette et l’évaporée <pb n="267" xml:id="p267"/> Célimène
+          de rustres achevés ; la coquette et l’évaporée <pb n="267" xml:id="p267"/>Célimène
           déploie tout à coup autant de sensibilité que de raison ; enfin l’amoureux par excellence,
           l’amoureux fou, l’amoureux héroïque, Alceste, triomphe instantanément de cet amour qui est
           en même temps sa punition la plus certaine et sa plus belle folie, le trait le plus

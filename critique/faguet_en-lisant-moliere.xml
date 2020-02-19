@@ -8,7 +8,7 @@
     <fileDesc>
       <titleStmt>
         <title>En lisant Molière : l’homme et son temps, l’écrivain et son œuvre</title>
-        <author key="Faguet, Émile (1847-1916)">Émile Faguet</author>
+      	<author key="Faguet, Émile (1847-1916)" ref="https://data.bnf.fr/fr/11902158/emile_faguet/">Émile Faguet</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
@@ -1419,7 +1419,7 @@
             <l>Et veut que l’on soit sage avec sobriété […]</l>
             <l>Il faut fléchir au temps sans obstination.</l>
           </quote>
-          <p>Cette misanthropie indulgente est devenue, chez Philinte, non seulement cette « sagesse » qu’il vient de décrire, mais une véritable <hi rend="i">bonté</hi>, ou, si l’on veut, et<pb n="198" xml:id="p198"/>c’est plutôt cela, sa bonté naturelle a été aidée par cette sagesse de désabusé et Philinte est très bon.</p>
+          <p>Cette misanthropie indulgente est devenue, chez Philinte, non seulement cette « sagesse » qu’il vient de décrire, mais une véritable <hi rend="i">bonté</hi>, ou, si l’on veut, et <pb n="198" xml:id="p198"/>c’est plutôt cela, sa bonté naturelle a été aidée par cette sagesse de désabusé et Philinte est très bon.</p>
           <p>Il est remarquable que dans la « scène des portraits », et c’est-à-dire des médisances, lui seul ne médit point et non pas même (ce que fait Alceste) de ceux qui médisent, il est remarquable qu’il aime Alceste très chèrement et qu’il s’attache à lui, « qu’il ne le quitte ! pas »<quote/>pour le servir dans une circonstance pénible et un peu dangereuse. De cette bonté, il s’est parfaitement rendu compte lui-même et il la considère spirituellement <hi rend="i">comme</hi> une conséquence de sa philosophie. Quand on s’est habitué à supporter les défauts des hommes, on arrive à faire cas de ces défauts comme d’une occasion d’exercer sa philosophie et sa vertu, et l’on a à leur égard une espèce de gratitude et la bonté du pessimiste n’est pas autre chose que cette gratitude intelligente. Ce couplet, que Renan eût écrit, est des plus jolies délicatesses de Molière qui est quelquefois délicat :</p>
           <quote>
             <l>Et les hommes devraient être. faits d’autre sorte.</l>

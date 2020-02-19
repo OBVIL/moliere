@@ -3,13 +3,12 @@
 <?xml-model href="../anecdotes/anecdotes.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<!--odt2tei: 2015-03-17T11:09:17+01:00-->
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Molière, élève de Gassendi (<hi rend="i">Revue du Lyonnais</hi>)</title>
-        <author key="Bouillier, Francisque (1813-1899)"> Francisque Bouillier</author>
+      	<author key="Bouillier, Francisque (1813-1899)" ref="https://data.bnf.fr/fr/12350423/francisque_bouillier/">Francisque Bouillier</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>

@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml">
-<?xml-model href="../anecdotes/anecdotes.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../anecdotes/anecdotes.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<!--odt2tei: 2015-03-17T11:09:17+01:00-->
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Molière et l’idéal moderne (<hi rend="i">Revue française</hi>)</title>
-        <author key="Hello, Ernest (1828-1885)">Ernest Hello</author>
+      	<author key="Hello, Ernest (1828-1885)" ref="https://data.bnf.fr/fr/12025043/ernest_hello/">Ernest Hello</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
@@ -37,7 +36,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><author>Ernest Hello</author>, <title>Revue française</title>, <biblScope>tome XII, numéro 112</biblScope>, <date>1<hi rend="sup">er</hi> mars 1858</date>, <biblScope>p. 230-239</biblScope>.</bibl>
+        <bibl><author>Ernest Hello</author>, <title>Revue française</title>, <biblScope>tome XII, numéro 112</biblScope>, <date>1er mars 1858</date>, <biblScope>p. 230-239</biblScope>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>

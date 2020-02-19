@@ -8,7 +8,7 @@
     <fileDesc>
       <titleStmt>
         <title>Notices des œuvres de Molière (V) : <hi rend="i">L’Amour médecin</hi> ; <hi rend="i">Le Misanthrope</hi> ; <hi rend="i">Le Médecin malgré lui</hi> ; <hi rend="i">Mélicerte</hi> ; <hi rend="i">La Pastorale comique</hi></title>
-        <author key="Auger, Louis-Simon (1772-1829)">Louis-Simon Auger</author>
+      	<author key="Auger, Louis-Simon (1772-1829)" ref="https://data.bnf.fr/fr/12516826/louis-simon_auger/">Louis-Simon Auger</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>

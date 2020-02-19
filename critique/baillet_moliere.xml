@@ -8,7 +8,7 @@
         <fileDesc>
             <titleStmt>
                 <title>MDXX. M. de Molière (<hi rend="i">Jugements des savants</hi>)</title>
-                <author key="Baillet, Adrien (1649-1706)">Adrien Baillet</author></titleStmt>
+            	  <author key="Baillet, Adrien (1649-1706)" ref="https://data.bnf.fr/fr/11889890/adrien_baillet/">Adrien Baillet</author></titleStmt>
             <editionStmt>
                 <edition>OBVIL</edition>
                 <respStmt>

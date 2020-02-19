@@ -3,13 +3,12 @@
 <?xml-model href="../anecdotes/anecdotes.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<!--Odette: 2018-02-26T22:52:56+01:00-->
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Éloge de Molière</title>
-        <author key="Chamfort, Sébastien-Roch-Nicolas de (1741?-1794)">Sébastien-Roch-Nicolas de Chamfort</author>
+      	<author key="Chamfort, Sébastien-Roch-Nicolas de (1741?-1794)" ref="https://data.bnf.fr/fr/11895962/sebastien-roch-nicolas_de_chamfort/">Sébastien-Roch-Nicolas de Chamfort</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>

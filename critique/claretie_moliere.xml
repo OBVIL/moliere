@@ -8,7 +8,7 @@
     <fileDesc>
       <titleStmt>
         <title>Molière, sa vie et ses œuvres</title>
-        <author key="Claretie, Jules (1840-1913)">Jules Claretie</author>
+      	<author key="Claretie, Jules (1840-1913)" ref="https://data.bnf.fr/fr/11896929/jules_claretie/">Jules Claretie</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>

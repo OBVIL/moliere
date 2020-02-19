@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml">
+  <?xml-model href="../anecdotes/anecdotes.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<TEI xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Molière (<hi rend="i">Grand Dictionnaire historique</hi>, éd. 1717) [graphies originales]</title>
+				<author key="Moréri, Louis (1643-1680)" ref="">Louis Moréri</author>
+			</titleStmt>
+			<editionStmt>
+				<edition>OBVIL</edition>
+				<respStmt>
+					<name>Eric Thiébaud</name>
+					<resp>Stylage sémantique</resp>
+				</respStmt>
+				<respStmt>
+					<name>Côme Saignol</name>
+					<resp>Édition et encodage TEI</resp>
+				</respStmt>
+				<respStmt>
+					<name>Wordpro</name>
+					<resp>Numérisation et encodage TEI</resp>
+				</respStmt>
+			</editionStmt>
+			<publicationStmt>
+				<publisher>Sorbonne Université, LABEX OBVIL</publisher>
+				<date when="2018"/>
+				<idno>http://obvil.sorbonne-universite.fr/corpus/Molière/critique/moreri_Molière_1717_orig/</idno>
+				<availability status="restricted">
+					<licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+						<p>Copyright © 2018 Sorbonne Université, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+						<p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+						<p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+						<p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+						<p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures, la diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+					</licence>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl><author>Louis Moréri</author>, <title><hi rend="i">« Molière (Jean Baptiste Poquelin) », in </hi>Le Grand Dictionaire historique, ou Le Mélange curieux de l’histoire sacrée et profane…</title>, dixieme édition, t. <biblScope unit="volume">III</biblScope>, <pubPlace>Amsterdam, La Haye, Utrecht</pubPlace>, <publisher>P. Brunel, R et G. Wettstein, David Mortier, Pierre de Coup, Adrien Moetjens, L. et H. Van Dole, Guillaume Vande Water</publisher>, <date>1717</date>, p. <biblScope unit="page">530</biblScope>. Source : <ref target="https://archive.org/stream/legranddictionai03mor#page/530/mode/2u">Internet Archive</ref>.</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when="1717">1717</date>
+			</creation>
+			<langUsage>
+				<language ident="fre">fre</language>
+			</langUsage>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div type="article" xml:id="Molière-jean-baptiste-poquelin">
+				<pb n="530" xml:id="p530"/>
+				<p>MOLIÈRE (Jean-Baptiste Poquelin) Poète Comique, était de Paris, et ses Pièces de Théâtre lui ont acquis une réputation, qui surpasse tout ce qu’on pourrait dire de lui. Le nom de sa Famille était Poquelin. Son père avait une Charge dans la Maison du Roi. On l’avait élevé avec assez de soin, et il avait fait beaucoup de progrès dans les Belles Lettres et dans le Droit. Son inclination le porta au Théâtre, où il se distingua et où il tomba malade, en représentant son <title>Malade Imaginaire</title>, en 1672. Il mourut peu de jours après. Divers Auteurs parlent de lui. Je me contenterai de rapporter ici ce que celui qui a fait les Réflexions sur la Poétique, a dit de ce célebre Poète Comique. <quote>« Mais personne, dit-il, n’a aussi porté le ridicule de la Comédie plus haut parmi nous, que Molière. Car les autres Poètes Comiques n’ont que les valets pour plaisants de leur Théâtre, et les plaisants du Théâtre de Molière, sont des Marquis et des gens de qualité. Les autres n’ont joué dans la Comédie, que la Vie Bourgeoise et commune , et Molière a joué tout Paris et la Cour. Il est le seul parmi nous, qui ait decouvert ces traits de la nature qui la distinguent et qui la font connaître. Les beautés des portraits qu’il a fait, sont si naturelles, qu’elles se font sentir aux personnes les plus grossières, et le talent qu’il avait de plaisanter était renforcé de la moitié par celui qu’il avait de contrefaire. Son <title>Misanthrope</title> est à mon sens le caractere le plus achevé et le plus singulier qui ait jamais paru sur le Théâtre. Mais l’ordonnance de ses Comédies est toujours défectueuse en quelque chose, et ses dénouements ne sont point heureux. »</quote> Il ne faut pas confondre ce Poète avec un autre <hi rend="sc">Molière</hi>, qui vivait en 1620 et qui a composé diverses Pièces de Théâtre, la <title>Polyxene</title>, des <title>Épîtres</title>, etc.</p>
+			</div>
+		</body>
+	</text>
+</TEI>

@@ -1,122 +1,130 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml">
-  <?xml-model href="../anecdotes/anecdotes.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+  <?xml-model href="../anecdotes/anecdotes.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<TEI xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0"><teiHeader>
-<fileDesc>
-<titleStmt>
-<title>Vie de Moliere (<hi rend="i">Réflexions sur les ouvrages de litérature</hi>) [graphies originales]</title>
-<author key="Granet, François (1692-1741)">Jean-François Granet</author>
-</titleStmt>
-<editionStmt>
-<edition>OBVIL</edition>
-<respStmt>
-<name>Eric Thiébaud</name>
-<resp>Stylage sémantique</resp>
-</respStmt>
-<respStmt>
-<name>Wordpro</name>
-<resp>Numérisation et encodage TEI</resp>
-</respStmt>
-</editionStmt>
-<publicationStmt>
-    <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-<date when="2018" />
-<idno>http://obvil.sorbonne-universite.fr/corpus/moliere/critique/granet_moliere_orig/</idno>
-<availability status="restricted">
-<licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
-<p>Copyright © 2018 Sorbonne Université, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
-<p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
-<p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
-<p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
-<p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures, la diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
-</licence>
-</availability>
-</publicationStmt>
-<sourceDesc>
-    <bibl><author>François François Granet</author>, <title><hi rend="i">« Vie de Moliere », in </hi>Réflexions sur les ouvrages de litérature, <hi rend="i">tome IX</hi></title>, <pubPlace>Paris</pubPlace>, <publisher>Briasson</publisher>, <date>1739</date>, <biblScope>p. 252-262</biblScope>. Source : <ref target="http://books.google.fr/books?id=iMymOvyC9tMC">Google</ref>.</bibl>
-</sourceDesc>
-</fileDesc>
-<profileDesc>
-<creation>
-<date when="1739" />
-</creation>
-<langUsage>
-<language ident="fre">fre</language>
-</langUsage>
-</profileDesc>
-</teiHeader>
-<text>
-<body>
-<div type="chapter" xml:id="vie-de-moliere">
-<pb n="252" /><p>L’Auteur de la Vie de Moliere,<note place="margin"><hi rend="i">Vie de Moliere.</hi></note> imprimée depuis quelques jours, chez Prault fils, débute par cette judicieuse réflexion : <quote>« Le goût de bien des Lecteurs pour les choses frivoles, &amp; l’envie de faire un Volume de ce qui ne devroit remplir que peu de pages, sont cause que l’Histoire des Hommes célebres est presque toujours gâtée par des détails inutiles, &amp; des contes populaires aussi faux qu’insipides : on y ajoute souvent des critiques injustes de leurs Ouvrages ».</quote> Il cite pour exemple de ce mauvais goût, l’Edition de Racine faite en 1728. Pour <pb n="253" />lui, il se propose, dans cette courte Histoire de la Vie de Moliere, d’éviter cet écueil. On ne dira, ajoute-t-il, de sa propre personne que ce qu’on a crû vrai &amp; digne d’être rapporté, &amp; on ne hasardera sur ses Ouvrages rien qui soit contraire aux sentimens du Public éclairé. Ainsi les faits, qui composent cette Vie, sont précisement ceux dont la verité a paru certaine à l’Auteur. En est-ce assez pour ne pas les révoquer en doute ? Ne faudroit-il pas pour cela avoir indiqué les sources où on les a puisés ? Du reste, comme la plûpart se trouvent dans les Mémoires historiques, dont on a orné la belle Edition <hi rend="i">in</hi>-4°. de Moliere, ils semblent avoir acquis une espece de certitude, qui ne peut être ébranlée que par des faits contraires, plus évidemment certains.</p>
-<p>Je ne ferai que voltiger sur cette Vie ; &amp; à l’exemple de l’Auteur qui ne s’est pas mis en peine de lier les faits Historiques, j’en tirerai quelques-uns, qui pourront donner lieu à de plus grands éclaircissemens. <quote>« Quelques curieux, dit-il, page 11. ont conservé deux Pieces de Moliere dans le genre du mauvais Théatre Italien ; l’une est le <hi rend="i">Médecin volant</hi> ; &amp; l’autre, <hi rend="i">la Jalousie débarbouillée</hi>. <pb n="254" />Elles sont en Prose, &amp; écrites en entier. Il y a quelques phrases &amp; quelques incidens de la premiere, qui nous sont conservés dans le <hi rend="i">Médecin malgré lui</hi> ; &amp; on trouve dans <hi rend="i">la Jalousie débarbouillée</hi> un canevas, quoiqu’informe du troisiéme Acte <hi rend="i">de George Dandin</hi> ».</quote></p>
-<p>Antoine <hi rend="i">Baudeau</hi>, dans la Préface de la Comédie <hi rend="i">des véritables Prétieuses</hi>, reproche à Moliere d’avoir imité le <hi rend="i">Médecin volant</hi>, &amp; plusieurs autres Pieces du Théatre Italien. Je rapporterai dans la fuite le passage entier.</p>
-<p><quote>« Le crédit que Moliere avoit auprès du Roi, dit l’Auteur, paroît assez par le Canonicat qu’il obtint pour le fils de son Médecin. Ce Médecin s’appelloit Mauvilain. Tout le monde sçait qu’étant un jour au dîner du Roi : Vous avez un Médecin, dit le Roi à Moliere, que vous fait-il ? Sire, répondit Moliere, nous causons ensemble, il m’ordonne des remédes, je ne les fais point, &amp; je guéris ».</quote> Mais ce Médecin n’étoit pas aussi inutile qu’on le dit à Moliere, puisqu’il lui fournissoit des traits satiriques contre la salubre Faculté. Voici ce qu’en dit M. de Vaux célebre Chirurgien, dans une addition manuscrite, <pb n="255" />à son <hi rend="i">Index funereus Chirurgorum Parisiensium</hi>.<note place="bottom" n="*"><hi rend="i">M. Nicolaus Mauvilain, filium reliquit D.M. Parisiensem, facie asperâ, moroso &amp; inquieto genio præditum. Nam licet Chirurgi filius, cum in sui Decanatûs carriculo, quidquid poterat molestiæ, Chirurgorum societati fecisset, non melius de suâ facultate meritus fuit, Poquelino Molierio suæ Ægri imaginarii Comædiæ scenas accessorias suppeditando ; quæ Medecinæ &amp; Medicorum autoritatem adeò apud plebem imminueruut, ut nunc apud plerosque cives tantum pro formâ vocentur Medici, eorum præscriptionibus &amp; ratiociniis ferè nullam habentes fiduciam eò quod eventus spem à Medicis datam Ægros &amp; assistentes persapè fallat.</hi></note> <quote>« Nicolas Mauvilain, Chirurgien de Paris, laissa un fils Docteur de la Faculté de Médecine de Paris, qui avoit un air bouru, &amp; un génie bisarre &amp; inquiet. Car quoique fils d’un Chirurgien, il fit dans le cours de son Decanat, tout le mal qu’il put à la Societé de S. Côme. Il n’en usa pas mieux avec sa Faculté, ayant fourni à Poquelin de Moliere des Scénes accessoires, pour sa Comédie du <hi rend="i">Malade imaginaire</hi>, qui ont si fort diminué parmi le Peuple, l’autorité de la Médecine &amp; des Médecins, que la plûpart des Citoyens, n’ayant aucune confiance en leurs ordonnances &amp; en leurs raisonnemens, n’appellent <pb n="256" />plus les Médecins que pour la forme, parce que l’évenement dément toujours les esperances qu’ils ont données ».</quote> Le Chirurgien exagere peut-être un peu les maux que la Comédie du <hi rend="i">Malade imaginaire</hi> a fait à la Médecine.</p>
-<p>L’Auteur prétend que de toutes les Epitaphes de Moliere qui ont été imprimées, la seule qui merite d’être rapportée, est celle que composa le fameux P. Bouhours. Elle fait allusion au refus qu’on fit d’enterrer un Homme qui avoit tant contribué à polir la Nation &amp; à former le bon goût. La voici :</p>
-<quote>
-<lg>
-    <l>  Tu réformas &amp; la Ville &amp; la Cour ;</l>
-    <l>  Mais quelle en fut la récompense ?</l>
-    <l>  Les François rougiront un jour</l>
-    <l>  De leur peu de reconnoissance ;</l>
-    <l>  Il leur fallut un Comédien</l>
-<l>Qui mit à les polir sa gloire &amp; son étude.</l>
-<l>Mais, Moliere, à ta gloire il ne manqueroit rien</l>
-<l>Si parmi les deffauts que tu peignis si bien</l>
-<l>Tu les avoir repris de leur ingratitude.</l>
-</lg>
-</quote>
-<p>Je passe maintenant aux jugemens de l’Auteur, sur les Pieces de Moliere. Il nous apprend que la Comédie des <hi rend="i">Précieuses <pb n="257" />ridicules</hi> fut faite pour la Province, &amp; que jouée à Paris, elle y fut applaudie, &amp; servit à corriger les <hi rend="i">Prétieuses</hi> de la Capitale du Royaume. Cette Piece attira des Critiques au Poëte. Un certain Antoine <hi rend="i">Baudeau</hi>, dit l’Auteur, fit les <hi rend="i">Veritables Prétieuses</hi>. J’ajouterai qu’il prétendit que Moliere n’avoit pas attrapé leur style, quoiqu’il ne soit, selon lui, qu’un Plagiaire. Ce misérable Ecrivain fit une Préface, dont je vais rapporter quelques morceaux, pour faire voir que les plus grands hommes sont exposés depuis long-tems à la fureur des plus ridicules barbouilleurs de papier. Ce qui m’étonne, c’est que M. Habert de Montmor de l’Academie Françoise ait souffert qu’on lui ait dedié une si mauvaise Piece, &amp; des injures atroces contre un des plus beaux génies de la France. Voici comme débute ce <hi rend="i">Bavius</hi> : <quote>« Depuis que la modestie &amp; l’insolence sont deux contraires, on ne les a jamais vûës mieux unies qu’a fait dans sa Préface l’Auteur prétendu des <hi rend="i">Précieuses ridicules</hi>. Car si nous examinons ses paroles, il semble qu’il soit assez modeste pour craindre de faire mettre son nom sous la presse. Cependant il cache sous cette fausse vertu tout ce que l’insolence a de plus <pb n="258" />effronté ; &amp; c’est sur le Théatre une Satire, qui, quoique sous des images grotesques, ne laisse pas de blesser tous ceux qu’il a voulu accuser : il fait de plus le Critique, il s’érige en Juge, &amp; condamne à la berne les Singes, sans voir qu’il prononce un Arrêt contre lui, en le prononçant contr’eux ; puisqu’il est certain qu’il est Singe en tout ce qu’il fait, &amp; que non-seulement il a copié les <hi rend="i">Précieuses</hi> de M. l’Abbé de Pure, jouées par les Italiens ; mais encore qu’il a imité par une singerie, dont il est seul capable, <hi rend="i">le Médecin volant</hi>, &amp; plusieurs autres Pieces des mêmes Italiens qu’il n’imite pas seulement en ce qu’ils ont joué sur leur Théatre ; mais encore en faisant leurs postures, contrefaisant sans cesse sur le sien, &amp; Trivelin &amp; Scaramouche. Mais qu’attendre d’un homme qui tire toute sa gloire des Mémoires de Gilles Gurgeo, qu’il a achetés de sa Veuve, &amp; dont il s’adopte tous les Ouvrages » ?</quote> Voilà comme les <hi rend="i">Bavius</hi>, les <hi rend="i">Mevius</hi> &amp; les <hi rend="i">Cornificius</hi> de ce tems-là traitoient Moliere. Faut il être surpris que les modernes se déchaînent contre les excellens Ecrivains de notre siécle ?</p>
-<p>On a reproché à Moliere que son <hi rend="i">Ecole <pb n="259" />des Maris</hi> n’étoit que la copie des <hi rend="i">Adelphes</hi> de Terence. L’Auteur de la Vie de Moliere soutient que la Comédie Latine a fourni tout au plus l’idée de la Françoise. <quote>« Il y a dans les Adelphes, dit-il, deux Viellards de differentes humeurs, qui donnent chacun une éducation differente aux Enfans qu’ils élevent ; il y a de même dans l’<hi rend="i">Ecole des Maris</hi> deux Tuteurs, dont l’un est severe, &amp; l’autre indulgent : voilà toute la ressemblance. Il n’y a presque point d’intrigue dans les Adelphes ; celle de l’<hi rend="i">Ecole des Maris</hi> est fine, interessante &amp; comique. Une des Femmes de la Piece de Terence qui devroit faire le personnage le plus interessant, ne paroît sur le Théatre que pour accoucher. L’Isabelle de Moliere occupe presque toujours la Scéne, avec esprit &amp; avec grace, &amp; mêle quelquefois la bienséance, même dans les tours qu’elle jouë à son Tuteur ».</quote> Il fait voir ensuite que l’Auteur François égale presque la pureté de la diction de Terence, &amp; qu’il le passe de bien loin dans le dénouement. Il le trouve encore superieur dans l’intrigue, dans le caractere, &amp; dans la plaisanterie.</p>
-<p>Il n’est pas étonnant que l’<hi rend="i">Ecole des <pb n="260" />Femmes</hi> ait été très-suivie &amp; très-critiquée ; tel est le sort des meilleures Pieces ; il n’y a gueres que celles-là qui méritent d’être discutées. Je trouve dans un Recueil de Vers, intitulé : <hi rend="i">Les Délices de la Poësie galante</hi>, des Stances sur l’<hi rend="i">Ecole des Femmes</hi>, qui attestent ces applaudissemens &amp; ces critiques. Je crois qu’on ne sera pas fâché de les trouver ici, d’autant mieux que ce Recueil n’est pas commun.</p>
-<quote>
-<label rend="center">STANCES<lb /><hi rend="i">Sur l’Ecole des Femmes.</hi></label>
-<lg>
-<l>Envain mille jaloux esprits,</l>
-<l>Moliere, osent avec mépris</l>
-<l>Censurer ton plus bel Ouvrage ;</l>
-<l>Sa charmante naïveté</l>
-<l>S’en va pour jamais d’âge en âge</l>
-<l>Enjouer la posterité.</l>
-</lg>
-<lg>
-<l> Tant que l’Univers durera,</l>
-<l>Avec plaisir on lira</l>
-<l>Que quoiqu’une femme complote,</l>
-<l>Un mari ne doit dire mot,</l>
-<l>Et qu’assez souvent la plus sote</l>
-<l>Est habile pour faire un sot.</l>
-</lg>
-<pb n="261" /><lg>
-<l> Ta Muse avec utilité</l>
-<l>Dit plaisamment la verité,</l>
-<l>Chacun profite à ton Ecole,</l>
-<l>Tout en est beau, tout en est bon</l>
-<l>Et ta plus burlesque parole</l>
-<l>Est souvent un docte Sermon.</l>
-</lg>
-<lg>
-<l> Que tu ris agréablement !</l>
-<l>Que tu badines sçavamment !</l>
-<l>Celui qui sçut vaincre Numance,</l>
-<l>Qui mit Carthage sous sa loi,</l>
-<l>Jadis sous le nom de Terence,</l>
-<l>Sçut-il mieux badiner que toi ?</l>
-</lg>
-<lg>
-<l> Laisse gronder tes envieux</l>
-<l>Ils ont beau crier en tous lieux</l>
-<l>Que c’est à tort qu’on te révere,</l>
-<l>Que tu n’es rien moins que plaisant ;</l>
-<l>Si tu sçavois un peu moins plaire,</l>
-<l>Tu ne leur déplairois pas tant.</l>
-</lg>
-</quote>
-<p>L’<hi rend="i">Amour Médecin</hi> donne lieu a l’Auteur de remarquer que c’est le premier Ouvrage dans lequel Moliere ait joué les Médecins. <quote>« Ils étoient fort differens, ajoute-t-il, de ceux d’aujourd’hui ; ils alloient presque toujours en robe &amp; <pb n="262" />en rabat, &amp; consultoient en Latin. Si les Médecins de notre tems ne connoissent pas mieux la nature, ils connoissent mieux le monde, &amp; sçavent que le grand art d’un Médecin, est l’art de plaire. Moliere peut avoir contribué à leur ôter leur pédanterie ; mais les mœurs du siécle qui ont changé en tout, y ont contribué davantage. L’esprit de raison s’est introduit dans toutes les sciences, &amp; la politesse dans toutes les conditions ».</quote> Mais dans combien d’occasions cet <hi rend="i">esprit de raison</hi> &amp; cette <hi rend="i">politesse</hi> sont en défaut, même parmi les personnes qui en connoissent le mieux le prix &amp; les avantages !</p>
-<p>Ce que j’ai tiré de la Vie de Moliere, suffit pour en faire connoître le mérite. On y trouve des réflexions fines &amp; délicates, avec des détails curieux &amp; interessans.</p>
-</div>
-</body>
-</text>
+<TEI xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Vie de Moliere (<hi rend="i">Réflexions sur les ouvrages de litérature</hi>) [graphies originales]</title>
+				<author key="Granet, François (1692-1741)" ref="https://data.bnf.fr/fr/12462160/francois_granet/">Jean-François Granet</author>
+			</titleStmt>
+			<editionStmt>
+				<edition>OBVIL</edition>
+				<respStmt>
+					<name>Eric Thiébaud</name>
+					<resp>Stylage sémantique</resp>
+				</respStmt>
+				<respStmt>
+					<name>Côme Saignol</name>
+					<resp>Édition et encodage TEI</resp>
+				</respStmt>
+				<respStmt>
+					<name>Wordpro</name>
+					<resp>Numérisation et encodage TEI</resp>
+				</respStmt>
+			</editionStmt>
+			<publicationStmt>
+				<publisher>Sorbonne Université, LABEX OBVIL</publisher>
+				<date when="2018"/>
+				<idno>http://obvil.sorbonne-universite.fr/corpus/moliere/critique/granet_moliere_orig/</idno>
+				<availability status="restricted">
+					<licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+						<p>Copyright © 2018 Sorbonne Université, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+						<p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+						<p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+						<p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+						<p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures, la diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+					</licence>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl><author>François François Granet</author>, <title><hi rend="i">« Vie de Moliere », in </hi>Réflexions sur les ouvrages de litérature, <hi rend="i">tome IX</hi></title>, <pubPlace>Paris</pubPlace>, <publisher>Briasson</publisher>, <date>1739</date>, <biblScope>p. 252-262</biblScope>. Source : <ref target="http://books.google.fr/books?id=iMymOvyC9tMC">Google</ref>.</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when="1739"/>
+			</creation>
+			<langUsage>
+				<language ident="fre">fre</language>
+			</langUsage>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div type="chapter" xml:id="vie-de-moliere">
+				<pb n="252" xml:id="p252"/>
+				<p>L’Auteur de la Vie de Moliere,<note place="margin"><hi rend="i">Vie de Moliere.</hi></note> imprimée depuis quelques jours, chez Prault fils, débute par cette judicieuse réflexion : <quote>« Le goût de bien des Lecteurs pour les choses frivoles, &amp; l’envie de faire un Volume de ce qui ne devroit remplir que peu de pages, sont cause que l’Histoire des Hommes célebres est presque toujours gâtée par des détails inutiles, &amp; des contes populaires aussi faux qu’insipides : on y ajoute souvent des critiques injustes de leurs Ouvrages ».</quote> Il cite pour exemple de ce mauvais goût, l’Edition de Racine faite en 1728. Pour <pb n="253" xml:id="p253"/>lui, il se propose, dans cette courte Histoire de la Vie de Moliere, d’éviter cet écueil. On ne dira, ajoute-t-il, de sa propre personne que ce qu’on a crû vrai &amp; digne d’être rapporté, &amp; on ne hasardera sur ses Ouvrages rien qui soit contraire aux sentimens du Public éclairé. Ainsi les faits, qui composent cette Vie, sont précisement ceux dont la verité a paru certaine à l’Auteur. En est-ce assez pour ne pas les révoquer en doute ? Ne faudroit-il pas pour cela avoir indiqué les sources où on les a puisés ? Du reste, comme la plûpart se trouvent dans les Mémoires historiques, dont on a orné la belle Edition <hi rend="i">in</hi>-4°. de Moliere, ils semblent avoir acquis une espece de certitude, qui ne peut être ébranlée que par des faits contraires, plus évidemment certains.</p>
+				<p>Je ne ferai que voltiger sur cette Vie ; &amp; à l’exemple de l’Auteur qui ne s’est pas mis en peine de lier les faits Historiques, j’en tirerai quelques-uns, qui pourront donner lieu à de plus grands éclaircissemens. <quote>« Quelques curieux, dit-il, page 11. ont conservé deux Pieces de Moliere dans le genre du mauvais Théatre Italien ; l’une est le <hi rend="i">Médecin volant</hi> ; &amp; l’autre, <hi rend="i">la Jalousie débarbouillée</hi>. <pb n="254" xml:id="p254"/>Elles sont en Prose, &amp; écrites en entier. Il y a quelques phrases &amp; quelques incidens de la premiere, qui nous sont conservés dans le <hi rend="i">Médecin malgré lui</hi> ; &amp; on trouve dans <hi rend="i">la Jalousie débarbouillée</hi> un canevas, quoiqu’informe du troisiéme Acte <hi rend="i">de George Dandin</hi> ».</quote></p>
+				<p>Antoine <hi rend="i">Baudeau</hi>, dans la Préface de la Comédie <hi rend="i">des véritables Prétieuses</hi>, reproche à Moliere d’avoir imité le <hi rend="i">Médecin volant</hi>, &amp; plusieurs autres Pieces du Théatre Italien. Je rapporterai dans la fuite le passage entier.</p>
+				<p><quote>« Le crédit que Moliere avoit auprès du Roi, dit l’Auteur, paroît assez par le Canonicat qu’il obtint pour le fils de son Médecin. Ce Médecin s’appelloit Mauvilain. Tout le monde sçait qu’étant un jour au dîner du Roi : Vous avez un Médecin, dit le Roi à Moliere, que vous fait-il ? Sire, répondit Moliere, nous causons ensemble, il m’ordonne des remédes, je ne les fais point, &amp; je guéris ».</quote> Mais ce Médecin n’étoit pas aussi inutile qu’on le dit à Moliere, puisqu’il lui fournissoit des traits satiriques contre la salubre Faculté. Voici ce qu’en dit M. de Vaux célebre Chirurgien, dans une addition manuscrite, <pb n="255" xml:id="p255"/>à son <hi rend="i">Index funereus Chirurgorum Parisiensium</hi>.<note place="bottom" n="*"><hi rend="i">M. Nicolaus Mauvilain, filium reliquit D.M. Parisiensem, facie asperâ, moroso &amp; inquieto genio præditum. Nam licet Chirurgi filius, cum in sui Decanatûs carriculo, quidquid poterat molestiæ, Chirurgorum societati fecisset, non melius de suâ facultate meritus fuit, Poquelino Molierio suæ Ægri imaginarii Comædiæ scenas accessorias suppeditando ; quæ Medecinæ &amp; Medicorum autoritatem adeò apud plebem imminueruut, ut nunc apud plerosque cives tantum pro formâ vocentur Medici, eorum præscriptionibus &amp; ratiociniis ferè nullam habentes fiduciam eò quod eventus spem à Medicis datam Ægros &amp; assistentes persapè fallat.</hi></note>
+					<quote>« Nicolas Mauvilain, Chirurgien de Paris, laissa un fils Docteur de la Faculté de Médecine de Paris, qui avoit un air bouru, &amp; un génie bisarre &amp; inquiet. Car quoique fils d’un Chirurgien, il fit dans le cours de son Decanat, tout le mal qu’il put à la Societé de S. Côme. Il n’en usa pas mieux avec sa Faculté, ayant fourni à Poquelin de Moliere des Scénes accessoires, pour sa Comédie du <hi rend="i">Malade imaginaire</hi>, qui ont si fort diminué parmi le Peuple, l’autorité de la Médecine &amp; des Médecins, que la plûpart des Citoyens, n’ayant aucune confiance en leurs ordonnances &amp; en leurs raisonnemens, n’appellent <pb n="256" xml:id="p256"/>plus les Médecins que pour la forme, parce que l’évenement dément toujours les esperances qu’ils ont données ».</quote> Le Chirurgien exagere peut-être un peu les maux que la Comédie du <hi rend="i">Malade imaginaire</hi> a fait à la Médecine.</p>
+				<p>L’Auteur prétend que de toutes les Epitaphes de Moliere qui ont été imprimées, la seule qui merite d’être rapportée, est celle que composa le fameux P. Bouhours. Elle fait allusion au refus qu’on fit d’enterrer un Homme qui avoit tant contribué à polir la Nation &amp; à former le bon goût. La voici :</p>
+				<quote>
+					<lg>
+						<l>Tu réformas &amp; la Ville &amp; la Cour ;</l>
+						<l>Mais quelle en fut la récompense ?</l>
+						<l>Les François rougiront un jour</l>
+						<l>De leur peu de reconnoissance ;</l>
+						<l>Il leur fallut un Comédien</l>
+						<l>Qui mit à les polir sa gloire &amp; son étude.</l>
+						<l>Mais, Moliere, à ta gloire il ne manqueroit rien</l>
+						<l>Si parmi les deffauts que tu peignis si bien</l>
+						<l>Tu les avoir repris de leur ingratitude.</l>
+					</lg>
+				</quote>
+				<p>Je passe maintenant aux jugemens de l’Auteur, sur les Pieces de Moliere. Il nous apprend que la Comédie des <hi rend="i">Précieuses <pb n="257" xml:id="p257"/>ridicules</hi> fut faite pour la Province, &amp; que jouée à Paris, elle y fut applaudie, &amp; servit à corriger les <hi rend="i">Prétieuses</hi> de la Capitale du Royaume. Cette Piece attira des Critiques au Poëte. Un certain Antoine <hi rend="i">Baudeau</hi>, dit l’Auteur, fit les <hi rend="i">Veritables Prétieuses</hi>. J’ajouterai qu’il prétendit que Moliere n’avoit pas attrapé leur style, quoiqu’il ne soit, selon lui, qu’un Plagiaire. Ce misérable Ecrivain fit une Préface, dont je vais rapporter quelques morceaux, pour faire voir que les plus grands hommes sont exposés depuis long-tems à la fureur des plus ridicules barbouilleurs de papier. Ce qui m’étonne, c’est que M. Habert de Montmor de l’Academie Françoise ait souffert qu’on lui ait dedié une si mauvaise Piece, &amp; des injures atroces contre un des plus beaux génies de la France. Voici comme débute ce <hi rend="i">Bavius</hi> : <quote>« Depuis que la modestie &amp; l’insolence sont deux contraires, on ne les a jamais vûës mieux unies qu’a fait dans sa Préface l’Auteur prétendu des <hi rend="i">Précieuses ridicules</hi>. Car si nous examinons ses paroles, il semble qu’il soit assez modeste pour craindre de faire mettre son nom sous la presse. Cependant il cache sous cette fausse vertu tout ce que l’insolence a de plus <pb n="258" xml:id="p258"/>effronté ; &amp; c’est sur le Théatre une Satire, qui, quoique sous des images grotesques, ne laisse pas de blesser tous ceux qu’il a voulu accuser : il fait de plus le Critique, il s’érige en Juge, &amp; condamne à la berne les Singes, sans voir qu’il prononce un Arrêt contre lui, en le prononçant contr’eux ; puisqu’il est certain qu’il est Singe en tout ce qu’il fait, &amp; que non-seulement il a copié les <hi rend="i">Précieuses</hi> de M. l’Abbé de Pure, jouées par les Italiens ; mais encore qu’il a imité par une singerie, dont il est seul capable, <hi rend="i">le Médecin volant</hi>, &amp; plusieurs autres Pieces des mêmes Italiens qu’il n’imite pas seulement en ce qu’ils ont joué sur leur Théatre ; mais encore en faisant leurs postures, contrefaisant sans cesse sur le sien, &amp; Trivelin &amp; Scaramouche. Mais qu’attendre d’un homme qui tire toute sa gloire des Mémoires de Gilles Gurgeo, qu’il a achetés de sa Veuve, &amp; dont il s’adopte tous les Ouvrages » ?</quote> Voilà comme les <hi rend="i">Bavius</hi>, les <hi rend="i">Mevius</hi> &amp; les <hi rend="i">Cornificius</hi> de ce tems-là traitoient Moliere. Faut il être surpris que les modernes se déchaînent contre les excellens Ecrivains de notre siécle ?</p>
+				<p>On a reproché à Moliere que son <hi rend="i">Ecole <pb n="259" xml:id="p259"/>des Maris</hi> n’étoit que la copie des <hi rend="i">Adelphes</hi> de Terence. L’Auteur de la Vie de Moliere soutient que la Comédie Latine a fourni tout au plus l’idée de la Françoise. <quote>« Il y a dans les Adelphes, dit-il, deux Viellards de differentes humeurs, qui donnent chacun une éducation differente aux Enfans qu’ils élevent ; il y a de même dans l’<hi rend="i">Ecole des Maris</hi> deux Tuteurs, dont l’un est severe, &amp; l’autre indulgent : voilà toute la ressemblance. Il n’y a presque point d’intrigue dans les Adelphes ; celle de l’<hi rend="i">Ecole des Maris</hi> est fine, interessante &amp; comique. Une des Femmes de la Piece de Terence qui devroit faire le personnage le plus interessant, ne paroît sur le Théatre que pour accoucher. L’Isabelle de Moliere occupe presque toujours la Scéne, avec esprit &amp; avec grace, &amp; mêle quelquefois la bienséance, même dans les tours qu’elle jouë à son Tuteur ».</quote> Il fait voir ensuite que l’Auteur François égale presque la pureté de la diction de Terence, &amp; qu’il le passe de bien loin dans le dénouement. Il le trouve encore superieur dans l’intrigue, dans le caractere, &amp; dans la plaisanterie.</p>
+				<p>Il n’est pas étonnant que l’<hi rend="i">Ecole des <pb n="260" xml:id="p260"/>Femmes</hi> ait été très-suivie &amp; très-critiquée ; tel est le sort des meilleures Pieces ; il n’y a gueres que celles-là qui méritent d’être discutées. Je trouve dans un Recueil de Vers, intitulé : <hi rend="i">Les Délices de la Poësie galante</hi>, des Stances sur l’<hi rend="i">Ecole des Femmes</hi>, qui attestent ces applaudissemens &amp; ces critiques. Je crois qu’on ne sera pas fâché de les trouver ici, d’autant mieux que ce Recueil n’est pas commun.</p>
+				<quote>
+					<label rend="center">STANCES<lb/><hi rend="i">Sur l’Ecole des Femmes.</hi></label>
+					<lg>
+						<l>Envain mille jaloux esprits,</l>
+						<l>Moliere, osent avec mépris</l>
+						<l>Censurer ton plus bel Ouvrage ;</l>
+						<l>Sa charmante naïveté</l>
+						<l>S’en va pour jamais d’âge en âge</l>
+						<l>Enjouer la posterité.</l>
+					</lg>
+					<lg>
+						<l> Tant que l’Univers durera,</l>
+						<l>Avec plaisir on lira</l>
+						<l>Que quoiqu’une femme complote,</l>
+						<l>Un mari ne doit dire mot,</l>
+						<l>Et qu’assez souvent la plus sote</l>
+						<l>Est habile pour faire un sot.</l>
+					</lg>
+					<pb n="261" xml:id="p261"/>
+					<lg>
+						<l> Ta Muse avec utilité</l>
+						<l>Dit plaisamment la verité,</l>
+						<l>Chacun profite à ton Ecole,</l>
+						<l>Tout en est beau, tout en est bon</l>
+						<l>Et ta plus burlesque parole</l>
+						<l>Est souvent un docte Sermon.</l>
+					</lg>
+					<lg>
+						<l> Que tu ris agréablement !</l>
+						<l>Que tu badines sçavamment !</l>
+						<l>Celui qui sçut vaincre Numance,</l>
+						<l>Qui mit Carthage sous sa loi,</l>
+						<l>Jadis sous le nom de Terence,</l>
+						<l>Sçut-il mieux badiner que toi ?</l>
+					</lg>
+					<lg>
+						<l> Laisse gronder tes envieux</l>
+						<l>Ils ont beau crier en tous lieux</l>
+						<l>Que c’est à tort qu’on te révere,</l>
+						<l>Que tu n’es rien moins que plaisant ;</l>
+						<l>Si tu sçavois un peu moins plaire,</l>
+						<l>Tu ne leur déplairois pas tant.</l>
+					</lg>
+				</quote>
+				<p>L’<hi rend="i">Amour Médecin</hi> donne lieu a l’Auteur de remarquer que c’est le premier Ouvrage dans lequel Moliere ait joué les Médecins. <quote>« Ils étoient fort differens, ajoute-t-il, de ceux d’aujourd’hui ; ils alloient presque toujours en robe &amp; <pb n="262" xml:id="p262"/>en rabat, &amp; consultoient en Latin. Si les Médecins de notre tems ne connoissent pas mieux la nature, ils connoissent mieux le monde, &amp; sçavent que le grand art d’un Médecin, est l’art de plaire. Moliere peut avoir contribué à leur ôter leur pédanterie ; mais les mœurs du siécle qui ont changé en tout, y ont contribué davantage. L’esprit de raison s’est introduit dans toutes les sciences, &amp; la politesse dans toutes les conditions ».</quote> Mais dans combien d’occasions cet <hi rend="i">esprit de raison</hi> &amp; cette <hi rend="i">politesse</hi> sont en défaut, même parmi les personnes qui en connoissent le mieux le prix &amp; les avantages !</p>
+				<p>Ce que j’ai tiré de la Vie de Moliere, suffit pour en faire connoître le mérite. On y trouve des réflexions fines &amp; délicates, avec des détails curieux &amp; interessans.</p>
+			</div>
+		</body>
+	</text>
 </TEI>

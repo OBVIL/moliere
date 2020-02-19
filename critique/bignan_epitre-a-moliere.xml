@@ -3,13 +3,12 @@
 <?xml-model href="../anecdotes/anecdotes.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<!--odt2tei: 2015-03-17T11:09:17+01:00-->
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Épître à Molière, qui a obtenu, au jugement de l’Académie française, une médaille d’or, dans le concours de la poésie de 1843</title>
-        <author key="Bignan, Anne (1795-1861)">Anne Bignan</author>
+      	<author key="Bignan, Anne (1795-1861)" ref="https://data.bnf.fr/fr/12437702/anne_bignan/">Anne Bignan</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>

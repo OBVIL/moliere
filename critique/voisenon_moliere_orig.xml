@@ -4,57 +4,69 @@
 <?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <TEI xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-<fileDesc>
-<titleStmt>
-    <title>Molière (<hi rend="i">Anecdotes littéraires, historiques et critiques</hi>) [graphies originales]</title>
-<author key="Voisenon, Claude-Henri de Fusée de (1708-1775)">Claude-Henri de Fusée de Voisenon</author>
-</titleStmt>
-<editionStmt>
-<edition>OBVIL</edition>
-<respStmt>
-<name>Eric Thiébaud</name>
-<resp>Stylage sémantique</resp>
-</respStmt>
-<respStmt>
-<name>Wordpro</name>
-<resp>Numérisation et encodage TEI</resp>
-</respStmt>
-</editionStmt>
-<publicationStmt>
-    <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-<date when="2018" />
-<idno>http://obvil.sorbonne-universite.fr/corpus/moliere/critique/voisenon_moliere_orig/</idno>
-<availability status="restricted">
-<licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
-<p>Copyright © 2018 Sorbonne Université, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
-<p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
-<p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
-<p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
-<p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures, la diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
-</licence>
-</availability>
-</publicationStmt>
-<sourceDesc>
-    <bibl><author>Claude-Henri de Fusée de Voisenon</author>, <title><hi rend="i">« Molière », in </hi> Anecdotes littéraires, historiques et critiques, sur les Auteurs les plus connus<hi rend="i">, repris dans </hi>Œuvres complettes de M. l’abbé de Voisenon, de l’Académie Françoise</title>, t. <biblScope unit="volume">IV</biblScope>, <pubPlace>Paris</pubPlace>, <publisher>Moutard</publisher>, <date>1781</date>, pp. <biblScope unit="page">41-42</biblScope>. Source : <ref target="https://books.google.fr/books?id=Nuf7-DTydrMC">Google</ref>.</bibl>
-</sourceDesc>
-</fileDesc>
-<profileDesc>
-<creation>
-<date when="1781" />
-</creation>
-<langUsage>
-<language ident="fre">fre</language>
-</langUsage>
-</profileDesc>
-</teiHeader>
-<text>
-<body>
-<div type="chapter" xml:id="moliere">
-<pb n="41" />
-    <head><hi rend="i">MOLIERE.</hi></head>
-<p>Moliere, né à Paris, fut, sans contredit, le plus grand Philosophe de son siecle. Personne n’a jamais mieux connu les ridicules, &amp; ne les a peints avec tant de force &amp; de vérité. Les Auteurs qu’il surpassoit, les originaux qu’il peignoit, ses camarades qu’il enrichissoit, étoient ses ennemis. Il critiquoit les hommes, &amp; sa femme les aimoit ; l’un tiroit sa gloire de leurs défauts, l’autre tiroit son plaisir de leurs foiblesses. Moliere avoit des amis respectables, qui le consoloient des chagrins qu’il essuyoit. Il avoit des talens trop supérieurs, &amp; s’appliquoit trop à corriger les mœurs, pour n’être pas le plus honnête homme. Il étoit ce qu’il désiroit que les autres fussent. La gaieté répandue dans ses Comédies n’étoit point dans sa conversation. Moliere pensoit trop, pour être plaisant dans la société ; c’étoit un observateur qui n’alloit dans le monde que pour y moissonner. Chapelle, son ami de confiance, étoit bien plus aimable que lui ; voilà pourquoi l’envie lui faisoit souvent l’honneur de lui attribuer les Pieces de Moliere. Mais Chapelle, avec beaucoup <pb n="42" />d’esprit &amp; d’agrément, ne se doutoit point de l’Art du Théatre ; il ne connoissoit ni la texture d’un Drame, ni la filiation des scènes, ni les différentes nuances des caracteres. Comme il étoit fort dissipé, il rendoit à Moliere ce qu’il avoit vu, &amp; Moliere le mettoit en œuvre. Chapelle n’en étoit pas plus l’Auteur, qu’un facteur l’est des lettres qu’il apporte. Cet homme unique mourut presque subitement : on eût dit qu’il vouloit enlever aux Médecins l’honneur &amp; le plaisir de le tuer.</p>
-</div>
-</body>
-</text>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Molière (<hi rend="i"
+					>Anecdotes littéraires, historiques et critiques</hi>) [graphies originales]</title>
+				<author key="Voisenon, Claude-Henri de Fusée de (1708-1775)"
+					ref="https://data.bnf.fr/fr/12003593/claude-henri_de_fusee_de_voisenon/"
+					>Claude-Henri de Fusée de Voisenon</author>
+			</titleStmt>
+			<editionStmt>
+				<edition>OBVIL</edition>
+				<respStmt>
+					<name>Eric Thiébaud</name>
+					<resp>Stylage sémantique</resp>
+				</respStmt>
+				<respStmt>
+					<name>Wordpro</name>
+					<resp>Numérisation et encodage TEI</resp>
+				</respStmt>
+			</editionStmt>
+			<publicationStmt>
+				<publisher>Sorbonne Université, LABEX OBVIL</publisher>
+				<date when="2018"/>
+				<idno>http://obvil.sorbonne-universite.fr/corpus/moliere/critique/voisenon_moliere_orig/</idno>
+				<availability status="restricted">
+					<licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+						<p>Copyright © 2018 Sorbonne Université, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+						<p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+						<p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+						<p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+						<p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures, la diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+					</licence>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl><author>Claude-Henri de Fusée de Voisenon</author>, <title><hi rend="i"
+							>« Molière », in </hi> Anecdotes littéraires, historiques et critiques, sur les Auteurs les plus connus<hi
+							rend="i"
+						>, repris dans </hi>Œuvres complettes de M. l’abbé de Voisenon, de l’Académie Françoise</title>, t. <biblScope
+						unit="volume"
+						>IV</biblScope>, <pubPlace>Paris</pubPlace>, <publisher>Moutard</publisher>, <date>1781</date>, pp. <biblScope
+						unit="page">41-42</biblScope>. Source : <ref
+						target="https://books.google.fr/books?id=Nuf7-DTydrMC">Google</ref>.</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when="1781"/>
+			</creation>
+			<langUsage>
+				<language ident="fre">fre</language>
+			</langUsage>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div type="chapter" xml:id="moliere">
+				<pb n="41" xml:id="p41"/>
+				<head><hi rend="i">MOLIERE.</hi></head>
+				<p>Moliere, né à Paris, fut, sans contredit, le plus grand Philosophe de son siecle. Personne n’a jamais mieux connu les ridicules, &amp; ne les a peints avec tant de force &amp; de vérité. Les Auteurs qu’il surpassoit, les originaux qu’il peignoit, ses camarades qu’il enrichissoit, étoient ses ennemis. Il critiquoit les hommes, &amp; sa femme les aimoit ; l’un tiroit sa gloire de leurs défauts, l’autre tiroit son plaisir de leurs foiblesses. Moliere avoit des amis respectables, qui le consoloient des chagrins qu’il essuyoit. Il avoit des talens trop supérieurs, &amp; s’appliquoit trop à corriger les mœurs, pour n’être pas le plus honnête homme. Il étoit ce qu’il désiroit que les autres fussent. La gaieté répandue dans ses Comédies n’étoit point dans sa conversation. Moliere pensoit trop, pour être plaisant dans la société ; c’étoit un observateur qui n’alloit dans le monde que pour y moissonner. Chapelle, son ami de confiance, étoit bien plus aimable que lui ; voilà pourquoi l’envie lui faisoit souvent l’honneur de lui attribuer les Pieces de Moliere. Mais Chapelle, avec beaucoup <pb
+						n="42" xml:id="p42"
+					/>d’esprit &amp; d’agrément, ne se doutoit point de l’Art du Théatre ; il ne connoissoit ni la texture d’un Drame, ni la filiation des scènes, ni les différentes nuances des caracteres. Comme il étoit fort dissipé, il rendoit à Moliere ce qu’il avoit vu, &amp; Moliere le mettoit en œuvre. Chapelle n’en étoit pas plus l’Auteur, qu’un facteur l’est des lettres qu’il apporte. Cet homme unique mourut presque subitement : on eût dit qu’il vouloit enlever aux Médecins l’honneur &amp; le plaisir de le tuer.</p>
+			</div>
+		</body>
+	</text>
 </TEI>

@@ -1,10 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml"><?xml-model href="../anecdotes/anecdotes.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml">
+<?xml-model href="../anecdotes/anecdotes.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <TEI xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title>De l’art de la comédie. Livre premier. De ses différentes parties (1<hi rend="sup">re</hi> éd.) [graphies originales]</title>
-                <author key="Cailhava de L’Estandoux, Jean-François (1731-1813)">Jean-François Cailhava</author>
+            	<author key="Cailhava de L’Estandoux, Jean-François (1731-1813)" ref="https://data.bnf.fr/fr/12146204/jean-francois_cailhava_d_estandoux/">Jean-François Cailhava</author>
             </titleStmt>
             <editionStmt>
                 <edition>OBVIL</edition>

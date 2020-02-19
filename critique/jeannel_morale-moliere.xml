@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml">
-<?xml-model href="../anecdotes/anecdotes.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../anecdotes/anecdotes.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<!--odt2tei: 2015-03-17T11:09:17+01:00-->
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>La morale de Molière</title>
-        <author key="Jeannel, Charles-Julien (1840-1876)">Charles-Julien Jeannel</author>
+      	<author key="Jeannel, Charles-Julien (1840-1876)" ref="https://data.bnf.fr/fr/10587397/charles-julien_jeannel/">Charles-Julien Jeannel</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
@@ -77,7 +76,7 @@
       <head>La Morale de Molière.</head>
       <div type="chapter">
         <head>CHAPITRE PREMIER. <lb/>Part de la Morale dans la Comédie de Molière.</head>
-        <p><pb n="1" xml:id="p1"/> « Quel est l’écrivain qui honore le plus mon règne ? — Sire,
+        <p><pb n="1" xml:id="p1"/>« Quel est l’écrivain qui honore le plus mon règne ? — Sire,
           c’est Molière, » avait répondu Boileau à Louis XIV avec la justesse de jugement qui fait
           son suprême mérite aux yeux des amis des lettres. Deux siècles de postérité, deux des
           siècles les plus polis, les plus littéraires, et aussi les plus critiques, ont confirmé
@@ -86,7 +85,7 @@
             et la popularité de Molière, non-seulement en France, mais en Europe, voir A. Legrelle,
               <hi rend="i">Holberg considéré comme imitateur de Molière</hi>, chap. I, 1.</note>.
           Malgré tant de changements de langage, de mœurs et d’idées, il semble destiné à vivre
-          toujours jeune parmi les Français, <pb n="2" xml:id="p2"/> ainsi qu’Homère parmi les
+          toujours jeune parmi les Français, <pb n="2" xml:id="p2"/>ainsi qu’Homère parmi les
           Grecs. C’est un des hommes rares dont l’inaltérable figure reste debout au milieu des
           générations qui disparaissent, comme les sommets neigeux qui brillent encore d’un pur
           éclat quand les hauteurs moindres sont déjà dans l’ombre. Son génie, avec celui de
@@ -106,7 +105,7 @@
           prétend étudier en quoi et par quoi ils le sont : et elle n’est point satisfaite tant
           qu’elle n’a point démêlé les divers éléments dont se constitue ce tout rare et complexe,
             <hi rend="i">le beau.</hi></p>
-        <p>Il ne nous suffit plus, comme aux premiers spectateurs <pb n="3" xml:id="p3"/> de
+        <p>Il ne nous suffit plus, comme aux premiers spectateurs <pb n="3" xml:id="p3"/>de
           Molière, qu une comédie nous charme par la vérité des caractères, l’habileté de l’intrigue
           et l’agrément du langage : nous voulons savoir quel esprit secret l’anime, quel but
           invisible aux yeux vulgaires s’est proposé l’auteur, au nom de quels principes latents il
@@ -152,7 +151,7 @@
           ceux qui veulent voir dans les œuvres dramatiques vraiment belles des intentions morales,
           prêtent presque toujours aux auteurs une pensée qu’ils n’ont point eue.</p>
         <p>Pour la comédie, qui, dit-on, <hi rend="i">castigat ridendo mores</hi>, il faut
-          reconnaître qu’elle corrige bien peu de <pb n="5" xml:id="p5"/> choses<note place="bottom"
+          reconnaître qu’elle corrige bien peu de <pb n="5" xml:id="p5"/>choses<note place="bottom"
             >Voir M. Raynaud, <hi rend="i">Les Médecins au temps de Molière</hi>, chap. VII.</note>.
           Ce n’est pas aux Aristophane ou aux Ménandre que les Athéniens durent ce qu’ils
           conservèrent d’héroïsme et de droiture ; et personne n’oserait souhaiter que les Français
@@ -173,7 +172,7 @@
         <p>Le but de la comédie est de <hi rend="i">faire rire</hi> : voilà la vérité. Quand Molière
           a écrit <hi rend="i">les Femmes savantes, le Misanthrope</hi>, même <hi rend="i">le
             Tartuffe</hi>, il songeait à nous divertir, et ne se proposait pas de faire un sermon
-            <pb n="6" xml:id="p6"/> sur les planches. L’idée que le théâtre doive être une école de
+            <pb n="6" xml:id="p6"/>sur les planches. L’idée que le théâtre doive être une école de
           mœurs n’a jamais été que le rêve irréalisé de ceux qui n’y ont rien produit de
           remarquable, et qui ont cru suppléer à l’insuffisance du talent par la moralité de
             l’intention<note place="bottom">Voir la <hi rend="i">Préface</hi> des <hi rend="i">Deux
@@ -229,7 +228,7 @@
             <quote>« J’avoue, dit-il, qu’il y a des lieux qu’il vaut mieux fréquenter que le
             théâtre ; et si l’on veut blâmer toutes les choses qui ne regardent pas directement Dieu
             et notre salut, il est certain que la comédie en doit être, et je ne trouve point
-            mauvais qu’elle soit condamnée <pb n="8" xml:id="p8"/> avec le reste. Mais supposé,
+            mauvais qu’elle soit condamnée <pb n="8" xml:id="p8"/>avec le reste. Mais supposé,
             comme il est vrai, que les exercices de la piété souffrent des intervalles, et que les
             hommes aient besoin de <hi rend="i">divertissement</hi>, je soutiens qu’on ne leur en
             peut trouver un qui soit plus <hi rend="i">innocent</hi> que la comédie<note
@@ -254,7 +253,7 @@
             >M. Jourdain</hi> en habit de marquis<note place="bottom"><hi rend="i">Le Bourgeois
               gentilhomme</hi>, act. I, sc. I.</note>, et secouait encore son ombre aux enfers<note
             place="bottom">Brécourt, <hi rend="i">L’Ombre de Molière</hi>, sc. IX.</note>. Qui
-          prétendra <pb n="9" xml:id="p9"/> jamais découvrir un but moral à <hi rend="i"
+          prétendra <pb n="9" xml:id="p9"/>jamais découvrir un but moral à <hi rend="i"
             >l’Amphitryon</hi> ou au <hi rend="i">Malade imaginaire</hi>, à moins que dans celui-ci
           Molière n’ait voulu instruire l’humanité du danger de prendre trop de remèdes, et lui
           prêcher dans celui-là les joies de l’adultère<note place="bottom">Voir plus loin, ch.
@@ -275,7 +274,7 @@
           par des émotions supérieures. C’est là sa gloire ; mais c’est aussi ce qui rend ses œuvres
           peu instructives, et leur ôte le caractère <hi rend="i">d’exemples</hi>, qu’elles
           devraient avoir pour enseigner avec fruit la morale. On peut voir nettement la différence
-            <pb n="10" xml:id="p10"/> de l’artiste dramatique et du moraliste dans la critique de
+            <pb n="10" xml:id="p10"/>de l’artiste dramatique et du moraliste dans la critique de
             <hi rend="i">Tartuffe</hi> faite par La Bruyère<note place="bottom"><quote>« Il ne dit
               point <hi rend="i">ma haire</hi> et <hi rend="i">ma discipline</hi>, au contraire : il
               passeroit pour ce qu’il est, pour un hypocrite, et il veut passer pour ce qu’il n’est
@@ -325,7 +324,7 @@
                 quelque autre, sur le théâtre, faire ridiculement le juge, le prince on le roi. »
                </quote><hi rend="i">Préface</hi> des <hi rend="i">Précieuses
             ridicules.</hi></p></note>.</p>
-        <p>Enfin, qu’est-ce encore une fois que la science du <pb n="11" xml:id="p11"/> bien et du
+        <p>Enfin, qu’est-ce encore une fois que la science du <pb n="11" xml:id="p11"/>bien et du
           mal, dans les œuvres d’un comédien qui ne la fonde que sur la crainte du ridicule,
           c’est-à-dire sur l’amour propre, et qui ne peut guère offrir à sa morale d’autre sanction
           sensible qu’un miracle, une intervention directe de Dieu<note place="bottom">Dénouement du
@@ -355,7 +354,7 @@
           ouvrages, sans avoir été écrits dans un but moral, ont plus que d’autres une influence sur
           les mœurs, et peuvent insinuer lentement dans le monde, d’une manière presque invisible,
           mais irrésistible, des éléments de moralité ou de corruption ; il y a des auteurs qui,
-          sans être des moralistes proprement dits, méritent <pb n="13" xml:id="p13"/> pourtant
+          sans être des moralistes proprement dits, méritent <pb n="13" xml:id="p13"/>pourtant
           d’être étudiés comme tels, à cause de leur puissance observatrice, de leur sens droit, de
           leur popularité, enfin à cause du caractère universel et supérieur de leur génie. Dans
           cette juste mesure, nulle œuvre artistique plus que celle de Molière, nul auteur
@@ -380,7 +379,7 @@
           morale qu’il ne cherche point, et qui pourtant s’y trouve. Dans ses peintures de mœurs,
           même artistiques et arrangées à sa <hi rend="i">fantaisie</hi>, ce sont les mœurs
           humaines, c’est l’humanité qu’il peint. Nous ne pouvons voir de tels tableaux sans qu’il
-          en résulte quelque réflexion sur <pb n="14" xml:id="p14"/> nous-mêmes, et une sorte de
+          en résulte quelque réflexion sur <pb n="14" xml:id="p14"/>nous-mêmes, et une sorte de
           comparaison tacite faite par notre conscience entre notre propre personne et ces <hi
             rend="i">personnages en l’air</hi> produits devant nos yeux. Parmi ces types créés par
           le caprice du génie, les uns sont attrayants et nous séduisent par le charme de leurs
@@ -398,7 +397,7 @@
           à nous moquer malgré nous ? Ajoutez que, pour assurer le succès, l’auteur étale les
           travers les plus saillants de l’humanité, ceux qui occupent le plus de place dans le monde
           et dans la personne de chacun ; en sorte que le type mis sur le théâtre, paraissant
-          toujours tenir quelque chose de <pb n="15" xml:id="p15"/> nous-mêmes ou de notre
+          toujours tenir quelque chose de <pb n="15" xml:id="p15"/>nous-mêmes ou de notre
             société<note place="bottom"><quote>« Jusque-là, il y avoit eu de l’esprit et de la
               plaisanterie dans nos comédies ; mais il y ajusta une grande naïveté, avec des images
               si vives des mœurs de son siècle, et des caractères si bien marqués, que les
@@ -423,7 +422,7 @@
           à l’étude approfondie du cœur humain sans être guidé par des principes et sans tirer des
           conclusions ? Pouvait-il s’empêcher de juger et ceux qu’il copiait et l’idéale copie qu’il
           en produisait ? Pouvait-il cacher toujours son approbation ou son amertume sous un rire
-          uniforme ? <pb n="16" xml:id="p16"/> Enfin, son grand sens, sa délicate sensibilité, son
+          uniforme ? <pb n="16" xml:id="p16"/>Enfin, son grand sens, sa délicate sensibilité, son
           observation pénétrante, toutes ses éminentes facultés pouvaient-elles s’appliquer à la
           peinture d’un caractère, à l’intrigue d’une passion, à la composition d’une scène de
           mœurs, sans y laisser jamais percer l’expression d’une opinion intime ou d’une émotion
@@ -443,7 +442,7 @@
           est <hi rend="i">la morale de Molière.</hi></p>
         <p>Cette recherche doit se borner à ses œuvres. S’il avait d’autres idées que celles qui y
           percent, c’est une question obscure d’abord, puisque pour l’éclairer on est réduit à des
-          hypothèses, et ensuite peu <pb n="17" xml:id="p17"/> intéressante, puisque ses idées
+          hypothèses, et ensuite peu <pb n="17" xml:id="p17"/>intéressante, puisque ses idées
           cachées n’ont pu avoir l’influence de celles qu’il a exprimées. D’ailleurs, pour des
           hommes d’un tel génie, leurs œuvres, c’est eux-mêmes : ils ne sont point des
           déclamateurs ; c’est avec leur cœur qu’ils écrivent. Ceux qui ont voulu voir en Molière un
@@ -539,7 +538,7 @@
       <div type="chapter">
         <head>CHAPITRE II. <lb/>La Débauche, l’Avarice et l’Imposture ; le Suicide et le
           Duel.</head>
-        <p><pb n="21" xml:id="p21"/> C’est donc à Molière qu’il faut demander ce qu’il pense ; c’est
+        <p><pb n="21" xml:id="p21"/>C’est donc à Molière qu’il faut demander ce qu’il pense ; c’est
           sur nous tous qui le lisons et l’admirons qu’il faut chercher quelle est son influence. Si
           nous voulons connaître sa morale, allons à son théâtre, écoutons ce qu’il dit, étudions
           l’impression qu’il produit. Essayons de démêler son jugement au milieu de toutes les
@@ -584,7 +583,7 @@
             patient, et je ne l’ai jamais vu sans souhaiter que l’auteur de la pièce fût foudroyé
             avec son athée. » (<hi rend="i">Sur les tragédies</hi>, dans <hi rend="i">Les Véritables
               œuvres de M. de Saint-Evremond</hi>, 2<hi rend="sup">e</hi> édit., Londres, 1706, tome
-            III, p. 143).</note>. En <pb n="23" xml:id="p23"/> effet, nous n’y voyons pas seulement
+            III, p. 143).</note>. En <pb n="23" xml:id="p23"/>effet, nous n’y voyons pas seulement
           le type traditionnel du débauché impie, qui eut une si heureuse fortune parmi les dévots
           spectateurs de l’autre côté des Pyrénées. La fable seule est espagnole, le nombre des
           conquêtes de <hi rend="i">don Juan</hi> et le châtiment épouvantable de sa vie indigne ;
@@ -599,7 +598,7 @@
           dernière trace de la vertu oubliée, le point d’honneur, disparaît après tout le reste.</p>
         <p>Donc le <hi rend="i">don Juan</hi> de Molière n’est point le personnage traditionnel et
             <hi rend="i">convenu</hi> des Espagnols : il est <hi rend="i">vivant</hi> ; et c’est
-          peut-être pour l’être trop qu’il fut si <pb n="24" xml:id="p24"/> peu représenté du temps
+          peut-être pour l’être trop qu’il fut si <pb n="24" xml:id="p24"/>peu représenté du temps
           de l’auteur, et subit ensuite si rigoureusement les coups de ciseaux de la censure : les
           grands seigneurs ne voulurent pas plus de <hi rend="i">don Juan</hi> que les faux dévots
           de <hi rend="i">Tartuffe</hi><note place="bottom">D’ailleurs <hi rend="i">don Juan</hi> se
@@ -624,7 +623,7 @@
           l’horreur ne nous prenne trop vile, et qui intéressent encore au héros, si méprisable
           qu’il soit ; qu’il ait agréablement mêlé à l’intrigue les traits et les situations les
           plus comiques, pour rester dans le domaine de la comédie, et ramener le rire chez le
-          spectateur prêt à subir des émotions moins gaies, <pb n="25" xml:id="p25"/> c’est une
+          spectateur prêt à subir des émotions moins gaies, <pb n="25" xml:id="p25"/>c’est une
           habileté d’auteur qu’on doit admirer, et qui ajoute grandement au mérite d’une pièce si
           difficile à rendre attrayante sans rendre le vice lui-même attrayant.</p>
         <p>Mais le caractère de <hi rend="i">don Juan</hi> offre plus que cela. Il est déjà très
@@ -694,7 +693,7 @@
               rend="i">Id.</hi>, act. I, sc. III ; act. II, sc.VII.</note>, à insulter<note
             place="bottom"><hi rend="i">Id.</hi>, act. I, sc. III ; act. IV, sc. VII.</note>, à
           cacher comme une honte les moindres bons sentiments<note place="bottom"><hi rend="i"
-              >Id.</hi>, act. II, sc. VII ; act. IV, sc. IX.</note>, <pb n="28" xml:id="p28"/> à
+              >Id.</hi>, act. II, sc. VII ; act. IV, sc. IX.</note>, <pb n="28" xml:id="p28"/>à
           partager enfin toute la vie et tous les crimes de <hi rend="i">don Juan</hi>, « parce
           qu’un grand seigneur méchant homme est une terrible chose : il faut qu’on lui soit fidèle,
           en dépit qu’on en ait, et la crainte réduit d’applaudir bien souvent ce que l’âme
@@ -742,7 +741,7 @@
             scélératesse<note place="bottom"><quote>« Totius autem injustitiæ nulla capitalior est
               quam eorum qui, cum maxime fallunt, id agunt ut viri boni esse videantur. »</quote>
             Cicéron, <hi rend="i">de Officiis</hi>, lib. I, cap. XIII.</note> ; et il était d’avis
-          sans doute que, <pb n="30" xml:id="p30"/> dans une débauche ouverte, il y a encore un
+          sans doute que, <pb n="30" xml:id="p30"/>dans une débauche ouverte, il y a encore un
           certain mérite de franchise, un espoir quelconque de repentir, qui ne se trouvent plus
           quand le criminel a pris enfin le parti de se couvrir du manteau de Dieu. C’est ce manteau
           qui fait que l’hypocrite corrompt mieux tout ce qui l’entoure, et peut ruiner une maison
@@ -818,7 +817,7 @@
               priva soi-même de ce plaisir pour n’en pas laisser abuser à d’autres moins capables
               d’en faire un juste discernement. »</quote> Voir J. Taschereau, <hi rend="i">Histoire
               de la vie et des ouvrages de Molière</hi>, liv. II, note 25.</note> : il est meilleur
-          sans doute <pb n="32" xml:id="p32"/> de montrer qu’il y a des scélérats qui affublent la
+          sans doute <pb n="32" xml:id="p32"/>de montrer qu’il y a des scélérats qui affublent la
           robe d’innocence, des loups qui se cachent sous la peau des brebis pour entrer dans la
           bergerie. D’ailleurs, Molière a pris toutes les précautions pour empêcher qu’on
           n’attribuât à la vraie piété une seule des paroles ni des actions de l’imposture : comme
@@ -836,7 +835,7 @@
           avec ses ministres <hi rend="i">Laurent</hi> et <hi rend="i">Loyal</hi><note
             place="bottom"><hi rend="i">Id.</hi>, act. I, sc. I, II ; act. III, sc. II ; act. V, sc.
             IV.</note>, sur le peuple naïf des <hi rend="i">Orgon</hi> et des <hi rend="i"
-            >Pernelle</hi> ; <pb n="33" xml:id="p33"/> il faut qu’on cède à son infernal génie, que
+            >Pernelle</hi> ; <pb n="33" xml:id="p33"/>il faut qu’on cède à son infernal génie, que
           les filles viennent lui immoler leurs grâces pudiques, et les femmes leur chasteté
           conjugale. Si l’on ose lutter contre lui, il se redresse, plein d’un venin mortel, comme
           le serpent sur qui l’on a marché<note place="bottom"><hi rend="i">Le Tartuffe</hi>, act.
@@ -861,7 +860,7 @@
               véritable. »</quote> (<hi rend="i">Télémaque</hi>, liv. XVIII.) — Voir encore sur <hi
               rend="i">le Tartuffe</hi>, plus loin, chap. VI et chap. XI.</note>.</p>
         <p/>
-        <p>C’est encore au point de vue de l’influence du vice <pb n="34" xml:id="p34"/> qu’on doit
+        <p>C’est encore au point de vue de l’influence du vice <pb n="34" xml:id="p34"/>qu’on doit
           étudier l’<hi rend="i">Avare</hi><note place="bottom">1668.</note>, moins pour la banale
           vérité qu’il ne faut pas trop aimer les écus, que pour le spectacle de toutes les
           conséquences que traîne avec soi cette passion sordide.</p>
@@ -883,7 +882,7 @@
           ait grand-chance pour que les choses tournent autrement. Il cherche pour ses enfants des
           mariages de pur intérêt, destinés à être un malheur de tous les instants<note
             place="bottom"><hi rend="i">Id.</hi>, act. I, sc. VI ; act. IV, sc. III.</note>. Et
-          enfin le voilà usurier de son <pb n="35" xml:id="p35"/> propre fils<note place="bottom"
+          enfin le voilà usurier de son <pb n="35" xml:id="p35"/>propre fils<note place="bottom"
               ><hi rend="i">L’Avare</hi>, act. II, sc. I, II, III.</note>, dont il ne blâme la vie
           dissipée que parce qu’elle coûte, dont il ne blâme le jeu effréné que parce que le gain
           n’en est pas placé à bon intérêt<note place="bottom"><hi rend="i">Id.</hi>, act.I, sc.
@@ -904,7 +903,7 @@
           rival avec qui toute guerre est permise, un ennemi domestique contre qui toute la maison
           se ligue, depuis l’héritier du nom paternel jusqu’au dernier valet de cuisine ! Quel
           contraste ressort du déchirement de ce vieux cœur, tiré d’un côté par l’amour et de
-          l’autre <pb n="36" xml:id="p36"/> par sa cassette<note place="bottom"><hi rend="i"
+          l’autre <pb n="36" xml:id="p36"/>par sa cassette<note place="bottom"><hi rend="i"
               >L’Avare</hi>, act. II, sc. VI.</note>, qu’il chérit trop pour faire un présent à sa
             maîtresse<note place="bottom"><hi rend="i">Id.</hi>, act. III, sc. XII.</note> ou lui
           donner honnêtement à dîner<note place="bottom"><hi rend="i">Id</hi>., act. III, sc. I, II,
@@ -925,7 +924,7 @@
           elles à revêtir la robe de <hi rend="i">Tartuffe</hi>, et à se perdre absolument par
           l’hypocrisie, ce dernier et irréparable vice après lequel <hi rend="i">on ne peut plus se
             repentir</hi>. Car la passion qui a conduit <hi rend="i">Tartuffe</hi>
-          <pb n="37" xml:id="p37"/> à jouer son rôle scélérat, est autant cupidité que luxure : chez
+          <pb n="37" xml:id="p37"/>à jouer son rôle scélérat, est autant cupidité que luxure : chez
             <hi rend="i">Harpagon</hi>, l’amour de l’argent n’aboutit qu’à la honte ; chez <hi
             rend="i">Tartuffe</hi>, il atteint au crime ; et la pente est facile, de l’usurier qui
           prête au <hi rend="i">denier trois</hi><note place="bottom"><hi rend="i">L’Avare</hi>,
@@ -943,7 +942,7 @@
           mettre sur la scène ces accouplements monstrueux de vice et de vertu, ces criminels
           sublimes, ces brigands héroïques qui remplissent tant de drames modernes, et habituent
           nécessairement le spectateur à s’imaginer que, même dans l’excès des passions les plus
-          funestes, il peut y <pb n="38" xml:id="p38"/> avoir quelque chose d’excusable et de
+          funestes, il peut y <pb n="38" xml:id="p38"/>avoir quelque chose d’excusable et de
             grand<note place="bottom">Il faut mettre quelque restriction à cet éloge ; voir plus
             loin, chap. IV.</note>. Pour Molière, ces passions sont contraires à la raison, à la
           nature ; ce sont d’affreuses maladies de l’âme, qui la rendent méconnaissable ; et il
@@ -1006,7 +1005,7 @@
             I ; <hi rend="i">l’Amour peintre</hi>, sc. XIII ; <hi rend="i">le Mari confondu</hi>,
             act. I, sc. VIII ; <hi rend="i">le Bourgeois gentilhomme</hi>, act. II, sc. III ; act.
             III, sc. III ; <hi rend="i">les Fourberies de Scapin</hi>, act. III, sc. II.</note> : il
-          a couvert de <pb n="40" xml:id="p40"/> ridicule la prétendue bravoure des <hi rend="i"
+          a couvert de <pb n="40" xml:id="p40"/>ridicule la prétendue bravoure des <hi rend="i"
             >batteurs de fer</hi> comme <hi rend="i">La Rapière</hi><note place="bottom"><quote>« On
               ne saurait signaler (dans <hi rend="i">le Dépit amoureux)</hi> aucune intention de
               satire contemporaine, si ce n’est peut-être le passage où un bretteur du nom de <hi
@@ -1035,7 +1034,7 @@
                 > </space>Il sait faire obéir les plus grands de l’état,</l><l><space rend="tab"
                 > </space>Et je trouve qu’il fait en digne potentat.</l></quote><p><hi rend="i"
                 >                                                Les Fâcheux</hi>, act. I, sc.
-              X.</p></note>. Enfin <pb n="41" xml:id="p41"/> il a déclaré avec raison, par la bouche
+              X.</p></note>. Enfin <pb n="41" xml:id="p41"/>il a déclaré avec raison, par la bouche
             <hi rend="i">d’Eraste</hi>, qu’un homme qui a fait ses preuves n’a pas besoin de cela
           pour montrer qu’il n’est point un lâche<note place="bottom"><quote><p><space rend="tab"
                 > </space> J’ai servi quatorze ans, etc.</p></quote><p><hi rend="i"
@@ -1053,7 +1052,7 @@
       </div>
       <div type="chapter">
         <head>CHAPITRE III. <lb/>L’Honnête Homme.</head>
-        <p><pb n="42" xml:id="p42"/> La débauche, l’avarice, l’imposture, l’homicide, sont condamnés
+        <p><pb n="42" xml:id="p42"/>La débauche, l’avarice, l’imposture, l’homicide, sont condamnés
           et détestés par Molière : est-ce assez ?</p>
         <p>Il y a des points plus délicats, où la morale paraît moins intéressée, et où elle l’est
           pourtant. Il y a des vices de bonne compagnie qui passent, aux yeux indulgents du monde,
@@ -1088,7 +1087,7 @@
           essentiellement morale<note place="bottom">Voir D. Nisard, <hi rend="i">Histoire de la
               littérature française</hi>, liv. III, chap. IX, § 4, <hi rend="i">le
             Misanthrope.</hi></note>.</p>
-        <p><pb n="44" xml:id="p44"/> La coquetterie de <hi rend="i">Célimène</hi>, l’hypocrisie d<hi
+        <p><pb n="44" xml:id="p44"/>La coquetterie de <hi rend="i">Célimène</hi>, l’hypocrisie d<hi
             rend="i">’Arsinoé</hi>, la paresse vaniteuse des deux <hi rend="i">marquis</hi>,
           l’insouciance équivoque de <hi rend="i">Philinte</hi>, la fatuité d’<hi rend="i"
             >Oronte</hi>, y sont exposés sous leur vrai jour, et le ridicule dans lequel tombe <hi
@@ -1112,7 +1111,7 @@
               est assez ce me semble pour rendre Molière inexcusable. »</quote>
             <hi rend="i">Lettre à d’Alembert surles spectacles. — Voir Laharpe, Cours de
               littérature, partie II, liv. I, chap. VI, sect. 3.</hi></note>.</p>
-        <p><pb n="45" xml:id="p45"/> Eh ! oui, Alceste est maladroit, même brutal, dans sa façon
+        <p><pb n="45" xml:id="p45"/>Eh ! oui, Alceste est maladroit, même brutal, dans sa façon
           trop franche de faire la leçon aux autres. Eh ! oui, lui, l’homme parfait, il est
           sottement amoureux d’une incorrigible coquette.. Oui, il commet la faute de porter sur les
           hommes qui s’abandonnent au vice la haine qu’il devrait réserver au vice seulement<note
@@ -1134,7 +1133,7 @@
         <p>Mais il est certain qu’en riant je l’estime, je le plains, je l’admire, et que je ne
           comprends pas ceux qui ont accusé Molière d’avoir là bafoué la vertu, à moins qu’ils
           n’eussent eux-mêmes pour vertus que les ridicules <hi rend="i">d’Alceste.</hi> La vertu
-            <hi rend="i">d’Alceste</hi> est intacte <pb n="46" xml:id="p46"/> et respectée au milieu
+            <hi rend="i">d’Alceste</hi> est intacte <pb n="46" xml:id="p46"/>et respectée au milieu
           de tout le rire soulevé par ses ridicules ; et moi-même’, simple et faible spectateur,
           l’auteur me force par un coup de génie à faire nettement celte distinction qu’<hi rend="i"
             >Alceste</hi> ignore, du mal même que je hais, et de l’homme, qui peut en être atteint
@@ -1184,7 +1183,7 @@
           <l>Et qu’un homme est pendable après les avoir faits<note place="bottom"><hi rend="i"
                 >Id</hi>., act. I, sc. II, VII.</note>.</l>
        </quote>
-        <p><pb n="48" xml:id="p48"/> Il est admirable dans sa loyauté en amour<note place="bottom"
+        <p><pb n="48" xml:id="p48"/>Il est admirable dans sa loyauté en amour<note place="bottom"
               ><hi rend="i">Le Misanthrope</hi>, act. I, sc. I ; act. II, sc. I.</note>, dans son
           indignation contre les mensonges du cœur<note place="bottom"><hi rend="i">Id</hi>., act.
             IV, sc. II, III.</note>, dans sa bonté à pardonner une tromperie d’autant plus indigne
@@ -1208,7 +1207,7 @@
           <l>Tous les pauvres mortels sans nulle exception</l>
           <l>Seront enveloppés dans cette aversion ?</l>
           <l>Encore en est-il bien dans le siècle où nous sommes...</l>
-          <label><pb n="49" xml:id="p49"/> ALCESTE.</label>
+          <label><pb n="49" xml:id="p49"/>ALCESTE.</label>
           <l>Non : elle est générale, <hi rend="i">et je hais tous les hommes</hi>,</l>
           <l>Les uns, parce qu’ils sont méchants et malfaisants,</l>
           <l>Et les autres, pour être aux méchants complaisants,</l>
@@ -1237,7 +1236,7 @@
             I.</note>, oubliant que le devoir de l’homme de bien est de rester parmi les faibles et
           les méchants, pour les relever, les instruire, se faire estimer d’eux par <hi rend="i"
             >l’exemple</hi>, aimer par <hi rend="i">la charité.</hi></p>
-        <p><pb n="50" xml:id="p50"/> Avec cela vous l’avez fait amoureux, et amoureux d’une façon
+        <p><pb n="50" xml:id="p50"/>Avec cela vous l’avez fait amoureux, et amoureux d’une façon
           qu’il condamne lui-même<note place="bottom"><hi rend="i">Le Misanthrope</hi>, act. I, sc.
             I.</note>, pour nous montrer que le sage inébranlable rêvé par l’orgueil stoïcien<note
             place="bottom">Sénèque, <hi rend="i">Epist.</hi>, LIX, 14 : <quote>« Jam sapiens ille
@@ -1266,7 +1265,7 @@
           <l>Mais j’en fais, je l’avoue, un cas particulier ;</l>
           <l>Et la sincérité dont son âme se pique</l>
           <l>À quelque chose en soi.de noble et d’héroïque.</l>
-          <l><pb n="51" xml:id="p51"/> C’est une vertu rare au siècle d’aujourd’hui,</l>
+          <l><pb n="51" xml:id="p51"/>C’est une vertu rare au siècle d’aujourd’hui,</l>
           <l>Et je la voudrois voir partout comme chez lui<note place="bottom"><hi rend="i">Le
                 Misanthrope</hi>, act. IV, sc. 1.</note>.</l>
        </quote>
@@ -1286,7 +1285,7 @@
             les beaux esprits si vains de leurs fadaises rimées ; le manant qui épouse la fille d’un
             gentilhomme, et le bourgeois qui aspire à passer pour gentilhomme lui-même ; les prudes
             qui affichent une sévérité outrée, et les coquettes qui étalent les conquêtes faites par
-            leurs charmes ; les marquis <pb n="52" xml:id="p52"/> qui se vantent des dons de la
+            leurs charmes ; les marquis <pb n="52" xml:id="p52"/>qui se vantent des dons de la
             nature, des bontés du roi et des faveurs des dames ; et ce misanthrope lui-même dont il
             faut estimer la vertu, mais dont l’orgueil bourru fronde la vanité de tous les
               autres<note place="bottom">Auger, <hi rend="i">Discours préliminaire aux Œuvres de
@@ -1311,7 +1310,7 @@
               <hi rend="i">Eliante</hi> joint toute la grâce à toute la charité ; <hi rend="i"
               >Philinte</hi> tombe dans l’égoïsme indigne. Voir D. Nisard, <hi rend="i">Histoire de
               la Littérature française</hi>, liv. IV, chap. VI, § 6, <hi rend="i">Fabre d’Eglantine,
-              le Philinte de Molière.</hi></note> ! <pb n="53" xml:id="p53"/> Comme il flagelle tout
+              le Philinte de Molière.</hi></note> ! <pb n="53" xml:id="p53"/>Comme il flagelle tout
           ce qu’il y a de méprisable, de coupable, dans cette vie creuse, passée en amusements
           futiles, en conversations malignes, en satisfactions vaniteuses, sans travail ni but<note
             place="bottom">Voir plus loin, chap. X.</note> !</p>
@@ -1335,7 +1334,7 @@
         <p>L’égoïsme, forme plus accentuée et plus basse de l’amour propre, est aussi une des <hi
             rend="i">matières universelles</hi> de Molière : les <hi rend="i">pères</hi> de l’<hi
             rend="i">Etourdi</hi> et du <hi rend="i">Dépit amoureux</hi>, égoïstes qui ne songent
-          qu’à leur argent et <pb n="54" xml:id="p54"/> leur tranquillité<note place="bottom"><hi
+          qu’à leur argent et <pb n="54" xml:id="p54"/>leur tranquillité<note place="bottom"><hi
               rend="i">L’Etourdi</hi> (1653), act. I, sc. VI, IX ; act. II, sc. VI. — <hi rend="i"
               >Le Dépit amoureux</hi> (1654), act. II, sc. VI ; act. III, sc. III, IV, V.</note> ;
           ceux du <hi rend="i">Mariage forcé</hi> et du <hi rend="i">Mari confondu</hi>, égoïstes
@@ -1363,7 +1362,7 @@
           autres que pour n’avoir pas à les combattre<note place="bottom">Voir plus haut, p. 52,
             note 6.</note> : la liste en est longue, et comprend plus des trois quarts des
           personnages de Molière.</p>
-        <p>Molière semble n’avoir oublié aucun des points sur<pb n="55" xml:id="p55"/> lesquels doit
+        <p>Molière semble n’avoir oublié aucun des points sur <pb n="55" xml:id="p55"/>lesquels doit
           être parfait <hi rend="i">son honnête homme</hi> : il ne tolère ni l’extravagance de
           l’important-, qui dérange tout le monde, qui veut que tous S’occupent de lui, et qui
           tranche toutes lés questions avec une suffisance burlesque<note place="bottom">Les
@@ -1385,7 +1384,7 @@
           plus sainement que lui des ouvrages de l’esprit ; nul n’a mieux compris combien ils
           élèvent et ennoblissent l’homme. Aussi a-t-il nettement fixé où le savoir est bon, et dans
           quelle mesure la science doit être recherchée : avec amour, mais sans excès, de façon
-          qu’elle n’envahisse <pb n="56" xml:id="p56"/> pas tout l’homme et n’étouffe pas en lui,
+          qu’elle n’envahisse <pb n="56" xml:id="p56"/>pas tout l’homme et n’étouffe pas en lui,
           sous l’orgueil du savant, les autres qualités qu’il faut posséder d’abord<note
             place="bottom"><hi rend="i">Les Femmes savantes</hi>, act. II, sc. VII ; act. III, sc.
             I, II, V ; act. IV, sc. III.</note>. Il a clairement montré, par les plus risibles
@@ -1418,7 +1417,7 @@
        </quote>
         <p>Molière et Boileau ont servi la morale en séparant, dans les ouvrages de l’esprit, <hi
             rend="i">le bon or du faux</hi><note place="bottom"><hi rend="i">Id</hi>., ch. IV, v.
-            233</note>, et en frappant sans pitié les Scudéri, les<pb n="57" xml:id="p57"/> Colin,
+            233</note>, et en frappant sans pitié les Scudéri, les <pb n="57" xml:id="p57"/>Colin,
           les Quinault<note place="bottom">Le jugement de Boileau sur Quinault (<hi rend="i"
               >Sat</hi>. II, III, X) doit être maintenu dans toute sa sévérité, malgré l’essai de
             réhabilitation tenté par Voltaire. Lire les Œuvres de Quinault (Paris, 1739, 1778,
@@ -1443,7 +1442,7 @@
           l’influence excellente de former les esprits au bon sens en ne leur offrant que des œuvres
           de bon sens ; et les auteurs du temps de Périclès, comme ceux du siècle de Louis XIV,
           contribuèrent certainement de cette façon à la grandeur de leur patrie. C’est un honneur
-            <pb n="58" xml:id="p58"/> à Boileau et à Molière<note place="bottom">Toutes les scènes
+            <pb n="58" xml:id="p58"/>à Boileau et à Molière<note place="bottom">Toutes les scènes
             où Molière fait dire des sonnets ou des petits vers sont des chefs-d’œuvre de critique
             littéraire. On doit mettre au-dessus de toutes les autres celle du <hi rend="i"
               >Misanthrope</hi> (act. I, sc. II) : le sonnet d’<hi rend="i">Oronte</hi> séduit le
@@ -1479,7 +1478,7 @@
               omnem sensum dixeris, deerit tibi criterium</quote>(can. I, p. 5, col. 2).
               <quote>Sublata sensuum certitudine, tollitur omnis et vite gerendæ et rerum gerendarum
               ratio , etc.</quote>(ibid.). »</note>
-          <pb n="59" xml:id="p59"/> et de la modestie, dans les scènes de <hi rend="i">la Jalousie
+          <pb n="59" xml:id="p59"/>et de la modestie, dans les scènes de <hi rend="i">la Jalousie
             du Barbouillé</hi> et du <hi rend="i">Mariage forcé</hi><note place="bottom"><hi
               rend="i">La Jalousie du Barbouillé</hi> (1658), sc. II, VI <hi rend="i">le Docteur ;
               le Mariage forcé</hi> (1664), sc. VII, <hi rend="i">Pancrace</hi> ; sc. VIII, <hi
@@ -1502,7 +1501,7 @@
           prêcher d’exemple<note place="bottom"><hi rend="i">Le Bourgeois gentilhomme</hi>, act. II,
             sc. IV, VI.</note> ?</p>
         <p>Jusque dans la triomphante campagne de Molière contre les médecins, campagne qui dura
-          autant que <pb n="60" xml:id="p60"/> sa vie, puisqu’elle commença avec sa première farce
+          autant que <pb n="60" xml:id="p60"/>sa vie, puisqu’elle commença avec sa première farce
           du <hi rend="i">Médecin volant</hi><note place="bottom">1650 ?</note>, et ne se termina
           que par la <hi rend="i">cérémonie</hi> du <hi rend="i">Malade imaginaire</hi> où il
             mourut<note place="bottom">1673. — Les pièces <hi rend="i">à médecins</hi> de Molière
@@ -1535,7 +1534,7 @@
             Florence, 1728.) Boileau ne faisait donc pas une figure de rhétorique quand il disait :
               <hi rend="i">L’un meurt vide de sang… (Art poétique</hi>, ch. IV, v. 6).</note>
           l’infortuné sujet de leur expérience ou plutôt de leur ignorance, déclarent que, s’il ne
-          guérit point, c’est signe que la maladie n’est pas dans <pb n="61" xml:id="p61"/> le sang,
+          guérit point, c’est signe que la maladie n’est pas dans <pb n="61" xml:id="p61"/>le sang,
           et qu’ils vont le purger autant de fois pour voir si elle n’est pas dans les humeurs<note
             place="bottom"><hi rend="i">M. de Pourceaugnac</hi>, act. I, sc. VIII.</note> : toutes
           ces scènes là, et bien d’autres, qu’elles sont poignantes, mais quelles sont vraies<note
@@ -1620,7 +1619,7 @@
                 choque, et tout homme bien sage</l><l><space rend="tab"> </space>Doit faire des
                 habits ainsi que du langage,</l><l><space rend="tab"> </space>N’y rien trop
                 affecter, et sans empressement</l><l><space rend="tab"> </space>Suivre ce que
-                l’usage y fait de changement.</l></quote></note> ; <pb n="64" xml:id="p64"/> qu’avec
+                l’usage y fait de changement.</l></quote></note> ; <pb n="64" xml:id="p64"/>qu’avec
           une juste libéralité il évite soigneusement les excès de luxe dans la toilette comme dans
           la vie, et qu’il ne sacrifie point son bien ni sa famille aux inutiles satisfactions de la
           vanité, ou aux prétendues exigences du monde<note place="bottom">Tous les <hi rend="i"
@@ -1631,7 +1630,7 @@
       </div>
       <div type="chapter">
         <head>CHAPITRE IV. <lb/>Jugement sur les <hi rend="i">Hommes</hi> de Molière.</head>
-        <p><pb n="65" xml:id="p65"/> Mais, à ce compte, Molière est donc un <hi rend="i"
+        <p><pb n="65" xml:id="p65"/>Mais, à ce compte, Molière est donc un <hi rend="i"
             >moraliste ;</hi> il enseigne donc les règles de la vertu ; il met donc en pratique le
           précepte d’Horace traduit par Boileau :</p>
         <quote>
@@ -1649,7 +1648,7 @@
           et plein de bon sens, en sorte qu’il se fait de l’honnêteté une idée élevée et pratique,
           qu’on peut dégager de l’ensemble de ses tableaux. Cette idée est digne qu’on la recherche
           et qu’on l’étudie, parce que c’est l’idée d’un observateur hors ligne et d’un génie
-          exceptionnel ; il <pb n="66" xml:id="p66"/> est utile de la bien connaître pour se rendre
+          exceptionnel ; il <pb n="66" xml:id="p66"/>est utile de la bien connaître pour se rendre
           compte de l’influence morale d’un auteur si attachant. Mais s’il était un <hi rend="i"
             >moraliste</hi>, il l’aurait dégagée lui-même : il ne l’aurait pas laissée obscure au
           point que des hommes comme Bossuet et J.-J. Rousseau, pour prendre les extrêmes parmi ses
@@ -1690,7 +1689,7 @@
           ou un beau corps de marbre, qui nous émeuve ; pour le comédien, une bonne comédie qui
           fasse rire. Le rire est son bien ; il le puise à toute source : si la source en est
           morale, instructive, tant mieux ; quand elle ne l’est point, il y puise quand même ; et
-          cette belle médaille <pb n="68" xml:id="p68"/> de Molière philosophe et moral a un revers
+          cette belle médaille <pb n="68" xml:id="p68"/>de Molière philosophe et moral a un revers
           frappé d’immoralité.</p>
         <p/>
         <p>Il faut protester contre le jugement raffiné de Boileau :</p>
@@ -1723,7 +1722,7 @@
               poétique</hi>, ch. III, v. 397.</note>. Au point de vue de l’art, on ne doit pas plus
           blâmer les farces de Molière que les grimaces des damnés dans la fresque de la chapelle
           Sixtine. Seulement, la morale n’y est plus ; et on ne le lui reproche pas, puisqu’il
-          atteint son but, qui est de divertir irrésistiblement. <pb n="69" xml:id="p69"/> On se
+          atteint son but, qui est de divertir irrésistiblement. <pb n="69" xml:id="p69"/>On se
           contente de juger que Molière a un grand sens moral, une grande influence morale, mais
           encore une fois n’est point <hi rend="i">moraliste.</hi></p>
         <p/>
@@ -1748,7 +1747,7 @@
         <p>Il n’est pas besoin de donner des explications sur la <hi rend="i">nature</hi> et l’<hi
             rend="i">humanité</hi> de ce valet philosophe. Avec cette vertu peu scrupuleuse, on n’a
           pas honte de pratiquer agréablement le vol à la tire<note place="bottom"><hi rend="i"
-              >Id.</hi>, acte I, sc. VI.</note> et autres <pb n="70" xml:id="p70"/> plaisanteries
+              >Id.</hi>, acte I, sc. VI.</note> et autres <pb n="70" xml:id="p70"/>plaisanteries
           que la justice a le tort de trouver mauvaises. Que tout cela soit fort réjouissant, nul
           n’en disconvient ; mais n’est-il pas funeste pour la morale de forcer, pendant deux
           heures, l’honnête spectateur à trouver plein de grâce et d’intérêt le plus insigne des
@@ -1802,7 +1801,7 @@
               apparences, nous rassure pleinement sur notre mérite. »</quote> — J. Taschereau a
             raison de dire que Molière <quote>« n’eut évidemment d’autre but que celui de faire
               rire, et il était difficile à la vérité de le mieux atteindre. »</quote></note>, est
-          un type si peu honorable <pb n="72" xml:id="p72"/> qu’on serait presque heureux de le voir
+          un type si peu honorable <pb n="72" xml:id="p72"/>qu’on serait presque heureux de le voir
           devenir ce qu’il s’imagine être. Celui du <hi rend="i">Médecin malgré lui</hi> est si
           divertissant, avec sa bouteille aux <hi rend="i">juleps</hi><note place="bottom"><hi
               rend="i">Le Médecin malgré lui</hi> (1666), acte 1, sc. VI.</note> et sa jovialité
@@ -1823,7 +1822,7 @@
           divinisé, qui ne procure plus des <hi rend="i">esclaves</hi> aux fils de famille<note
             place="bottom"><hi rend="i">Célie</hi> de l’<hi rend="i">Etourdi ; Isidore</hi> de <hi
               rend="i">l’Amour peintre ; Zerbinette</hi> des <hi rend="i">Fourberies de
-            Scapin.</hi></note>, mais des reines aux dieux. <pb n="73" xml:id="p73"/> Qui n’a ri à
+            Scapin.</hi></note>, mais des reines aux dieux. <pb n="73" xml:id="p73"/>Qui n’a ri à
           plein cœur en voyant <hi rend="i">Sosie</hi> battu et <hi rend="i">Amphitryon</hi> à la
             porte<note place="bottom"><hi rend="i">Amphytrion</hi>, act. I, sc. II ; act. III, sc.
             II. Voir plus loin, chap. IX.</note> ? Mais, pendant tout ce rire, où donc était la
@@ -1846,7 +1845,7 @@
             galères ; qui, au péril de ses bras et de ses épaules, sait mettre noblement à fin les
             entreprises les plus difficiles ; et qui, tel que vous le voyez, est exilé de son pays
             pour je ne sais combien d’actions honorables qu’il a généreusement entreprises.</p>
-          <label><pb n="74" xml:id="p74"/> SBRIGANI</label>
+          <label><pb n="74" xml:id="p74"/>SBRIGANI</label>
           <p>Je suis confus des louanges dont vous m’honorez, et je pourrais vous en donner avec
             plus de justice sur les merveilles de votre vie, et principalement sur la gloire que
             vous acquîtes, lorsque avec tant d’honnêteté vous pipâtes au jeu, pour douze mille écus,
@@ -1866,7 +1865,7 @@
             rend="i">Sbrigani</hi><note place="bottom"><hi rend="i">Id.</hi>, act. I, sc. VI ; act.
             III, sc. I.</note> ? Dans toute la suite de la pièce, le ridicule excellent dont est
           couvert <hi rend="i">M. de Pourceaugnac</hi> fait qu’aux yeux du spectateur <hi rend="i"
-            >Sbrigani</hi> a raison, <pb n="75" xml:id="p75"/> toujours raison, dans toutes les
+            >Sbrigani</hi> a raison, <pb n="75" xml:id="p75"/>toujours raison, dans toutes les
           entreprises de son infâme industrie ; et, à la fin, on est si bien pris au charme de cette
           joyeuse corruption, qu’on entend sans indignation chanter par toute la troupe :</p>
         <quote>
@@ -1889,7 +1888,7 @@
           les principes, enchantée de voir réussir ces admirables <hi rend="i">fourberies.</hi> Il a
           tant d’esprit ! Les jeunes amours qu’il sert sont si gracieuses ! les barbons qu’il trompe
           sont si avares ! Que, pour comble, il charge de coups de bâton l’honnête maître dont il a
-          volé l’argent et <pb n="76" xml:id="p76"/> corrompu le fils<note place="bottom"><hi
+          volé l’argent et <pb n="76" xml:id="p76"/>corrompu le fils<note place="bottom"><hi
               rend="i">Les Fourberies de Scapin</hi>, act, III, sc. II..</note>, nous rirons encore
           et toujours, en dépit de la morale oubliée, et nous ne pourrons nous empêcher d’applaudir
           au triomphe final de ce <hi rend="i">Prince des Fourbes</hi>, entouré de sa messagère <hi
@@ -1909,7 +1908,7 @@
           comique par lequel Molière sait atténuer ce sens chez le spectateur. On le répète, il faut
           une âme très-ferme pour retrouver, après ces impressions, toute la délicatesse de la
           vertu. Et on ne peut douter que les âmes du peuple ne perdent, à force de se courber sous
-          ce vent du plaisir, l’énergique élasticité nécessaire <pb n="77" xml:id="p77"/> pour se
+          ce vent du plaisir, l’énergique élasticité nécessaire <pb n="77" xml:id="p77"/>pour se
           redresser ensuite dans toute la rigueur du devoir.</p>
         <p>Il faut une intelligence cultivée et un effort de réflexion pour discerner, dans les <hi
             rend="i">Hommes</hi> de Molière, les principes d’honnêteté qu’il y a mis : il ne faut
@@ -1931,7 +1930,7 @@
           compte de <hi rend="i">la morale de Molière.</hi></p>
         <p/>
         <p>Enfin, le moraliste a encore un reproche à faire.</p>
-        <p><pb n="78" xml:id="p78"/> Tous ces entremetteurs infâmes, tous ces valets, âmes damnées
+        <p><pb n="78" xml:id="p78"/>Tous ces entremetteurs infâmes, tous ces valets, âmes damnées
           du vice et de la débauche, travaillent cependant à des causes justes, nobles, touchantes ;
           ils sont tendres, compatissants, désintéressés ; ils ont un esprit qui touche au génie :
           cela est faux dans la réalité. Quoique l’homme soit un insondable mélange de bien et de
@@ -2001,7 +2000,7 @@
             >Sbrigani</hi> ou par les <hi rend="i">Scapins.</hi> Quand on se demande quel est
           l’honnête homme de Molière, on se dit qu’en somme c’est celui qui fuit tous les vices, qui
           évite tous les travers condamnés et flagellés dans tant de comédies excellentes ; et qui
-          sait, <pb n="81" xml:id="p81"/> comme le <hi rend="i">Clitandre</hi> des <hi rend="i"
+          sait, <pb n="81" xml:id="p81"/>comme le <hi rend="i">Clitandre</hi> des <hi rend="i"
             >Femmes savantes</hi>, à toutes les qualités de la fortune<note place="bottom"><hi
               rend="i">Les Femmes savantes</hi> (1672), act. V, sc. V</note>, de l’esprit<note
             place="bottom"><hi rend="i">Id.</hi>, act. I, sc. III ; act. IV, sc. III.</note>, de la
@@ -2038,14 +2037,14 @@
               <hi rend="i">Malade imaginaire</hi> (act. II, sc. XII ; act. III). — Voir sur <hi
               rend="i">Cléante</hi>, F. Génin, <hi rend="i">Vie de Molière</hi>, chap.
           V.</note>.</p>
-        <p><pb n="82" xml:id="p82"/> Et si la Grèce est éternellement célèbre pour nous avoir légué
+        <p><pb n="82" xml:id="p82"/>Et si la Grèce est éternellement célèbre pour nous avoir légué
           ce modèle surhumain de la corporelle beauté que nous appelons <hi rend="i">l’Apollon du
             Belvédère</hi>, quelle ne doit pas être notre admiration pour celui qui, chez nous, a su
           produire ce modèle moral de l’homme intelligent, chrétien et français ?</p>
       </div>
       <div type="chapter">
         <head>CHAPITRE V. <lb/>L’Éducation des Femmes.</head>
-        <p><pb n="83" xml:id="p83"/> S’il manque quelque chose à la gloire de nos lettres sous Louis
+        <p><pb n="83" xml:id="p83"/>S’il manque quelque chose à la gloire de nos lettres sous Louis
           XIV, c’est d’avoir peint naturellement les femmes. Ce jugement est sévère ; mais il est
           permis de demander beaucoup aux hommes qui, alors, illustrèrent pour jamais notre pays et
           l’humanité. Or, au milieu de tant de perfection intellectuelle et de génie en toutes
@@ -2058,7 +2057,7 @@
           spirituelle, mais qui glaçait sous la convention son charme principal, <hi rend="i">le
             naturel.</hi></p>
         <p>À Molière la gloire d’avoir, malgré le siècle, vu et peint la femme telle qu’elle est ;
-          d’avoir ôté de son <pb n="84" xml:id="p84"/> immortelle parure de grâce tout ce qu’on y
+          d’avoir ôté de son <pb n="84" xml:id="p84"/>immortelle parure de grâce tout ce qu’on y
           joignait alors de faux et d’emprunté ; d’avoir dit et montré ce qu’elle doit être pour
           accomplir son rôle humble et sublime parmi nous.</p>
         <p/>
@@ -2079,7 +2078,7 @@
             M<hi rend="sup">me</hi> de Sévigné. Là, vraiment, l’esprit et les lettres étaient à leur
           place ; <quote>« et là, en 1659, on applaudissait aux <hi rend="i">Précieuses
               ridicules</hi>, par lesquelles l’illustre hôtel ne se sentait pas plus atteint que
-            Molière <pb n="85" xml:id="p85"/> n’avait eu l’intention de l’attaquer<note
+            Molière <pb n="85" xml:id="p85"/>n’avait eu l’intention de l’attaquer<note
               place="bottom">Voir la <hi rend="i">Préface</hi> des <hi rend="i">Précieuses
                 ridicules.</hi></note>. C’était le centre de la vraie <hi rend="i">préciosité</hi>
             définie par Huet une <hi rend="i">galanterie honnête</hi> dans le sens qu’on donne au
@@ -2103,7 +2102,7 @@
           simplicité même, jusque dans la plus grande médiocrité d’esprit. Ce fut une. véritable
           épidémie, qui envahit tout le siècle, et dura presque autant que lui.</p>
         <p/>
-        <p><pb n="86" xml:id="p86"/> Le bon sens et le goût de Molière furent choqués de voir tant
+        <p><pb n="86" xml:id="p86"/>Le bon sens et le goût de Molière furent choqués de voir tant
           de femmes se gâter elles-mêmes par cette mode prétentieuse. Aussi, après les deux longues
           comédies d’intrigue de l’<hi rend="i">Etourdi</hi> et du <hi rend="i">Dépit amoureux</hi>,
           las d’imiter les autres et de remplacer les personnages les plus charmants de la scène par
@@ -2130,7 +2129,7 @@
                 sous :</l><l><space rend="tab"> </space>Mais, oyant leurs fines
                   paroles.</l><l><space rend="tab"> </space>J’en ris pour plus de dix
               pistoles.</l></quote></note> !</p>
-        <p><pb n="87" xml:id="p87"/> Mais, sans doute, empêcher les femmes d’être coquettes et
+        <p><pb n="87" xml:id="p87"/>Mais, sans doute, empêcher les femmes d’être coquettes et
           façonnières. n’était pas une moindre tâche que de rendre les médecins instruits,
           charitables et modestes ; car, pour elles comme pour eux, Molière se crut obligé de
           reprendre le même sujet de comédie jusqu’à la fin de sa vie<note place="bottom">Voir sur
@@ -2149,7 +2148,7 @@
             les pieds- jusqu’à la tête, et la plus grande façonnière du monde ; il semble que tout
             son corps soit démonté, et que les mouvements de ses hanches, de ses épaules et de sa
             tête n’aillent que par ressorts ; elle affecte toujours un ton de voix languissant et
-            niais, fait la moue <pb n="88" xml:id="p88"/> pour montrer une petite bouche, et roule
+            niais, fait la moue <pb n="88" xml:id="p88"/>pour montrer une petite bouche, et roule
             les yeux pour les faire paroître grands : »</quote> en somme, « <quote> la plus sotte
             bête qui se soit jamais.mêlée de raisonner<note place="bottom"><hi rend="i">La Critique
                 de l’École des Femmes</hi>, sc. II.</note> ! »</quote> Et cette <hi rend="i"
@@ -2173,7 +2172,7 @@
             rend="i">demoiselle suivante</hi> et un <hi rend="i">écuyer</hi> ; son armoire, une <hi
             rend="i">garde-robe</hi>, et son grenier, un <hi rend="i">garde-meuble</hi><note
             place="bottom"><hi rend="i">Id.</hi>, sc. III, V, VI, XII.</note> ;<quote> « le petit
-            voyage qu’elle <pb n="89" xml:id="p89"/> a fait à Paris l’a ramenée dans Angoulême plus
+            voyage qu’elle <pb n="89" xml:id="p89"/>a fait à Paris l’a ramenée dans Angoulême plus
             achevée qu’elle n’étoit ; l’approche de l’air de la cour a donné à son ridicule de
             nouveaux agréments, et sa sottise tous les jours ne fait que croître et embellir<note
               place="bottom"><hi rend="i">La Comtesse d’Escarbagnas</hi>, sc. I.</note> : »</quote>
@@ -2266,7 +2265,7 @@
               >Id.</hi>, act. II, sc. VI, VII, IX ; act. V, sc. II, III, <hi rend="i"
             >Chrysale.</hi></note> : la <hi rend="i">guenille</hi> de <hi rend="i">Chrysale</hi>,
           rappelant sur la terre ces folles envolées vers les régions imaginaires du bel esprit, est
-          un <pb n="92" xml:id="p92"/> mot impérissable comme le <hi rend="i">pauvre homme</hi> de
+          un <pb n="92" xml:id="p92"/>mot impérissable comme le <hi rend="i">pauvre homme</hi> de
             <hi rend="i">Tartuffe</hi> et la <hi rend="i">galère</hi> de <hi rend="i"
             >Scapin</hi><note place="bottom"><quote>« Ces comédies firent tant de honte aux dames
               qui se piquoient trop de bel esprit, que toute la nation des précieuses s’éteignit en
@@ -2304,7 +2303,7 @@
               pas entendre parler de marier sa fille : <quote>« Un mari ! Un mari ! »</quote>
               <hi rend="i">(L’Amour médecin</hi>, act. I, sc. III).</note>.</l>
        </quote>
-        <p><pb n="93" xml:id="p93"/> Puis, à cette vérité si simple et si oubliée, Molière joint des
+        <p><pb n="93" xml:id="p93"/>Puis, à cette vérité si simple et si oubliée, Molière joint des
           préceptes qui fixent avec juste mesure dans quelle limite la femme, l’épouse, la mère
           devra cultiver son intelligence et acquérir ce que l’instruction lui peut ajouter de
           mérite et d’agrément. <hi rend="i">Chrysale</hi> dit, dans sa protestation contre le
@@ -2330,7 +2329,7 @@
        </quote>
         <p>Ainsi, Molière conseille à la femme cette modestie discrète pour laquelle elle semble
           faite, et qu’elle ne peut jamais oublier sans perdre quelque chose de son attrait. Il lui
-          rappelle sans cesse que son premier <pb n="94" xml:id="p94"/> devoir est <hi rend="i">sa
+          rappelle sans cesse que son premier <pb n="94" xml:id="p94"/>devoir est <hi rend="i">sa
             maison</hi>, cet humble royaume du foyer auquel elle doit songer avant tout.
             <quote>« Vous devriez, »</quote> dit <hi rend="i">Chrysale</hi> à <hi rend="i"
             >Philaminte</hi> en s’adressant à <hi rend="i">Bélise</hi>,</p>
@@ -2403,7 +2402,7 @@
           Molière s’indigne contre la prétention qu’on a eue longtemps de la faire vertueuse par
           force, et de la tenir ignorante par principe. La piquante <hi rend="i">Lisette</hi> de
             l’<hi rend="i">École des maris</hi> est le bon sens incarné, quand elle répond, avec un
-          délicieux mélange de finesse et de naïveté, <pb n="97" xml:id="p97"/> au <hi rend="i"
+          délicieux mélange de finesse et de naïveté, <pb n="97" xml:id="p97"/>au <hi rend="i"
             >Sganarelle</hi> qui croit s’assurer une femme parfaite en tenant sa pupille bien
           enfermée :</p>
         <quote>
@@ -2443,7 +2442,7 @@
           <l>Je trouve que le cœur est ce qu’il faut gagner<note place="bottom"><hi rend="i"
                 >Id.</hi>, act. I, sc. II, <hi rend="i">Ariste.</hi></note>.</l>
        </quote>
-        <p><pb n="98" xml:id="p98"/> Cette considération que l’honneur doit être gardé pour
+        <p><pb n="98" xml:id="p98"/>Cette considération que l’honneur doit être gardé pour
           lui-même, pour la dignité et la joie intime qu’il procure, et non par crainte d’un
           châtiment, est un des plus beaux préceptes moraux qui se puissent proclamer. Et à côté
           s’en place un autre non moins élevé : c’est qu’un maître sage doit <hi rend="i">régner par
@@ -2471,7 +2470,7 @@
        </quote>
         <p>Telle est la vraie vertu, inflexible quand il s’agit de l’honneur, indulgente tant qu’il
           ne court point de risques.</p>
-        <p><pb n="99" xml:id="p99"/> Que deviendra <hi rend="i">Isabelle</hi> enfermée ? Pour
+        <p><pb n="99" xml:id="p99"/>Que deviendra <hi rend="i">Isabelle</hi> enfermée ? Pour
           sortir, elle franchira les limites de la bienséance, de la prudence, du devoir, et se
           jettera de plein cœur dans les bras du premier qui s’offrira avec un air séduisant et une
           apparence d’honneur<note place="bottom"><hi rend="i">L’École des Maris</hi>, act. II et
@@ -2532,7 +2531,7 @@
           cette triviale énergie pour attaquer l’erreur qui croit sauver la vertu par la stupidité
           et l’ignorance ; ce n’est trop d’aucune des scènes de la comédie pour dire et répéter tous
           les dangers auxquels sont exposés les malheureux tenus dans les ténèbres, et pour
-          proclamer <pb n="101" xml:id="p101"/> cette philosophique vérité, que le <hi rend="i"
+          proclamer <pb n="101" xml:id="p101"/>cette philosophique vérité, que le <hi rend="i"
             >vrai</hi> se confond avec le <hi rend="i">bien</hi>, et que si nous <hi rend="i"
             >savions</hi> parfaitement, nous pourrions ne faillir jamais.</p>
         <p>Quel homme de cœur peut assister sans émotion au spectacle de cette jeune âme
@@ -2556,7 +2555,7 @@
        </quote>
         <p>En somme, la juste appréciation de <hi rend="i">l’École des Femmes</hi> est celle
           qu’exprimait Boileau dans les <hi rend="i">Stances</hi>
-          <pb n="102" xml:id="p102"/> qu’il envoyait à Molière pour ses étrennes de 1663, quatre
+          <pb n="102" xml:id="p102"/>qu’il envoyait à Molière pour ses étrennes de 1663, quatre
           jours après la première représentation<note place="bottom">26 décembre 1662.</note> :</p>
         <quote>
           <l>En vain mille jaloux esprits,</l>
@@ -2585,7 +2584,7 @@
       </div>
       <div type="chapter">
         <head>CHAPITRE VI. <lb/>Les Femmes.</head>
-        <p><pb n="103" xml:id="p103"/> Mais si la femme doit jouir d’une honorable liberté et être
+        <p><pb n="103" xml:id="p103"/>Mais si la femme doit jouir d’une honorable liberté et être
           pourvue d’une instruction discrète, ce n’est pas pour en abuser. Il faut qu’elle ait le
           sentiment profond de ses devoirs ; et c’est pour les mieux accomplir qu’elle doit user des
           droits que Molière réclame.</p>
@@ -2600,7 +2599,7 @@
               >La Critique de l’École des Femmes.</hi></note> :<quote> « L’honnêteté d’une femme
             n’est pas dans les grimaces. Il sied mal de vouloir être plus sage que celles qui sont
             sages. L’affectation en cette matière est pire qu’en toute autre, et je ne vois rien de
-            si ridicule que cette délicatesse <pb n="104" xml:id="p104"/> d’honneur qui prend tout
+            si ridicule que cette délicatesse <pb n="104" xml:id="p104"/>d’honneur qui prend tout
             en mauvaise part, donne un sens criminel aux plus innocentes paroles, et s’offense de
             l’ombre des choses<note place="bottom"><hi rend="i">La Critique de l’École des
                 Femmes</hi>, sc. III.</note>. »</quote></p>
@@ -2624,7 +2623,7 @@
           et de l’esprit, elle nourrisse au fond du cœur la sérieuse pensée du devoir, de l’époux
           qu’elle devra aimer, des enfants qu’elle devra élever<note place="bottom"><hi rend="i">Les
               Femmes savantes, Henriette ; le Malade imaginaire, Angélique.</hi></note>.</p>
-        <p>Qu’elle s’exerce d’avance à tous les devoirs de sa <pb n="105" xml:id="p105"/> vie future
+        <p>Qu’elle s’exerce d’avance à tous les devoirs de sa <pb n="105" xml:id="p105"/>vie future
           par la soumission, et qu’elle n’oublie qu’à la dernière extrémité l’obéissance, mais
           jamais le respect, dus à ceux que Dieu lui a donnés pour maîtres<note place="bottom">Le
               <hi rend="i">Tartuffe, l’Avare, le Bourgeois gentilhomme, les Femmes savantes, le
@@ -2650,7 +2649,7 @@
             épouse passionnée, mais non une <hi rend="i">mère de famille.</hi></note>.</p>
         <p>Peut-être <hi rend="i">Elmire</hi> est-elle moins remarquée que d’autres parmi les <hi
             rend="i">femmes</hi> de Molière : ce manque d’éclat même est une de ses qualités. Jeune,
-            belle,<pb n="106" xml:id="p106"/> capable d’inspirer une passion folle, elle s’est
+            belle,<pb n="106" xml:id="p106"/>capable d’inspirer une passion folle, elle s’est
           enfermée dans sa famille, et, sans quitter le monde, elle a su renoncer aux triomphes
           mondains. Quoique mariée à un homme âgé qui ne l’apprécie pas, elle ne songe plus à être
           regardée, et cette modestie est le couronnement de tous les autres mérites qui font d’elle
@@ -2674,7 +2673,7 @@
           ni son respect pour eux ne sont pas diminués. Ce qui surtout est admirable en elle, c’est,
           à tant de vertu, de joindre tant d’indulgence, de rester si bonne et si calme au milieu
           des tempêtes d’une maison bouleversée par les entreprises d’un si audacieux hypocrite. Les
-          autres ont beau faillir, elle ne faiblit <pb n="107" xml:id="p107"/> jamais ; ils ont beau
+          autres ont beau faillir, elle ne faiblit <pb n="107" xml:id="p107"/>jamais ; ils ont beau
           méconnaître ses mérites et attaquer sa conduite, jamais de sa bouche ne sort un mot de
           blâme ou d’aigreur : aux injures de <hi rend="i">M<hi rend="sup">me</hi> Pernelle</hi>,
           elle n’oppose qu’un doux et digne silence<note place="bottom"><hi rend="i">Le
@@ -2723,7 +2722,7 @@
           une hardiesse sans exemple, sont placés face à face le vice et la vertu, dans une
           situation si critique, qu’il fallait toute l’audace du génie pour l’aborder. <hi rend="i"
             >Elmire</hi> y montre que, pour être vertueuse, on n’est pas condamnée à n’avoir ni
-          esprit ni agrément : la grâce, <pb n="109" xml:id="p109"/> les fines reparties,
+          esprit ni agrément : la grâce, <pb n="109" xml:id="p109"/>les fines reparties,
           l’à-propos, tous les charmes féminins brillent en tout ce quelle dit<note place="bottom"
               ><hi rend="i">Le Tartuffe</hi>, act. IV, sc. III-VII.</note>. Elle a sauvé la maison,
           et n’est pour cela ni plus fière ni plus sévère envers le mari qui l’a ruinée. Toujours
@@ -2773,7 +2772,7 @@
           l’autorité du dévouement et du bon sens, sauvera la famille, comme fait <hi rend="i"
             >Martine</hi><note place="bottom"><hi rend="i">Les Femmes savantes</hi>, act. V, sc.
             III.</note>.</p>
-        <p><pb n="111" xml:id="p111"/> Mais, fille ou mère, épouse ou servante, qu’elle soit douce
+        <p><pb n="111" xml:id="p111"/>Mais, fille ou mère, épouse ou servante, qu’elle soit douce
           et gaie. Qu’elle apporte, par ses charmes et son esprit, cet élément de grâce et
           d’agrément que l’homme tout seul ne peut mettre dans la vie commune<note place="bottom"
               ><hi rend="i">Eliante</hi> dans <hi rend="i">le Misanthrope, Elmire</hi> dans <hi
@@ -2799,7 +2798,7 @@
                 X, v. 626.</p></note>. »</quote>II déteste également<quote> « ces personnes qui
             prêtent doucement des charités à tout le monde, ces femmes qui donnent toujours le petit
             coup de langue en passant, et seraient bien fâchées d’avoir souffert qu’on eût dit du
-              <pb n="112" xml:id="p112"/> bien du prochain<note place="bottom"><hi rend="i"
+              <pb n="112" xml:id="p112"/>bien du prochain<note place="bottom"><hi rend="i"
                 >L’Impromptu de Versailles</hi>, sc. I, <hi rend="i">la Peste
               doucereuse</hi>.</note>. »</quote>Il veut que, jusque dans sa défense, la vertu
           attaquée reste douce ; il fait exprimer ce précepte par <hi rend="i">Elmire</hi>, insultée
@@ -2826,7 +2825,7 @@
             sc. V. </note>, Molière a montré qu’il détestait également ces deux vices, et qu’il
           avait autant de mépris pour celles qui feignent la vertu que pour celles qui feignent
           l’amour.</p>
-        <p>Avec le pédantisme, la coquetterie est, chez la <pb n="113" xml:id="p113"/> femme, ce qui
+        <p>Avec le pédantisme, la coquetterie est, chez la <pb n="113" xml:id="p113"/>femme, ce qui
           répugne le plus à Molière. Il trouve indignes toutes ces manœuvres de la vanité, tous ces
           mensonges des yeux et des lèvres, tout ce travail perfide pour conquérir des amants qu’on
           n’aime pas, et pour tromper quelquefois un honnête homme qu’on désespère. Ici Molière est
@@ -2850,7 +2849,7 @@
           <l>Lorsque dans leurs filets tombe un homme de cœur<note place="bottom">A. de Musset, <hi
                 rend="i">Don Paez</hi>, I.</note> !</l>
        </quote>
-        <p><pb n="114" xml:id="p114"/> Là encore est la morale du <hi rend="i">Misanthrope</hi>,
+        <p><pb n="114" xml:id="p114"/>Là encore est la morale du <hi rend="i">Misanthrope</hi>,
           aussi forte et aussi délicate que celle qui ressort du caractère <hi rend="i"
             >d’Alceste.</hi> On trouve tout simple qu’une jeune et jolie femme tienne un salon
           ouvert où se groupe une cour d’adorateurs à la mode. Au milieu de l’encens dont l’enivrent
@@ -2895,7 +2894,7 @@
               la coquetterie, plus loin, chap. VII, p. 134. </note> ?</l>
        </quote>
         <p>Après tant de vérité, tant de principes excellents, tant de grâce et de bon sens apporté
-          dans la peinture <pb n="116" xml:id="p116"/> de la femme, il serait trop rigoureux de
+          dans la peinture <pb n="116" xml:id="p116"/>de la femme, il serait trop rigoureux de
           reprocher à Molière d’avoir introduit sur la scène quelques femmes d’intrigue, comme <hi
             rend="i">Nérine</hi> ou <hi rend="i">Frosine</hi><note place="bottom"><hi rend="i">Le
               Dépit amoureux, Frosine ; l’École des Femmes</hi>, act. II, sc. VI, <hi rend="i">la
@@ -2923,7 +2922,7 @@
             >Mélicerte</hi><note place="bottom"><hi rend="i">Mélicerte, Daphné, Eroxène,
               Corinne.</hi></note>, les fées et les nymphes de <hi rend="i">File enchantée</hi><note
             place="bottom"><hi rend="i">Alcine, Célie, Dircé.</hi></note>, ou les déesses qui
-          entourent <pb n="117" xml:id="p117"/> la fantastique et ravissante <hi rend="i"
+          entourent <pb n="117" xml:id="p117"/>la fantastique et ravissante <hi rend="i"
             >Psyché</hi><note place="bottom">Flore, Vénus, etc. — La pièce de <hi rend="i"
               >Psyché</hi> contient à la rigueur, dans les personnages d’<hi rend="i">Aglaure</hi>
             et de <hi rend="i">Cidippe</hi> (act. I, sc. I, V, act. IV, sc. I, II), une petite leçon
@@ -2951,7 +2950,7 @@
             que <hi rend="i">Dorine</hi> est moins un personnage réel qu’une personnification de la
               <hi rend="i">muse</hi> de Molière, de son <hi rend="i">humeur comique</hi>, tantôt
             rieuse, tantôt profonde (<hi rend="i">Port-Royal</hi>, liv. III, chap. XVI).</note>.</p>
-        <p><pb n="118" xml:id="p118"/> Enfin, il est impossible d’approuver, même en les acceptant
+        <p><pb n="118" xml:id="p118"/>Enfin, il est impossible d’approuver, même en les acceptant
           comme typés de satire, des personnes comme la jeune <hi rend="i">Dorimène</hi> du <hi
             rend="i">Mariage forcé</hi><note place="bottom">Sc. XII.</note>, <hi rend="i">la Femme
             de Sganarelle</hi> dans <hi rend="i">le Cocu imaginaire</hi><note place="bottom">Sc. VI,
@@ -2971,7 +2970,7 @@
           diminuer en somme l’éclat et la moralité des <hi rend="i">femmes</hi> de Molière. Quel
           mérite n’est-ce point que d’avoir seul, sans modèle ancien ni exemple contemporain, su
           voir et dépeindre avec tant de finesse.et d’énergie ce que doit être la femme : pure,
-          simple, franche, douce, <pb n="119" xml:id="p119"/> naturelle gracieuse ! Il y avait du
+          simple, franche, douce, <pb n="119" xml:id="p119"/>naturelle gracieuse ! Il y avait du
           génie à le concevoir ; il y avait de l’audace à le dire aux femmes, du siècle.</p>
         <p>Toutefois, en admirant celte puissance d’esprit, cette justesse de sens, cette
           délicatesse de cœur, cette hauteur de vue qui rendent immortelles les peintures de femmes
@@ -2988,7 +2987,7 @@
               rend="i">Epître</hi> VII, v. 79.</note> ; c’est que cette douleur la tue. Si de nos
           jours des auteurs plus hardis qu’heureux ont tenté de nous intéresser à des courtisanes
           héroïques, le succès a trompé leur attente ; et s’ils ont su plaire quelquefois, ce n’est
-          que par l’introduction de vertus impossibles <pb n="120" xml:id="p120"/> dans des
+          que par l’introduction de vertus impossibles <pb n="120" xml:id="p120"/>dans des
           caractères faux, inacceptables à la scène parce qu’ils sont inconnus dans la réalité.
           Cette raison, qui explique en partie pourquoi le théâtre féminin de Molière, est
           généralement moral, peut amoindrir un peu son mérite au point de vue de l’intention ; mais
@@ -3002,7 +3001,7 @@
       </div>
       <div type="chapter">
         <head>CHAPITRE VII. <lb/>De l’Amour.</head>
-        <p><pb n="121" xml:id="p121"/> L’amour, entre l’homme et la femme accomplis tels que les
+        <p><pb n="121" xml:id="p121"/>L’amour, entre l’homme et la femme accomplis tels que les
           veut Molière, sera un beau sentiment, qui, sans les amollir, leur donnera encore plus de
           valeur et de charme. Dans cette passion, comme dans toute leur conduite, ils seront
           d’abord poussés par ce sens naturel, infus dans toutes les âmes, qui est le fondement de
@@ -3059,7 +3058,7 @@
             dans <hi rend="i">le Prince Jaloux</hi> (act. II, sc. V et suiv.), en 1661, <hi rend="i"
               >un an</hi> avant le mariage de Molière. Il y a là le travail d’un artiste qui se
             reprend, se corrige et se perfectionne, bien plus que l’explosion d’un cœur qui se met
-            lui-même en jeu.</note>. <pb n="123" xml:id="p123"/> Mais ce n’est ni pour une maîtresse
+            lui-même en jeu.</note>. <pb n="123" xml:id="p123"/>Mais ce n’est ni pour une maîtresse
           ni pour une femme que Corneille, Racine, Molière, furent ce qu’ils furent. Les événements
           de leur vie privée n’ont été réellement que des occasions d’être émus, qu’ils auraient
           toujours trouvées en vivant. La triste erreur des littérateurs <hi rend="i">bohèmes</hi>,
@@ -3070,7 +3069,7 @@
           peindre ainsi, c’est son universel génie, à qui rien d’humain n’était étranger ; et ce qui
           donne à ses peintures d’amour un caractère moral. c’est son bon sens, qui resta toujours
           debout malgré les assauts de la passion.</p>
-        <p><pb n="124" xml:id="p124"/> Ce bon sens lui apprit à voir l’amour en philosophe, comme
+        <p><pb n="124" xml:id="p124"/>Ce bon sens lui apprit à voir l’amour en philosophe, comme
           une des facultés naturelles de l’homme, bonne quand il ne la laisse pas parler plus haut
           que la raison, belle jusqu’au sublime dans les âmes qui, par nature et par volonté, sont
           belles et élevées. C’est une œuvre essentiellement morale, de montrer que la passion qui
@@ -3118,7 +3117,7 @@
                 (<hi rend="i">les Femmes savantes</hi>, act. I, sc. II). <hi rend="i">Alceste</hi>
               s’use à vouloir aimer <hi rend="i">Célimène</hi> (<hi rend="i">le Misanthrope</hi>,
               act. I, sc. I ; act. IV, sc. III), etc. </p></note>. Si quelquefois des circonstances
-            <pb n="126" xml:id="p126"/> romanesques concourent à cette rencontre, elles sont
+            <pb n="126" xml:id="p126"/>romanesques concourent à cette rencontre, elles sont
           l’occasion, non la cause de l’amour. Les hasards qui semblent le faire naître dans plus
           d’une pièce de Molière n’ont guère plus d’importance que les dénouements qui le
           couronnent : ce sont des nécessités de la comédie, qui ne peut commencer ni finir sans
@@ -3139,7 +3138,7 @@
           nature qui les pousse à aimer est aussi irrésistible que la nature qui leur fait connaître
           le vrai et pratiquer le bien. Sans doute tous les instincts de notre âme, qui sont les
           invariables points de départ de la morale, peuvent être égarés de leur voie et détournés
-            <pb n="127" xml:id="p127"/> vers les aberrations les plus funestes ; mais ils existent
+            <pb n="127" xml:id="p127"/>vers les aberrations les plus funestes ; mais ils existent
           quand même, et vivent immortels au milieu des erreurs et des misères, même des
           dégradations de l’humanité : le philosophe qui les décrit, le poète qui les peint, sont
           des hommes utiles.</p>
@@ -3162,7 +3161,7 @@
             saine raison. Voir plus loin, p. 142 ; les restrictions à faire à cet éloge se trouvent
             plus loin, chap. IX.</note>. Leur passion sera d’autant plus vive et plus belle, qu’ils
           seront plus parfaits ; car toute vertu, toute intelligence, toute grâce les rendront plus
-          propres à éprouver et à inspirer <pb n="128" xml:id="p128"/> l’amour. C’est pour eux
+          propres à éprouver et à inspirer <pb n="128" xml:id="p128"/>l’amour. C’est pour eux
           seuls, pour eux tout entiers qu’ils s’aimeront, ardents à poursuivre une union
           indissoluble, dans laquelle ils trouveront ce qui manque à leur solitude : la joie d’être
           deux à vivre, à souffrir<note place="bottom"><quote><l><space rend="tab"> </space> Et de
@@ -3196,7 +3195,7 @@
           <l>Tous les jours se levoient clairs et sereins pour eux<note place="bottom">J. Racine,
                 <hi rend="i">Phèdre</hi>, act. IV, sc. VI.</note> !</l>
        </quote>
-        <p><pb n="129" xml:id="p129"/> Ce charme d’une affection naturelle dans des âmes. pures,
+        <p><pb n="129" xml:id="p129"/>Ce charme d’une affection naturelle dans des âmes. pures,
           Molière le montre maintes fois sur son théâtre ; et chaque fois c’est avec une émotion
           nouvelle qu’on s’intéresse de cœur à ces simples et touchantes passions, qu’elles
           entraînent les dieux mêmes et les nymphes comme <hi rend="i">Amour</hi> et <hi rend="i"
@@ -3225,7 +3224,7 @@
           princière, les mêmes sentiments vrais et naturels qui animent <hi rend="i">Isabelle</hi>
           et <hi rend="i">Valère</hi> dans <hi rend="i">l’École des Maris</hi>, et qui, dans <hi
             rend="i">l’École des Femmes</hi>, produisent le délicieux épanouissement de la jeune âme
-            <pb n="130" xml:id="p130"/> d<hi rend="i">’Agnès</hi><note place="bottom"><p><space
+            <pb n="130" xml:id="p130"/>d<hi rend="i">’Agnès</hi><note place="bottom"><p><space
                 rend="tab"> </space> Dans l’auteur original (Maria de Zayas, <hi rend="i">Nouvelles,
                 la Précaution inutile</hi> ; voir la traduction de Scarron dans ses <hi rend="i"
                 >Nouvelles tragi-comiques</hi>), l’Agnès, n’apprend d’un amant brutal que la
@@ -3329,7 +3328,7 @@
               rend="i">Les Femmes savantes.</hi></note>. Il deviendra la vie même de ceux dont il
             s’empare<note place="bottom">Il est inutile de multiplier les notes : il faudrait pour
             chacun de ces articles citer presque tous les amoureux de Molière.</note>. Il leur fera
-          un devoir formel de la <pb n="134" xml:id="p134"/> franchise sans réserves<note
+          un devoir formel de la <pb n="134" xml:id="p134"/>franchise sans réserves<note
             place="bottom">Voir plus loin, p. 137.</note>. Il sera pur<note place="bottom">C’est le
             caractère de ce théâtre, où on ne voit ni fille tombée, ni courtisane. Voir cependant
             les réserves à faire, chap. IX.</note> : jamais un amant, qui aime de l’amour peint par
@@ -3352,7 +3351,7 @@
           vice la rend incapable de comprendre la.seule passion vraie qu’elle ait inspirée dans
           toute la cour.de galants qui l’obsède<note place="bottom"><hi rend="i">Le
             Misanthrope</hi>, act. IV et V. — Voir plus haut, chap. VI, page 112.</note>. La <hi
-            rend="i">prude Arsinoé</hi> ne <pb n="135" xml:id="p135"/> peut pas davantage connaître
+            rend="i">prude Arsinoé</hi> ne <pb n="135" xml:id="p135"/>peut pas davantage connaître
           l’amour dans la coquetterie de vertu que son âge lui impose<note place="bottom"><p><space
                 rend="tab"> </space><hi rend="i">Le Misanthrope</hi>, act. III, sc. IV-VII. — Il y
               avait alors de la coquetterie jusque dans la dévotion : la <hi rend="i"
@@ -3417,7 +3416,7 @@
         <quote>
           <l>Peut-être avant deux ans,......</l>
           <l>Eprise d’un cadet, ivre d’un mousquetaire,</l>
-          <l><pb n="137" xml:id="p137"/> Nous la verrons hanter les plus honteux brelans,</l>
+          <l><pb n="137" xml:id="p137"/>Nous la verrons hanter les plus honteux brelans,</l>
           <l>Donner chez <hi rend="i">la Cornu</hi> rendez-vous aux galans,</l>
           <l>De <hi rend="i">Phèdre</hi> dédaignant la pudeur enfantine,</l>
           <l>Suivre à front découvert <hi rend="i">Z…</hi> et <hi rend="i">Messaline</hi><note
@@ -3450,7 +3449,7 @@
           ignoble bourbier. <hi rend="i">Eliante</hi> pourrait, ce semble, accepter les hommages <hi
             rend="i">d’Alceste</hi> sans déloyauté à l’égard de <hi rend="i">Philinte</hi> : non,
           elle s’expliquera nettement avec l’un comme avec l’autre, et sa sincérité fera mieux
-          ressortir la <pb n="138" xml:id="p138"/> duplicité de son habile cousine ; elle dira <hi
+          ressortir la <pb n="138" xml:id="p138"/>duplicité de son habile cousine ; elle dira <hi
             rend="i">d’Alceste</hi> à <hi rend="i">Philinte</hi> :</p>
         <quote>
           <l>Pour moi, je n’en fais point de façon, et je croi</l>
@@ -3484,7 +3483,7 @@
               act. V, sc. VIII. La franchise est peut-être ici poussée un peu loin ; mais cette
               légère exagération donne néanmoins une profitable leçon. </note>.</l>
        </quote>
-        <p><pb n="139" xml:id="p139"/> Il semble que le <hi rend="i">Clitandre</hi> des <hi rend="i"
+        <p><pb n="139" xml:id="p139"/>Il semble que le <hi rend="i">Clitandre</hi> des <hi rend="i"
             >Femmes savantes</hi> pourrait se laisser aimer par les deux sœurs, et flatter même la
           passion éthérée de la folle <hi rend="i">Bélise</hi>, pour se ménager des appuis dans la
           maison : non, il leur déclarera en face quel est son choix, au risque de soulever des
@@ -3511,7 +3510,7 @@
         <p>Il regardait cette franchise comme le premier devoir de ceux qui s’aiment, et comme la
           première preuve d’affection qu’ils se puissent donner. Il la voulait entière, et, comme on
           vient de le voir, il n’admettait pas qu’on la sacrifiât aux intérêts de l’amour même. Bien
-          plus, il la voulait jusque dans le langage parlé <pb n="140" xml:id="p140"/> par l’amour,
+          plus, il la voulait jusque dans le langage parlé <pb n="140" xml:id="p140"/>par l’amour,
           et il repoussait, autant par cœur que par goût, le style faux que l’on croyait alors le
           style obligé de la passion. Il pensait avec raison qu’un sentiment vrai se fausse et
           s’émousse à s’exprimer en termes recherchés et exagérés. Ce n’était pas seulement, on le
@@ -3539,7 +3538,7 @@
             >ruelles</hi> à côté du Corneille <hi rend="i">du Cid et d’Horace</hi><note
             place="bottom"><hi rend="i">Art poétique</hi>, ch. IV, v. 195-200. - Voir plus haut,
             chap. III, p. 57.</note>.</p>
-        <p><pb n="141" xml:id="p141"/> Molière ne se contenta pas de critiquer avec une verve
+        <p><pb n="141" xml:id="p141"/>Molière ne se contenta pas de critiquer avec une verve
           toujours nouvelle le faux style amoureux partout où l’occasion s’en offrit<note
             place="bottom"><hi rend="i">Les Précieuses ridicules</hi>, sc. V, X ; XII ; <hi rend="i"
               >Les Fâcheux</hi>, act. II, sc. IV ; <hi rend="i">le Misanthrope</hi>, act. I, sc.
@@ -3574,7 +3573,7 @@
           <label>CLITANDRE.</label>
           <l>Quelque secours puissant qu’on promette à ma flamme,</l>
           <l>Mon plus solide espoir c’est votre cœur, madame. ‘</l>
-          <label><pb n="142" xml:id="p142"/> HENRIETTE.</label>
+          <label><pb n="142" xml:id="p142"/>HENRIETTE.</label>
           <l>Pour mon cœur, vous pouvez vous assurer de lui.</l>
           <label>CLITANDRE.</label>
           <l>Je ne puis qu’être heureux quand j’aurai son appui.</l>
@@ -3601,7 +3600,7 @@
           des <hi rend="i">Clitandres</hi>, et les risibles et honteux soupirs des amoureux hors
             d’âge<note place="bottom">Les deux <hi rend="i">Écoles, le Mariage forcé, le
               Misanthrope, l’Avare, le Bourgeois gentilhomme, la Comtesse
-          d’Escarbagnas</hi>.</note> ! Les pédants <pb n="143" xml:id="p143"/> qui se mêlent de
+          d’Escarbagnas</hi>.</note> ! Les pédants <pb n="143" xml:id="p143"/>qui se mêlent de
           galanterie sont encore plus ridicules que les vieillards : <hi rend="i">Trissotin</hi> et
             <hi rend="i">Thomas Diafoirus</hi>, ne ressemblent-ils pas à l’âne de la fable<note
             place="bottom">La Fontaine, liv. IV, fab. V <hi rend="i">l’Ane et le petit Chien</hi>.
@@ -3626,7 +3625,7 @@
             place="bottom">Voir plus haut, chap. II, p. 25.</note> ! et qui peut retenir ses larmes
           au désespoir et au repentir <hi rend="i">d’Elvire</hi><note place="bottom"><hi rend="i">Le
               Festin de Pierre</hi>, act. I, sc. III ; act. IV, sc. IX. </note> ?</p>
-        <p><pb n="144" xml:id="p144"/> Quel dégoût inspire le <hi rend="i">Tartuffe</hi> avide et
+        <p><pb n="144" xml:id="p144"/>Quel dégoût inspire le <hi rend="i">Tartuffe</hi> avide et
           luxurieux</p>
         <quote>
           <l>Qui convoite la mère en épousant la fille<note place="bottom"><p><space rend="tab"
@@ -3653,7 +3652,7 @@
       </div>
       <div type="chapter">
         <head>CHAPITRE VIII. <lb/>Le Mariage.</head>
-        <p><pb n="145" xml:id="p145"/> Est-ce par nécessité de comédie, et pour fournir un
+        <p><pb n="145" xml:id="p145"/>Est-ce par nécessité de comédie, et pour fournir un
           dénouement que tous ces beaux amours aboutissent au mariage<note place="bottom">On est
             encore ici en contradiction avec Bossuet, <hi rend="i">Maximes et réflexions sur la
               comédie</hi>, chap. V, Si <hi rend="i">la comédie d’aujourd’hui purifie l’amour
@@ -3695,7 +3694,7 @@
           l’obligation et de la nécessité finit par s’amoindrir, et disparaît même aux yeux de
           certains esprits malades de délicatesse ou de tempérament.</p>
         <p>Molière, dans la société polie du dix-septième siècle, et dans l’élite même de celte
-          société, vit des <pb n="147" xml:id="p147"/> roués et des précieuses. Il s’en prit d’abord
+          société, vit des <pb n="147" xml:id="p147"/>roués et des précieuses. Il s’en prit d’abord
           aux précieuses.</p>
         <p/>
         <p>Lorsque <hi rend="i">Madelon</hi>, qui veut s’appeler <hi rend="i">Polyxène</hi>, et de
@@ -3720,7 +3719,7 @@
           <l>De l’union des cœurs où les corps n’entrent pas<note place="bottom"><hi rend="i"
                 >Id.</hi>, act. IV, sc. II.</note>,</l>
        </quote>
-        <p>y perd un honnête mari et le bonheur domestique. <pb n="148" xml:id="p148"/> Et comme si
+        <p>y perd un honnête mari et le bonheur domestique. <pb n="148" xml:id="p148"/>Et comme si
           ce n’était pas assez de cette évidente leçon, Molière trouve moyen, quand il met en
           présence la fille philosophe et la fille qui veut un époux et un ménage, de mettre toute
           la grâce et toute la pudeur du côté de celle-ci, et de faire dire à celle-là des
@@ -3742,7 +3741,7 @@
           ébloui par son éloquence sophistique, <hi rend="i">ce qu’il a à dire là-dessus</hi>, le
           timide bon sens de <hi rend="i">Sganarelle</hi> répond : <quote>« Ma foi, j’ai à dire… Je
             ne sais que dire : car vous tournez les choses d’une manière qu’il semble que vous avez
-            raison, et cependant il <pb n="149" xml:id="p149"/> est vrai que vous ne l’avez pas… Je
+            raison, et cependant il <pb n="149" xml:id="p149"/>est vrai que vous ne l’avez pas… Je
             suis tant soit peu scandalisé de vous voir tous les mois vous marier comme vous faites,
             et vous jouer ainsi d’un mystère sacré<note place="bottom"><hi rend="i">Le Festin de
                 Pierre</hi>, act. I, sc. IV.</note>… »</quote> Et quand <hi rend="i">Sganarelle</hi>
@@ -3796,7 +3795,7 @@
           <l>Et ce n’est pas pécher que pécher en silence<note place="bottom"><hi rend="i">Le
                 Tartuffe</hi>, act. IV, sc. V. </note> ;</l>
        </quote>
-        <p><pb n="151" xml:id="p151"/> en vain les raffinées comme <hi rend="i">Armande</hi>
+        <p><pb n="151" xml:id="p151"/>en vain les raffinées comme <hi rend="i">Armande</hi>
           trouvent que c’est « jouer un petit personnage »</p>
         <quote>
           <l>De se claquemurer aux choses du ménage,</l>
@@ -3826,7 +3825,7 @@
               act. IV, sc. II.</note>.</l>
        </quote>
         <p>Ce <hi rend="i">lien honnête</hi> seul peut satisfaire l’amour vrai sans blesser le
-          respect et la pudeur qui en sont un <pb n="152" xml:id="p152"/> caractère essentiel<note
+          respect et la pudeur qui en sont un <pb n="152" xml:id="p152"/>caractère essentiel<note
             place="bottom">Voir plus haut, chap. VII, p. 133.</note> ce <hi rend="i">lien
             honnête</hi> seul peut assurer l’avenir des enfants, pour lesquels il n’y a que honte et
           malheur sans père et sans mère<note place="bottom"><hi rend="i">Célie</hi> dans <hi
@@ -3851,7 +3850,7 @@
               gentilhomme</hi>, act. III, sc. III-VII, XII.</note> ; et certes c’est elle, si peu
           gracieuse qu’elle soit, qui a le beau rôle, quand elle dit à la <hi rend="i">belle
             marquise Dorimène</hi>, qu’elle trouve en partie fine chez son mari : <quote>« Pour une
-              <pb n="153" xml:id="p153"/> grande dame, cela n’est ni beau ni honnête à vous, de
+              <pb n="153" xml:id="p153"/>grande dame, cela n’est ni beau ni honnête à vous, de
             mettre de la dissension dans un ménage, et de souffrir que mon mari soit amoureux de
               vous<note place="bottom"><hi rend="i">Le Bourgeois gentilhomme</hi>, act. IV, sc.
               II.</note>. »</quote></p>
@@ -3880,7 +3879,7 @@
        </quote>
         <p>Et que sont les soucis matériels, auprès de tous ceux de l’esprit et du cœur, l’ennui, le
           dégoût, l’irritation, la haine même qui résulte du choc journalier des caractères ; sans
-          compter les inquiétudes, les douleurs <pb n="154" xml:id="p154"/> , les jalousies, les
+          compter les inquiétudes, les douleurs <pb n="154" xml:id="p154"/>, les jalousies, les
           infidélités et les coups ? Le mariage est la boîte de Pandore.</p>
         <p/>
         <p>Voici le chapitre scabreux où la délicatesse infinie du poète moraliste paraît encore
@@ -3936,7 +3935,7 @@
             il n’y a plus rien à souhaiter, et tout le beau de la passion est fini<note
               place="bottom"><hi rend="i">Le Festin de Pierre</hi>, act. I, sc.
             II.</note>. »</quote></p>
-        <p>Si on y est poussé par l’orgueil d’une noble alliance, <pb n="156" xml:id="p156"/> il
+        <p>Si on y est poussé par l’orgueil d’une noble alliance, <pb n="156" xml:id="p156"/>il
           tourne comme le mariage de <hi rend="i">George Dandin</hi>, <quote>« qui est une leçon
             bien parlante<note place="bottom"><hi rend="i">Le Mari confondu</hi>, act. I, sc.
               I.</note>. »</quote></p>
@@ -3963,7 +3962,7 @@
           galant homme de certaines <hi rend="i">disgrâces</hi><note place="bottom"><hi rend="i">Le
               Cocu imaginaire</hi>, sc. XVII ; <hi rend="i">l’École des Femmes</hi>, act. I, sc. I
             act. IV, sc. VIII,</note>.</p>
-        <p><pb n="157" xml:id="p157"/> Mais ce malheur sans doute se pourrait éviter si l’on
+        <p><pb n="157" xml:id="p157"/>Mais ce malheur sans doute se pourrait éviter si l’on
           n’épousait pas comme <hi rend="i">Sganarelle</hi> ; si la <hi rend="i">nature</hi> dans
           toute sa pureté présidait à cette, union ; si ceux qui s’unissent s’aimaient de. <hi
             rend="i">l’amour vrai</hi> dépeint au précédent chapitre ; si, considérant avec toute
@@ -3989,7 +3988,7 @@
             commune<note place="bottom"><hi rend="i">Elmire</hi> dans le <hi rend="i"
             >Tartuffe</hi> ; <hi rend="i">Mme Jourdain</hi> dans <hi rend="i">le Bourgeois
               gentilhomme</hi>.</note> ; si l’homme, pénétré de sa dignité et de ses obligations,
-          n’abdiquait pas comme <hi rend="i">Chrysale</hi>, et <pb n="158" xml:id="p158"/> ne
+          n’abdiquait pas comme <hi rend="i">Chrysale</hi>, et <pb n="158" xml:id="p158"/>ne
           tournait ni à l’<hi rend="i">Orgon</hi> ni au <hi rend="i">M. Jourdain</hi> ; si la femme
           renonçait franchement à être une <hi rend="i">Philaminte</hi> ou une <hi rend="i"
             >Célimène</hi>, sans doute alors qu’on verrait plus de mariages heureux, et que les <hi
@@ -4016,7 +4015,7 @@
           <head>Les Préceptes du Mariage.</head>
           <label>I.</label>
           <quote>
-            <p><pb n="159" xml:id="p159"/> « Le mariage est une chose sainte et sacrée<note
+            <p><pb n="159" xml:id="p159"/>« Le mariage est une chose sainte et sacrée<note
                 place="bottom"><hi rend="i">Les Précieuses ridicules</hi>, sc. V.</note>, une chaîne
               à laquelle on doit porter toute sorte de respect<note place="bottom"><hi rend="i">Le
                   Mari confondu</hi>, act. II ; sc. III.</note>. »</p>
@@ -4049,7 +4048,7 @@
               grandes précautions<note place="bottom"><hi rend="i">L’Avare</hi>, act. I, sc.
                 VII.</note>. »</p>
          </quote>
-          <label><pb n="160" xml:id="p160"/> VI.</label>
+          <label><pb n="160" xml:id="p160"/>VI.</label>
           <quote>
             <p>« Un mariage ne sauroit être heureux, où l’inclination n’est pas<note place="bottom"
                   ><hi rend="i">L’Avare</hi>, act. IV, sc. III.</note>. »</p>
@@ -4084,7 +4083,7 @@
               cette inclination si nécessaire à composer une union parfaite<note place="bottom"><hi
                   rend="i">Le Malade imaginaire</hi>, act. II, sc. VII.</note>. »</p>
          </quote>
-          <label><pb n="161" xml:id="p161"/> XI.</label>
+          <label><pb n="161" xml:id="p161"/>XI.</label>
           <quote>
             <l>« … Que la vertu seule anime ce dessein<note place="bottom"><hi rend="i"
                   >L’Etourdi</hi>, act. I, sc. IV.</note> : »</l>
@@ -4117,7 +4116,7 @@
           <p>Ils doivent <quote>« s’aimer véritablement, et faire l’un de l’autre tout l’attachement
               de leur vie<note place="bottom"><hi rend="i">Le Malade imaginaire</hi>, act. II, sc.
                 VII.</note>. »</quote></p>
-          <label><pb n="162" xml:id="p162"/> XVI.</label>
+          <label><pb n="162" xml:id="p162"/>XVI.</label>
           <quote>
             <l><hi rend="i">« …</hi> La jalousie est un monstre odieux : »</l>
          </quote>
@@ -4156,7 +4155,7 @@
               douceur et la complaisance<note place="bottom"><hi rend="i">L’Amour peintre</hi>, sc.
                 XX.</note>. »</p>
          </quote>
-          <label><pb n="163" xml:id="p163"/> XX.</label>
+          <label><pb n="163" xml:id="p163"/>XX.</label>
           <p>Le mari doit à sa femme</p>
           <quote>
             <l>« Une grande tendresse et des soins complaisants.</l>
@@ -4198,7 +4197,7 @@
             <l>« Pour céder le dessus en toute chose à l’homme<note place="bottom"><hi rend="i">Les
                   Femmes savantes</hi>, act. V, sc. III.</note>. »,</l>
          </quote>
-          <label><pb n="164" xml:id="p164"/> XXV.</label>
+          <label><pb n="164" xml:id="p164"/>XXV.</label>
           <quote>
             <p>« Elle ne doit point aimer la promenade, la bonne chère, ni fréquenter je ne sais
               quelle sorte de gens<note place="bottom"><hi rend="i">La Jalousie du Barbouillé</hi>,
@@ -4236,7 +4235,7 @@
           <quote>
             <l>« Loin les études d’œillades<note place="bottom"><hi rend="i">Id.</hi>, act. III, sc.
                 II.</note> ! »</l>
-            <p><pb n="165" xml:id="p165"/> « Les honnêtes femmes ont des manières qui savent chasser
+            <p><pb n="165" xml:id="p165"/>« Les honnêtes femmes ont des manières qui savent chasser
               d’abord les galants<note place="bottom"><hi rend="i">Le, Mari confondu</hi>, act. IV,
                 sc. III.</note>. »</p>
          </quote>
@@ -4250,7 +4249,7 @@
       </div>
       <div type="chapter">
         <head>CHAPITRE IX. <lb/>De l’Adultère et des Amours faciles.</head>
-        <p><pb n="166" xml:id="p166"/> Pourquoi faut-il que cette grande figure du poète moraliste
+        <p><pb n="166" xml:id="p166"/>Pourquoi faut-il que cette grande figure du poète moraliste
           soit la statue dont la tête d’or semble toucher le ciel, tandis que ses pieds d’argile
           s’enfoncent dans la boue<note place="bottom">Daniel, cap. II, v ; 32, 33.</note> ? On
           voudrait s’arrêter là pour l’honneur de Molière : non pour son honneur de comédien, qui
@@ -4290,7 +4289,7 @@
                 mal !</l></quote><p><space rend="tab"> </space>avec cette différence que la scène de
                 l<hi rend="i">’École des Femme</hi>s est toute morale, puisqu’<hi rend="i"
                 >Arnolphe</hi> n’a que ce qu’il mérite.</p></note> ? Ne prend-on pas plaisir à voir
-            <hi rend="i">Jupiter</hi> triompher une seconde fois <pb n="168" xml:id="p168"/> d<hi
+            <hi rend="i">Jupiter</hi> triompher une seconde fois <pb n="168" xml:id="p168"/>d<hi
             rend="i">’Alcmène</hi> nécessairement vaincue, qui commet sans le savoir, sans pouvoir
           l’éviter, une faute qui doit la désespérer<note place="bottom"><hi rend="i"
               >Amphitryon</hi>, act. II, sc. VI.</note> ? Et peut-on résister au comique victorieux
@@ -4345,7 +4344,7 @@
           adorait l’honneur fait à <hi rend="i">Amphitryon</hi> et la divine naissance <hi rend="i"
             >d’Hercule</hi> sans que son respect fût diminué pour Junon, protectrice de la foi
           conjugale. Il n’en était pas de même dans un monde où l’on ne voyait qu’un homme sous le
-          masque <pb n="170" xml:id="p170"/> des dieux, et où les <hi rend="i">Hercules</hi> ne
+          masque <pb n="170" xml:id="p170"/>des dieux, et où les <hi rend="i">Hercules</hi> ne
           pouvaient être que des <hi rend="i">ducs du Maine</hi><note place="bottom">En 1668, année
             de la première représentation <hi rend="i">d’Amphitryon</hi>, la marquise de Montespan
             était véritablement maîtresse en titre. Le duc du Maine naquit en 1670. Voir plus loin,
@@ -4378,7 +4377,7 @@
                 > </space>J’aime mieux un vice commode</l><l><space rend="tab"> </space>Qu’une
                 fatigante vertu.</l></quote><p><space rend="tab"> </space>Voir aussi <hi rend="i"
                 >l’École des Femmes</hi>, act. IV, sc. VIII ; et p. 172, note 3.</p></note> ;
-          couvrir de ridicule les victimes de ce <pb n="171" xml:id="p171"/> malheur<note
+          couvrir de ridicule les victimes de ce <pb n="171" xml:id="p171"/>malheur<note
             place="bottom"><hi rend="i">Le Barbouillé</hi>, dans <hi rend="i">la Jalousie du
               Barbouillé, Sganarelle</hi> dans <hi rend="i">le Cocu imaginaire</hi> et <hi rend="i"
               >le Mariage forcé, George Dandin</hi> dans <hi rend="i">le Mari
@@ -4437,7 +4436,7 @@
               place="bottom"><hi rend="i">La Critique de l’École des Femmes</hi>, sc.
             III.</note> ; »</quote> il est vrai que le mot grivois ou <hi rend="i">gaulois</hi>, si
           l’on veut, était alors admis partout, excepté chez les précieuses, et que les dames même
-          ne faisaient point de façon d’en rire : <pb n="173" xml:id="p173"/> c’était une suite de
+          ne faisaient point de façon d’en rire : <pb n="173" xml:id="p173"/>c’était une suite de
           la licence du seizième siècle<note place="bottom">Voir H. Taine, <hi rend="i">Voyage aux
               Pyrénées</hi>, chap. III, <hi rend="i">La Pudeur au XVIe siècle</hi> : <quote>« Chaque
               siècle a son degré de décence… ; parmi les mœurs du temps, le mot crû n’était que le
@@ -4470,7 +4469,7 @@
           <l>Que Lulli réchauffa des sons de sa musique<note place="bottom">Boileau, <hi rend="i"
                 >Satire</hi> X, v. 141.</note>.</l>
        </quote>
-        <p><pb n="174" xml:id="p174"/> Lui-même, avec cette sublime idée de l’amour qu’il se faisait
+        <p><pb n="174" xml:id="p174"/>Lui-même, avec cette sublime idée de l’amour qu’il se faisait
           et qu’il exprimait d’une manière si parfaite, il n’a pas eu le courage de refuser son
           talent à la vulgaire immoralité des opéras demandés par une cour licencieuse : il a su
           dire en vers admirables ce que d’autres ne savaient exprimer qu’avec platitude et
@@ -4524,7 +4523,7 @@
           <l>Un jeune prince soit et grand et généreux...</l>
           <l>Devant mes yeux, seigneur, a passé votre enfance,</l>
           <l>Et j’ai de vos vertus vu fleurir l’espérance...</l>
-          <l><pb n="176" xml:id="p176"/> Votre cœur, votre adresse éclatoient chaque jour :</l>
+          <l><pb n="176" xml:id="p176"/>Votre cœur, votre adresse éclatoient chaque jour :</l>
           <l>Mais je m’inquiétois de ne voir point d’amour.</l>
           <l>Et, puisque les langueurs d’une plaie invincible</l>
           <l>Nous montrent que votre âme à ses traits est sensible,</l>
@@ -4630,7 +4629,7 @@
           <l>Nous ne saurions, vous et moi, faire mieux.</l>
           <l>Quand l’hiver a glacé nos guérêls,</l>
           <l>Le printemps vient reprendre sa place,</l>
-          <l><pb n="179" xml:id="p179"/> Et ramène à nos champs leurs attraits ;</l>
+          <l><pb n="179" xml:id="p179"/>Et ramène à nos champs leurs attraits ;</l>
           <l>Mais hélas ! quand l’âge nous glace,</l>
           <l>Nos beaux jours ne reviennent jamais.</l>
           <l>Ne cherchons tous les jours qu’à nous plaire,</l>
@@ -4663,7 +4662,7 @@
           <l>Ah ! les beaux jours qu’amour nous donne,</l>
           <l>Lorsque sa flamme unit les cœurs !</l>
           <l>Est-il ni gloire ni couronne</l>
-          <label><pb n="180" xml:id="p180"/> TIRCIS.</label>
+          <label><pb n="180" xml:id="p180"/>TIRCIS.</label>
           <l>Qu’avec peu de raison on se plaint d’un martyre</l>
           <l>Que suivent de si doux plaisirs !</l>
           <label>PHILÈNE.</label>
@@ -4695,7 +4694,7 @@
           <l>Ses attraits glorieux ;</l>
           <l>Il est le plus aimable</l>
           <l>Et le plus grand des dieux.</l>
-          <stage><pb n="181" xml:id="p181"/> Et l’on vit un combat des danseurs et des chantres de
+          <stage><pb n="181" xml:id="p181"/>Et l’on vit un combat des danseurs et des chantres de
             Bacchus contre les danseurs et les chantres qui soutenoient le parti de l’Amour.</stage>
           <label>CHLORIS.</label>
           <l>C’est le printemps qui rend l’âme</l>
@@ -4733,7 +4732,7 @@
           <l>Aimables fers !</l>
           <label>LE PARTI DE BACCHUS.</label>
           <l>                                 Douce victoire !</l>
-          <label><pb n="182" xml:id="p182"/> LE PARTI DE L’AMOUR.</label>
+          <label><pb n="182" xml:id="p182"/>LE PARTI DE L’AMOUR.</label>
           <l>Ah ! quel plaisir d’aimer !</l>
           <label>LE PARTI DE BACCHUS.</label>
           <l>                                              Ah ! quel plaisir de boire !</l>
@@ -4747,7 +4746,7 @@
             Bacchus !</l>
           <stage>Un berger arrive, qui se jette entre les deux partis pour les séparer, et leur
             chante ces vers :</stage>
-          <l><pb n="183" xml:id="p183"/> C’est trop, c’est trop, bergers. Eh ! pourquoi ces
+          <l><pb n="183" xml:id="p183"/>C’est trop, c’est trop, bergers. Eh ! pourquoi ces
             débats ?</l>
           <l>Souffrons qu’en un parti la raison nous assemble.</l>
           <l>L’Amour a des douceurs, Bacchus a des appas :</l>
@@ -4813,7 +4812,7 @@
           <l>    Aimons-nous donc d’une ardeur éternelle :</l>
           <l>Les rigueurs des parents, la contrainte cruelle,</l>
           <l>L’absence, les travaux, la fortune rebelle</l>
-          <l><pb n="185" xml:id="p185"/> Ne font que redoubler une <hi rend="i">amitié</hi>
+          <l><pb n="185" xml:id="p185"/>Ne font que redoubler une <hi rend="i">amitié</hi>
               fidèle<note place="bottom"><p><space rend="tab"> </space> Doileau, <hi rend="i"
                   >Satire</hi> X, v. 159 :</p><quote><l><space rend="tab"> </space>Recevant ses
                   amants sons le doux nom <hi rend="i">d’amis.</hi></l></quote></note>.</l>
@@ -4852,7 +4851,7 @@
           <l>Sus ! sus ! chantons ensemble !</l>
           <l>Dansons, chantons, jouons-nous !</l>
           <l>Lorsque pour rire on s’assemble,</l>
-          <l><pb n="186" xml:id="p186"/> Les plus sages, ce me semble,</l>
+          <l><pb n="186" xml:id="p186"/>Les plus sages, ce me semble,</l>
           <l>Sont ceux qui sont les plus fous :</l>
           <l>Ne songeons qu’à nous réjouir :</l>
           <l>La grande affaire est le plaisir<note place="bottom"><hi rend="i">M. de
@@ -4890,7 +4889,7 @@
               allusions, pourrait être le duc de Longueville ou le duc de Lauzun : voir plus haut,
               note 2, p. 176.</note>.</l>
        </quote>
-        <p>Certes, aucun spectacle plus enchanteur n’y peut <pb n="187" xml:id="p187"/> mieux
+        <p>Certes, aucun spectacle plus enchanteur n’y peut <pb n="187" xml:id="p187"/>mieux
           disposer les cœurs, et les femmes, instruites à ces leçons, doivent se dire avec <hi
             rend="i">Caliste</hi> :</p>
         <quote>
@@ -4927,7 +4926,7 @@
                 ><hi rend="i">Les Amants magnifiques</hi>, troisième intermède, seconde entrée de
               ballet.</note>,</l>
        </quote>
-        <p><pb n="188" xml:id="p188"/> n’est-il pas tout naturel qu’en sortant du spectacle on aille
+        <p><pb n="188" xml:id="p188"/>n’est-il pas tout naturel qu’en sortant du spectacle on aille
           faire comme eux<note place="bottom">L’influence de ces plaisirs est exprimée par Voltaire,
             Siècle <hi rend="i">de Louis XIV</hi>, chap. XXVI : <quote>« Tandis que M<hi rend="sup"
                 >me</hi> de la Vallière et M<hi rend="sup">me</hi> de Montespan se disputaient
@@ -4962,7 +4961,7 @@
         <quote>
           <l>Est-on sage</l>
           <l>Dans le bel âge,</l>
-          <l><pb n="189" xml:id="p189"/> Est-on sage</l>
+          <l><pb n="189" xml:id="p189"/>Est-on sage</l>
           <l>De n’aimer pas ?</l>
           <l>Que sans cesse</l>
           <l>L’on se presse</l>
@@ -5037,7 +5036,7 @@
               les chants passionnés, pénètrent le cœur par les oreilles. Quelquefois la corruption
               vient à grands flots ; quelquefois elle s’insinue comme goutte à goutte : à la fin on
               n’en est pas moins submergé. »</quote></note> ? Si les arts ont un pouvoir funeste,
-          c’est <pb n="191" xml:id="p191"/> de rendre séduisant, entraînant, irrésistible, ce qui
+          c’est <pb n="191" xml:id="p191"/>de rendre séduisant, entraînant, irrésistible, ce qui
           tout d’abord aurait révolté la vertu. S’il y a un moyen terrible de démoraliser, c’est
           d’accoutumer doucement l’âme, par le charme, amollissant de la musique et des vers, à
           entendre, à goûter, à aimer ce qui la corrompt. S’il y a une puissance dégradante, c’est
@@ -5052,14 +5051,14 @@
                 arts pour démolir les mœurs.</l></quote></note>.</p>
         <p/>
         <p>Quand on réfléchit de sens froid au suprême intérêt de la moralité des peuples et des
-          rois, au désastre <pb n="192" xml:id="p192"/> de leur immoralité, on comprend que Platon
+          rois, au désastre <pb n="192" xml:id="p192"/>de leur immoralité, on comprend que Platon
           eût chassé Molière de sa république<note place="bottom"><hi rend="i">Les Lois</hi>, liv.
             II, VII ; <hi rend="i">la République</hi>, liv. II, III, X.</note> ; on comprend que
           Bossuet l’ait anathématisé.</p>
       </div>
       <div type="chapter">
         <head>CHAPITRE X. <lb/>Du Père, de la Famille, de l’Etat.</head>
-        <p><pb n="193" xml:id="p193"/> C’est une étude attachante que de suivre un tel homme dans
+        <p><pb n="193" xml:id="p193"/>C’est une étude attachante que de suivre un tel homme dans
           tous les caprices de son inépuisable fécondité, et d’apprécier à la mesure de la morale
           toutes les fantaisies d’un génie si puissant pour le bien ou pour le mal. On voudrait
           n’avoir qu’à louer : l’obligation de blâmer rend délicate et hardie parfois la tâche qu’on
@@ -5074,7 +5073,7 @@
               debeat. »</quote> Cicéron, <hi rend="i">De Officiis</hi>, lib. I, cap. IV.</note> ; et
           l’esprit de famille est pour les êtres sensibles et intelligents un élément si
           constitutionnel, qu’on le retrouve sous forme d’instinct jusque chez les animaux.</p>
-        <p><pb n="194" xml:id="p194"/> On peut dire d’un père, d’une épouse, d’un fils qui
+        <p><pb n="194" xml:id="p194"/>On peut dire d’un père, d’une épouse, d’un fils qui
           accomplissent sérieusement leurs devoirs de famille, que, par suite, ils accomplissent la
           plus grande part de leurs devoirs personnels, de leurs devoirs envers la patrie, envers
           l’humanité, même envers Dieu. Le mariage est ce qui fonde la famille, et partant la
@@ -5097,7 +5096,7 @@
           trouve <hi rend="i">une famille.</hi> Peut-on donner le nom de famille à la réunion des
           gens, honnêtes d’ailleurs, qu’entreprend de tromper et de voler <hi rend="i"
           >Tartuffe</hi> ? Où donc entre eux est la confiance, l’affection, la dignité ? Sans doute,
-          la mère a des qualités ; mais que vaut le père ? Que <pb n="195" xml:id="p195"/> vaut la
+          la mère a des qualités ; mais que vaut le père ? Que <pb n="195" xml:id="p195"/>vaut la
           grand-mère ? quel lien les unit, autre que le nom, la convenance, l’intérêt ? N’en
           dira-t-on pas autant de la famille de l’<hi rend="i">Avare <hi rend="sub">y</hi></hi> de
           celles de <hi rend="i">Philaminte</hi>, du <hi rend="i">Bourgeois gentilhomme</hi>, du <hi
@@ -5134,7 +5133,7 @@
           absolument à la jeunesse florissante ? Fallait-il lui ôter même ses qualités de
           modération, d’expérience et de sagesse, qui l’ont rendue vénérable et sacrée chez tous les
           peuples ?</p>
-        <p>Malheureux le peuple où les enfants ignorent le <pb n="197" xml:id="p197"/> respect des
+        <p>Malheureux le peuple où les enfants ignorent le <pb n="197" xml:id="p197"/>respect des
           cheveux blancs<note place="bottom"><quote><space rend="tab"> </space> « Coram cano capite
               consurge, et honora personam senis. »</quote><hi rend="i">Levit</hi>, cap. XIX, v.
             32.</note> ! Criminel l’auteur qui consacre son génie à leur en enseigner le
@@ -5162,7 +5161,7 @@
             act. I. sc. V ; act. II, sc. VII, VIII.</note>.</p>
         <p>Certes, si les comédies tournent bien, si l’amour honnête et le désintéressement sont
           récompensés, si le bonheur des fils et des filles est assuré, ce n’est pas la faute des
-          pères, et ils n’y méritent guère de <pb n="198" xml:id="p198"/> reconnaissance. Quoi !
+          pères, et ils n’y méritent guère de <pb n="198" xml:id="p198"/>reconnaissance. Quoi !
           toujours mettre en scène des chefs de famille fous et ridicules, qui font une guerre
           haineuse aux désirs naturels et raisonnables de leurs enfants ? Obliger sans cesse le
           spectateur à mépriser des tètes respectables, et à rire sans pitié des <hi rend="i"
@@ -5189,7 +5188,7 @@
           gâte par des défauts toujours ridicules, souvent honteux ? Ne sont-ils pas tous entêtés
           jusqu’à la folie et crédules jusqu’à l’idiotisme ? Les enfants révoltés contre ce risible
           et monstrueux pouvoir n’ont-ils pas, sans exception, la raison, la justice, la
-          délicatesse, le désintéressement, <pb n="199" xml:id="p199"/> l’intelligence et le cœur
+          délicatesse, le désintéressement, <pb n="199" xml:id="p199"/>l’intelligence et le cœur
           pour eux seuls ? La jeunesse n’est-elle donc pas assez présomptueuse, qu’il faille ainsi
           la flatter et lui rendre méprisable tout ce qui n’est pas jeune et entreprenant comme
           elle ? Tous ces beaux et nobles jeunes gens ne seront-ils donc jamais pères un jour ?
@@ -5211,7 +5210,7 @@
             dans <hi rend="i">l’Etourdi</hi>, act. IV, sc. IV.</note>.</p>
         <p>Mais de quel droit les pères parlent-ils raison aux enfants sur ce théâtre ? Eu
           voyons-nous un seul qui, par l’accomplissement des devoirs paternels, ait acquis sur ses
-          fils un empire légitime, ou qui du <pb n="200" xml:id="p200"/> moins, par la tendresse et
+          fils un empire légitime, ou qui du <pb n="200" xml:id="p200"/>moins, par la tendresse et
           l’indulgence, ait mérité leur confiance ? À qui doivent-ils s’en prendre, quand les
           héritiers de leur nom leur crient :<quote> « Le mieux que vous puissiez faire, c’est de
             mourir le plus tôt que vous pourrez<note place="bottom"><hi rend="i">Le Festin de
@@ -5259,7 +5258,7 @@
         <p>C’est faux ; le poète est là en opposition formelle avec la raison et avec lui-même,
           quand il peint l’amour si beau<note place="bottom">Voir plus haut, chap. VII, p.
             121.</note>, le mariage si excellent<note place="bottom"><hi rend="i">Id.</hi>, chap.
-            VIII, p. 145.</note>, et <pb n="202" xml:id="p202"/> qu’il ne représente jamais une
+            VIII, p. 145.</note>, et <pb n="202" xml:id="p202"/>qu’il ne représente jamais une
           famille honnête ni heureuse, où les parents aiment leurs enfants avec intelligence et
           dévouement, où l’expérience et l’âge aient raison contre la fougue des passions
           juvéniles.</p>
@@ -5286,7 +5285,7 @@
           patience.</p>
         <p>À ce point de vue, le théâtre de Molière présente un perpétuel contre-sens ; il est
           impossible que des parents si dépourvus d’intelligence et d’élévation produisent toujours
-          des enfants si admirables. <pb n="203" xml:id="p203"/> La nature peut faire une fois par
+          des enfants si admirables. <pb n="203" xml:id="p203"/>La nature peut faire une fois par
           hasard un tel prodige ; mais ici le prodige passe à l’état de loi. C’est un mensonge
           moral, de prétendre que des fils puissent être pleins d’honneur et de raison, des filles
           pleines de délicatesse, de pudeur et de grâce, sans que pères ni mères leur aient rien
@@ -5307,7 +5306,7 @@
           celle de Molière.</p>
         <p/>
         <p>C’est une singulière aberration du génie, que de méconnaître ce qu’il y a de touchant, de
-          grand, de <pb n="204" xml:id="p204"/> dramatique à l’occasion, dans les sentiments de
+          grand, de <pb n="204" xml:id="p204"/>dramatique à l’occasion, dans les sentiments de
           respect, d’affection et de dévouement qui constituent la famille. Pour une fille délicate
           et tendre comme Molière en a.tant représenté, la joie de l’amour peut-elle être complète
           sans une mère digne de ce nom ? Quelle éducation peuvent donner aux enfants de leur amour
@@ -5359,7 +5358,7 @@
           sur leurs devoirs réciproques quand ils s’aiment et s’unissent, sur leurs devoirs envers
           les semblables, envers la patrie, envers Dieu : en sorte que la morale de Molière aura
           exprimé ce que doit être un homme, un époux, un citoyen, même un chrétien<note
-            place="bottom">Voir plus loin, chap. XI.</note> ; <pb n="206" xml:id="p206"/> et elle
+            place="bottom">Voir plus loin, chap. XI.</note> ; <pb n="206" xml:id="p206"/>et elle
           n’aura nulle part laissé entrevoir ce que doit être un père. Qu’est-ce pourtant qu’un
           honnête homme, un citoyen, qui ne sait être père ? Que valent tous ses autres mérites,
           s’il n’est capable de donner à sa femme et à sa patrie des enfants dignes de lui, s’il ne
@@ -5381,7 +5380,7 @@
               les passions qui déshonorent en eux ce caractère môme… Cen’est point la vieillesse que
               Molière ridiculise, ce sont les défauts qui la discréditent, etc. »</quote> Voir tout
             ce plaidoyer fort ingénieux.</note>. Quelque avantage qu’il y ait à démontrer que les
-          pères ne <pb n="207" xml:id="p207"/> doivent être ni intéressés, ni débauchés, ni
+          pères ne <pb n="207" xml:id="p207"/>doivent être ni intéressés, ni débauchés, ni
           insouciants, ni égoïstes, ni avares, ni durs, il y a un plus grand désavantage à ne pas
           montrer qu’ils sont respectables parce qu’ils sont pères, à ne pas faire ressortir tout ce
           qu’il y a de naturel et de bon dans la famille grandissant autour d’eux avec amour et
@@ -5400,7 +5399,7 @@
           voulons croire que toute idée de justice ou de liberté devait sécher aux feux de ses
           rayons absolus. Nous nous obstinons à ignorer que c’est sous son règne que fut inventé le
             <hi rend="i">moi de patriote ;</hi> que la tyrannie féodale fut définitivement vaincue ;
-          que la liberté commerciale et industrielle prit son <pb n="208" xml:id="p208"/> premier et
+          que la liberté commerciale et industrielle prit son <pb n="208" xml:id="p208"/>premier et
           victorieux essor ; que le peuple fut déchargé des impôts du servage ; que la justice cessa
           d’être une routine ou un abus ; que ceux qui <hi rend="i">s’engraissaient du suc</hi> de
           la France<note place="bottom">Boileau, <hi rend="i">Satire</hi> VIII, v. 194.</note>
@@ -5457,7 +5456,7 @@
                   >Jugurtha</hi>, LXXXIII) :<quote> « Majorum gloria posteris lumen est, neque bona
                   neque mala eorum in occulto patitur. »</quote></p></note>. »</p>
        </quote>
-        <p>Devant cette cour infatuée de noblesse, devant <pb n="210" xml:id="p210"/> ces grands
+        <p>Devant cette cour infatuée de noblesse, devant <pb n="210" xml:id="p210"/>ces grands
           seigneurs qui ne voulaient pas qu’il mangeât à la même table qu’eux, il fait parler un
           honnête homme justement fier de ses ancêtres roturiers, et aimant mieux perdre sa
           maîtresse que se déshonorer par un titre usurpé. <hi rend="i">Cléonte</hi> répond à <hi
@@ -5470,7 +5469,7 @@
             un peu plus délicats. Je trouve que toute imposture est indigne d’un honnête homme, et
             qu’il y a de la lâcheté à déguiser ce que le ciel nous a fait naître, à se parer aux
             yeux du monde d’un titre dérobé, à se vouloir donner pour ce qu’on n’est pas. Je suis né
-            de parents, sans doute, qui ont tenu <pb n="211" xml:id="p211"/> des charges
+            de parents, sans doute, qui ont tenu <pb n="211" xml:id="p211"/>des charges
             honorables ; je me sais acquis, dans les armes, l’honneur de six ans de service, et je
             me trouve assez de bien pour tenir dans le monde un rang assez passable ; mais, avec
             tout cela, je ne veux point me donner un nom où d’autres en ma place croiroient pouvoir
@@ -5495,7 +5494,7 @@
           reçoivent le titre de <hi rend="i">Monsieur de la Dandinière</hi><note place="bottom"><hi
               rend="i">Le Mari confondu</hi>, act. I, sc. IV.</note> ; on n’oubliera jamais
           l’illustre maison <hi rend="i">de Sotenville</hi>, dans laquelle <quote>« Bertrand de
-            Sotenville fut <pb n="212" xml:id="p212"/> si considéré en son temps que d’avoir
+            Sotenville fut <pb n="212" xml:id="p212"/>si considéré en son temps que d’avoir
             permission de vendre tout son bien pour le voyage d’outre-mer<note place="bottom"><hi
                 rend="i">Le Mari confondu</hi>, act. I, sc. V.</note>, »</quote> ni celle <hi
             rend="i">de la Prudoterie</hi>
@@ -5523,7 +5522,7 @@
             III, sc. II. Voir plus haut, chap. II, p. 28.</note>.</p>
         <p>Dans <hi rend="i">les Fâcheux</hi>, passent en courant devant les yeux étonnés d’une
           telle variété, le marquis du bel air<note place="bottom"><hi rend="i">Les Fâcheux</hi>,
-            act. I, sc. I.</note>, <pb n="213" xml:id="p213"/> le marquis musicien<note
+            act. I, sc. I.</note>, <pb n="213" xml:id="p213"/>le marquis musicien<note
             place="bottom"><hi rend="i">Id.</hi>, act. I, sc. V, <hi rend="i">Lisandre.</hi></note>,
           le marquis duelliste<note place="bottom"><hi rend="i">Id.</hi>, act. I. sc. X, <hi
               rend="i">Alcandre.</hi> Voir plus haut chap. II, p.39.</note>, le marquis joueur<note
@@ -5551,7 +5550,7 @@
             toutes nos pièces de maintenant, il faut toujours un marquis ridicule qui divertisse la
               compagnie<note place="bottom"><hi rend="i">L’lmpromptu de Versailles</hi>, sc.
               I.</note>. »</quote></p>
-        <p><pb n="214" xml:id="p214"/> Cette satire des <hi rend="i">marquis</hi> est faite avec
+        <p><pb n="214" xml:id="p214"/>Cette satire des <hi rend="i">marquis</hi> est faite avec
           verve et hardiesse, mais sans fiel. Si les défauts de la cour sont blâmés, les qualités
           d’esprit, de tact, de politesse, que Louis XIV sut développer dans son entourage, sont
           parfaitement reconnues et appréciées<note place="bottom"><hi rend="i">Les Femmes
@@ -5572,7 +5571,7 @@
                 <quote>« <hi rend="i">Gusman</hi> : Un homme de sa qualité feroit une action si
               lâche ? — <hi rend="i">Sganarelle</hi> : Hé ! oui, sa qualité ! La raison en est
               belle ; et c’est par là qu’il s’empêcheroit des choses ! »</quote></note>.</p>
-        <p>Nous ne sommes pas libres, dans la famille immense <pb n="215" xml:id="p215"/> qui est la
+        <p>Nous ne sommes pas libres, dans la famille immense <pb n="215" xml:id="p215"/>qui est la
           patrie, d’abdiquer les devoirs que nous impose notre position quelle qu’elle soit. Le
           noble n’a pas plus le droit d’être oisif que le bourgeois, vaniteux, ou le prolétaire,
           paresseux. Chacun a sa tâche : le sénateur qui ne songe qu’à donner des mascarades<note
@@ -5596,7 +5595,7 @@
                 Femmes savantes</hi>, act. IV, sc. III.</note> ? »</quote> On trouve dans Molière la
           louange du prince sans cesse rapportée à ses travaux, non à sa personne ; l’affirmation de
           ses devoirs envers tous, de ses obligations à voir par ses yeux, à punir, à récompenser, à
-          veiller au <pb n="216" xml:id="p216"/> bien et à l’honneur du pays<note place="bottom"><hi
+          veiller au <pb n="216" xml:id="p216"/>bien et à l’honneur du pays<note place="bottom"><hi
               rend="i">Les Fâcheux</hi>, act. I, sc. X ; le <hi rend="i">Tartuffe</hi>, act. V, sc.
             VII ; <hi rend="i">Psyché</hi>, Prologue ; l<hi rend="i">e Malade imaginaire</hi>,
             Prologue, sc. III, IV. Il va sans dire qu’il faut apporter à l’éloge fait ici à Molière
@@ -5609,7 +5608,7 @@
       </div>
       <div type="chapter">
         <head>CHAPITRE XI. <lb/>De la Religion. Principe et Sanction de la Morale de Molière.</head>
-        <p><pb n="217" xml:id="p217"/> Enfin, pour couronner toute cette morale, ce comédien a su
+        <p><pb n="217" xml:id="p217"/>Enfin, pour couronner toute cette morale, ce comédien a su
           parler de Dieu. Lui, l’homme du rire et du plaisir, il a su, dans quelques scènes
           étonnantes d’une pièce pleine de farces comme <hi rend="i">le Festin de Pierre</hi>,
           peindre la croyance en Dieu, l’amour de Dieu, la dignité, la nécessité de cette croyance
@@ -5626,7 +5625,7 @@
           <label>SGANARELLE</label>
           <p>La belle croyance et les beaux articles de foi que voilà ! Votre religion, à ce que je
             vois, est donc l’arithmétique ? Il faut avouer qu’il se met d’étranges folies dans la
-            tête des hommes, et que, <pb n="218" xml:id="p218"/> pour avoir bien étudié, on est bien
+            tête des hommes, et que, <pb n="218" xml:id="p218"/>pour avoir bien étudié, on est bien
             moins sage le plus souvent. Pour moi, monsieur, je n’ai point étudié comme vous, Dieu
             merci, et personne ne sauroit se vanter de m’avoir jamais rien appris ; mais avec mon
             petit sens mon petit jugement, je vois les choses mieux que tous les livres, et je
@@ -5684,7 +5683,7 @@
             >Pauvre</hi> qui <quote>« prie le ciel tout le jour, et qui est bien mal reconnu de ses
             soins, dit <hi rend="i">don Juan</hi>, puisqu’il est dans la plus grande nécessité du
             monde, et que, le plus souvent, il n’a pas un morceau depain à mettre sous les
-            dents. »</quote> Pourtant, <pb n="220" xml:id="p220"/> entre un <hi rend="i">louis
+            dents. »</quote> Pourtant, <pb n="220" xml:id="p220"/>entre un <hi rend="i">louis
             d’or</hi> et un <hi rend="i">péché</hi>, il n’hésite pas ; et malgré le diable qui le
           tente et <hi rend="i">Sganarelle</hi> qui l’encourage,<quote> « il aime mieux mourir de
               faim<note place="bottom"><hi rend="i">Le Festin de Pierre</hi>, act. III, sc.
@@ -5707,7 +5706,7 @@
             une tendresse toute sainte, un amour détaché de tout, qui n’agit point pour soi, et ne
             se met en peine que de votre intérêt… Je vous ai aimé avec une tendresse extrême ; rien
             au monde ne m’a été aussi cher que vous ; j’ai oublié mon devoir pour vous, j’ai fait
-              <pb n="221" xml:id="p221"/> toutes choses pour vous ; et toute la récompense que je
+              <pb n="221" xml:id="p221"/>toutes choses pour vous ; et toute la récompense que je
             vous en demande, c’est de corriger votre vie et de prévenir votre perte. Sauvez-vous, je
             vous prie, ou pour l’amour de vous, ou pour l’amour de moi. Encore une fois, je vous le
             demande avec larmes ; et si ce n’est assez des larmes d’une personne que vous avez
@@ -5734,7 +5733,7 @@
           <l>Et ne descendez point à des indignités ;</l>
           <l>À son mauvais destin laissez un misérable,</l>
           <l>Et ne vous joignez point au remords qui l’accable.</l>
-          <l><pb n="222" xml:id="p222"/> Souhaitez bien plutôt que son cœur, en ce jour,</l>
+          <l><pb n="222" xml:id="p222"/>Souhaitez bien plutôt que son cœur, en ce jour,</l>
           <l>Au sein de la vertu fasse un heureux retour,</l>
           <l>Qu’il corrige sa vie en détestant son vice<note place="bottom"><hi rend="i">Le
                 Tartuffe</hi>, act. V, sc. VIII.</note>.</l>
@@ -5756,7 +5755,7 @@
             par une austère pénitence, le pardon de l’aveuglement où m’ont plongée les transports
             d’une passion condamnable<note place="bottom"><hi rend="i">Le Festin de Pierre</hi>,
               act. IV, sc. IX.</note>. »</quote></p>
-        <p><pb n="223" xml:id="p223"/> Enfin, la souveraine justice de Dieu, <quote>« condamnant à
+        <p><pb n="223" xml:id="p223"/>Enfin, la souveraine justice de Dieu, <quote>« condamnant à
             des supplices éternels<note place="bottom"><hi rend="i">Le. Festin de Pierre</hi>, act.
               IV, sc. IX. Comp. Platon, <hi rend="i">République</hi>, liv. X.</note> »</quote> ceux
           qui trouvent <quote>« que le ciel n’est pas si exact qu’on pense<note place="bottom"><hi
@@ -5785,7 +5784,7 @@
           sommairement aux modèles espagnols, pour voir qu’ils sont écrits dans un esprit sérieux
           tout différent de l’esprit superstitieux qui domine chez Tirso de Molina<note
             place="bottom">Voir F. Génin, <hi rend="i">Vie de Molière</hi>, chap. III.</note>. Ils
-            <pb n="224" xml:id="p224"/> ne sont point une nécessité de la comédie, qui aurait
+            <pb n="224" xml:id="p224"/>ne sont point une nécessité de la comédie, qui aurait
           produit le même effet avec des affirmations moins précises. Quelque étonnement que cela
           cause, il faut reconnaître là une intention réfléchie et l’expression d’un sentiment
           personnel. En vérité, on exalte Shakespeare d’avoir mêlé dans le drame le langage héroïque
@@ -5864,7 +5863,7 @@
         <p>Le philosophe regarde les tartuffes comme des monstres qui insultent à la fois la dignité
           humaine et la grandeur de Dieu ; à leur vue, le chrétien ne peut s’empêcher de penser à la
           parole divine : <quote>« Prenez garde de faire vos bonnes œuvres devant les homme</quote>s
-            <pb n="227" xml:id="p227"/> p<quote>our être vus d’eux ; autrement vous n’aurez point de
+            <pb n="227" xml:id="p227"/>p<quote>our être vus d’eux ; autrement vous n’aurez point de
             récompense chez votre Père qui est dans les deux. Quand donc vous faites l’aumône, ne
             faites pas sonner la trompette devant vous, comme les hypocrites font dans les
             synagogues et dans les places, pour être honorés des hommes : je vous dis en vérité
@@ -5887,7 +5886,7 @@
           expliquent cette vigueur d’indignation contre les hypocrites et les prudes<note
             place="bottom">Voir plus haut, chap. VI ; p. 115.</note>. Les mêmes sentiments
           expliquent ses railleries contre les superstitions dont le mélange fâcheux déshonore la
-          religion, railleries qui ne <pb n="228" xml:id="p228"/> furent point comprises d’abord et
+          religion, railleries qui ne <pb n="228" xml:id="p228"/>furent point comprises d’abord et
           le firent accuser d’irréligion, si bien qu’il fut obligé de supprimer ce curieux passage
           du <hi rend="i">Festin de Pierre</hi> :</p>
         <quote>
@@ -5922,7 +5921,7 @@
               accuser Molière de sortir du <hi rend="i">profane</hi>, et le premier président de
               Lamoignon était fondé <hi rend="i">en droit</hi> à interdire la représentation du <hi
                 rend="i">Tartuffe</hi>, comme il le fit le 6 août 1667.</note> : »</quote> il se
-          faisait scrupule de nommer Dieu, l’Église, les mystères, <pb n="229" xml:id="p229"/> les
+          faisait scrupule de nommer Dieu, l’Église, les mystères, <pb n="229" xml:id="p229"/>les
           sacrements, sur un théâtre<note place="bottom"><p><space rend="tab"> </space> Il dit <hi
                 rend="i">le ciel</hi> pour <hi rend="i">Dieu, temple</hi> pour <hi rend="i">église,
                 mystère sacré</hi> pour <hi rend="i">sacrement</hi>, etc. ; cela est évident à la
@@ -5982,7 +5981,7 @@
             d’intention</hi> :</p>
           <l>Selon divers besoins, il est une science</l>
           <l>D’étendre les liens de notre conscience,</l>
-          <l><pb n="231" xml:id="p231"/> Et de rectifier le mal de l’action</l>
+          <l><pb n="231" xml:id="p231"/>Et de rectifier le mal de l’action</l>
           <l>Avec la pureté de notre intention<note place="bottom"><hi rend="i">Le Tartuffe</hi>,
               act. IV, sc. V.</note> .</l>
        </quote>
@@ -6058,7 +6057,7 @@
                 là-dessus F. Génin, <hi rend="i">Vie de Molière</hi>, chap. V.</p></note>
             <lb/></l>
        </quote>
-        <p>Faudrait-il donc conclure que la morale de Molière <pb n="233" xml:id="p233"/> est la
+        <p>Faudrait-il donc conclure que la morale de Molière <pb n="233" xml:id="p233"/>est la
           morale chrétienne, et qu’il en a cherché le principe dans les préceptes de la religion ?
           Ce serait erreur. Vivant dans une société et’ parmi des amis illustres, qui discutaient
           vivement les questions religieuses ; protégé par un roi qui s’occupait de religion, même
@@ -6077,7 +6076,7 @@
           part, excepté dans <hi rend="i">le Festin de Pierre</hi> et dans <hi rend="i">le
             Tartuffe</hi>, on ne trouve, d’un bout à l’autre de ses œuvres, le moindre, sentiment,
           la moindre réflexion, la moindre inspiration religieuse. Il n’y a, dans aucune autre
-          comédie, la moindre trace de christianisme ni même <pb n="234" xml:id="p234"/> de religion
+          comédie, la moindre trace de christianisme ni même <pb n="234" xml:id="p234"/>de religion
           naturelle ; et, bien qu’on puisse dire avec raison : <hi rend="i">Nunc non erat his
             locus</hi><note place="bottom">Horace, <hi rend="i">Epist.</hi>, lib. II, ep. III, v.
             19.</note>, c’est peut-être encore un des motifs de la sévérité de Bossuet<note
@@ -6133,7 +6132,7 @@
               quatenus irascendum sit… Quousque et quatenus reprehendendus aliquis sit, definiri
               ratione non facile potest. »</quote> Voir d’ailleurs les railleries de Molière contre
             les aristotéliciens, plus haut, chap. III, p. 58.</note> ?</p>
-        <p><pb n="236" xml:id="p236"/> Il faut bien reconnaître qu’en fait de morale effective, qui
+        <p><pb n="236" xml:id="p236"/>Il faut bien reconnaître qu’en fait de morale effective, qui
           ne soit point une théorie éphémère acceptée par quelques esprits distingué, mais une règle
           des mœurs fixe et universelle il n’y a que deux morales : l’une est celle de la religion,
           qui impose, au nom d’une révélation divine, des préceptes formels, dont l’observation ou
@@ -6148,7 +6147,7 @@
         <p>La morale naturelle est celle que chacun peut tirer de soi : morale de création divine
           comme nous-mêmes, qui existe essentiellement en nous tous, qui dit secrètement au cœur de
           chacun ce qui est bien ou mal ; lumière universelle, plus ou moins affaiblie çà et là,
-          mais jamais éteinte ; dont les préceptes sont appuyés <pb n="237" xml:id="p237"/> en
+          mais jamais éteinte ; dont les préceptes sont appuyés <pb n="237" xml:id="p237"/>en
           chacun par le sentiment, par la raison morale, par l’opinion commune, par l’idée plus ou
           moins prochaine de Dieu : en un mot <hi rend="i">naturelle</hi>, c’est-à-dire fondée sur
           la <hi rend="i">nature</hi> que Dieu créateur nous a imposée formellement ; dont les
@@ -6167,7 +6166,7 @@
           doit être respectée jusque dans ses moindres prescriptions. Il a montré comment l’homme,
           en ne se laissant jamais emporter aux élans des passions, doit rester dans le juste milieu
           qui lui permet de voir clairement le bien, et de le pratiquer sans exagération : juste
-          milieu qu’il faut bien se garder de <pb n="238" xml:id="p238"/> confondre avec celui des
+          milieu qu’il faut bien se garder de <pb n="238" xml:id="p238"/>confondre avec celui des
           nouveaux académiciens d’autrefois et des sceptiques [modernes, car c’est un état moyen de
           passion, et non pas un état moyen de croyance dans le vrai et d’amour pour le bien<note
             place="bottom"><p><hi rend="i">Le Tartuffe</hi>, act. I, sc. V :</p><quote><l><space
@@ -6192,7 +6191,7 @@
         <p>La sanction de la morale de Molière ne doit pas être cherchée non plus dans les
           dénouements miraculeux par lesquels il termine brusquement ses comédies. Il n’est pas vrai
           que le bien et le mal soient ainsi divinement récompensé et puni sur la terre, ni que tous
-          les amoureux s’épousent, ni que tous les <pb n="239" xml:id="p239"/> orphelins retrouvent
+          les amoureux s’épousent, ni que tous les <pb n="239" xml:id="p239"/>orphelins retrouvent
           leurs pères, ni que tous les coquins aillent en prison, ni que tous les athées soient
           foudroyés. Ce genre de dénouement n’est ni moral, ni vrai, ni vraisemblable : il est
           simplement pratique, et s’il est volontiers accepté par le public, c’est parce qu’il
@@ -6212,7 +6211,7 @@
             faudrait, pour en montrer la justesse, répéter une bonne partie des chapitres
             précédents.</note>.</p>
         <p>Cette morale naturelle est nécessairement liée à l’idée de Dieu : elle ne va point sans
-          religion, et <pb n="240" xml:id="p240"/> quoique la morale de Molière ne parle guère de
+          religion, et <pb n="240" xml:id="p240"/>quoique la morale de Molière ne parle guère de
           Dieu ni de religion, elle ne peut être confondue avec la morale que certaines gens
           appellent orgueilleusement <hi rend="i">indépendante</hi><note place="bottom">La morale
               <hi rend="i">indépendante</hi> ne peut remplacer le principe de l’ordre providentiel
@@ -6235,7 +6234,7 @@
       </div>
       <div type="chapter">
         <head>CHAPITRE XII. <lb/>Réflexions Générales.</head>
-        <p><pb n="241" xml:id="p241"/> Quand, arrivé au terme de cette délicate et intéressante
+        <p><pb n="241" xml:id="p241"/>Quand, arrivé au terme de cette délicate et intéressante
           étude, on désire.mettre en ordre toutes les idées qui se sont agitées dans l’esprit, la
           première impression qu’on éprouve est un étonnement profond que Molière ait été, au point
           de vue moral, si peu compris ou si incomplètement apprécié par des juges illustres à
@@ -6247,7 +6246,7 @@
           les contemporains par rapport aux hommes de génie qu’ils voient s’élever autour d’eux, et
           dont ils ne peuvent juger absolument la grandeur, parce qu’il leur faudrait les pouvoir
           considérer avec l’abandon des préjugés de leur époque et la perspective du temps.</p>
-        <p>Lorsque Molière mourut, personne en France, à <pb n="242" xml:id="p242"/> l’exception
+        <p>Lorsque Molière mourut, personne en France, à <pb n="242" xml:id="p242"/>l’exception
           d’un petit nombre d’hommes d’élite, Boileau, La Fontaine, Louis XIV, Bussy, Bouhours,
           personne ne parut s’apercevoir de la perte que la patrie et les lettres venaient de faire.
           Le public ne fut, pour ainsi dire, frappé que d’une chose : c’est qu’un bouffon, au moment
@@ -6270,7 +6269,7 @@
               savoir si la comédie peut être permise, ou doit être absolument défendue.</hi>
             1694.</note>, où se lisait, au profit dudit Boursault, une justification des
           représentations théâtrales en général, et de la comédie française en particulier<quote>
-            « si épurée <pb n="243" xml:id="p243"/> qu’il n’y a rien que l’oreille la plus chaste ne
+            « si épurée <pb n="243" xml:id="p243"/>qu’il n’y a rien que l’oreille la plus chaste ne
             pût entendre : tous les jours, à la cour, les évêques, les cardinaux et les nonces du
             pape ne font point de difficulté d’y assister... ; et elle se joue avec le privilège
             d’un prince qui gouverne ses sujets avec tant de sagesse et de piété, qui n’a pas
@@ -6299,7 +6298,7 @@
             théatin, est du 9 mai 1694, et le P. Caffaro répondit aussitôt en désavouant la <hi
               rend="i">Lettre d’un Homme d’érudition</hi>, pour laquelle il n’a sans doute fourni
             que des indications, et qui a dû être rédigée par Boursault lui-même.</note>.</p>
-        <p>Mais Bossuet n’avait pas eu le temps de lire Molière, <pb n="244" xml:id="p244"/> et il
+        <p>Mais Bossuet n’avait pas eu le temps de lire Molière, <pb n="244" xml:id="p244"/>et il
           avait nécessairement confondu deux choses : les pièces de Molière, et les insipides et
           graveleuses imitations qui étaient jouées alternativement avec ses chefs-d’œuvre sur le
           même théâtre<note place="bottom"><quote>« La troupe de Molière jouait d’abord sur le
@@ -6327,7 +6326,7 @@
         <p>Donc Bossuet, dans sa suprême sévérité, a eu l’esprit plein des dangers et des hontes de
           la vie de comédien, le cœur soulevé par les grossièretés étalées sur la scène de l’époque,
           l’indignation surexcitée par l’encouragement donné aux plaisirs de Louis XIV. Et cette
-          indignation d’évêque et de<quote> « Père de <pb n="245" xml:id="p245"/> l’Église<note
+          indignation d’évêque et de<quote> « Père de <pb n="245" xml:id="p245"/>l’Église<note
               place="bottom">La Bruyère, <hi rend="i">Discours de Réception à l’Académie
                 française.</hi></note>, »</quote> l’a empêché de voir dans Molière autre chose que
           le type du comédien et la personnification de la corruption théâtrale. Dans son
@@ -6346,7 +6345,7 @@
           contemporains de Molière, et que nous ne voyons plus aujourd’hui. Ceci explique pourquoi
           les condamnations de Bossuet s’appliquent réellement si peu au vrai Molière<note
             place="bottom">Voir plus haut, chap. IX, p. 172, note 3.</note>, et montre qu’il y a
-          erreur <pb n="246" xml:id="p246"/> dans la critique acerbe que F. Génin a cru devoir faire
+          erreur <pb n="246" xml:id="p246"/>dans la critique acerbe que F. Génin a cru devoir faire
           de la <hi rend="i">Lettre</hi> au P. Caffaro, qui devint bientôt les <hi rend="i">Maximes
             et Réflexions sur la comédie</hi><note place="bottom">F. Génin, <hi rend="i">Vie de
               Molière</hi>, chap. IX.</note>. Bossuet n’a rien dit que de profondément juste contre
@@ -6385,7 +6384,7 @@
               Questionneur.</hi></p></note>. »</quote> Il semble n’avoir lu qu’en courant, et pour
           pouvoir dire qu’il les connaissait, les ouvrages qu’il juge avec une autorité si absolue
           et si brève.</p>
-        <p><pb n="247" xml:id="p247"/> La Bruyère, moraliste, lui rend plus de justice pour le fond,
+        <p><pb n="247" xml:id="p247"/>La Bruyère, moraliste, lui rend plus de justice pour le fond,
           tout en disant qu’il lui a manqué <quote>« d’éviter le jargon et le barbarisme, et
             d’écrire purement. »</quote>D’ailleurs il se contente de s’exclamer en général sur
           cette <quote>« imitation des mœurs »</quote> et ce <quote>« fléau du ridicule<note
@@ -6403,7 +6402,7 @@
           J.-J. Rousseau, qui, non content de trouver Molière <quote>« inexcusable »</quote> d’avoir
           joué dans <hi rend="i">le Misanthrope</hi>
           <quote>« le ridicule de la vertu, »</quote> se permet <quote>« d’accuser cet auteur
-            d’avoir manqué <pb n="248" xml:id="p248"/> dans cette pièce de très-grandes convenances,
+            d’avoir manqué <pb n="248" xml:id="p248"/>dans cette pièce de très-grandes convenances,
             une très-grande vérité, et peut-être de nouvelles beautés de situation ; »</quote> après
           quoi il veut bien indiquer longuement comment la pièce aurait pu être moins mauvaise<note
             place="bottom">J.-J. Rousseau, <hi rend="i">Lettre à d’Alembert sur les
@@ -6437,7 +6436,7 @@
                 >Œuvres de Molière</hi>, 1855.</p><p><space rend="tab"> </space>M. Baynaud, <hi
                 rend="i">Les Médecins au temps de Molière</hi>, 1862.</p><p><space rend="tab"
               > </space>A. Legrelle, <hi rend="i">Holberg et Molière</hi>, 1864, etc.</p></note>.
-          Mais leur critique, généralement <pb n="249" xml:id="p249"/> littéraire, ne donne point en
+          Mais leur critique, généralement <pb n="249" xml:id="p249"/>littéraire, ne donne point en
           somme ce que l’on cherche ici, une opinion juste et définitive sur <hi rend="i">la morale
             de Molière.</hi></p>
         <p>À ce point de vue, il n’a été vraiment compris de son temps que par deux hommes. Le
@@ -6467,7 +6466,7 @@
                 > </space>Mais, Molière, à la gloire il ne manquerait rien,</l><l><space rend="tab"
                 > </space>Si, parmi leurs défauts que tu peignis si bien,</l><l><space rend="tab"
                 > </space>Tu les avois repris de leur ingratitude.</l></quote></note>.</p>
-        <p><pb n="250" xml:id="p250"/> Maintenant, on voudrait tâcher de se dérober à la passion du
+        <p><pb n="250" xml:id="p250"/>Maintenant, on voudrait tâcher de se dérober à la passion du
           beau et au joug du génie pour conserver toute l’impartialité du sens et du jugement
           moral.</p>
         <p>Il faut se demander d’abord quels étaient les sentiments moraux de Molière, ce qu’il
@@ -6485,7 +6484,7 @@
           y a une règle formelle et invariable des devoirs, et que chacun est obligé de faire un
           continuel effort pour observer cette règle de son <hi rend="i">mieux.</hi> Et il conçoit
           de de <hi rend="i">mieux</hi> humain, puisque la perfection ne nous est pas donnée, une
-          idée si haute et si pratique, qu’il est <pb n="251" xml:id="p251"/> difficile d’imaginer
+          idée si haute et si pratique, qu’il est <pb n="251" xml:id="p251"/>difficile d’imaginer
           qu’aucun homme puisse s’en faire une meilleure.</p>
         <p>II a tout sondé dans l’homme et tout apprécié. Ses études ont été si profondes, que nous
           sommes souvent étonnés de lui voir découvrir en nous ce que nous ignorions nous-mêmes ;
@@ -6505,7 +6504,7 @@
           qu’il doit condamner lui-même<note place="bottom">Voir surtout chap. IX.</note>. Mais qui
           donc est si maître de soi qu’il ne se relâche jamais, et reste toujours absolument
           vertueux ?</p>
-        <p><pb n="252" xml:id="p252"/> Molière voulait l’être, et l’était. S’il succomba à des
+        <p><pb n="252" xml:id="p252"/>Molière voulait l’être, et l’était. S’il succomba à des
           faiblesses humaines, il sut être un mari, non-seulement loyal et bon, mais indulgent et
           pardonnant ; il sut être un ami rare, et, pour tous ceux qu’il conduisait, un protecteur
           charitable et dévoué jusqu’à la mort<note place="bottom">Voir toutes les vies de Molière,
@@ -6530,7 +6529,7 @@
           principes. Il condamna de tout temps la comédie <quote>« corrompue, »</quote> et voulut
           faire des spectacles un <quote>« .divertissement innocent<note place="bottom"><hi rend="i"
                 >Préface du Tartuffe.</hi> Voir plus haut, chap. I, p. 8.</note>. »</quote> Il eut
-          même quelquefois l’intention <pb n="253" xml:id="p253"/> d’instruire, particulièrement
+          même quelquefois l’intention <pb n="253" xml:id="p253"/>d’instruire, particulièrement
           dans <hi rend="i">le Tartuffe</hi> et dans <hi rend="i">les Femmes savantes.</hi> Quand il
           lui arriva de dire le fond de sa pensée, dans <hi rend="i">l’Impromptu de Versailles</hi>
           et <hi rend="i">la Critique de l’École des Femmes</hi>, il affirma sa volonté d’être
@@ -6556,7 +6555,7 @@
           c’est-à-dire s’il n’était pas Molière. Mais que sont ses principes et ses intentions
           auprès de son <hi rend="i">influence</hi> ?</p>
         <p/>
-        <p>La morale d’un homme comme lui n’est pas seulement <pb n="254" xml:id="p254"/> celle
+        <p>La morale d’un homme comme lui n’est pas seulement <pb n="254" xml:id="p254"/>celle
           qu’il conçoit ni même celle qu’il a la prétention d’exprimer : c’est surtout celle qu’il
           introduit dans le monde par ses œuvres, et qu’il établit irrésistiblement dans l’âme de
           ses spectateurs sans qu’ils s’en doutent, et souvent sans s’en douter lui-même<note
@@ -6613,7 +6612,7 @@
           prétention que de divertir, font penser, et penser utilement.</p>
         <p>Oui, la France doit à Molière quelque chose du bon sens qui fait sa force, et de l’esprit
           français qui fait sa gloire.</p>
-        <p><pb n="257" xml:id="p257"/> Toutes ces choses excellentes, il les a enseignées presque
+        <p><pb n="257" xml:id="p257"/>Toutes ces choses excellentes, il les a enseignées presque
           sans le vouloir, poursuivant son but de comédien, cherchant seulement le rire et
           l’émotion, et semblant ignorer quelle puissance était attachée à. ses moindres
           paroles.</p>
@@ -6633,7 +6632,7 @@
         <p/>
         <p>Le vice moral du théâtre de Molière ne consiste pas du tout dans les intentions de
           l’auteur : il ne consiste que faiblement dans l’ensemble des tableaux, où le bien domine,
-          et où on peut dire que le mal <pb n="258" xml:id="p258"/> est rarement approuvé d’une
+          et où on peut dire que le mal <pb n="258" xml:id="p258"/>est rarement approuvé d’une
           manière formelle ; mais il consiste dans le génie même qui inspire tout. Ce génie, c’est
           le <hi rend="i">rire</hi> : il subjugue ; on s’y laisse aller d’autant mieux qu’il est
           délicat et franc ; en sorte qu’insensiblement on s’attache à ce qui <hi rend="i"
@@ -6652,7 +6651,7 @@
           certainement la plus grande : il est incontestable que Molière fortifie le bon sens et
           qu’il élève les âmes, qu’il les habitue, tout en riant, à se tenir dans une région de
           saine raison ; <hi rend="i">la morale de Molière est bonne et belle.</hi></p>
-        <p><pb n="259" xml:id="p259"/> Mais on reculerait devant les conséquences de cette thèse, si
+        <p><pb n="259" xml:id="p259"/>Mais on reculerait devant les conséquences de cette thèse, si
           l’on ne formulait une conclusion plus précise encore, et si, devant l’œuvre du plus grand
           de tous les auteurs et acteurs comiques, on ne parlait de la question générale des
           spectacles ; car enfin, si le spectacle est absolument condamnable, Molière l’est
@@ -6671,7 +6670,7 @@
           spectacle, mêlé d’une prostitution monstrueuse et sacrée, passait incessamment, pendant
           des journées et des semaines entières, d’un combat de gladiateurs à une atellane obscène,
           à une naumachie, à une comédie, à un repas de bêtes nourries de martyrs, ou à une brûlerie
-          de chrétiens enduits <pb n="260" xml:id="p260"/> de poix. Cela durait du jour au soir sans
+          de chrétiens enduits <pb n="260" xml:id="p260"/>de poix. Cela durait du jour au soir sans
           interruption, et il n’est pas étonnant que l’Église ait tout enveloppé dans une même et
           formelle réprobation.</p>
         <p>Même pour les spectacles modernes, la défense générale de ce genre de plaisir paraîtra
@@ -6692,7 +6691,7 @@
           contraire, on doit la louer de son extrême et maternelle précaution pour les âmes. De
           même, on doit la louer d’interdire à ses fidèles une profession évidemment dangereuse au
           point de vue moral. Si elle n’avait pas des prescriptions semblables, elle cesserait
-          d’être une rigoureuse <pb n="261" xml:id="p261"/> et toute pratique institution des
+          d’être une rigoureuse <pb n="261" xml:id="p261"/>et toute pratique institution des
           devoirs ; elle deviendrait simplement une théorie morale, plus ou moins sévère que les
           théories philosophiques de même sorte, sans avoir ni plus d’influence ni plus
           d’autorité.</p>

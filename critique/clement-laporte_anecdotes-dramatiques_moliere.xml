@@ -1,16 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml">
-<?xml-model href="../anecdotes/anecdotes.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../anecdotes/anecdotes.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<!--odt2tei: 2015-03-17T11:09:17+01:00-->
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Anecdotes dramatiques [extraits sur Molière]</title>
-        <author key="Clément, Jean Marie Bernard (1742-1812)">Jean Marie Bernard Clément</author>
-        <author key="La Porte, Joseph de (1714-1779)">Joseph de La Porte</author>
+      	<author key="Clément, Jean Marie Bernard (1742-1812)" ref="https://data.bnf.fr/fr/12001092/jean_marie_bernard_clement/">Jean Marie Bernard Clément</author>
+      	<author key="La Porte, Joseph de (1714-1779)" ref="https://data.bnf.fr/fr/11910307/joseph_de_la_porte/">Joseph de La Porte</author>
         <editor>Alexandra Dias Vieira</editor>
       </titleStmt>
       <editionStmt>

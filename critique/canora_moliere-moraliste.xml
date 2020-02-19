@@ -8,7 +8,7 @@
     <fileDesc>
       <titleStmt>
         <title>Molière moraliste</title>
-        <author key="Canora, Jean (1877-1912)">Jean Canora</author>
+      	<author key="Canora, Jean (1877-1912)" ref="https://data.bnf.fr/fr/12731076/jean_canora/">Jean Canora</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>

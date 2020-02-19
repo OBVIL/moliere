@@ -3,13 +3,12 @@
 <?xml-model href="../anecdotes/anecdotes.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<!--odt2tei: 2015-03-17T11:09:17+01:00-->
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Pourquoi Molière n’a pas joué les avocats</title>
-        <author key="Truinet, Charles (1828-1899)">Charles Truinet</author>
+      	<author key="Truinet, Charles (1828-1899)" ref="https://data.bnf.fr/fr/14348920/charles_truinet/">Charles Truinet</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
@@ -89,7 +88,7 @@
           intermède bouffon, mais rien assurément qui ressemblé à la peinture d’un caractère.</p>
         <p>Et pourtant, à cette époque, la profession d’avocat, naguère illustrée par Lemaistre,
           jetait assez d’éclat pour attirer les regards; c’était le temps où brillait Patru, l’ami
-          de Boileau, de <pb n="6" xml:id="p6"/> Racine, de la Fontaine; le temps où la foule se
+          de Boileau, de <pb n="6" xml:id="p6"/>Racine, de la Fontaine; le temps où la foule se
           pressait aux plaidoyers de Gaultier, oublié aujourd’hui, mais alors célèbre. D’autre part,
           et cela pouvait tenter le poëte comique, malgré les efforts de Patru, de ceux qui, comme
           Gilet et Erard, prenaient à tâche de marcher sur ses traces, le barreau, trop fidèle à de
@@ -153,7 +152,7 @@
           où l’imagination est continuellement surexcitée, où il faut créer sans cesse et avec le
           plus d’esprit possible, où il est nécessaire de plaire à un public. Mais rien de tout cela
           ne se retrouve au barreau. L’avocat n’a pas à créer; il prend les faits dans son dossier;
-          il les explique non pas, <pb n="8" xml:id="p8"/> avec son imagination, mais avec sa raison
+          il les explique non pas, <pb n="8" xml:id="p8"/>avec son imagination, mais avec sa raison
           et son expérience des affaires <hi rend="i">;</hi> et quant au public, ignore-t-on que les
           portes de l’audience ne sont pas ouvertes pour que des esprits oisifs ou blasés viennent
           chercher le plaisir dans le scandale, l’intérêt dans l’aspect d’un malheureux ? Non ; le
@@ -194,7 +193,7 @@
           juridiction ; combien de procédures embarrassantes ; combien d’animaux ravissants par les
           griffes desquels il vous faudra passer : sergents, procureurs, avocats, greffiers,
           substituts, juges et leurs clercs. Il n’y a pas un de tous ces gens-là, qui, pour la
-          moindre chose, ne soit capable de donner un soufflet <pb n="12" xml:id="p12"/> au meilleur
+          moindre chose, ne soit capable de donner un soufflet <pb n="12" xml:id="p12"/>au meilleur
           droit du monde. Un sergent baillera de faux exploits sur quoi vous serez condamné sans que
           vous le sachiez. Votre procureur s’entendra avec votre partie et vous vendra à beaux
           deniers comptants. Votre avocat, gagné de même, ne se trouvera pas lorsqu’on plaidera
@@ -260,7 +259,7 @@
           par réflexion.</p>
         <label><hi rend="i">Impromptu de Versailles</hi>, scène III.</label>
         <p>...Que son dessein est de peindre les mœurs, sans vouloir toucher aux personnes.</p>
-        <p><pb n="15" xml:id="p15"/> (Note 1, page 7.)</p>
+        <p><pb n="15" xml:id="p15"/>(Note 1, page 7.)</p>
         <label><hi rend="i">L’Amour médecin</hi>, acte II, scène IV</label>
         <p>- Je soutiens que l’émétique la tuera.</p>
         <p>- Et moi, que la saignée la fera mourir.</p>

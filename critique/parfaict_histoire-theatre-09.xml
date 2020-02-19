@@ -4,13 +4,12 @@
 <?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre">
-  <!--Odette: 2018-04-04T16:09:01+02:00-->
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Notices des pièces de Molière (1661-1665) [<hi rend="i">Histoire du théâtre français</hi>, tome IX]</title>
-        <author key="Parfaict, François (1698-1753)">François Parfaict</author>
-        <author key="Parfaict, Claude (1705-1777)">Claude Parfaict</author>
+      	<author key="Parfaict, François (1698-1753)" ref="https://data.bnf.fr/fr/12147308/francois_parfaict/">François Parfaict</author>
+      	<author key="Parfaict, Claude (1705-1777)" ref="https://data.bnf.fr/fr/12171462/claude_parfaict/">Claude Parfaict</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
@@ -71,25 +70,26 @@
 <lb/>CORNELII 
 <lb/>Comœdiam, quas inscribitur MENDAX.</label>
         <quote>
-          <lg rend="i"><l>      Gravi cothurno torvus, orchesta truci,</l>
-          <l>Dudum cruentus Gallia justus Stupor</l>
-          <l>Audivit, et vatum decus Cornelius.</l>
-          <l>Laudem Poetae num mereret Comici</l>
-          <l>Pari nitore et elegantia, fuit</l>
-          <l>Qui disputaret, et negarunt inscii ;</l>
-          <l>Et mos gerendus insciis semel fuit.</l>
-          <l>Et ecce, gessit, mentiendi gratia</l>
-          <l>Facetiisque, quas Terentius, pater</l>
-          <l>Amœnitatum, Menander, quas merum</l>
-          <l>Nectar Deorum Plautus, et Mortalium</l>
-          <l>Si saecula reddantur, agnoscant suas,</l>
-          <l>Et quas negare non graventur non suas.</l>
-          <l>Tandem Poeta est : fraude, suco, fabula,</l>
-          <l>Mendace Scena vindicavit se sibi.</l>
-          <l>Cui Stagitae venit in mentem, putas,</l>
-          <l>Quis qua praeivit supputator Algebra,</l>
-          <l>Qui cogitavit illud Euclides prior,</l>
-          <l>Probare rem verissimam mendacio ?</l>
+          <lg rend="i">
+          	<l>      Gravi cothurno torvus, orchesta truci,</l>
+	          <l>Dudum cruentus Gallia justus Stupor</l>
+	          <l>Audivit, et vatum decus Cornelius.</l>
+	          <l>Laudem Poetae num mereret Comici</l>
+	          <l>Pari nitore et elegantia, fuit</l>
+	          <l>Qui disputaret, et negarunt inscii ;</l>
+	          <l>Et mos gerendus insciis semel fuit.</l>
+	          <l>Et ecce, gessit, mentiendi gratia</l>
+	          <l>Facetiisque, quas Terentius, pater</l>
+	          <l>Amœnitatum, Menander, quas merum</l>
+	          <l>Nectar Deorum Plautus, et Mortalium</l>
+	          <l>Si saecula reddantur, agnoscant suas,</l>
+	          <l>Et quas negare non graventur non suas.</l>
+	          <l>Tandem Poeta est : fraude, suco, fabula,</l>
+	          <l>Mendace Scena vindicavit se sibi.</l>
+	          <l>Cui Stagitae venit in mentem, putas,</l>
+	          <l>Quis qua praeivit supputator Algebra,</l>
+	          <l>Qui cogitavit illud Euclides prior,</l>
+	          <l>Probare rem verissimam mendacio ?</l>
           </lg>
          </quote>
         <signed><hi rend="sc">Constanter</hi>, 1645.</signed>
@@ -97,34 +97,36 @@
 <lb/><hi rend="i">Sur sa comédie</hi>, 
 <lb/>LE MENTEUR.</label>
         <quote>
-          <lg><l>      Et bien, ce beau <hi rend="sc">Menteur</hi>, cette pièce fameuse,</l>
-          <l>Qui étonne le Rhin, et fait rougir la Meuse,</l>
-          <l>Et le Tage, et le Pô, et le Tibre romain,</l>
-          <l>De n’avoir rien produit d’égal à cette main.</l>
-          <l>À ce Plaute rené, à ce nouveau Térence,</l>
-          <l>La trouve-t-on si loin, ou de l’indifférence,</l>
-          <l>Ou du juste mépris des savants d’aujourd’hui ?</l>
-          <l>Je tiens tout au rebours, qu’elle a besoin d’appui,</l>
-          <l>De grâce, de pitié, de faveur affétée,</l>
-          <l>D’extrême charité, de louange empruntée.</l>
-          <l>Elle est plate, elle est fade, elle manque de sel,</l>
-          <l>De pointe, de vigueur, et n’y a carrousel,</l>
-          <l>Où la rage, et le vin n’enfante des Corneilles,</l>
-          <l>Capables de fournir de plus fortes merveilles.</l>
-          <l>Qu’ai-je dit ? Ah ! Corneille, aime mon repentir,</l>
-          <l>Ton excellent <hi rend="i">Menteur</hi> m’a porté à mentir.</l>
-          <l>Il m’a rendu le faux si doux, et si aimable,</l>
-          <l>Que sans m’en aviser, j’ai vu le véritable,</l>
-          <l><pb n="XIV" xml:id="pXIV"/>Ruiné de crédit, et ai cru constamment,</l>
-          <l>N’y avoir plus d’honneur qu’à mentir vaillamment.</l>
-          <l>Après tout, le moyen de s’en pouvoir dédire ?</l>
-          <l>À moins que de mentir, je n’en pourrais rien dire.</l>
-          <l>La plus haute pensée au bas de sa valeur,</l>
-          <l>Devenait injustice, et injure à l’auteur.</l>
-          <l>Qu’importe donc qu’on mente, ou que d’un faible éloge</l>
-          <l>À toi, et ton <hi rend="i">Menteur</hi> faussement on déroge ?</l>
-          <l>Qu’importe que les dieux se trouvent irrités ?</l>
-          <l>De mensonges, ou bien de fausses vérités.</l></lg>
+          <lg>
+          	<l>      Et bien, ce beau <hi rend="sc">Menteur</hi>, cette pièce fameuse,</l>
+	          <l>Qui étonne le Rhin, et fait rougir la Meuse,</l>
+	          <l>Et le Tage, et le Pô, et le Tibre romain,</l>
+	          <l>De n’avoir rien produit d’égal à cette main.</l>
+	          <l>À ce Plaute rené, à ce nouveau Térence,</l>
+	          <l>La trouve-t-on si loin, ou de l’indifférence,</l>
+	          <l>Ou du juste mépris des savants d’aujourd’hui ?</l>
+	          <l>Je tiens tout au rebours, qu’elle a besoin d’appui,</l>
+	          <l>De grâce, de pitié, de faveur affétée,</l>
+	          <l>D’extrême charité, de louange empruntée.</l>
+	          <l>Elle est plate, elle est fade, elle manque de sel,</l>
+	          <l>De pointe, de vigueur, et n’y a carrousel,</l>
+	          <l>Où la rage, et le vin n’enfante des Corneilles,</l>
+	          <l>Capables de fournir de plus fortes merveilles.</l>
+	          <l>Qu’ai-je dit ? Ah ! Corneille, aime mon repentir,</l>
+	          <l>Ton excellent <hi rend="i">Menteur</hi> m’a porté à mentir.</l>
+	          <l>Il m’a rendu le faux si doux, et si aimable,</l>
+	          <l>Que sans m’en aviser, j’ai vu le véritable,</l>
+	          <l><pb n="XIV" xml:id="pXIV"/>Ruiné de crédit, et ai cru constamment,</l>
+	          <l>N’y avoir plus d’honneur qu’à mentir vaillamment.</l>
+	          <l>Après tout, le moyen de s’en pouvoir dédire ?</l>
+	          <l>À moins que de mentir, je n’en pourrais rien dire.</l>
+	          <l>La plus haute pensée au bas de sa valeur,</l>
+	          <l>Devenait injustice, et injure à l’auteur.</l>
+	          <l>Qu’importe donc qu’on mente, ou que d’un faible éloge</l>
+	          <l>À toi, et ton <hi rend="i">Menteur</hi> faussement on déroge ?</l>
+	          <l>Qu’importe que les dieux se trouvent irrités ?</l>
+	          <l>De mensonges, ou bien de fausses vérités.</l>
+          </lg>
          </quote>
         <signed><hi rend="sc">Constanter</hi>.</signed>
         <p rend="indent">En finissant cette préface, il nous paraît nécessaire de prévenir le lecteur sur la méthode que nous avons observée dans les articles des pièces de théâtres de ce neuvième volume, et que nous suivrons dans les autres tomes. Sans vouloir diminuer le mérite d’un poème dramatique, nous avons marqué exactement les critiques qu’on en a faites, le rapport de ce même poème avec les autres plus <pb n="XV" xml:id="pXV"/>anciens. Et enfin s’il est tiré ou imité de quelque autre, dont l’original est espagnol ou italien ; voilà tout ce que le lecteur peut exiger de nous. Nous croyons être dispensés de parler du pillage maussade que les compositeurs du théâtre anglais ont fait de quelques-unes de nos tragédies et de nos comédies ; la tragédie anglaise ne captive le goût des spectateurs de cette nation que lorsqu’elle est affreusement barbare, et la comédie n’obtient des applaudissements qu’au moyen d’un sujet composé aux dépens des bonnes mœurs : avec un pareil goût on peut s’imaginer que les tragédies de Corneille ou de Racine, et les comédies de Molière, doivent être étrangement défigurées. Veut-on voir, dans ce dernier genre, jusqu’à quel point <hi rend="i">Le Misanthrope</hi> est dégradé sur le théâtre anglais ? Nous allons employer les<pb n="XVI" xml:id="pXVI"/>termes d’un écrivain distingué qui ne passe nullement pour être prévenu contre les auteurs anglais.</p>

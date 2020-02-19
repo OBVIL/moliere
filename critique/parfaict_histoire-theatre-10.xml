@@ -4,13 +4,12 @@
 <?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre">
-  <!--Odette: 2018-04-04T16:09:16+02:00-->
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Notices des pièces de Molière (1666-1669) [<hi rend="i">Histoire du théâtre français</hi>, tome X]</title>
-        <author key="Parfaict, François (1698-1753)">François Parfaict</author>
-        <author key="Parfaict, Claude (1705-1777)">Claude Parfaict</author>
+      	<author key="Parfaict, François (1698-1753)" ref="https://data.bnf.fr/fr/12147308/francois_parfaict/">François Parfaict</author>
+      	<author key="Parfaict, Claude (1705-1777)" ref="https://data.bnf.fr/fr/12171462/claude_parfaict/">Claude Parfaict</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
@@ -446,7 +445,7 @@
           <p rend="indent">« <note place="bottom" n="[*]">[Note marginale] Argument du ballet.</note>Les Muses, charmées de la glorieuse réputation de notre monarque, et du soin que Sa Majesté prend de faire fleurir tous les arts dans l’étendue de son empire, quittent le Parnasse pour venir à sa cour. Mnémosyne (c’est la Mémoire) fait l’ouverture du théâtre par un récit.</p>
           <p><hi rend="sc">Mnémosyne</hi>, <hi rend="i">M<hi rend="sup">lle</hi> Hilaire</hi>.</p>
           <p>« I<hi rend="sup">re</hi> <hi rend="sc">entrée</hi>. Uranie et les sept Planètes.</p>
-          <p><pb n="134" xml:id="p134"/> « II<hi rend="sup">e</hi> <hi rend="sc">entrée</hi>. Melpomène qui préside à la tragédie : l’on fait paraître Pyrame et Thysbé, qui ont servi à l’une de nos plus anciennes pièces de théâtre<note place="bottom" n="1">[Note marginale]<hi rend="i"> Pyrame et Thisbé</hi>, de Théophile.</note>.</p>
+          <p><pb n="134" xml:id="p134"/>« II<hi rend="sup">e</hi> <hi rend="sc">entrée</hi>. Melpomène qui préside à la tragédie : l’on fait paraître Pyrame et Thysbé, qui ont servi à l’une de nos plus anciennes pièces de théâtre<note place="bottom" n="1">[Note marginale]<hi rend="i"> Pyrame et Thisbé</hi>, de Théophile.</note>.</p>
           <p>« III<hi rend="sup">e</hi> <hi rend="sc">entrée</hi>. Thalie, à qui la comédie est consacrée, a pour son partage une pièce comique, représentée par les Comédiens du roi (la troupe de Molière), et composée par celui de tous nos poètes<note place="bottom" n="2">[Note marginale] Molière.</note> qui dans ce genre d’écrire peut le plus justement se comparer aux anciens. »</p>
        </quote>
         <label rend="i">Acteurs de la Pastorale comique</label>

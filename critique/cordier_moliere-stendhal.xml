@@ -2,13 +2,13 @@
 <?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml">
 <?xml-model href="../anecdotes/anecdotes.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
-<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?><!--odt2tei: 2015-03-17T11:09:17+01:00-->
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Molière jugé par Stendhal</title>
-        <author key="Cordier, Henri (1849-1925)">Henri Cordier</author>
+      	<author key="Cordier, Henri (1849-1925)" ref="https://data.bnf.fr/fr/11897666/henri_cordier/">Henri Cordier</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>

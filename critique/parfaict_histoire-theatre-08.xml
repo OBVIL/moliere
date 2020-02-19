@@ -8,8 +8,8 @@
     <fileDesc>
       <titleStmt>
         <title>Notices des pièces de Molière (1658-1660) [<hi rend="i">Histoire du théâtre français</hi>, tome VIII]</title>
-        <author key="Parfaict, François (1698-1753)">François Parfaict</author>
-        <author key="Parfaict, Claude (1705-1777)">Claude Parfaict</author>
+      	<author key="Parfaict, François (1698-1753)" ref="https://data.bnf.fr/fr/12147308/francois_parfaict/">François Parfaict</author>
+      	<author key="Parfaict, Claude (1705-1777)" ref="https://data.bnf.fr/fr/12171462/claude_parfaict/">Claude Parfaict</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>

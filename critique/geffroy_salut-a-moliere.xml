@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml">
-<?xml-model href="../anecdotes/anecdotes.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../anecdotes/anecdotes.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<!--odt2tei: 2015-03-17T11:09:17+01:00-->
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Salut à Molière, dit par Coquelin cadet, le soir du 15 janvier, pour le 277<hi rend="sup">e</hi> anniversaire de la naissance de Molière, sur la scène de la Comédie-française</title>
-        <author key="Geffroy, Gustave (1855-1926)">Gustave Geffroy</author>
+      	<author key="Geffroy, Gustave (1855-1926)" ref="https://data.bnf.fr/fr/11904505/gustave_geffroy/">Gustave Geffroy</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>

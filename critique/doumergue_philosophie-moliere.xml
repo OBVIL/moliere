@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml">
-<?xml-model href="../anecdotes/anecdotes.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../anecdotes/anecdotes.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<!--odt2tei: 2015-03-17T11:09:17+01:00-->
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>La philosophie dans le théâtre de Molière (<hi rend="i">Revue chrétienne</hi>)</title>
-        <author key="Doumergue, Émile (1844-1937)">Émile Doumergue</author>
+      	<author key="Doumergue, Émile (1844-1937)" ref="https://data.bnf.fr/fr/12131791/emile_doumergue/">Émile Doumergue</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
