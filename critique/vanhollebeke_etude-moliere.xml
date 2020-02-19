@@ -3,12 +3,11 @@
 <?xml-model href="../anecdotes/anecdotes.rng" type="application/xml"  schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<!--odt2tei: 2015-03-17T11:09:17+01:00-->
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Molière et ses contemporains dans <hi rend="i">Le Misanthrope</hi> (<hi rend="i">Revue trimestrielle</hi>)</title>
+        <title>Molière et ses contemporains dans <hi rend="i">Le Misanthrope</hi> (Revue trimestrielle)</title>
         <author key="Van Hollebeke, B. (….-….)">B. Van Hollebeke</author>
       </titleStmt>
       <editionStmt>
@@ -42,7 +41,7 @@
     </fileDesc>
     <profileDesc>
       <creation>
-        <date when="1862"/>
+        <date when="1862">1862</date>
       </creation>
       <langUsage>
         <language ident="fre"/>

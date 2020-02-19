@@ -8,7 +8,7 @@
     <fileDesc>
       <titleStmt>
         <title>Deux pièces inédites de J.-B. P. Molière [<hi rend="i">La Jalousie du Barbouillé, Le Médecin volant</hi>]</title>
-        <author>Anonyme</author>
+        <author key="" ref="">Anonyme</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
@@ -37,7 +37,7 @@
     </fileDesc>
     <profileDesc>
       <creation>
-        <date when="1819"/>
+        <date when="1819">1819</date>
       </creation>
       <langUsage>
         <language ident="fre"/>

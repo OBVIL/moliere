@@ -19,7 +19,7 @@
       </editionStmt>
       <publicationStmt>
         <publisher>Université Paris-Sorbonne, LABEX OBVIL</publisher>
-        <date when="2014"/>
+        <date when="2014">2014</date>
         <idno>http://obvil.sorbonne-universite.fr/corpus/moliere/critique/picard_notice-moliere/</idno>
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
@@ -37,7 +37,7 @@
     </fileDesc>
     <profileDesc>
       <creation>
-        <date when="1825"/>
+        <date when="1825">1825</date>
       </creation>
       <langUsage>
         <language ident="fre"/>

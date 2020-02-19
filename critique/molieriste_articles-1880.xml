@@ -8,6 +8,7 @@
     <fileDesc>
       <titleStmt>
         <title>Le Moliériste. Choix d’articles relatifs à Molière (1880)</title>
+      	<author key="" ref="">Anonyme</author>
         </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
@@ -54,7 +55,7 @@
     </fileDesc>
     <profileDesc>
       <creation>
-        <date when="1880"/>
+        <date when="1880">1880</date>
       </creation>
       <langUsage>
         <language ident="fre"/>

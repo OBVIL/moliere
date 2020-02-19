@@ -8,7 +8,8 @@
     <fileDesc>
       <titleStmt>
         <title>Le Moliériste. Choix d’articles relatifs à Molière (1879)</title>
-        </titleStmt>
+      	<author key=""></author>
+      </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
         <respStmt>
@@ -40,7 +41,7 @@
     </fileDesc>
     <profileDesc>
       <creation>
-        <date when="1879"/>
+        <date when="1879">1879</date>
       </creation>
       <langUsage>
         <language ident="fre"/>
@@ -1077,7 +1078,7 @@
           <p>Rappelons ici quelques faits essentiels très connus, peu connus ou inédits.</p>
           <p>Les relations de Molière et des italiens commencèrent dès son établissement au théâtre du Petit-Bourbon (novembre 1658), où jouait depuis longtemps la troupe italienne, Molière et ses camarades lui donnèrent 1500 livres pour jouer les jours extraordinaires, c’est-à-dire les lundis, mercredis, jeudis et samedis<note resp="author"><hi rend="i">Registre de La Grange</hi>, p. 3. Éd. de la Comédie-Française, p. 8.</note>.</p>
           <p>Entre le 7 et le 11 juillet 1659, <quote>« la troupe italienne »</quote>, dit La Grange, <quote>« s’en retourna en Italie. Trivelin et Aurélia restèrent<note resp="author"><hi rend="i">Ibid.</hi></note> »</quote>.</p>
-          <p>Lorsque les Italiens revinrent à Paris, en janvier 1662<note resp="author"><space/>Ils avaient joué à Fontainebleau pendant les cinq derniers mois de 1661. La Grange.</note>, ils trouvèrent la salle du Petit-Bourbon démolie et la troupe de Molière installée au Palais-Royal. Ce fut à leur tour de laisser les jours ordinaires à Molière et de se contenter des jours extraordinaires ; de plus, ils remboursèrent à Molière la moitié des frais faits par lui pour son installation au Palais-Royal, c’est-à-dire deux mille livres<note resp="author"><hi rend="i">Ibid.</hi>, p. 40.</note>. Je crois, d’après mon calcul, que Molière leur fit grâce de quelque cent écus, mais il rentrait dans les 1 500 livres que lui avait coûtées le Petit-Bourbon ; c’était le principal.</p>
+          <p>Lorsque les Italiens revinrent à Paris, en janvier 1662<note resp="author">Ils avaient joué à Fontainebleau pendant les cinq derniers mois de 1661. La Grange.</note>, ils trouvèrent la salle du Petit-Bourbon démolie et la troupe de Molière installée au Palais-Royal. Ce fut à leur tour de laisser les jours ordinaires à Molière et de se contenter des jours extraordinaires ; de plus, ils remboursèrent à Molière la moitié des frais faits par lui pour son installation au Palais-Royal, c’est-à-dire deux mille livres<note resp="author"><hi rend="i">Ibid.</hi>, p. 40.</note>. Je crois, d’après mon calcul, que Molière leur fit grâce de quelque cent écus, mais il rentrait dans les 1 500 livres que lui avait coûtées le Petit-Bourbon ; c’était le principal.</p>
           <p>Cette troupe italienne, qui avait pour chef Tiberio Fiorilli dit Scaramouche<note resp="author">Archives nationales, Menus plaisirs, KK. 213.</note>, avait débuté au Petit-Bourbon le 10 août 1653. De cette première date jusqu’à l’année 1680, où elle fut transférée à l’hôtel de Bourgogne, rue Mauconseil, par suite de la réunion des troupes françaises à la salle de la rue Mazarine, elle se composa successivement des artistes dont voici la nomenclature plus ou moins complète :</p>
           <p><hi rend="sc">Turi</hi>, qui jouait <hi rend="sc">Pantalon</hi>, et qui se retira en 1670 ;</p>
           <p><hi rend="sc">Le fils Turi</hi>, qui jouait les amoureux sous le nom de <hi rend="sc">Virginio</hi> ;</p>
