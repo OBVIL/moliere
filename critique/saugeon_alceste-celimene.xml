@@ -8,7 +8,7 @@
     <fileDesc>
       <titleStmt>
         <title>Une étude sur Molière. Alceste et Célimène (<hi rend="i">La Revue de Bordeaux et Gironde unies</hi>)</title>
-        <author key="Saugeon (….-….)" ref="">Saugeon</author>
+      	<author key="Saugeon (….-….)" ref="">J.-M.-M. Saugeon</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
@@ -36,7 +36,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><author>J.-M.-M. Saugeon</author>, <title><hi rend="i">« Une étude sur Molière. Alceste et Célimène », </hi>La Revue de Bordeaux et Gironde unies</title>, <pubPlace>Bordeaux</pubPlace>, <biblScope>1re année de l’Association, 5e année de La Gironde</biblScope>, <date>1836-1837</date>, <biblScope>p. 65-76</biblScope>.</bibl>
+      	<bibl><author>J.-M.-M. Saugeon</author>, <title><hi rend="i">« Une étude sur Molière. Alceste et Célimène », </hi>La Revue de Bordeaux et Gironde unies</title>, <pubPlace>Bordeaux</pubPlace>, <biblScope>1re année de l’Association, 5e année de La Gironde</biblScope>, <date>1836-1837</date>, pp. <biblScope unit="page">65-76</biblScope>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>

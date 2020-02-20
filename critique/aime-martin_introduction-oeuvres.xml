@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml"><?xml-model href="../anecdotes/anecdotes.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?><?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?><!--odt2tei: 2015-03-17T11:09:17+01:00-->
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml">
+<?xml-model href="../anecdotes/anecdotes.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Œuvres de Molière, avec les notes de tous les commentateurs</title>
-        <author key="Martin, Louis-Aimé (1781-1844)" ref="">Louis-Aimé Martin</author>
+      	<author key="Martin, Louis-Aimé (1781-1844)" ref="https://data.bnf.fr/fr/12047206/louis-aime_martin/">Louis-Aimé Martin</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
@@ -42,7 +45,7 @@
     </fileDesc>
     <profileDesc>
       <creation>
-        <date when="1824">1824</date>
+        <date when="1845">1845</date>
       </creation>
       <langUsage>
         <language ident="fre"/>

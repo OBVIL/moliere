@@ -8,7 +8,7 @@
     <fileDesc>
       <titleStmt>
         <title>Projet d’un traité sur la comédie</title>
-      	<author key="Fénelon, François de (1651-1715)" ref="https://data.bnf.fr/fr/11886277/francois_de_fenelon/">Fénelon</author>
+      	<author key="Fénelon, François de (1651-1715)" ref="https://data.bnf.fr/fr/11886277/francois_de_fenelon/">François de Fénelon</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
@@ -32,7 +32,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><author>François de Salignac de La Mothe-Fénelon</author>, <title><hi rend="i">« Projet d’un traité sur la comédie », in </hi>Réflexions sur la grammaire, la rhétorique, la poétique et l’histoire</title>, <pubPlace>Paris</pubPlace>, <publisher>J.-B. Coignard</publisher>, <date>1716</date>, <biblScope>p. 110-119</biblScope>.</bibl>
+      	<bibl><author>François de Fénelon</author>, <title><hi rend="i">« Projet d’un traité sur la comédie », in </hi>Réflexions sur la grammaire, la rhétorique, la poétique et l’histoire</title>, <pubPlace>Paris</pubPlace>, <publisher>J.-B. Coignard</publisher>, <date>1716</date>, pp. <biblScope unit="page">110-119</biblScope>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>

@@ -36,7 +36,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><author>Janin, Jules</author>, <title>Histoire de la littérature dramatique</title>, tome II, <pubPlace>Paris</pubPlace>, <publisher>M. Lévy frères</publisher>, <date>1853</date>, 437 p. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k54154235">Gallica</ref>.</bibl>
+      	<bibl><author>Jules Janin</author>, <title>Histoire de la littérature dramatique</title>, t. <biblScope unit="tome">II</biblScope>, <pubPlace>Paris</pubPlace>, <publisher>M. Lévy frères</publisher>, <date>1853</date>. Source : <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k54154235">Gallica</ref>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>

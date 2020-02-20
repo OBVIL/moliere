@@ -36,7 +36,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><author>Donneau de Visé, Jean</author>, [Abrégé de l’abrégé de la vie de Molière], <title>Nouvelles nouvelles</title>, t. <biblScope unit="volume">III</biblScope>, <pubPlace>Paris</pubPlace>, <publisher>Gabriel Quinet</publisher>, <date>1663</date>, in-12, pp. <biblScope unit="page">210-243</biblScope>. Source : <ref target="https://books.google.fr/books?id=MZFlAAAAcAAJ">Google</ref>.</bibl>
+      	<bibl><author>Jean Donneau de Visé</author>, [Abrégé de l’abrégé de la vie de Molière], <title>Nouvelles nouvelles</title>, t. <biblScope unit="volume">III</biblScope>, <pubPlace>Paris</pubPlace>, <publisher>Gabriel Quinet</publisher>, <date>1663</date>, in-12, pp. <biblScope unit="page">210-243</biblScope>. Source : <ref target="https://books.google.fr/books?id=MZFlAAAAcAAJ">Google</ref>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>

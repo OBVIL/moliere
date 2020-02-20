@@ -8,7 +8,7 @@
         <fileDesc>
             <titleStmt>
                 <title>De l’art de la comédie. Livre second. De ses différents genres (1<hi rend="sup">re</hi> éd.) [graphies originales]</title>
-            	<author key="Cailhava de L’Estandoux, Jean-François (1731-1813)" ref="https://data.bnf.fr/fr/12146204/jean-francois_cailhava_d_estandoux/">Jean-François Cailhava</author>
+            	<author key="Cailhava de L’Estandoux, Jean-François (1731-1813)" ref="https://data.bnf.fr/fr/12146204/jean-francois_cailhava_d_estandoux/">Jean-François Cailhava de L’Estandoux</author>
             </titleStmt>
             <editionStmt>
                 <edition>OBVIL</edition>
@@ -49,14 +49,7 @@
                 </availability>
             </publicationStmt>
             <sourceDesc>
-                <bibl>Jean-François <author>Cailhava de L’Estandoux</author>, <title>De l’art de la
-                        comédie, ou Détail raisonné des diverses parties de la comédie et de ses
-                        différents genres, suivi d’un Traité de l’imitation où l’on compare à leurs
-                        originaux les Imitations de Moliere et celles des Modernes</title>, t. <biblScope unit="volume">II</biblScope>,
-                        <pubPlace>Paris</pubPlace>, <publisher>Fr. Amb. Didot aîné</publisher>,
-                        <date>1772</date>. Source : <ref
-                        target="http://www.archive.org/details/delartdelacom02cail">Internet
-                        Archive</ref>. Errata intégré.</bibl>
+            	<bibl><author>Jean-François Cailhava de L’Estandoux</author>, <title>De l’art de la comédie, ou Détail raisonné des diverses parties de la comédie et de ses différents genres, suivi d’un Traité de l’imitation où l’on compare à leurs originaux les Imitations de Moliere et celles des Modernes</title>, t. <biblScope unit="volume">II</biblScope>, <pubPlace>Paris</pubPlace>, <publisher>Fr. Amb. Didot aîné</publisher>, <date>1772</date>. Source : <ref target="http://www.archive.org/details/delartdelacom02cail">Internet Archive</ref>. Errata intégré.</bibl>
             </sourceDesc>
         </fileDesc>
         <profileDesc>

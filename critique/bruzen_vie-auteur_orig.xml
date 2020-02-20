@@ -36,7 +36,7 @@
                 </availability>
             </publicationStmt>
             <sourceDesc>
-                <bibl>Antoine-Augustin <author>Bruzen de La Martinière</author>, <title><hi rend="i">« Vie de l’auteur », in </hi>Les Œuvres de Monsieur de Moliere. Nouvelle edition, revuë, corrigée, et augmenté d’une nouvelle vie de l’auteur, et de la Princesse d’Elide, toute en vers, telle qu’elle se jouë à présent, imprimée pour la première fois</title>, t. <biblScope unit="volume">I</biblScope>, <pubPlace>Amsterdam</pubPlace>, <publisher>P. Brunel</publisher>, <date>1725</date>, p. <biblScope unit="page">9-116</biblScope>. Source : <ref target="https://books.google.fr/books?id=Ut9WAAAAcAAJ">Google</ref>.</bibl>
+            	<bibl><author>Antoine-Augustin Bruzen de La Martinière</author>, <title><hi rend="i">« Vie de l’auteur », in </hi>Les Œuvres de Monsieur de Moliere. Nouvelle edition, revuë, corrigée, et augmenté d’une nouvelle vie de l’auteur, et de la Princesse d’Elide, toute en vers, telle qu’elle se jouë à présent, imprimée pour la première fois</title>, t. <biblScope unit="volume">I</biblScope>, <pubPlace>Amsterdam</pubPlace>, <publisher>P. Brunel</publisher>, <date>1725</date>, p. <biblScope unit="page">9-116</biblScope>. Source : <ref target="https://books.google.fr/books?id=Ut9WAAAAcAAJ">Google</ref>.</bibl>
             </sourceDesc>
         </fileDesc>
         <profileDesc>

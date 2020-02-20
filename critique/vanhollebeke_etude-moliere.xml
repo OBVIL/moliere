@@ -36,7 +36,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><author>B. Van Hollebeke</author>, <title><hi rend="i">« Étude sur Molière. Molière et ses contemporains dans </hi>Le Misanthrope<hi rend="i">)... », </hi>Revue trimestrielle</title>, <pubPlace>Bruxelles</pubPlace>, <biblScope>vol. 34, 9e année, tome II</biblScope>, <date>1862</date>, <biblScope>p. 292-316</biblScope>.</bibl>
+      	<bibl><author>B. Van Hollebeke</author>, <title><hi rend="i">« Étude sur Molière. Molière et ses contemporains dans </hi>Le Misanthrope<hi rend="i">)... », </hi>Revue trimestrielle</title>, vol. 34, 9e année, t. <biblScope unit="tome">II</biblScope>, <pubPlace>Bruxelles</pubPlace>, <date>1862</date>, p. <biblScope unit="page">292-316</biblScope>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>

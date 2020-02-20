@@ -46,9 +46,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><author>Charles-Julien Jeannel</author>, <title>La Morale de Molière</title>,
-            <pubPlace>Paris</pubPlace>, <publisher>Ernest Thorin</publisher>,
-          <date>1867</date>.</bibl>
+        <bibl><author>Charles-Julien Jeannel</author>, <title>La Morale de Molière</title>, <pubPlace>Paris</pubPlace>, <publisher>Ernest Thorin</publisher>, <date>1867</date>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -69,7 +67,6 @@
           indigne de vous ce premier essai de votre fils aîné</p>
         <p rend="right">C.-J. JEANNEL.</p>
         <p rend="right">Castelnau-lès-Lez, 7 octobre 1867.</p>
-
       </div>
     </front>
     <body>

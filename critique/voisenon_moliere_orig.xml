@@ -7,17 +7,18 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Molière (<hi rend="i"
-					>Anecdotes littéraires, historiques et critiques</hi>) [graphies originales]</title>
-				<author key="Voisenon, Claude-Henri de Fusée de (1708-1775)"
-					ref="https://data.bnf.fr/fr/12003593/claude-henri_de_fusee_de_voisenon/"
-					>Claude-Henri de Fusée de Voisenon</author>
+				<title>Molière (<hi rend="i">Anecdotes littéraires, historiques et critiques</hi>) [graphies originales]</title>
+				<author key="Voisenon, Claude-Henri de Fusée de (1708-1775)" ref="https://data.bnf.fr/fr/12003593/claude-henri_de_fusee_de_voisenon/">Claude-Henri de Fusée de Voisenon</author>
 			</titleStmt>
 			<editionStmt>
 				<edition>OBVIL</edition>
 				<respStmt>
 					<name>Eric Thiébaud</name>
 					<resp>Stylage sémantique</resp>
+				</respStmt>
+				<respStmt>
+					<name>Côme Saignol</name>
+					<resp>Édition et structuration TEI</resp>
 				</respStmt>
 				<respStmt>
 					<name>Wordpro</name>
@@ -39,19 +40,12 @@
 				</availability>
 			</publicationStmt>
 			<sourceDesc>
-				<bibl><author>Claude-Henri de Fusée de Voisenon</author>, <title><hi rend="i"
-							>« Molière », in </hi> Anecdotes littéraires, historiques et critiques, sur les Auteurs les plus connus<hi
-							rend="i"
-						>, repris dans </hi>Œuvres complettes de M. l’abbé de Voisenon, de l’Académie Françoise</title>, t. <biblScope
-						unit="volume"
-						>IV</biblScope>, <pubPlace>Paris</pubPlace>, <publisher>Moutard</publisher>, <date>1781</date>, pp. <biblScope
-						unit="page">41-42</biblScope>. Source : <ref
-						target="https://books.google.fr/books?id=Nuf7-DTydrMC">Google</ref>.</bibl>
+				<bibl><author>Claude-Henri de Fusée de Voisenon</author>, <title><hi rend="i">« Molière », in </hi> Anecdotes littéraires, historiques et critiques, sur les Auteurs les plus connus<hi rend="i">, repris dans </hi>Œuvres complettes de M. l’abbé de Voisenon, de l’Académie Françoise</title>, t. <biblScope unit="volume">IV</biblScope>, <pubPlace>Paris</pubPlace>, <publisher>Moutard</publisher>, <date>1781</date>, pp. <biblScope unit="page">41-42</biblScope>. Source : <ref target="https://books.google.fr/books?id=Nuf7-DTydrMC">Google</ref>.</bibl>
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
 			<creation>
-				<date when="1781"/>
+				<date when="1781">1781</date>
 			</creation>
 			<langUsage>
 				<language ident="fre">fre</language>
@@ -63,9 +57,7 @@
 			<div type="chapter" xml:id="moliere">
 				<pb n="41" xml:id="p41"/>
 				<head><hi rend="i">MOLIERE.</hi></head>
-				<p>Moliere, né à Paris, fut, sans contredit, le plus grand Philosophe de son siecle. Personne n’a jamais mieux connu les ridicules, &amp; ne les a peints avec tant de force &amp; de vérité. Les Auteurs qu’il surpassoit, les originaux qu’il peignoit, ses camarades qu’il enrichissoit, étoient ses ennemis. Il critiquoit les hommes, &amp; sa femme les aimoit ; l’un tiroit sa gloire de leurs défauts, l’autre tiroit son plaisir de leurs foiblesses. Moliere avoit des amis respectables, qui le consoloient des chagrins qu’il essuyoit. Il avoit des talens trop supérieurs, &amp; s’appliquoit trop à corriger les mœurs, pour n’être pas le plus honnête homme. Il étoit ce qu’il désiroit que les autres fussent. La gaieté répandue dans ses Comédies n’étoit point dans sa conversation. Moliere pensoit trop, pour être plaisant dans la société ; c’étoit un observateur qui n’alloit dans le monde que pour y moissonner. Chapelle, son ami de confiance, étoit bien plus aimable que lui ; voilà pourquoi l’envie lui faisoit souvent l’honneur de lui attribuer les Pieces de Moliere. Mais Chapelle, avec beaucoup <pb
-						n="42" xml:id="p42"
-					/>d’esprit &amp; d’agrément, ne se doutoit point de l’Art du Théatre ; il ne connoissoit ni la texture d’un Drame, ni la filiation des scènes, ni les différentes nuances des caracteres. Comme il étoit fort dissipé, il rendoit à Moliere ce qu’il avoit vu, &amp; Moliere le mettoit en œuvre. Chapelle n’en étoit pas plus l’Auteur, qu’un facteur l’est des lettres qu’il apporte. Cet homme unique mourut presque subitement : on eût dit qu’il vouloit enlever aux Médecins l’honneur &amp; le plaisir de le tuer.</p>
+				<p>Moliere, né à Paris, fut, sans contredit, le plus grand Philosophe de son siecle. Personne n’a jamais mieux connu les ridicules, &amp; ne les a peints avec tant de force &amp; de vérité. Les Auteurs qu’il surpassoit, les originaux qu’il peignoit, ses camarades qu’il enrichissoit, étoient ses ennemis. Il critiquoit les hommes, &amp; sa femme les aimoit ; l’un tiroit sa gloire de leurs défauts, l’autre tiroit son plaisir de leurs foiblesses. Moliere avoit des amis respectables, qui le consoloient des chagrins qu’il essuyoit. Il avoit des talens trop supérieurs, &amp; s’appliquoit trop à corriger les mœurs, pour n’être pas le plus honnête homme. Il étoit ce qu’il désiroit que les autres fussent. La gaieté répandue dans ses Comédies n’étoit point dans sa conversation. Moliere pensoit trop, pour être plaisant dans la société ; c’étoit un observateur qui n’alloit dans le monde que pour y moissonner. Chapelle, son ami de confiance, étoit bien plus aimable que lui ; voilà pourquoi l’envie lui faisoit souvent l’honneur de lui attribuer les Pieces de Moliere. Mais Chapelle, avec beaucoup <pb n="42" xml:id="p42"/>d’esprit &amp; d’agrément, ne se doutoit point de l’Art du Théatre ; il ne connoissoit ni la texture d’un Drame, ni la filiation des scènes, ni les différentes nuances des caracteres. Comme il étoit fort dissipé, il rendoit à Moliere ce qu’il avoit vu, &amp; Moliere le mettoit en œuvre. Chapelle n’en étoit pas plus l’Auteur, qu’un facteur l’est des lettres qu’il apporte. Cet homme unique mourut presque subitement : on eût dit qu’il vouloit enlever aux Médecins l’honneur &amp; le plaisir de le tuer.</p>
 			</div>
 		</body>
 	</text>

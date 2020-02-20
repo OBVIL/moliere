@@ -32,7 +32,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><author>Louis-Simon Auger</author>, <title>« Avertissement, Discours préliminaire et Vie de Molière »</title>, in <hi rend="i">Œuvres de Molière</hi>, tome I, <pubPlace>Paris</pubPlace>, <publisher>Th. Desoer</publisher>, <date>1819</date>, p. V-CLXIX.</bibl>
+      	<bibl><author>Louis-Simon Auger</author>, <title>« Avertissement, Discours préliminaire et Vie de Molière »</title>, in <hi rend="i">Œuvres de Molière</hi>, t. <biblScope unit="volume">I</biblScope>, <pubPlace>Paris</pubPlace>, <publisher>Th. Desoer</publisher>, <date>1819</date>, pp. <biblScope unit="page">V-CLXIX</biblScope>. Source : <ref target="https://books.google.fr/books?id=ePM5AAAAcAAJ">Google</ref>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>

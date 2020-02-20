@@ -4,80 +4,84 @@
 <?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <TEI xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0">
-    <teiHeader>
-<fileDesc>
-<titleStmt>
-<title>Moliere (<hi rend="i">Grand Dictionnaire historique</hi>, éd. 1732) [graphies originales]</title>
-	<author key="Moréri, Louis (1643-1680)" ref="https://data.bnf.fr/fr/12509720/louis_moreri/">Louis Moréri</author>
-</titleStmt>
-<editionStmt>
-<edition>OBVIL</edition>
-<respStmt>
-<name>Eric Thiébaud</name>
-<resp>Stylage sémantique</resp>
-</respStmt>
-<respStmt>
-<name>Wordpro</name>
-<resp>Numérisation et encodage TEI</resp>
-</respStmt>
-</editionStmt>
-<publicationStmt>
-    <publisher>Sorbonne Université, LABEX OBVIL</publisher>
-<date when="2018" />
-<idno>http://obvil.sorbonne-universite.fr/corpus/moliere/critique/moreri_moliere_1732_orig/</idno>
-<availability status="restricted">
-<licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
-<p>Copyright © 2018 Sorbonne Université, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
-<p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
-<p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
-<p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
-<p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures, la diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
-</licence>
-</availability>
-</publicationStmt>
-<sourceDesc>
-    <bibl><author>Louis Moréri</author>, <title><hi rend="i">« Moliere (Jean-Baptiste Pocquelin) », in </hi>Le Grand Dictionnaire historique, ou Le Mélange curieux de l’histoire sacrée et profane…</title>, nouvelle et derniere édition revue, corrigée et augmentée, t. <biblScope unit="volume">V</biblScope>, <pubPlace>Paris</pubPlace>, <publisher>J.-B. Coignard fils</publisher>, <date>1732</date>, pp. <biblScope unit="page">45-46</biblScope>. Source : <ref target="https://books.google.fr/books?id=5mHqtDAnttwC">Google</ref>.</bibl>
-</sourceDesc>
-</fileDesc>
-<profileDesc>
-<creation>
-<date when="1732" />
-</creation>
-<langUsage>
-<language ident="fre">fre</language>
-</langUsage>
-</profileDesc>
-</teiHeader>
-<text>
-<body>
-<div type="article" xml:id="moliere-jean-baptiste-pocquelin">
-    <pb n="45" xml:id="p45"/>
-<p>MOLIERE (Jean-Baptiste Pocquelin) poëte comique, étoit fils d’un valet de chambre-tapissier du roi, &amp; nâquit à Paris vers l’an 1620. Il s’est acquis par ses comedies une reputation qui ne mourra jamais. Le nom de sa famille étoit <hi rend="i">Pocquelin</hi>. Après avoir fait ses humanités au college de Clermont à Paris sous les Jesuites, il fut destiné à l’étude du droit, qu’il quitta bientôt, pour suivre le penchant qui l’entraînoit sur le theâtre. Il entra dans une troupe de comediens de campagne, &amp; se fit connoître à Lyon en 1653. par sa premiere piece, qui fut l’<hi rend="i">Etourdi</hi>. Quelque <pb n="46" xml:id="p46"/>tems après, sa troupe fut honorée de la protection de M. le prince de Conti, gouverneur de Languedoc. De Grenoble il vint à Rouen en 1658. d’où il vint à Paris, où il obtint la protection de Gaston, fils de France, qui le presenta au roi &amp; à la reine mere. Il joua en presence de leurs majestés, obtint la permission de s’établir à Paris, &amp; de jouir de la salle des gardes dans le vieux louvre. On lui accorda ensuite celle du palais royal, où il joua ses comedies en 1660. Il obtint une pension de mille livres en 1663. En 1665. sa troupe fut arrêtée au service du roi. Il donna avant &amp; depuis ce tems-là, plusieurs pieces dans le veritable goût de la comedie, que nos auteurs avoient negligé, corrompus par l’exemple des Espagnols &amp; des Italiens, qui donnent beaucoup plus aux intrigues surprenantes, &amp; aux plaisanteries forcées, qu’à la peinture des mœurs &amp; de la vie civile. Les plus excellentes pieces de Moliere, sont le <hi rend="i">Misanthrope</hi>, le <hi rend="i">Tartuffe</hi>, les <hi rend="i">Femmes sçavantes</hi>, l’<hi rend="i">Avare</hi>, &amp; le <hi rend="i">Festin de Pierre</hi>. Dans le <hi rend="i">Bourgeois gentilhomme</hi>, le <hi rend="i">Pourceaugnac</hi>, les <hi rend="i">Fourberies de Scapin</hi>, &amp; les autres de cette nature, il a trop donné au goût du peuple, pour les situations &amp; les pointes bouffonnes. <hi rend="i">Les Précieuses</hi>, les <hi rend="i">Petits Maîtres</hi>, &amp; les <hi rend="i">Medecins</hi>, ont été les principaux objets de sa satire. Il étoit aussi bon acteur qu’excellent auteur ; &amp; dans la representation de sa derniere piece, qui fut le <hi rend="i">Malade Imaginaire</hi>, il sembloit s’être surpassé lui-même. Tout malade qu’il étoit, &amp; pressé d’une fluxion sur la poitrine, il entreprit d’y jouer pour la quatriéme sois le 17. Février 1673. &amp; ne put achever qu’avec de très-grands efforts. Il lui en couta la vie ; car s’étant mis au lit en sortant du theâtre, sa toux redoubla, il se rompit une veine, &amp; mourut le même jour dans sa 53. année, ou suivant d’autres, âgé de 51. ans &amp; demi. Plusieurs comediens ont essuyé le même malheur &amp; sont morts de maladies, qu’ils avoient gagnées dans la representation du même personnage : on nomme entr’autres, Brecourt &amp; Rosimont. On eut toutes les peines du monde à obtenir qu’il fût enterré en Terre-Sainte. Moliere avoit été fort estimé du roi, qui le gratifia de plusieurs pensions. Il avoit beaucoup profité de l’imitation de Plaute, de Terence, &amp; des Italiens. Plusieurs poëtes s’exercerent sur le genre de mort de Moliere, &amp; firent plusieurs vers. En voici quatre que l’on ne sera peut-être pas fâché de trouver ici.</p>
-<quote>
-<lg>
-<l><hi rend="i">Roscius hîc situs est tristi Mollerus in urna,</hi></l>
-<l> <hi rend="i">Cui genus humanum ludere, ludus erat.</hi></l>
-<l><hi rend="i">Dum ludit mortem, mors indignata jocantem</hi></l>
-<l> <hi rend="i">Corripit, &amp; nimium fingere sæva necat.</hi></l>
-</lg>
-</quote>
-<p>Nous joindrons à ces vers latins cette épitaphe françoise.</p>
-<quote>
-<lg>
-<l><hi rend="i">Ci gist qui parut sur la scene</hi></l>
-<l><hi rend="i">Le singe de la vie humaine,</hi></l>
-<l><hi rend="i">Qui n’aura jamais son égal ;</hi></l>
-<l><hi rend="i">Qui voulant de la mort, ainsi que de la vie,</hi></l>
-<l><hi rend="i">Etre l’imitateur dans une comedie,</hi></l>
-<l><hi rend="i">Pour trop bien réussir, y réussit fort mal :</hi></l>
-<l><hi rend="i">Car la mort en étant ravie,</hi></l>
-<l><hi rend="i">Trouva si belle la copie,</hi></l>
-<l><hi rend="i">Qu’elle en fit un original.</hi></l>
-</lg>
-</quote>
-<p><hi rend="i">Voyez</hi> le jugement que l’auteur des reflexions sur la poëtique a fait de Moliere <quote>« Personne, <hi rend="i">dit-il</hi>, n’a porté le ridicule de la comedie plus haut parmi-nous que Moliere ; car les autres poëtes comiques n’ont que les valets pour plaisans de leur theâtre ; &amp; les plaisans du theâtre de Moliere, sont des marquis, &amp; des gens de qualité. Les autres n’ont joué dans la comedie que la vie bourgeoise &amp; commune ; &amp; Moliere a joué tout Paris &amp; la cour. Il est le seul parmi-nous qui ait découvert ces traits de la nature, qui la distinguent &amp; qui la font connoître. Les beautés des portraits qu’il a faits sont si naturelles, qu’elles se font sentir aux personnes les plus grossieres ; &amp; le talent qu’il avoit de plaisanter étoit renforcé de la moitié par celui qu’il avoit de contrefaire. Son <hi rend="i">Misanthrope</hi>, est à mon sens, le caractere le plus achevé &amp; le plus singulier qui ait jamais paru sur le theâtre. Mais l’ordonnance de ses comedies est toujours defectueuse en quelque chose, &amp; ses denouemens ne sont point heureux. »</quote> Sa vie a été donnée au public par M. Grimarest l’an 1705. Il ne faut pas confondre ce poëte avec un autre <hi rend="sc">Moliere</hi>, qui vivoit l’an 1620. &amp; qui a composé diverses pieces de theâtre, la <hi rend="i">Polyxene</hi>, des <hi rend="i">Epîtres, &amp;c.</hi></p>
-    <p>* <hi rend="i">Memoires historiques. Vie de Moliere.</hi></p>
-</div>
-</body>
-</text>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Moliere (<hi rend="i">Grand Dictionnaire historique</hi>, éd. 1732) [graphies originales]</title>
+				<author key="Moréri, Louis (1643-1680)" ref="https://data.bnf.fr/fr/12509720/louis_moreri/">Louis Moréri</author>
+			</titleStmt>
+			<editionStmt>
+				<edition>OBVIL</edition>
+				<respStmt>
+					<name>Eric Thiébaud</name>
+					<resp>Stylage sémantique</resp>
+				</respStmt>
+				<respStmt>
+					<name>Côme Saignol</name>
+					<resp>Édition et structuration TEI</resp>
+				</respStmt>
+				<respStmt>
+					<name>Wordpro</name>
+					<resp>Numérisation et encodage TEI</resp>
+				</respStmt>
+			</editionStmt>
+			<publicationStmt>
+				<publisher>Sorbonne Université, LABEX OBVIL</publisher>
+				<date when="2018"/>
+				<idno>http://obvil.sorbonne-universite.fr/corpus/moliere/critique/moreri_moliere_1732_orig/</idno>
+				<availability status="restricted">
+					<licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+						<p>Copyright © 2018 Sorbonne Université, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+						<p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+						<p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+						<p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+						<p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures, la diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+					</licence>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl><author>Louis Moréri</author>, <title><hi rend="i">« Moliere (Jean-Baptiste Pocquelin) », in </hi>Le Grand Dictionnaire historique, ou Le Mélange curieux de l’histoire sacrée et profane…</title>, nouvelle et derniere édition revue, corrigée et augmentée, t. <biblScope unit="volume">V</biblScope>, <pubPlace>Paris</pubPlace>, <publisher>J.-B. Coignard fils</publisher>, <date>1732</date>, pp. <biblScope unit="page">45-46</biblScope>. Source : <ref target="https://books.google.fr/books?id=5mHqtDAnttwC">Google</ref>.</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when="1732">1732</date>
+			</creation>
+			<langUsage>
+				<language ident="fre">fre</language>
+			</langUsage>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div type="article" xml:id="moliere-jean-baptiste-pocquelin">
+				<pb n="45" xml:id="p45"/>
+				<p>MOLIERE (Jean-Baptiste Pocquelin) poëte comique, étoit fils d’un valet de chambre-tapissier du roi, &amp; nâquit à Paris vers l’an 1620. Il s’est acquis par ses comedies une reputation qui ne mourra jamais. Le nom de sa famille étoit <hi rend="i">Pocquelin</hi>. Après avoir fait ses humanités au college de Clermont à Paris sous les Jesuites, il fut destiné à l’étude du droit, qu’il quitta bientôt, pour suivre le penchant qui l’entraînoit sur le theâtre. Il entra dans une troupe de comediens de campagne, &amp; se fit connoître à Lyon en 1653. par sa premiere piece, qui fut l’<hi rend="i">Etourdi</hi>. Quelque <pb n="46" xml:id="p46"/>tems après, sa troupe fut honorée de la protection de M. le prince de Conti, gouverneur de Languedoc. De Grenoble il vint à Rouen en 1658. d’où il vint à Paris, où il obtint la protection de Gaston, fils de France, qui le presenta au roi &amp; à la reine mere. Il joua en presence de leurs majestés, obtint la permission de s’établir à Paris, &amp; de jouir de la salle des gardes dans le vieux louvre. On lui accorda ensuite celle du palais royal, où il joua ses comedies en 1660. Il obtint une pension de mille livres en 1663. En 1665. sa troupe fut arrêtée au service du roi. Il donna avant &amp; depuis ce tems-là, plusieurs pieces dans le veritable goût de la comedie, que nos auteurs avoient negligé, corrompus par l’exemple des Espagnols &amp; des Italiens, qui donnent beaucoup plus aux intrigues surprenantes, &amp; aux plaisanteries forcées, qu’à la peinture des mœurs &amp; de la vie civile. Les plus excellentes pieces de Moliere, sont le <hi rend="i">Misanthrope</hi>, le <hi rend="i">Tartuffe</hi>, les <hi rend="i">Femmes sçavantes</hi>, l’<hi rend="i">Avare</hi>, &amp; le <hi rend="i">Festin de Pierre</hi>. Dans le <hi rend="i">Bourgeois gentilhomme</hi>, le <hi rend="i">Pourceaugnac</hi>, les <hi rend="i">Fourberies de Scapin</hi>, &amp; les autres de cette nature, il a trop donné au goût du peuple, pour les situations &amp; les pointes bouffonnes. <hi rend="i">Les Précieuses</hi>, les <hi rend="i">Petits Maîtres</hi>, &amp; les <hi rend="i">Medecins</hi>, ont été les principaux objets de sa satire. Il étoit aussi bon acteur qu’excellent auteur ; &amp; dans la representation de sa derniere piece, qui fut le <hi rend="i">Malade Imaginaire</hi>, il sembloit s’être surpassé lui-même. Tout malade qu’il étoit, &amp; pressé d’une fluxion sur la poitrine, il entreprit d’y jouer pour la quatriéme sois le 17. Février 1673. &amp; ne put achever qu’avec de très-grands efforts. Il lui en couta la vie ; car s’étant mis au lit en sortant du theâtre, sa toux redoubla, il se rompit une veine, &amp; mourut le même jour dans sa 53. année, ou suivant d’autres, âgé de 51. ans &amp; demi. Plusieurs comediens ont essuyé le même malheur &amp; sont morts de maladies, qu’ils avoient gagnées dans la representation du même personnage : on nomme entr’autres, Brecourt &amp; Rosimont. On eut toutes les peines du monde à obtenir qu’il fût enterré en Terre-Sainte. Moliere avoit été fort estimé du roi, qui le gratifia de plusieurs pensions. Il avoit beaucoup profité de l’imitation de Plaute, de Terence, &amp; des Italiens. Plusieurs poëtes s’exercerent sur le genre de mort de Moliere, &amp; firent plusieurs vers. En voici quatre que l’on ne sera peut-être pas fâché de trouver ici.</p>
+				<quote>
+					<lg>
+						<l><hi rend="i">Roscius hîc situs est tristi Mollerus in urna,</hi></l>
+						<l><hi rend="i">Cui genus humanum ludere, ludus erat.</hi></l>
+						<l><hi rend="i">Dum ludit mortem, mors indignata jocantem</hi></l>
+						<l><hi rend="i">Corripit, &amp; nimium fingere sæva necat.</hi></l>
+					</lg>
+				</quote>
+				<p>Nous joindrons à ces vers latins cette épitaphe françoise.</p>
+				<quote>
+					<lg>
+						<l><hi rend="i">Ci gist qui parut sur la scene</hi></l>
+						<l><hi rend="i">Le singe de la vie humaine,</hi></l>
+						<l><hi rend="i">Qui n’aura jamais son égal ;</hi></l>
+						<l><hi rend="i">Qui voulant de la mort, ainsi que de la vie,</hi></l>
+						<l><hi rend="i">Etre l’imitateur dans une comedie,</hi></l>
+						<l><hi rend="i">Pour trop bien réussir, y réussit fort mal :</hi></l>
+						<l><hi rend="i">Car la mort en étant ravie,</hi></l>
+						<l><hi rend="i">Trouva si belle la copie,</hi></l>
+						<l><hi rend="i">Qu’elle en fit un original.</hi></l>
+					</lg>
+				</quote>
+				<p><hi rend="i">Voyez</hi> le jugement que l’auteur des reflexions sur la poëtique a fait de Moliere <quote>« Personne, <hi rend="i">dit-il</hi>, n’a porté le ridicule de la comedie plus haut parmi-nous que Moliere ; car les autres poëtes comiques n’ont que les valets pour plaisans de leur theâtre ; &amp; les plaisans du theâtre de Moliere, sont des marquis, &amp; des gens de qualité. Les autres n’ont joué dans la comedie que la vie bourgeoise &amp; commune ; &amp; Moliere a joué tout Paris &amp; la cour. Il est le seul parmi-nous qui ait découvert ces traits de la nature, qui la distinguent &amp; qui la font connoître. Les beautés des portraits qu’il a faits sont si naturelles, qu’elles se font sentir aux personnes les plus grossieres ; &amp; le talent qu’il avoit de plaisanter étoit renforcé de la moitié par celui qu’il avoit de contrefaire. Son <hi rend="i">Misanthrope</hi>, est à mon sens, le caractere le plus achevé &amp; le plus singulier qui ait jamais paru sur le theâtre. Mais l’ordonnance de ses comedies est toujours defectueuse en quelque chose, &amp; ses denouemens ne sont point heureux. »</quote> Sa vie a été donnée au public par M. Grimarest l’an 1705. Il ne faut pas confondre ce poëte avec un autre <hi rend="sc">Moliere</hi>, qui vivoit l’an 1620. &amp; qui a composé diverses pieces de theâtre, la <hi rend="i">Polyxene</hi>, des <hi rend="i">Epîtres, &amp;c.</hi></p>
+				<p>* <hi rend="i">Memoires historiques. Vie de Moliere.</hi></p>
+			</div>
+		</body>
+	</text>
 </TEI>

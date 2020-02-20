@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml">
+  <?xml-model href="../anecdotes/anecdotes.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<TEI xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Molière (<hi rend="i">Dictionnaire encyclopédique</hi>)</title>
+				<author key="Gaillard, Gabriel-Henri (1726-1806)" ref="https://data.bnf.fr/fr/13010406/gabriel-henri_gaillard/">Gabriel-Henri Gaillard</author>
+			</titleStmt>
+			<editionStmt>
+				<edition>OBVIL</edition>
+				<respStmt>
+					<name>Eric Thiébaud</name>
+					<resp>Stylage sémantique</resp>
+				</respStmt>
+				<respStmt>
+					<name>Côme Saignol</name>
+					<resp>Édition et structuration TEI</resp>
+				</respStmt>
+				<respStmt>
+					<name>Wordpro</name>
+					<resp>Numérisation et encodage TEI</resp>
+				</respStmt>
+			</editionStmt>
+			<publicationStmt>
+				<publisher>Sorbonne Université, LABEX OBVIL</publisher>
+				<date when="2018"/>
+				<idno>http://obvil.sorbonne-universite.fr/corpus/moliere/critique/gaillard_moliere/</idno>
+				<availability status="restricted">
+					<licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+						<p>Copyright © 2018 Sorbonne Université, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
+						<p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+						<p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+						<p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+						<p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures, la diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+					</licence>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl><author>Gabriel-Henri Gaillard</author>, <title><hi rend="i">« Molière (Jean Baptiste Poquelin de) », in </hi>Dictionnaire encyclopédique. Histoire</title>, t. <biblScope unit="tome">III</biblScope>, <pubPlace>Paris</pubPlace>, <publisher>Pancoucke</publisher>, <date>1788</date>, pp. <biblScope unit="page">588-589</biblScope>. Source : <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k58310692">Gallica</ref>.</bibl>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<creation>
+				<date when="1788">1788</date>
+			</creation>
+			<langUsage>
+				<language ident="fre">fre</language>
+			</langUsage>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div type="article" xml:id="moliere">
+				<pb n="588" xml:id="p588"/>
+				<p>MOLIÈRE, (Jean Baptiste Poquelin de) fils et petit-fils de valets de chambre tapissiers du roi, né en 1620, mort le 17 février 1673. Boileau a beaucoup loué Molière, et vivant et mort, mais dans <title>L’Art Poétique</title>, où il paraît plus particulièrement le juger, il dit que Molière :</p>
+				<quote>
+					<l>Peut-être de son art eût remporté le prix</l>
+					<l part="I">Si, etc.</l>
+				</quote>
+				<p>Un contemporain pouvait en parler avec cette réserve, mais la postérité a prononcé. Il n’y a plus là de <hi rend="i">peut-être</hi> ni de <hi rend="i">si</hi>. Molière est l’esprit le plus original et le plus utile qui ait jamais honoré et corrigé l’espèce humaine, et Boileau même en jugeait à peu près ainsi ; car Louis XIV lui ayant demandé quel était le génie qu’il devait regarder comme ayant le plus illustré son règne, il nomma sans balancer Molière.</p>
+				<p>La comédie de l’<hi rend="i">Étourdi</hi> est la première des pièces imprimées et connues de Molière ; mais auparavant il avait fait quelques farces, telles que <hi rend="i">Le Docteur amoureux</hi>, <hi rend="i">Les trois Docteurs rivaux</hi>, le <hi rend="i">Maître d’Éole</hi>, dont il ne reste que le titre ; <hi rend="i">Le Médecin volant</hi> et <hi rend="i">La jalousie de Barbouillé</hi>, que quelques curieux ont conservé, et dont Molière a employé quelques traits dans d’autres pièces. Le comique de caractère, cette carrière ouverte par Corneille dans le <hi rend="i">Menteur</hi>, appellait Molière ; mais le comique d’intrigue s’était emparé de la scène, il ne fallait point l’en chasser ; conservons, multiplions les genres, n’excluons rien. Loin de vouloir établir le nouveau genre sur les ruines de l’ancien, Molière commence par les unir. <hi rend="i">L’Étourdi</hi> est une machine composée de ces deux ressorts ; Mascarille renoue sans cesse une intrigue toujours rompue ou par l’étourderie de <hi rend="i">Lélie</hi> ou par des contre-temps que le hazard amène. Il vaudrait mieux peut-être que ces contre-temps vinssent toujours de l’étourderie de <hi rend="i">Lélie</hi>, l’action en serait plus nette et plus morale. Mais d’ailleurs, quel essai ! que d’invention ! quelle souplesse ! et quelle vivacité dans l’intrigue ! quelle variété d’incidents ! quelle vérité dans l’expression, toujours différente, de la colère de <hi rend="i">Mascarille</hi> !</p>
+				<p>Dans le <hi rend="i">Dépit Amoureux</hi>, c’est encore l’intrigue qui domine, intrigue bizarre, compliquée, peu décente ; mais déjà la main d’un maître sait répandre sur ce fonds ingrat, des caractères d’un comique fort, des situations piquantes, des scènes exquises et dans des genres tout differents. Rapprochez la scène de <hi rend="i">Métaphraste</hi> avec <hi rend="i">Albert</hi>, de celle qui donne le nom à la pièce, et qu’égale presque deux scènes pareilles du <hi rend="i">Dépit amoureux</hi>, l’une dans <hi rend="i">Le Bourgeois Gentilhomme</hi>, l’autre dans le <hi rend="i">Tartuffe</hi>, vous connaîtrez dejà l’immensité du génie de Molière.</p>
+				<p>La bonne comédie naît enfin avec les <hi rend="i">Précieuses Ridicules</hi> ; ce n’était pas encore la perfection du genre, mais c’était l’ébauche du genre le plus parfait ; c’était à quelques égards, une farce, mais une farce morale et philosophique ; si le comique était un peu chargé, il était fort, il était vrai. Corneille avait oublié de punir son <hi rend="i">Menteur</hi>, et par là il avait privé sa fable de moralité ; Molière punit ses <hi rend="i">Précieuses</hi> par un affront <pb n="589" xml:id="p589"/>sanglant qu’elles s’attirent, et par là il a mérité d’être regardé comme l’inventeur du comique de caractère moral. Molière n’invente rien qu’il ne perfectionne, c’est ce qui le distingue des inventeurs ordinaires, déjà si rares. C’est en perfectionnant toujours qu’il s’élève par dégrés jusqu’au <hi rend="i">Misanthrope</hi>, jusqu’aux <hi rend="i">Femmes Savantes</hi>, jusqu’au <hi rend="i">Tartuffe</hi>, jusqu’à cette pièce aprés laquelle il ne faut plus rien nommer et qui est non seulement le chef-d’œuvre du théâtre comique, mais un grand bienfait envers l’humanité.</p>
+				<p>Il est assez remarquable que Pradon éclairé par le desir de contredire Boileau, ait mieux vu que cet arbitre du goût, combien les farces même de Molière sont estimables.</p>
+				<p>Si l’on considère Molière comme acteur, si l’on veut savoir quels furent ses talents pour la déclamation, l’auteur répond assez du comédien ; on sent qu’il n’a pu lui manquer que les avantages extérieurs ; on dit qu’en effet ils lui manquèrent ; qu’une voix sourde, des infléxions dures, une volubilité désagréable le forcèrent d’abandonner la déclamation tragique, dont sa seule présence, en rappellant si vivement la comédie, devait trop affaiblir l’impression. À force de travaux et d’efforts dignes de Démosthénes, l’excella dans les grands rôles comiques, il forma Baron dans le genre même qu’il abandonnait, et il ne le forma pas moins à la vertu qu’au talent ; il lui donna de grands exemples de l’une et de l’autre.</p>
+				<p>Sa vie privée fut celle d’un sage obscur comme sa vie publique est celle d’un sage illustre. Il fut le conseil, l’arbitre, quelquefois même le réformateur de ses amis comme il l’était du public au theâtre. Jamais la considération ne s’est unie plus intimement à la gloire.</p>
+				<p>On sait que Molière fut frappé à mort sur le théâtre, en contrefaisant le mort dans le <hi rend="i">Malade imaginaire</hi>, circonstance qui a fourni des épigrammes, tandis que l’événement devait arracher des larmes ; on sait qu’il mourut dans les bras de la piété, et qu’il s’en était rendu digne par sa charité ; il donnait l’hospitalité à deux de ces pauvres religieuses qui viennent quêter à Paris pendant le carême ; elles lui prodiguèrent par devoir et par reconnaissance, les consolations et les soins dans ses derniers moments ; on sait jusqu’à quel point la rigueur de nos usages (qu’il ne s’agit pas ici de juger) fut adoucie en sa faveur à la prière de Louis XIV. Toutes nos réfléxions sur cette rigueur et sur cette indulgence, ne vaudraient pas ce cri énergique de la femme de <hi rend="i">Molière : quoi ! l’on refuserait un peu de terre à un homme auquel on devrait élever des autels !</hi> juste, mais tardif témoignage que la vanité plus que la douleur de cette femme rendait à un grand homme dont elle avait trahi la tendresse et empoisonné la vie.</p>
+				<p>Sur quelques particularités concernant l’éducation, le caractère, les talents, etc. de <hi rend="i">Molière, voyez</hi> les articles <hi rend="sc">Boursault</hi>, <hi rend="sc">Chapelle</hi>, <hi rend="sc">Cotin</hi>, <hi rend="sc">Gassendi</hi>, <hi rend="sc">Ménage</hi>, <hi rend="sc">Regnard</hi>, etc.</p>
+			</div>
+		</body>
+	</text>
+</TEI>

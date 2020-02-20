@@ -36,7 +36,7 @@
                 </availability>
             </publicationStmt>
             <sourceDesc>
-                <bibl>François-Louis <author>Cizeron-Rival</author>, <title><hi rend="i">[Anecdotes et remarques sur Molière], in </hi>Récréations littéraires, ou Anecdotes et remarques sur différents sujets recueillies par M. C. R*** (Cizeron-Rival)</title>, <pubPlace>Paris</pubPlace>, <publisher>Dessaint</publisher>, <date>1765</date>, p. <biblScope unit="page">1-26</biblScope>. Source : <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k6529019v/f21.image">Gallica</ref>.</bibl>
+            	<bibl><author>François-Louis Cizeron-Rival</author>, <title><hi rend="i">[Anecdotes et remarques sur Molière], in </hi>Récréations littéraires, ou Anecdotes et remarques sur différents sujets recueillies par M. C. R*** (Cizeron-Rival)</title>, <pubPlace>Paris</pubPlace>, <publisher>Dessaint</publisher>, <date>1765</date>, p. <biblScope unit="page">1-26</biblScope>. Source : <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k6529019v">Gallica</ref>.</bibl>
             </sourceDesc>
         </fileDesc>
         <profileDesc>

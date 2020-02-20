@@ -28,7 +28,7 @@
 			<publicationStmt>
 				<publisher>Sorbonne Université, LABEX OBVIL</publisher>
 				<date when="2018"/>
-				<idno>http://obvil.sorbonne-universite.fr/corpus/moliere/critique/goujet_moliere_orig/</idno>
+				<idno>http://obvil.sorbonne-universite.fr/corpus/moliere/critique/goujet_moliere/</idno>
 				<availability status="restricted">
 					<licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
 						<p>Copyright © 2018 Sorbonne Université, agissant pour le Laboratoire d’Excellence « Observatoire de la vie littéraire » (ci-après dénommé OBVIL).</p>
@@ -40,7 +40,7 @@
 				</availability>
 			</publicationStmt>
 			<sourceDesc>
-				<bibl>Claude-Pierre <author>Goujet</author>, « Moliere (Jean-Baptiste Poquelin de) », in <title>Supplément au Grand dictionnaire historique, généalogique, géographique, etc. de M. Louis Moreri, pour servir à la dernière édition de l’an 1732 et aux précédentes… par l’abbé Claude Pierre Goujet</title>, t. <biblScope unit="volume">II</biblScope>, <pubPlace>Paris</pubPlace>, <publisher>J. Vincent, J.-B. Coignard, P.-G. Lemercier, J.-T. Herissant</publisher>, <date>1735</date>, p. <biblScope unit="page">82</biblScope>. Source : <ref target="https://books.google.fr/books?id=HLRPAAAAcAAJ">Google</ref>.</bibl>
+				<bibl><author>Claude-Pierre Goujet</author>, « Moliere (Jean-Baptiste Poquelin de) », in <title>Supplément au Grand dictionnaire historique, généalogique, géographique, etc. de M. Louis Moreri, pour servir à la dernière édition de l’an 1732 et aux précédentes… par l’abbé Claude Pierre Goujet</title>, t. <biblScope unit="volume">II</biblScope>, <pubPlace>Paris</pubPlace>, <publisher>J. Vincent, J.-B. Coignard, P.-G. Lemercier, J.-T. Herissant</publisher>, <date>1735</date>, p. <biblScope unit="page">82</biblScope>. Source : <ref target="https://books.google.fr/books?id=HLRPAAAAcAAJ">Google</ref>.</bibl>
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>

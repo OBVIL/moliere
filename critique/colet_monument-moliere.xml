@@ -3,13 +3,12 @@
 <?xml-model href="../anecdotes/anecdotes.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
-<!--odt2tei: 2015-03-17T11:09:17+01:00-->
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fre">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>Le monument de Molière précédé de l’Histoire du monument élevé à Molière par M. Aimé Martin</title>
-        <author key="Colet, Louise (1810-1876)" ref="">Louise Colet</author>
+      	<author key="Colet, Louise (1810-1876)" ref="https://data.bnf.fr/fr/12350274/louise_colet/">Louise Colet</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>

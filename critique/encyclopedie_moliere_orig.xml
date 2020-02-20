@@ -8,7 +8,8 @@
     <fileDesc>
       <titleStmt>
         <title>Molière dans l’<hi rend="i">Encyclopédie</hi> de Diderot et d’Alembert (compilation)</title>
-      	<author key="" ref=""></author>
+      	<author key="Diderot, Denis (1713-1784) " ref="https://data.bnf.fr/11900134/denis_diderot/">Denis Diderot</author>
+      	<author key="D’Alembert (1717-1783) " ref="https://data.bnf.fr/en/11888370/d__alembert/">Jean d’Alembert</author>
       </titleStmt>
       <editionStmt>
         <edition>ARTFL Project</edition>
@@ -19,7 +20,7 @@
         <idno>http://obvil.sorbonne-universite.fr/corpus/moliere/critique/encyclopedie_moliere_orig/</idno>
       </publicationStmt>
       <sourceDesc>
-        <bibl><author>Diderot, Denis &amp; Alembert, Jean d’</author>, <title>Encyclopédie. Dictionnaire raisonné des sciences, des arts et des métiers, par une Société de Gens de lettres</title>, <pubPlace>Paris</pubPlace>, <publisher>Le Breton</publisher>, <date>1751-1765c</date>.</bibl>
+      	<bibl><author>Denis Diderot</author>, <author>Jean d’Alembert</author>, <title>Encyclopédie. Dictionnaire raisonné des sciences, des arts et des métiers, par une Société de Gens de lettres</title>, <pubPlace>Paris</pubPlace>, <publisher>Le Breton</publisher>, <date>1751-1765c</date>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>

@@ -46,15 +46,12 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><author>Jean Pierre Claris de Florian</author>, <title><hi rend="i">« Mes idées sur
-              nos auteurs comiques. Molière » [posthume], in </hi>Nouveaux mélanges de poésie et de
-            littérature</title>, <pubPlace>Paris</pubPlace>, <publisher>Ant. Aug.
-            Renouard</publisher>, <date>1820</date>,p. 134-160.</bibl>
+        <bibl><author>Jean Pierre Claris de Florian</author>, <title><hi rend="i">« Mes idées sur nos auteurs comiques. Molière » [posthume], in </hi>Nouveaux mélanges de poésie et de littérature</title>, <pubPlace>Paris</pubPlace>, <publisher>Ant. Aug. Renouard</publisher>, <date>1820</date>,p. 134-160.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
       <creation>
-        <date notAfter="1794"/>
+        <date notAfter="1794">1794</date>
       </creation>
       <langUsage>
         <language ident="fre"/>

@@ -35,7 +35,7 @@
                 </availability>
             </publicationStmt>
             <sourceDesc>
-                <bibl>Adrien <author>Baillet</author>, <title><hi rend="i">« MDXX. M. de Molière », in </hi>Jugemens des sçavans sur les principaux ouvrages des auteurs</title>, t. <biblScope unit="page">IV</biblScope>, <pubPlace>Paris</pubPlace>, <publisher>A. Dezalier</publisher>, <date>1686</date>, p. <biblScope unit="page">110-126</biblScope>. Source : <ref target="https://books.google.cz/books?id=pnVcAAAAcAAJ">Google</ref>. Graphies modernisées.</bibl>
+            	<bibl><author>Adrien Baillet</author>, <title><hi rend="i">« MDXX. M. de Molière », in </hi>Jugemens des sçavans sur les principaux ouvrages des auteurs</title>, t. <biblScope unit="page">IV</biblScope>, <pubPlace>Paris</pubPlace>, <publisher>A. Dezalier</publisher>, <date>1686</date>, p. <biblScope unit="page">110-126</biblScope>. Source : <ref target="https://books.google.cz/books?id=pnVcAAAAcAAJ">Google</ref>. Graphies modernisées.</bibl>
             </sourceDesc>
         </fileDesc>
         <profileDesc>

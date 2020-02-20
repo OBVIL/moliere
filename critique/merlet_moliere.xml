@@ -8,7 +8,7 @@
     <fileDesc>
       <titleStmt>
         <title>Molière (<hi rend="i">Études littéraires</hi>, extrait)</title>
-      	<author key="Merlet, Gustave (1828-1891)" ref="https://data.bnf.fr/fr/12291337/gustave_larroumet/">Gustave Merlet</author>
+      	<author key="Merlet, Gustave (1828-1891)" ref="https://data.bnf.fr/fr/12992375/gustave_merlet/">Gustave Merlet</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
@@ -32,7 +32,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><author>Gustave Merlet, Gustave</author>, <title><hi rend="i">« Molière », in </hi>Études littéraires sur le théâtre de Racine, de Corneille et de Molière</title>, <pubPlace>Paris</pubPlace>, <publisher>Hachette</publisher>, <date>1882</date>, <biblScope>p. 384-490</biblScope>.</bibl>
+      	<bibl><author>Gustave Merlet</author>, <title><hi rend="i">« Molière », in </hi>Études littéraires sur le théâtre de Racine, de Corneille et de Molière</title>, <pubPlace>Paris</pubPlace>, <publisher>Hachette</publisher>, <date>1882</date>, pp. <biblScope unit="page">384-490</biblScope>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>

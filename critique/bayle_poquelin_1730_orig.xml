@@ -31,7 +31,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>Pierre <author>Bayle</author>, <title><hi rend="i">« Poquelin (Jean Baptiste) », in </hi>Dictionnaire historique et critique</title>, t. <biblScope unit="volume">III</biblScope>, 4<hi rend="sup">e</hi> édition, Amsterdam, P. Brunel, 1730, p. <biblScope unit="page">787-790</biblScope>. Source : <ref target="https://books.google.tt/books?id=GFXiJjtLVh0C">Google</ref>.</bibl>
+      	<bibl><author>Pierre Bayle</author>, <title><hi rend="i">« Poquelin (Jean Baptiste) », in </hi>Dictionnaire historique et critique</title>, t. <biblScope unit="volume">III</biblScope>, 4<hi rend="sup">e</hi> édition, Amsterdam, P. Brunel, 1730, p. <biblScope unit="page">787-790</biblScope>. Source : <ref target="https://books.google.tt/books?id=GFXiJjtLVh0C">Google</ref>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
