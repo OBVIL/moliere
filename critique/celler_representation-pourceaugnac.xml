@@ -36,7 +36,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><author>Ludovic Celler</author>, <title><hi rend="i">« Une représentation de </hi>M. de Pourceaugnac<hi rend="i"> à Chambord. Examen de deux fragments inédits paraissant appartenir à l’œuvre de Molière », Revue contemporaine</hi></title>, <biblScope>17e année, 2e série, 63e volume</biblScope>, <date>mai-juin 1868</date>, <biblScope>p. 699-722</biblScope>.</bibl>
+      	<bibl><author>Ludovic Celler</author>, <title><hi rend="i">« Une représentation de </hi>M. de Pourceaugnac<hi rend="i"> à Chambord. Examen de deux fragments inédits paraissant appartenir à l’œuvre de Molière », Revue contemporaine</hi></title>, <biblScope>17e année, 2e série, 63e volume</biblScope>, <date>mai-juin 1868</date>, pp. <biblScope>699-722</biblScope>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>

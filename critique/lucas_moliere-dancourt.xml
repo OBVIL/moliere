@@ -36,7 +36,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><author>Hippolyte Lucas</author>, <title>Le Foyer du Théâtre-Français : Molière, Dancourt, I</title>, <pubPlace>Paris</pubPlace>, <publisher>Barba</publisher>, 18**.</bibl>
+      	<bibl><author>Hippolyte Lucas</author>, <title>Le Foyer du Théâtre-Français : Molière, Dancourt, I</title>, <pubPlace>Paris</pubPlace>, <publisher>Barba</publisher>, <date>c. 1838 - 1840</date>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -54,46 +54,53 @@
         <head>Une page d’album</head>
         <p>Un soir que l’auteur de ces études, moins âgé de quelques années, se trouvait seul au foyer du Théâtre-Français, une bouffée d’orgueil lui monta au cerveau, comme il en vient aux jeunes gens et fit éclore les vers suivant qu’il confia à un album: il les transcrit ici, malgré leur peu de valeur, comme témoignage de sa poétique admiration pour les beaux génies, l’honneur éternel de son pays.</p>
         <quote>
-          <l>De tout temps, détaché des préjugés vulgaires,</l>
-          <l>La noblesse de cour ne m’inquiéta guères.</l>
-          <l>Je n’ai, ni ne veux point d’armes à ma maison.</l>
-          <l>Aux sots dont j’ai pitié je laisse un vain emblème,</l>
-          <l>Fussé-je descendu de Pharamond lui-même,</l>
-          <l>Je me rirais de mon blason.</l>
-          <l/>
-          <l>Peu jaloux des portraits de tous nos rois de France,</l>
-          <l>Si j’avais, par hasard, quelque dette en souffrance,</l>
-          <l>Comme un jeune étourdi dépeint par Shéridan,</l>
-          <l>Je pourrais sans remords et sans pleurs, j’imagine,</l>
-          <l>Malgré l’honneur vanté d’une antique origine,</l>
-          <l>Mettre ma famille à l’encan.</l>
-          <l/>
-          <l>Mais, lorsque je me trouve en ce foyer illustre</l>
-          <l>Où nos grands écrivains brillent de tout leur lustre,</l>
-          <l>Sur leurs hauts piédestaux, au Théâtre-Français :</l>
-          <l>Mon cœur bat et mon sang bouillonne dans mes veines;</l>
-          <l>Ces rois de l’art n’ont pas porté de palmes vaines ;</l>
-          <l>Leur couronne, c’est leur succès.</l>
-          <l/>
-          <l>Molière, au long regard, au sourire céleste,</l>
-          <l>Salut, type touchant et d’Arnolphe et d’Alceste,</l>
-          <l>Poète au cœur aimant, philosophe profond !</l>
-          <l>Toi qui peignis si bien les faiblesses de l’homme,</l>
-          <l>Salut, Racine, et toi, qui fis revivre Rome,</l>
-          <l>Corneille au majestueux front !</l>
-          <l/>
-          <l>Je marche devant eux, l’âme tout inspirée...</l>
-          <l>Je m’écrie, au milieu de la troupe sacrée</l>
-          <l>Dont les bustes de marbre éblouissent mes yeux:</l>
-          <l>Jusqu’à terre humblement, incline-toi, poète !</l>
-          <l>Heureux qui pourrait dire, en relevant la tête :</l>
-          <l>Ce sont, ce sont-là mes aïeux !</l>
-          <l><date>1835.</date></l>
+          <lg>
+          	<l>De tout temps, détaché des préjugés vulgaires,</l>
+	          <l>La noblesse de cour ne m’inquiéta guères.</l>
+	          <l>Je n’ai, ni ne veux point d’armes à ma maison.</l>
+	          <l>Aux sots dont j’ai pitié je laisse un vain emblème,</l>
+	          <l>Fussé-je descendu de Pharamond lui-même,</l>
+	          <l>Je me rirais de mon blason.</l>
+          </lg>
+          <lg>
+          	<l>Peu jaloux des portraits de tous nos rois de France,</l>
+	          <l>Si j’avais, par hasard, quelque dette en souffrance,</l>
+	          <l>Comme un jeune étourdi dépeint par Shéridan,</l>
+	          <l>Je pourrais sans remords et sans pleurs, j’imagine,</l>
+	          <l>Malgré l’honneur vanté d’une antique origine,</l>
+	          <l>Mettre ma famille à l’encan.</l>
+          </lg>
+          <lg>
+          	<l>Mais, lorsque je me trouve en ce foyer illustre</l>
+	          <l>Où nos grands écrivains brillent de tout leur lustre,</l>
+	          <l>Sur leurs hauts piédestaux, au Théâtre-Français :</l>
+	          <l>Mon cœur bat et mon sang bouillonne dans mes veines;</l>
+	          <l>Ces rois de l’art n’ont pas porté de palmes vaines ;</l>
+	          <l>Leur couronne, c’est leur succès.</l>
+          </lg>
+          <lg>
+          	<l>Molière, au long regard, au sourire céleste,</l>
+	          <l>Salut, type touchant et d’Arnolphe et d’Alceste,</l>
+	          <l>Poète au cœur aimant, philosophe profond !</l>
+	          <l>Toi qui peignis si bien les faiblesses de l’homme,</l>
+	          <l>Salut, Racine, et toi, qui fis revivre Rome,</l>
+	          <l>Corneille au majestueux front !</l>
+          </lg>
+          <lg>
+          	<l>Je marche devant eux, l’âme tout inspirée…</l>
+	          <l>Je m’écrie, au milieu de la troupe sacrée</l>
+	          <l>Dont les bustes de marbre éblouissent mes yeux:</l>
+	          <l>Jusqu’à terre humblement, incline-toi, poète !</l>
+	          <l>Heureux qui pourrait dire, en relevant la tête :</l>
+	          <l>Ce sont, ce sont-là mes aïeux !</l>
+          </lg>
+          <p><date>1835.</date></p>
        </quote>
       </div>
       <div>
+      	<pb n="3" xml:id="p3"/>
         <head>Molière</head>
-        <p><pb n="3" xml:id="p3"/>On peut comparer Molière à un vaste réservoir formé de sources diverses, et qui, calme et profond, réfléchit magnifiquement la nature. Le génie observateur de ce poète a saisi de toutes parts, et à bon droit, les traits qui pouvaient servir à former, le tableau complet de la vie humaine. Molière a résumé la sagesse et l’expérience des temps. Il appartient à la classe des esprits providentiels qui ont pour mission de rassembler, à certaines époques, les idées éparses, et de leur donner un corps; ce qu’Homère a fait pour les chants héroïques de la Grèce ; Dante, pour les traditions catholiques du moyen-âge Molière l’a fait pour les préceptes universels de la raison. Philosophe, il a pressenti le scepticisme moderne. Pendant que d’une main il foudroyait l’athéisme, de l’autre il faisait poser, le masque à l’hypocrisie. On peut dire que Molière a relevé l’autel encensé autrefois par Socrate et par Platon. Aucun législateur n’a mieux tracé que lui les <pb n="4" xml:id="p4"/>devoirs des époux et des femmes, des fils et des pères, ainsi que nous le prouverons dans l’analyse succincte de chacune de ses pièces prises au point de vue de la morale. Molière, en un mot, n’a jamais contredit les lois sur lesquelles doivent reposer l’ordre et le bonheur de la société : c’est à tort qu’il a été accusé de cette tendance par des critiques de mauvaise humeur.</p>
+        <p>On peut comparer Molière à un vaste réservoir formé de sources diverses, et qui, calme et profond, réfléchit magnifiquement la nature. Le génie observateur de ce poète a saisi de toutes parts, et à bon droit, les traits qui pouvaient servir à former, le tableau complet de la vie humaine. Molière a résumé la sagesse et l’expérience des temps. Il appartient à la classe des esprits providentiels qui ont pour mission de rassembler, à certaines époques, les idées éparses, et de leur donner un corps; ce qu’Homère a fait pour les chants héroïques de la Grèce ; Dante, pour les traditions catholiques du moyen-âge Molière l’a fait pour les préceptes universels de la raison. Philosophe, il a pressenti le scepticisme moderne. Pendant que d’une main il foudroyait l’athéisme, de l’autre il faisait poser, le masque à l’hypocrisie. On peut dire que Molière a relevé l’autel encensé autrefois par Socrate et par Platon. Aucun législateur n’a mieux tracé que lui les <pb n="4" xml:id="p4"/>devoirs des époux et des femmes, des fils et des pères, ainsi que nous le prouverons dans l’analyse succincte de chacune de ses pièces prises au point de vue de la morale. Molière, en un mot, n’a jamais contredit les lois sur lesquelles doivent reposer l’ordre et le bonheur de la société : c’est à tort qu’il a été accusé de cette tendance par des critiques de mauvaise humeur.</p>
         <p>Nous n’avons dessein ni de tracer ici une froide biographie de Molière, ni de nous livrer à des redites pompeuses sur l’excellence de son génie ; sa biographie se fera d’elle-même, en se mêlant çà et là à l’appréciation de son théâtre. Sans nous appesantir non plus sur les emprunts qu’il a faits, soit aux pièces latines, soit aux types italiens, mais en indiquant ces emprunts de façon à montrer l’art avec lequel il les a revêtus des couleurs de son pays, nous tâcherons principalement de faire voir comment, à l’aide d’une constante étude de lui-même et des autres, il a trouvé enfin la vraie comédie. Molière, en effet, n’a jamais cru être né complet; ce grand homme était rarement content de ce qu’il avait fait, et souvent on lui appliquait ce vers de Boileau :</p>
         <quote>
           <l>Il plait à tout le monde et ne saurait se plaire.</l>
@@ -106,7 +113,7 @@
           <p><hi rend="i">Le Barbouillé.</hi> — Oh ! ma foi, si se rompt (Cicéron), si se casse, ou si se brise, je ne m’en mets guère en peine ; mais tu m’écouteras, ou je te vais casser ton museau doctoral.</p>
        </quote>
         <p>Molière, Molière, où étiez-vous ?</p>
-        <p>La farce du <hi rend="i">Médecin volant</hi> est entachée d’un autre défaut du temps, dont Molière ne s’est jamais complètement corrigé ; il s’est souvent complu dans le détail des infirmités physiques et des fonctions de la vie animale ; <hi rend="i">le Médecin malgré lui, l’Amour médecin, le Malade imaginaire</hi>, contiennent à ce sujet des traits d’un goût peu délicat : c’était l’esprit de l’époque. Ce bas comique qu’on rencontre dans <hi rend="i">le Médecin volant</hi> est emprunté, du reste, ainsi que la pièce tout entière, à Boursault. Il est probable que Molière, ayant vu réussir cette <pb n="6" xml:id="p6"/>pièce soutenue par quelques situations plaisantes, jugea à propos de la débarrasser de ses mauvais vers, et que, pressé de donner quelques nouveautés, comme directeur de théâtre, il la fit jouer sans scrupule par sa troupe provinciale. Si l’on veut se faire une idée de la grossièreté du <hi rend="i">Médecin volant</hi>, de Boursault, nous rappellerons la scène des <hi rend="i">Plaideurs</hi>, dans laquelle le juge Dandin, peu satisfait de l’incivilité des petits chiens qu’il a laissé mettre dans son bonnet carré, les repousse loin de lui avec une énergique expression : <quote>Tirez, tirez, ils ont...</quote> etc... Eh bien, le langage dont Racine use à l’égard de ces innocents animaux, Boursault s’en sert vis à vis de la belle Lucrèce ; il pousse même la complaisance de son médecin jusqu’à mettre dans sa bouche les vers suivants :</p>
+        <p>La farce du <hi rend="i">Médecin volant</hi> est entachée d’un autre défaut du temps, dont Molière ne s’est jamais complètement corrigé ; il s’est souvent complu dans le détail des infirmités physiques et des fonctions de la vie animale ; <hi rend="i">le Médecin malgré lui, l’Amour médecin, le Malade imaginaire</hi>, contiennent à ce sujet des traits d’un goût peu délicat : c’était l’esprit de l’époque. Ce bas comique qu’on rencontre dans <hi rend="i">le Médecin volant</hi> est emprunté, du reste, ainsi que la pièce tout entière, à Boursault. Il est probable que Molière, ayant vu réussir cette <pb n="6" xml:id="p6"/>pièce soutenue par quelques situations plaisantes, jugea à propos de la débarrasser de ses mauvais vers, et que, pressé de donner quelques nouveautés, comme directeur de théâtre, il la fit jouer sans scrupule par sa troupe provinciale. Si l’on veut se faire une idée de la grossièreté du <hi rend="i">Médecin volant</hi>, de Boursault, nous rappellerons la scène des <hi rend="i">Plaideurs</hi>, dans laquelle le juge Dandin, peu satisfait de l’incivilité des petits chiens qu’il a laissé mettre dans son bonnet carré, les repousse loin de lui avec une énergique expression : <quote>Tirez, tirez, ils ont…</quote> etc… Eh bien, le langage dont Racine use à l’égard de ces innocents animaux, Boursault s’en sert vis à vis de la belle Lucrèce ; il pousse même la complaisance de son médecin jusqu’à mettre dans sa bouche les vers suivants :</p>
         <quote>
           <l>Bois-Robert nous enseigne en sa belle plaideuse,</l>
           <l>Que le goût est solide et la vue est trompeuse,</l>
@@ -159,8 +166,9 @@
         <p>Molière a pris à Térence ses deux frères, dont l’un est doux et complaisant, l’autre maussade et méfiant. A la place des deux filles, ce sont deux jeunes gens qu’élèvent les vieillards de Térence ; mais nous devons ajouter que le Micion du poète latin, qui a servi de modèle à l’Ariste du poète français, pousse un peu trop loin la tolérance; il dit à son frère :</p>
         <quote>
           <l>Non est flagitium<hi rend="sub">;</hi> mihi, crede, adolescentulum,</l>
-          <l><pb n="21" xml:id="p21"/>Scortari neqae potare; non est neque fores Effrangere<note place="bottom">Croyez-moi ce n’est pas un si grand crime à un jeune homme de faire l’amour, d’aller au cabaret, d’enfoncer les portes.</note></l>
-       </quote>
+        	<pb n="21" xml:id="p21"/>
+          <l>Scortari neqae potare; non est neque fores Effrangere<note place="bottom">Croyez-moi ce n’est pas un si grand crime à un jeune homme de faire l’amour, d’aller au cabaret, d’enfoncer les portes.</note></l>
+        </quote>
         <p>La Morale de ce Micion était un peu relâchée. L’Ariste de Molière permet, lui, à sa pupille Léonor d’aller à la comédie, au bal, toute seule, avec sa suivante, et c’est assurément oser beaucoup. Léonor ne prête pas l’oreille aux discours des galants, mais elle peut s’y habituer. Nous avons remarqué que dans la distribution des rôles faite par Molière pour sa troupe, celui de Léonor appartenait à Mlle Béjart, qui depuis fut sa femme. Peut-être espérait-il lui inculquer ainsi le sentiment du devoir. Malheureusement le mariage de Molière ne porta pas d’heureux fruits : Ariste eut à se repentir d’avoir épousé Léonor.</p>
         <p>De toutes les filles de Molière, Isabelle est la plus hardie. Agnès, qu’on peut regarder comme sa sœur jumelle, est moins aventureuse ; Agnès ne fait que répondre aux avances d’Horace ; Isabelle provoque celles de Valère. Molière, en empruntant à un conte italien les ressorts ingénieux de sa comédie, car il a su fondre Térence et Boccace, substitua à une femme mariée une fille libre dont on veut contrarier le désir. Après avoir sauvé les mœurs, il lui restait à adoucir ce qui pouvait paraître choquant dans la conduite d’Isabelle ; c’est avec un art infini qu’il l’a fait, non seulement en traçant le portrait d’un tuteur ridicule et maladroit, capable même de violence, mais encore en insistant sur la sincérité de l’amour des deux jeunes gens. Isabelle sort, il est vrai, des limites que lui assigne la pudeur de son sexe, mais elle en demande d’abord pardon au ciel ; elle y est contrainte par la réclusion qu’on lui fait subir ; et l’on a trop <pb n="22" xml:id="p22"/>bien vu l’honnête tendresse que Valère lui porte pour avoir quelque inquiétude sur sa démarche. On sent bien qu’elle n’est pas femme à se vêtir de serge, comme le veut Sganarelle, et à vivre dans la compagnie des dindons d’une basse-cour ; elle a trop de grâce dans la taille et trop de malice dans l’esprit pour cela ; ce n’est pas une effrontée, il s’en faut, et la mère de famille la plus sévère ne la désavouerait pas pour sa fille, tout en reconnaissant qu’elle a un peu trop de penchant à la dissimulation.</p>
         <p>Cette pièce fournit plusieurs exemples de certaines libertés que Molière prendra avec ses spectateurs, toutes les fois qu’il en aura envie. Il a emprunté au théâtre ancien la place publique; il jalonne de chaque côté les maisons des gens dont il a besoin : lui faut-il un commissaire ? un coup de marteau donné à l’angle d’un mur, et le commissaire désiré paraît ! un notaire est-il indispensable ? le notaire demandé se montre ! voulez-vous un frère qui raisonne, vous l’aurez par le même procédé. Pour expliquer des rencontres multipliées dans le même lieu, nous entendrons Horace, de l’<hi rend="i">Ecole des Femmes</hi>, dire à Arnolphe :</p>
@@ -170,13 +178,13 @@
         <p>Quand une somme d’argent sera nécessaire à l’action, son personnage aura toujours sur lui la somme voulue. Ce sont des défauts, assurément, mais qu’on pardonne à Molière à cause de la naïveté qu’il y met. Le dénouement de <hi rend="i">l’Ecole des Maris</hi>, vanté par beaucoup de critiques, n’est pas exempt de ce sans-façon ; cependant le spectateur est si satisfait de voir le tuteur d’Isabelle puni de sa rigueur, qu’il fait bon marché du reste ; il admet aisément le commode voisinage du commissaire, du notaire et du frère.</p>
         <p>Il est une chose qui devrait singulièrement faire réfléchir les littérateurs de notre temps, si empressés de publier leurs <pb n="23" xml:id="p23"/>ouvrages, eux qui se tuent quelquefois dès leur vingtième année, parce que la renommée n’a pas encore répété leur nom. S’ils daignaient s’instruire du passé, ils sauraient que l’<hi rend="i">Ecole des Maris</hi> est la première pièce que Molière ait cru pouvoir imprimer ; car le manuscrit des <hi rend="i">Précieuses ridicules</hi> lui ayant été dérobé, comme nous l’avons dit, ce ne fut pas de son plein gré qu’il se décida à rectifier les erreurs contenues dans une édition faite sans sa participation. Il avait retenu ses autres comédies dans son portefeuille. Aujourd’hui, l’auteur du moindre vaudeville, joué au théâtre du Panthéon ou du Luxembourg, ne manque pas de le faire paraître quelques jours après chez Barba, comme si la France impatiente attendait son œuvre sans nom. Autre temps, autre mœurs, autres comédies aussi ! !! Molière professa toujours cette modestie suprême, ce doute des grands esprits, et plus tard il fit tenir à son <hi rend="i">Misanthrope</hi> les discours les plus sensés là-dessus. Molière, guidé toute sa vie par de tels principes littéraires, hésitait à livrer à l’impression <hi rend="i">l’Ecole des Maris</hi>, ce chef-d’œuvre, et Molière avait alors trente-neuf ans, âge qui le rendait parfaitement susceptible d’apprécier la valeur de son génie. Avant d’avoir atteint cet âge, tous nos grands hommes ont déjà publié leurs œuvres complètes. Comme Molière eût souri, de son sourire le plus philosophique, s’il eût été témoin de cette déplorable fécondité et de cette incroyable présomption !</p>
         <p>L’intrigue des <hi rend="i">Fâcheux</hi>, cette comédie-ballet jouée à Vaux le 17 août 1661, est moins compacte et moins travaillée que celle de l’<hi rend="i">Ecole- des Maris.</hi> Molière, dans l’avertissement mis en tête de la première édition de ses <hi rend="i">Fâcheux</hi>, assure que cette comédie a été <quote>conçue, faite, apprise et représentée en quinze jours</quote>, et il rejette adroitement les fautes qui peuvent s’y trouver sur le peu de temps qu’on lui accorda pour cette composition, la pièce ayant été commandée par le roi à l’occasion des fêtes que le surintendant Fouquet donna, à la <pb n="24" xml:id="p24"/>veille de sa disgrâce, dans son château de Vaux, au superbe Louis XIV. Molière, à ce qu’il paraît, n’était pas alors de l’avis d’Alceste, qui prétend que <hi rend="i">le temps ne fait rien à l’affaire.</hi> Cet avertissement est curieux encore en ce qu’il annonce l’intention que le poète avait de faire imprimer des remarques sur ses pièces. Quel malheur que nous ayons été privés de ce cours théâtral, qui aurait mieux valu, à coup sûr, que les préceptes d’Aristote et d’Horace ! Il faut regretter aussi que l’auteur des chefs-d’œuvre de notre scène comique n’ait pas eu le temps de mieux arranger un sujet aussi bien trouvé que celui des <hi rend="i">Fâcheux</hi>, et de composer, ainsi qu’il le disait lui-même, <quote>une comédie en cinq actes bien fournis</quote>. Louis XIV, en cette circonstance nous semble le premier fâcheux.</p>
-        <p>Cette comédie appartient au genre de pièces qu’on appelle à tiroir, c’est-à-dire pièces à scènes détachées qu’un nœud léger a réunies. Il s’agit pour Éraste, tout simplement, de ne pas manquer au rendez-vous que lui a assigné sa maîtresse, et il se trouve assassiné de fâcheux qui le retardent et se cramponnent à lui sans qu’il puisse les éconduire. C’est la même position, il est vrai, depuis le commencement jusqu’à la fin, mais les scènes sont variées par la diversité des caractères, et jamais on n’a su mieux retracer les ennuis de l’importunité : aucun trait n’a été omis par le grand peintre, depuis l’homme qui vous prend au collet pour vous débiter ses hémistiches, jusqu’à celui qui vous arrête dans la rue afin de vous emprunter de l’argent à la suite d’un entretien détourné... Que ne le disais-tu plus vite, malheureux !</p>
+        <p>Cette comédie appartient au genre de pièces qu’on appelle à tiroir, c’est-à-dire pièces à scènes détachées qu’un nœud léger a réunies. Il s’agit pour Éraste, tout simplement, de ne pas manquer au rendez-vous que lui a assigné sa maîtresse, et il se trouve assassiné de fâcheux qui le retardent et se cramponnent à lui sans qu’il puisse les éconduire. C’est la même position, il est vrai, depuis le commencement jusqu’à la fin, mais les scènes sont variées par la diversité des caractères, et jamais on n’a su mieux retracer les ennuis de l’importunité : aucun trait n’a été omis par le grand peintre, depuis l’homme qui vous prend au collet pour vous débiter ses hémistiches, jusqu’à celui qui vous arrête dans la rue afin de vous emprunter de l’argent à la suite d’un entretien détourné… Que ne le disais-tu plus vite, malheureux !</p>
         <p>La force comique de Molière se fait pleinement jour dans cette pièce ; elle s’y étale largement. La main qui a tracé les scènes du joueur de piquet et du chasseur de cerf, dont Louis XIV avait, dit-on, désigné l’original à Molière, dans la personne de son grand-veneur, le marquis de Soyecourt, cette main-là était initiée à tous les secrets de son art. <pb n="25" xml:id="p25"/>N’est-ce pas une chose admirable, eu effet, que de vouloir forcer un amoureux attendant sa maîtresse, à donner son opinion sur les chances du pique ou du carreau ? et, lorsque le fâcheux tire des cartes de sa poche pour mieux faire comprendre son explication, peut-on s’empêcher de rire aux éclats ? Quel trait que celui du chasseur qui oublie tout à coup et le cerf et les chiens, pour donner la description de son cheval alezan, et torture ainsi le cœur de son auditeur, dont l’impatience se croyait au bout du récit ! Ce comique prolongé, d’où est sorti le <hi rend="i">pauvre homme</hi> du <hi rend="i">Tartufe</hi>, est un des procédés les plus ingénieux de Molière, et qu’il avait déjà mis en usage dans les <hi rend="i">Précieuses Ridicules.</hi></p>
         <p>Nous ne saurions passer sous silence les magnificences de Vaux, auxquelles se rattache cette comédie des <hi rend="i">Fâcheux.</hi> Ce nom de Vaux rappelle la fidélité au malheur en même temps que le génie. Les vers de La Fontaine ainsi que les écrits de Pélisson, reviennent aussitôt à l’esprit. Fouquet, le surintendant, grâce à ses généreux défenseurs, vivra toujours ; la poésie, qu’il sut enrichir et flatter, a jeté sur ses infortunes quelques-unes de ces gouttes d’ambre qui parfument et conservent durant des siècles. L’arrestation de Fouquet eut lieu dix-sept jours après la fête célébrée qu’il donna à Vaux. Quel beau moment dans la vie de Louis XIV ! c’était l’heure où le cœur lui battait d’un noble amour pour mademoiselle de La Vallière, où il s’assimilait heureusement l’intelligence des grands hommes de son temps. Louis XIV, qui au fond était un prince médiocre, eut du moins un éclair d’esprit et de goût dans sa jeunesse amoureuse ; il perdit tout avec La Vallière, maîtresse qui valait mieux que lui.</p>
         <p>Vaux a été presque détruit en 1815 : les Bavarois l’ont saccagé ; Vaux, dans sa situation actuelle, offre un singulier emblème aux caprices de l’imagination. S’il faut en croire un de nos plus spirituels écrivains, M. Léon Gozlan, la devise de Fouquet se composait d’un écureuil poursuivant une couleuvre ! <pb n="26" xml:id="p26"/> l’écureuil, c’était lui ; la couleuvre c’était Colbert, son ennemi personnel. La devise de Fouquet était celle-ci : <quote>Quò non ascendam ? Où ne monterai-je pas</quote> ?<hi rend="i"/> On voit passera présent sur les marches des grands escaliers abandonnés de Vaux, escaliers aussi grands que ceux de Versailles de grosses et larges couleuvres. Colbert a triomphé. On retrouve l’allée de sapins dont parle La Fontaine dans la lettre écrite à M. de Maucroix sur la fête de Vaux, lettre dans laquelle il dit que Molière <hi rend="i">est son homme</hi> ; mais il n’y a pas un écureuil dans les branches, et les nymphes, que le poète assure avoir vues pleurantes, et qui redemandaient avec tant d’instance qu’on leur rendit Oronte, ont disparu comme les écureuils. Pourquoi tout cela ? pourquoi Fouquet fut-il emprisonné ? On prétend qu’il avait osé lever les yeux vers l’astre nouveau qui commençait à briller à la cour, vers la jeune La Vallière, cette tendre fille d’honneur. Il avait pris au sérieux le vers de Boileau :</p>
         <quote>
           <l>Jamais surintendant ne trouva de cruelles ;</l>
-       </quote>
+        </quote>
         <p>mais Boileau n’avait pas prévu le cas où les surintendants seraient les rivaux des rois.</p>
         <p>Pour en revenir à la comédie dont il est question, Molière s’est inspiré des peines racontées par le poète latin Horace, en se voyant arrêté et suivi par un fâcheux dans la voie sacrée, alors qu’il s’en allait, comme il le dit dans sa neuvième satire :</p>
         <quote>
@@ -204,20 +212,20 @@
         <quote>
           <label>DORANTE.</label>
           <l>Et qui donc la fera comme il faut ?</l>
-        <label>AMARANTE.</label>
-          <l>Un ami que je sais, qu’on appelle Boursault.</l>
-        <label>LE COMTE.</label>
-          <l>Je le connais : pécore !</l>
-        <label>DAMIS.</label>
-          <l>Il est cher à la muse.</l>
-        <label>LE COMTE.</label>
-          <l>Il s’amuse à la muse, et la muse l’amuse.</l>
-        <label>AMARANTE.</label>
-          <l>Mais les vers de Boursault sont assez bien choisis.</l>
-        <label>LE COMTE.</label>
+	        <label>AMARANTE.</label>
+        	<l>Un ami que je sais, qu’on appelle Boursault.</l>
+	        <label>LE COMTE.</label>
+        	<l>Je le connais : pécore !</l>
+	        <label>DAMIS.</label>
+        	<l>Il est cher à la muse.</l>
+	        <label>LE COMTE.</label>
+        	<l>Il s’amuse à la muse, et la muse l’amuse.</l>
+	        <label>AMARANTE.</label>
+        	<l>Mais les vers de Boursault sont assez bien choisis.</l>
+	        <label>LE COMTE.</label>
           <l>Je le soutiens, Madame, un butor parisis,</l>
           <l>Une grosse pécore, une pure mazette !</l>
-       </quote>
+        </quote>
         <p>C’est Boursault qui s’est nommé: il n’y a pas d’autre titre à lui donner effectivement quand on a lu sa prétendue <hi rend="i">Critique de l’Ecole des Femmes.</hi> Voulez-vous juger de la subtilité de ses remarques ? voici un de ses traits les plus piquants :</p>
         <quote>
           <l>Bien de plus innocent se peut-il voir</l>
@@ -228,9 +236,10 @@
           <l>Comme il sait finement réveiller l’auditeur !</l>
           <l>De peur que son sommeil ne s’en rendit maître,</l>
           <l>Jamais plus à propos vit-on puces paraître ?</l>
-          <l><pb n="33" xml:id="p33"/>D’aucun irait plus galant se peut-on souvenir,</l>
+        	<pb n="33" xml:id="p33"/>
+          <l>D’aucun irait plus galant se peut-on souvenir,</l>
           <l>Et ne dormait-on pas s’il n’en eût fait venir ?</l>
-       </quote>
+        </quote>
         <p>Tout le reste est dans le même goût. N’admirez-vous pas cette finesse d’esprit ? Que ces puces sont bien amenées ! Nos vaudevillistes modernes sont dépassés. Heureusement pour Boursault, il s’amenda plus tard. Le <hi rend="i">Mercure Galant</hi> et les <hi rend="i">Fables d’Esope</hi>, qui ne sont pas des productions méprisables, font presque oublier les rudes atteintes que Molière lui a portées dans <hi rend="i">l’Impromptu de Versailles.</hi> <quote>« Le beau sujet à divertir la cour que M. Boursault ! s’écrie le grand poète irrité. Je voudrais bien savoir de quelle façon on pourrait l’ajuster pour le rendre plaisant, et si, quand on le bernerait sur un théâtre, il serait assez heureux pour faire rire le monde. Ce lui serait trop d’honneur que d’être joué devant une auguste assemblée. Il ne demanderait pas mieux, et il m’attaque de gaieté de cœur pour se faire connaître, de quelque façon que ce soit. C’est un homme qui n’a rien à perdre ; et les comédiens ne me l’ont déchaîné que pour m’engager à une sotte guerre, et me détourner par cet artifice des autres ouvrages que j’ai à faire; et cependant vous êtes assez simples pour donner dans ce panneau. »</quote> Ces quelques lignes valent mieux que la comédie tout entière du <hi rend="i">Portrait du Peintre.</hi></p>
         <p>Une anecdote prouve que Boursault avait au fond quelque noblesse dans l’âme. Bafoué dans les satires de Boileau, il en éprouva un vif chagrin, et pourtant, quelques années plus tard, ayant appris que son cruel censeur, demeuré aux eaux de <hi rend="i">Bourbon</hi> plus de temps qu’il ne comptait le faire, se trouvait dans un grand besoin d’argent, il s’empressa de l’aller trouver et de lui offrir deux cents louis. Boileau fut si touché de ce procédé, que, dans les éditions suivantes de ses satires, il effaça le nom de Boursault ; mais comme il lui fallait une rime en <hi rend="i">ault</hi>, il substitua le nom de Perrault.  <pb n="34" xml:id="p34"/>Pauvre Perrault ! pourquoi diable son nom avait-il cette terminaison fâcheuse ! Voilà la justice distributive des poètes satiriques ! !</p>
         <p>Un autre auteur s’était aventuré à attaquer Molière. Montfleury fils, qui espérait venger son père, le célébré acteur, des railleries de son confrère. Molière, en effet, ne cessait de railler les acteurs de l’Hôtel de Bourgogne ; il faisait rire le public à leurs dépens. Un écrivain d’alors assure, et cela est aisé à croire, que Molière était comédien <hi rend="i">des pieds jusqu’à la tête</hi>. Il se tenait toujours dans une juste expression, tandis que ses rivaux criaient et gesticulaient à peu près comme on le fait encore sur nos théâtres de boulevard. Molière s’égaie du ton emphatique et des rodomontades de ses rivaux. Montfleury, par exemple, chargé des grands rôles, semblait avoir le diable au corps; il se démenait si fort qu’il se rompit dit-on, une veine, en s’abandonnant avec trop de rage aux fureurs d’Oreste ; telle fut, à ce que l’on prétend, la cause de sa mort; ce qui fit dire à l’auteur du <hi rend="i">Parnasse Réformé</hi>, que Montfleury était mort <hi rend="i">d’Andromaque.</hi> On peut mourir de moins belle maladie assurément.</p>
@@ -245,8 +254,8 @@
           <l>Les mains sur les côtés, d’un air peu négligé,</l>
           <l>La tête sur le dos comme un mulet chargé,</l>
           <l>Les yeux tout égarés, puis, débitant ses rôles,</l>
-          <l>D’un hoquet éternel séparant ses paroles....</l>
-       </quote>
+          <l>D’un hoquet éternel séparant ses paroles…</l>
+        </quote>
         <p>Ce ne sont que turlupinades de cette espèce. Nous y trouvons seulement quatre vers de bonne comédie, sur l’imitation <pb n="36" xml:id="p36"/>exacte que Molière faisait du jeu des acteurs de l’Hôtel de Bourgogne. Ce qui sert à prouver son talent de mime.</p>
         <quote>
           <l>S’il contrefait si bien leur ton et leurs détours,</l>
@@ -258,25 +267,24 @@
         <p>Montfleury pensait moins juste lorsqu’il prétendait que tout l’agrément des vers de Molière provenait de la manière dont l’auteur les récitait; ces vers, selon lui, perdaient de leur charme à la lecture ; il s’écriait :</p>
         <quote>
           <l>On est désabusé de sa façon d’écrire.</l>
-       </quote>
+        </quote>
         <p>Non, monsieur Montfleury fils, non, on n’en est pas désabusé; on ne s’en désabusera même pas.</p>
         <p>Montfleury fils a été plus heureux dans la comédie de <hi rend="i">la Femme Juge et Partie</hi>, qu’il a laissée au répertoire du Théâtre-Français, car on la joue encore toute licencieuse qu’elle est. Cette pièce est écrite et composée avec esprit; on y rencontre beaucoup de vers naturels. C’est le style des Plaideurs, moins une correction soutenue; le trait suivant nous a paru digue de <hi rend="i">PetitJean.</hi> Bernadille, le héros de la pièce, causant avec Gusman, son serviteur, fait de lui-même un portrait tellement flatté, qu’il s’attire une piquante réponse :</p>
-        <label>BERNADILLE.</label>
-        <quote>
+      	<quote>
+	        <label>BERNADILLE.</label>
           <p>Pour mon visage, il a, sans paraître farouche,</p>
           <p>Quelque chose de grand.</p>
-       </quote>
-        <label>GUSMAN.</label>
-        <quote>
+      		<label>GUSMAN.</label>
           <p>Oui, monsieur, c’est la bouche.</p>
-       </quote>
+      	</quote>
         <p>Voilà de la bonne comédie. Montfleury, né sur les planches et auteur de comédies, a prêché dans celte pièce pour son dieu. Il a fait du théâtre un tableau auquel il y a bien quelque chose à reprendre. Julie dit en parlant des spectacles :</p>
         <quote>
           <l>Ces lieux ont été de tout temps</l>
           <l>Le centre du beau monde et des honnêtes gens ;    </l>
           <l>La scène a des appas que tout le monde approuve,</l>
           <l>Et c’est un rendez-vous où la vertu se trouve ;</l>
-          <l>[p.38] On y traite l’amour, mais c’est d’une façon</l>
+        	<pb n="38" xml:id="p38"/>
+          <l>On y traite l’amour, mais c’est d’une façon</l>
           <l>Moins propre à divertir qu’à servir de leçon,</l>
           <l>Et ce dieu, qui n’y plait que par son innocence,</l>
           <l>N’y règle ses transports que sur la bienséance.</l>
@@ -289,7 +297,7 @@
           <l>Qu’il est bien malaisé que, sans être amoureux,</l>
           <l>Un jeune prince soit et grand et généreux.</l>
           <l>Oui, cette passion, de toutes la plus belle,</l>
-          <l>Traîne dans un esprit cent vertus après elle...</l>
+          <l>Traîne dans un esprit cent vertus après elle…</l>
        </quote>
         <p>C’était ainsi que Molière reconnaissait la protection que le roi lui accordait contre ses ennemis.</p>
         <p>La Vallière, que nous avons déjà citée, était faite pour donner une excuse à ces flatteries. Parmi les nombreuses maîtresses de Louis XIV, La Vallière, en vérité, est la seule à laquelle on prenne intérêt, parce que l’amour purifia ses faiblesses. Un tableau que l’on voit dans la galerie actuelle du château de Versailles la représente transformée en Diane,, un carquois sur l’épaule et tenant une levrette en laisse c’est de cette façon que Molière dépeint la princesse d’Élide :</p>
@@ -312,63 +320,53 @@
         <p>Rousseau, qui a vu le <hi rend="i">Misanthrope</hi> à travers de sa misanthropie personnelle, l’a fort mal jugé. Rousseau prétend que Molière a dégradé, avili son héros, et l’a rendu ridicule. Cela est faux ; Alceste n’est pas ridicule un seul instant ; ses faiblesses de cœur et ses emportements ne produisent pas un si déplorable effet. C’est un rire bienveillant qui les accueille, sans que l’on perde le respect dû au personnage. Le second reproche que Rousseau adresse à Alceste, est de ne s’en prendre qu’à des ridicules privés et non à des vices publics. Cette vigoureuse haine qu’il avait dans l’âme, il fallait <pb n="47" xml:id="p47"/>l’exercer, s’est-on écrié encore depuis Rousseau, contre le régime d’un gouvernement despotique, contre les abus qui pesaient sur la nation; il fallait lutter avec un ordre social mauvais, et le faire, en s’étreignant fortement, craquer de toutes parts, si bien que pour le jeter à bas le peuple n’eût plus besoin de donner qu’un coup d’épaule. C’était un beau rôle à jouer en ce temps, mais il était impossible. L’heure de Mirabeau n’était pas venue au dix-septième siècle. Personne n’avait le regard assez puissant pour faire trembler la Bastille sur le sol. Molière pouvait à peine dire dans le <hi rend="i">Tartufe</hi>, en parlant des lettres de cachet :</p>
         <quote>
           <l>Et ce sont de ces coups que l’on pare en fuyant.</l>
-       </quote>
+        </quote>
         <p>Le roi qui florissait alors n’était pas un roi constitutionnel il tenait la France muette, et ne permettait pas qu’on s’immisçât dans son administration. Le mystère du gouvernement demeurait renfermé dans la salle du trône. La condition d’existence de Molière n’était qu’au prix de son silence sur les affaires de l’état. Que pouvait donc faire le poète, ayant ainsi les mains liées ? ce qu’il a fait : arriver à la réforme sociale par des détours ; songer à épurer les mœurs avant de chercher à établir les lois, Le dix-huitième siècle viendra poursuivre son œuvre; la comédie perdra de sa gaîté pour entrer dans une voie philosophique ; la tragédie se fera sentencieuse ; le théâtre secondera l’indépendance des esprits. Le <hi rend="i">Misanthrope</hi> étant, posé dans la société de Molière, Alceste ne pouvait se blesser que de ce qui remuait cette société ; or, le bel esprit était alors une chose importante. La fureur de rimer gâtait tout le monde à la cour à la ville. On ne rencontrait dans les ruelles et aux promenades qu’infatigables lecteurs de sonnets et de madrigaux. Il n’est donc pas étonnant qu’Alceste, ennuyé de cette manie, le prenne à cet égard sur un ton fort haut. Les petites choses ont de l’importance quand on vit dans un petit cercle ; et, forcé par son amour pour Célimène de se trouver sans cesse <pb n="48" xml:id="p48"/>confondu avec des sots, le noble personnage épanche sa bile sur les misères qui le froissent.</p>
         <p><milestone type="commentStart" corresp="#moliere-malheureux-dans-menage"/>Le coup de génie était de rendre Alceste amoureux d’une coquette ; et quand j’ai dit que, pour ce qui touche l’amour Molière me semblait le poète dont l’analyse est descendue le plus profondément dans les replis du cœur humain, je ne crois pas m’être trompé. <milestone type="commentEnd"/><milestone type="anecdoteStart" xml:id="moliere-malheureux-dans-menage"/>On sait que Molière avait fait une rude expérience de cette passion. Alceste connaît les défauts de Célimène<milestone type="anecdoteEnd"/></p>
         <quote>
           <l>Mais la raison n’est pas ce qui règle l’amour.</l>
-       </quote>
+        </quote>
         <p>La grâce de la belle veuve est la plus forte; il espère (elle n’a que vingt ans), il espère en mûrir la jeunesse étourdie aux leçons d’une tendresse sérieuse. Alceste pense que Célimène, unie à lui, se corrigera de ses travers ; et ce n’est que lorsqu’il la voit incurable, lorsqu’il s’aperçoit qu’elle est près de tomber dans le vice de la galanterie, que, la main crispée sur un cœur trop crédule, il en arrache son fol amour et s’enfuit dans la solitude, honteux d’avoir été dupe si longtemps. N’est-ce pas un magnifique effort que celui d’Alceste renonçant à la possession de la femme qu’il désire le plus, pour conserver la noblesse de son âme, la dignité de son caractère ? effort d’autant plus pénible que Célimène l’aime autant qu’une coquette peut aimer. L’homme aux rubans verts lui lient plus au cœur que les autres, si les coquettes ont un cœur.</p>
         <p><milestone type="commentStart" corresp="#montausier-se-targue-de-ressembler-au-misanthrope"/>Quel monde que celui du <hi rend="i">Misanthrope</hi> ! Quelle belle nature, que celle d’<hi rend="i">Alceste</hi> !<milestone type="commentEnd"/> <milestone type="anecdoteStart" xml:id="montausier-se-targue-de-ressembler-au-misanthrope"/>Qui donc, ayant le sentiment de la vertu et de l’honneur, n’est pas tout prêt à s’écrier, comme le duc de Montausier, qu’il voudrait ressembler à cet homme ?<milestone type="anecdoteEnd"/><milestone type="commentStart" corresp="#montausier-se-targue-de-ressembler-au-misanthrope"/> Il est certain qu’on se retrempe à cette source de franchise et de loyauté, et qu’on en revient la tête plus haute et le cœur plus ferme. Une âme bien située ne commettrait pas une basse action en sortant d’une représentation du <hi rend="i">Misanthrope…</hi><milestone type="commentEnd"/> Rousseau était donc bien malvenu à l’attaquer ; il a <pb n="49" xml:id="p49"/>eu grand tort d’employer son éloquence à soutenir des paradoxes sur l’immoralité du théâtre. Rendons plutôt justice aux ménagements qu’il fallait que Molière gardât, de peur de déplaire à un monarque jaloux de son autorité, et son protecteur déclaré. Croit-on, encore une fois, que Louis XIV se serait laissé dire sans restriction : <quote>« Sire, votre cour est corrompue vénale, et tout infatuée d’elle-même on n’y a pas la liberté de vivre en homme d’honneur ? »</quote> Si l’auteur eût tenu ce langage il aurait été envoyé immédiatement à la forteresse de Pignerol. Chaque chose a son temps ; il était indispensable alors d’attacher une indignation comique aux paroles d’un rigide censeur. Alceste sans transports et philosophe réformateur aurait été interrompu dès les premiers vers. Louis XIV, qui ne pardonna pas à Fénelon les conseils voilés de Télémaque, ni à Racine un vœu en faveur des protestants, aurait-il souffert qu’un comédien lui donnât des leçons ? La chaire de Bossuet possédait à peine ce privilège ; Molière, qui savait tout, n’ignorait pas que les bouffons du moyen-âge avaient seuls le droit de dire la vérité aux monarques absolus, et, s’il faut plaindre ce grand homme de s’être vu forcé de poser, pour ainsi dire, sur le noble front d’Alceste le bonnet à grelots des anciens fous de cour, il n’en est que plus admirable par la manière dont il l’a fait.</p>
-        <p>Ainsi donc, tout en admettant la magnifique nature d’Alceste, eu le tenant pour un parfait honnête homme, on peut remarquer qu’il est guidé par des sentiments personnels, et que, poussant à l’excès la qualité de misanthrope, il devient un être insociable. On ne se dissimule pas que s’il a une haine rigoureuse contre les méchants, il ne fait rien en faveur des bons. Sa vertu n’agit point pour l’avantage de l’humanité sa colère ne s’exerce que sur les hypocrisies de salon, sur des condescendances de cour, sur des coquetteries et des vanités de femmes. Pensez-vous, s’il se retire dans ses terres, qu’il abolira d’abord les corvées dont ses paysans sont accablés, lui <pb n="50" xml:id="p50"/>si riche, et qui ne regrette pas les vingt-mille francs par lesquels il achète un peu cher le droit de pester à son aise contre l’iniquité de l’arrêt qui le condamne ? Pensez-vous qu’il établira à l’instant une école primaire ; ou même que, d’accord avec le bailli, il fondera une institution de rosières ? Mon Dieu, non !... il commencera par chasser le cerf, par lire Montaigne ou Sénèque, et persévérera bien longtemps dans ses malédictions contre le genre humain. Il est grand seigneur avant tout, le plus probe, le plus excellent des grands seigneurs ; mais il n’est frappé que des abus qui le touchent, et non point de ceux qui pèsent sur la foule ; il jouit même de privilèges injustes, dont son âme, si droite, n’est aucunement choquée, accoutumée qu’elle est à ces abus ; et la pensée ne lui vient pas que son souffle pourrait abîmer un matin cette société de courtisans, de flatteurs, de juges corrompus, ce monde brillant, mais faux, qui le gêne et l’indigne à chaque pas.</p>
+        <p>Ainsi donc, tout en admettant la magnifique nature d’Alceste, eu le tenant pour un parfait honnête homme, on peut remarquer qu’il est guidé par des sentiments personnels, et que, poussant à l’excès la qualité de misanthrope, il devient un être insociable. On ne se dissimule pas que s’il a une haine rigoureuse contre les méchants, il ne fait rien en faveur des bons. Sa vertu n’agit point pour l’avantage de l’humanité sa colère ne s’exerce que sur les hypocrisies de salon, sur des condescendances de cour, sur des coquetteries et des vanités de femmes. Pensez-vous, s’il se retire dans ses terres, qu’il abolira d’abord les corvées dont ses paysans sont accablés, lui <pb n="50" xml:id="p50"/>si riche, et qui ne regrette pas les vingt-mille francs par lesquels il achète un peu cher le droit de pester à son aise contre l’iniquité de l’arrêt qui le condamne ? Pensez-vous qu’il établira à l’instant une école primaire ; ou même que, d’accord avec le bailli, il fondera une institution de rosières ? Mon Dieu, non !… il commencera par chasser le cerf, par lire Montaigne ou Sénèque, et persévérera bien longtemps dans ses malédictions contre le genre humain. Il est grand seigneur avant tout, le plus probe, le plus excellent des grands seigneurs ; mais il n’est frappé que des abus qui le touchent, et non point de ceux qui pèsent sur la foule ; il jouit même de privilèges injustes, dont son âme, si droite, n’est aucunement choquée, accoutumée qu’elle est à ces abus ; et la pensée ne lui vient pas que son souffle pourrait abîmer un matin cette société de courtisans, de flatteurs, de juges corrompus, ce monde brillant, mais faux, qui le gêne et l’indigne à chaque pas.</p>
         <p>Voilà justement ce que Rousseau voulait avant le temps. Rousseau attaquait l’ancien ordre social par sa base ; il s’efforcait de le renverser, pour asseoir à sa place un gouvernement meilleur, sous lequel on pût forcer les gens à devenir vertueux, et empêcher qu’on ne se poussât dans le monde par de <hi rend="i">sales emplois</hi>, comme Alceste’ le reproche à l’homme de son procès. Les iniquités générales répandues sur la masse de la nation, soulevèrent du temps de Rousseau une foule d’écrivains généreux; l’encyclopédie se fonda sous cette puissante direction, et la révolution française fermenta en secret dans les entrailles du pays, comme une lave intérieure dont l’éruption se faisait pressentir. Aussi vit-on bientôt un des disciples de Rousseau, Fabre-d’Églantine, esprit ardent, concevoir le dessein de représenter à ses contemporains les personnages de Molière avec les idées nouvelles apportées par les cent vingt années qui venaient de s’écouler. Figurez-vous, eu effet, qu’Alceste et Philinte ont vécu âge de patriarches, et <pb n="51" xml:id="p51"/>voyez s’ils ont conservé quelques traits de leur visage et de leur caractère. N’est-il pas raisonnable d’admettre qu’un homme ayant le cœur légèrement atteint par l’égoïsme, à trente ans, dans l’âge de la chaleur et du dévouement, puisse se trouver, à soixante ans, entièrement gangrené. La plaie imperceptible aura produit, à la longue, un vaste et profond ulcère ! Voilà, en quelque sorte, la différence qui existe entre les deux Philinte. Un homme qui commence comme celui de Molière doit finir comme celui de Fabre : le premier porte en germe dans son sein tous les vices du second. Cela arriva à la société, dont Philinte est la personnification. Il en est de même des nobles qualités d’Alceste, elles se feront jour au travers de sa mauvaise humeur. Après avoir mené la vie de grand seigneur, que nous avons peinte, il sentira s’adoucir cette <hi rend="i">effroyable haine</hi> vouée au genre humain, et à laquelle nous ne lui avons jamais fait l’honneur de croire ; au lieu de s’enfuir dans un endroit écarté, il tâchera d’être utile à ses semblables, en détournant les obstacles qui s’opposent au bien-être du plus grand nombre, et en démasquant, dans l’intérêt de la société, les traîtres, les lâches, les fripons qu’il rencontrera sur sa route. Ou je ne comprends rien à Alceste, ou son honnêteté, qui n’est que de la <hi rend="i">philanthropie rentrée</hi>, si nous pouvons nous exprimer ainsi, l’aurait mené là, seulement à cinquante ans de distance. Molière ne nous aurait pas inspiré tant de respect pour lui, si cet homme devait, en se retirant du monde, devenir aussi égoïste que Philinte ; mais il fallait, pour que ces personnages nous apparussent sous un jour nouveau, que les temps fassent changés.</p>
         <p>Nous croyons en avoir dit assez pour défendre Molière contre ceux qui ne font aucune différence, pour ainsi dire, entre le gouvernement absolu de Louis XIV et le gouvernement démocratique d’Athènes, et qui demandent à notre poète les qualités d’Aristophane. Nous approuvons d’ailleurs Molière de s’en être tenu aux mœurs, quand même il n’y aurait pas été forcé. <pb n="52" xml:id="p52"/>C’est la peinture qui convient le mieux à la comédie. Les railleries politiques doivent rester habituellement dans le domaine de la satire ; elles n’ont qu’une valeur passagère, comme les hommes et les choses qui lés inspirent. Elles nuisent aux œuvres durables de l’art. Elles sont très bonnes comme équilibres de gouvernement ; c’est un tempérament excellent ; mais la comédie ne .peut s’occuper des affaires publiques, que lorsque les affaires publiques se mêlent intimement aux mœurs. Nous marchons un peu vers cette fusion ; cependant jamais la comédie d’Aristophane ne pourra être ressuscitée, en France surtout, où la démocratie a le sentiment des convenances de l’art. N’oublions pas qu’Aristophane versa la cigüe dans la coupe où Socrate but la mort.</p>
         <p>Cependant Dieu nous garde de sacrifier en tout Aristophane à Molière. Le premier possédait une richesse d’invention peut-être supérieure à celle, du second. Il avait toute l’imagination désirable pour attacher les esprits mobiles des Grecs ; mais cette haute raison, cette science du cœur, cet ordre heureux qui consacrent les productions de Molière, il ne les avait pas au même degré, et ces qualités s’accordent merveilleusement avec le génie de notre nation. C’est ce mélange de grâce et de dignité qu’a porté si haut la gloire de notre scène. La comédie antique et moderne ne pourrait-elle pas se diviser en trois classes. La comédie d’imagination, celle qui ne se propose pas d’autre but que d’égayer les hommes et de les transporter dans les régions de la fantaisie; la comédie satirique, celle qui fronde les abus des gouvernements et des sociétés, et ne s’adresse qu’à des intérêts éphémères ; enfin la comédie de l’humanité, si nous pouvons nous exprimer ainsi, celle qui reproduit les caractères et s’occupe du perfectionnement des mœurs, d’après le sentiment moral déposé au fond de nos consciences par une invisible et suprême autorité. On trouve dans tous les pays des exemples de ces trois genres de comédie. Caldéron, Lope de Vega, Shakespeare, ont <pb n="53" xml:id="p53"/>particulièrement brillé dans le premier genre ; Aristophane, Beaumarchais, ont exploité le second ; Ménandre, Plaute, Térence, se sont distingués dans le troisième, et notre Molière, résumant admirablement cette manière, la plus noble de toutes, s’est élevé à une hauteur qu’il est difficile d’atteindre après lui.</p>
         <p>De tous les écrivains qui ont parlé du <hi rend="i">Misanthrope</hi>, Marmontel est peut être celui qui l’a compris le mieux. La Harpe s’est montré, en cette matière, d’une extraordinaire naïveté. Geoffroy s’est laissé emporter par sa rage contre les philosophes. Un des bons esprits de ce temps, M. Auger, a traité ce sujet avec beaucoup de sagacité dans ses excellentes notices sur les pièces de Molière. N’oublions pas M. Gustave Planche, critique judicieux et profond, et meilleur écrivain que ses devanciers.        </p>
         <p>On remarque dans la charmante scène des portraits, une vingtaine de vers qui semblent un hors-d’œuvre, et qu’on pourrait retrancher, sans faire le moindre tort à la pièce, vers charmants du reste. Ce sont les vers que prononce Céliante sur les illusions des amans.</p>
         <quote>
-          <l>L’amour pour l’ordinaire.....</l>
-       </quote>
+          <l>L’amour pour l’ordinaire…</l>
+        </quote>
         <p>Ces vers sont empruntés à Lucrèce ; c’est une traduction exquise, qui date des premières études de Molière, et qu’il a voulu placer là. Molière ne perdait rien. On sent un peu que le morceau est rapporté. Voilà, du reste, le seul emprunt que l’auteur se soit permis dans ce chef-d’œuvre qui lui appartient ainsi qu’aux mœurs françaises.</p>
         <p>Le théâtre italien, qui était voué aux balourdises d’Arlequin, a fait jouer aussi au Misanthrope ; Arlequin s’affublait quelquefois des titres les plus graves. On trouve dans cette pièce un tableau de Paris assez plaisant. Arlequin s’est retiré dans une forêt où sa réfutation attire la foule : on accourt consulter sa philosophie. Scaramouche, entre autres, qui vient de l’entendre conseiller à un homme de mérite de ne <pb n="54" xml:id="p54"/>pas aller à Paris, parce qu’il n’y réussira pas, se met à pleurer sur son sort, à lui qui est un ignorant.</p>
-        <label>SCARAMOUCHE</label>
-        <quote>
-          <p>Qu’est-ce que je ferai, s’écrie-t-il, moi qui ne suis bon à rien, qui ne fais que de la bagatelle, qui né sais que de la bagatelle, et qui ne suis moi-même qu’une bagatelle.</p>
-       </quote>
-        <label>ARLEQUIN</label>
-        <quote>
-          <p>Tu fais la bagatelle ?</p>
-       </quote>
-        <label>SCARAMOUCHE</label>
-        <quote>
-          <p>Oui</p>
-       </quote>
-        <label>ARLEQUIN</label>
-        <quote>
-          <p>Tu sais la bagatelle ?</p>
-       </quote>
-        <label>SCARAMOUCHE</label>
-        <quote>
-          <p>Hélas, oui.</p>
-       </quote>
-        <label>ARLEQUIN </label>
-        <quote>
-          <p>Et tu es bagatelle. Ali ! mon cher, viens que je t’embrasse ; tu es né pour Paris ; tu es né pour une grande fortune avec une si belle disposition tu peux aspirer à tout. La bagatelle ! à Paris !....</p>
-       </quote>
+      	<quote>
+      		<label>SCARAMOUCHE</label>
+      		<p>Qu’est-ce que je ferai, s’écrie-t-il, moi qui ne suis bon à rien, qui ne fais que de la bagatelle, qui né sais que de la bagatelle, et qui ne suis moi-même qu’une bagatelle.</p>
+      		<label>ARLEQUIN</label>
+      		<p>Tu fais la bagatelle ?</p>
+      		<label>SCARAMOUCHE</label>
+      		<p>Oui</p>
+      		<label>ARLEQUIN</label>
+      		<p>Tu sais la bagatelle ?</p>
+      		<label>SCARAMOUCHE</label>
+      		<p>Hélas, oui.</p>
+      		<label>ARLEQUIN </label>
+      		<p>Et tu es bagatelle. Ali ! mon cher, viens que je t’embrasse ; tu es né pour Paris ; tu es né pour une grande fortune avec une si belle disposition tu peux aspirer à tout. La bagatelle ! à Paris !…</p>
+      	</quote>
         <p>Arlequin a-t-il tort ?</p>
         <p>Molière joua lui-même le rôle du Misanthrope, et Mlle Molière celui de la coquette Célimène. Les deux époux ne se voyaient plus guères qu’au théâtre. La passion de Mlle Molière pour le comte de Guiche, puis pour Lauzun, puis pour beaucoup d’autres, avait amené une séparation. Combien le mari jaloux sût rendre avec vérité les emportements amoureux d’Alceste et qu’il dût souffrir. Les spectateurs, au courant de la mésintelligence conjugale des deux personnages, eurent un intérêt de plus dans la représentation de cette pièce. Mlle Molière représentait à ravir cette Célimène, qui reste jusqu’à la fin ce qu’elle est au commencement légère et coquette, et qui refuse de quitter les adorations du monde, pour suivre Alceste dans la solitude, ou si vous le voulez. Molière dans la retraite d’Auteuil. Cette femme de vingt ans si spirituelle dans ses médisances qu’on les lui pardonne, si jolie qu’on oublie ses torts les plus graves, est le type le plus achevé que l’auteur ait créé. Ce rôle a été tissu avec les fibres de son cœur.</p>
         <p>Le <hi rend="i">Médecin malgré lui</hi> qui succéda au <hi rend="i">Misanthrope</hi>, et <pb n="55" xml:id="p55"/>obtînt même quelques représentations de plus que ce chef d’oeuvre, dans sa nouveauté, fut joué pour la première fois le 26 juin 1666. Molière n’avait fait jusque-là que préluder à sa guerre contre les médecins. L’ignorance des docteurs de son temps était ainsi que nous l’avons dit, telle que le sentiment public le secondait, non moins que le bon plaisir du roi. Toutes les fois que le peuple voyait passer Quesnault, il le remerciait d’avoir délivré la France du cardinal Mazarin, dont il était le médecin, et lui pardonnait spirituellement à cause de ce malade un peu brusquement envoyé dans l’autre monde, tous les honnêtes gens dont on aurait pu lui reprocher la mort. Molière conçut l’idée de changer le mot médecin, même en une injure véritable, et lorsque Sganarelle est accosté par deux personnes qui veulent le forcer à faire partie de la faculté, cette réponse <hi rend="i">médecin vous-même</hi>, est un des traits comiques les plus incisifs qui soient au théâtre. Un docteur fait à coup de bâtons n’est-ce pas une chose éminemment plaisante ? Celte pièce abonde en détails heureux, en scènes excellentes, et d’une portée plus haute que ne paraît le comporter la bouffonnerie du sujet. La phrase <hi rend="i">nous avons changé tout cela, à</hi> propos du cœur que Sganarelle place à droite dans un de ses amphigouris est devenue un proverbe comme celle <hi rend="i">vous êtes orfèvre</hi> de l’<hi rend="i">Amour Médecin.</hi> Rien n’est plus amusant que la scène où la belle Lucinde use trop librement de la liberté de s’exprimer qu’elle fait semblant d’avoir recouvrée, et donne à son père le regret de ne plus voir sa fille muette, lui qui s’est tant inquiété, parce qu’il la croyait privée de la parole.</p>
-        <p>Molière s’est servi du <hi rend="i">Médecin volant</hi>, de Boursault, et de son propre <hi rend="i">Médecin volant</hi>, à lui-même , pour composer son <hi rend="i">Médecin malgré lui.</hi> Le président Roze, humaniste distingué, joua un tour ingénieux à Molière, à propos de la chanson que Sganarelle adresse à sa bouteille : <hi rend="i">Qu’ils sont doux !.</hi> Le président Roze mit ces vers en latin et soutint que Molière les <pb n="56" xml:id="p56"/>avait pillés à l’antiquité. Nous citerons en regard du texte ces vers d’une très bonne latinité et qui ressemblent à une strophe d’Horace.    •</p>
+        <p>Molière s’est servi du <hi rend="i">Médecin volant</hi>, de Boursault, et de son propre <hi rend="i">Médecin volant</hi>, à lui-même , pour composer son <hi rend="i">Médecin malgré lui.</hi> Le président Roze, humaniste distingué, joua un tour ingénieux à Molière, à propos de la chanson que Sganarelle adresse à sa bouteille : <hi rend="i">Qu’ils sont doux !.</hi> Le président Roze mit ces vers en latin et soutint que Molière les <pb n="56" xml:id="p56"/>avait pillés à l’antiquité. Nous citerons en regard du texte ces vers d’une très bonne latinité et qui ressemblent à une strophe d’Horace.</p>
         <quote>
-          <l>Qu’ils sont doux,    Quam dulces,</l>
-          <l>Bouteille jolie,    Amphora amœna,</l>
-          <l>Qu’ils sont doux,    Quam dulces,</l>
-          <l>Tes petits glou-glous.     Sunt tuæ voces !</l>
-          <l>Mais mon sort ferait bien des jaloux,  Dum fundis merum in calices,</l>
-          <l>Si vous étiez toujours remplie.   Utinam sumper esses plena.</l>
-          <l>Ah ! bouteille, ma mie,          Ah ! ah ! cara mea lagena</l>
-          <l>Pourquoi vous videz-vous ?    Cur vacua jaces ?</l>
-       </quote>
+          <l>Qu’ils sont doux, Quam dulces,</l>
+          <l>Bouteille jolie, Amphora amœna,</l>
+          <l>Qu’ils sont doux, Quam dulces,</l>
+          <l>Tes petits glou-glous. Sunt tuæ voces !</l>
+          <l>Mais mon sort ferait bien des jaloux, Dum fundis merum in calices,</l>
+          <l>Si vous étiez toujours remplie. Utinam sumper esses plena.</l>
+          <l>Ah ! bouteille, ma mie, Ah ! ah ! cara mea lagena</l>
+          <l>Pourquoi vous videz-vous ? Cur vacua jaces ?</l>
+        </quote>
         <p>Qu’est devenu le temps où  les présidents étaient capables d’écrire de pareils vers. La poésie latine qui faisait les délices de nos ancêtres, se retire de plus en plus de notre éducation.</p>
         <p>La troupe que dirigeait Molière, et qui prit bientôt le nom de la troupe du roi, servait aux plaisirs de la cour, comme nous l’avons vu. Louis XIV commanda des divertissements nouveaux vers la fin de 1666 ; la mort de sa mère, arrivée au commencement de cette année, avait suspendu jusque-là toutes les fêtes. Molière, pour plaire au roi, composa les deux premiers actes de <hi rend="i">Mélicerte</hi> et la <hi rend="i">pastorale comique.</hi> Il faut avouer que cette fois Molière fut abandonné par son génie. Il voulut puiser encore à la source de <hi rend="i">Cyrus</hi> et de l’As<hi rend="i">trée</hi>, et s’aventurer sur les traces de d’Urfé, mais le peintre fidèle des mœurs n’était pas à son aise dans ce monde romanesque; il trouva pourtant des vers charmants qu’il mit dans la bouche de Myrtil. <milestone type="anecdoteStart" xml:id="moliere-jaloux-baron-melicerte"/>Le jeune Baron fit le succès de cette pastorale, et causa même de la jalousie à Mlle Molière qui eut pour lui de mauvais procédés. Plus tard, les sentiments changèrent. Ce fut au tour de Molière à être jaloux. Baron, l’homme à bonnes fortunes par excellence, si l’on en croit la chronique, n’épargna pas son bienfaiteur.<milestone type="anecdoteEnd"/> Molière se hâta de mettre dans l’ombre <hi rend="i">Mélicerte</hi> et la <hi rend="i">pastorale</hi> comique aussi <pb n="57" xml:id="p57"/>tôt que les fêtes de la cour furent terminées. Il n’était pas homme à se tromper sur leur valeur. Il n’acheva jamais <hi rend="i">Mélicerte</hi> ; Guérin fils, dont le père épousa en secondes noces la femme de Molière, finit cette pastorale héroïque, mais la muse de la comédie, plus rebelle que l’épouse du poète, ne se laissa pas surprendre : elle resta fidèle à la mémoire de ce grand homme ; elle l’a même été si obstinément depuis que les amis du théâtre déplorent cet excès de constance.</p>
         <p>Le <hi rend="i">Sicilien ou l’Amour peintre</hi> est une des jolies petites comédies de Molière. Cette pièce fut intercalée dans le <hi rend="i">Ballet des Muses</hi> de Benserade, et le roi Louis XIV ne dédaigna pas d’y jouer le rôle d’un <hi rend="i">maure de qualité.</hi> M<hi rend="sup">me</hi>Henriette d’Angleterre, Mlle de Lavallière, M<hi rend="sup">me</hi>de Rochefort, M<hi rend="sup">me</hi>de Brancas étaient transformées en <hi rend="i">mauresques de qualité.</hi> Molière représentait don Pèdre, le principal rôle.</p>
@@ -393,37 +391,38 @@
           <l>Epouser ses inquiétudes,</l>
           <l>Et parce qu’il est amoureux</l>
           <l>Il faut que nuit et jour je n’aie aucun repos.</l>
-       </quote>
+        </quote>
         <p>C’est la même cadence que dans l’<hi rend="i">Amphytrion</hi>, et il ne manque en effet que la rime à cette prose, ainsi alignée. Il est probable que Molière n’a pas eu le temps d’achever en vers cette pièce ordonnée pour les fêtes de la cour, et que pourtant il avait commencé à l’écrire de cette façon.</p>
-        <p><pb n="60" xml:id="p60"/>C’est cette pièce qui a fourni peut-être à Beaumarchais l’idée <hi rend="i">du Barbier de Séville</hi> ? La source n’est pas de ces sources inconnues que recherchent les auteurs, afin d’usurper une réputation d’originalité. Beaumarchais n’y est pas allé à la dérobée. Comme ces habiles fripons qui font leur coup en plein jour, et ne se sauvent qu’à force d’adresse et de subtilité, l’ingénieux Beaumarchais a tout simplement pillé Molière. Au <hi rend="i">Sicilien</hi> qui lui fournissait tous les caractères de sa pièce, il a joint une scène du second acte du <hi rend="i">Malade imaginaire</hi>, scène dans laquelle Cléante donne une leçon de chant à Angélique, devant son père, et soupire des paroles, extrêmement tendres, en tenant à la main un papier sur lequel <hi rend="i">il n’y a que de la musique écrite.</hi> Avec ces deux éléments, l’intrigue du <hi rend="i">Barbier de Séville</hi> a ôté composée. Combien n’a-t-il pas fallu d’esprit à Beaumarchais pour faire oublier des emprunts faits à Molière.</p>
+      	<pb n="60" xml:id="p60"/>
+        <p>C’est cette pièce qui a fourni peut-être à Beaumarchais l’idée <hi rend="i">du Barbier de Séville</hi> ? La source n’est pas de ces sources inconnues que recherchent les auteurs, afin d’usurper une réputation d’originalité. Beaumarchais n’y est pas allé à la dérobée. Comme ces habiles fripons qui font leur coup en plein jour, et ne se sauvent qu’à force d’adresse et de subtilité, l’ingénieux Beaumarchais a tout simplement pillé Molière. Au <hi rend="i">Sicilien</hi> qui lui fournissait tous les caractères de sa pièce, il a joint une scène du second acte du <hi rend="i">Malade imaginaire</hi>, scène dans laquelle Cléante donne une leçon de chant à Angélique, devant son père, et soupire des paroles, extrêmement tendres, en tenant à la main un papier sur lequel <hi rend="i">il n’y a que de la musique écrite.</hi> Avec ces deux éléments, l’intrigue du <hi rend="i">Barbier de Séville</hi> a ôté composée. Combien n’a-t-il pas fallu d’esprit à Beaumarchais pour faire oublier des emprunts faits à Molière.</p>
         <p>Ce qui a été cause, au reste, de la fortune de Beaumarchais, c’est que la création de Figaro était toute politique, si nous pouvons nous exprimer ainsi. Figaro est un impitoyable frondeur. Figaro commence à transporter sur la scène la satire du gouvernement. Ce n’est plus la peinture générale des vices et des défauts de l’espèce humaine, c’est le tableau des abus et des torts de la société, et de la société française flagellée dans la personne du noble comte Almaviva. Il y a là de l’Aristophane, ainsi, que nous l’avons expliqué plus haut ; Beaumarchais s’est approprié les situations comiques inventées par le génie de Molière. Mais comme il était mêlé aux hommes et aux choses du dix-huitième siècle, il a su revêtir ses personnages du caractère de son époque hostile aux puissants, et par ce côté, il a été profondément original. Voilà ce qui manque à nos comédies ; ce n’est pas le plagiat à coup sûr, c’est l’esprit du plagiat. Nos auteurs, faiseurs de pastiches insignifiants, ou bien nous imposant leurs fantaisies, ne savent ou ne veulent pas condenser les opinions populaires ; ils n’animent point un personnage du souffle de plusieurs <pb n="61" xml:id="p61"/>milliers d’âmes. Celui qui ne se contentera pas d’effleurer la surface de nos mœurs, et dont la main fouillera cette mine d’or, pour ainsi dire inexplorée, obtiendra un immense succès.</p>
         <p>Nous voici arrivés au second chef-d’œuvre de Molière, au <hi rend="i">Tartufe</hi>, qui partage avec le <hi rend="i">Misanthrope</hi> l’honneur du premier rang dans celte magnifique galerie des caractères laissés par l’auteur à l’admiration des siècles.</p>
         <p>Il y a au théâtre des noms qui semblent convenir tellement aux personnages, qu’on n’aurait pu s’habituer à tout autre. Cela nous paraîtrait impossible qu’ils n’eussent pas été rencontrés. Il en est de même dans la vie; nous croyons les hommes de génie et même quelquefois les simples particuliers qui nous entourent baptisés par une volonté supérieure ; nous sommes sur le point d’attribuer à l’antique destin cet accord qui existe à nos yeux entre le caractère et le nom et de dire : <hi rend="i">c’était écrit</hi> ! En amour surtout, ce phénomène est fréquent.</p>
         <p>Je vous demande en vérité si vous auriez pu vous faire au nom de <hi rend="i">Panulphe</hi>, que Molière avait d’abord eu dessein de donner à son imposteur ! Panulphe ! Qu’est-cela, je vous prie ! Ne voilà-t-il pas des syllabes bien insolentes ! De quel droit Panulphe, s’il vous plaît ? Panulphe est bon, vraiment ! Molière ne tarda pas à châtier l’audace de ce nom qui prétendait se glisser dans sa comédie ; il le traita du haut en bas ! Ce fut alors qu’il choisit <hi rend="i">Tartufe</hi> ! A la bonne heure ! C’est là un nom heureux ! un nom béat, tout confit en hypocrisie. Ne pensez pas que nous voyons actuellement ce nom de Tartufe, à travers le personnage, et que notre esprit et notre oreille soient séduits par l’habitude ! À part une valeur devenue proverbiale, ce nom porte en lui, comme tous les noms bien inspirés, qui doivent dater dans le monde, une sorte d’étymologie impressionnant en sa faveur ; Dieu nous garde de tomber dans le ridicule des <pb n="62" xml:id="p62"/>Femmes Savantes, et d’appliquer à ce mot le vers de Bélise :</p>
         <quote>
           <l>Il est vrai qu’il dit plus de choses qu’il n’est gros.</l>
-       </quote>
+        </quote>
         <p><milestone type="commentStart" corresp="#moliere-tire-nom-tartuffe-scene-chez-nonce"/>Mais nous citerons l’autorité de Molière ;<milestone type="commentEnd"/><milestone type="anecdoteStart" xml:id="moliere-tire-nom-tartuffe-scene-chez-nonce"/>une anecdote prouve qu’il a cherché longtemps une expression aussi caractéristique que celle-là ; on assure que se trouvant un jour chez le nonce du pape, avec plusieurs ecclésiastiques, au visage papelard, on apporta des truffes, et que l’un d’eux s’écria avec un air admirable de goinfrerie dévote : <hi rend="i">Tartufoli, signor Nunzio, tartufoli.</hi><milestone type="anecdoteEnd"/><milestone type="commentStart" corresp="#moliere-tire-nom-tartuffe-scene-chez-nonce"/> Il n’en fallut pas davantage au poète comique ! Cette figure morose, si subitement déridée, cette gourmandise cafarde, dévoilée à l’improviste, lui donnèrent la mesure d’un masque d’hypocrite ! Tartufe était trouvé, peut-être est-ce pour cela que Molière a fait son héros si tendre, non-seulement à la tentation du côté des femmes, mais encore aux sensualités de la bonne chère. Rappelez-vous le portrait que Dorine trace de ce <hi rend="i">pauvre homme</hi>, lorsqu’elle raconte à Orgon ce qui s’est passé dans la maison pendant son absence :</p>
         <quote>
-          <l>........... Il soupa, lui tout seul, devant elle (Elmire)</l>
+          <l>… Il soupa, lui tout seul, devant elle (Elmire)</l>
           <l>Et, fort dévotement, il mangea deux perdrix,</l>
           <l>Avec une moitié de gigot en hachis.</l>
-       </quote>
+        </quote>
         <p>Si Molière n’a pas mis les Truffes dans le repas, c’était sans doute pour éviter les personnalités ! Les truffes sont dans le mot.<milestone type="commentEnd"/></p>
-        <p><milestone type="commentStart" corresp="#moliere-peint-tartuffe-d-apres-abbe-roquette"/>On sait toutes les peines que l’auteur du <hi rend="i">Misanthrope</hi> eut à faire jouer son nouveau chef-d’œuvre ; chacun voulait s’y reconnaître. <milestone type="commentEnd"/><milestone type="anecdoteStart" xml:id="moliere-peint-tartuffe-d-apres-abbe-roquette"/>On prétend qu’une aventure pareille à celle qu’il a mise dans sa comédie se passa chez la duchesse de Longueville, entre cette galante princesse et l’abbé de La Roquette.<milestone type="anecdoteEnd"/> Au reste, tout le clergé cria au scandale, bien que Tartufe ne <pb n="63" xml:id="p63"/>soit pas un abbé, puisqu’Orgon veut lui donner sa fille en mariage ; mais on n’ignorait pas l’intention première de Molière; lui-même a pris soin, comme il le dit assez naïvement au roi dans un placet, de <hi rend="i">déguiser</hi> le personnage sous l’ajustement d’un homme du monde. Les abbés clairvoyants ne s’y trompaient pas ; ils avaient alors les honneurs, la puissance; ils étaient attaqués d’une façon détournée dans leurs intérêts... Pouvaient-ils pardonner ! IL fallait que Molière comptât bien sur le roi, pour lui faire l’aveu contenu dans son placet, confidence qui a l’air d’être faite de pair à compagnon. <quote>« J’ai eu beau donner à mon imposteur, dit-il, un petit chapeau, de grands cheveux, un grand collet, une épée et des dentelles sur tout l’habit ; mettre en plusieurs endroits des adoucisse-mens, et retrancher avec soin tout ce que j’ai jugé capable de fournir l’ombre d’un prétexte aux célèbres originaux du portrait que je voulais faire, tout cela n’a de rien servi. »</quote> On pouvait alors parler ainsi à Louis XIV,  il était jeune, amoureux et puissant ; sa vie était ouverte et brillante. Mais lorsque l’hypocrisie en personne s’approcha de lui, sous les traits de madame de Maintenon, et gouverna ses facultés vieillies, il n’eût pas fallu que Molière demandât autorisation pour faire jouer son <hi rend="i">Tartufe</hi>,</p>
+        <p><milestone type="commentStart" corresp="#moliere-peint-tartuffe-d-apres-abbe-roquette"/>On sait toutes les peines que l’auteur du <hi rend="i">Misanthrope</hi> eut à faire jouer son nouveau chef-d’œuvre ; chacun voulait s’y reconnaître. <milestone type="commentEnd"/><milestone type="anecdoteStart" xml:id="moliere-peint-tartuffe-d-apres-abbe-roquette"/>On prétend qu’une aventure pareille à celle qu’il a mise dans sa comédie se passa chez la duchesse de Longueville, entre cette galante princesse et l’abbé de La Roquette.<milestone type="anecdoteEnd"/> Au reste, tout le clergé cria au scandale, bien que Tartufe ne <pb n="63" xml:id="p63"/>soit pas un abbé, puisqu’Orgon veut lui donner sa fille en mariage ; mais on n’ignorait pas l’intention première de Molière; lui-même a pris soin, comme il le dit assez naïvement au roi dans un placet, de <hi rend="i">déguiser</hi> le personnage sous l’ajustement d’un homme du monde. Les abbés clairvoyants ne s’y trompaient pas ; ils avaient alors les honneurs, la puissance; ils étaient attaqués d’une façon détournée dans leurs intérêts… Pouvaient-ils pardonner ! IL fallait que Molière comptât bien sur le roi, pour lui faire l’aveu contenu dans son placet, confidence qui a l’air d’être faite de pair à compagnon. <quote>« J’ai eu beau donner à mon imposteur, dit-il, un petit chapeau, de grands cheveux, un grand collet, une épée et des dentelles sur tout l’habit ; mettre en plusieurs endroits des adoucisse-mens, et retrancher avec soin tout ce que j’ai jugé capable de fournir l’ombre d’un prétexte aux célèbres originaux du portrait que je voulais faire, tout cela n’a de rien servi. »</quote> On pouvait alors parler ainsi à Louis XIV,  il était jeune, amoureux et puissant ; sa vie était ouverte et brillante. Mais lorsque l’hypocrisie en personne s’approcha de lui, sous les traits de madame de Maintenon, et gouverna ses facultés vieillies, il n’eût pas fallu que Molière demandât autorisation pour faire jouer son <hi rend="i">Tartufe</hi>,</p>
         <p>Malgré cette haute et forte satire, ce que Molière avait pressenti arriva. Les faux semblants de dévotion eurent le dessus ; le roi se laissa embégniner, et la révocation de l’édit de Nantes fut la suite de cet engouement fanatique. Une vieille femme dont les charmes usés étaient obligés d’avoir recours à un extérieur de religion pour maintenir son autorité sur son amant, prévalut contre le génie et l’autorité de Molière.</p>
         <p>On ne se lassera jamais d’admirer le <hi rend="i">Tartufe</hi>, cet honneur impérissable de la scène française. L’intrigue, savamment combinée est pleine d’intérêt, depuis l’exposition, si vive et si théâtrale, jusqu’au dénouement, l’un des plus adroits et des plus <pb n="64" xml:id="p64"/>heureux du monde. Le seul reproche qu’on puisse faire à ce dénouement, c’est d’être compliqué d’une certaine cassette dont il n’a été que fort peu question, et qui donne matière à Tartufe d’accuser Orgon près du roi. Cette cassette ne joue pas un rôle assez actif dans les premiers actes ; mais aucun autre dénouement n’était possible; celui-là avait, de plus, le mérite d’être un passeport à la comédie de Molière. Avec quelle adresse Louis XIV s’y trouve flatté ! Quel prince, ainsi loué, n’aurait pas pris la responsabilité d’un ouvrage plus dangereux encore ! Comme on se sent noblement ému lorsque l’exempt, ce personnage si peu attendu, répond à Tartufe, qui lui demande le motif pour lequel on veut l’emprisonner :</p>
         <quote>
           <l>Ce n’est pas vous à qui j’en veux rendre raison !</l>
-       </quote>
+        </quote>
         <p>Quelle dignité dans cette réponse ! Voilà un homme qui, tout d’un coup, devient un personnage. Cet honnête homme est bien sûr d’être écouté, quand il fera son récit. On n’a jamais poussé le naturel des caractères plus loin que dans cette pièce achevée; tous les portraits sont frappants de vérité, depuis madame Pernelle, cette vieille grand-mère, discoureuse intempestive comme toutes les grand-mères, jusqu’à M. Loyal, ce type des huissiers; Tartufe, ainsi qu’on l’a remarqué, véritable hypocrite, à moins qu’il ne soit emporté par sa convoitise d’Elmire, ne se livre jamais, pas même au public ; il ne se permet pas un à parte ; il y a plus, c’est qu’il en est venu à croire en son hypocrisie, comme les menteurs dans leurs mensonges ; ainsi, lorsqu’au quatrième acte sa concupiscence est découverte par Orgon, il reprend son manteau d’hypocrisie, il osé encore parler de la vengeance du ciel.</p>
         <p>Deux des plus délicieux caractères de femmes que Molière ait dépeints se trouvent dans cette comédie.</p>
         <p>Elmire est la femme sage sans pruderie, qui sait se défendre et se faire respecter sans simagrées de vertus, sans fermer <pb n="65" xml:id="p65"/>l’oreille aux propos du monde, parce qu’il peut s’y glisser des choses d’amour. Elmire est la plus honnête femme qui ait été imaginée par un poète. Mariée à un imbécile, elle est néanmoins fidèle à son mari; elle se défend contre les entreprises galantes comme une mère de famille doit le faire, sans scandale et sans bruit. Prise dans la réalité, elle s’idéalise par la pureté de son âme et par le sentiment du devoir porté jusqu’à l’abnégation d’elle-même, ce qui constitue la plus vraie et la plus belle des poésies. Il y a bien des soupirs refoulés dans le sein d’Elmire. Comme elle a dû souffrir de la petitesse d’esprit de son époux et de la mauvaise humeur de sa vieille et bavarde belle-mère, elle qui est si haute d’intelligence et de cœur. Elle a concentré les affections sur les enfants de son mari, jeunes gens bien élevés qu’elle aime comme si elle était leur mère. Elle dissimule devant eux les tortures qu’elle éprouve chaque jour : quelquefois seulement elle s’en plaint à son beau-frère, le plus raisonnable et le meilleur conseiller des hommes, mais autant qu’elle peut, comme un propice arc-en-ciel, elle apaise les orages de la famille Dorine, qui n’a pas la même modération que sa maîtresse, se voit forcée de se taire en sa présence, et pour causer à son aise, se rejette sur Orgon qui la tolère par habitude, et parce qu’il n’est pas fâché d’avoir quelqu’un là au besoin pour se mettre en colère et faire du fracas dans la maison, comme tous les sots : il prouve ainsi qu’il est le maître.</p>
         <p>Molière a creusé le rôle d’Elmire dans ses moindres détails. C’est un rôle plutôt passif qu’actif, et par conséquent d’une grande difficulté pour l’actrice qui en est chargée. Il faut, pour le rendre exactement, une profonde étude de physionomie. Elmire, en effet, est souvent muette, et ses traits parlent seuls. Dans la longue et première scène de la pièce, elle dit à peine quelques mots, mais elle n’en impose pas moins à son beau-fils, à sa belle-fille, à sa servante, le <pb n="66" xml:id="p66"/>respect qui lui est dû ; un regard, un mouvement de lèvres arrêtent, l’expression d’une parole trop vive de leur part. Dans la scène de la déclaration de Tartufe, elle est contrainte de garder le silence sur les émotions de son cœur ; mais elle ne peut manquer de faire voir au spectateur le mépris que lui inspire un pareil amour.</p>
         <p>Quand Elmire est poussée à bout par Tartufe qui veut des réalités pour convaincre son âme, alors qu’Orgon, stupéfait, ne se presse pas de sortir de la cache où il est, elle tousse à plusieurs reprises pour avertir son mari de ne pas laisser aller plus loin l’affaire, et répond à Tartufe, qui lui demande si elle souffre.</p>
         <quote>
-          <l>……Oui, je suis au supplice.</l>
-       </quote>
+          <l>… Oui, je suis au supplice.</l>
+        </quote>
         <p>Il faut que l’actrice exprime merveilleusement le sentiment de répulsion qu’Elmire éprouve. Tant de grâce et d’élégance ont peur d’être froissées par des mains si rudes. Et puis, comme elle a honte de son subterfuge, cette digne créature lorsque Tartufe est pris au piège de sa propre convoitise.</p>
         <p>Marianne est une jeune fille bien élevée, dont la pudeur ne s’offense pas des libertés de sa suivante, parce qu’elles ne peuvent rien sur sa candeur, et que ces libertés d’ailleurs partent d’une honnête personne ; la tendresse de Marianne pour Valère s’exhale avec, un charme exquis comme le pur parfum d’une fleur fraîchement épanouie. Il n’existe, sur aucun théâtre, une scène plus ravissante que celle qui a lieu entre les deux jeunes gens si décemment épris l’un de l’autre. Jamais les brouilles et les raccommodements de l’amour délicat n’ont été retracés avec une plus adorable expression.</p>
         <p>Nous avons fait remarquer, à plusieurs reprises, comment Alceste ne sappe qu’avec précaution l’organisation vicieuse du gouvernement de Louis XIV. Dans <hi rend="i">Tartufe</hi>, la pensée est plus précise; elle se formule par une tirade directe contre les hypocrites et les dévots stupides qui devaient flétrir la fin d’un <pb n="67" xml:id="p67"/>règne si brillant à son aurore, amener la révocation de VE-dit de Nantes, et transformer le sceptre de Louis XIV en quenouille de madame de Maintenon.</p>
@@ -434,14 +433,12 @@
         <p>La sainteté du mariage était mieux observée dans l’antiquité que chez les nations actuelles. Les tribunaux de Rome demeurèrent cinq cents ans sans connaître du crime d’adultère; je ne sache pas qu’il se passe un mois en France sans que de pareilles plaintes retentissent, et l’on sait que bien peu de personnes en viennent à la fâcheuse extrémité d’une séparation illusoire, le divorce étant rejeté par notre législation. Si tout le monde d’ailleurs prenait ce parti désespéré, le cours ordinaire de la justice serait probablement arrêté.</p>
         <p><pb n="68" xml:id="p68"/>L’amphytrion de Plaute, auquel Molière a emprunté presque toute sa comédie, renferme sur les femmes des lignes que les anciens inscrivaient sans doute en lettres d’or sur le seuil de leur gynécée. On doit se rappeler que Plaute fait agir des personnages grecs, mais il y avait entre les mœurs grecques et les mœurs latines une grande ressemblance. La meilleure preuve en est que les comédies de Plaute et de Térence, souvent traduites littéralement d’Aristophane, de Ménandre, de Dyphile et de beaucoup d’autres auteurs dont les ouvrages ne nous sont point parvenus, n’en plaisaient pas moins aux spectateurs romains qui s’y reconnaissaient. Il n’y avait que les noms de changés.</p>
         <p>Voici la manière dont Alcmène se défend dans Plaute :</p>
-        <label>ALCMÈNE.</label>
-        <quote>
-          <p>« Ce que l’on appelle dot, les biens de la fortune, ne sont rien à mes yeux. Le plus riche apanage d’une femme, c’est la chasteté, la pudeur, l’empire qu’elle a sur ses passions, la crainte des dieux, l’amour envers l’auteur de ses jours : c’est enfin l’union qu’elle conserve dans sa famille. Pour moi, je n’ai cessé de vous être soumise, et je ressens toujours un nouveau plaisir à rendre service aux gens de bien, à leur être utile.</p>
-       </quote>
-        <label>SOSIE.</label>
-        <quote>
-          <p><quote>Ma foi, si cette femme parle avec sincérité, c’est le modèle des femmes. »</quote> </p>
-       </quote>
+      	<quote>
+      		<label>ALCMÈNE.</label>
+      		<p>Ce que l’on appelle dot, les biens de la fortune, ne sont rien à mes yeux. Le plus riche apanage d’une femme, c’est la chasteté, la pudeur, l’empire qu’elle a sur ses passions, la crainte des dieux, l’amour envers l’auteur de ses jours : c’est enfin l’union qu’elle conserve dans sa famille. Pour moi, je n’ai cessé de vous être soumise, et je ressens toujours un nouveau plaisir à rendre service aux gens de bien, à leur être utile.</p>
+      		<label>SOSIE.</label>
+      		<p>Ma foi, si cette femme parle avec sincérité, c’est le modèle des femmes.</p>
+      	</quote>
         <p>Sosie a raison ; et l’on ne peut en moins de lignes tracer un sommaire plus exact des devoirs d’une honnête femme. Les maximes <hi rend="i">d’Arnolphe</hi> ne sont que des bagatelles auprès de celles-là.</p>
         <p><hi rend="i">L’Amphytrion</hi> français est de beaucoup supérieur au latin par l’exécution, mais le personnage de Cléanthis excepté, tout Plaute a passé chez Molière. C’est la plus complète des imitations de notre grand comique, qui ne se gênait pas plus <pb n="69" xml:id="p69"/><pb/>avec les morts qu’avec les vivants. Il existe au dénouement une différence notable. L’amphytrion de Plaute est enchanté de l’honneur que lui a fait Jupiter, en daignant rendre sa femme mère d’Hercule ; les dieux païens avaient un reste de crédit du temps de Plaute ; on ne se moquait pas d’eux ouvertement comme du temps de Pétrone, par exemple, et l’Amphytrion que l’on jouait aux fêtes de Jupiter, témoignait du respect absolu que l’on devait aux volontés des dieux, quoiqu’ils, pussent ordonner. L’Amphytrion de Molière n’avait pas les mêmes respects à conserver ; aussi n’est-il pas plus content qu’il ne faut. Le seigneur Jupiter lui <hi rend="i">dore la pilule</hi> avec grâce, mais il a de la peine à la diriger. On sent sous le masque de ce Jupiter le roi Louis XIV dans tout son éclat ; et l’Amphytrion est devenu un des époux de sa cour galante, obligé de tolérer ce qu’il ne peut empêcher.</p>
         <p>Tous les poètes comiques depuis Aristophane jusqu’à Molière, tous les satiriques, depuis Lucien jusqu’à Boileau, ont médit des femmes; et les poètes tragiques eux-mêmes qui leur sont plus favorables, ne les ont guère ménagées néanmoins. Euripide commence une de ses tragédies par une longue tirade contre elles, et le grand Shakespeare s’écrie: <hi rend="i">Frailty, thy name is woman.</hi> Fragilité ! ton nom est la femme ! Pétrone, dans son histoire de la <hi rend="i">Matrone d’Ephèse</hi>, a fait la plus vive et la plus charmante critique de leur inconstance et de leur facilité à se consoler de la perte d’un époux. Il est certain que presque toutes les veuves se remarient ; seulement au lieu de cinq jours comme Pétrone, la loi sage et prévoyante a exigé une année. Ne trouvant pas ce conte ingénieux suffisant, l’auteur du Satiricon, redouble ailleurs ses attaques contre les femmes. C’est lui qui a écrit ces lignes offensantes : <quote>« Qu’est-ce que les femmes ! elles sont de la nature du milan. Leur faire du bien, c’est comme si on jetait son argent dans un puits. Une ancienne passion devient pour elles une prison insupportable. »</quote> <pb n="70" xml:id="p70"/>Voilà ce que pense des dames de son temps l’homme que Tacite appelle l’arbitre du goût. Pour l’honneur des dames romaines, il faut ajouter qu’il est beaucoup plus question de courtisanes que de femmes mariées dans les œuvres des écrivains grecs et latins. A la cour de Néron, du reste, où Pétrone fut, à ce que l’on croit, surintendant des plaisirs du prince, les souvenirs de Messaline (je n’ose rappeler les expressions dont Tacite l’a flétrie) influaient sur les mœurs que devait régénérer bientôt le spiritualisme chrétien. C’est l’époque la plus corrompue de la décadence romaine, et malgré la grâce du style, on ne peut lire sans dégoût les peintures qui nous en ont été laissées. Je n’aurais pas conseillé à l’Alcmène de Plaute de se présenter à côté de la Quartilla de Pétrone, qui ne se souvenait pas de sa virginité, et Amphytrion, dont le nom a passé en proverbe, aurait fait triste figure près du seigneur Trimalchion.</p>
@@ -449,12 +446,12 @@
         <p><hi rend="i">L’Avare</hi> fut également emprunté à Plaute ; Molière mit non-seulement le poète latin à contribution, mais encore plusieurs autres auteurs. C’est peut-être celle de ses pièces dans l il a fait entrer le plus d’éléments connus, et pourtant elle possède une véritable originalité. Toutes les couleurs étrangères se sont admirablement fondues sous sa main.  <pb n="71" xml:id="p71"/><hi rend="i">L’Aululaire</hi>, de Plaute, est, à n’en point douter, la base sur laquelle Molière a construit son édifice. La marmite pleine d’or du vieil Euclion a donné l’idée de la cassette d’Harpagon. Le nom d’Harpagon lui-même est emprunté à Plaute. La fameuse scène de la cassette enlevée et le quiproquo de l’avare et de l’amant appartiennent encore au poète latin. Molière s’est servi aussi de beaucoup de choses de détail ; l’avare qui demande à voir la troisième main de son valet, est un trait d’Euclion. Ce caractère a été merveilleusement développé par l’auteur latin. À part quelques images un peu forcées, Plaute emploie le style le plus incisif et le plus vrai. Euclion est tellement ébloui par son trésor, qu’en sortant de chez lui il recommande à une de ses esclaves, Straphila, de ne laisser entrer personne chez lui, pas même la fortune si elle se présente :</p>
         <quote>
           <l>Si bona fortuna veniat, ne intromiseris.</l>
-       </quote>
+        </quote>
         <p>Peut-on pousser l’aveuglement de l’avarice plus loin. L’avare de Plaute a le tort de se corriger à la fin et de faillir à l’unité de caractère ; on dirait que le poète, pour faire un compliment à son public, a dénaturé sa comédie, en la traitant comme une fable sans, conséquence. Molière s’est bien gardé de tomber dans ce défaut.</p>
         <p>La belle scène où le fils prodigue se trouve en face du père usurier, est imitée de la <hi rend="i">Belle Plaideuse</hi>, de l’abbé Bois-Robert, mais il n’est guère besoin de dire de combien l’imitation est préférable à la scène originale. Molière, dans cette pièce, a creusé jusqu’au fond les faiblesses du cœur humain. Il a dévoilé, dans cet intérieur de famille, les désordres auxquels les vices des pères entraînent les enfants, et c’est avec peine que l’on voit encore Rousseau, toujours retranché dans la misanthropie, se refuser à comprendre cette morale. Rousseau s’offense, parce que Valère répond à son père qui lui donne la <pb n="72" xml:id="p72"/>malédiction : <quote>« Je n’ai que faire de vos dons.</quote> » Mais cette insolence du fils est motivée par la conduite du père. Valère ne nous est pas présenté comme un modèle à suivre, mais comme un exemple de la mauvaise éducation que les fils de pères comme Harpagon, doivent naturellement recevoir. Une chose curieuse et parfaitement observée dans les comédies de Molière, c’est que les pères et les fils, les valets et les maîtres, se querellent avec violence, et que, quelques minutes après, tout le monde reparaît avec la même familiarité qu’auparavant. N’est-ce pas là ce qui se passe dans la vie ordinaire ! quelle est la famille où les grands orages ne viennent à gronder et ne se dissipent avec une semblable rapidité.</p>
         <p><milestone type="commentStart" corresp="#echec-avare-attribue-a-prose"/>La prose nous paraît mieux convenir à la comédie de l’Avare que n’eussent fait les vers; elle s’adapte plus étroitement à tous les détails de la vie ordinaire, et Molière, qui possédait un tact si sûr, ne craignît pas de lutter avec le goût d’un public ami des vers. <milestone type="commentEnd"/><milestone type="anecdoteStart" xml:id="echec-avare-attribue-a-prose"/>On prétend que l’Avare en souffrit et qu’il n’eut que très peu de succès dans sa nouveauté !<milestone type="anecdoteEnd"/> Plusieurs jeux de scène consacrés par la tradition, ne manquent jamais d’égayer les représentations de l’Avare. Nous en avons vu une marquée par un petit incident qui prouve que les spectateurs devraient souvent mettre un peu de réserve dans leur jugement et ne se permettre de signes d’improbation qu’à bon escient. Un débarqué de province assurément, ignorant que maître Jacques a l’habitude d’allumer dans la poche même d’Harpagon la bougie que l’avare vient de dérober afin d’en économiser les restes, s’avisa de siffler cette charge, excellente d’ailleurs. L’acteur qui jouait le rôle de maître Jacques, aurait pu, ainsi que Dazincourt, dans une occasion pareille, s’avancer vers la rampe et dire : <quote>« Messieurs, lorsque Préville jouait ce rôle, il faisait ce que je viens de faire, et il était applaudi par tout ce qu’il y avait de mieux en France ! »</quote></p>
         <p>L’Avare fut suivi de <hi rend="i">Georges Dandin</hi>, pièce jouée pour la <pb n="73" xml:id="p73"/>première en 1668, à Versailles, dans une fête donnée par Louis XIV.</p>
-        <p>La pièce de <hi rend="i">George Dandin</hi> est une des meilleures leçons qu’on ait jamais données à la sottise orgueilleuse des gens qui recherchent une alliance déplacée, et surtout à l’imprudence de ceux qui épousent une fille sans consulter son cœur. Nous avons eu occasion de remarquer que le mariage étant une des choses les plus importantes de la vie, il serait bon d’y regarder de près, et que par une bizarrerie incroyable, la plupart des hommes donnent plus de soin à des bagatelles fugitives, qu’à cette indissoluble convention dans laquelle pourtant ils mettent leur honneur. Certaines personnes timorées ont pensé que les railleries jetées sans cesse par la comédie à la tête des maris trompés, dégradait l’institution du mariage. Nous ayons déjà répondu à cette accusation. Il n’y a pas d’autre contrepoids à la cupidité qui préside si souvent au choix d’une femme. Ces sarcasmes mis dans un des plateaux de la balance, l’emportent quelquefois sur le caprice et l’amour-propre, et empêchent un homme de compromettre, dans une union mal assortie, le bonheur d’une existence entière. La comédie est donc dans son droit, ainsi que le monde, en se moquant des disgrâces des époux, et les plaisanteries dont ces quelques esprits délicats s’offensent, n’en possèdent pas moins .une très haute valeur morale, elles ne cesseront même pas d’amuser tant qu’il y aura des maris trompés..., c’est-à-dire toujours... En France surtout, le pays classique dans ce genre, parce que c’est le pays où les intérêts du cœur sont le plus fréquemment sacrifiés aux intérêts de fortune ou de vanité.</p>
+        <p>La pièce de <hi rend="i">George Dandin</hi> est une des meilleures leçons qu’on ait jamais données à la sottise orgueilleuse des gens qui recherchent une alliance déplacée, et surtout à l’imprudence de ceux qui épousent une fille sans consulter son cœur. Nous avons eu occasion de remarquer que le mariage étant une des choses les plus importantes de la vie, il serait bon d’y regarder de près, et que par une bizarrerie incroyable, la plupart des hommes donnent plus de soin à des bagatelles fugitives, qu’à cette indissoluble convention dans laquelle pourtant ils mettent leur honneur. Certaines personnes timorées ont pensé que les railleries jetées sans cesse par la comédie à la tête des maris trompés, dégradait l’institution du mariage. Nous ayons déjà répondu à cette accusation. Il n’y a pas d’autre contrepoids à la cupidité qui préside si souvent au choix d’une femme. Ces sarcasmes mis dans un des plateaux de la balance, l’emportent quelquefois sur le caprice et l’amour-propre, et empêchent un homme de compromettre, dans une union mal assortie, le bonheur d’une existence entière. La comédie est donc dans son droit, ainsi que le monde, en se moquant des disgrâces des époux, et les plaisanteries dont ces quelques esprits délicats s’offensent, n’en possèdent pas moins .une très haute valeur morale, elles ne cesseront même pas d’amuser tant qu’il y aura des maris trompés…, c’est-à-dire toujours… En France surtout, le pays classique dans ce genre, parce que c’est le pays où les intérêts du cœur sont le plus fréquemment sacrifiés aux intérêts de fortune ou de vanité.</p>
         <p>Cette comédie de <hi rend="i">George Dandin</hi>, la plus attaquable en apparence, et la plus attaquée des comédies de Molière, du côté de la morale, trouve donc sa défense, je dirai même son apologie, dans la leçon parfaite qu’elle donne aux niais pour qui le mariage est une spéculation. Je ne vois pas pourquoi on <pb n="74" xml:id="p74"/>respecterait des gens qui ont manqué à la sainteté de celte institution ; ils méritent d’être punis, et la comédie qui en fait justice accomplit une œuvre honnête et juste. Laissez-nous donc rire du malheur des Georges Dandin du théâtre et du monde. Cela sert la morale, au lieu de la blesser, et nous donne un peu de bon temps ; le rire est si rare de nos jours !</p>
         <p>Molière a tiré sa comédie de deux nouvelles de Boccace, qu’il a réunies assez nonchalamment. Son intrigue est toujours comique, mais elle ne s’enchaîne pas avec une rigueur absolue. Il arrive souvent qu’à la fin du second acte les dames prennent leurs chapeaux, les hommes se lèvent, les portes des loges s’ouvrent, et grand est l’étonnement du public, peu familiarisé avec Molière, de voir commencer un troisième acte, qui, plein de gaîté et de comique, n’est jamais regretté par personne.</p>
         <p>Molière, non content d’avoir représenté un homme qu’on fait médecin malgré lui, résolut de prendre le contre-pied de cette donnée comique, et de montrer un homme bien portant livré à des médecins qui veulent le traiter en malade. M. de Pourceaugnac fut cet homme, espèce de polichinelle rattaché par Molière au fil de la comédie. Cette farce est amusante; l’on y rit de bon cœur, bien que d’un rire quelquefois déshonnête, en voyant ce bon Limousin venir pour se marier à Paris , et puis s’en retourner dans sa ville, bafoué, mystifié, avec une crainte horrible d’être toujours poursuivi par une troupe de garçons apothicaire, armés des instruments de leur profession. Cependant cette pièce ainsi que celle des <hi rend="i">Fourberies de Scapin</hi> dont il sera question tout à l’heure, n’offre pas une morale aussi bien arrêtée que les autres ; on dirait deux arabesques inspirées par la fantaisie et dont l’auteur a orné le fronton et les portiques du temple immortel de la raison. M. de Pourceaugnac fut représenté pour la première fois le 6 octobre 1669, au château de Chambord, <pb n="75" xml:id="p75"/>devant toute la cour ; cette société choisie trouva les aventures du Limousin fort de son goût, malgré la procession des seringues. La susceptibilité de nos belles dames s’offense actuellement de ces plaisanteries, mais nos belles dames ne trouvent rien à redire au viol d’Antony.</p>
@@ -462,7 +459,7 @@
         <quote>
           <l>Dis-nous, fameux Mignard, par qui te sont versées,</l>
           <l>Les charmantes beautés de tes nobles pensées ?</l>
-       </quote>
+        </quote>
         <p>Mais son génie a éclaté, surtout lorsqu’il s’est agi de recommander honorablement aux bienfaits de Colbert, le grand peintre trop occupé de son art, et trop fier pour mendier des faveurs. Ces vers, empreints de tant de dignité, devraient à jamais être inscrits sur le fronton du ministère des beaux-arts.</p>
         <quote>
           <l>Les grands hommes, Colbert, sont mauvais courtisans,</l>
@@ -471,12 +468,12 @@
           <l>Et ce n’est que par-là qu’ils se perfectionnent.</l>
           <l>L’étude et la visite ont leurs talents à part.</l>
           <l>Qui se donne à la cour, se dérobe à son art.</l>
-       </quote>
+        </quote>
         <p>Voilà comme on parle aux Colbert !</p>
         <p><milestone type="commentStart" corresp="#roi-donne-sujet-amants-magnifiques"/>Les <hi rend="i">Amans Magnifiques</hi> furent aussi composés pour la cour. Mais nous avons vu que Molière ne réussissait qu’à demi dans <pb n="76" xml:id="p76"/>ce genre de pastorale héroïque, que le roi réclamait quelquefois. <milestone type="commentEnd"/><milestone type="anecdoteStart" xml:id="roi-donne-sujet-amants-magnifiques"/>Il indiqua lui-même à Molière le sujet de cette pièce.<milestone type="anecdoteEnd"/><milestone type="commentStart" corresp="#roi-donne-sujet-amants-magnifiques"/> Louis XIV, qui ne dédaignait pas de faire asseoir le poète à sa table, afin d’apprendre à vivre à ses officiers, ne crut pas déroger non plus en devenant son collaborateur. Cette conduite sensée de Louis XIV rachète beaucoup de fautes que l’orgueil lui fit commettre.<milestone type="commentEnd"/><milestone type="commentStart" corresp="#moliere-fait-allusion-amours-mademoiselle"/> Les <hi rend="i">Amants Magnifiques</hi> n’en furent pas meilleurs, il faut bien l’avouer ; c’est une pâle production, un peu forcément égayée par un rôle de fou, comme l’est la <hi rend="i">Princesse d’Elide</hi>, qui vaut mieux. <milestone type="commentEnd"/><milestone type="anecdoteStart" xml:id="moliere-fait-allusion-amours-mademoiselle"/>Il s’agit d’un jeune guerrier de condition obscure, qui gagne le cœur d’une grande princesse, et l’on prétend que Molière fit allusion aux amours de Mademoiselle pour Lauzun.<milestone type="anecdoteEnd"/><milestone type="commentStart" corresp="#moliere-fait-allusion-amours-mademoiselle"/> C’était, de la part de Molière, un assez mauvais tour joué à son puissant collaborateur, puisqu’après des hésitations, Louis XIV s’opposa formellement au mariage de Lauzun, et fit emprisonner le fier et fougueux prétendant.<milestone type="commentEnd"/> Molière, dans cette pièce, attaque vivement l’astrologie judiciaire, qui était encore en vogue de son temps. On trouve dans cette comédie une imitation agréable de l’ode d’Horace <hi rend="i">donec gratus eram.</hi> Les <hi rend="i">Amans Magnifiques</hi> furent représentés devant le roi, à Saint-Germain-en-Laye, en 1670.</p>
         <quote>
           <l>Quel abus de quitter le vrai non de ses pères !</l>
-       </quote>
+        </quote>
         <p>S’écrie le sage Chrisalde de l’<hi rend="i">Ecole des Femmes.</hi> Molière, dès alors, frappé des prétentions à la noblesse, manifestées par un grand nombre de bourgeois, commençait à attaquer ce ridicule si commun de son temps, et même du nôtre, où les titres ont beaucoup perdu de leur valeur. Dans la comédie de <hi rend="i">George Dandin</hi>, il se moqua, ainsi que nous l’avons vu des imbéciles qui, au lieu de prendre une femme de leur condition, épousaient des demoiselles de qualité dont leur soumission n’obtenait que du mépris. Il a voulu, en composant le <hi rend="i">Bourgeois Gentilhomme</hi>, donner une leçon aux <pb n="77" xml:id="p77"/>roturiers qui servaient de jouet et de dupe aux grands seigneurs, lesquels consentaient quelquefois, comme Moncade, à <hi rend="i">s’encanailler</hi> pour rétablir leur fortune endommagée, ou, comme Dorante, se faisaient un revenu des prodigalités insensées de leurs niais imitateurs. Molière eut raison de stigmatiser ceux qui prétendaient sortir de leur rang, non pas par un juste orgueil, mais par une sotte vanité : espèce d’hermaphrodites n’appartenant à aucune classe.  En ce temps, il y avait la ville et la cour, deux pays voisins, mais de mœurs différentes, et ordinairement à l’état d’hostilité ! De chaque côté, on se faisait une guerre de maraudeurs; les bourgeois, s’enrichissaient par le petit commerce, aux dépens de leurs illustres et insouciantes pratiques ; les gentilshommes compensaient le déficit ouvert dans leur fortune par les extorsions des marchands, en plumant sans scrupule les oisons de l’espèce de M. Jourdain, qui leur tombaient entre les mains.</p>
         <p>Le <hi rend="i">Bourgeois gentilhomme</hi>, qu’on a considéré comme une farce, à cause de la réception grotesque du <hi rend="i">Mamamouchi</hi>, n’en est pas moins une excellente comédie, égale aux autres chefs-d’œuvre de Molière. On ne trouve nulle part un comique plus abondant. M. Jourdain, entouré de ses divers maîtres, intéressés , à faire valoir leur art, et mettant sa robe de chambre pour mieux entendre un air, est le personnage le plus amusant du monde ; de quelle empreinte profonde le génie de Molière a su caractériser cette Nicole, dont le rire est si franc, servante qui ne le cède en rien à Martine, non plus qu’à Dorine et quelle admirable figure que celle de M<hi rend="sup">me</hi>Jourdain, dont le bon sens emprunte une sagesse éternelle à la femme de Sancho Pança. Cette comédie, jouée à Chambord devant le roi le 14 octobre 1670, n’eût de succès qu’à la seconde représentation, parce que le roi ne s’était pas prononcé dès la première. Tous les courtisans, qui s’étaient raillés de Molière dans l’intervalle, le félicitèrent à qui mieux mieux dans la suite, voilà les courtisans ! <pb n="78" xml:id="p78"/>Ce serait une grande absurdité, surtout dans le temps où nous vivons, de prendre à la lettre les plaisanteries de Molière, et de prétendre que chacun doit rester invariablement sur le degré de l’échelle sociale où il est né; de même que le plus inconnu de nos soldats porte suivant une expression vulgaire consacrée par la victoire, un bâton de maréchal dans sa giberne ; de même, il n’est pas si mince avocat, si petit financier, si obscur journaliste, qui ne puisse avoir la noble ambition de devenir influent dans les affaires de son pays et de monter au sommet des honneurs. Cela s’est vu aussi, cela peut se voir encore, et nul n’a le droit de s’en plaindre ; c’est la loi de l’intelligence qui est faite pour dominer ce monde, et dont Molière, plus que personne, a hâté le progrès. N’était-il pas lui-même un exemple frappant du pouvoir moral de la capacité, lui qui, fils d’un tapissier, vivait dans l’intimité du monarque le plus orgueilleux et le plus absolu de la terre.</p>
         <p>Dans <hi rend="i">Don Juan</hi>, Molière avait commencé à poursuivre sérieusement la noblesse oisive, vaniteuse, libertine, attaquée déjà dans l’<hi rend="i">Impromptu de Versailles ;</hi> dans <hi rend="i">le Bourgeois gentilhomme</hi>, et plus tard encore, dans <hi rend="i">la Comtesse d’Escarbagnas</hi>, il devait frapper cette noblesse plus fortement encore. Tout en se moquant des travers de la bourgeoisie, il montrait une grande prédilection pour cette classe à laquelle il appartenait, il contribuait puissamment à son émancipation. Molière s’est servi souvent du mot de <hi rend="i">caution bourgeoise</hi>, pour caution solvable, et l’on comprend que c’était voir dans la bourgeoisie la probité du temps. La bourgeoisie s’est perdue, comme la noblesse, par la vanité, le luxe et les plaisirs, et l’avènement du peuple a commencé. Ainsi marchent les sociétés.</p>
@@ -493,13 +490,13 @@
           <l>Et sitôt que vous soupirez,</l>
           <l>Je ne sais quoi qui m’effarouche,</l>
           <l>Craint parmi vos soupirs, ces soupirs égarés.</l>
-       </quote>
+        </quote>
         <p>Corneille avait soixante-cinq ans lorsqu’il écrivit ces tendres vers. Apulée est le premier qui ait raconté dans son roman de l’<hi rend="i">Ane d’or</hi> la délicieuse fable de <hi rend="i">Psyché</hi> et de <hi rend="i">Cupidon</hi>, dans laquelle les philosophes ont voulu voir un mystère religieux, et qui n’est qu’une ravissante allégorie des tourments que peut causer la curiosité soupçonneuse, défaut ordinaire des amants. Psyché, qui fait s’envoler son céleste époux, irrité qu’on ait douté de lui, Psyché, qui se réhabilite à force de cruelles épreuves, est la plus adorable image que l’antiquité nous ait tracée, d’un sentiment indiscret et jaloux.</p>
         <p>Les <hi rend="i">Fourberies de Scapin</hi> furent jouées, sur le théâtre du Palais-Royal, le 24 mai 1671. <pb n="80" xml:id="p80"/>Boileau, qui avait tant de rectitude d’esprit, est pourtant tombé dans une grande erreur à l’égard de Molière en écrivant ces vers si connus :</p>
         <quote>
           <l>Dans le sac ridicule où Scapin s’enveloppe.</l>
           <l>Je ne reconnais pas l’auteur du <hi rend="i">Misanthrope.</hi></l>
-       </quote>
+        </quote>
         <p>Il a eu deux fois tort et pour le fond et pour la forme. Les <hi rend="i">Fourberies de Scapin</hi> ne sont pas une farce grossière ; elles contiennent d’excellents traits de comédies, et la preuve que Molière destinait cette pièce aux gens de goût, c’est qu’il a imité beaucoup de passages du <hi rend="i">Phormion</hi> de Térence. Il ne se serait pas donné la peine de faire une étude pareille, et d’offrir en quelque sorte un tableau de la comédie antique, pour complaire uniquement à la foule. S’il ne se rapproche guère dans ce travail du genre du <hi rend="i">Misanthrope</hi>, c’est qu’on ne représente pas un satyre comme un Hercule, et qu’il a suivi les lois de son art.</p>
         <p>Boileau n’a pas même exprimé sa pensée avec sa netteté habituelle ; on dirait que le génie des vers a voulu le punir de son injustice, en lui refusant la clarté et la précision. Ce n’est pas d’abord Scapin qui <hi rend="i">s’enveloppe</hi> dans un sac. C’est Scapin qui enveloppe Géronte, afin de le battre à son aise, et que veut dire ensuite cette phrase : <quote><hi rend="i">Je ne reconnais pas l’auteur du Misanthrope dans le sac où</hi></quote> <quote><hi rend="i">Scapin</hi></quote>… Pour que l’image de Boileau eut quelque justesse, il fallait qu’elle s’appliquât à Molière seul, et que ce fût l’auteur du <hi rend="i">Misanthrope</hi> qui s’enfermât dans le sac.</p>
         <p>L’admirable bon sens de Molière se mêle à toutes les folies de cette pièce, et les domine hautement. Lorsque Scapin cherche à excuser auprès d’Argante le mariage de son fils et dit qu’il a été poussé par sa destinée. Argante répond : <quote><hi rend="i">« Ah ! voici une raison la plus belle du monde. On n’a plus qu’à commettre tous les crimes imaginables, tromper, voler, assassiner</hi>, <pb n="81" xml:id="p81"/><hi rend="i">et dire pour excuse qu’on y a été poussé par sa destinée »</hi></quote> Que répliquerait de mieux Alceste ; cependant Argante est tant soit peu Cassandre. On lui en fait accroire aisément.</p>
@@ -512,24 +509,26 @@
         <p>Telle est Henriette à nos yeux. Ce rôle a beaucoup d’écueil pour les jeunes actrices. Il y faut de la franchise et non de la coquetterie, de la puissance et non de la subtilité. Ce n’est point un rôle secondaire que celui-là. Il domine les autres, même dans la scène où la jeune fille assiste silencieusement à la risible conversation de Trissotin et des pédantes qui se pâment d’aise à ses vers. Ce n’est pas, en un mot, une espiègle qui s’amuse à faire enrager sa sœur après lui avoir enlevé son amant avec malice ; c’est une fille sensée qui se défend par la raillerie, de la mauvaise humeur d’une <pb n="85" xml:id="p85"/>rivale abandonnée, et qui respecte sa mère malgré des travers d’esprit, et son père malgré certaine faiblesse de caractère qu’elle condamne. Henriette, forcée d’être présente à la lecture des œuvres de M. Trissotin, ne doit pas témoigner son dépit avec trop d’humeur, de peur d’être impertinente à l’égard de sa mère , et, d’un autre côté , il faut que le spectateur voie l’ennui qu’elle éprouve, et la profonde pitié qu’elle a pour ces dissertations précieuses. De temps en temps, les choses que l’on dit sont si complètement ridicules, que le sourire effleure les lèvres d’Henriette, mais elle n’ose hausser les épaules, et sa physionomie seule exprime son impatience ou sa moquerie. Songez qu’Henriette est amoureuse et que Clitandre n’est pas là. Le public ordinaire ne prend pas garde peut-être à celte pantomime, parce qu’il est toujours absorbé par le plaisant entretien de Trissotin et des femmes savantes, et qu’il ne s’aperçoit guère de la présence d’Henriette, que lorsque sa mère lui dit :</p>
         <quote>
           <l>Quoi ! sans émotion pendant cette lecture.</l>
-       </quote>
+        </quote>
         <p>Mais les habitués du théâtre savent beaucoup de gré aux actrices qui font ressortir toutes ces nuances.</p>
         <p>Quelques vers, à la fin du troisième acte, prononcés par le vieux Chrysalde dont le bon sens est entaché d’une terreur conjugale si comique, ne manquent jamais de produire sur nous une douce impression. Voici ces vers que nous aimons et que d’autres personnes auront remarqués sans doute aussi. Chrysalde se détermine à faire un coup d’autorité et à marier de lui-même sa fille à Clitandre, il dit à ce dernier:</p>
         <quote>
           <l>Allons, prenez sa main et passez devant nous ;</l>
-          <l>Menez-la dans sa chambre ; ah ! les douces caresses !...</l>
-          <l><pb n="86" xml:id="p86"/>(<hi rend="sc">A Ariste.</hi>)</l>
+          <l>Menez-la dans sa chambre ; ah ! les douces caresses !…</l>
+        	<pb n="86" xml:id="p86"/>
+          <l>(<hi rend="sc">A Ariste.</hi>)</l>
           <l>Venez ; mon cœur s’émeut à toutes ces tendresses;</l>
           <l>Cela ragaillardit tout-à-fait mes vieux jours,</l>
-          <l>Et je me ressouviens de mes jeunes amours....</l>
-       </quote>
+          <l>Et je me ressouviens de mes jeunes amours…</l>
+        </quote>
         <p>Ce retour du vieillard sur les passions de la jeunesse est un de ces mouvements du cœur que le génie seul ne trouverait pas.</p>
         <p><quote>« C’est un grand impertinent que votre Molière avec ses comédies, et je le trouve bien plaisant d’aller jouer d’honnêtes gens comme les médecins. »</quote> Voilà ce que Molière fait dire au malade imaginaire, et le vieil Argan n’a peut-être pas tout-à-fait tort. Il était difficile de pousser l’impertinence plus loin. Après le <hi rend="i">Fagotier</hi> et <hi rend="i">M. de Pourceaugnac</hi>, ces deux pièces où dans l’une on force un homme à être médecin, et dans l’autre on veut qu’un bon vivant soit malade, il ne restait plus qu’à peindre les travers d’un malade imaginaire. L’auteur n’y a pas manqué. Il l’a fait avec des traits profonds; il a buriné ce portrait comme celui de l’avare, mais sans avoir derrière lui cette fois de modèle fourni par l’antiquité. Lorsque Argan s’écrie : <quote><hi rend="i">M. Purgon m’a dit de me promener le matin dans ma chambre douze allées et douze venues ; mais j’ai oublié à lui demander si c’est en long ou en large.</hi></quote>Et lorsqu’il demande<quote> : <hi rend="i">Combien est-ce qu’il faut mettre de grains de sel dans un œuf</hi></quote> ; <hi rend="i"/>Il n’est personne qui ne fasse un retour sur soi-même, et qui ne s’avoue en rougissant, avait été capable de quelque extravagance de la sorte, lorsque la maladie est venue l’éprouver. Molière a attaqué vivement la faiblesse la plus inhérente à l’humanité, l’amour exagéré de la vie, et sa dernière pièce fut l’œuvre la plus philosophique de son génie.</p>
         <p>Ce n’est pas que nous blâmions certes l’attachement à l’existence, mais tout ce qui tend à établir la prééminence du corps sur l’âme, des besoins naturels sur les facultés de l’esprit, mérite d’être énergiquement combattu. Cependant <pb n="87" xml:id="p87"/>Molière nous semble avoir cette fois dépassé le but. Dans la grande scène de Beralde et d’Argan, la médecine est attaquée, non plus par des plaisanteries, mais par des raisonne-mens. Beralde ne demeure pas complètement victorieux ; la médecine, au fond, est une science beaucoup moins problématique que ne le dit Molière ; s’il est louable de ridiculiser l’ignorance de certains médecins, on doit du respect aux connaissances que l’expérience et l’étude ont acquises, et qui permettent d’alléger les souffrances humaines. La médecine, en s’appuyant sur l’anatomie, a fait du reste des progrès immenses, elle est arrivée à un degré de certitude qu’elle n’avait pas du temps de Molière : c’est là ce qu’on peut dire en sa faveur, sans donner trop d’autorité à cet axiome de Descartes : <quote><hi rend="i">Si la lumière arrive un jour aux hommes, c’est de la médecine qu’elle viendra.</hi></quote></p>
         <p>Je ne sais pourquoi le Théâtre-Français semble avoir consacré L<hi rend="i">e Malade imaginaire</hi> à l’anniversaire de Molière, lorsque cette pièce, rappelle au contraire, sa mort, qui en suivit la quatrième représentation. C’est une des plus vraies, mais en même temps une des plus désespérantes du théâtre de ce grand peintre de mœurs. Le spectacle d’une monomanie dans le rôle d’Argan et le tableau des plus mauvais sentiments du cœur humain dans celui de Beliue, arrêtent souvent le rire sur les lèvres, On n’est consolé que par la bienséance parfaite d’Angélique, cette dernière sœur de la Marianne du <hi rend="i">Tartufe.</hi> Le rôle de la petite Louison elle-même, quelqu’espiègle qu’elle soit, déplaît par une dissimulation précoce qui <hi rend="i">fait qu’elle joue à la morte</hi>, si nous pouvons nous exprimer ainsi, avec beaucoup trop de facilité.</p>
         <p>La supercherie inspirée par Toinette au malade imaginaire, ce conseil de faire le mort à l’imitation de la petite Louison, pour éprouver sa femme, nous rappelle un trait de la vieillesse de Lauzun, trait fort comique, rapporté par le duc de Saint-Simon ;</p>
+      	<pb n="88" xml:id="p88"/>
         <quote>
-          <p><pb n="88" xml:id="p88"/>« Un jour qu’on tenait M. de Lauzun fort mal, M.de Biron et sa femme, fille de Nogent, se hasardèrent d’entrer, sur la pointe du pied, et se tinrent derrière ses rideaux hors de sa vue; mais il les aperçut par la glace de sa cheminée, lorsqu’ils se persuadaient n’en être ni vus, ni entendus. Le malade aimait assez M. de Biron, mais point du tout sa femme, qui était pourtant sa nièce, et sa principale héritière. Il la croyait fort intéressée, et toutes ses manies lui étaient insupportables ; il fut choqué de cette entrée subreptice dans sa chambre, et comprit que, impatiente de l’héritage, elle venait pour tâcher de s’assurer, par elle-même, s’il mourrait bientôt. Il voulut l’en faire repentir et s’en divertir d’autant. Le voilà donc qui se prend tout d’un coup à faire tout haut, comme se croyant tout seul, une oraison jaculatoire, à demander pardon à Dieu de sa vie passée, à s’exprimer comme un homme bien persuadé de sa mort prochaine, et qui, dans la douleur où son impatience le met, veut au moins se servir de tous les moyens que Dieu lui a donnés, pour racheter ses péchés et léguer tous ses biens aux hôpitaux, sans aucune réserve; que c’est l’unique voie que Dieu lui laisse pour faire son salut, après une si longue vie passée sans y avoir jamais songé comme il le faut, et remercier Dieu de cette unique ressource qu’il embrasse de tout son cœur. Il accompagne cette prière et cette résolution d’un ton si touché, si persuadé, si déterminé, que M. de Biron et sa femme ne doutèrent pas un moment qu’il n’allât exécuter ce dessein, et qu’il ne fussent privés de toute la succession. »   </p>
+          <p>« Un jour qu’on tenait M. de Lauzun fort mal, M.de Biron et sa femme, fille de Nogent, se hasardèrent d’entrer, sur la pointe du pied, et se tinrent derrière ses rideaux hors de sa vue; mais il les aperçut par la glace de sa cheminée, lorsqu’ils se persuadaient n’en être ni vus, ni entendus. Le malade aimait assez M. de Biron, mais point du tout sa femme, qui était pourtant sa nièce, et sa principale héritière. Il la croyait fort intéressée, et toutes ses manies lui étaient insupportables ; il fut choqué de cette entrée subreptice dans sa chambre, et comprit que, impatiente de l’héritage, elle venait pour tâcher de s’assurer, par elle-même, s’il mourrait bientôt. Il voulut l’en faire repentir et s’en divertir d’autant. Le voilà donc qui se prend tout d’un coup à faire tout haut, comme se croyant tout seul, une oraison jaculatoire, à demander pardon à Dieu de sa vie passée, à s’exprimer comme un homme bien persuadé de sa mort prochaine, et qui, dans la douleur où son impatience le met, veut au moins se servir de tous les moyens que Dieu lui a donnés, pour racheter ses péchés et léguer tous ses biens aux hôpitaux, sans aucune réserve; que c’est l’unique voie que Dieu lui laisse pour faire son salut, après une si longue vie passée sans y avoir jamais songé comme il le faut, et remercier Dieu de cette unique ressource qu’il embrasse de tout son cœur. Il accompagne cette prière et cette résolution d’un ton si touché, si persuadé, si déterminé, que M. de Biron et sa femme ne doutèrent pas un moment qu’il n’allât exécuter ce dessein, et qu’il ne fussent privés de toute la succession. »   </p>
        </quote>
         <p>Quelle excellente scène de comédie ! C’étaient là les auditeurs de Molière ! Le même duc de Lauzun disait, d’un autre côté, à son confesseur, toutes les fois qu’il touchait cette question des legs et des dons pieux: <hi rend="i">parlez-moi latin, mon pire, parlez-moi latin</hi>.</p>
         <p>Tel fut Molière, ce grand censeur des vices de son temps, lui qui sut trouver le ridicule de chaque chose, et s’attacha si <pb n="89" xml:id="p89"/>exactement à la nature, qu’aucun peintre n’en a saisi le caractère avec plus de vérité. Molière mort, les éloges ne tarirent pas, ni les épigrammes non plus. Il avait succombé en représentant le Malade imaginaire, et les petits auteurs, ses rivaux, firent une foule de jeux de mots sur ce qu’ayant voulu jouer la mort, c’était la mort qui l’avait joué. Ses amis le pleurèrent comme homme et comme auteur. Le comédien Brécourt, dans une pièce intitulée l’<hi rend="i">Ombre de Molière</hi>, ou il met le poète comique aux prises avec tous les personnages dont il s’est moqué, a laissé de notre auteur cet honnête portrait : <quote>« Il était dans son particulier ce qu’il paraissait dans la morale de ses pièces : honnête, judicieux, humain, franc, généreux. »</quote> Le père Rapin a fait sur le théâtre moderne une réflexion pleine de justesse, qui prouve la supériorité de Molière sur ses devanciers : <quote>« Les anciens poètes comiques n’ont que des valets pour plaisants de leur théâtre, dit-il ; et les plaisants du théâtre de Molière sont les marquis et les gens de qualités. Les autres n’ont joué dans la comédie que la vie bourgeoise et commune, et Molière a joué Paris et la cour. »</quote></p>
@@ -543,98 +542,66 @@
           <l>De les revoir malgré tous nos efforts :</l>
           <l>Pour un long temps, selon toute apparence,</l>
           <l>Térence et Plaute et Molière sont morts.</l>
-       </quote>
+        </quote>
         <p>Ne sent-on pas là toute l’âme poétique du <hi rend="i">bon homme</hi> ?</p>
         <p>L’archevêque Harlay de Champvalon refusa la sépulture à Molière ; sans cette inique exclusion, l’archevêque Harlay <pb n="90" xml:id="p90"/>de Champvalon aurait été à tout jamais ignoré. Pour avoir porté une main injurieuse sur les restes de Molière, il s’est trouvé immortel lui-même. Voilà un bonheur que ne lui aurait pas valu sa sainteté. Molière ne manqua pas, du reste, des secours de la religion ; il mourut comme on le sait, entre les bras de deux sœurs de la charité, anges qui vinrent s’agenouiller auprès de son fauteuil. Il expira le 17 février 1673.</p>
         <p>Les contemporains de Molière l’ont dépeint comme un homme porté à la mélancolie, et les esprits ordinaires s’étonnent de cette disposition chez un poète comique. Lorsqu’on recueille en soi l’humanité, ainsi que le faisait Molière, et qu’on est allé au fond de toute chose, on ne peut pas avoir la face épanouie de Dancourt, par exemple, dont les ouvrages n’ont été qu’un reflet des modes du jour. Dans le buste de marbre, que possède la galerie du Théâtre-Français, le Sculpteur Houdon a merveilleusement rendu la physionomie de Molière. Ce regard triste et doux, les lignes si pures du visage, cette tête un peu penchée, nous font bien reconnaître l’observateur et l’ami des hommes. C’est bien là ce comédien qui mourut sur son théâtre, parce qu’il voulut être utile à sa troupe jusqu’à ces derniers instants. Le buste de Molière est, sans contredit, par son expression et par le fini de son exécution, un des plus beaux monuments de la sculpture française.</p>
       </div>
       <div>
+      	<pb n="91" xml:id="p91"/>
         <head>Dancourt</head>
-        <p><pb n="91" xml:id="p91"/>Florent Carton Dancourt, ou plutôt d’Ancourt, naquit à Fontainebleau le 1er novembre 1661. Il descendait d’une famille noble dont un des membres avait été honoré en Angleterre de l’ordre delà Jarretière. Le jeune Dancourt fit ses études à Paris, au collège des Jésuites, sous le père La Rue, qui, lui trouvant de la vivacité d’esprit, essaya de l’attacher à sa compagnie; mais l’élève ne montra pas des dispositions religieuses : après sa philosophie, il étudia le droit, et fut reçu avocat. Il avait alors dix-sept ans. L’amour qu’il conçut ensuite pour une comédienne, nommée Thérèse-Lenoir Thorillière, sœur du dernier comédien de ce nom, le brouilla avec sa famille ; et n’ayant plus de ressource que le théâtre, il prit le parti de s’y réfugier, afin d’épouser sa maîtresse. A partir de ce moment, Dancourt devint acteur et auteur, et se <pb n="92" xml:id="p92"/>fit distinguer de la ville et de la cour dans ces deux professions. Il obtint la bienveillance particulière de Louis XIV. On en cite deux traits qui nous paraissent les plus naturels du monde ; mais qui, dans ce temps de royauté divine et de pouvoir absolu, passaient pour des marques d’une faveur insigne. Dancourt avait coutume de lire ses ouvrages au roi, dans le cabinet même de ce haut protecteur, et l’on raconte qu’un jour s’y ôtant trouvé mal, le roi prit lui-même la peine d’aller ouvrir une fenêtre pour lui faire prendre l’air. Une autre fois, le comédien avait l’honneur de parler au roi sur les intérêts de sa troupe, au moment où Sa Majesté sortait de la messe ; comme il marchait à reculons, et qu’un escalier se trouvait derrière lui, le roi eut la bonté de le retenir par le bras en lui disant : Prenez garde, Dancourt, vous allez tomber ! Ces deux traits de <hi rend="i">grandeur d’âme</hi> delà part de Louis XIV ont fait jusqu’ici l’admiration des biographes de Dancourt. Dégoûté du théâtre vers l’année 1718, il le quitta pour se retirer dans sa terre de Courcelles-le-Roi, en Berri, et là il ne s’occupa plus que du soin de son salut. Il composa alors une traduction des psaumes de David et une tragédie sainte. Il mourut le G décembre 1725, et fut enterré dans un tombeau qu’il avait fait construire lui-même au sein de la chapelle de son château.</p>
+        <p>Florent Carton Dancourt, ou plutôt d’Ancourt, naquit à Fontainebleau le 1er novembre 1661. Il descendait d’une famille noble dont un des membres avait été honoré en Angleterre de l’ordre delà Jarretière. Le jeune Dancourt fit ses études à Paris, au collège des Jésuites, sous le père La Rue, qui, lui trouvant de la vivacité d’esprit, essaya de l’attacher à sa compagnie; mais l’élève ne montra pas des dispositions religieuses : après sa philosophie, il étudia le droit, et fut reçu avocat. Il avait alors dix-sept ans. L’amour qu’il conçut ensuite pour une comédienne, nommée Thérèse-Lenoir Thorillière, sœur du dernier comédien de ce nom, le brouilla avec sa famille ; et n’ayant plus de ressource que le théâtre, il prit le parti de s’y réfugier, afin d’épouser sa maîtresse. A partir de ce moment, Dancourt devint acteur et auteur, et se <pb n="92" xml:id="p92"/>fit distinguer de la ville et de la cour dans ces deux professions. Il obtint la bienveillance particulière de Louis XIV. On en cite deux traits qui nous paraissent les plus naturels du monde ; mais qui, dans ce temps de royauté divine et de pouvoir absolu, passaient pour des marques d’une faveur insigne. Dancourt avait coutume de lire ses ouvrages au roi, dans le cabinet même de ce haut protecteur, et l’on raconte qu’un jour s’y ôtant trouvé mal, le roi prit lui-même la peine d’aller ouvrir une fenêtre pour lui faire prendre l’air. Une autre fois, le comédien avait l’honneur de parler au roi sur les intérêts de sa troupe, au moment où Sa Majesté sortait de la messe ; comme il marchait à reculons, et qu’un escalier se trouvait derrière lui, le roi eut la bonté de le retenir par le bras en lui disant : Prenez garde, Dancourt, vous allez tomber ! Ces deux traits de <hi rend="i">grandeur d’âme</hi> delà part de Louis XIV ont fait jusqu’ici l’admiration des biographes de Dancourt. Dégoûté du théâtre vers l’année 1718, il le quitta pour se retirer dans sa terre de Courcelles-le-Roi, en Berri, et là il ne s’occupa plus que du soin de son salut. Il composa alors une traduction des psaumes de David et une tragédie sainte. Il mourut le G décembre 1725, et fut enterré dans un tombeau qu’il avait fait construire lui-même au sein de la chapelle de son château.</p>
         <p>Nous avons recherché d’abord avec soin, dans les œuvres de Dancourt, dont l’édition la plus complète est sous nos yeux, quelques souvenirs de Molière. Nous étions curieux de voir comment ce grand homme avait été apprécié par ses successeurs immédiats, par tous ces capitaines d’Alexandre, qui se partagèrent un héritage trop fort pour chacun d’eux. Dancourt, nous en avons acquis la preuve, connaissait bien toute la distance qui existait entre lui et Molière. Il avait compris la difficulté de l’égaler ; il ne s’est pas servi du même procédé que lui, de peur de rester au-dessous du modèle. C’est par de larges traits empruntés à la nature que le pinceau de Molière <pb n="93" xml:id="p93"/>a composé ses grands tableaux; ne demandez à Dancourt que des portraits de fantaisie. Le premier a fait poser devant lui l’humanité entière, et le second les hommes de son siècle, en prenant un calque fidèle et léger des caprices du jour, des ridicules du moment. Les comédies de Dancourt, indépendamment de leur mérite littéraire, offrent une peinture de mœurs très curieuse à observer. Si l’on veut bien connaître le siècle de XIV, et savoir par quelle pente la France de la Fronde est descendue à celle de la régence, il faut dans la dernière partie du dix-septième siècle, prendre pour guide notre auteur.</p>
         <p>Dans le peu d’années qui séparent Molière de Dancourt, les mœurs avaient prodigieusement changé ! Le luxe et le faste de la cour ayant ruiné un grand nombre de gentilshommes, le sentiment de la noblesse qui avait soutenu la dignité de leurs pères, s’effaçait insensiblement pour faire place au désir de la richesse: les financiers prospéraient, leur règne allait commencer; les bourgeois, enflés d’orgueil, sacrifiaient leurs écus à des alliances par lesquelles ils croyaient relever leur naissance ; la France était peuplée de Georges Dandin. Les marquis, les chevaliers, plus disposés encore que les filles nobles à exploiter ces vanités roturières, dérogeaient sans difficulté pour payer leurs dettes, et faire une certaine figure dans le monde,<hi rend="sup"/>- c’est-à-dire pour jouer au lansquenet et s’habiller galamment. Une foule d’intrigants se parant d’un titre mensonger, spéculaient sur les dispositions, et, selon le langage des comédies du temps, se <hi rend="i">brouillaient avec la justice</hi>, à force de s’être joués de la crédulité et de la sottise publique.</p>
         <p>Tel est le monde de Dancourt ; comme nous sommes loin de celui de Molière ! Alceste, Cléante, Valère, hommes de tant de cœur et d’esprit ! où êtes-vous ? Elmire, Henriette, M<hi rend="sup">me</hi>Jourdain, honnêtes femmes de tant de bons sens, qu’êtes-vous devenues ? la brillante Célimène a disparu elle-même. <pb n="94" xml:id="p94"/>Cette coquetterie spirituelle et décente est remplacée par la galanterie, ou, plus déplorablement encore, par une espèce d’escroquerie pareille à celle des chevaliers. De grandes dames, résistant par calcul, lèvent des impôts sur les empressements de leurs adorateurs; elles <hi rend="i">plument</hi> les gens de robe et de finance, pendant que les gens d’épée vivent aux dépens des bourgeoises.</p>
         <p>Ouvrez la pièce du <hi rend="i">Chevalier à la mode</hi>, la meilleure de Dancourt, intrigue, caractères, style, tout y est parfait ; mais quelles mœurs ! Voici le portrait qu’un des personnages trace du chevalier de Villefontaine, le héros de la pièce. <quote>« C’est un caractère d’homme tout particulier : il a, comme je vous l’ai dit, cinq ou six commerces avec autant de belles, il leur promet tour à tour de les épouser, suivant qu’il a plus ou moins d’affaires d’argent ; l’une a soin de son équipage, l’autre lui fournit de quoi jouer , celle-ci arrête les parties de son tailleur, celle-là paie les meubles de son appartement, et toutes ses maîtresses sont comme autant de femmes qui lui font un gros revenu. »</quote> Le caractère est joli, assurément ? Celui de M<hi rend="sup">me</hi>Patin, la dupe du chevalier, n’est pas moins curieux.</p>
         <p>Madame Patin est une bourgeoise qui souhaite ardemment de se vêtir de quelques oripeaux de noblesse, afin d’avoir droit au respect de la foule et de prendre le haut du pavé, sans qu’on y trouve rien â redire. Il faut voir comme elle est furieuse contre une <hi rend="i">gueuse</hi> de marquise (c’est son expression), qui avec un vieux carrosse traîné par deux chevaux étiques, lui a fait rebrousser chemin, à elle dont le carrosse est doré, dont les chevaux gris-pommelé ont de longues queues, dont le cocher a une barbe retroussée digne du <hi rend="i">cocher de la reine de Saba.</hi> Cela lui paraît intolérable ; aussi soupire-t-elle après le moment où le chevalier de Villefontaine lui donnera le droit de faire dévisager les gens de la marquise par le fouet de son cocher. Que dites-vous de ce naturel de femme ? <pb n="95" xml:id="p95"/>Le jeu faisait l’occupation favorite de cette société dissipée ! beaucoup de maisons ouvraient en quelque sorte des académies, où tout ce qu’il y avait d’extravagants, d’oisifs et de fripons se faisait bien venir. Cette manie prit un caractère si violent, que la police fut obligée de s’en mêler. Un arrêt défendit le lansquement, le jeu en vogue. Dancourt qui se tenait à l’affut des événements comiques du jour, a peint dans une de ses pièces intitulée la <hi rend="i">Désolation des joueuses</hi>, la consternation que firent naître ces règlements qui troublaient un si grand nombre d’existences subsistant par le jeu. La façon dont en parle Dancourt est pleine de gaîté.</p>
-        <label>Eraste </label>
         <quote>
+        	<label>Eraste </label>
           <p>Il est sûr qu’on n’a point fait assez de réflexions sur les inconvénients qui en peuvent arriver. Il faut savoir à combien de choses et à combien de gens le lansquenet était utile.</p>
-       </quote>
-        <label>Clitandre </label>
-        <quote>
+        	<label>Clitandre </label>
           <p>Cela passe l’imagination.</p>
-       </quote>
-        <label>Eraste </label>
-        <quote>
+      	  <label>Eraste </label>
           <p>Une dame recevait-elle un bijou considérable de quelque amant, le mari n’avait rien à dire ; la dame l’avait gagné au lansquenet.</p>
-       </quote>
-        <label>La comtesse</label>
-        <quote>
+        	<label>La comtesse</label>
           <p>Il a raison, cela était commode.</p>
-       </quote>
-        <label>Eraste</label>
-        <quote>
+        	<label>Eraste</label>
           <p>Un fils de famille empruntait à grosses usures, faisant une dépense enragée ; le père ne s’embarrassait pas de cela. Il admirait le bonheur de son fils, et l’utilité du lansquenet.</p>
-       </quote>
-        <label>L’intendante</label>
-        <quote>
+        	<label>L’intendante</label>
           <p>Cela est vrai, madame ; il y a mille gens intéressés dans cette affaire, et il faut représenter toutes ces choses-là.</p>
-       </quote>
-        <label>Eraste </label>
-        <quote>
+        	<label>Eraste </label>
           <p>Moi qui vous parle, moi je suis à présent l’homme du monde le plus embarrassé.</p>
-       </quote>
-        <label>Clitandre</label>
-        <quote>
+        	<label>Clitandre</label>
           <p>Comment donc ? que vous importe à vous que le lansquenet soit défendu ? vous ne jouez quasi-point, non plus que Dorante.</p>
-       </quote>
-        <label><pb n="96" xml:id="p96"/>Eraste  </label>
-        <quote>
+        	<pb n="96" xml:id="p96"/>
+        	<label>Eraste  </label>
           <p>Cela est vrai; mais on croyait que je jouais du moins, et le lansquenet me servait à ménager la réputation de vingt femmes que je considère, et quelques dépenses que je fisse, on en faisait honneur au lansquenet.</p>
-       </quote>
-        <label>La comtesse</label>
-        <quote>
+        	<label>La comtesse</label>
           <p>Hé bien ! voilà vingt femmes perdues de réputation. Madame, on n’a point pensé à cela, assurément.</p>
-       </quote>
+        </quote>
         <p>Cette scène est piquante, et ajoute un trait au tableau des mœurs du temps. Les femmes étaient si joueuses alors, que Dancourt revient souvent sur ce défaut. Dans la <hi rend="i">Femme d’intrigues</hi>, agitant une question renouvelée dernièrement par un spirituel écrivain, à savoir que l’on a exclu injustement les femmes de l’Académie, Dancourt met à leur admission les restrictions suivantes : <quote>« Des femmes à l’Académie ! oh ! oh ! il faudrait donc du moins se garder de leur donner des jetons, car, au lieu de travailler au Dictionnaire, elles joueraient à l’ombre et à la bassette. »</quote></p>
         <p>Il est bien vrai que Molière, dans le rôle de Dorante du <hi rend="i">Bourgeois Gentilhomme</hi>, avait déjà pris le caractère du <hi rend="i">Chevalier à la Mode</hi>, et qu’il avait laissé entrevoir les fils qui dupont leur père et rejettent les frais de leur toilette sur les gains du jeu ; mais à côté de ces personnages équivoques se trouvent les plus honnêtes gens de la terre. Il n’en est pas de môme dans les comédies de Dancourt.</p>
         <p>La pièce des <hi rend="i">Bourgeois à la mode</hi>, une des plus importantes après celle du <hi rend="i">Chevalier</hi>, continue de développer ces caractères peu scrupuleux. Dans cette pièce, on voit deux femmes qui, ne pouvant plus arracher d’argent à leurs époux, choisissent chacune pour caissier le mari l’une de l’autre, et le paient d’espérances trompeuses. Ces deux imbéciles maris, croyant satisfaire les caprices de leurs maîtresses futures, font honneur, sans s’en douter, aux dettes de leurs femmes, qu’ils ne voulaient pas acquitter. Coquettes, galantes, dépensières, glorieuses, telles sont les héroïnes de Dancourt. <quote>« Où allez-vous donc, dit Lisette à Angélique qui sort ? —Je vais dépenser de <pb n="97" xml:id="p97"/>l’argent puisque j’en ai, répond Angélique tout naturellement. —Que fait ordinairement votre chevalier, dit quelqu’un à la marquise de la Gazette, petite comédie très spirituelle ? — Il ne fait rien, monsieur, il vit de ses rentes, répond la marquise. »</quote> Pas plus de mystère que cela ! La marquise est du genre de ces femmes que les enfants de famille, les jolis hommes du temps, appelaient des <hi rend="i">Dames de la Providence</hi>. Toutes les femmes de Dancourt sont taillées sur le patron de ces bourgeoises ou de ces marquises. A toutes on peut appliquer ces jolies paroles d’Angélique dans la <hi rend="i">Folle enchère</hi> : <quote><hi rend="i">Les femmes du monde raisonnent-elles ? Il n’y a que de l’étoile et du caprice dans tout ce qu’elles font.</hi></quote>On n’est pas plus décidé, et l’on ne s’explique pas plus clairement que ces légères personnes. Sont-elles gênées d’un sermoneur incommode ou d’un amant qu’il est urgent de mettre de côté, elles s’écrient franchement avec Henriette, du <hi rend="i">Retour des officiers</hi> : <quote>« Je voudrais qu’il eût quatre pieds d’eau par-dessus la tête. »</quote> Il faut voir comme elles conservent longtemps leurs prétentions à la jeunesse ; n’allez pas dire à M<hi rend="sup">me</hi>Argante qu’elle est sur le retour et qu’elle a un fils, <hi rend="i">coquin de fils de trente-cinq ans</hi>, coquin, justement à cause de son âge. Ecoutez ce qu’elle raconte à Lisette, après avoir vu ce fils avec le petit comte dont elle ambitionne les hommages.</p>
-        <label>Madame Argante</label>
-        <quote>
-          <p>Mon coquin de fils était avec lui.</p>
-       </quote>
-        <label>Lisette.</label>
-        <quote>
-          <p> Quoi ! madame, est-ce qu’ils se connaissent ?</p>
-       </quote>
-        <label>Madame Argante</label>
-        <quote>
-          <p>Je ne crois pas; Eraste aura su que nous nous aimons : il va lui faire cent sots contes de moi.</p>
-       </quote>
-        <label>Lisette</label>
-        <quote>
-          <p>Oh ! madame, il a trop de respect....</p>
-       </quote>
-        <label>Madame Argante</label>
-        <quote>
-          <p>Lui ! du respect ! C’est un petit dénaturé qui ne veut pas que je me marie.</p>
-       </quote>
-        <label>Lisette</label>
-        <quote>
-          <p>Le petit ridicule !</p>
-       </quote>
-        <label>Madame Argante</label>
-        <quote>
-          <p>Il porte exprès des perruques brunes, <pb n="98" xml:id="p98"/>et il dit partout qu’il a trente-cinq ans, pour m’empêcher d’être aussi jeune que je le suis.</p>
-       </quote>
-        <label>Lisette</label>
-        <quote>
-          <p>Le méchant esprit ! il n’en a pas encore vingt, je gage ?</p>
-       </quote>
-        <label>Madame Argante</label>
-        <quote>
-          <p>Assurément, il ne les a pas; et quand je le fis, j’étais si jeune, si jeune, que c’est un miracle que je l’aie fait.</p>
-       </quote>
+      	<quote>
+      		<label>Madame Argante</label>
+      		<p>Mon coquin de fils était avec lui.</p>
+      		<label>Lisette.</label>
+      		<p> Quoi ! madame, est-ce qu’ils se connaissent ?</p>
+      		<label>Madame Argante</label>
+      		<p>Je ne crois pas; Eraste aura su que nous nous aimons : il va lui faire cent sots contes de moi.</p>
+      		<label>Lisette</label>
+      		<p>Oh ! madame, il a trop de respect…</p>
+      		<label>Madame Argante</label>
+      		<p>Lui ! du respect ! C’est un petit dénaturé qui ne veut pas que je me marie.</p>
+      		<label>Lisette</label>
+      		<p>Le petit ridicule !</p>
+      		<label>Madame Argante</label>
+      		<p>Il porte exprès des perruques brunes, <pb n="98" xml:id="p98"/>et il dit partout qu’il a trente-cinq ans, pour m’empêcher d’être aussi jeune que je le suis.</p>
+      		<label>Lisette</label>
+      		<p>Le méchant esprit ! il n’en a pas encore vingt, je gage ?</p>
+      		<label>Madame Argante</label>
+      		<p>Assurément, il ne les a pas; et quand je le fis, j’étais si jeune, si jeune, que c’est un miracle que je l’aie fait.</p>
+      	</quote>
         <p>Voilà bien la femme de cinquante ans.</p>
         <p>On voit qu’il ne manque aucun ridicule à cette honorable compagnie. Vieilles ou jeunes, elles ne vivent que d’intrigues, et, dans la <hi rend="i">Parisienne</hi>, une petite fille que l’on croit innocente se ménage trois amans. Ce sont là les Parisiennes du temps de Dancourt !</p>
         <p>L’<hi rend="i">Eté des Coquettes</hi>, le <hi rend="i">Retour des Officiers</hi>, et quelques autres pièces de Dancourt peignent un côté des mœurs du siècle de Louis XIV. On faisait la guerre tous les étés, et, après la campagne, les officiers rentraient à Paris. Le triomphe des gens de robe et de finance avait lieu l’été, mais il fallait céder le pas aux gens d’épée dès que les feuilles des Tuileries commençaient à tomber. Aux brillants officiers appartenaient les promenades des belles journées d’hiver. Il n’était plus permis à un partisan ni 5 un conseiller de donner le bras à une femme à la mode : elle aurait ôté déshonorée. Les héros qui revenaient de l’armée faisaient la conquête de tous les cœurs. Il n’en restait pas un aux pauvres citadins jusqu’au printemps nouveau, .époque du départ des militaires. Chacun avait sa saison. Les coquettes divisaient leurs amans en galants d’été et galants d’hiver; mais, malgré cette sage précaution, elles s’ennuyaient mortellement pendant la première saison.</p>
@@ -649,219 +616,143 @@
           <l>Quand Molière est assis le premier au Parnasse,</l>
           <l>Je pouvais prendre, un jour, mon rang si près du sien,</l>
           <l>Qu’entre nous deux aucun autre n’eût place.</l>
-       </quote>
+        </quote>
         <p>Lesage s’était déjà glissé entre Molière et Dancourt; et l’auteur du <hi rend="i">Chevalier à la mode</hi>, abandonnant bientôt la partie, n’a pas triomphé de son adversaire : Lesage est resté plus près de Molière que de lui.</p>
         <p>Les robins ne sont pas plus flattés que les traitants, et le vice de la vénalité des charges de la magistrature, que Beaumarchais attaquera plus tard si vigoureusement, est mis à découvert avec beaucoup d’originalité. Le conseiller <hi rend="i">des Baliveaux</hi>, du <hi rend="i">Retour des Officiers</hi>, fait pressentir <hi rend="i">Bridoison.</hi> La justice avait perdu cette antique vénération que son impartialité lui avait obtenue. Elle prêtait l’oreille aux sollicitations. Aussi M<hi rend="sup">me</hi>Patin, en colère, dit-elle à M. Mignaud, son adorateur :</p>
         <p><quote>« En vérité, monsieur, je ne vois pas la raison qui vous oblige, lorsque je vous en prie, de vouloir refuser de donner <pb n="100" xml:id="p100"/>un bon tour à une méchante affaire. Eh ! fi, monsieur ! il semble que vous ayez encore la pudeur d’un jeune conseiller. »</quote><hi rend="i">La pudeur d’un jeune conseiller</hi> est un trait charmant.</p>
         <p>Les valets, personnages si importants de notre vieille comédie, sont tous aussi fripons que leurs maîtres. Ils ont l’esprit subtil, la réplique vive, la main ouverte pour recevoir, et très souvent prompte à se payer elle-même ; il est rare que ces messieurs n’aient pas fait quelque expédition en mer sur les galères du roi par suite d’un malentendu avec la justice. Dans le ricochet des fourberies qui suit le mouvement de ce monde-là, ils attrapent toujours de bonnes aubaines ; ils n’attendent que l’occasion de s’écrier comme le Frontin de Lesage: <hi rend="i">Le règne des Turcaret finit, le nôtre va commencer</hi> !</p>
         <p>Dancourt, dans cette galerie de fripons, ne pouvait pas oublier les charlatans, ces agioteurs de bas étage qui se fondent un revenu sur la niaiserie publique. Dans la <hi rend="i">Loterie</hi>, il a saisi ce caractère avec beaucoup de vigueur. Sbrigani est le type de ces aventuriers qui dupent le public, et que le théâtre a si souvent représentés depuis. Voici en quels termes Sbrigani explique son industrie et en relève les avantages. On va reconnaître la franchise qui caractérise tous les personnages de Dancourt.</p>
-        <label>Lisette </label>
-        <quote>
-          <p>Votre Pétronillo est un hardi fripon, mais je crains les suites.</p>
-       </quote>
-        <label>Sbrigani </label>
-        <quote>
+	      	<quote>
+	      		<label>Lisette </label>
+	          <p>Votre Pétronillo est un hardi fripon, mais je crains les suites.</p>
+	      		<label>Sbrigani </label>
+	      	</quote>
           <p>Bon ! les suites ! je connais mon monde ; va, ne te mets pas en peine. Entre nous, Lisette, partout ailleurs qu’en ce pays-ci, je ne risquerais pas une chose comme celle-là : mais à Paris il n’y a rien à craindre ; ce sont des gens glorieux pour la plupart, qui ne se plaignent jamais d’être dupes, pour éviter la honte de l’avoir été. Les moins attrapés se moqueront de ceux qui le seront davantage ; et ceux qui ne l’auront point été du tout me sauront gré d’avoir dupé les autres.</p>
-       </quote>
         <p>Les Parisiens n’ont pas beaucoup changé depuis ce tableau <pb n="101" xml:id="p101"/>de Dancourt. Ce sont encore les gens qui ne <hi rend="i">se plaignent jamais d’être dupes</hi> ; il est vrai qu’ils le sont si souvent, qu’on ne s’entendrait plus si tout le monde se plaignait. La tranquillité publique serait troublée par ces lamentations, et l’on se croirait transporté avec les Israélites sur les bords des fleuves de Babylone. Leur destinée est d’être dupes, et ils la remplissent avec une conscience digne d’un meilleur sort.</p>
         <p>Comme ce sont les mœurs du temps qu’il nous importe d’étudier, nous continuerons de présenter une esquisse des caractères retracés par Dancourt, au lieu de nous livrer à ces critiques d’analyse qui suivent une première représentation, et dont il n’est pas besoin vis-à-vis d’auteurs placés aux premiers rayons de toutes les bibliothèques.</p>
         <p>Le premier personnage qui tombe sous notre main est un poète envieux du succès des autres, comme il y en a eu de tout temps; c’est la médiocrité jalouse que Molière avait déjà dépeinte sous les traits de Lycidas dans sa délicieuse critique de l’<hi rend="i">Ecole des femmes.</hi></p>
         <p>Le poète de Dancourt ne veut pas qu’on le siffle. Il destine un placet au roi pour faire réformer cet abus : il se nomme M. de la Protasse ; son costume délabré rappelle celui du poète des satires de Régner. La plupart des auteurs qui ne vivaient pas dans la familiarité de la cour étaient pauvres et fort mal vêtus 5 le génie même de Corneille ne sauva pas de la misère l’auteur de tant de chefs-d’œuvre. Ne sait-on pas qu’un chaussetier, assis devant sa boutique et voyant Corneille passer, lui dit un jour sans le connaître : <hi rend="i">Mon brave homme, vous avez un bas troué, voulez-vous que je vous le raccommode</hi> ? Nos poètes, mieux rétribués de leurs œuvres, se font remarquer par leur tenue élégante et recherchée ; ils ne sont guère exposés à de compatissantes mais cruelles observations de la part des chaussetiers. Nous ne leur contestons pas celte supériorité sur Corneille.</p>
         <p>M. de la Protase vient voir M<hi rend="sup">me</hi>Thibault, que Dancourt <pb n="102" xml:id="p102"/>appelle une <hi rend="i">femme d’intrigues</hi>, et qui se môle en effet de toutes sortes d’affaires équivoques. La scène s’engage entre la servante Gabrillon et le poète sifflé ; elle est écrite de ce style vif et franc qui est celui de Dancourt.</p>
-        <label>M. de la Protase </label>
         <quote>
+        	<label>M. de la Protase </label>
           <p>Peut-on voir M<hi rend="sup">me</hi>Thibault ?</p>
-       </quote>
-        <label>Gabrillon </label>
-        <quote>
+        	<label>Gabrillon </label>
           <p>Elle est empêchée.</p>
-       </quote>
-        <label>M. de la Protase</label>
-        <quote>
+        	<label>M. de la Protase</label>
           <p>J’aurais bien voulu lui parler.</p>
-       </quote>
-        <label>Gabrillon</label>
-        <quote>
+        	<label>Gabrillon</label>
           <p>Pour quelque bonne rencontre peut-être ?</p>
-       </quote>
-        <label>M. de la Protase</label>
-        <quote>
+        	<label>M. de la Protase</label>
           <p>Pour qui me prenez-vous ?</p>
-       </quote>
-        <label>Gabrillon </label>
-        <quote>
+        	<label>Gabrillon </label>
           <p>Monsieur !</p>
-       </quote>
-        <label>M. de la Protasse</label>
-        <quote>
+        	<label>M. de la Protasse</label>
           <p>Savez-vous que vous parlez au premier homme du monde pour le dramatique, à un bel esprit, à un auteur du premier ordre !</p>
-       </quote>
-        <label>Gabrillon </label>
-        <quote>
+        	<label>Gabrillon </label>
           <p>Vous êtes un bel esprit, monsieur ! Oh ! je ne m’étonne plus de vous voir si déguenillé : un habit en lambeaux est le juste-au-corps à brevet du Parnasse.</p>
-       </quote>
-        <label>M. de la Protase</label>
-        <quote>
+        	<label>M. de la Protase</label>
           <p>Ce que vous dites-là ne sont pas des vers à la louange de la fortune ; néanmoins, il n’est que trop vrai que c’est assez d’être bel esprit pour être mal avec elle.</p>
-       </quote>
-        <label>Gabrillon</label>
-        <quote>
+        	<label>Gabrillon</label>
           <p>Oh ! sur ce pied-là, il faut que vous soyez plus bel esprit qu’un autre, car il paraît qu’elle vous traite plus mal que pas un. J’ai bien vu des auteurs ; mais tout franc, je n’en ai point encore vu d’aussi mal reliés que vous.</p>
-       </quote>
-        <label>M. de la Protase</label>
-        <quote>
+        	<label>M. de la Protase</label>
           <p>Patience !</p>
-       </quote>
-        <label>Gabrillon </label>
-        <quote>
+        	<label>Gabrillon </label>
           <p>Pourtant, à le bien prendre, il vous en devrait coûter moins qu’à qui que ce soit, car votre taille ne peut passer tout au plus que pour un in-douze.</p>
-       </quote>
-        <label>M. de la Protase </label>
-        <quote>
+        	<label>M. de la Protase </label>
           <p>Laissez faire, si je puis parvenir à mettre sur le théâtre une pièce sans être sifflée, on me verra aussi bien étoffé qu’un autre.</p>
-       </quote>
-        <label><pb n="103" xml:id="p103"/>Gabrillon</label>
-        <quote>
+        	<pb n="103" xml:id="p103"/>
+        	<label>Gabrillon</label>
           <p>Comment, sifflée ?</p>
-       </quote>
-        <label>M. de la Protase</label>
-        <quote>
+        	<label>M. de la Protase</label>
           <p>J’ai ce malheur-là : je fais les meilleures pièces du monde, elles charment tous ceux à qui je les lis; mais à peine ont-elles passé dans la bouche des comédiens, qu’on les siffle à faux bourdon.</p>
-       </quote>
-        <label>Gabrillon</label>
-        <quote>
+        	<label>Gabrillon</label>
           <p>Il y a certaines pièces comme cela que les représentations gâtent. Si j’étais de vous, puisqu’elles réussissent sur le papier, je me ferais apporter un fauteuil, et je les lirais moi-même en plein théâtre.</p>
-       </quote>
-        <label>M. de la Protase </label>
-        <quote>
-          <p>J’ai un bien meilleur expédient que cela.   </p>
-       </quote>
-        <label>Gabrillon</label>
-        <quote>
+        	<label>M. de la Protase </label>
+          <p>J’ai un bien meilleur expédient que cela.</p>
+        	<label>Gabrillon</label>
           <p>Qui est ?</p>
-       </quote>
-        <label>M. de la Protase</label>
-        <quote>
+        	<label>M. de la Protase</label>
           <p>D’aller directement au roi.</p>
-       </quote>
-        <label>Gebrillon </label>
-        <quote>
+        	<label>Gebrillon </label>
           <p>Au roi ?</p>
-       </quote>
-        <label>M. de la Protase</label>
-        <quote>
+        	<label>M. de la Protase</label>
           <p>Oui-dà, au roi ; ce n’est point son intention qu’on siffle personne, et c’est dans cette vue-là que je viens faire un accommodement avec ta maîtresse. Elle connaît toute la cour. Voici un placet : qu’elle le fasse présenter par qui elle voudra, et je lui promets un quart de part dans toutes les pièces qu’on jouera dorénavant de moi, et où l’on ne sifflera pas.</p>
-       </quote>
-        <label>Gabrillon </label>
-        <quote>
+        	<label>Gabrillon </label>
           <p>Voilà pour elle un profit tout clair. Un placet ! pourrait-on en avoir lecture ?</p>
-       </quote>
-        <label>M. de la Protase</label>
-        <quote>
+        	<label>M. de la Protase</label>
           <p>Pourquoi non ? Il n’est fait que pour être lu. Nous verrons, nous verrons, messieurs du parterre, si vous sifflerez à l’avenir les auteurs et les comédiens, comme on siffle les linottes et les perroquets. <hi rend="i">Placet au Roi.</hi> Comme je ne puis faire pour moi que je ne fasse en même temps pour tous les autres poètes mes confrères , j’ai trouvé qu’il était à propos d’adresser mon placet au nom de toute la communauté des auteurs, de Paris s’entend.</p>
-       </quote>
-        <label>Gabrillon </label>
-        <quote>
+        	<label>Gabrillon </label>
           <p>Oh ! c’est l’entendre !</p>
-       </quote>
-        <label><pb n="104" xml:id="p104"/>M. DE LA PROTASE</label>
-        <quote>
+        	<pb n="104" xml:id="p104"/>
+        	<label>M. DE LA PROTASE</label>
           <p>AU ROI.</p>
           <p>« Sire,</p>
           <p>" Les auteurs modernes et dramatiques, tant en vers qu’en prose, de votre bonne ville et faubourgs de Paris, remontrent très humblement à Votre Majesté qu’après avoir sacrifié leurs soins et leurs veilles aux plaisirs du public, leur zèle est tous les jours mal reconnu par certains quidams indiscrets, qui, de dessein prémédité, se transportent journellement aux lieux où les dits auteurs font représenter leurs ouvrages avec des apeaux à perdrix, des sifflets de chaudronniers et autres armes offensives, desquelles ils chargent sans miséricorde tout ce qui ose paraître d’acteurs sur le théâtre, avec tant de fureur, que le comédien le plus intrépide est souvent contraint de lâcher pied et de se retirer le cœur meurtri et tout percé de coups de sifflets. »</p>
-       </quote>
-        <label>Gabrillon</label>
-        <quote>
+        	<label>Gabrillon</label>
           <p>Malpeste ! voilà un style bien concis.</p>
-       </quote>
-        <label>M. de la Protase </label>
-        <quote>
+        	<label>M. de la Protase </label>
           <p>Toutes mes pièces étaient écrites de cette locution-là.</p>
-       </quote>
-        <label>Gabrillon </label>
-        <quote>
+        	<label>Gabrillon </label>
           <p>Et on les sifflait ?</p>
-       </quote>
-        <label>M. de la Protasè </label>
-        <quote>
+        	<label>M. de la Protasè </label>
           <p>Ecoutez, écoutez ceci.</p>
-          <p>« Ah ! Sire, souffrirez-vous que le théâtre, qui est le symbole de la joie, devienne celui de la douleur ! Je ne doute point, Sire, que les ennemis de la science représentent à Votre Majesté que nous exigeons d’elle une chose impossible ; c’est qu’il est naturel au parterre de siffler, comme à  nous de parler. Je n’ignore pas plus qu’eux, Sire, que Pline le naturaliste, dans son <hi rend="i">Traité des Animaux</hi>, au chapitre du mouvement vocal, dit que l’homme parle, que le » cerf brame, que le lion rugit, que le taureau beugle, que le cheval hennit, que l’âne brait et que le parterre siffle : je sais dire tout cela comme eux, Sire ; mais Votre Majesté <pb n="105" xml:id="p105"/>fait tous les jours des choses si incroyables, que nous » osons espérer... etc. »    .</p>
-       </quote>
-        <label>Gabrillon </label>
-        <quote>
+          <p>« Ah ! Sire, souffrirez-vous que le théâtre, qui est le symbole de la joie, devienne celui de la douleur ! Je ne doute point, Sire, que les ennemis de la science représentent à Votre Majesté que nous exigeons d’elle une chose impossible ; c’est qu’il est naturel au parterre de siffler, comme à  nous de parler. Je n’ignore pas plus qu’eux, Sire, que Pline le naturaliste, dans son <hi rend="i">Traité des Animaux</hi>, au chapitre du mouvement vocal, dit que l’homme parle, que le » cerf brame, que le lion rugit, que le taureau beugle, que le cheval hennit, que l’âne brait et que le parterre siffle : je sais dire tout cela comme eux, Sire ; mais Votre Majesté <pb n="105" xml:id="p105"/>fait tous les jours des choses si incroyables, que nous » osons espérer… etc. ».</p>
+        	<label>Gabrillon </label>
           <p>Oh ! pour le coup, voilà les siffleurs pris pour dupe et les marchands de sifflets ruinés.</p>
-       </quote>
+        </quote>
         <p>Il faut l’avouer, un changement notable s’est opéré dans la nature du parterre. Autrefois il sifflait ; actuellement il s’enroue de bravos, et pourtant Dieu sait que bien souvent on lui donne belle matière pour déployer dans tout son éclat cette qualité organique, qu’au dire de M. de la Protase les naturalistes lui ont reconnu. A mesure que la valeur des pièces a diminué on s’est étudié à perfectionner le succès ; nous ne savons trop à la rigueur s’il existe encore un parterre. Une première représentation est d’ordinaire une fête de famille, à laquelle le petit nombre d’étrangers qui y sont admis auraient mauvaise grâce de trouver quelque chose à redire. A la grande satisfaction des Protases nouveaux, le public siffleur a disparu du théâtre ; cette vieille maladie du parterre, comme la lèpre, ne défigure pas la civilisation de notre époque : s’il arrive qu’un intrus se glisse dans le parterre et manifeste à l’ancienne façon quelque mécontentement, on se croit en droit de le chasser d’une salle bien composée ; on le jette à la porte sans façon, ainsi qu’un homme de mauvaise compagnie. On lui inculpe quelquefois, même à coups de poings, les principes nouveaux de la littérature.</p>
         <p>Le caractère de femme d’intrigue, sans être passé de mode, n’a plus autant d’importance que du temps de Dancourt. Les femmes avaient alors une grande influence sur les affaires du gouvernement, comme dans tout état qui repose sur l’arbitraire, et non sur des règles invariables, sur la hiérarchie des droits. On retrouve à chaque instant, chez notre auteur, des preuves de cette puissance secrète des femmes, laquelle fit plus tard la haute et scandaleuse fortune de M<hi rend="sup">me</hi>de Pompadour et de M<hi rend="sup">me</hi>Dubarry.</p>
-        <p><pb n="106" xml:id="p106"/>Ecoutez parler <hi rend="i">Maugrebleu</hi>ce mauvais sujet de dragon des <hi rend="i">Vacances</hi> : <quote>« Il n’est, morbleu, rien de tel pour faire fortune que le canal des femmes ; et combien de grands officiers seraient très subalternes s’ils n’avaient eu de jolies sœurs et de jolies cousines ! »</quote></p>
+      	<pb n="106" xml:id="p106"/>
+      	<p>Écoutez parler <hi rend="i">Maugrebleu</hi>ce mauvais sujet de dragon des <hi rend="i">Vacances</hi> : <quote>« Il n’est, morbleu, rien de tel pour faire fortune que le canal des femmes ; et combien de grands officiers seraient très subalternes s’ils n’avaient eu de jolies sœurs et de jolies cousines ! »</quote></p>
         <p>Cette autorité des femmes, qui se manifesta sans pudeur dans le courant du dix-huitième siècle, était le fruit des galanteries de Louis XIV. En vain le vieux roi chercha à revenir sur les licences de sa jeunesse eu cachant ses dernières amours avec M<hi rend="sup">me</hi>de Maintenon. Son hypocrisie religieuse n’arrêta pas les progrès du vice. Jetez un lambeau de pourpre sur un cadavre, vous n’empêcherez pas la corruption. Il en était ainsi de cette vieille société. La contagion des mœurs répandit dans l’air des émanations si malfaisantes, qu’il fallut la foudre et l’orage delà fin du 18<hi rend="sup">e</hi> siècle pour épurer le ciel.</p>
         <p>Nous avons vu Dancourt aux prises avec les grandes dames insolentes, les bourgeoises vaniteuses, les chevaliers fripons, les jeunes officiers galants et les coquettes légères. Toujours il a tracé heureusement les figures qu’il a voulu dessiner. Son esprit mobile était comme un miroir où la société se reproduisait sous toutes ses faces. Il est un monde qu’il a peint de main de maître, et dont nous n’avons pas encore parlé. Personne n’a su prêter aux paysans un langage plus vrai, et n’a mieux caractérisé cette finesse mêlée de bon sens qui perce sous une enveloppe grossière. Il affectionnait particulièrement cette étude dans laquelle il réussissait si bien ; mais les gens de la <hi rend="i">cour</hi> ne lui pardonnaient pas de si basses inclinations. La <hi rend="i">ville</hi> seule riait de ses naïfs et spirituels tableaux. Dancourt, imitant encore cette fois Molière, s’est défendu dans le prologue des <hi rend="i">Trois cousines</hi>, contre les critiques qu’on lui adressait. Cette scène est piquante ; elle a lieu entre un baron, un chevalier et deux aimables dames, dans une loge du théâtre, en attendant la représentation des <hi rend="i">Trois cousines.</hi> Dancourt lui-même est sur le tapis.</p>
-        <label><pb n="107" xml:id="p107"/>Bélinde</label>
+      	<pb n="107" xml:id="p107"/>
         <quote>
-          <p>Vous le voyez souvent, monsieur le chevalier ?</p>
-       </quote>
-        <label>Le chevalier </label>
-        <quote>
-          <p>Si je le vois, madame ? je travaille avec lui. Quand il a quelque ivrogne à mettre, c’est ordinairement moi qui sert de modèle. Oh ! ce garçon-là copie bien d’après nature. Il a besoin, dans une pièce qu’il fait, d’un caractère de nigaud, de fat, d’imbécile ; je veux lui donner ta connaissance, baron, cela lui fera plaisir, sur ma parole : il a peine à trouver de nouveaux caractères.</p>
-       </quote>
-        <label>Ménone</label>
-        <quote>
+        	<label>Bélinde</label>
+	      	<p>Vous le voyez souvent, monsieur le chevalier ?</p>
+	      	<label>Le chevalier </label>
+	      	<p>Si je le vois, madame ? je travaille avec lui. Quand il a quelque ivrogne à mettre, c’est ordinairement moi qui sert de modèle. Oh ! ce garçon-là copie bien d’après nature. Il a besoin, dans une pièce qu’il fait, d’un caractère de nigaud, de fat, d’imbécile ; je veux lui donner ta connaissance, baron, cela lui fera plaisir, sur ma parole : il a peine à trouver de nouveaux caractères.</p>
+        	<label>Ménone</label>
           <p>hé ! le moyen qu’il n’en ait pas ? c’est un homme qui ne lit jamais, à ce qu’on dit.</p>
-       </quote>
-        <label>Le Chevalier</label>
-        <quote>
+        	<label>Le Chevalier</label>
           <p>Oh ! pour cela ce n’est pas sa faute, il n’a pas le temps ; nous sommes toujours à table : et puis, pour les bagatelles qu’il fait, dit-il, il n’a besoin que du livre du monde : il y sait lire, il le connaît, il pille là-dedans comme tous les diables.</p>
-       </quote>
-        <label>LE BARON</label>
-        <quote>
+        	<label>LE BARON</label>
           <p>Qu’il fasse donc voir quelque chose de nouveau, et qu’il ne tourne pas autour de lui-même comme sur un pivot. Toujours des procureurs, des bourgeoises ridicules, des nigauds, des paysans, des meuniers, des meunières ; cet homme-là est né pour le moulin, il ne peut le quitter.</p>
-       </quote>
-        <label>Le Chevalier</label>
-        <quote>
+       	 	<label>Le Chevalier</label>
           <p>Oh ! parbleu, M. de Fonscq, je vous y prends; vous êtes un rude joueur, c’est vous qui avez fait le quatrain qui court contre lui.</p>
-       </quote>
-        <label>Le baron </label>
-        <quote>
+       	 	<label>Le baron </label>
           <p>Moi ! point du tout.</p>
-       </quote>
-        <label>Le chevalier</label>
-        <quote>
+        	<label>Le chevalier</label>
           <p>Oh ! si fait, si fait, vous êtes modeste, ne vous en défendez pas. Ce quatrain-là n’est pas trop mauvais : il ferait déshonneur à tout autre ; mais il est joli pour vous, je vous en réponds.</p>
-       </quote>
-        <label>MENONE</label>
-        <quote>
+        	<label>MENONE</label>
           <p>Hé ! que dites-vous de ce quatrain, monsieur le chevalier ?</p>
-       </quote>
-        <label>Le chevalier </label>
-        <quote>
+        	<label>Le chevalier </label>
           <p>Le voici, madame, je l’ai dans ma poche ; car dans ma mémoire, je ferais scrupule de l’y mettre.</p>
-          <l><pb n="108" xml:id="p108"/>Le public est fou, Dieu me damne,</l>
-          <l>De trouver à l’auteur un esprit drôle et fin,</l>
-          <l>Ce n’est qu’un ignorant, je le garantis âne,</l>
-          <l>Puisqu’il est toujours au moulin.</l>
+        	<pb n="108" xml:id="p108"/>
+          <lg>
+          	<l>Le public est fou, Dieu me damne,</l>
+	          <l>De trouver à l’auteur un esprit drôle et fin,</l>
+	          <l>Ce n’est qu’un ignorant, je le garantis âne,</l>
+	          <l>Puisqu’il est toujours au moulin.</l>
+          </lg>
           <p><hi rend="i">Un esprit drôle et fin</hi> ! Cela est bien écrit au moins, mesdames. Et que dites-vous de la chute, elle est piquante, n’est-ce pas ?</p>
-       </quote>
-        <label>Belinde </label>
-        <quote>
+        	<label>Belinde </label>
           <p>Ah ! toute charmante, toute amoureuse. <hi rend="i">Je le garantis âne</hi>, la jolie tournure de phrase ! la jolie tournure de phrase !</p>
-       </quote>
-        <label>Ménone </label>
-        <quote>
+        	<label>Ménone </label>
           <p>Elle est vive, je l’avoue. Et que dit le pauvre auteur de ce quatrain-là ? Il est bien fâché ?</p>
-       </quote>
-        <label>Le chevalier </label>
-        <quote>
+        	<label>Le chevalier </label>
           <p>Lui, point du tout; il s’en moque, il s’en divertit.</p>
-       </quote>
+        </quote>
         <p>Ce sont les jolies pièces <hi rend="i">le Moulin de Javelle, le Mari retrouvé</hi>, les <hi rend="i">Vendanges</hi>, et surtout les <hi rend="i">Trois Cousines</hi>, qui avaient attiré à Dancourt ces lourdes railleries dont il se divertissait. Il n’en continua pas moins à animer la scène de ces heureuses et comiques créations de paysans madrés ; enfin il dut fermer la bouche à ses détracteurs par la composition du <hi rend="i">Galant Jardinier</hi>, Tune des plus charmantes pièces, petit chef-d’œuvre de grâce et de fraîcheur, qui ressemble presque aux jolis proverbes de M. Alfred de Musset.</p>
         <p>Cette pièce est fondée sur le déguisement d’un amant en jardinier, et Destouches, dans la <hi rend="i">Fausse Agnès</hi>, paraît avoir emprunté ce ressort à Dancourt ; une scène plaisante de bégaiemens a peut-être fourni aussi à Beaumarchais l’idée de son Bridoison. Deux personnages affligés du même embarras de prononciation se rencontrent, sans se connaître, et chacun d’eux se figurant que son interlocuteur se moque de lui, ils finissent par entrer dans une grande colère, jusqu’à ce qu’une <pb n="109" xml:id="p109"/>certaine Marton, malicieuse fille ait l’obligeance de leur apprendre qu’ils n’ont de reproche à faire qu’à la nature.</p>
         <p>On ne joue plus guère de Dancourt que <hi rend="i">le Chevalier à la Mode</hi> (encore ne le joue-t-on pas souvent) ; et pourtant comme ses jolies pièces égaieraient, en le variant, le répertoire du Théâtre-Français ! <hi rend="i">Les Bourgeoises à la Mode, le Galant Jardinier, la Parisienne, l’Été des Coquettes, les Fêtes du Cours, le Vert Galant, la Maison de Campagne</hi>, renferment des traits charmants; toutes ont un sujet comique vivement développé.</p>
         <p>Nous avons remarqué dans <hi rend="i">les Fêtes du Cours</hi> une intrigue de bal masqué conduite avec beaucoup de charme et de naturel. Quoiqu’on ait prodigué, depuis quelques années, les scènes de ce genre, celles de Dancourt sont remplies de tant de grâce, qu’elles offriraient à coup sûr un attrait nouveau. Nous trouvons là, du moins, ce qui est rare chez notre auteur, un amant honnête, et qui ne peut être accusé que d’inconséquence du cœur. Cet amant se fait du reste son procès à lui-même dans un monologue charmant. Voici sa confession : <quote>« Je n’ai jamais fait de partie dont je me sois promis si peu déplaisir que celle-ci. Je suis vraiment amoureux de Célide sans être fort sûr d’en être aimé. J’ai à combattre un homme riche, aimable, Damon, qu’elle estime et qui mérite d’être heureux, et dans cette situation, je fais une partie au Cours avec des coquettes de profession qui m’aiment peu, que je n’estime guère. Pourquoi le fais-je ? si j’en sais rien que la peste m’étouffe ! Sottise de jeune homme ; air ridicule de bonne fortune ; pure impertinence ; envie de donner matière à parler. On parlera; je chagrinerai Célide; j’enragerai : il faudra des éclaircissements. L’agréable amusement que je me fais-là ! Ma foi, à commencer de compter par moi-même, la plupart des jeunes gens d’aujourd’hui sont de ridicules personnages. »</quote></p>
         <p>Qui ne s’est pas dit cela plusieurs fois ? qui ne s’est trouvé dans ces positions où l’ennui, l’étourderie, la dissipation, <pb n="110" xml:id="p110"/>entraînent à des démarches qu’une voix secrète condamne au fond de la conscience ! Dans ces bals masqués, dans ces fêtes tournoyantes, où les yeux des femmes brillent d’un éclat si vif à travers leurs meurtrières de velours ou de satin, qui n’a cherché, comme Clitandre, des regards aimés, et ne s’est attristé de rencontrer à chaque pas la coquetterie à la place de l’amour.</p>
         <p>La petite pièce du <hi rend="i">Vert Galant</hi>, que nos modernes vaudevillistes ont oubliée, est très amusante, et elle indique un point délicat dans les mœurs du temps. C’était chez les baigneuses qu’on allait en bonne fortune. Les rendez-vous se donnaient dans leurs discrets établissements. M. Tarif, que son voisin, M. Jérôme, surprend chez lui faisant la cour à sa femme, tout pimpant et tout coquet, prétend, à l’arrivée du mari, qu’il va chez le baigneur voisin, implorer les faveurs d’une autre dame ; mais M. Jérôme, qui sait à quoi s’en tenir, ne le lâche pas ainsi. Au mot de baigneur, il lui vient une idée bizarre. Comme il est teinturier de son état, et qu’il dispose de cuves d’eau de toutes les couleurs, il fait plonger M. Tarif dans une préparation du plus beau vert, et le malheureux en ressort avec trois couches de peinture sur la peau. C’est ainsi qu’on lui épargne les frais du baigneur.</p>
-        <p>La <hi rend="i">Maison de Campagne</hi> retrace d’une manière originale les désagréments de demeurer aux environs de Paris, et d’être exposé aux visites continuelles de ses amis. Le pauvre M. Bernard est si fatigué de ces descentes quotidiennes qu’on fait chez lui, qu’il prend parti, pour éviter cette ruineuse compagnie, d’incruster une vieille épée toute rouillée et entourée de lierre au-dessus de la porte de sa maison de campagne, et de griffonner au-dessus de cet emblème, avec un gros charbon : <quote><hi rend="i">À l’Épée royale, bon logis à pied et à cheval.....</hi></quote></p>
+        <p>La <hi rend="i">Maison de Campagne</hi> retrace d’une manière originale les désagréments de demeurer aux environs de Paris, et d’être exposé aux visites continuelles de ses amis. Le pauvre M. Bernard est si fatigué de ces descentes quotidiennes qu’on fait chez lui, qu’il prend parti, pour éviter cette ruineuse compagnie, d’incruster une vieille épée toute rouillée et entourée de lierre au-dessus de la porte de sa maison de campagne, et de griffonner au-dessus de cet emblème, avec un gros charbon : <quote><hi rend="i">À l’Épée royale, bon logis à pied et à cheval…</hi></quote></p>
         <p>M. Bernard pense qu’on regardera deux fois avant d’entrer dans une auberge de si belle apparence, où l’on ne peut manquer de payer fort cher.</p>
-        <p><pb n="111" xml:id="p111"/>On sait que le <hi rend="i">Mari retrouvé</hi> est fondé sur le procès d’un certain Lapivardière qui, s’étant mystérieusement éloigne de sa femme, afin de vivre avec une autre, apprit que la première était soupçonnée de l’avoir fait périr, et reparut pour la relever de ce crime, mais sans que la justice voulût d’abord reconnaître son identité.</p>
+      	<pb n="111" xml:id="p111"/>
+        <p>On sait que le <hi rend="i">Mari retrouvé</hi> est fondé sur le procès d’un certain Lapivardière qui, s’étant mystérieusement éloigne de sa femme, afin de vivre avec une autre, apprit que la première était soupçonnée de l’avoir fait périr, et reparut pour la relever de ce crime, mais sans que la justice voulût d’abord reconnaître son identité.</p>
         <p>Les <hi rend="i">Vendanges</hi> et l’<hi rend="i">Impromptu de Suresne</hi> semblent essayer de prouver l’excellence du vin de Suresne. Il se peut que ce vin fût alors très agréable au goût, mais nous pouvons affirmer qu’il a singulièrement dégénéré.</p>
         <p>Bien que Dancourt ait sacrifié les robins, les financiers, les bourgeois, aux officiers et aux gentilshommes, on trouve en cent endroits de ses pièces les preuves de la décadence de la noblesse. L’aristocratie de l’or commençait à poindre ; elle préludait par l’intrigue, qui en est la base. Dans le <hi rend="i">Prix de l’Arquebuse</hi>, Dorante dit à son ami Bracassaks : <quote>« Et tu songes à donner ta sœur, une demoiselle de la maison de Bracassaks, à un homme de fortune, à un prévôt de petite ville ? Quelle mésalliance ! Pour nous autres Parisiens, encore passe ; mais un gentilhomme de la Garonne ! »</quote>Dans les <hi rend="i">Curieux de Compiègne</hi>, petite comédie faite pour apprendre aux bourgeois à ne pas visiter le camp, et pour prouver la suprématie de l’armée, on rencontre ce trait excellent : <quote>« Le père est un fripon, mais la fille est un bon parti. Ces sortes de mariages ne sont pas sans exemple. »</quote> Je laisse le lecteur à décider si un pareil exemple est encore suivi, et si ce bel axiome a cours dans le dix-neuvième siècle.</p>
         <p>La poésie n’est pas le côté fort de Dancourt, et ses pièces en vers, ainsi que ses poèmes lyriques, ne valent guère la peine d’être lus. N’offrant aucune critique de mœurs, ils sont pour nous sans intérêt. L’auteur y attachait une grande importance ; il fondait sur elles l’espérance de sa réputation à venir : cependant il n’a vécu que pour les pièces qu’il regardait comme des bagatelles. Beaucoup d’auteurs se trompent <pb n="112" xml:id="p112"/>ainsi sur la vocation de leur talent, et parviennent à la postérité, presque sans s’en douter, par des chemins de traverse.</p>

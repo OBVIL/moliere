@@ -36,7 +36,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><author>Louis-Simon Auger</author>, <title>Œuvres de Molière, avec un commentaire, un discours préliminaire et des notes, par M. Auger, de l’Académie françoise</title>, t. <biblScope unit="volume">III</biblScope>, <pubPlace>Paris</pubPlace>, <publisher>T. Désoer</publisher>, Paris, 1819, p. <biblScope unit="page">164-173</biblScope>, <biblScope unit="volume">247-253</biblScope>, <biblScope unit="page">311-328</biblScope>, <biblScope unit="page">329-337</biblScope>, <biblScope unit="page">407</biblScope>, <biblScope unit="page">418-422</biblScope>. Graphies modernisées. Source : <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k5512629n">Gallica</ref>.</bibl>
+        <bibl><author>Louis-Simon Auger</author>, <title>Œuvres de Molière, avec un commentaire, un discours préliminaire et des notes, par M. Auger, de l’Académie françoise</title>, t. <biblScope unit="volume">III</biblScope>, <pubPlace>Paris</pubPlace>, <publisher>T. Désoer</publisher>, <date>1819</date>, pp. <biblScope unit="page">164-173</biblScope>, <biblScope unit="volume">247-253</biblScope>, <biblScope unit="page">311-328</biblScope>, <biblScope unit="page">329-337</biblScope>, <biblScope unit="page">407</biblScope>, <biblScope unit="page">418-422</biblScope>. Source : <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k5512629n">Gallica</ref>.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
