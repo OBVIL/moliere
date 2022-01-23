@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml">
+<?xml-model href="http://oeuvres.github.io/teinte/teinte.rng" type="application/xml">
 <?xml-model href="../anecdotes/anecdotes.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
@@ -8,7 +8,7 @@
     <fileDesc>
       <titleStmt>
         <title>Deux pièces inédites de J.-B. P. Molière [<hi rend="i">La Jalousie du Barbouillé, Le Médecin volant</hi>]</title>
-        <author key="" ref="" ref="">Anonyme</author>
+        <author>Anonyme</author>
       </titleStmt>
       <editionStmt>
         <edition>OBVIL</edition>
